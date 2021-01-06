@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECK01026113.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-25   93.9   2.9   4.7e-16   64.1   0.1   3.8   2   1   0   3   3   3   3 TSA: Rhodnius prolixus Rpro_Trinity_comp_19238_c0_seq1 transcribed RNA sequence
+GECK01028249.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-22   83.5   0.6     4e-21   80.4   0.1   2.6   3   0   0   3   3   3   1 TSA: Rhodnius prolixus Rpro_Trinity_comp_20455_c0_seq1 transcribed RNA sequence
+GECK01107300.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-15   62.1   0.0   1.6e-14   59.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Rhodnius prolixus Rpro_Trinity_comp_7475_c0_seq1 transcribed RNA sequence
+GECK01101795.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.11   18.0   0.8      0.11   18.0   0.8   1.6   1   1   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_69735_c0_seq1 transcribed RNA sequence
+GECK01097046.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.17   17.4   0.3      0.18   17.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_645495_c0_seq1 transcribed RNA sequence
+GECK01090611.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.31   16.6   0.0   1.5e+02    8.0   0.0   2.2   1   1   1   2   2   2   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_603580_c0_seq1 transcribed RNA sequence
+GECK01097147.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.43   16.1   0.3       7.6   12.1   0.1   2.1   2   0   0   2   2   2   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_646338_c0_seq1 transcribed RNA sequence
+GECK01090794.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.52   15.9   0.4      0.71   15.4   0.4   1.1   1   0   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_604590_c0_seq1 transcribed RNA sequence
+GECK01121744.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.6   14.3   0.1       1.9   14.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_917003_c0_seq1 transcribed RNA sequence
+GECK01050860.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.5   13.7   2.3       9.4   11.8   1.1   2.6   2   0   0   2   2   2   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_335896_c0_seq1 transcribed RNA sequence
+GECK01058798.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.6   2.2         3   13.4   2.2   1.1   1   0   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_389652_c0_seq1 transcribed RNA sequence
+GECK01005334.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.1   1.0   6.2e+02    6.0   0.0   2.9   2   0   0   2   2   2   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_107992_c0_seq1 transcribed RNA sequence
+GECK01107195.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.3   12.9   0.1       4.6   12.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_746829_c0_seq1 transcribed RNA sequence
+GECK01105461.1_1     -          oskar_filtered.aligned.LOTUS_domain -                7.7   12.1   2.9       9.8   11.8   2.5   1.5   1   1   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_734866_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:33 2019
+# [ok]

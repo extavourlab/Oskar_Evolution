@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYB02007252.1_1     -          LOTUS_CONSENSUS      -              4e-14   56.1   1.7     2e-12   50.7   0.0   3.5   3   2   1   4   4   4   1 TSA: Zygaena fausta C121379_a_13_0_l_1981 transcribed RNA sequence
+GAYB02020035.1_5     -          LOTUS_CONSENSUS      -            1.8e-11   47.6   0.0   2.3e-11   47.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Zygaena fausta C84065_a_3_0_l_433 transcribed RNA sequence
+GAYB02006043.1_4     -          LOTUS_CONSENSUS      -                0.1   16.3   0.4        86    6.9   0.1   2.9   2   0   0   2   2   2   0 TSA: Zygaena fausta C117833_a_23_0_l_1463 transcribed RNA sequence
+GAYB02014267.1_6     -          LOTUS_CONSENSUS      -               0.59   13.9   0.4      0.74   13.6   0.4   1.3   1   0   0   1   1   1   0 TSA: Zygaena fausta C66087_a_13_0_l_284 transcribed RNA sequence
+GAYB02028795.1_3     -          LOTUS_CONSENSUS      -                  1   13.1   0.2       3.5   11.4   0.2   1.9   1   0   0   1   1   1   0 TSA: Zygaena fausta s4116_L_5181_0_a_7_3_l_604 transcribed RNA sequence
+GAYB02020354.1_6     -          LOTUS_CONSENSUS      -                1.8   12.3   0.0       2.4   11.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Zygaena fausta C85021_a_6_0_l_442 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYB02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:49 2019
+# [ok]

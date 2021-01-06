@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAVX02008547.1_2     -          OSK_CONSENSUS        -            6.8e-26   94.5   0.0   9.2e-26   94.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Timema cristinae C125729_a_3_0_l_716 transcribed RNA sequence
+GAVX02039020.1_6     -          OSK_CONSENSUS        -            1.1e-22   84.1   0.1   1.4e-22   83.7   0.1   1.1   1   0   0   1   1   1   1 TSA: Timema cristinae s6988_L_25954_0_a_5_3_l_730 transcribed RNA sequence
+GAVX02023737.1_3     -          OSK_CONSENSUS        -            4.7e-06   30.0   0.0   4.7e-06   30.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Timema cristinae C74430_a_4_0_l_250 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVX02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAVX02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVX02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:41 2019
+# [ok]

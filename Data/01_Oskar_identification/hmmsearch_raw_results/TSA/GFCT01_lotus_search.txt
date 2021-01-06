@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFCT01034190.1_3     -          LOTUS_CONSENSUS      -            5.1e-14   56.2   2.1   1.1e-12   51.9   0.0   3.2   3   0   0   3   3   3   1 TSA: Mythimna separata c22490_g1 transcribed RNA sequence
+GFCT01034584.1_3     -          LOTUS_CONSENSUS      -              0.013   19.6   0.0     0.022   18.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Mythimna separata c15488_g1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFCT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFCT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFCT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:04 2019
+# [ok]

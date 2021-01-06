@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXS01042221.1_1     -          LOTUS_CONSENSUS      -            9.4e-13   52.9   0.0   1.4e-12   52.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Mesovelia mulsanti breed wildtype C610077_5_0, transcribed RNA sequence
+GCXS01008863.1_1     -          LOTUS_CONSENSUS      -            4.2e-12   50.8   0.0   4.4e-12   50.8   0.0   1.0   1   0   0   1   1   1   1 TSA: Mesovelia mulsanti breed wildtype C471265_3_0, transcribed RNA sequence
+GCXS01079797.1_3     -          LOTUS_CONSENSUS      -            7.6e-11   46.8   0.0   1.2e-10   46.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Mesovelia mulsanti breed wildtype s9897_L_14178_0_14_2_LINEAR, transcribed RNA sequence
+GCXS01044713.1_1     -          LOTUS_CONSENSUS      -            7.1e-07   34.1   0.9      0.14   17.0   0.0   2.8   3   0   0   3   3   3   2 TSA: Mesovelia mulsanti breed wildtype C624218_5_0, transcribed RNA sequence
+GCXS01063777.1_2     -          LOTUS_CONSENSUS      -               0.23   16.4   0.0   5.6e+02    5.5   0.0   4.1   3   1   0   3   3   3   0 TSA: Mesovelia mulsanti breed wildtype s2521_L_2878_0_27_2_COMPLEX, transcribed RNA sequence
+GCXS01063799.1_2     -          LOTUS_CONSENSUS      -               0.23   16.4   0.0   5.6e+02    5.5   0.0   4.1   3   1   0   3   3   3   0 TSA: Mesovelia mulsanti breed wildtype s2523_L_2878_2_27_1_COMPLEX, transcribed RNA sequence
+GCXS01063810.1_2     -          LOTUS_CONSENSUS      -               0.29   16.1   0.0   5.9e+02    5.5   0.0   4.1   3   1   0   3   3   3   0 TSA: Mesovelia mulsanti breed wildtype s2524_L_2878_3_26_7_COMPLEX, transcribed RNA sequence
+GCXS01063788.1_2     -          LOTUS_CONSENSUS      -               0.32   15.9   0.0   6.1e+02    5.4   0.0   4.0   3   1   0   3   3   3   0 TSA: Mesovelia mulsanti breed wildtype s2522_L_2878_1_27_7_COMPLEX, transcribed RNA sequence
+GCXS01055895.1_1     -          LOTUS_CONSENSUS      -                3.7   12.5   1.8        15   10.6   0.5   2.3   2   0   0   2   2   2   0 TSA: Mesovelia mulsanti breed wildtype s18099_L_33157_0_5_7_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:14 2019
+# [ok]

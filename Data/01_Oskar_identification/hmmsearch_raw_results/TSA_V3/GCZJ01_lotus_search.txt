@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZJ01055303.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.4e-17   66.1   7.8   1.9e-11   48.3   0.2   4.7   3   1   1   4   4   4   2 TSA: Unaspis euonymi breed wildtype s6474_L_24148_1_14_1_BUBBLE, transcribed RNA sequence
+GCZJ01055302.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-17   66.1   7.9   1.8e-11   48.3   0.2   4.6   3   1   1   4   4   4   2 TSA: Unaspis euonymi breed wildtype s6473_L_24148_0_14_2_BUBBLE, transcribed RNA sequence
+GCZJ01040975.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-16   64.9   0.1   3.6e-16   63.4   0.1   1.8   1   0   0   1   1   1   1 TSA: Unaspis euonymi breed wildtype C258478_17_0, transcribed RNA sequence
+GCZJ01040089.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-15   60.6   0.0   5.8e-15   59.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Unaspis euonymi breed wildtype C254720_20_0, transcribed RNA sequence
+GCZJ01040854.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-14   57.4   0.2   1.1e-10   45.8   0.0   3.0   2   0   0   2   2   2   2 TSA: Unaspis euonymi breed wildtype C257946_8_0, transcribed RNA sequence
+GCZJ01040608.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.2e-13   52.8   0.7   1.5e-06   32.5   0.1   4.0   3   0   0   3   3   3   3 TSA: Unaspis euonymi breed wildtype C256932_7_0, transcribed RNA sequence
+GCZJ01030670.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-09   40.8   0.1   7.1e-09   40.0   0.1   1.4   1   0   0   1   1   1   1 TSA: Unaspis euonymi breed wildtype C212590_3_0, transcribed RNA sequence
+GCZJ01049929.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-07   36.2   0.1    0.0034   21.8   0.0   3.9   2   1   1   3   3   3   2 TSA: Unaspis euonymi breed wildtype s17404_L_80894_0_8_9_LINEAR, transcribed RNA sequence
+GCZJ01056810.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00022   25.6   0.0        54    8.3   0.0   5.4   3   1   1   5   5   5   1 TSA: Unaspis euonymi breed wildtype s7841_L_30358_1_24_2_COMPLEX, transcribed RNA sequence
+GCZJ01056809.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00047   24.5   0.0        63    8.1   0.0   5.3   3   1   1   5   5   5   1 TSA: Unaspis euonymi breed wildtype s7840_L_30358_0_22_4_COMPLEX, transcribed RNA sequence
+GCZJ01056811.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00094   23.6   0.0        66    8.0   0.0   4.8   2   1   1   4   4   4   1 TSA: Unaspis euonymi breed wildtype s7842_L_30358_2_21_8_COMPLEX, transcribed RNA sequence
+GCZJ01049689.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.016   19.6   0.9       1.5   13.3   0.1   3.1   2   0   0   2   2   2   0 TSA: Unaspis euonymi breed wildtype s17187_L_79143_0_32_2_LINEAR, transcribed RNA sequence
+GCZJ01030838.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.47   14.9   0.0      0.82   14.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Unaspis euonymi breed wildtype C213266_6_0, transcribed RNA sequence
+GCZJ01039245.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.7   0.1       1.1   13.7   0.1   2.2   2   0   0   2   2   1   0 TSA: Unaspis euonymi breed wildtype C251156_9_0, transcribed RNA sequence
+GCZJ01029952.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.5   0.2       2.5   12.6   0.2   1.4   1   0   0   1   1   1   0 TSA: Unaspis euonymi breed wildtype C209740_4_0, transcribed RNA sequence
+GCZJ01008517.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.3   0.5   1.3e+02    7.1   0.2   2.0   1   1   1   2   2   2   0 TSA: Unaspis euonymi breed wildtype C140593_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:30 2019
+# [ok]

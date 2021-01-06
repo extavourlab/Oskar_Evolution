@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWU01038470.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-18   69.6   0.4   3.8e-12   50.2   0.0   3.5   3   0   0   3   3   3   2 TSA: Aclerda sp. AD-2014 breed wildtype s18037_L_58371_0_35_7_LINEAR, transcribed RNA sequence
+GCWU01031703.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-17   68.0   0.1     3e-17   66.6   0.1   1.7   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s11941_L_30682_0_64_3_COMPLEX, transcribed RNA sequence
+GCWU01031704.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-17   67.9   0.1   3.2e-17   66.5   0.1   1.7   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s11942_L_30682_1_63_2_COMPLEX, transcribed RNA sequence
+GCWU01028977.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-07   33.0   3.3   1.8e-06   32.0   0.1   3.1   3   1   0   3   3   3   1 TSA: Aclerda sp. AD-2014 breed wildtype C260534_31_0, transcribed RNA sequence
+GCWU01029900.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.6e-07   32.9   0.0       2.9   12.1   0.0   5.7   3   1   3   6   6   6   2 TSA: Aclerda sp. AD-2014 breed wildtype s10320_L_24626_0_23_7_LINEAR, transcribed RNA sequence
+GCWU01020382.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.19   15.9   0.7        48    8.2   0.1   2.1   1   1   1   2   2   2   0 TSA: Aclerda sp. AD-2014 breed wildtype C208648_2_0, transcribed RNA sequence
+GCWU01015581.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.2   0.5        37    8.5   0.1   2.0   2   0   0   2   2   2   0 TSA: Aclerda sp. AD-2014 breed wildtype C189534_9_0, transcribed RNA sequence
+GCWU01012717.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.4   0.0       2.6   12.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype C178988_4_0, transcribed RNA sequence
+GCWU01030146.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  7   10.9   6.2   1.8e+02    6.3   1.8   3.2   2   1   0   2   2   2   0 TSA: Aclerda sp. AD-2014 breed wildtype s10542_L_25465_0_11_1_FORK, transcribed RNA sequence
+GCWU01030147.1_1     -          oskar_filtered.aligned.LOTUS_domain -                9.4   10.5   6.0   2.1e+02    6.1   1.8   3.1   2   1   0   2   2   2   0 TSA: Aclerda sp. AD-2014 breed wildtype s10543_L_25465_1_13_0_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:36 2019
+# [ok]

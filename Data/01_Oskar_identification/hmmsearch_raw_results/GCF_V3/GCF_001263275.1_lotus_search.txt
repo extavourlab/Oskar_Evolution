@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017789323.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-19   69.4  11.2     1e-15   57.3   0.3   4.5   4   0   0   4   4   4   2 PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC108571723 [Habropoda laboriosa]
+XP_017790243.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-14   52.0   0.0     2e-13   49.9   0.0   2.2   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Habropoda laboriosa]
+XP_017788035.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00037   20.2   0.2         1    9.1   0.1   5.4   5   1   1   6   6   6   1 PREDICTED: meiosis arrest female protein 1 [Habropoda laboriosa]
+XP_017792245.1       -          oskar_filtered.aligned.LOTUS_domain -               0.18   11.6   7.0       3.6    7.4   2.0   2.6   1   1   1   2   2   2   0 PREDICTED: uncharacterized protein LOC108574222 [Habropoda laboriosa]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263275.1_ASM126327v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001263275.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263275.1_ASM126327v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:47 2019
+# [ok]

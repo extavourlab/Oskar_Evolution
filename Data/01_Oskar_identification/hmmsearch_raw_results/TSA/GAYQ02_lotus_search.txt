@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYQ02032773.1_1     -          LOTUS_CONSENSUS      -            7.9e-17   65.3   0.0   2.1e-16   63.9   0.0   1.8   1   0   0   1   1   1   1 TSA: Forficula auricularia C192605_a_4_0_l_1029 transcribed RNA sequence
+GAYQ02028866.1_5     -          LOTUS_CONSENSUS      -            5.1e-14   56.2   0.3   4.6e-13   53.2   0.1   2.0   2   0   0   2   2   2   1 TSA: Forficula auricularia C181024_a_3_0_l_672 transcribed RNA sequence
+GAYQ02043785.1_4     -          LOTUS_CONSENSUS      -            8.2e-12   49.2   1.0   8.2e-12   49.2   1.0   2.3   2   0   0   2   2   2   1 TSA: Forficula auricularia s6280_L_12165_0_a_8_6_l_1958 transcribed RNA sequence
+GAYQ02009275.1_2     -          LOTUS_CONSENSUS      -            0.00064   23.9   0.1   0.00069   23.8   0.1   1.1   1   0   0   1   1   1   1 TSA: Forficula auricularia C124536_a_4_0_l_254 transcribed RNA sequence
+GAYQ02037722.1_2     -          LOTUS_CONSENSUS      -                1.8   12.8   0.6         4   11.7   0.6   1.5   1   0   0   1   1   1   0 TSA: Forficula auricularia s10320_L_46059_0_a_19_0_l_1557 transcribed RNA sequence
+GAYQ02027910.1_3     -          LOTUS_CONSENSUS      -                1.9   12.7   0.6       3.5   11.9   0.6   1.4   1   0   0   1   1   1   0 TSA: Forficula auricularia C178234_a_10_0_l_622 transcribed RNA sequence
+GAYQ02023955.1_3     -          LOTUS_CONSENSUS      -                6.7   11.0   3.8        10   10.4   3.8   1.6   1   1   0   1   1   1   0 TSA: Forficula auricularia C166649_a_33_0_l_478 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYQ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYQ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYQ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:34 2019
+# [ok]

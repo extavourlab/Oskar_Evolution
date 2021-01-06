@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTN01017775.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-30  108.4   0.1   3.3e-30  107.1   0.1   1.7   1   0   0   1   1   1   1 TSA: Gymnomerus laevipes s3997_L_6263_0_a_59_2_l_3170 transcribed RNA sequence
+GBTN01017776.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-30  107.6   0.1   5.1e-30  106.5   0.1   1.6   1   0   0   1   1   1   1 TSA: Gymnomerus laevipes s3998_L_6263_1_a_54_4_l_4469 transcribed RNA sequence
+GBTN01015093.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-20   76.2   3.3     2e-19   72.5   0.0   4.0   5   0   0   5   5   5   1 TSA: Gymnomerus laevipes s1555_L_1889_0_a_15_7_l_3477 transcribed RNA sequence
+GBTN01015094.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-20   75.5   3.7   2.1e-19   72.4   0.0   4.0   5   0   0   5   5   5   1 TSA: Gymnomerus laevipes s1556_L_1889_1_a_17_3_l_3696 transcribed RNA sequence
+GBTN01008049.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   54.1   0.0   1.9e-13   53.3   0.0   1.4   1   0   0   1   1   1   1 TSA: Gymnomerus laevipes C60313_a_14_0_l_591 transcribed RNA sequence
+GBTN01021400.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-07   33.6   0.0      0.69   13.0   0.0   6.1   2   1   3   5   5   5   1 TSA: Gymnomerus laevipes s7272_L_21488_0_a_21_3_l_4271 transcribed RNA sequence
+GBTN01020337.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.028   17.4   0.2      0.12   15.5   0.2   2.1   1   0   0   1   1   1   0 TSA: Gymnomerus laevipes s6313_L_15120_1_a_8_4_l_1872 transcribed RNA sequence
+GBTN01020336.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.033   17.2   0.2     0.086   15.9   0.2   1.7   1   0   0   1   1   1   0 TSA: Gymnomerus laevipes s6312_L_15120_0_a_6_4_l_1565 transcribed RNA sequence
+GBTN01008977.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.1   15.6   0.1        24    8.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Gymnomerus laevipes C64245_a_3_0_l_703 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:26 2019
+# [ok]

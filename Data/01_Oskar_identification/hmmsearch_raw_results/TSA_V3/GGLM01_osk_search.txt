@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGLM01010356.1_6     -          oskar_filtered.aligned.OSK_domain -            2.1e-64  220.2   0.9   3.5e-64  219.5   0.9   1.4   1   0   0   1   1   1   1 TSA: Haematobia irritans Females_1_(paired)_contig_10398 transcribed RNA sequence
+GGLM01035307.1_6     -          oskar_filtered.aligned.OSK_domain -               0.54   13.5   1.1      0.59   13.4   1.1   1.1   1   0   0   1   1   1   0 TSA: Haematobia irritans CON_MALE_contig_7893 transcribed RNA sequence
+GGLM01009199.1_6     -          oskar_filtered.aligned.OSK_domain -                1.1   12.5   0.1       1.8   11.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Haematobia irritans Perm_DSN_contig_308 transcribed RNA sequence
+GGLM01020374.1_3     -          oskar_filtered.aligned.OSK_domain -                1.2   12.3   0.1         3   11.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Haematobia irritans Females_1_(paired)_contig_4116 transcribed RNA sequence
+GGLM01000350.1_3     -          oskar_filtered.aligned.OSK_domain -                1.4   12.1   0.6       2.4   11.4   0.1   1.7   2   0   0   2   2   2   0 TSA: Haematobia irritans PermPBO_1_(paired)_contig_1327 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGLM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:49 2019
+# [ok]

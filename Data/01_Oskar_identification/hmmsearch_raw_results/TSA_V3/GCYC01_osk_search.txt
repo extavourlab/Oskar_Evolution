@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYC01033846.1_1     -          oskar_filtered.aligned.OSK_domain -               0.12   16.7   0.3      0.16   16.3   0.3   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C843318_2_0, transcribed RNA sequence
+GCYC01076569.1_6     -          oskar_filtered.aligned.OSK_domain -               0.13   16.7   4.5      0.13   16.7   4.5   1.8   2   1   0   2   2   2   0 TSA: Pachypsylla celtidismamma breed wildtype s39427_L_99706_0_2_8_LINEAR, transcribed RNA sequence
+GCYC01071030.1_6     -          oskar_filtered.aligned.OSK_domain -               0.19   16.1   0.3       0.3   15.5   0.3   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype s3443_L_2830_0_7_4_LINEAR, transcribed RNA sequence
+GCYC01036988.1_5     -          oskar_filtered.aligned.OSK_domain -               0.37   15.2   0.4      0.46   14.9   0.4   1.2   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C859090_3_0, transcribed RNA sequence
+GCYC01075903.1_6     -          oskar_filtered.aligned.OSK_domain -               0.45   14.9   0.1      0.77   14.1   0.1   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype s38828_L_95212_0_3_7_LINEAR, transcribed RNA sequence
+GCYC01003162.1_4     -          oskar_filtered.aligned.OSK_domain -               0.79   14.1   0.1      0.95   13.8   0.1   1.0   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C708764_2_0, transcribed RNA sequence
+GCYC01003690.1_5     -          oskar_filtered.aligned.OSK_domain -                2.2   12.7   1.1       2.2   12.6   1.1   1.0   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C710936_3_0, transcribed RNA sequence
+GCYC01023278.1_6     -          oskar_filtered.aligned.OSK_domain -                2.7   12.3   0.0       2.9   12.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C793570_28_0, transcribed RNA sequence
+GCYC01039200.1_5     -          oskar_filtered.aligned.OSK_domain -                4.8   11.5   2.3       3.9   11.8   0.4   1.8   2   1   0   2   2   2   0 TSA: Pachypsylla celtidismamma breed wildtype C872184_10_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:34 2019
+# [ok]

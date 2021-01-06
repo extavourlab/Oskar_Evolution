@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCKB01013806.1_1     -          LOTUS_CONSENSUS      -            5.6e-22   81.6   0.0     1e-21   80.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Aethina tumida AtumUni_13810 transcribed RNA sequence
+GCKB01007909.1_3     -          LOTUS_CONSENSUS      -            2.3e-16   63.6   0.0   4.6e-16   62.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Aethina tumida AtumUni_7911 transcribed RNA sequence
+GCKB01022911.1_6     -          LOTUS_CONSENSUS      -              5e-16   62.5   0.0   6.4e-16   62.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Aethina tumida AtumUni_22920 transcribed RNA sequence
+GCKB01006908.1_3     -          LOTUS_CONSENSUS      -             0.0096   19.9   0.0       1.3   13.1   0.0   2.4   2   0   0   2   2   2   1 TSA: Aethina tumida AtumUni_6910 transcribed RNA sequence
+GCKB01021227.1_2     -          LOTUS_CONSENSUS      -               0.14   16.2   1.9       0.3   15.1   0.9   1.8   1   1   0   1   1   1   0 TSA: Aethina tumida AtumUni_21234 transcribed RNA sequence
+GCKB01011100.1_6     -          LOTUS_CONSENSUS      -               0.24   15.5   0.0      0.46   14.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Aethina tumida AtumUni_11102 transcribed RNA sequence
+GCKB01023481.1_5     -          LOTUS_CONSENSUS      -               0.28   15.2   0.5      0.47   14.5   0.5   1.4   1   0   0   1   1   1   0 TSA: Aethina tumida AtumUni_23490 transcribed RNA sequence
+GCKB01010287.1_4     -          LOTUS_CONSENSUS      -               0.49   14.5   1.2      0.72   13.9   0.2   1.8   2   0   0   2   2   2   0 TSA: Aethina tumida AtumUni_10289 transcribed RNA sequence
+GCKB01024470.1_1     -          LOTUS_CONSENSUS      -                1.2   13.3   0.3       2.6   12.2   0.0   1.8   1   1   1   2   2   2   0 TSA: Aethina tumida AtumUni_24480 transcribed RNA sequence
+GCKB01032236.1_1     -          LOTUS_CONSENSUS      -                1.7   12.7   1.4       5.9   11.0   1.4   1.7   1   1   0   1   1   1   0 TSA: Aethina tumida AtumUni_32250 transcribed RNA sequence
+GCKB01008751.1_2     -          LOTUS_CONSENSUS      -                2.6   12.2   0.0       6.1   10.9   0.0   1.7   2   0   0   2   2   2   0 TSA: Aethina tumida AtumUni_8753 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCKB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCKB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCKB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:54 2019
+# [ok]

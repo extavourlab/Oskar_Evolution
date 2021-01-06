@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012229836.1       -          OSK_CONSENSUS        -            1.3e-62  210.4   0.3   2.6e-62  209.4   0.3   1.5   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC105676478 [Linepithema humile]
+XP_012222897.1       -          OSK_CONSENSUS        -              0.033   14.1   0.9      0.11   12.4   0.1   2.2   2   1   0   2   2   2   0 PREDICTED: stAR-related lipid transfer protein 9-like [Linepithema humile]
+XP_012226989.1       -          OSK_CONSENSUS        -              0.043   13.7   1.4      0.38   10.7   0.4   2.6   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X4 [Linepithema humile]
+XP_012226988.1       -          OSK_CONSENSUS        -              0.048   13.6   1.4       0.4   10.6   0.4   2.6   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X3 [Linepithema humile]
+XP_012226986.1       -          OSK_CONSENSUS        -              0.057   13.3   1.4      0.44   10.4   0.4   2.6   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Linepithema humile]
+XP_012220087.1       -          OSK_CONSENSUS        -               0.12   12.3   0.2      0.24   11.3   0.2   1.5   1   0   0   1   1   1   0 PREDICTED: venom serine protease 34-like, partial [Linepithema humile]
+XP_012226987.1       -          OSK_CONSENSUS        -               0.12   12.3   1.0      0.41   10.5   0.4   2.2   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X2 [Linepithema humile]
+XP_012223494.1       -          OSK_CONSENSUS        -               0.49   10.3   1.5       5.6    6.9   0.8   2.6   2   1   1   3   3   3   0 PREDICTED: MAGUK p55 subfamily member 7 isoform X9 [Linepithema humile]
+XP_012223493.1       -          OSK_CONSENSUS        -               0.52   10.2   1.5       5.7    6.8   0.8   2.6   2   1   1   3   3   3   0 PREDICTED: MAGUK p55 subfamily member 7 isoform X8 [Linepithema humile]
+XP_012223491.1       -          OSK_CONSENSUS        -               0.52   10.2   1.5       5.7    6.8   0.8   2.6   2   1   1   3   3   3   0 PREDICTED: MAGUK p55 subfamily member 7 isoform X7 [Linepithema humile]
+XP_012223490.1       -          OSK_CONSENSUS        -               0.53   10.2   1.5       5.8    6.8   0.8   2.6   2   1   1   3   3   3   0 PREDICTED: MAGUK p55 subfamily member 7 isoform X6 [Linepithema humile]
+XP_012223489.1       -          OSK_CONSENSUS        -               0.53   10.2   1.5       5.8    6.8   0.8   2.6   2   1   1   3   3   3   0 PREDICTED: MAGUK p55 subfamily member 7 isoform X5 [Linepithema humile]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000217595.1_Lhum_UMD_V04_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000217595.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000217595.1_Lhum_UMD_V04_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:01 2019
+# [ok]

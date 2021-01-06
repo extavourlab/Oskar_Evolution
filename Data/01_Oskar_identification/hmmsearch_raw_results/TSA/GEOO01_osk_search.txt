@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOO01009169.1_3     -          OSK_CONSENSUS        -              0.045   17.7   0.5       8.6   10.2   0.1   2.2   2   0   0   2   2   2   0 TSA: Phymatopus californicus comp12048_c0_seq1 transcribed RNA sequence
+GEOO01043467.1_5     -          OSK_CONSENSUS        -               0.79   13.6   0.1         1   13.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Phymatopus californicus comp367951_c0_seq1 transcribed RNA sequence
+GEOO01046981.1_3     -          OSK_CONSENSUS        -               0.84   13.5   0.2      0.96   13.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Phymatopus californicus comp464981_c0_seq1 transcribed RNA sequence
+GEOO01002184.1_1     -          OSK_CONSENSUS        -                2.4   12.1   0.6       3.7   11.4   0.6   1.4   1   1   0   1   1   1   0 TSA: Phymatopus californicus comp3277_c0_seq1 transcribed RNA sequence
+GEOO01040987.1_4     -          OSK_CONSENSUS        -                2.5   12.0   0.1       2.8   11.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Phymatopus californicus comp289080_c0_seq1 transcribed RNA sequence
+GEOO01057179.1_2     -          OSK_CONSENSUS        -                2.6   11.9   0.5       2.8   11.8   0.5   1.0   1   0   0   1   1   1   0 TSA: Phymatopus californicus comp870867_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:50 2019
+# [ok]

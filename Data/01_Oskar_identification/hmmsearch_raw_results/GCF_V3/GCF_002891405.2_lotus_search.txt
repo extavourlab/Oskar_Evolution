@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023708786.1       -          oskar_filtered.aligned.LOTUS_domain -            4.2e-23   82.1   0.0   5.2e-15   56.1   0.0   4.7   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X3 [Cryptotermes secundus]
+XP_023708785.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-23   82.0   0.0   5.3e-15   56.1   0.0   4.7   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X2 [Cryptotermes secundus]
+XP_023708782.1       -          oskar_filtered.aligned.LOTUS_domain -            4.8e-23   81.9   0.0   5.4e-15   56.1   0.0   4.7   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X1 [Cryptotermes secundus]
+XP_023708783.1       -          oskar_filtered.aligned.LOTUS_domain -            4.8e-23   81.9   0.0   5.4e-15   56.1   0.0   4.7   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X1 [Cryptotermes secundus]
+XP_023708784.1       -          oskar_filtered.aligned.LOTUS_domain -            4.8e-23   81.9   0.0   5.4e-15   56.1   0.0   4.7   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X1 [Cryptotermes secundus]
+XP_023711986.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-23   81.5   0.4   2.8e-21   76.2   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like [Cryptotermes secundus]
+XP_023712452.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   32.1   0.0      0.28   12.1   0.0   5.2   2   1   2   4   4   4   2 meiosis regulator and mRNA stability factor 1 isoform X6 [Cryptotermes secundus]
+XP_023712451.1       -          oskar_filtered.aligned.LOTUS_domain -            4.8e-07   30.5   0.0      0.36   11.7   0.0   5.1   2   1   2   4   4   4   2 meiosis regulator and mRNA stability factor 1 isoform X5 [Cryptotermes secundus]
+XP_023712450.1       -          oskar_filtered.aligned.LOTUS_domain -              5e-07   30.5   0.0      0.36   11.7   0.0   5.1   2   1   2   4   4   4   2 meiosis regulator and mRNA stability factor 1 isoform X4 [Cryptotermes secundus]
+XP_023712447.1       -          oskar_filtered.aligned.LOTUS_domain -            5.1e-07   30.5   0.0      0.36   11.7   0.0   5.1   2   1   2   4   4   4   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Cryptotermes secundus]
+XP_023712446.1       -          oskar_filtered.aligned.LOTUS_domain -            5.1e-07   30.5   0.0      0.36   11.7   0.0   5.1   2   1   2   4   4   4   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Cryptotermes secundus]
+XP_023712448.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-06   27.7   0.0      0.36   11.7   0.0   5.1   2   1   3   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Cryptotermes secundus]
+XP_023713321.1       -          oskar_filtered.aligned.LOTUS_domain -               0.14   13.0   1.6       2.6    8.9   0.0   2.9   1   1   2   3   3   3   0 uncharacterized protein LOC111867566 [Cryptotermes secundus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002891405.2_Csec_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002891405.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002891405.2_Csec_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:41 2019
+# [ok]

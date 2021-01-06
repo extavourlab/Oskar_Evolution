@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002000116.2       -          LOTUS_CONSENSUS      -            1.3e-27   96.1   0.8   2.9e-26   91.8   0.0   3.3   3   0   0   3   3   3   1 uncharacterized protein Dmoj_GI10055 [Drosophila mojavensis]
+XP_002005579.2       -          LOTUS_CONSENSUS      -            5.2e-11   42.9   0.0   2.7e-10   40.6   0.0   2.3   2   0   0   2   2   2   1 uncharacterized protein Dmoj_GI18993 [Drosophila mojavensis]
+XP_002006015.2       -          LOTUS_CONSENSUS      -            2.7e-10   40.6   0.0   7.2e-10   39.2   0.0   1.8   1   0   0   1   1   1   1 uncharacterized protein Dmoj_GI20795, isoform A [Drosophila mojavensis]
+XP_015019607.1       -          LOTUS_CONSENSUS      -            2.7e-10   40.6   0.0   7.2e-10   39.2   0.0   1.8   1   0   0   1   1   1   1 uncharacterized protein Dmoj_GI20795, isoform B [Drosophila mojavensis]
+XP_015019609.1       -          LOTUS_CONSENSUS      -            3.9e-10   40.1   0.0   9.6e-10   38.8   0.0   1.7   1   0   0   1   1   1   1 uncharacterized protein Dmoj_GI20795, isoform D [Drosophila mojavensis]
+XP_002003687.1       -          LOTUS_CONSENSUS      -            0.00022   21.7   0.0   0.00025   21.5   0.0   1.1   1   0   0   1   1   1   1 uncharacterized protein Dmoj_GI18049 [Drosophila mojavensis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005175.2_dmoj_caf1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005175.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005175.2_dmoj_caf1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:39 2019
+# [ok]

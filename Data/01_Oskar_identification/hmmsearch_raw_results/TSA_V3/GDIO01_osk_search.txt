@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDIO01021066.1_3     -          oskar_filtered.aligned.OSK_domain -            2.8e-28  102.9   0.2   3.7e-28  102.5   0.2   1.2   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis Unigene19088_All transcribed RNA sequence
+GDIO01018063.1_3     -          oskar_filtered.aligned.OSK_domain -               0.78   13.4   0.0      0.95   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene16385_All transcribed RNA sequence
+GDIO01013552.1_3     -          oskar_filtered.aligned.OSK_domain -               0.79   13.4   0.2       1.8   12.2   0.1   1.5   1   1   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene12323_All transcribed RNA sequence
+GDIO01003208.1_2     -          oskar_filtered.aligned.OSK_domain -                2.3   11.8   7.8       2.6   11.7   5.8   1.8   2   1   0   2   2   2   0 TSA: Locusta migratoria manilensis CL2170.Contig1_All transcribed RNA sequence
+GDIO01003209.1_2     -          oskar_filtered.aligned.OSK_domain -                6.8   10.3   8.9        10    9.7   7.8   1.5   1   1   0   1   1   1   0 TSA: Locusta migratoria manilensis CL2170.Contig2_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDIO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDIO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDIO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:37 2019
+# [ok]

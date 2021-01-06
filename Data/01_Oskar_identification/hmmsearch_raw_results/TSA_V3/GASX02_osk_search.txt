@@ -1,0 +1,15 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASX02000699.1_3     -          oskar_filtered.aligned.OSK_domain -             0.0032   20.9   0.5    0.0043   20.5   0.5   1.3   1   0   0   1   1   1   1 TSA: Folsomia candida C101893_a_14_0_l_1055 transcribed RNA sequence
+GASX02010085.1_5     -          oskar_filtered.aligned.OSK_domain -                1.9   11.8   0.8       2.7   11.3   0.1   1.6   2   0   0   2   2   2   0 TSA: Folsomia candida C35792_a_8_0_l_228 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GASX02.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GASX02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GASX02.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:33 2019
+# [ok]

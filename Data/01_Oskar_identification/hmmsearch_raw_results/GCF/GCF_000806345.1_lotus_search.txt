@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011188082.1       -          LOTUS_CONSENSUS      -            6.2e-26   91.0   1.7   2.7e-24   85.8   0.0   3.9   5   0   0   5   5   5   1 maternal effect protein oskar [Zeugodacus cucurbitae]
+XP_011192994.1       -          LOTUS_CONSENSUS      -            3.8e-17   62.8   0.5   3.3e-16   59.8   0.0   2.9   3   0   0   3   3   3   1 uncharacterized protein LOC105218853 [Zeugodacus cucurbitae]
+XP_011179383.1       -          LOTUS_CONSENSUS      -            3.2e-10   40.6   0.2   1.9e-09   38.2   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_011179384.1       -          LOTUS_CONSENSUS      -            3.2e-10   40.6   0.2   1.9e-09   38.2   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_028894956.1       -          LOTUS_CONSENSUS      -            3.2e-10   40.6   0.2   1.9e-09   38.2   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_028894957.1       -          LOTUS_CONSENSUS      -            3.2e-10   40.6   0.2   1.9e-09   38.2   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_028894959.1       -          LOTUS_CONSENSUS      -            3.2e-10   40.6   0.2   1.9e-09   38.2   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_011193569.1       -          LOTUS_CONSENSUS      -              0.077   13.8   0.0     0.092   13.5   0.0   1.1   1   0   0   1   1   1   0 uncharacterized protein LOC105219256 [Zeugodacus cucurbitae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000806345.1_ASM80634v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000806345.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000806345.1_ASM80634v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:52 2019
+# [ok]

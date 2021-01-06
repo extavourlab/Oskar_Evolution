@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPJ01033044.1_6     -          oskar_filtered.aligned.OSK_domain -            7.1e-24   88.6   0.0   1.3e-23   87.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Xya variegata breed wildtype C189461_a_22_0_l_1520, transcribed RNA sequence
+GCPJ01055157.1_1     -          oskar_filtered.aligned.OSK_domain -            1.1e-22   84.8   0.3   1.1e-22   84.8   0.3   1.7   2   0   0   2   2   2   1 TSA: Xya variegata breed wildtype s9426_L_39302_0_a_10_7_l_1183, transcribed RNA sequence
+GCPJ01033466.1_6     -          oskar_filtered.aligned.OSK_domain -                0.7   13.7   1.3      0.92   13.3   0.1   1.7   2   0   0   2   2   2   0 TSA: Xya variegata breed wildtype C190540_a_14_0_l_1620, transcribed RNA sequence
+GCPJ01006670.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   12.9   0.4       1.4   12.7   0.4   1.0   1   0   0   1   1   1   0 TSA: Xya variegata breed wildtype C117503_a_4_0_l_307, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:36 2019
+# [ok]

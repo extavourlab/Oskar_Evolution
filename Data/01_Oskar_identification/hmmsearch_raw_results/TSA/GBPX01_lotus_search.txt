@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPX01017456.1_3     -          LOTUS_CONSENSUS      -            1.3e-19   73.1   0.0   1.8e-18   69.4   0.0   2.7   2   0   0   2   2   2   1 TSA: Podalonia hirsuta s6342_L_8913_0_a_36_6_l_5597 transcribed RNA sequence
+GBPX01019296.1_1     -          LOTUS_CONSENSUS      -            0.00092   22.2   2.5     0.005   19.9   0.0   3.2   3   0   0   3   3   3   1 TSA: Podalonia hirsuta s799_L_707_1_a_13_1_l_3284 transcribed RNA sequence
+GBPX01019285.1_1     -          LOTUS_CONSENSUS      -              0.002   21.1   0.0    0.0067   19.5   0.0   1.8   1   0   0   1   1   1   1 TSA: Podalonia hirsuta s798_L_707_0_a_11_2_l_4090 transcribed RNA sequence
+GBPX01019309.1_1     -          LOTUS_CONSENSUS      -             0.0021   21.0   0.0    0.0068   19.4   0.0   1.8   1   0   0   1   1   1   1 TSA: Podalonia hirsuta s800_L_707_2_a_10_9_l_4164 transcribed RNA sequence
+GBPX01019502.1_6     -          LOTUS_CONSENSUS      -             0.0085   19.1   0.0   1.2e+02    5.8   0.0   3.7   2   1   1   3   3   3   2 TSA: Podalonia hirsuta s8184_L_14716_0_a_35_6_l_7307 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:56 2019
+# [ok]

@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GELL01033898.1_3     -          LOTUS_CONSENSUS      -            6.2e-18   69.9   0.0   2.4e-17   68.0   0.0   2.1   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i5 transcribed RNA sequence
+GELL01052486.1_1     -          LOTUS_CONSENSUS      -            6.6e-18   69.8   0.1   6.1e-17   66.7   0.0   2.7   2   0   0   2   2   2   1 TSA: Megalopta genalis c58076_g4_i4 transcribed RNA sequence
+GELL01033897.1_3     -          LOTUS_CONSENSUS      -            7.9e-18   69.5   0.0   3.4e-17   67.5   0.0   2.2   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i4 transcribed RNA sequence
+GELL01033895.1_3     -          LOTUS_CONSENSUS      -              8e-18   69.5   0.0   3.4e-17   67.5   0.0   2.2   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i2 transcribed RNA sequence
+GELL01033899.1_3     -          LOTUS_CONSENSUS      -            9.9e-18   69.2   0.0   3.3e-17   67.5   0.0   2.0   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i6 transcribed RNA sequence
+GELL01033894.1_3     -          LOTUS_CONSENSUS      -            1.2e-17   68.9   0.0   3.9e-17   67.3   0.0   2.0   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i1 transcribed RNA sequence
+GELL01052484.1_1     -          LOTUS_CONSENSUS      -            1.2e-17   68.9   0.0   6.3e-17   66.6   0.0   2.3   1   0   0   1   1   1   1 TSA: Megalopta genalis c58076_g4_i2 transcribed RNA sequence
+GELL01052485.1_1     -          LOTUS_CONSENSUS      -            1.5e-17   68.6   0.0   6.1e-17   66.7   0.0   2.1   1   0   0   1   1   1   1 TSA: Megalopta genalis c58076_g4_i3 transcribed RNA sequence
+GELL01033896.1_2     -          LOTUS_CONSENSUS      -            1.6e-17   68.6   0.0   5.6e-17   66.8   0.0   2.1   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i3 transcribed RNA sequence
+GELL01047244.1_2     -          LOTUS_CONSENSUS      -            2.1e-13   55.3  11.0   2.5e-10   45.5   0.2   3.9   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i12 transcribed RNA sequence
+GELL01047243.1_3     -          LOTUS_CONSENSUS      -            2.6e-13   55.0  10.9   2.9e-10   45.3   0.2   4.0   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i11 transcribed RNA sequence
+GELL01047240.1_3     -          LOTUS_CONSENSUS      -            2.8e-13   54.9  10.9   2.8e-10   45.3   0.2   4.0   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i8 transcribed RNA sequence
+GELL01047235.1_3     -          LOTUS_CONSENSUS      -            2.9e-13   54.9  10.9   2.8e-10   45.3   0.2   3.9   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i3 transcribed RNA sequence
+GELL01047242.1_1     -          LOTUS_CONSENSUS      -            2.9e-13   54.9  10.9   2.8e-10   45.3   0.2   3.9   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i10 transcribed RNA sequence
+GELL01047233.1_3     -          LOTUS_CONSENSUS      -            3.1e-13   54.8  10.9   2.9e-10   45.3   0.2   3.9   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i1 transcribed RNA sequence
+GELL01047241.1_3     -          LOTUS_CONSENSUS      -              4e-13   54.4  10.9   3.1e-10   45.2   0.2   3.9   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i9 transcribed RNA sequence
+GELL01047238.1_3     -          LOTUS_CONSENSUS      -            5.7e-12   50.7  16.9   2.7e-10   45.4   0.2   4.7   3   1   1   4   4   4   2 TSA: Megalopta genalis c57496_g2_i6 transcribed RNA sequence
+GELL01047245.1_3     -          LOTUS_CONSENSUS      -            2.4e-09   42.3   7.0   3.9e-05   28.8   0.0   4.0   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i13 transcribed RNA sequence
+GELL01098226.1_2     -          LOTUS_CONSENSUS      -               0.29   16.4   0.0      0.35   16.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Megalopta genalis c81794_g1_i1 transcribed RNA sequence
+GELL01061990.1_2     -          LOTUS_CONSENSUS      -                  4   12.8   0.8        77    8.6   0.0   2.9   3   0   0   3   3   3   0 TSA: Megalopta genalis c58932_g10_i1 transcribed RNA sequence
+GELL01047237.1_3     -          LOTUS_CONSENSUS      -                8.1   11.8   0.0       8.1   11.8   0.0   3.9   2   1   1   3   3   3   0 TSA: Megalopta genalis c57496_g2_i5 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GELL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GELL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GELL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:58 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZF02029350.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-21   79.5   0.2   3.4e-21   79.5   0.2   2.2   2   1   0   2   2   2   1 TSA: Essigella californica C187990_a_3_0_l_804 transcribed RNA sequence
+GAZF02035698.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-18   71.0   0.5   1.5e-18   71.0   0.5   3.1   3   0   0   3   3   3   1 TSA: Essigella californica C211394_a_25_0_l_2899 transcribed RNA sequence
+GAZF02046281.1_3     -          oskar_filtered.aligned.LOTUS_domain -              1e-13   55.5   0.3     1e-13   55.5   0.3   3.7   4   1   0   4   4   4   1 TSA: Essigella californica s13259_L_51442_0_a_16_0_l_1480 transcribed RNA sequence
+GAZF02000497.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-12   51.0   0.2   2.9e-12   50.8   0.2   1.0   1   0   0   1   1   1   1 TSA: Essigella californica C101172_a_3_0_l_246 transcribed RNA sequence
+GAZF02046620.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-10   44.8   0.0       6.2   11.3   0.0   6.3   3   2   3   6   6   6   3 TSA: Essigella californica s13564_L_54518_0_a_25_6_l_1946 transcribed RNA sequence
+GAZF02026834.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.6e-10   43.5   0.5   9.9e-09   39.5   0.0   2.5   2   1   0   2   2   2   1 TSA: Essigella californica C179297_a_8_0_l_650 transcribed RNA sequence
+GAZF02002364.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00038   24.8   0.1   0.00056   24.2   0.1   1.3   1   0   0   1   1   1   1 TSA: Essigella californica C105519_a_3_0_l_251 transcribed RNA sequence
+GAZF02029498.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.037   18.4   0.2     0.098   17.0   0.1   1.8   2   0   0   2   2   2   0 TSA: Essigella californica C188500_a_11_0_l_815 transcribed RNA sequence
+GAZF02025842.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.13   16.7   0.1      0.18   16.2   0.1   1.3   1   0   0   1   1   1   0 TSA: Essigella californica C175846_a_4_0_l_605 transcribed RNA sequence
+GAZF02047206.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.17   16.3   0.6   7.4e+02    4.6   0.0   3.9   4   0   0   4   4   4   0 TSA: Essigella californica s1428_L_1788_1_a_54_7_l_1543 transcribed RNA sequence
+GAZF02051086.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.71   14.3   0.2       1.3   13.5   0.2   1.3   1   0   0   1   1   1   0 TSA: Essigella californica s4952_L_7568_2_a_10_4_l_452 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZF02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZF02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZF02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:00 2019
+# [ok]

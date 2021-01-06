@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEM01047823.1_1     -          LOTUS_CONSENSUS      -            5.1e-13   55.1   0.0     1e-12   54.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Bragasellus molinai, contig comp62980_c0_seq2, transcribed RNA sequence
+HAEM01047824.1_3     -          LOTUS_CONSENSUS      -            2.3e-05   30.5   0.1   5.6e-05   29.3   0.0   1.6   2   0   0   2   2   2   1 TSA: Bragasellus molinai, contig comp62980_c0_seq3, transcribed RNA sequence
+HAEM01201479.1_4     -          LOTUS_CONSENSUS      -                1.2   15.5   0.3       1.4   15.3   0.3   1.2   1   0   0   1   1   1   0 TSA: Bragasellus molinai, contig comp1114666_c0_seq1, transcribed RNA sequence
+HAEM01102790.1_5     -          LOTUS_CONSENSUS      -                3.2   14.1   0.6        12   12.2   0.6   2.0   1   0   0   1   1   1   0 TSA: Bragasellus molinai, contig comp82053_c0_seq5, transcribed RNA sequence
+HAEM01188702.1_4     -          LOTUS_CONSENSUS      -                5.4   13.3   0.1       6.8   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Bragasellus molinai, contig comp812428_c0_seq1, transcribed RNA sequence
+HAEM01102786.1_6     -          LOTUS_CONSENSUS      -                6.2   13.2   2.0        12   12.2   0.6   2.3   2   0   0   2   2   2   0 TSA: Bragasellus molinai, contig comp82053_c0_seq1, transcribed RNA sequence
+HAEM01084938.1_3     -          LOTUS_CONSENSUS      -                7.6   12.9   0.1        43   10.4   0.1   2.1   2   0   0   2   2   2   0 TSA: Bragasellus molinai, contig comp79345_c0_seq7, transcribed RNA sequence
+HAEM01084945.1_3     -          LOTUS_CONSENSUS      -                9.9   12.5   0.1        53   10.2   0.1   2.1   2   0   0   2   2   2   0 TSA: Bragasellus molinai, contig comp79345_c0_seq14, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEM.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEM.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEM.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:38 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAMC01000912.1_1     -          LOTUS_CONSENSUS      -            6.2e-26   93.3   0.0   7.2e-25   89.9   0.0   2.7   2   0   0   2   2   2   1 TSA: Ceratitis capitata comp51028_c0_seq2 mRNA sequence
+GAMC01000911.1_1     -          LOTUS_CONSENSUS      -            6.3e-26   93.3   0.0     7e-25   90.0   0.0   2.6   2   0   0   2   2   2   1 TSA: Ceratitis capitata comp51028_c0_seq1 mRNA sequence
+GAMC01002628.1_2     -          LOTUS_CONSENSUS      -            3.5e-14   55.7   1.4   9.1e-14   54.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Ceratitis capitata comp56621_c0_seq1 mRNA sequence
+GAMC01002629.1_2     -          LOTUS_CONSENSUS      -            4.6e-14   55.3   1.4   1.1e-13   54.1   0.0   2.3   2   0   0   2   2   2   1 TSA: Ceratitis capitata comp56621_c0_seq2 mRNA sequence
+GAMC01007336.1_2     -          LOTUS_CONSENSUS      -              4e-10   42.6   0.1     4e-10   42.6   0.1   2.2   2   0   0   2   2   2   1 TSA: Ceratitis capitata comp60701_c1_seq1 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAMC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAMC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAMC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:05:23 2019
+# [ok]

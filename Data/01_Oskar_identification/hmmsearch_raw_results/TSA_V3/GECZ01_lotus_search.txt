@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECZ01016569.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-17   64.8   0.2   1.7e-16   63.7   0.0   1.7   2   0   0   2   2   2   1 TSA: Cuerna arida TR13604_c0_g1_i1 transcribed RNA sequence
+GECZ01006266.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-15   61.0   0.5   6.1e-10   42.6   0.0   5.5   5   0   0   5   5   5   2 TSA: Cuerna arida TR22231_c0_g1_i1 transcribed RNA sequence
+GECZ01002441.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0029   21.2   0.0    0.0066   20.0   0.0   1.5   2   0   0   2   2   2   1 TSA: Cuerna arida TR3125_c0_g1_i1 transcribed RNA sequence
+GECZ01010554.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.057   17.0   0.4        82    6.9   0.0   3.7   1   1   2   3   3   3   0 TSA: Cuerna arida TR13587_c0_g1_i1 transcribed RNA sequence
+GECZ01027410.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.21   15.2   0.7   6.1e+02    4.1   0.0   3.8   2   1   1   3   3   3   0 TSA: Cuerna arida TR25111_c1_g1_i1 transcribed RNA sequence
+GECZ01024180.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.4   11.3   2.3        13    9.5   2.3   2.0   1   1   0   1   1   1   0 TSA: Cuerna arida TR4621_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:38 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017845653.1       -          LOTUS_CONSENSUS      -            2.1e-24   85.9   0.2   4.1e-23   81.7   0.0   3.2   4   0   0   4   4   4   1 PREDICTED: maternal effect protein oskar isoform X1 [Drosophila busckii]
+XP_017835437.1       -          LOTUS_CONSENSUS      -            1.9e-16   60.4   0.0   3.2e-13   50.0   0.0   2.9   2   0   0   2   2   2   2 PREDICTED: uncharacterized protein LOC108594810 [Drosophila busckii]
+XP_017839469.1       -          LOTUS_CONSENSUS      -            6.8e-15   55.4   0.2   5.9e-14   52.4   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 5 [Drosophila busckii]
+XP_017837744.1       -          LOTUS_CONSENSUS      -            4.8e-12   46.2   0.9   1.4e-11   44.8   0.0   2.4   2   0   0   2   2   2   1 PREDICTED: mediator of RNA polymerase II transcription subunit 15-like isoform X3 [Drosophila busckii]
+XP_017837740.1       -          LOTUS_CONSENSUS      -              7e-12   45.7   0.9   1.7e-11   44.5   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Drosophila busckii]
+XP_017849564.1       -          LOTUS_CONSENSUS      -                0.4   11.2   3.7       3.9    8.1   0.0   3.3   1   1   3   4   4   4   0 PREDICTED: uncharacterized protein LOC108604547 isoform X5 [Drosophila busckii]
+XP_017849562.1       -          LOTUS_CONSENSUS      -               0.45   11.1   3.7       5.2    7.7   0.0   3.5   2   2   3   5   5   5   0 PREDICTED: uncharacterized protein LOC108604547 isoform X3 [Drosophila busckii]
+XP_017849561.1       -          LOTUS_CONSENSUS      -               0.46   11.1   3.7       5.3    7.7   0.0   3.5   2   2   3   5   5   5   0 PREDICTED: uncharacterized protein LOC108604547 isoform X2 [Drosophila busckii]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001277935.1_ASM127793v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001277935.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001277935.1_ASM127793v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:50 2019
+# [ok]

@@ -1,0 +1,46 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGPJ01274003.1_6     -          LOTUS_CONSENSUS      -            1.8e-18   73.1   4.2   1.1e-08   41.7   0.0   4.6   3   1   1   4   4   4   3 TSA: Nezara viridula N_viridula_DNassembly_346399_c3_g1_i2, transcribed RNA sequence
+GGPJ01269500.1_2     -          LOTUS_CONSENSUS      -            6.8e-18   71.2   0.3   4.3e-17   68.6   0.3   2.5   2   0   0   2   2   2   1 TSA: Nezara viridula N_viridula_DNassembly_346028_c5_g5_i3, transcribed RNA sequence
+GGPJ01269501.1_2     -          LOTUS_CONSENSUS      -            1.2e-17   70.5   0.3   3.9e-17   68.8   0.3   2.0   1   0   0   1   1   1   1 TSA: Nezara viridula N_viridula_DNassembly_346028_c5_g5_i4, transcribed RNA sequence
+GGPJ01269504.1_2     -          LOTUS_CONSENSUS      -            1.7e-17   70.0   0.3   3.9e-17   68.8   0.3   1.7   1   0   0   1   1   1   1 TSA: Nezara viridula N_viridula_DNassembly_346028_c5_g5_i7, transcribed RNA sequence
+GGPJ01269498.1_2     -          LOTUS_CONSENSUS      -            1.9e-17   69.8   0.3   4.3e-17   68.6   0.3   1.6   1   0   0   1   1   1   1 TSA: Nezara viridula N_viridula_DNassembly_346028_c5_g5_i1, transcribed RNA sequence
+GGPJ01269499.1_2     -          LOTUS_CONSENSUS      -            7.3e-10   45.5   0.1   2.2e-09   43.9   0.1   1.8   1   0   0   1   1   1   1 TSA: Nezara viridula N_viridula_DNassembly_346028_c5_g5_i2, transcribed RNA sequence
+GGPJ01191095.1_4     -          LOTUS_CONSENSUS      -            1.5e-08   41.3   0.0      0.26   18.0   0.0   4.7   2   2   1   3   3   3   3 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i11, transcribed RNA sequence
+GGPJ01191106.1_4     -          LOTUS_CONSENSUS      -            1.5e-08   41.2   0.0      0.26   18.0   0.0   4.7   2   2   1   3   3   3   2 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i6, transcribed RNA sequence
+GGPJ01191109.1_4     -          LOTUS_CONSENSUS      -            1.9e-08   40.9   0.0       0.3   17.9   0.0   4.7   2   2   1   4   4   4   2 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i9, transcribed RNA sequence
+GGPJ01191101.1_4     -          LOTUS_CONSENSUS      -              2e-08   40.8   0.0      0.28   17.9   0.0   4.7   2   2   2   4   4   4   2 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i17, transcribed RNA sequence
+GGPJ01191107.1_5     -          LOTUS_CONSENSUS      -            5.9e-07   36.1   0.0        43   10.9   0.0   4.9   3   2   2   5   5   4   3 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i7, transcribed RNA sequence
+GGPJ01060070.1_1     -          LOTUS_CONSENSUS      -              0.031   21.0   0.1     0.049   20.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_303517_c0_g2_i1, transcribed RNA sequence
+GGPJ01191105.1_4     -          LOTUS_CONSENSUS      -              0.048   20.4   0.0       0.2   18.4   0.0   2.0   1   1   1   2   2   2   0 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i5, transcribed RNA sequence
+GGPJ01191096.1_4     -          LOTUS_CONSENSUS      -              0.049   20.4   0.0       0.2   18.4   0.0   2.0   1   1   1   2   2   2   0 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i12, transcribed RNA sequence
+GGPJ01191098.1_6     -          LOTUS_CONSENSUS      -              0.065   20.0   0.0   1.2e+02    9.5   0.0   4.1   3   2   1   4   4   3   0 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i14, transcribed RNA sequence
+GGPJ01191097.1_6     -          LOTUS_CONSENSUS      -               0.13   19.0   0.0   1.5e+02    9.2   0.0   4.0   3   2   1   4   4   3   0 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i13, transcribed RNA sequence
+GGPJ01112225.1_2     -          LOTUS_CONSENSUS      -               0.15   18.9   1.2      0.39   17.5   0.0   2.0   2   0   0   2   2   2   0 TSA: Nezara viridula N_viridula_DNassembly_330895_c0_g1_i2, transcribed RNA sequence
+GGPJ01069311.1_2     -          LOTUS_CONSENSUS      -               0.29   17.9   0.5       0.3   17.8   0.5   1.1   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_310972_c0_g3_i1, transcribed RNA sequence
+GGPJ01227948.1_4     -          LOTUS_CONSENSUS      -               0.33   17.7   1.5      0.33   17.7   1.5   1.8   2   0   0   2   2   1   0 TSA: Nezara viridula N_viridula_DNassembly_342683_c0_g1_i1, transcribed RNA sequence
+GGPJ01112224.1_2     -          LOTUS_CONSENSUS      -               0.43   17.3   1.4      0.79   16.5   0.0   2.0   2   0   0   2   2   2   0 TSA: Nezara viridula N_viridula_DNassembly_330895_c0_g1_i1, transcribed RNA sequence
+GGPJ01071127.1_4     -          LOTUS_CONSENSUS      -                0.9   16.3   0.0      0.99   16.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_312406_c0_g1_i1, transcribed RNA sequence
+GGPJ01258807.1_2     -          LOTUS_CONSENSUS      -                  2   15.2   0.7         6   13.7   0.7   1.8   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_345183_c2_g1_i7, transcribed RNA sequence
+GGPJ01258808.1_3     -          LOTUS_CONSENSUS      -                2.2   15.1   0.7       9.9   13.0   0.7   2.1   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_345183_c2_g1_i8, transcribed RNA sequence
+GGPJ01260741.1_2     -          LOTUS_CONSENSUS      -                3.7   14.3   2.5        30   11.4   0.3   2.0   1   1   1   2   2   2   0 TSA: Nezara viridula N_viridula_DNassembly_345321_c0_g6_i1, transcribed RNA sequence
+GGPJ01240589.1_6     -          LOTUS_CONSENSUS      -                  6   13.7   0.2        11   12.8   0.2   1.6   1   1   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_343704_c2_g1_i1, transcribed RNA sequence
+GGPJ01265692.1_6     -          LOTUS_CONSENSUS      -                6.2   13.6   0.3       6.6   13.5   0.3   1.1   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_345725_c2_g1_i1, transcribed RNA sequence
+GGPJ01246931.1_3     -          LOTUS_CONSENSUS      -                7.3   13.4   2.5   1.1e+03    6.4   0.1   2.8   3   1   0   3   3   2   0 TSA: Nezara viridula N_viridula_DNassembly_344225_c0_g6_i2, transcribed RNA sequence
+GGPJ01045550.1_3     -          LOTUS_CONSENSUS      -                7.9   13.3   0.0       8.5   13.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_286584_c0_g1_i1, transcribed RNA sequence
+GGPJ01062949.1_2     -          LOTUS_CONSENSUS      -                  8   13.3   0.7        11   12.9   0.7   1.2   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_305971_c0_g1_i1, transcribed RNA sequence
+GGPJ01134143.1_1     -          LOTUS_CONSENSUS      -                  8   13.3   1.5        26   11.7   0.1   2.2   2   0   0   2   2   2   0 TSA: Nezara viridula N_viridula_DNassembly_334118_c7_g1_i1, transcribed RNA sequence
+GGPJ01191103.1_5     -          LOTUS_CONSENSUS      -                8.1   13.3   0.0        27   11.6   0.0   1.8   2   0   0   2   2   2   0 TSA: Nezara viridula N_viridula_DNassembly_339539_c1_g3_i3, transcribed RNA sequence
+GGPJ01006499.1_3     -          LOTUS_CONSENSUS      -                8.3   13.2   0.0        15   12.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_157314_c0_g1_i1, transcribed RNA sequence
+GGPJ01006500.1_3     -          LOTUS_CONSENSUS      -                9.1   13.1   0.0        17   12.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Nezara viridula N_viridula_DNassembly_157314_c0_g2_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGPJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGPJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGPJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:48 2019
+# [ok]

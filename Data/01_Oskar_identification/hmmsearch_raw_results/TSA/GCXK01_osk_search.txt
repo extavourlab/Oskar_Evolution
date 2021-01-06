@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXK01019207.1_6     -          OSK_CONSENSUS        -                0.2   14.5   0.2      0.62   12.9   0.0   1.9   2   1   0   2   2   2   0 TSA: Chauliops fallax breed wildtype s1145_L_2650_0_6_7_LINEAR, transcribed RNA sequence
+GCXK01001723.1_1     -          OSK_CONSENSUS        -               0.46   13.3   0.2      0.66   12.8   0.2   1.2   1   0   0   1   1   1   0 TSA: Chauliops fallax breed wildtype C106894_5_0, transcribed RNA sequence
+GCXK01011642.1_5     -          OSK_CONSENSUS        -                1.5   11.6   0.0       2.1   11.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Chauliops fallax breed wildtype C73194_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:07 2019
+# [ok]

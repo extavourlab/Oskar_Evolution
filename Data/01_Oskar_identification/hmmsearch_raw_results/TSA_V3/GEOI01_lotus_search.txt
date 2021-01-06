@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOI01014041.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-23   85.7   1.1   2.3e-17   66.7   0.1   2.8   3   0   0   3   3   3   2 TSA: Cylas formicarius CL4048.Contig3_luanA transcribed RNA sequence
+GEOI01014039.1_3     -          oskar_filtered.aligned.LOTUS_domain -              9e-23   84.0   0.2   5.7e-17   65.4   0.1   2.7   2   0   0   2   2   2   2 TSA: Cylas formicarius CL4048.Contig1_luanA transcribed RNA sequence
+GEOI01000647.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-20   76.7   1.3   7.3e-19   71.4   0.6   3.6   4   0   0   4   4   4   1 TSA: Cylas formicarius CL94.Contig3_luanA transcribed RNA sequence
+GEOI01000646.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-20   76.6   1.3   7.4e-19   71.4   0.6   3.6   4   0   0   4   4   4   1 TSA: Cylas formicarius CL94.Contig2_luanA transcribed RNA sequence
+GEOI01000648.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-20   76.1   1.6   8.1e-19   71.3   0.6   3.6   4   0   0   4   4   4   1 TSA: Cylas formicarius CL94.Contig4_luanA transcribed RNA sequence
+GEOI01000645.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-20   76.0   1.6   8.2e-19   71.3   0.6   3.6   4   0   0   4   4   4   1 TSA: Cylas formicarius CL94.Contig1_luanA transcribed RNA sequence
+GEOI01024237.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-20   75.6   0.0   8.4e-20   74.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Cylas formicarius Unigene7909_luanA transcribed RNA sequence
+GEOI01000651.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.9e-20   74.5   0.6   1.6e-19   73.6   0.6   1.5   1   0   0   1   1   1   1 TSA: Cylas formicarius CL94.Contig7_luanA transcribed RNA sequence
+GEOI01000655.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-19   74.2   0.7   6.1e-19   71.7   0.6   2.2   2   0   0   2   2   2   1 TSA: Cylas formicarius CL94.Contig11_luanA transcribed RNA sequence
+GEOI01000654.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-19   74.2   0.7   6.2e-19   71.7   0.6   2.1   2   0   0   2   2   2   1 TSA: Cylas formicarius CL94.Contig10_luanA transcribed RNA sequence
+GEOI01024498.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0012   22.6   0.0        39    8.1   0.0   3.8   2   2   2   4   4   4   1 TSA: Cylas formicarius Unigene8559_luanA transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:52 2019
+# [ok]

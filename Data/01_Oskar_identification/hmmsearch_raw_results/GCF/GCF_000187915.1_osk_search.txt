@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011635164.1       -          OSK_CONSENSUS        -            3.6e-60  202.3   0.1   9.2e-60  201.0   0.1   1.6   1   0   0   1   1   1   1 uncharacterized protein LOC105425879 isoform X2 [Pogonomyrmex barbatus]
+XP_011635158.1       -          OSK_CONSENSUS        -            9.3e-60  201.0   0.1   9.3e-60  201.0   0.1   1.7   2   0   0   2   2   2   1 uncharacterized protein LOC105425879 isoform X1 [Pogonomyrmex barbatus]
+XP_011639891.1       -          OSK_CONSENSUS        -              0.047   13.4   0.6      0.41   10.3   0.4   2.4   2   0   0   2   2   2   0 LOW QUALITY PROTEIN: regulator of G-protein signaling loco [Pogonomyrmex barbatus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000187915.1_Pbar_UMD_V03_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000187915.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000187915.1_Pbar_UMD_V03_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:59 2019
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GELL01033898.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-20   76.4   0.0     2e-19   74.7   0.0   2.0   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i5 transcribed RNA sequence
+GELL01033897.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-20   76.0   0.0   2.8e-19   74.2   0.0   2.1   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i4 transcribed RNA sequence
+GELL01033895.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-20   76.0   0.0   2.8e-19   74.2   0.0   2.1   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i2 transcribed RNA sequence
+GELL01033899.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-20   75.7   0.0   2.8e-19   74.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i6 transcribed RNA sequence
+GELL01033894.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-19   75.5   0.0   3.3e-19   74.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i1 transcribed RNA sequence
+GELL01033896.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-19   74.6   0.0   6.7e-19   73.0   0.0   2.0   1   0   0   1   1   1   1 TSA: Megalopta genalis c54514_g1_i3 transcribed RNA sequence
+GELL01052486.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-19   73.5   0.2   3.5e-18   70.7   0.0   2.4   2   0   0   2   2   2   1 TSA: Megalopta genalis c58076_g4_i4 transcribed RNA sequence
+GELL01052485.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.8e-19   72.8   0.0   3.4e-18   70.7   0.0   2.2   1   0   0   1   1   1   1 TSA: Megalopta genalis c58076_g4_i3 transcribed RNA sequence
+GELL01052484.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-19   72.7   0.0   3.6e-18   70.6   0.0   2.2   1   0   0   1   1   1   1 TSA: Megalopta genalis c58076_g4_i2 transcribed RNA sequence
+GELL01047244.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.3e-15   60.2  12.8   3.5e-12   51.4   0.7   3.8   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i12 transcribed RNA sequence
+GELL01047243.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-15   59.8  12.8     4e-12   51.2   0.7   3.9   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i11 transcribed RNA sequence
+GELL01047242.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.8e-15   59.8  12.8   3.9e-12   51.2   0.7   3.8   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i10 transcribed RNA sequence
+GELL01047235.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.8e-15   59.7  12.8   3.9e-12   51.2   0.7   3.8   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i3 transcribed RNA sequence
+GELL01047240.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-15   59.7  12.8   3.9e-12   51.2   0.7   3.8   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i8 transcribed RNA sequence
+GELL01047233.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-15   59.6  12.8     4e-12   51.2   0.7   3.7   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i1 transcribed RNA sequence
+GELL01047241.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-14   56.9  15.9   4.3e-12   51.1   0.7   4.1   3   1   1   4   4   3   2 TSA: Megalopta genalis c57496_g2_i9 transcribed RNA sequence
+GELL01047238.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-14   56.5   1.8   3.7e-12   51.3   0.7   5.4   4   1   1   5   5   5   2 TSA: Megalopta genalis c57496_g2_i6 transcribed RNA sequence
+GELL01047245.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-10   44.9   8.1   3.3e-06   32.2   0.0   3.8   2   1   1   3   3   3   2 TSA: Megalopta genalis c57496_g2_i13 transcribed RNA sequence
+GELL01098226.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.81   14.9   0.1       1.2   14.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Megalopta genalis c81794_g1_i1 transcribed RNA sequence
+GELL01047237.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.8   0.0       1.8   13.8   0.0   3.8   2   1   1   3   3   3   0 TSA: Megalopta genalis c57496_g2_i5 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GELL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GELL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GELL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:45 2019
+# [ok]

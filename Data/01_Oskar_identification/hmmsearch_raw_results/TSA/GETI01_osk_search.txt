@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GETI01010142.1_3     -          OSK_CONSENSUS        -               0.49   16.7   0.7      0.75   16.1   0.7   1.4   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN7553_c0_g1_i1 transcribed RNA sequence
+GETI01319822.1_6     -          OSK_CONSENSUS        -               0.72   16.1   0.1       1.1   15.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN233028_c0_g1_i1 transcribed RNA sequence
+GETI01010143.1_3     -          OSK_CONSENSUS        -               0.73   16.1   0.8       1.1   15.5   0.8   1.4   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN7553_c0_g2_i1 transcribed RNA sequence
+GETI01319934.1_4     -          OSK_CONSENSUS        -               0.74   16.1   0.2      0.93   15.8   0.2   1.2   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN233145_c0_g1_i1 transcribed RNA sequence
+GETI01056877.1_4     -          OSK_CONSENSUS        -                1.6   15.0   0.7       2.1   14.6   0.7   1.2   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN42742_c0_g1_i1 transcribed RNA sequence
+GETI01017209.1_3     -          OSK_CONSENSUS        -                3.3   14.0   0.2         7   12.9   0.2   1.5   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN13347_c0_g1_i1 transcribed RNA sequence
+GETI01075644.1_1     -          OSK_CONSENSUS        -                3.5   13.9   0.0       7.2   12.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN54328_c0_g1_i1 transcribed RNA sequence
+GETI01020585.1_4     -          OSK_CONSENSUS        -                3.6   13.8   0.2       4.6   13.5   0.2   1.1   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN16166_c0_g1_i1 transcribed RNA sequence
+GETI01207427.1_5     -          OSK_CONSENSUS        -                3.7   13.8   0.4       5.8   13.2   0.4   1.2   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN120797_c0_g1_i1 transcribed RNA sequence
+GETI01115224.1_5     -          OSK_CONSENSUS        -                4.1   13.7   0.2       4.6   13.5   0.2   1.1   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN73362_c0_g3_i1 transcribed RNA sequence
+GETI01115221.1_5     -          OSK_CONSENSUS        -                4.1   13.7   0.2       4.6   13.5   0.2   1.2   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN73362_c0_g1_i1 transcribed RNA sequence
+GETI01154956.1_6     -          OSK_CONSENSUS        -                7.4   12.8   0.2       8.8   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN84249_c0_g1_i1 transcribed RNA sequence
+GETI01140234.1_4     -          OSK_CONSENSUS        -                9.8   12.4   1.1        25   11.1   0.3   2.1   2   0   0   2   2   2   0 TSA: Manduca sexta TRINITY_DN81393_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GETI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:27 2019
+# [ok]

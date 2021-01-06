@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVE01002847.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-15   59.8   1.5   9.2e-13   51.7   0.0   2.7   2   0   0   2   2   2   2 TSA: Aphidius colemani C109653_a_34_0_l_2665 transcribed RNA sequence
+GBVE01026032.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-15   59.6   2.5   4.3e-11   46.3   0.1   3.0   3   0   0   3   3   3   2 TSA: Aphidius colemani s2305_L_2693_1_a_29_7_l_2032 transcribed RNA sequence
+GBVE01026031.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-14   55.8   6.8   4.8e-11   46.2   0.1   3.4   4   0   0   4   4   4   2 TSA: Aphidius colemani s2304_L_2693_0_a_27_1_l_2211 transcribed RNA sequence
+GBVE01028936.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00014   25.4   0.1      0.24   15.1   0.0   3.6   1   1   2   3   3   3   1 TSA: Aphidius colemani s4935_L_7375_1_a_66_3_l_1628 transcribed RNA sequence
+GBVE01001048.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00039   24.0   0.1    0.0011   22.6   0.1   1.7   1   0   0   1   1   1   1 TSA: Aphidius colemani C103358_a_37_0_l_1290 transcribed RNA sequence
+GBVE01028935.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00061   23.4   0.1      0.41   14.3   0.0   3.6   1   1   2   3   3   3   1 TSA: Aphidius colemani s4934_L_7375_0_a_59_7_l_2548 transcribed RNA sequence
+GBVE01002465.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.9   12.1   2.9       2.8   11.6   0.3   2.7   3   0   0   3   3   3   0 TSA: Aphidius colemani C108337_a_10_0_l_2040 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:58 2019
+# [ok]

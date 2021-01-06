@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFW01000608.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-20   76.2   0.0   7.6e-20   74.6   0.0   1.9   1   0   0   1   1   1   1 TSA: Andrena cineraria isolate acin4 contig618, transcribed RNA sequence
+GHFW01003215.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.051   17.4   0.0       0.2   15.5   0.0   2.0   1   0   0   1   1   1   0 TSA: Andrena cineraria isolate acin4 contig3278, transcribed RNA sequence
+GHFW01034113.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.73   13.7   0.1      0.81   13.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Andrena cineraria isolate acin4 contig34938, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:01 2019
+# [ok]

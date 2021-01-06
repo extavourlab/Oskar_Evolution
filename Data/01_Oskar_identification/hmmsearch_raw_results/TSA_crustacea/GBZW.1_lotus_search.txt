@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBZW01012373.1_2     -          LOTUS_CONSENSUS      -            2.3e-11   47.5   0.0   6.1e-11   46.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Eriocheir sinensis comp69809_c0_seq1 transcribed RNA sequence
+GBZW01021033.1_1     -          LOTUS_CONSENSUS      -            0.00071   23.5   0.0   1.5e+02    6.4   0.0   4.9   3   1   2   5   5   5   3 TSA: Eriocheir sinensis comp80247_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBZW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBZW.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBZW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:16 2019
+# [ok]

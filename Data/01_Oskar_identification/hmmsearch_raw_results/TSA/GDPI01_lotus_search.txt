@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDPI01010195.1_4     -          LOTUS_CONSENSUS      -            1.9e-22   82.0   2.1   1.6e-21   79.1   0.2   2.6   3   0   0   3   3   3   1 TSA: Elaphrus aureus breed wildtype C71933_a_65_0_l_1152, transcribed RNA sequence
+GDPI01013320.1_2     -          LOTUS_CONSENSUS      -            4.5e-19   71.2   0.0   1.9e-15   59.6   0.0   3.0   2   0   0   2   2   2   2 TSA: Elaphrus aureus breed wildtype C83817_a_29_0_l_3785, transcribed RNA sequence
+GDPI01007076.1_2     -          LOTUS_CONSENSUS      -            2.7e-17   65.5   0.0   7.1e-17   64.2   0.0   1.6   2   0   0   2   2   2   1 TSA: Elaphrus aureus breed wildtype C59161_a_10_0_l_550, transcribed RNA sequence
+GDPI01012357.1_6     -          LOTUS_CONSENSUS      -            1.2e-12   50.7   0.0   7.8e-10   41.6   0.0   2.8   2   0   0   2   2   2   2 TSA: Elaphrus aureus breed wildtype C80309_a_40_0_l_2173, transcribed RNA sequence
+GDPI01004719.1_2     -          LOTUS_CONSENSUS      -             0.0001   25.2   1.4   0.00022   24.2   0.9   1.7   1   1   1   2   2   2   1 TSA: Elaphrus aureus breed wildtype C50100_a_28_0_l_354, transcribed RNA sequence
+GDPI01005067.1_4     -          LOTUS_CONSENSUS      -             0.0027   20.7   0.6     0.013   18.4   0.0   1.9   2   0   0   2   2   2   1 TSA: Elaphrus aureus breed wildtype C51429_a_40_0_l_376, transcribed RNA sequence
+GDPI01003759.1_1     -          LOTUS_CONSENSUS      -                0.6   13.1   0.7      0.75   12.8   0.7   1.2   1   0   0   1   1   1   0 TSA: Elaphrus aureus breed wildtype C46702_a_6_0_l_305, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDPI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:00 2019
+# [ok]

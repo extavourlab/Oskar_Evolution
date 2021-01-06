@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGBU01090585.1_5     -          LOTUS_CONSENSUS      -            6.8e-18   70.1   0.0   1.2e-15   62.8   0.0   3.2   3   0   0   3   3   3   1 TSA: Adelphocoris suturalis c68993_g2_i2, transcribed RNA sequence
+GGBU01104230.1_5     -          LOTUS_CONSENSUS      -            8.6e-18   69.8   0.6   4.6e-09   41.8   0.0   3.7   3   0   0   3   3   3   3 TSA: Adelphocoris suturalis c72900_g1_i2, transcribed RNA sequence
+GGBU01104229.1_5     -          LOTUS_CONSENSUS      -            9.6e-18   69.6   0.5   4.8e-09   41.7   0.0   3.7   3   0   0   3   3   3   3 TSA: Adelphocoris suturalis c72900_g1_i1, transcribed RNA sequence
+GGBU01090584.1_5     -          LOTUS_CONSENSUS      -            2.4e-16   65.1   0.0   3.2e-15   61.5   0.0   2.6   2   0   0   2   2   2   1 TSA: Adelphocoris suturalis c68993_g2_i1, transcribed RNA sequence
+GGBU01073644.1_5     -          LOTUS_CONSENSUS      -             0.0043   22.7   0.0   6.9e+02    6.0   0.0   4.9   5   2   1   6   6   6   2 TSA: Adelphocoris suturalis c63444_g1_i1, transcribed RNA sequence
+GGBU01128226.1_6     -          LOTUS_CONSENSUS      -               0.97   15.1   0.0       1.4   14.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Adelphocoris suturalis c9471_g1_i2, transcribed RNA sequence
+GGBU01128225.1_5     -          LOTUS_CONSENSUS      -                1.8   14.3   0.0       3.2   13.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Adelphocoris suturalis c9471_g1_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGBU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:02 2019
+# [ok]

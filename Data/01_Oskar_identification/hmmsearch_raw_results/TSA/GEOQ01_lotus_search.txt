@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOQ01013693.1_5     -          LOTUS_CONSENSUS      -            7.4e-12   49.4   0.2   6.7e-11   46.3   0.0   2.6   3   0   0   3   3   3   1 TSA: Thyridopteryx ephemeraeformis comp13614_c0_seq1 transcribed RNA sequence
+GEOQ01013694.1_5     -          LOTUS_CONSENSUS      -            8.5e-12   49.2   0.3   6.5e-11   46.4   0.0   2.6   3   0   0   3   3   3   1 TSA: Thyridopteryx ephemeraeformis comp13614_c0_seq2 transcribed RNA sequence
+GEOQ01011733.1_2     -          LOTUS_CONSENSUS      -            1.7e-08   38.6   0.0   6.7e-05   27.1   0.0   2.4   2   0   0   2   2   2   2 TSA: Thyridopteryx ephemeraeformis comp12350_c0_seq1 transcribed RNA sequence
+GEOQ01011734.1_2     -          LOTUS_CONSENSUS      -            0.00092   23.5   0.0    0.0015   22.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Thyridopteryx ephemeraeformis comp12350_c0_seq2 transcribed RNA sequence
+GEOQ01010148.1_1     -          LOTUS_CONSENSUS      -              0.061   17.6   0.2        11   10.4   0.0   2.3   1   1   1   2   2   2   0 TSA: Thyridopteryx ephemeraeformis comp11246_c0_seq1 transcribed RNA sequence
+GEOQ01012418.1_1     -          LOTUS_CONSENSUS      -                1.1   13.6   0.0       3.2   12.1   0.0   1.8   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis comp12803_c0_seq4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:02 2019
+# [ok]

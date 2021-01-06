@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEW01017821.1_1     -          OSK_CONSENSUS        -               0.21   16.2   1.2      0.21   16.2   1.2   2.1   1   1   0   2   2   2   0 TSA: Proasellus ebrensis, contig c18663_g1_i1, transcribed RNA sequence
+HAEW01084777.1_5     -          OSK_CONSENSUS        -               0.65   14.6   0.4      0.89   14.2   0.4   1.3   1   0   0   1   1   1   0 TSA: Proasellus ebrensis, contig c64638_g1_i1, transcribed RNA sequence
+HAEW01088143.1_6     -          OSK_CONSENSUS        -               0.88   14.2   0.1       1.1   13.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus ebrensis, contig c68097_g1_i1, transcribed RNA sequence
+HAEW01058526.1_5     -          OSK_CONSENSUS        -                  1   13.9   0.0       1.5   13.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Proasellus ebrensis, contig c37962_g1_i1, transcribed RNA sequence
+HAEW01017775.1_1     -          OSK_CONSENSUS        -                2.7   12.6   0.0         3   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus ebrensis, contig c18626_g1_i1, transcribed RNA sequence
+HAEW01068957.1_4     -          OSK_CONSENSUS        -                4.1   12.0   0.0       4.6   11.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Proasellus ebrensis, contig c48540_g1_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEW.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:59 2019
+# [ok]

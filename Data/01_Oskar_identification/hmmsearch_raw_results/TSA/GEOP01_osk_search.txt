@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOP01013249.1_1     -          OSK_CONSENSUS        -               0.17   16.1   0.4      0.22   15.8   0.4   1.1   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR12317-c0_g1_i1 transcribed RNA sequence
+GEOP01036887.1_2     -          OSK_CONSENSUS        -               0.28   15.5   0.1      0.37   15.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR36827-c0_g1_i1 transcribed RNA sequence
+GEOP01031815.1_6     -          OSK_CONSENSUS        -                2.5   12.4   0.0       3.4   11.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR31917-c0_g1_i1 transcribed RNA sequence
+GEOP01059105.1_3     -          OSK_CONSENSUS        -                2.5   12.3   0.4       4.5   11.5   0.2   1.6   2   0   0   2   2   2   0 TSA: Palaephatus nielseni TR59366-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:40 2019
+# [ok]

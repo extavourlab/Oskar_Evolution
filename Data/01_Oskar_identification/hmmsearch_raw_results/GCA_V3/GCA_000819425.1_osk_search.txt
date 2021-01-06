@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g4549.t1             -          oskar_filtered.aligned.OSK_domain -            4.1e-06   27.9   2.1     0.022   15.7   0.4   2.1   1   1   1   2   2   2   2 -
+g37370.t1            -          oskar_filtered.aligned.OSK_domain -              0.051   14.5   0.0     0.064   14.2   0.0   1.1   1   0   0   1   1   1   0 -
+g21954.t1            -          oskar_filtered.aligned.OSK_domain -               0.11   13.4   0.1      0.13   13.1   0.1   1.1   1   0   0   1   1   1   0 -
+g29395.t1            -          oskar_filtered.aligned.OSK_domain -               0.18   12.7   0.2        25    5.7   0.0   2.1   1   1   1   2   2   2   0 -
+g37378.t1            -          oskar_filtered.aligned.OSK_domain -               0.25   12.3   0.0      0.31   11.9   0.0   1.0   1   0   0   1   1   1   0 -
+g29289.t1            -          oskar_filtered.aligned.OSK_domain -               0.36   11.7   0.0   2.4e+02    2.5   0.0   3.2   3   0   0   3   3   3   0 -
+g5773.t1             -          oskar_filtered.aligned.OSK_domain -                0.4   11.6   0.4      0.55   11.1   0.2   1.4   1   1   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_000819425.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_000819425.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_000819425.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:27:36 2019
+# [ok]

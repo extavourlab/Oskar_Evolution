@@ -1,0 +1,23 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUG02028132.1_6     -          oskar_filtered.aligned.OSK_domain -              0.026   18.4   1.5     0.032   18.0   1.5   1.2   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C244396_a_8_0_l_505 transcribed RNA sequence
+GAUG02029286.1_3     -          oskar_filtered.aligned.OSK_domain -               0.17   15.7   0.8      0.21   15.4   0.8   1.1   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C248544_a_3_0_l_544 transcribed RNA sequence
+GAUG02010629.1_3     -          oskar_filtered.aligned.OSK_domain -               0.28   15.0   0.3      0.32   14.8   0.3   1.1   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C186227_a_4_0_l_251 transcribed RNA sequence
+GAUG02011355.1_4     -          oskar_filtered.aligned.OSK_domain -               0.49   14.2   0.2      0.54   14.1   0.2   1.0   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C188117_a_3_0_l_254 transcribed RNA sequence
+GAUG02030270.1_2     -          oskar_filtered.aligned.OSK_domain -               0.65   13.8   2.0      0.83   13.5   2.0   1.1   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C252162_a_71_0_l_584 transcribed RNA sequence
+GAUG02050786.1_3     -          oskar_filtered.aligned.OSK_domain -               0.75   13.6   0.9       1.2   12.9   0.9   1.3   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis s4549_L_5410_0_a_31_2_l_1040 transcribed RNA sequence
+GAUG02038996.1_5     -          oskar_filtered.aligned.OSK_domain -               0.87   13.4   1.1       2.2   12.1   0.0   2.2   3   0   0   3   3   3   0 TSA: Meinertellus cundinamarcensis C284201_a_20_0_l_2602 transcribed RNA sequence
+GAUG02035210.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   12.9   0.4       3.8   11.3   0.2   1.7   1   1   1   2   2   2   0 TSA: Meinertellus cundinamarcensis C270772_a_11_0_l_963 transcribed RNA sequence
+GAUG02045440.1_4     -          oskar_filtered.aligned.OSK_domain -                1.7   12.5   0.1       2.5   11.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis s15632_L_45307_0_a_77_8_l_1484 transcribed RNA sequence
+GAUG02032686.1_3     -          oskar_filtered.aligned.OSK_domain -                3.7   11.3   4.9        22    8.8   4.9   2.0   1   1   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C261127_a_8_0_l_717 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUG02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:59 2019
+# [ok]

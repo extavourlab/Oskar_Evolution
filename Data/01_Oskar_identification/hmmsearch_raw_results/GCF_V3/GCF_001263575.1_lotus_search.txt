@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015518618.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-29  101.1   0.0   8.5e-29   99.7   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: maternal effect protein oskar-like [Neodiprion lecontei]
+XP_015518204.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-23   83.4   0.1   1.5e-21   76.4   0.0   3.2   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 [Neodiprion lecontei]
+XP_015519667.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-21   76.3   0.0   5.5e-15   55.3   0.0   3.9   3   0   0   3   3   3   2 PREDICTED: tudor domain-containing protein 5-like [Neodiprion lecontei]
+XP_015521589.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-05   25.0   0.0       6.3    7.0   0.0   5.3   2   1   2   4   4   4   1 PREDICTED: meiosis arrest female protein 1 isoform X3 [Neodiprion lecontei]
+XP_015521591.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-05   25.0   0.0       6.3    7.0   0.0   5.3   2   1   2   4   4   4   1 PREDICTED: meiosis arrest female protein 1 isoform X3 [Neodiprion lecontei]
+XP_015521587.1       -          oskar_filtered.aligned.LOTUS_domain -            4.2e-05   23.6   0.0         8    6.6   0.0   5.3   2   1   2   4   4   4   1 PREDICTED: meiosis arrest female protein 1 isoform X1 [Neodiprion lecontei]
+XP_015521588.1       -          oskar_filtered.aligned.LOTUS_domain -            4.2e-05   23.6   0.0         8    6.6   0.0   5.3   2   1   2   4   4   4   1 PREDICTED: meiosis arrest female protein 1 isoform X2 [Neodiprion lecontei]
+XP_015520756.1       -          oskar_filtered.aligned.LOTUS_domain -              0.029   14.5   3.6      0.23   11.6   1.5   3.3   2   0   0   2   2   2   0 PREDICTED: cilia- and flagella-associated protein 58-like [Neodiprion lecontei]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263575.1_Nlec1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001263575.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263575.1_Nlec1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:47 2019
+# [ok]

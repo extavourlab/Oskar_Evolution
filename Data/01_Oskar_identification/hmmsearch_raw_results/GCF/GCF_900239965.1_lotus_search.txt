@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023939462.1       -          LOTUS_CONSENSUS      -            5.7e-16   58.9   1.0     7e-15   55.4   0.0   2.8   3   0   0   3   3   3   1 uncharacterized protein LOC112046869 isoform X7 [Bicyclus anynana]
+XP_023939461.1       -          LOTUS_CONSENSUS      -            5.7e-16   58.9   1.0     7e-15   55.4   0.0   2.8   3   0   0   3   3   3   1 uncharacterized protein LOC112046869 isoform X6 [Bicyclus anynana]
+XP_023939458.1       -          LOTUS_CONSENSUS      -            9.9e-16   58.1   1.2   8.7e-15   55.1   0.0   2.8   3   0   0   3   3   3   1 tudor domain-containing protein 7B isoform X4 [Bicyclus anynana]
+XP_023939457.1       -          LOTUS_CONSENSUS      -            9.9e-16   58.1   1.2   8.7e-15   55.1   0.0   2.8   3   0   0   3   3   3   1 tudor domain-containing protein 7B isoform X3 [Bicyclus anynana]
+XP_023939456.1       -          LOTUS_CONSENSUS      -              1e-15   58.1   1.2   8.8e-15   55.1   0.0   2.8   3   0   0   3   3   3   1 tudor domain-containing protein 7B isoform X2 [Bicyclus anynana]
+XP_023939455.1       -          LOTUS_CONSENSUS      -            1.1e-15   58.0   1.2     9e-15   55.0   0.0   2.7   3   0   0   3   3   3   1 tudor domain-containing protein 7B isoform X1 [Bicyclus anynana]
+XP_023938384.1       -          LOTUS_CONSENSUS      -            3.5e-14   53.2   0.0   1.9e-08   34.8   0.0   2.2   2   0   0   2   2   2   2 uncharacterized protein LOC112046116, partial [Bicyclus anynana]
+XP_023938898.1       -          LOTUS_CONSENSUS      -              0.011   16.3   0.0       2.9    8.6   0.0   3.7   3   1   1   4   4   4   0 meiosis regulator and mRNA stability factor 1 [Bicyclus anynana]
+XP_023949926.1       -          LOTUS_CONSENSUS      -              0.028   15.0   0.3      0.14   12.8   0.2   2.1   1   1   0   1   1   1   0 uncharacterized protein LOC112054388 [Bicyclus anynana]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_900239965.1_Bicyclus_anynana_v1.2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_900239965.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_900239965.1_Bicyclus_anynana_v1.2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:43 2019
+# [ok]

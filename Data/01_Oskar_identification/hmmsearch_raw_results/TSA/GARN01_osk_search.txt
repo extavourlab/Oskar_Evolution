@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARN01007068.1_2     -          OSK_CONSENSUS        -              2e-38  135.5   0.1   2.2e-38  135.3   0.1   1.0   1   0   0   1   1   1   1 TSA: Musca domestica comp265087_c0 transcribed RNA sequence
+GARN01042722.1_3     -          OSK_CONSENSUS        -               0.58   13.7   0.3       1.1   12.8   0.1   1.6   2   0   0   2   2   2   0 TSA: Musca domestica comp30860_c0 transcribed RNA sequence
+GARN01033827.1_5     -          OSK_CONSENSUS        -               0.98   13.0   2.6   1.1e+02    6.3   1.4   2.9   2   0   0   2   2   2   0 TSA: Musca domestica comp39201_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:48 2019
+# [ok]

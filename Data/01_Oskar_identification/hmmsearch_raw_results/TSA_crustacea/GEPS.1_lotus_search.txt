@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPS01066404.1_6     -          LOTUS_CONSENSUS      -            2.4e-09   42.0   0.0   2.6e-09   41.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Eulimnogammarus cyaneus c74063_g1_i1 transcribed RNA sequence
+GEPS01026832.1_2     -          LOTUS_CONSENSUS      -             0.0065   21.4   0.0   2.7e+02    6.6   0.0   3.1   3   0   0   3   3   3   2 TSA: Eulimnogammarus cyaneus c49842_g1_i1 transcribed RNA sequence
+GEPS01024692.1_2     -          LOTUS_CONSENSUS      -               0.13   17.3   0.1      0.32   16.0   0.0   1.7   2   0   0   2   2   2   0 TSA: Eulimnogammarus cyaneus c47816_g1_i1 transcribed RNA sequence
+GEPS01049436.1_5     -          LOTUS_CONSENSUS      -               0.69   14.9   0.3       1.1   14.3   0.3   1.4   1   0   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c64722_g5_i1 transcribed RNA sequence
+GEPS01081504.1_3     -          LOTUS_CONSENSUS      -                1.2   14.1   0.1       1.7   13.6   0.1   1.3   1   1   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c91586_g1_i1 transcribed RNA sequence
+GEPS01061621.1_1     -          LOTUS_CONSENSUS      -                1.7   13.7   0.1       4.5   12.3   0.1   1.7   1   0   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c68444_g1_i1 transcribed RNA sequence
+GEPS01049438.1_4     -          LOTUS_CONSENSUS      -                2.1   13.4   0.3       4.4   12.3   0.3   1.6   1   0   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c64722_g5_i2 transcribed RNA sequence
+GEPS01062398.1_6     -          LOTUS_CONSENSUS      -                2.2   13.3   0.1       2.7   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c69349_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPS.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPS.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPS.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:45 2019
+# [ok]

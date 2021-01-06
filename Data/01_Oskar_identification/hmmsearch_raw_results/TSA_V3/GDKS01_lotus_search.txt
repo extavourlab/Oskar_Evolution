@@ -1,0 +1,30 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDKS01032963.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-29  104.8   0.1   5.4e-29  104.2   0.1   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig04258 transcribed RNA sequence
+GDKS01009621.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-29  104.1   0.1   8.7e-29  103.6   0.1   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig02570 transcribed RNA sequence
+GDKS01010543.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-28  101.6   0.0   4.5e-17   66.0   0.0   2.3   2   0   0   2   2   2   2 TSA: Anopheles sinensis kangxing_isotig03494 transcribed RNA sequence
+GDKS01034623.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-27   98.3   0.1   5.3e-27   97.8   0.1   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05924 transcribed RNA sequence
+GDKS01034348.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-17   65.9   0.1   1.4e-16   64.4   0.0   1.9   2   0   0   2   2   2   1 TSA: Anopheles sinensis mingan_isotig05648 transcribed RNA sequence
+GDKS01032638.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-16   62.7   0.1   7.2e-16   62.1   0.1   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig03931 transcribed RNA sequence
+GDKS01043317.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-15   60.0   0.0   3.9e-15   59.8   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig14629 transcribed RNA sequence
+GDKS01020265.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-13   54.8   0.0   1.5e-13   54.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig13237 transcribed RNA sequence
+GDKS01015890.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-12   51.7   0.1   1.2e-11   48.6   0.0   2.0   2   0   0   2   2   2   1 TSA: Anopheles sinensis kangxing_isotig08855 transcribed RNA sequence
+GDKS01019746.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-11   46.6   0.1   1.2e-10   45.4   0.1   1.6   1   1   1   2   2   2   1 TSA: Anopheles sinensis kangxing_isotig12718 transcribed RNA sequence
+GDKS01033834.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-11   46.5   0.0   9.9e-11   45.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05133 transcribed RNA sequence
+GDKS01033834.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-10   44.1   0.0   1.3e-06   32.4   0.0   2.5   2   0   0   2   2   2   2 TSA: Anopheles sinensis mingan_isotig05133 transcribed RNA sequence
+GDKS01031624.1_4     -          oskar_filtered.aligned.LOTUS_domain -              6e-10   43.1   0.0   9.3e-10   42.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig02917 transcribed RNA sequence
+GDKS01033996.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   35.3   0.0   2.4e-07   34.7   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05295 transcribed RNA sequence
+GDKS01015257.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.13   16.3   0.4        23    9.1   0.1   2.2   2   0   0   2   2   2   0 TSA: Anopheles sinensis kangxing_isotig08221 transcribed RNA sequence
+GDKS01015652.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.47   14.5   0.0      0.71   14.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Anopheles sinensis kangxing_isotig08617 transcribed RNA sequence
+GDKS01020686.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.1   0.2       7.7   10.6   0.0   1.9   1   1   1   2   2   2   0 TSA: Anopheles sinensis kangxing_isotig13658 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDKS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:27 2019
+# [ok]

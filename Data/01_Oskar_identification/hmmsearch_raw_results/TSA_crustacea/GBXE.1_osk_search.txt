@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBXE01179240.1_3     -          OSK_CONSENSUS        -             0.0063   22.2   0.1    0.0073   22.0   0.1   1.0   1   0   0   1   1   1   1 TSA: Carcinus maenas comp121268_c0_seq1 transcribed RNA sequence
+GBXE01077140.1_5     -          OSK_CONSENSUS        -              0.011   21.3   0.3     0.029   20.0   0.0   1.8   2   0   0   2   2   2   0 TSA: Carcinus maenas comp79882_c0_seq1 transcribed RNA sequence
+GBXE01068826.1_4     -          OSK_CONSENSUS        -               0.89   15.2   0.0       1.5   14.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Carcinus maenas comp75959_c0_seq1 transcribed RNA sequence
+GBXE01098669.1_6     -          OSK_CONSENSUS        -                1.2   14.8   0.9        23   10.6   0.1   2.7   2   0   0   2   2   2   0 TSA: Carcinus maenas comp85723_c0_seq1 transcribed RNA sequence
+GBXE01098670.1_5     -          OSK_CONSENSUS        -                1.5   14.5   0.9        25   10.5   0.1   2.6   2   0   0   2   2   2   0 TSA: Carcinus maenas comp85723_c0_seq2 transcribed RNA sequence
+GBXE01193471.1_6     -          OSK_CONSENSUS        -                1.5   14.5   0.3       1.6   14.3   0.3   1.0   1   0   0   1   1   1   0 TSA: Carcinus maenas comp136217_c0_seq1 transcribed RNA sequence
+GBXE01205160.1_4     -          OSK_CONSENSUS        -                2.4   13.8   0.6       2.7   13.6   0.6   1.1   1   0   0   1   1   1   0 TSA: Carcinus maenas comp148550_c0_seq1 transcribed RNA sequence
+GBXE01146880.1_3     -          OSK_CONSENSUS        -                3.3   13.3   0.0       3.9   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Carcinus maenas comp90347_c0_seq3 transcribed RNA sequence
+GBXE01034333.1_1     -          OSK_CONSENSUS        -                3.3   13.3   0.2       7.7   12.2   0.2   1.5   1   1   1   2   2   2   0 TSA: Carcinus maenas comp48502_c0_seq1 transcribed RNA sequence
+GBXE01158545.1_1     -          OSK_CONSENSUS        -                4.9   12.8   0.2       5.7   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Carcinus maenas comp99549_c0_seq1 transcribed RNA sequence
+GBXE01146879.1_1     -          OSK_CONSENSUS        -                  5   12.8   0.0       6.2   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Carcinus maenas comp90347_c0_seq2 transcribed RNA sequence
+GBXE01202895.1_5     -          OSK_CONSENSUS        -                5.5   12.6   0.2       6.7   12.4   0.2   1.2   1   0   0   1   1   1   0 TSA: Carcinus maenas comp146137_c0_seq1 transcribed RNA sequence
+GBXE01098536.1_2     -          OSK_CONSENSUS        -                6.7   12.3   0.1        12   11.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Carcinus maenas comp85698_c2_seq2 transcribed RNA sequence
+GBXE01005479.1_1     -          OSK_CONSENSUS        -                8.2   12.1   0.0       8.8   12.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Carcinus maenas comp7109_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBXE.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBXE.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBXE.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:07 2019
+# [ok]

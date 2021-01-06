@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCET01050072.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.78   15.0   0.1       1.2   14.5   0.1   1.4   1   1   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c50276 transcribed RNA sequence
+GCET01086826.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.2   14.4   0.1       1.5   14.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c89570 transcribed RNA sequence
+GCET01080051.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.3   1.4       9.2   11.6   1.4   1.9   1   1   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c82119 transcribed RNA sequence
+GCET01079596.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.1   0.0       2.9   13.2   0.0   1.4   1   1   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c81577 transcribed RNA sequence
+GCET01029020.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.6   0.0        28   10.1   0.0   1.9   1   1   1   2   2   2   0 TSA: Coptotermes gestroi gALL_v3_c29053 transcribed RNA sequence
+GCET01077509.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.2   13.1   0.1       5.5   12.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c79125 transcribed RNA sequence
+GCET01003735.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.3   13.0   1.6        27   10.1   0.2   2.2   2   0   0   2   2   2   0 TSA: Coptotermes gestroi gALL_v3_c3737 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCET01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCET01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCET01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:43 2019
+# [ok]

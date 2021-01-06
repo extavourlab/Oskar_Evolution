@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMN01039564.1_5     -          oskar_filtered.aligned.OSK_domain -            2.1e-55  191.0   0.0   7.3e-55  189.2   0.3   1.7   2   1   0   2   2   2   1 TSA: Eupelmus urozonus s947_L_473_0_a_70_7_l_1592 transcribed RNA sequence
+GBMN01039586.1_5     -          oskar_filtered.aligned.OSK_domain -            4.3e-55  190.0   0.2   6.1e-55  189.5   0.2   1.2   1   0   0   1   1   1   1 TSA: Eupelmus urozonus s949_L_473_2_a_73_0_l_1033 transcribed RNA sequence
+GBMN01039575.1_4     -          oskar_filtered.aligned.OSK_domain -            2.6e-54  187.4   0.1   7.4e-54  185.9   0.1   1.7   2   1   0   2   2   2   1 TSA: Eupelmus urozonus s948_L_473_1_a_72_6_l_1552 transcribed RNA sequence
+GBMN01014735.1_2     -          oskar_filtered.aligned.OSK_domain -            3.4e-12   50.1   0.1   8.9e-12   48.7   0.1   1.6   1   1   0   1   1   1   1 TSA: Eupelmus urozonus C217004_a_11_0_l_1014 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:54 2019
+# [ok]

@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_019769660.1       -          LOTUS_CONSENSUS      -            5.4e-20   71.7   0.6   4.8e-18   65.5   0.1   2.9   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769661.1       -          LOTUS_CONSENSUS      -            5.4e-20   71.7   0.6   4.8e-18   65.5   0.1   2.9   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769662.1       -          LOTUS_CONSENSUS      -            5.4e-20   71.7   0.6   4.8e-18   65.5   0.1   2.9   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769663.1       -          LOTUS_CONSENSUS      -            5.4e-20   71.7   0.6   4.8e-18   65.5   0.1   2.9   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769664.1       -          LOTUS_CONSENSUS      -            5.4e-20   71.7   0.6   4.8e-18   65.5   0.1   2.9   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019761196.1       -          LOTUS_CONSENSUS      -            7.2e-20   71.3   0.7   2.5e-15   56.8   0.0   3.5   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC109538416 isoform X1 [Dendroctonus ponderosae]
+XP_019761197.1       -          LOTUS_CONSENSUS      -            7.3e-20   71.3   0.7   2.5e-15   56.8   0.0   3.4   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC109538416 isoform X2 [Dendroctonus ponderosae]
+XP_019761198.1       -          LOTUS_CONSENSUS      -            7.4e-20   71.3   0.8   2.4e-15   56.8   0.0   3.4   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC109538416 isoform X3 [Dendroctonus ponderosae]
+XP_019769666.1       -          LOTUS_CONSENSUS      -            1.7e-19   70.1   0.5   4.8e-18   65.5   0.1   2.8   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X3 [Dendroctonus ponderosae]
+XP_019769665.1       -          LOTUS_CONSENSUS      -            1.8e-19   70.0   0.4   4.8e-18   65.5   0.1   2.8   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X2 [Dendroctonus ponderosae]
+XP_019758566.1       -          LOTUS_CONSENSUS      -            1.4e-09   38.3   4.7       0.1   13.1   0.2   6.3   4   3   2   6   6   6   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X4 [Dendroctonus ponderosae]
+XP_019758565.1       -          LOTUS_CONSENSUS      -            1.8e-09   38.0   4.8      0.11   13.1   0.2   6.2   4   3   2   6   6   6   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X3 [Dendroctonus ponderosae]
+XP_019758563.1       -          LOTUS_CONSENSUS      -            1.9e-09   37.9   4.5      0.11   13.0   0.2   6.2   4   3   2   6   6   6   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Dendroctonus ponderosae]
+XP_019758564.1       -          LOTUS_CONSENSUS      -            4.6e-09   36.7   4.6      0.11   13.1   0.2   5.6   4   2   2   6   6   6   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X2 [Dendroctonus ponderosae]
+XP_019772358.1       -          LOTUS_CONSENSUS      -              0.062   13.8   0.1      0.15   12.6   0.1   1.7   1   1   0   1   1   1   0 PREDICTED: dnaJ homolog subfamily C member 24-like [Dendroctonus ponderosae]
+XP_019773550.1       -          LOTUS_CONSENSUS      -              0.062   13.8   0.1      0.15   12.6   0.1   1.7   1   1   0   1   1   1   0 PREDICTED: dnaJ homolog subfamily C member 24-like [Dendroctonus ponderosae]
+XP_019767797.1       -          LOTUS_CONSENSUS      -               0.11   13.0   0.5      0.61   10.6   0.2   2.4   2   0   0   2   2   1   0 PREDICTED: uncharacterized protein LOC109542828 [Dendroctonus ponderosae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000355655.1_DendPond_male_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000355655.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000355655.1_DendPond_male_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:44 2019
+# [ok]

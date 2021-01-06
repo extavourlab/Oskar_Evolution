@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBII01037130.1_2     -          oskar_filtered.aligned.OSK_domain -            1.5e-23   87.5   0.0     3e-23   86.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unigene19180_AB transcribed RNA sequence
+GBII01016692.1_3     -          oskar_filtered.aligned.OSK_domain -              0.028   18.1   0.0     0.031   17.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene6701_AB transcribed RNA sequence
+GBII01029462.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   12.9   0.0       1.2   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene31099_AB transcribed RNA sequence
+GBII01007582.1_1     -          oskar_filtered.aligned.OSK_domain -                1.2   12.8   0.0       4.9   10.8   0.0   2.0   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL2135.Contig1_AB transcribed RNA sequence
+GBII01050870.1_1     -          oskar_filtered.aligned.OSK_domain -                1.4   12.5   0.0         5   10.8   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL2135.Contig2_AB transcribed RNA sequence
+GBII01048691.1_1     -          oskar_filtered.aligned.OSK_domain -                1.9   12.1   0.0       5.3   10.7   0.0   1.7   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL2135.Contig4_AB transcribed RNA sequence
+GBII01015690.1_1     -          oskar_filtered.aligned.OSK_domain -                2.3   11.8   0.0       5.4   10.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL2135.Contig3_AB transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBII01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBII01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBII01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:29 2019
+# [ok]

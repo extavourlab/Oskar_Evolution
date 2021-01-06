@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEMI01026287.1_4     -          LOTUS_CONSENSUS      -            6.5e-18   68.5   0.7   6.5e-18   68.5   0.7   2.7   3   0   0   3   3   3   1 TSA: Pedicia vetusta c14235.graph_c0_seq1 transcribed RNA sequence
+GEMI01026957.1_1     -          LOTUS_CONSENSUS      -            1.3e-16   64.4   2.0   1.3e-16   64.4   2.0   3.3   4   0   0   4   4   4   1 TSA: Pedicia vetusta c14144.graph_c0_seq2 transcribed RNA sequence
+GEMI01015277.1_1     -          LOTUS_CONSENSUS      -            3.3e-15   59.9   1.4   2.1e-14   57.3   1.4   2.5   1   0   0   1   1   1   1 TSA: Pedicia vetusta c13002.graph_c0_seq1 transcribed RNA sequence
+GEMI01031637.1_1     -          LOTUS_CONSENSUS      -            7.9e-12   49.0   1.8   1.4e-11   48.3   0.3   2.1   2   0   0   2   2   2   1 TSA: Pedicia vetusta c21257.graph_c0_seq1 transcribed RNA sequence
+GEMI01029966.1_3     -          LOTUS_CONSENSUS      -               0.36   14.9   0.6        40    8.3   0.0   2.6   3   0   0   3   3   3   0 TSA: Pedicia vetusta c21520.graph_c0_seq1 transcribed RNA sequence
+GEMI01013608.1_2     -          LOTUS_CONSENSUS      -                1.3   13.1   1.3       2.4   12.2   0.6   1.7   2   0   0   2   2   2   0 TSA: Pedicia vetusta c27724.graph_c0_seq1 transcribed RNA sequence
+GEMI01024093.1_2     -          LOTUS_CONSENSUS      -                1.7   12.7   0.8        17    9.5   0.2   2.7   3   0   0   3   3   3   0 TSA: Pedicia vetusta c8954.graph_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEMI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEMI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEMI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:45 2019
+# [ok]

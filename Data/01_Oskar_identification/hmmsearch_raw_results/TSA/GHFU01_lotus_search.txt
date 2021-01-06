@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFU01008183.1_6     -          LOTUS_CONSENSUS      -            3.9e-19   72.4   0.0   9.3e-19   71.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Andrena haemorrhoa isolate ahae3 contig8939, transcribed RNA sequence
+GHFU01002230.1_5     -          LOTUS_CONSENSUS      -             0.0063   20.5   0.0        22    9.1   0.0   5.0   4   1   2   6   6   6   1 TSA: Andrena haemorrhoa isolate ahae3 contig2409, transcribed RNA sequence
+GHFU01001245.1_4     -          LOTUS_CONSENSUS      -              0.056   17.4   1.0       1.3   13.1   0.0   3.4   3   0   0   3   3   3   0 TSA: Andrena haemorrhoa isolate ahae3 contig1345, transcribed RNA sequence
+GHFU01017435.1_5     -          LOTUS_CONSENSUS      -                1.6   12.7   0.1   1.8e+02    6.2   0.0   2.3   2   1   0   2   2   2   0 TSA: Andrena haemorrhoa isolate ahae3 contig19414, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:51 2019
+# [ok]

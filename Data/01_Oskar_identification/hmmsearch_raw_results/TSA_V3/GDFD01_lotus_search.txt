@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFD01038042.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.062   17.7   0.0       7.1   11.0   0.0   2.9   3   0   0   3   3   3   0 TSA: Aradus betulae breed wildtype C248824_a_8_0_l_1168, transcribed RNA sequence
+GDFD01045340.1_3     -          oskar_filtered.aligned.LOTUS_domain -                  2   12.8   0.1       5.5   11.4   0.1   1.7   1   0   0   1   1   1   0 TSA: Aradus betulae breed wildtype s14116_L_54895_0_a_30_3_l_2079, transcribed RNA sequence
+GDFD01042083.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.5   12.5   1.9       3.1   12.2   0.2   1.9   2   0   0   2   2   2   0 TSA: Aradus betulae breed wildtype s11184_L_30361_0_a_23_4_l_890, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:38 2019
+# [ok]

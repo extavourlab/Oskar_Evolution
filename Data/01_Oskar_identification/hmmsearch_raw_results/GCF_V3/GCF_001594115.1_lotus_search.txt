@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018354843.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-31  109.4   0.0   3.2e-31  107.8   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108755919 [Trachymyrmex septentrionalis]
+XP_018341171.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-21   75.2   0.4   3.8e-18   65.8   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Trachymyrmex septentrionalis]
+XP_018341169.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-21   75.2   0.4   3.8e-18   65.8   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Trachymyrmex septentrionalis]
+XP_018341170.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-21   75.2   0.4   3.8e-18   65.8   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Trachymyrmex septentrionalis]
+XP_018346914.1       -          oskar_filtered.aligned.LOTUS_domain -            5.8e-17   62.0  11.3   3.2e-13   50.0   0.1   4.7   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC108751309 [Trachymyrmex septentrionalis]
+XP_018352385.1       -          oskar_filtered.aligned.LOTUS_domain -              0.057   13.9   0.2        13    6.3   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like [Trachymyrmex septentrionalis]
+XP_018348140.1       -          oskar_filtered.aligned.LOTUS_domain -              0.061   13.8   0.1        10    6.7   0.0   2.9   2   0   0   2   2   2   0 PREDICTED: annexin B11-like isoform X2 [Trachymyrmex septentrionalis]
+XP_018348141.1       -          oskar_filtered.aligned.LOTUS_domain -              0.061   13.8   0.1        10    6.7   0.0   2.9   2   0   0   2   2   2   0 PREDICTED: annexin B11-like isoform X2 [Trachymyrmex septentrionalis]
+XP_018348142.1       -          oskar_filtered.aligned.LOTUS_domain -              0.061   13.8   0.1        10    6.7   0.0   2.9   2   0   0   2   2   2   0 PREDICTED: annexin B11-like isoform X2 [Trachymyrmex septentrionalis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594115.1_Tsep1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594115.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594115.1_Tsep1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:55 2019
+# [ok]

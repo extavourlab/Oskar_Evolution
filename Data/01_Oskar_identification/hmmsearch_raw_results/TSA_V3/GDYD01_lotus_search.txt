@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYD01029471.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.48   15.4   0.6      0.52   15.3   0.6   1.1   1   0   0   1   1   1   0 TSA: Tivia sp. AD-2015 breed wildtype C347192_a_5_0_l_258, transcribed RNA sequence
+GDYD01062717.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.3   0.0   1.5e+03    4.2   0.0   3.5   3   1   1   4   4   4   0 TSA: Tivia sp. AD-2015 breed wildtype C448686_a_4_0_l_948, transcribed RNA sequence
+GDYD01042735.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.6   0.0       2.2   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Tivia sp. AD-2015 breed wildtype C385277_a_3_0_l_332, transcribed RNA sequence
+GDYD01027373.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.0   0.0       3.1   12.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Tivia sp. AD-2015 breed wildtype C341975_a_5_0_l_252, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:10 2019
+# [ok]

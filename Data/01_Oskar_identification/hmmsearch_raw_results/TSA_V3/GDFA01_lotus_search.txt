@@ -1,0 +1,15 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFA01008647.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00064   22.9   0.0   0.00087   22.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Metatropis rufescens breed wildtype C53763_a_3_0_l_393, transcribed RNA sequence
+GDFA01013316.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.22   14.7   0.5      0.48   13.6   0.5   1.6   1   1   0   1   1   1   0 TSA: Metatropis rufescens breed wildtype C67703_a_9_0_l_672, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:04 2019
+# [ok]

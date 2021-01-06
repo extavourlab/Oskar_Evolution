@@ -1,0 +1,23 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWU02029454.1_1     -          oskar_filtered.aligned.OSK_domain -            1.2e-25   94.4   0.2   1.4e-25   94.2   0.2   1.1   1   0   0   1   1   1   1 TSA: Aposthonia japonica C177553_a_4_0_l_713 transcribed RNA sequence
+GAWU02053814.1_3     -          oskar_filtered.aligned.OSK_domain -            5.5e-23   85.7   0.0   8.8e-23   85.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Aposthonia japonica s9420_L_42797_0_a_31_3_l_2646 transcribed RNA sequence
+GAWU02011495.1_5     -          oskar_filtered.aligned.OSK_domain -            3.9e-12   50.3   0.1   4.6e-12   50.1   0.1   1.0   1   0   0   1   1   1   1 TSA: Aposthonia japonica C128471_a_6_0_l_296 transcribed RNA sequence
+GAWU02031420.1_5     -          oskar_filtered.aligned.OSK_domain -             0.0031   21.3   0.1    0.0041   20.9   0.1   1.2   1   0   0   1   1   1   1 TSA: Aposthonia japonica C182901_a_10_0_l_830 transcribed RNA sequence
+GAWU02033930.1_3     -          oskar_filtered.aligned.OSK_domain -              0.018   18.8   3.9     0.021   18.6   3.1   1.8   1   1   0   1   1   1   0 TSA: Aposthonia japonica C189752_a_10_0_l_1052 transcribed RNA sequence
+GAWU02030367.1_4     -          oskar_filtered.aligned.OSK_domain -              0.046   17.5   1.0     0.061   17.1   1.0   1.3   1   0   0   1   1   1   0 TSA: Aposthonia japonica C180047_a_16_0_l_764 transcribed RNA sequence
+GAWU02052495.1_5     -          oskar_filtered.aligned.OSK_domain -               0.47   14.2   1.3      0.84   13.4   1.3   1.4   1   0   0   1   1   1   0 TSA: Aposthonia japonica s8228_L_30853_0_a_43_4_l_1374 transcribed RNA sequence
+GAWU02052496.1_5     -          oskar_filtered.aligned.OSK_domain -                0.6   13.9   1.1       1.1   13.1   1.1   1.5   1   0   0   1   1   1   0 TSA: Aposthonia japonica s8229_L_30853_1_a_42_7_l_1596 transcribed RNA sequence
+GAWU02014738.1_6     -          oskar_filtered.aligned.OSK_domain -               0.84   13.4   2.9       1.1   13.0   2.9   1.3   1   0   0   1   1   1   0 TSA: Aposthonia japonica C137541_a_5_0_l_337 transcribed RNA sequence
+GAWU02009373.1_2     -          oskar_filtered.aligned.OSK_domain -                1.1   13.0   0.1       1.2   12.9   0.1   1.0   1   0   0   1   1   1   0 TSA: Aposthonia japonica C122341_a_5_0_l_272 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWU02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWU02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWU02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:43 2019
+# [ok]

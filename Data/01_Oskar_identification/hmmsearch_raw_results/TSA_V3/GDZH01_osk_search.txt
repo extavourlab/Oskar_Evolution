@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDZH01025331.1_1     -          oskar_filtered.aligned.OSK_domain -                0.2   15.6   0.1       0.3   15.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Deropeltis erythrocephala breed wildtype C183080_a_4_0_l_383, transcribed RNA sequence
+GDZH01039440.1_4     -          oskar_filtered.aligned.OSK_domain -                1.4   12.8   0.1       2.8   11.8   0.1   1.8   1   1   0   1   1   1   0 TSA: Deropeltis erythrocephala breed wildtype C223376_a_4_0_l_761, transcribed RNA sequence
+GDZH01005139.1_3     -          oskar_filtered.aligned.OSK_domain -                1.6   12.6   0.0       1.7   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Deropeltis erythrocephala breed wildtype C130546_a_3_0_l_234, transcribed RNA sequence
+GDZH01025794.1_2     -          oskar_filtered.aligned.OSK_domain -                2.1   12.3   3.0       3.9   11.4   3.0   1.5   1   1   0   1   1   1   0 TSA: Deropeltis erythrocephala breed wildtype C184314_a_3_0_l_389, transcribed RNA sequence
+GDZH01059144.1_3     -          oskar_filtered.aligned.OSK_domain -                4.1   11.3   1.9       7.5   10.5   1.9   1.4   1   0   0   1   1   1   0 TSA: Deropeltis erythrocephala breed wildtype s7355_L_14358_0_a_10_6_l_1544, transcribed RNA sequence
+GDZH01020637.1_5     -          oskar_filtered.aligned.OSK_domain -                8.9   10.2   3.4       9.5   10.1   3.4   1.1   1   0   0   1   1   1   0 TSA: Deropeltis erythrocephala breed wildtype C170107_a_3_0_l_325, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDZH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:09 2019
+# [ok]

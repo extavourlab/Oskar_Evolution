@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFH01046574.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-19   74.2   0.0   3.1e-18   70.0   0.0   2.6   2   0   0   2   2   2   1 TSA: Metcalfa pruinosa breed wildtype C231609_a_14_0_l_4350, transcribed RNA sequence
+GDFH01048701.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00023   25.5   0.1        42    8.6   0.0   5.2   3   1   1   5   5   5   2 TSA: Metcalfa pruinosa breed wildtype s11901_L_63488_0_a_21_6_l_3170, transcribed RNA sequence
+GDFH01018938.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.23   15.9   0.0      0.31   15.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Metcalfa pruinosa breed wildtype C151049_a_4_0_l_305, transcribed RNA sequence
+GDFH01009094.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.82   14.1   0.5      0.99   13.9   0.5   1.2   1   0   0   1   1   1   0 TSA: Metcalfa pruinosa breed wildtype C125309_a_6_0_l_244, transcribed RNA sequence
+GDFH01053280.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.9   14.0   0.0         3   12.3   0.0   1.8   1   0   0   1   1   1   0 TSA: Metcalfa pruinosa breed wildtype s5171_L_11791_0_a_4_8_l_1413, transcribed RNA sequence
+GDFH01053281.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.97   13.9   0.2       4.3   11.8   0.0   2.1   2   0   0   2   2   2   0 TSA: Metcalfa pruinosa breed wildtype s5172_L_11791_1_a_12_2_l_1843, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:49 2019
+# [ok]

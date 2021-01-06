@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOW01085898.1_1     -          OSK_CONSENSUS        -            6.8e-10   44.5   0.0   1.3e-09   43.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Photinus pyralis TR45873_c0_g1_i3 transcribed RNA sequence
+GEOW01084738.1_6     -          OSK_CONSENSUS        -            1.7e-07   36.7   0.0   2.2e-07   36.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Photinus pyralis TR45808_c0_g3_i1 transcribed RNA sequence
+GEOW01084739.1_5     -          OSK_CONSENSUS        -            0.00055   25.4   0.0   0.00069   25.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Photinus pyralis TR45808_c0_g3_i2 transcribed RNA sequence
+GEOW01085902.1_2     -          OSK_CONSENSUS        -              0.025   20.0   0.0     0.048   19.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45873_c0_g1_i7 transcribed RNA sequence
+GEOW01084747.1_4     -          OSK_CONSENSUS        -              0.031   19.7   0.0     0.037   19.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45808_c0_g8_i1 transcribed RNA sequence
+GEOW01085910.1_2     -          OSK_CONSENSUS        -              0.032   19.6   0.0     0.056   18.8   0.0   1.3   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45873_c0_g1_i12 transcribed RNA sequence
+GEOW01085897.1_2     -          OSK_CONSENSUS        -              0.053   18.9   0.0       0.1   18.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45873_c0_g1_i2 transcribed RNA sequence
+GEOW01129455.1_2     -          OSK_CONSENSUS        -               0.23   16.8   0.1      0.25   16.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Photinus pyralis TR67244_c0_g1_i1 transcribed RNA sequence
+GEOW01147020.1_3     -          OSK_CONSENSUS        -                0.3   16.4   0.0      0.41   16.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR77030_c0_g1_i1 transcribed RNA sequence
+GEOW01085375.1_5     -          OSK_CONSENSUS        -               0.33   16.3   0.2      0.66   15.3   0.2   1.4   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45848_c0_g1_i1 transcribed RNA sequence
+GEOW01085376.1_6     -          OSK_CONSENSUS        -               0.39   16.1   0.2       0.9   14.9   0.2   1.5   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45848_c0_g1_i2 transcribed RNA sequence
+GEOW01160163.1_1     -          OSK_CONSENSUS        -               0.65   15.3   0.4      0.81   15.0   0.4   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR85302_c0_g1_i1 transcribed RNA sequence
+GEOW01077270.1_3     -          OSK_CONSENSUS        -                1.3   14.4   0.0       1.4   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR41177_c0_g1_i1 transcribed RNA sequence
+GEOW01111449.1_6     -          OSK_CONSENSUS        -                1.9   13.8   0.0       2.3   13.6   0.0   1.0   1   0   0   1   1   1   0 TSA: Photinus pyralis TR58363_c0_g1_i1 transcribed RNA sequence
+GEOW01017904.1_5     -          OSK_CONSENSUS        -                2.6   13.4   0.4   2.3e+02    7.1   0.1   2.2   1   1   1   2   2   2   0 TSA: Photinus pyralis TR8110_c0_g1_i1 transcribed RNA sequence
+GEOW01168414.1_1     -          OSK_CONSENSUS        -                2.7   13.3   0.2       3.4   13.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR93490_c0_g1_i1 transcribed RNA sequence
+GEOW01139206.1_4     -          OSK_CONSENSUS        -                2.8   13.3   0.1         5   12.5   0.1   1.3   1   0   0   1   1   1   0 TSA: Photinus pyralis TR73391_c0_g1_i2 transcribed RNA sequence
+GEOW01139205.1_4     -          OSK_CONSENSUS        -                  3   13.2   0.1       5.5   12.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Photinus pyralis TR73391_c0_g1_i1 transcribed RNA sequence
+GEOW01017905.1_4     -          OSK_CONSENSUS        -                3.5   13.0   0.4   2.9e+02    6.7   0.0   2.2   1   1   1   2   2   2   0 TSA: Photinus pyralis TR8110_c0_g1_i2 transcribed RNA sequence
+GEOW01041599.1_3     -          OSK_CONSENSUS        -                4.2   12.7   0.1       5.9   12.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Photinus pyralis TR22037_c0_g2_i1 transcribed RNA sequence
+GEOW01110178.1_2     -          OSK_CONSENSUS        -                5.6   12.3   0.0       8.7   11.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Photinus pyralis TR57767_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:02 2019
+# [ok]

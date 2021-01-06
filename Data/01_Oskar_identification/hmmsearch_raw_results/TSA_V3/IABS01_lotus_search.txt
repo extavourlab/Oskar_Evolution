@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IABS01020334.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-31  111.8   0.1   1.1e-30  109.9   0.0   2.1   2   0   0   2   2   2   1 TSA: Crematogaster osakensis mRNA, contig: comp66100_c0_seq1.m.86783, transcribed RNA sequence
+IABS01030454.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-21   78.4   0.0   9.4e-21   78.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Crematogaster osakensis mRNA, contig: comp69347_c0_seq3.m.188749, transcribed RNA sequence
+IABS01048303.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-15   59.1   0.0   1.5e-10   45.2   0.0   2.8   2   0   0   2   2   2   2 TSA: Crematogaster osakensis mRNA, contig: comp71699_c2_seq2.m.452383, transcribed RNA sequence
+IABS01034352.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0014   22.9   0.0        67    7.9   0.0   5.0   3   2   3   6   6   6   1 TSA: Crematogaster osakensis mRNA, contig: comp70020_c3_seq2.m.237123, transcribed RNA sequence
+IABS01034346.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0023   22.2   0.0        75    7.7   0.0   4.9   3   2   3   6   6   6   1 TSA: Crematogaster osakensis mRNA, contig: comp70020_c3_seq1.m.237105, transcribed RNA sequence
+IABS01015200.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.4   0.0       1.7   13.0   0.0   1.3   1   1   0   1   1   1   0 TSA: Crematogaster osakensis mRNA, contig: comp62576_c0_seq2.m.54844, transcribed RNA sequence
+IABS01007304.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.4   12.5   0.0       3.4   12.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Crematogaster osakensis mRNA, contig: comp46985_c0_seq1.m.20831, transcribed RNA sequence
+IABS01019619.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.4   12.0   0.1   1.1e+02    7.2   0.0   2.6   2   0   0   2   2   2   0 TSA: Crematogaster osakensis mRNA, contig: comp65753_c0_seq1.m.81773, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IABS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:38 2019
+# [ok]

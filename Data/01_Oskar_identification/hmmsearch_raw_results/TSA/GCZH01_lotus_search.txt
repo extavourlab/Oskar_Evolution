@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZH01036937.1_3     -          LOTUS_CONSENSUS      -            1.1e-19   74.6   5.5   1.4e-10   45.3   0.1   5.1   4   0   0   4   4   4   4 TSA: Prociphilus tessellatus breed wildtype s11465_L_34859_1_29_0_FORK, transcribed RNA sequence
+GCZH01039456.1_3     -          LOTUS_CONSENSUS      -            6.4e-16   62.5   0.1   6.4e-16   62.5   0.1   3.4   5   0   0   5   5   5   1 TSA: Prociphilus tessellatus breed wildtype s13733_L_45338_0_55_6_LINEAR, transcribed RNA sequence
+GCZH01048882.1_1     -          LOTUS_CONSENSUS      -            1.9e-10   44.9   0.0   1.9e-10   44.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Prociphilus tessellatus breed wildtype s7023_L_18787_4_31_3_COMPLEX, transcribed RNA sequence
+GCZH01048880.1_1     -          LOTUS_CONSENSUS      -              5e-10   43.6   0.0     5e-10   43.6   0.0   2.7   3   0   0   3   3   3   1 TSA: Prociphilus tessellatus breed wildtype s7021_L_18787_2_35_2_COMPLEX, transcribed RNA sequence
+GCZH01048877.1_1     -          LOTUS_CONSENSUS      -            5.8e-10   43.4   0.0   5.8e-10   43.4   0.0   2.3   2   0   0   2   2   2   1 TSA: Prociphilus tessellatus breed wildtype s7019_L_18787_0_42_3_COMPLEX, transcribed RNA sequence
+GCZH01048879.1_1     -          LOTUS_CONSENSUS      -            2.1e-07   35.1   0.0   2.1e-07   35.1   0.0   2.1   2   0   0   2   2   2   1 TSA: Prociphilus tessellatus breed wildtype s7020_L_18787_1_44_8_COMPLEX, transcribed RNA sequence
+GCZH01036936.1_1     -          LOTUS_CONSENSUS      -            1.1e-06   32.9   1.8       4.3   11.7   0.1   3.8   3   0   0   3   3   3   3 TSA: Prociphilus tessellatus breed wildtype s11464_L_34859_0_32_8_FORK, transcribed RNA sequence
+GCZH01028815.1_1     -          LOTUS_CONSENSUS      -            2.6e-05   28.4   0.4   0.00073   23.8   0.0   2.7   2   0   0   2   2   2   1 TSA: Prociphilus tessellatus breed wildtype C207220_28_0, transcribed RNA sequence
+GCZH01041318.1_6     -          LOTUS_CONSENSUS      -               0.22   15.9   3.1     5e+02    5.1   0.0   5.7   5   2   2   7   7   7   0 TSA: Prociphilus tessellatus breed wildtype s1540_L_3709_0_52_9_COMPLEX, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:16 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFF01034667.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-19   73.2   0.4   3.5e-18   69.4   0.0   2.6   3   0   0   3   3   3   1 TSA: Centrotus cornutus breed wildtype s3386_L_5101_0_a_27_3_l_1152, transcribed RNA sequence
+GDFF01034668.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-19   72.5   0.4   4.6e-18   69.0   0.0   2.6   3   0   0   3   3   3   1 TSA: Centrotus cornutus breed wildtype s3387_L_5101_1_a_25_3_l_1341, transcribed RNA sequence
+GDFF01040336.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-12   49.4   0.0     0.068   17.1   0.0   5.7   2   1   3   5   5   5   4 TSA: Centrotus cornutus breed wildtype s8503_L_42530_0_a_21_4_l_3889, transcribed RNA sequence
+GDFF01017488.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0019   22.1   2.0        71    7.4   0.3   5.2   3   1   2   5   5   5   1 TSA: Centrotus cornutus breed wildtype C150249_a_28_0_l_2870, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:29 2019
+# [ok]

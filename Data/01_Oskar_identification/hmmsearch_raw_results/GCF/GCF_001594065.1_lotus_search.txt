@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018407286.1       -          LOTUS_CONSENSUS      -            5.1e-28   97.1   1.2   1.1e-27   96.0   0.0   2.2   2   1   1   3   3   3   1 PREDICTED: maternal effect protein oskar [Cyphomyrmex costatus]
+XP_018399056.1       -          LOTUS_CONSENSUS      -            9.1e-22   77.0   0.2   6.7e-19   67.8   0.0   3.4   3   0   0   3   3   3   2 PREDICTED: tudor domain-containing protein 7 isoform X2 [Cyphomyrmex costatus]
+XP_018399055.1       -          LOTUS_CONSENSUS      -            9.2e-22   77.0   0.2   6.7e-19   67.8   0.0   3.4   3   0   0   3   3   3   2 PREDICTED: tudor domain-containing protein 7 isoform X1 [Cyphomyrmex costatus]
+XP_018406619.1       -          LOTUS_CONSENSUS      -              9e-16   57.8   6.4   1.2e-11   44.6   0.1   4.0   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC108782760 [Cyphomyrmex costatus]
+XP_018398130.1       -          LOTUS_CONSENSUS      -             0.0022   18.1   0.0       8.9    6.5   0.0   4.9   2   1   3   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog [Cyphomyrmex costatus]
+XP_018396778.1       -          LOTUS_CONSENSUS      -              0.039   14.1   0.6       0.2   11.8   0.6   2.0   1   1   0   1   1   1   0 PREDICTED: probable oligoribonuclease [Cyphomyrmex costatus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594065.1_Ccosl1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594065.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594065.1_Ccosl1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:55 2019
+# [ok]

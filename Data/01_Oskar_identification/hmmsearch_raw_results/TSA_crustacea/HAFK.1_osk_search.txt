@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFK01057523.1_2     -          OSK_CONSENSUS        -               0.04   18.3   0.0     0.044   18.1   0.0   1.0   1   0   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp293036_c0_seq1, transcribed RNA sequence
+HAFK01025744.1_5     -          OSK_CONSENSUS        -               0.36   15.2   0.2       0.5   14.7   0.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp27308_c1_seq4, transcribed RNA sequence
+HAFK01000407.1_2     -          OSK_CONSENSUS        -                1.6   13.1   0.1         2   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp535_c0_seq1, transcribed RNA sequence
+HAFK01053163.1_1     -          OSK_CONSENSUS        -                2.3   12.5   0.2       2.8   12.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp250558_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFK.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFK.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFK.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:32 2019
+# [ok]

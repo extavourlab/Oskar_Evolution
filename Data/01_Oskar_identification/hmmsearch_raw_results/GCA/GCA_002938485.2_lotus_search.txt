@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g193.t1              -          LOTUS_CONSENSUS      -            2.3e-13   49.7   0.0   1.3e-12   47.3   0.0   2.5   1   0   0   1   1   1   1 -
+g5700.t1             -          LOTUS_CONSENSUS      -               0.03   14.1   0.2     0.052   13.3   0.2   1.6   1   1   0   1   1   1   0 -
+g4606.t1             -          LOTUS_CONSENSUS      -              0.031   14.1   0.3      0.12   12.1   0.3   1.9   1   1   0   1   1   1   0 -
+g8005.t1             -          LOTUS_CONSENSUS      -              0.034   13.9   0.1      0.12   12.2   0.1   2.0   1   0   0   1   1   1   0 -
+g118.t1              -          LOTUS_CONSENSUS      -              0.036   13.9   0.1      0.12   12.2   0.1   1.9   1   0   0   1   1   1   0 -
+g5667.t1             -          LOTUS_CONSENSUS      -              0.039   13.7   0.3      0.12   12.2   0.0   1.9   2   0   0   2   2   2   0 -
+g4284.t1             -          LOTUS_CONSENSUS      -              0.043   13.6   0.1      0.14   11.9   0.1   2.0   1   1   0   1   1   1   0 -
+g645.t1              -          LOTUS_CONSENSUS      -              0.073   12.9   0.1     0.097   12.5   0.1   1.4   1   1   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_002938485.2_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_002938485.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_002938485.2_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:47:50 2019
+# [ok]

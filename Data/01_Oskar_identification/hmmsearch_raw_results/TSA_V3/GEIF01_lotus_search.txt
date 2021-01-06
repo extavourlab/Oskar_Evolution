@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEIF01060689.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-28  103.1   0.0   2.4e-28  102.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Periplaneta americana Unigene50983_All transcribed RNA sequence
+GEIF01052905.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.63   14.9   2.6      0.76   14.7   2.6   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene43972_All transcribed RNA sequence
+GEIF01053487.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.73   14.7   2.0       1.2   14.0   2.0   1.4   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene44497_All transcribed RNA sequence
+GEIF01018920.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.93   14.4   1.3         1   14.3   1.3   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene13294_All transcribed RNA sequence
+GEIF01006977.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.5   0.0       2.3   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana CL3628.Contig2_All transcribed RNA sequence
+GEIF01024063.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.4   0.1         5   12.0   0.0   1.7   2   0   0   2   2   2   0 TSA: Periplaneta americana Unigene17926_All transcribed RNA sequence
+GEIF01019216.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.5   13.0   0.0       3.1   12.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene13560_All transcribed RNA sequence
+GEIF01069654.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.9   12.8   0.0         4   12.4   0.0   1.3   1   1   0   1   1   1   0 TSA: Periplaneta americana Unigene59051_All transcribed RNA sequence
+GEIF01006976.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.1   12.7   0.0       4.3   12.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana CL3628.Contig1_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEIF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEIF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEIF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:48 2019
+# [ok]

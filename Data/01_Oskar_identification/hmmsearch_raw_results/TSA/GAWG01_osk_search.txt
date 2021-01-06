@@ -1,0 +1,55 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWG01078019.1_6     -          OSK_CONSENSUS        -            9.7e-29  105.7   0.0   2.5e-28  104.4   0.0   1.7   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp85838_c1_seq1 transcribed RNA sequence
+GAWG01038413.1_3     -          OSK_CONSENSUS        -            3.4e-19   74.7   0.4   5.8e-19   73.9   0.1   1.5   2   0   0   2   2   1   1 TSA: Extatosoma tiaratum comp74701_c1_seq2 transcribed RNA sequence
+GAWG01038412.1_3     -          OSK_CONSENSUS        -            4.9e-19   74.2   0.1   7.5e-19   73.6   0.1   1.2   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp74701_c1_seq1 transcribed RNA sequence
+GAWG01081602.1_6     -          OSK_CONSENSUS        -            5.1e-17   67.6   0.3   1.5e-16   66.1   0.0   1.9   2   0   0   2   2   2   1 TSA: Extatosoma tiaratum comp86067_c0_seq13 transcribed RNA sequence
+GAWG01081606.1_5     -          OSK_CONSENSUS        -            9.7e-17   66.7   0.0   1.6e-16   66.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp86067_c0_seq17 transcribed RNA sequence
+GAWG01081604.1_6     -          OSK_CONSENSUS        -            1.1e-16   66.5   0.4   3.4e-16   65.0   0.0   1.9   2   0   0   2   2   2   1 TSA: Extatosoma tiaratum comp86067_c0_seq15 transcribed RNA sequence
+GAWG01081593.1_6     -          OSK_CONSENSUS        -              2e-16   65.7   0.0   7.1e-16   63.9   0.0   2.0   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp86067_c0_seq4 transcribed RNA sequence
+GAWG01081598.1_5     -          OSK_CONSENSUS        -              2e-16   65.7   0.0   3.6e-16   64.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp86067_c0_seq9 transcribed RNA sequence
+GAWG01081603.1_5     -          OSK_CONSENSUS        -            2.9e-16   65.2   0.0   7.3e-16   63.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp86067_c0_seq14 transcribed RNA sequence
+GAWG01081611.1_6     -          OSK_CONSENSUS        -            3.2e-16   65.0   0.4   6.6e-16   64.0   0.0   1.7   2   0   0   2   2   1   1 TSA: Extatosoma tiaratum comp86067_c0_seq22 transcribed RNA sequence
+GAWG01081597.1_5     -          OSK_CONSENSUS        -            4.1e-16   64.7   0.0   6.8e-16   64.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp86067_c0_seq8 transcribed RNA sequence
+GAWG01072010.1_3     -          OSK_CONSENSUS        -              4e-14   58.2   0.0   5.2e-14   57.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp85459_c3_seq8 transcribed RNA sequence
+GAWG01072007.1_2     -          OSK_CONSENSUS        -            5.3e-14   57.8   0.0   6.8e-14   57.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp85459_c3_seq5 transcribed RNA sequence
+GAWG01072008.1_2     -          OSK_CONSENSUS        -            3.2e-12   52.0   0.0   7.5e-12   50.8   0.0   1.6   1   1   0   1   1   1   1 TSA: Extatosoma tiaratum comp85459_c3_seq6 transcribed RNA sequence
+GAWG01034959.1_4     -          OSK_CONSENSUS        -            3.3e-12   52.0   0.0   6.9e-12   50.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp71825_c0_seq1 transcribed RNA sequence
+GAWG01041641.1_6     -          OSK_CONSENSUS        -            1.5e-10   46.6   0.0   1.5e-10   46.6   0.0   2.5   1   1   1   2   2   1   1 TSA: Extatosoma tiaratum comp76761_c0_seq2 transcribed RNA sequence
+GAWG01041640.1_6     -          OSK_CONSENSUS        -            5.1e-09   41.6   0.0   5.1e-09   41.6   0.0   1.9   1   1   1   2   2   1   1 TSA: Extatosoma tiaratum comp76761_c0_seq1 transcribed RNA sequence
+GAWG01005356.1_4     -          OSK_CONSENSUS        -            1.4e-06   33.7   0.0   1.6e-06   33.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp14910_c0_seq1 transcribed RNA sequence
+GAWG01050134.1_4     -          OSK_CONSENSUS        -            2.1e-06   33.1   0.0   4.6e-06   32.0   0.0   1.5   2   0   0   2   2   1   1 TSA: Extatosoma tiaratum comp81328_c0_seq1 transcribed RNA sequence
+GAWG01035683.1_1     -          OSK_CONSENSUS        -            8.1e-06   31.2   0.2     2e-05   29.9   0.0   1.8   2   0   0   2   2   2   1 TSA: Extatosoma tiaratum comp72522_c0_seq1 transcribed RNA sequence
+GAWG01053944.1_3     -          OSK_CONSENSUS        -             0.0035   22.6   0.0    0.0041   22.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Extatosoma tiaratum comp82660_c0_seq3 transcribed RNA sequence
+GAWG01053942.1_3     -          OSK_CONSENSUS        -              0.016   20.5   0.0      0.03   19.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp82660_c0_seq1 transcribed RNA sequence
+GAWG01051000.1_5     -          OSK_CONSENSUS        -              0.042   19.1   0.0     0.051   18.9   0.0   1.0   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp81633_c1_seq1 transcribed RNA sequence
+GAWG01072011.1_1     -          OSK_CONSENSUS        -              0.064   18.5   0.0     0.088   18.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp85459_c3_seq9 transcribed RNA sequence
+GAWG01072009.1_3     -          OSK_CONSENSUS        -              0.076   18.3   0.0      0.11   17.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp85459_c3_seq7 transcribed RNA sequence
+GAWG01050136.1_3     -          OSK_CONSENSUS        -              0.092   18.0   0.0      0.11   17.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp81328_c1_seq1 transcribed RNA sequence
+GAWG01011291.1_6     -          OSK_CONSENSUS        -               0.34   16.2   0.3      0.41   15.9   0.3   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp36832_c0_seq1 transcribed RNA sequence
+GAWG01072006.1_3     -          OSK_CONSENSUS        -               0.59   15.4   0.0         2   13.7   0.0   1.9   2   0   0   2   2   1   0 TSA: Extatosoma tiaratum comp85459_c3_seq4 transcribed RNA sequence
+GAWG01110497.1_6     -          OSK_CONSENSUS        -                0.7   15.2   0.1      0.81   15.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp558674_c0_seq1 transcribed RNA sequence
+GAWG01115975.1_6     -          OSK_CONSENSUS        -               0.96   14.7   0.0       1.1   14.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp731312_c0_seq1 transcribed RNA sequence
+GAWG01021623.1_4     -          OSK_CONSENSUS        -                  1   14.6   0.0       1.4   14.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp56967_c0_seq1 transcribed RNA sequence
+GAWG01028707.1_3     -          OSK_CONSENSUS        -                2.2   13.5   0.0       2.8   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp65626_c0_seq1 transcribed RNA sequence
+GAWG01140561.1_5     -          OSK_CONSENSUS        -                2.5   13.4   0.1       2.8   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp1391867_c0_seq1 transcribed RNA sequence
+GAWG01097737.1_4     -          OSK_CONSENSUS        -                2.5   13.4   0.1   1.1e+02    8.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Extatosoma tiaratum comp87066_c1_seq1 transcribed RNA sequence
+GAWG01129034.1_3     -          OSK_CONSENSUS        -                2.8   13.2   0.1       3.1   13.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp1041285_c0_seq1 transcribed RNA sequence
+GAWG01133458.1_3     -          OSK_CONSENSUS        -                3.5   12.9   0.0       3.5   12.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp1190412_c0_seq1 transcribed RNA sequence
+GAWG01033263.1_5     -          OSK_CONSENSUS        -                4.5   12.5   0.0        13   11.1   0.0   1.7   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp70208_c2_seq1 transcribed RNA sequence
+GAWG01069380.1_3     -          OSK_CONSENSUS        -                4.6   12.5   4.0        15   10.8   0.5   2.4   1   1   1   2   2   2   0 TSA: Extatosoma tiaratum comp85279_c0_seq2 transcribed RNA sequence
+GAWG01100987.1_1     -          OSK_CONSENSUS        -                4.9   12.4   0.1        33    9.7   0.0   2.5   2   0   0   2   2   2   0 TSA: Extatosoma tiaratum comp90564_c1_seq1 transcribed RNA sequence
+GAWG01135668.1_5     -          OSK_CONSENSUS        -                5.6   12.2   0.0       6.1   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp1222941_c0_seq1 transcribed RNA sequence
+GAWG01106708.1_4     -          OSK_CONSENSUS        -                5.8   12.2   0.5       7.6   11.8   0.5   1.2   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp432973_c0_seq1 transcribed RNA sequence
+GAWG01073734.1_2     -          OSK_CONSENSUS        -                6.1   12.1   0.3       6.8   11.9   0.3   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp85568_c0_seq4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:29 2019
+# [ok]

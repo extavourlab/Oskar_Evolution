@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHEU01001527.1_5     -          OSK_CONSENSUS        -            4.6e-57  193.8   1.2   4.6e-57  193.8   1.2   1.8   2   0   0   2   2   2   1 TSA: Coenosia sp. anthr013 isolate anthr Coenosia_sp_contig_1665.1, transcribed RNA sequence
+GHEU01000660.1_5     -          OSK_CONSENSUS        -            1.7e-56  192.0   1.9   4.6e-56  190.5   1.4   2.1   2   0   0   2   2   2   1 TSA: Coenosia sp. anthr013 isolate anthr Coenosia_sp_contig_666.1, transcribed RNA sequence
+GHEU01006025.1_3     -          OSK_CONSENSUS        -               0.32   12.3   0.9       0.5   11.7   0.1   1.7   2   0   0   2   2   2   0 TSA: Coenosia sp. anthr013 isolate anthr Coenosia_sp_contig_7986.1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHEU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHEU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHEU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:40 2019
+# [ok]

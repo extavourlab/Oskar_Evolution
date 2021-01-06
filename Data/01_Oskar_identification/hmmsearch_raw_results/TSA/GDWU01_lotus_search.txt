@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWU01071326.1_4     -          LOTUS_CONSENSUS      -              6e-15   59.8   0.0   1.9e-14   58.2   0.0   1.9   1   0   0   1   1   1   1 TSA: Supella longipalpa breed wildtype s9673_L_19095_2_a_3_9_l_667, transcribed RNA sequence
+GDWU01071325.1_6     -          LOTUS_CONSENSUS      -            9.8e-15   59.1   0.0     3e-14   57.6   0.0   1.9   1   0   0   1   1   1   1 TSA: Supella longipalpa breed wildtype s9672_L_19095_1_a_6_4_l_855, transcribed RNA sequence
+GDWU01061939.1_4     -          LOTUS_CONSENSUS      -               0.02   19.7   0.0   2.1e+02    6.7   0.0   4.5   3   1   2   5   5   5   0 TSA: Supella longipalpa breed wildtype s17742_L_69312_0_a_14_6_l_4501, transcribed RNA sequence
+GDWU01017881.1_3     -          LOTUS_CONSENSUS      -              0.033   19.0   0.0     0.043   18.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Supella longipalpa breed wildtype C192039_a_6_0_l_299, transcribed RNA sequence
+GDWU01037149.1_5     -          LOTUS_CONSENSUS      -              0.038   18.8   3.2     0.038   18.8   3.2   1.6   2   0   0   2   2   2   0 TSA: Supella longipalpa breed wildtype C250072_a_3_0_l_559, transcribed RNA sequence
+GDWU01057048.1_5     -          LOTUS_CONSENSUS      -               0.17   16.6   0.2       1.9   13.3   0.1   2.5   1   1   1   2   2   2   0 TSA: Supella longipalpa breed wildtype s13334_L_31964_1_a_10_1_l_3194, transcribed RNA sequence
+GDWU01064349.1_6     -          LOTUS_CONSENSUS      -               0.96   14.2   0.9       3.7   12.4   0.0   2.1   1   1   1   2   2   2   0 TSA: Supella longipalpa breed wildtype s3377_L_4192_0_a_42_7_l_989_a, transcribed RNA sequence
+GDWU01064350.1_5     -          LOTUS_CONSENSUS      -                  1   14.2   0.9       3.9   12.3   0.0   2.1   1   1   1   2   2   2   0 TSA: Supella longipalpa breed wildtype s3378_L_4192_1_a_45_1_l_1009_a, transcribed RNA sequence
+GDWU01008144.1_1     -          LOTUS_CONSENSUS      -                2.5   12.9   2.7       9.5   11.1   2.7   1.8   1   1   0   1   1   1   0 TSA: Supella longipalpa breed wildtype C165392_a_4_0_l_247, transcribed RNA sequence
+GDWU01061236.1_6     -          LOTUS_CONSENSUS      -                6.4   11.6   3.1        14   10.5   0.1   2.2   2   0   0   2   2   2   0 TSA: Supella longipalpa breed wildtype s17108_L_62543_0_a_9_1_l_1068_b, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:59:31 2019
+# [ok]

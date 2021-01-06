@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDZF01042663.1_5     -          OSK_CONSENSUS        -            3.2e-08   38.1   0.0   4.5e-08   37.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Eucorydia yasumatsui breed wildtype C307272_a_3_0_l_341, transcribed RNA sequence
+GDZF01014227.1_4     -          OSK_CONSENSUS        -              0.017   19.5   0.9     0.017   19.5   0.9   1.1   1   0   0   1   1   1   0 TSA: Eucorydia yasumatsui breed wildtype C235833_a_4_0_l_235, transcribed RNA sequence
+GDZF01051513.1_2     -          OSK_CONSENSUS        -               0.25   15.7   0.0      0.34   15.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Eucorydia yasumatsui breed wildtype C332549_a_19_0_l_442, transcribed RNA sequence
+GDZF01047948.1_3     -          OSK_CONSENSUS        -               0.39   15.1   0.1      0.43   14.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Eucorydia yasumatsui breed wildtype C322336_a_4_0_l_394, transcribed RNA sequence
+GDZF01071657.1_1     -          OSK_CONSENSUS        -                1.5   13.2   0.3        13   10.2   0.3   2.0   1   1   1   2   2   2   0 TSA: Eucorydia yasumatsui breed wildtype s13104_L_32786_0_a_4_4_l_576, transcribed RNA sequence
+GDZF01044295.1_2     -          OSK_CONSENSUS        -                1.5   13.1   0.0       2.1   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Eucorydia yasumatsui breed wildtype C311953_a_5_0_l_356, transcribed RNA sequence
+GDZF01029371.1_4     -          OSK_CONSENSUS        -                1.6   13.1   0.8   1.4e+02    6.8   0.1   2.0   1   1   1   2   2   2   0 TSA: Eucorydia yasumatsui breed wildtype C269469_a_3_0_l_252, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDZF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:20 2019
+# [ok]

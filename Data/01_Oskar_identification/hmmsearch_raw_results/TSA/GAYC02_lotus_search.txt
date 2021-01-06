@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYC02010445.1_4     -          LOTUS_CONSENSUS      -            6.1e-18   67.8   0.0   1.3e-17   66.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Osmylus fulvicephalus C50980_a_4_0_l_711 transcribed RNA sequence
+GAYC02017931.1_6     -          LOTUS_CONSENSUS      -            8.6e-13   51.3   0.0   2.7e-12   49.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Osmylus fulvicephalus C73020_a_11_0_l_5921 transcribed RNA sequence
+GAYC02020342.1_3     -          LOTUS_CONSENSUS      -               0.11   15.7   0.6       8.7    9.6   0.4   2.2   1   1   1   2   2   2   0 TSA: Osmylus fulvicephalus s3144_L_7024_0_a_8_4_l_539 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYC02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYC02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYC02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:22 2019
+# [ok]

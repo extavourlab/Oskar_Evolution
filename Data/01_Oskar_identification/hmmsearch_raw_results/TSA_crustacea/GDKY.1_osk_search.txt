@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDKY01010854.1_1     -          OSK_CONSENSUS        -            4.6e-06   29.2   0.2     7e-06   28.6   0.1   1.4   1   1   0   1   1   1   1 TSA: Asellus aquaticus Contig_10970lipolytic transcribed RNA sequence
+GDKY01004969.1_2     -          OSK_CONSENSUS        -              0.015   17.7   0.4     0.072   15.5   0.0   2.1   2   0   0   2   2   2   0 TSA: Asellus aquaticus Contig_5020tpa: transcribed RNA sequence
+GDKY01003048.1_3     -          OSK_CONSENSUS        -              0.029   16.8   0.1     0.065   15.7   0.1   1.5   1   0   0   1   1   1   0 TSA: Asellus aquaticus Contig_3085rna-directed transcribed RNA sequence
+GDKY01001888.1_5     -          OSK_CONSENSUS        -              0.041   16.3   0.7     0.062   15.7   0.7   1.4   1   1   0   1   1   1   0 TSA: Asellus aquaticus Contig_1915---NA--- transcribed RNA sequence
+GDKY01002146.1_6     -          OSK_CONSENSUS        -              0.044   16.2   0.2     0.072   15.5   0.2   1.4   1   0   0   1   1   1   0 TSA: Asellus aquaticus Contig_2176---NA--- transcribed RNA sequence
+GDKY01004316.1_5     -          OSK_CONSENSUS        -               0.22   13.9   0.3      0.31   13.5   0.3   1.4   1   1   0   1   1   1   0 TSA: Asellus aquaticus Contig_4363---NA--- transcribed RNA sequence
+GDKY01020215.1_5     -          OSK_CONSENSUS        -                0.6   12.5   0.0      0.71   12.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Asellus aquaticus Contig_20965---NA--- transcribed RNA sequence
+GDKY01008311.1_6     -          OSK_CONSENSUS        -               0.74   12.2   0.4      0.74   12.2   0.4   1.7   1   1   1   2   2   2   0 TSA: Asellus aquaticus Contig_8395---NA--- transcribed RNA sequence
+GDKY01007963.1_4     -          OSK_CONSENSUS        -               0.81   12.1   0.3       1.1   11.7   0.3   1.2   1   0   0   1   1   1   0 TSA: Asellus aquaticus Contig_8043---NA--- transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDKY.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GDKY.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDKY.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:29 2019
+# [ok]

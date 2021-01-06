@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNG01010706.1_2     -          oskar_filtered.aligned.OSK_domain -              1e-16   63.6   0.4   1.1e-16   63.6   0.4   1.0   1   0   0   1   1   1   1 TSA: Cricotopus albitarsis TR7914_c0_g1_i1 transcribed RNA sequence
+GFNG01016137.1_6     -          oskar_filtered.aligned.OSK_domain -              0.046   15.9   0.1     0.054   15.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Cricotopus albitarsis TR13134_c0_g1_i1 transcribed RNA sequence
+GFNG01002490.1_1     -          oskar_filtered.aligned.OSK_domain -              0.066   15.3   0.1     0.066   15.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Cricotopus albitarsis TR1849_c0_g1_i1 transcribed RNA sequence
+GFNG01016472.1_2     -          oskar_filtered.aligned.OSK_domain -               0.15   14.2   0.2      0.23   13.6   0.2   1.4   1   1   0   1   1   1   0 TSA: Cricotopus albitarsis TR13455_c0_g1_i1 transcribed RNA sequence
+GFNG01009905.1_4     -          oskar_filtered.aligned.OSK_domain -               0.31   13.1   0.1      0.33   13.0   0.1   1.0   1   0   0   1   1   1   0 TSA: Cricotopus albitarsis TR7154_c0_g1_i1 transcribed RNA sequence
+GFNG01002410.1_5     -          oskar_filtered.aligned.OSK_domain -               0.86   11.7   3.0       2.1   10.4   2.5   2.0   1   1   0   1   1   1   0 TSA: Cricotopus albitarsis TR1789_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:53 2019
+# [ok]

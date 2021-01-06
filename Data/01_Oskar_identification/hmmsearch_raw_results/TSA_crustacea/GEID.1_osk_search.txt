@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEID01097565.1_2     -          OSK_CONSENSUS        -            0.00045   26.0   0.0    0.0011   24.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Callinectes sapidus C_sapidus_gill_comp59479_c0_seq5 transcribed RNA sequence
+GEID01161745.1_1     -          OSK_CONSENSUS        -            0.00072   25.4   0.2    0.0014   24.5   0.2   1.4   1   0   0   1   1   1   1 TSA: Callinectes sapidus C_sapidus_gill_comp63753_c0_seq4 transcribed RNA sequence
+GEID01172579.1_3     -          OSK_CONSENSUS        -              0.029   20.1   0.0     0.037   19.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Callinectes sapidus C_sapidus_gill_comp77062_c0_seq1 transcribed RNA sequence
+GEID01097562.1_2     -          OSK_CONSENSUS        -                  1   15.1   0.0       2.5   13.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Callinectes sapidus C_sapidus_gill_comp59479_c0_seq2 transcribed RNA sequence
+GEID01212293.1_5     -          OSK_CONSENSUS        -                2.7   13.7   0.3       3.2   13.5   0.3   1.1   1   0   0   1   1   1   0 TSA: Callinectes sapidus C_sapidus_gill_comp122728_c0_seq1 transcribed RNA sequence
+GEID01183915.1_4     -          OSK_CONSENSUS        -                3.1   13.5   0.2         4   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Callinectes sapidus C_sapidus_gill_comp90298_c0_seq1 transcribed RNA sequence
+GEID01158381.1_3     -          OSK_CONSENSUS        -                3.5   13.4   0.6   1.6e+02    8.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Callinectes sapidus C_sapidus_gill_comp63562_c2_seq20 transcribed RNA sequence
+GEID01158370.1_3     -          OSK_CONSENSUS        -                3.5   13.4   0.6   1.6e+02    8.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Callinectes sapidus C_sapidus_gill_comp63562_c2_seq9 transcribed RNA sequence
+GEID01059307.1_6     -          OSK_CONSENSUS        -                4.4   13.0   0.0       5.4   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Callinectes sapidus C_sapidus_gill_comp53043_c0_seq2 transcribed RNA sequence
+GEID01101808.1_5     -          OSK_CONSENSUS        -                4.8   12.9   0.1   7.6e+02    5.8   0.0   2.2   1   1   1   2   2   2   0 TSA: Callinectes sapidus C_sapidus_gill_comp59866_c0_seq2 transcribed RNA sequence
+GEID01183403.1_2     -          OSK_CONSENSUS        -                5.6   12.7   0.0       5.6   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Callinectes sapidus C_sapidus_gill_comp89667_c0_seq1 transcribed RNA sequence
+GEID01059306.1_6     -          OSK_CONSENSUS        -                5.9   12.6   0.0       7.4   12.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Callinectes sapidus C_sapidus_gill_comp53043_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEID.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEID.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEID.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:42 2019
+# [ok]

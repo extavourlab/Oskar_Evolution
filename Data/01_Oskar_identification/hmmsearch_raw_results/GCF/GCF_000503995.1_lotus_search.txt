@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011493845.1       -          LOTUS_CONSENSUS      -            2.1e-15   56.3  14.2   1.8e-12   46.9   0.1   4.6   3   1   0   3   3   3   2 PREDICTED: tudor domain-containing protein 5-like [Ceratosolen solmsi marchali]
+XP_011505698.1       -          LOTUS_CONSENSUS      -            2.3e-12   46.6   0.5   8.8e-12   44.7   0.0   2.4   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B [Ceratosolen solmsi marchali]
+XP_011503242.1       -          LOTUS_CONSENSUS      -            3.6e-08   33.1   1.7      0.49   10.3   0.0   6.0   3   1   3   6   6   6   2 PREDICTED: meiosis arrest female protein 1 homolog [Ceratosolen solmsi marchali]
+XP_011496057.1       -          LOTUS_CONSENSUS      -              0.089   12.7   1.6      0.33   10.8   0.1   2.6   2   1   1   3   3   3   0 PREDICTED: bridging integrator 3 homolog [Ceratosolen solmsi marchali]
+XP_011499906.1       -          LOTUS_CONSENSUS      -              0.096   12.6   1.2      0.35   10.8   0.2   2.5   2   0   0   2   2   2   0 PREDICTED: transient receptor potential cation channel protein painless [Ceratosolen solmsi marchali]
+XP_011504096.1       -          LOTUS_CONSENSUS      -               0.11   12.4   0.0         6    6.8   0.0   2.3   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC105367165 [Ceratosolen solmsi marchali]
+XP_011502473.1       -          LOTUS_CONSENSUS      -               0.18   11.7   5.5       3.6    7.5   1.3   2.3   1   1   1   2   2   2   0 PREDICTED: uncharacterized protein LOC105365896 [Ceratosolen solmsi marchali]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000503995.1_CerSol_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000503995.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000503995.1_CerSol_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:03 2019
+# [ok]

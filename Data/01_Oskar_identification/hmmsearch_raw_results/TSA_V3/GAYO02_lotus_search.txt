@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYO02024537.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-22   80.5   0.0   2.1e-21   79.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Cordulegaster boltonii s1528_L_1883_0_a_12_8_l_5082 transcribed RNA sequence
+GAYO02023708.1_6     -          oskar_filtered.aligned.LOTUS_domain -              9e-21   77.3   0.0   2.2e-20   76.0   0.0   1.7   1   0   0   1   1   1   1 TSA: Cordulegaster boltonii C99269_a_16_0_l_2501 transcribed RNA sequence
+GAYO02016069.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-11   46.4   0.0   5.2e-11   46.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Cordulegaster boltonii C76087_a_9_0_l_635 transcribed RNA sequence
+GAYO02024459.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-07   33.2   0.0     0.044   17.3   0.0   2.5   2   0   0   2   2   2   2 TSA: Cordulegaster boltonii s1458_L_1779_0_a_9_3_l_1603 transcribed RNA sequence
+GAYO02027088.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.002   21.6   0.0   3.2e+02    4.9   0.0   5.4   3   1   2   5   5   5   0 TSA: Cordulegaster boltonii s3831_L_7044_0_a_28_0_l_6930 transcribed RNA sequence
+GAYO02027089.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0022   21.5   0.0   3.2e+02    4.9   0.0   5.4   3   1   2   5   5   5   0 TSA: Cordulegaster boltonii s3832_L_7044_1_a_28_3_l_7088 transcribed RNA sequence
+GAYO02026033.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.34   14.5   0.0      0.38   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Cordulegaster boltonii s287_L_307_0_a_3_5_l_261 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYO02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYO02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYO02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:16 2019
+# [ok]

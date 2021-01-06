@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPY01040722.1_3     -          OSK_CONSENSUS        -               0.05   18.1   0.0      0.05   18.1   0.0   1.0   1   0   0   1   1   1   0 TSA: Eulimnogammarus czerskii c65607_g2_i1 transcribed RNA sequence
+GEPY01006508.1_4     -          OSK_CONSENSUS        -               0.17   16.3   0.6      0.17   16.3   0.6   1.2   1   0   0   1   1   1   0 TSA: Eulimnogammarus czerskii c15070_g1_i1 transcribed RNA sequence
+GEPY01021045.1_4     -          OSK_CONSENSUS        -                1.2   13.7   0.0       1.3   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Eulimnogammarus czerskii c48223_g1_i1 transcribed RNA sequence
+GEPY01065919.1_2     -          OSK_CONSENSUS        -                1.6   13.2   0.2       3.3   12.2   0.1   1.6   1   1   1   2   2   2   0 TSA: Eulimnogammarus czerskii c77119_g2_i2 transcribed RNA sequence
+GEPY01047784.1_3     -          OSK_CONSENSUS        -                2.3   12.7   0.1         4   11.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Eulimnogammarus czerskii c70582_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPY.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPY.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPY.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:58 2019
+# [ok]

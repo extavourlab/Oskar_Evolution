@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDPQ01017717.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-20   75.6   3.2   9.4e-20   74.4   0.1   3.1   3   0   0   3   3   3   1 TSA: Lagria hirta C163100_a_19_0_l_3181 transcribed RNA sequence
+GDPQ01032084.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-16   64.5   0.1   1.1e-12   51.7   0.0   2.9   2   1   0   2   2   2   2 TSA: Lagria hirta s2509_L_2833_0_a_6_6_l_1370 transcribed RNA sequence
+GDPQ01016755.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-14   57.4   0.2   2.4e-09   41.0   0.0   2.9   3   0   0   3   3   3   2 TSA: Lagria hirta C159360_a_16_0_l_1824 transcribed RNA sequence
+GDPQ01032086.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-09   40.8   0.0   4.4e-09   40.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Lagria hirta s2510_L_2833_1_a_5_2_l_450 transcribed RNA sequence
+GDPQ01016327.1_5     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-06   29.6   0.0        47    8.0   0.0   5.0   2   1   3   5   5   5   3 TSA: Lagria hirta C157724_a_4_0_l_1601 transcribed RNA sequence
+GDPQ01006072.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.48   14.4   0.1      0.75   13.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Lagria hirta C118822_a_4_0_l_356 transcribed RNA sequence
+GDPQ01014821.1_6     -          oskar_filtered.aligned.LOTUS_domain -                0.8   13.7   0.1       2.7   11.9   0.1   2.0   1   0   0   1   1   1   0 TSA: Lagria hirta C151772_a_67_0_l_1127 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDPQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:05 2019
+# [ok]

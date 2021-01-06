@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCR01083422.1_1     -          oskar_filtered.aligned.OSK_domain -            7.1e-26   96.0   1.3   7.2e-26   96.0   0.3   1.5   2   0   0   2   2   2   1 TSA: Blattella germanica breed breeding C376939_a_21_0_l_1586, transcribed RNA sequence
+GDCR01018960.1_2     -          oskar_filtered.aligned.OSK_domain -               0.12   17.0   3.1      0.13   16.9   3.1   1.0   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C214898_a_4_0_l_248, transcribed RNA sequence
+GDCR01011972.1_1     -          oskar_filtered.aligned.OSK_domain -                1.2   13.8   0.1       1.3   13.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C199429_a_3_0_l_239, transcribed RNA sequence
+GDCR01010832.1_4     -          oskar_filtered.aligned.OSK_domain -                1.4   13.5   0.1       1.5   13.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C196809_a_6_0_l_237, transcribed RNA sequence
+GDCR01002542.1_5     -          oskar_filtered.aligned.OSK_domain -                1.6   13.3   0.0       1.6   13.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C175154_a_3_0_l_210, transcribed RNA sequence
+GDCR01025857.1_6     -          oskar_filtered.aligned.OSK_domain -                1.7   13.3   0.1       1.7   13.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C230186_a_3_0_l_255, transcribed RNA sequence
+GDCR01083765.1_2     -          oskar_filtered.aligned.OSK_domain -                  2   13.0   0.3       6.3   11.4   0.3   1.8   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C377870_a_7_0_l_1715, transcribed RNA sequence
+GDCR01091925.1_3     -          oskar_filtered.aligned.OSK_domain -                3.5   12.2   0.2       7.8   11.1   0.2   1.5   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding s16236_L_101125_0_a_11_4_l_2431, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:41 2019
+# [ok]

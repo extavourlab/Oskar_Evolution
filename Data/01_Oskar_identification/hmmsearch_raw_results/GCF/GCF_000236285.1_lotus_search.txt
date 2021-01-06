@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017104763.1       -          LOTUS_CONSENSUS      -            1.3e-22   80.3   0.1   1.3e-22   80.3   0.1   3.2   4   0   0   4   4   4   1 PREDICTED: maternal effect protein oskar [Drosophila bipectinata]
+XP_017093771.1       -          LOTUS_CONSENSUS      -            7.4e-13   49.0   0.0   1.9e-12   47.8   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123196 isoform X3 [Drosophila bipectinata]
+XP_017093768.1       -          LOTUS_CONSENSUS      -            9.6e-13   48.7   0.0   2.4e-12   47.4   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Drosophila bipectinata]
+XP_017094100.1       -          LOTUS_CONSENSUS      -            4.3e-12   46.6   0.0   1.2e-11   45.2   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123449 isoform X3 [Drosophila bipectinata]
+XP_017094099.1       -          LOTUS_CONSENSUS      -            5.3e-12   46.3   0.0   1.5e-11   44.8   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123449 isoform X2 [Drosophila bipectinata]
+XP_017094097.1       -          LOTUS_CONSENSUS      -            6.2e-12   46.1   0.0   1.8e-11   44.6   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123449 isoform X1 [Drosophila bipectinata]
+XP_017097286.1       -          LOTUS_CONSENSUS      -             0.0011   19.6   0.0    0.0015   19.2   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108125575 [Drosophila bipectinata]
+XP_017092224.1       -          LOTUS_CONSENSUS      -              0.021   15.5   0.0      0.08   13.7   0.0   2.0   1   0   0   1   1   1   0 PREDICTED: probable oligoribonuclease [Drosophila bipectinata]
+XP_017099641.1       -          LOTUS_CONSENSUS      -                  3    8.6   7.3        45    4.8   0.0   5.9   5   0   0   5   5   5   0 PREDICTED: nesprin-1 isoform X5 [Drosophila bipectinata]
+XP_017099642.1       -          LOTUS_CONSENSUS      -                3.1    8.6   7.3        45    4.9   0.0   5.9   5   0   0   5   5   5   0 PREDICTED: nesprin-1 isoform X6 [Drosophila bipectinata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000236285.1_Dbip_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000236285.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000236285.1_Dbip_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:57 2019
+# [ok]

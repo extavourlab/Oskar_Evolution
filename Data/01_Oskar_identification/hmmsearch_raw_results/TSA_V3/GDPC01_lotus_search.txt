@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDPC01020397.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.031   18.0   0.0     0.062   17.1   0.0   1.6   1   1   1   2   2   2   0 TSA: Thanasimus formicarius C82762_a_9_0_l_286 transcribed RNA sequence
+GDPC01000760.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.081   16.7   0.0        13    9.7   0.0   2.0   1   1   1   2   2   2   0 TSA: Thanasimus formicarius C102447_a_3_0_l_428 transcribed RNA sequence
+GDPC01024406.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.61   13.9   1.0       4.3   11.2   0.1   2.0   1   1   1   2   2   2   0 TSA: Thanasimus formicarius C95179_a_4_0_l_364 transcribed RNA sequence
+GDPC01017058.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.66   13.8   0.0      0.92   13.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Thanasimus formicarius C73862_a_3_0_l_257 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDPC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:00 2019
+# [ok]

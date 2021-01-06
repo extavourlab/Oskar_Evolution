@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEZM01024216.1_3     -          LOTUS_CONSENSUS      -            1.6e-16   65.4   0.0   8.3e-13   53.4   0.0   2.6   2   0   0   2   2   2   2 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN15080_c0_g1_i4 transcribed RNA sequence
+GEZM01037040.1_5     -          LOTUS_CONSENSUS      -            2.1e-16   65.0   0.8   6.1e-15   60.3   0.1   2.6   2   0   0   2   2   2   1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN10923_c0_g1_i1 transcribed RNA sequence
+GEZM01024213.1_3     -          LOTUS_CONSENSUS      -            2.5e-16   64.7   0.1   1.5e-12   52.6   0.0   3.1   3   0   0   3   3   2   2 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN15080_c0_g1_i1 transcribed RNA sequence
+GEZM01024214.1_3     -          LOTUS_CONSENSUS      -            3.7e-08   38.5   0.0     9e-08   37.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN15080_c0_g1_i2 transcribed RNA sequence
+GEZM01024217.1_3     -          LOTUS_CONSENSUS      -              4e-08   38.4   0.0   1.4e-07   36.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN15080_c0_g1_i5 transcribed RNA sequence
+GEZM01035695.1_4     -          LOTUS_CONSENSUS      -            9.7e-05   27.6   3.9       1.4   14.2   0.2   5.0   3   1   3   6   6   5   2 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN9829_c0_g1_i1 transcribed RNA sequence
+GEZM01024214.1_1     -          LOTUS_CONSENSUS      -              0.046   19.0   0.6        60    9.0   0.0   2.6   2   0   0   2   2   2   0 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN15080_c0_g1_i2 transcribed RNA sequence
+GEZM01024217.1_1     -          LOTUS_CONSENSUS      -                0.1   17.9   1.2        94    8.4   0.0   3.1   3   0   0   3   3   2   0 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN15080_c0_g1_i5 transcribed RNA sequence
+GEZM01045494.1_1     -          LOTUS_CONSENSUS      -               0.17   17.2   0.5      0.87   14.9   0.0   2.1   1   1   1   2   2   2   0 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN6368_c0_g2_i1 transcribed RNA sequence
+GEZM01045492.1_2     -          LOTUS_CONSENSUS      -               0.69   15.2   0.2         3   13.2   0.0   2.1   1   1   1   2   2   2   0 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN6368_c0_g1_i1 transcribed RNA sequence
+GEZM01045493.1_3     -          LOTUS_CONSENSUS      -               0.72   15.2   0.2       2.9   13.2   0.0   2.0   1   1   1   2   2   2   0 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN6368_c0_g1_i2 transcribed RNA sequence
+GEZM01036564.1_3     -          LOTUS_CONSENSUS      -               0.77   15.1   0.4         2   13.8   0.4   1.7   1   0   0   1   1   1   0 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN15530_c0_g1_i2 transcribed RNA sequence
+GEZM01065244.1_3     -          LOTUS_CONSENSUS      -                1.6   14.0   0.0         2   13.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN27620_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEZM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:38 2019
+# [ok]

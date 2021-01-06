@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAOM01001878.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-17   66.6   5.0   1.7e-17   66.2   0.3   3.2   3   0   0   3   3   3   1 TSA: Macrosiphum euphorbiae Me_WB02254 transcribed RNA sequence
+GAOM01003577.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-11   46.8   0.0        24    7.9   0.0   8.2   5   2   3   8   8   8   3 TSA: Macrosiphum euphorbiae Me_WB04262 transcribed RNA sequence
+GAOM01009872.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-11   45.9   0.0   5.9e-11   45.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Macrosiphum euphorbiae Me_WB11811 transcribed RNA sequence
+GAOM01016702.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-05   28.3   0.0   1.5e-05   27.9   0.0   1.2   1   0   0   1   1   1   1 TSA: Macrosiphum euphorbiae Me_WB24307 transcribed RNA sequence
+GAOM01017605.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0021   20.9   0.3    0.0049   19.8   0.2   1.8   1   1   0   1   1   1   1 TSA: Macrosiphum euphorbiae Me_WB25508 transcribed RNA sequence
+GAOM01007337.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.037   17.0   0.2     0.037   17.0   0.2   2.2   2   1   0   2   2   2   0 TSA: Macrosiphum euphorbiae Me_WB08621 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAOM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAOM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAOM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:36 2019
+# [ok]

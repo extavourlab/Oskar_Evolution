@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGFM01003878.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-14   55.2   0.2   5.6e-14   54.2   0.2   1.5   1   0   0   1   1   1   1 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+GGFM01003803.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-14   55.2   0.2   5.6e-14   54.2   0.2   1.5   1   0   0   1   1   1   1 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+GGFM01003204.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-14   53.8   0.3   1.5e-13   52.9   0.0   1.6   2   0   0   2   2   2   1 TSA: hypothetical protein, partial cds, transcribed RNA sequence
+GGFM01007155.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-14   53.8   0.3   1.5e-13   52.9   0.0   1.6   2   0   0   2   2   2   1 TSA: hypothetical protein, partial cds, transcribed RNA sequence
+GGFM01007421.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-13   53.0   0.1   2.7e-13   52.1   0.1   1.5   1   0   0   1   1   1   1 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGFM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:31 2019
+# [ok]

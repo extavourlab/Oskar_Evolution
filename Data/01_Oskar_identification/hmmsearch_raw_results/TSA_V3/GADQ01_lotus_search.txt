@@ -1,0 +1,15 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GADQ01006011.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-17   66.4   0.1   2.4e-17   65.7   0.1   1.4   1   0   0   1   1   1   1 TSA: Drosophila malerkotliana pallens 4_3252_610_2918 mRNA sequence
+GADQ01008117.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-14   55.2   0.0   5.8e-14   54.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Drosophila malerkotliana pallens 1_5804_478_7551 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GADQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GADQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GADQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:41 2019
+# [ok]

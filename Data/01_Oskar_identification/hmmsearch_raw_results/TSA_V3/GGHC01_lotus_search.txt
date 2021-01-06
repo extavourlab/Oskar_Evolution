@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGHC01008604.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-27   98.6   0.2   1.7e-27   98.6   0.2   3.9   5   0   0   5   5   5   1 TSA: Gymnosoma nitens Gymnosoma_nitens_contig_134 transcribed RNA sequence
+GGHC01017970.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-09   39.7   0.0   6.4e-09   39.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Gymnosoma nitens Gymnosoma_nitens_contig_2732.4 transcribed RNA sequence
+GGHC01018924.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00012   25.3   0.0   0.00028   24.1   0.0   1.7   2   0   0   2   2   2   1 TSA: Gymnosoma nitens Gymnosoma_nitens_contig_25285 transcribed RNA sequence
+GGHC01017522.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0004   23.6   0.0     0.001   22.3   0.0   1.7   2   0   0   2   2   2   1 TSA: Gymnosoma nitens Gymnosoma_nitens_contig_15796 transcribed RNA sequence
+GGHC01021199.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.16   15.2   0.2        50    7.2   0.0   4.3   5   0   0   5   5   5   0 TSA: Gymnosoma nitens Gymnosoma_nitens_contig_2514 transcribed RNA sequence
+GGHC01019924.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.34   14.2   0.0        47    7.3   0.0   2.5   2   0   0   2   2   2   0 TSA: Gymnosoma nitens Gymnosoma_nitens_contig_2412.3 transcribed RNA sequence
+GGHC01003820.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.42   13.9   0.1         1   12.7   0.1   1.7   2   0   0   2   2   2   0 TSA: Gymnosoma nitens Gymnosoma_nitens_contig_5696 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGHC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:52 2019
+# [ok]

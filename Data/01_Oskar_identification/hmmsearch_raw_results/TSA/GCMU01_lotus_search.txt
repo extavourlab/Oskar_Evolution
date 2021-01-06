@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCMU01012581.1_4     -          LOTUS_CONSENSUS      -            1.4e-19   73.6   0.0   4.8e-19   71.9   0.0   2.0   1   0   0   1   1   1   1 TSA: Megaselia abdita C134347_a_43_0_l_1961 transcribed RNA sequence
+GCMU01011835.1_3     -          LOTUS_CONSENSUS      -            1.1e-08   38.6   0.0   4.3e-08   36.8   0.0   2.0   2   0   0   2   2   2   1 TSA: Megaselia abdita C132387_a_18_0_l_1374 transcribed RNA sequence
+GCMU01019678.1_5     -          LOTUS_CONSENSUS      -               0.24   15.1   0.7      0.24   15.1   0.7   1.9   1   1   1   2   2   2   0 TSA: Megaselia abdita C82198_a_3_0_l_255 transcribed RNA sequence
+GCMU01030394.1_1     -          LOTUS_CONSENSUS      -                4.2   11.1   3.4   1.9e+02    5.8   0.3   3.3   3   0   0   3   3   3   0 TSA: Megaselia abdita s4606_L_11851_1_a_39_6_l_2002 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCMU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:07 2019
+# [ok]

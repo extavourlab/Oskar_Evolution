@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFE01065584.1_1     -          LOTUS_CONSENSUS      -            5.7e-12   51.3   1.2   4.6e-11   48.4   0.1   2.8   2   0   0   2   2   2   1 TSA: Proasellus meridianus, contig comp68111_c0_seq1, transcribed RNA sequence
+HAFE01065585.1_1     -          LOTUS_CONSENSUS      -            2.3e-11   49.4   0.8   1.2e-10   47.1   0.1   2.6   2   0   0   2   2   2   1 TSA: Proasellus meridianus, contig comp68111_c0_seq2, transcribed RNA sequence
+HAFE01065587.1_1     -          LOTUS_CONSENSUS      -            2.6e-11   49.2   0.8   1.2e-10   47.1   0.1   2.5   2   0   0   2   2   2   1 TSA: Proasellus meridianus, contig comp68111_c0_seq4, transcribed RNA sequence
+HAFE01065586.1_1     -          LOTUS_CONSENSUS      -            4.6e-11   48.4   0.1   4.6e-11   48.4   0.1   3.0   3   0   0   3   3   3   1 TSA: Proasellus meridianus, contig comp68111_c0_seq3, transcribed RNA sequence
+HAFE01022928.1_6     -          LOTUS_CONSENSUS      -            2.4e-09   42.9   1.1   3.7e-09   42.3   1.1   1.3   1   0   0   1   1   1   1 TSA: Proasellus meridianus, contig comp44970_c0_seq1, transcribed RNA sequence
+HAFE01094890.1_6     -          LOTUS_CONSENSUS      -                1.3   14.9   0.2        24   10.9   0.2   2.1   1   1   1   2   2   2   0 TSA: Proasellus meridianus, contig comp421923_c0_seq1, transcribed RNA sequence
+HAFE01130350.1_6     -          LOTUS_CONSENSUS      -                1.4   14.8   0.6       1.6   14.6   0.6   1.1   1   0   0   1   1   1   0 TSA: Proasellus meridianus, contig comp1000435_c0_seq1, transcribed RNA sequence
+HAFE01066342.1_5     -          LOTUS_CONSENSUS      -                1.7   14.5   0.7       3.5   13.6   0.7   1.6   1   1   0   1   1   1   0 TSA: Proasellus meridianus, contig comp68191_c0_seq9, transcribed RNA sequence
+HAFE01084567.1_2     -          LOTUS_CONSENSUS      -                1.8   14.5   0.5   2.8e+02    7.4   0.1   2.5   2   0   0   2   2   2   0 TSA: Proasellus meridianus, contig comp196691_c0_seq1, transcribed RNA sequence
+HAFE01126992.1_3     -          LOTUS_CONSENSUS      -                4.5   13.2   0.1       5.2   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus meridianus, contig comp933008_c0_seq1, transcribed RNA sequence
+HAFE01119010.1_4     -          LOTUS_CONSENSUS      -                5.5   12.9   0.3       6.9   12.6   0.3   1.2   1   0   0   1   1   1   0 TSA: Proasellus meridianus, contig comp788026_c0_seq1, transcribed RNA sequence
+HAFE01085266.1_6     -          LOTUS_CONSENSUS      -                  7   12.6   1.2        10   12.1   1.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus meridianus, contig comp221013_c0_seq1, transcribed RNA sequence
+HAFE01154079.1_6     -          LOTUS_CONSENSUS      -                7.6   12.5   1.3       9.6   12.1   1.3   1.1   1   0   0   1   1   1   0 TSA: Proasellus meridianus, contig comp1992743_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFE.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFE.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFE.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:19 2019
+# [ok]

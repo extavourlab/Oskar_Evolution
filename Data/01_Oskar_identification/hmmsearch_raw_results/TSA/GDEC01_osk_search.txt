@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEC01015197.1_5     -          OSK_CONSENSUS        -            1.8e-32  115.9   0.2   2.6e-32  115.4   0.2   1.2   1   0   0   1   1   1   1 TSA: Ischnoptera deropeltiformis breed wildtype C146103_a_6_0_l_876, transcribed RNA sequence
+GDEC01041692.1_5     -          OSK_CONSENSUS        -             0.0068   19.8   0.0     0.015   18.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Ischnoptera deropeltiformis breed wildtype s9770_L_40965_0_a_12_5_l_2034, transcribed RNA sequence
+GDEC01030115.1_1     -          OSK_CONSENSUS        -              0.076   16.4   0.0      0.11   15.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Ischnoptera deropeltiformis breed wildtype C94255_a_4_0_l_281, transcribed RNA sequence
+GDEC01024901.1_1     -          OSK_CONSENSUS        -               0.68   13.3   0.1      0.73   13.2   0.1   1.0   1   0   0   1   1   1   0 TSA: Ischnoptera deropeltiformis breed wildtype C80305_a_3_0_l_237, transcribed RNA sequence
+GDEC01015329.1_3     -          OSK_CONSENSUS        -                1.7   12.0   0.1   1.3e+02    5.8   0.0   2.1   1   1   1   2   2   2   0 TSA: Ischnoptera deropeltiformis breed wildtype C146525_a_17_0_l_889, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:35 2019
+# [ok]

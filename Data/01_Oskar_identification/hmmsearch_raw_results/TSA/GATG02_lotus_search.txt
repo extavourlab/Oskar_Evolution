@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATG02016758.1_6     -          LOTUS_CONSENSUS      -            7.8e-14   54.3   0.0   2.5e-12   49.5   0.0   2.6   2   0   0   2   2   2   1 TSA: Corydalus cornutus s3330_L_7600_0_a_43_4_l_1791 transcribed RNA sequence
+GATG02016759.1_6     -          LOTUS_CONSENSUS      -            1.1e-13   53.9   0.0     3e-12   49.2   0.0   2.6   2   0   0   2   2   2   1 TSA: Corydalus cornutus s3331_L_7600_1_a_44_1_l_2043 transcribed RNA sequence
+GATG02002326.1_6     -          LOTUS_CONSENSUS      -            2.9e-08   36.5   0.0   3.6e-08   36.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Corydalus cornutus C28617_a_7_0_l_254 transcribed RNA sequence
+GATG02011495.1_4     -          LOTUS_CONSENSUS      -               0.21   14.5   0.2      0.45   13.4   0.2   1.4   1   0   0   1   1   1   0 TSA: Corydalus cornutus C56558_a_51_0_l_1247 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATG02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:03 2019
+# [ok]

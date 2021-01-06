@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFI01072083.1_1     -          OSK_CONSENSUS        -             0.0068   21.4   0.2     0.028   19.4   0.2   2.0   1   0   0   1   1   1   1 TSA: Proasellus rectus, contig comp68172_c1_seq3, transcribed RNA sequence
+HAFI01044647.1_2     -          OSK_CONSENSUS        -               0.54   15.3   0.1      0.85   14.6   0.1   1.4   1   0   0   1   1   1   0 TSA: Proasellus rectus, contig comp62702_c0_seq1, transcribed RNA sequence
+HAFI01030142.1_2     -          OSK_CONSENSUS        -               0.99   14.4   0.0       8.2   11.4   0.0   2.2   1   1   1   2   2   2   0 TSA: Proasellus rectus, contig comp53660_c0_seq1, transcribed RNA sequence
+HAFI01095093.1_3     -          OSK_CONSENSUS        -                1.1   14.3   0.9       3.5   12.6   1.0   1.7   1   1   1   2   2   2   0 TSA: Proasellus rectus, contig comp650380_c0_seq1, transcribed RNA sequence
+HAFI01107279.1_5     -          OSK_CONSENSUS        -                3.4   12.7   0.3       9.5   11.2   0.3   1.7   1   1   0   1   1   1   0 TSA: Proasellus rectus, contig comp897416_c0_seq1, transcribed RNA sequence
+HAFI01104911.1_1     -          OSK_CONSENSUS        -                4.2   12.4   0.1       4.3   12.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus rectus, contig comp836927_c0_seq1, transcribed RNA sequence
+HAFI01065407.1_2     -          OSK_CONSENSUS        -                4.4   12.3   0.0       9.6   11.2   0.0   1.6   1   1   0   1   1   1   0 TSA: Proasellus rectus, contig comp67609_c1_seq4, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFI.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFI.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFI.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:28 2019
+# [ok]

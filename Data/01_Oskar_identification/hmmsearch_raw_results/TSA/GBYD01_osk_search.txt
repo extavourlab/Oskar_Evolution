@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBYD01074579.1_2     -          OSK_CONSENSUS        -            1.4e-35  127.1   0.0   3.4e-35  125.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq11 transcribed RNA sequence
+GBYD01074574.1_1     -          OSK_CONSENSUS        -            1.4e-35  127.1   0.0   3.4e-35  125.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq3 transcribed RNA sequence
+GBYD01074575.1_1     -          OSK_CONSENSUS        -            1.5e-35  127.1   0.0   3.5e-35  125.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq4 transcribed RNA sequence
+GBYD01074586.1_2     -          OSK_CONSENSUS        -            1.5e-35  127.1   0.0   3.5e-35  125.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq28 transcribed RNA sequence
+GBYD01074582.1_3     -          OSK_CONSENSUS        -            1.5e-35  127.0   0.0   3.4e-35  125.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq17 transcribed RNA sequence
+GBYD01074578.1_2     -          OSK_CONSENSUS        -            1.6e-35  127.0   0.0   3.5e-35  125.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq9 transcribed RNA sequence
+GBYD01074583.1_1     -          OSK_CONSENSUS        -            1.6e-35  127.0   0.0   3.5e-35  125.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq18 transcribed RNA sequence
+GBYD01074580.1_3     -          OSK_CONSENSUS        -            1.6e-35  126.9   0.0   3.4e-35  125.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq13 transcribed RNA sequence
+GBYD01074587.1_3     -          OSK_CONSENSUS        -            1.7e-35  126.9   0.0   3.6e-35  125.8   0.0   1.5   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq29 transcribed RNA sequence
+GBYD01074581.1_1     -          OSK_CONSENSUS        -            1.7e-35  126.8   0.0   4.3e-35  125.6   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq14 transcribed RNA sequence
+GBYD01074584.1_2     -          OSK_CONSENSUS        -            1.8e-35  126.8   0.0   4.3e-35  125.5   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq19 transcribed RNA sequence
+GBYD01074585.1_3     -          OSK_CONSENSUS        -              2e-35  126.6   0.0   4.2e-35  125.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq27 transcribed RNA sequence
+GBYD01074577.1_3     -          OSK_CONSENSUS        -              2e-35  126.6   0.0   4.4e-35  125.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq7 transcribed RNA sequence
+GBYD01074576.1_3     -          OSK_CONSENSUS        -            2.1e-35  126.6   0.0   4.4e-35  125.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq6 transcribed RNA sequence
+GBYD01063400.1_3     -          OSK_CONSENSUS        -                1.6   13.2   0.4       1.8   13.0   0.4   1.1   1   0   0   1   1   1   0 TSA: Euwallacea fornicatus comp316537_c0_seq1 transcribed RNA sequence
+GBYD01023679.1_1     -          OSK_CONSENSUS        -                2.2   12.8   0.2       2.5   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Euwallacea fornicatus comp1440_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBYD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBYD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBYD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:24 2019
+# [ok]

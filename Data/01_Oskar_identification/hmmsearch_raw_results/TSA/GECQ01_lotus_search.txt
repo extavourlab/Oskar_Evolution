@@ -1,0 +1,65 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECQ01169722.1_1     -          LOTUS_CONSENSUS      -            6.6e-20   78.4   0.4   4.8e-08   40.4   0.0   3.7   2   1   1   3   3   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169722 transcribed RNA sequence
+GECQ01169725.1_1     -          LOTUS_CONSENSUS      -            2.8e-18   73.2   5.2   7.1e-08   39.9   0.0   4.3   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169725 transcribed RNA sequence
+GECQ01169726.1_1     -          LOTUS_CONSENSUS      -              3e-18   73.1   5.2   7.1e-08   39.9   0.0   4.3   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169726 transcribed RNA sequence
+GECQ01169730.1_1     -          LOTUS_CONSENSUS      -            4.3e-18   72.6   5.8   7.1e-08   39.9   0.0   4.3   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169730 transcribed RNA sequence
+GECQ01169731.1_1     -          LOTUS_CONSENSUS      -            4.6e-18   72.5   5.8   7.2e-08   39.9   0.0   4.3   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169731 transcribed RNA sequence
+GECQ01169732.1_1     -          LOTUS_CONSENSUS      -            1.3e-17   71.1   5.5     1e-07   39.3   0.0   4.3   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169732 transcribed RNA sequence
+GECQ01169737.1_3     -          LOTUS_CONSENSUS      -            1.3e-17   71.1   5.5     1e-07   39.4   0.0   4.2   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169737 transcribed RNA sequence
+GECQ01169729.1_1     -          LOTUS_CONSENSUS      -            1.3e-17   71.1   5.5     1e-07   39.4   0.0   4.1   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169729 transcribed RNA sequence
+GECQ01169733.1_1     -          LOTUS_CONSENSUS      -            1.5e-17   70.9   5.5   1.1e-07   39.3   0.0   4.1   3   1   1   4   4   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169733 transcribed RNA sequence
+GECQ01169723.1_2     -          LOTUS_CONSENSUS      -            1.6e-17   70.8   8.3   7.2e-08   39.9   0.0   4.7   4   1   1   5   5   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169723 transcribed RNA sequence
+GECQ01169724.1_2     -          LOTUS_CONSENSUS      -            1.7e-17   70.7   8.3   7.2e-08   39.9   0.0   4.7   4   1   1   5   5   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169724 transcribed RNA sequence
+GECQ01169739.1_2     -          LOTUS_CONSENSUS      -            1.8e-17   70.7   8.3   7.3e-08   39.8   0.0   4.7   4   1   1   5   5   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169739 transcribed RNA sequence
+GECQ01169740.1_2     -          LOTUS_CONSENSUS      -            1.9e-17   70.6   8.3   7.4e-08   39.8   0.0   4.7   4   1   1   5   5   3   3 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169740 transcribed RNA sequence
+GECQ01247859.1_4     -          LOTUS_CONSENSUS      -            4.5e-17   69.4   0.1   1.8e-16   67.4   0.1   2.1   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.247859 transcribed RNA sequence
+GECQ01416940.1_6     -          LOTUS_CONSENSUS      -              5e-17   69.2   0.1   1.8e-16   67.4   0.1   2.0   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.416940 transcribed RNA sequence
+GECQ01247862.1_4     -          LOTUS_CONSENSUS      -            8.1e-17   68.5   0.3   2.2e-16   67.1   0.1   1.9   2   0   0   2   2   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.247862 transcribed RNA sequence
+GECQ01405657.1_6     -          LOTUS_CONSENSUS      -            1.4e-16   67.8   2.0   2.2e-16   67.1   0.1   2.4   3   0   0   3   3   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.405657 transcribed RNA sequence
+GECQ01169734.1_1     -          LOTUS_CONSENSUS      -            1.5e-09   45.3   0.0     5e-08   40.4   0.0   2.7   2   0   0   2   2   2   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169734 transcribed RNA sequence
+GECQ01169721.1_1     -          LOTUS_CONSENSUS      -            1.3e-08   42.2   0.0   4.1e-08   40.6   0.0   1.9   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169721 transcribed RNA sequence
+GECQ01169736.1_2     -          LOTUS_CONSENSUS      -            2.7e-08   41.2   3.6     0.072   20.6   0.0   4.2   3   1   1   4   4   3   2 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169736 transcribed RNA sequence
+GECQ01169738.1_2     -          LOTUS_CONSENSUS      -            2.8e-08   41.2   0.1     1e-07   39.3   0.0   2.0   2   0   0   2   2   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169738 transcribed RNA sequence
+GECQ01169728.1_1     -          LOTUS_CONSENSUS      -              3e-08   41.1   0.0   7.4e-08   39.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169728 transcribed RNA sequence
+GECQ01169727.1_1     -          LOTUS_CONSENSUS      -              3e-08   41.1   0.0   7.3e-08   39.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169727 transcribed RNA sequence
+GECQ01094421.1_3     -          LOTUS_CONSENSUS      -            4.3e-07   37.4   0.0       8.8   13.9   0.0   4.8   1   1   2   4   4   4   2 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.94421 transcribed RNA sequence
+GECQ01275814.1_6     -          LOTUS_CONSENSUS      -            1.1e-05   32.9   0.0   1.3e-05   32.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.275814 transcribed RNA sequence
+GECQ01275812.1_6     -          LOTUS_CONSENSUS      -            2.2e-05   31.9   0.0   2.8e-05   31.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.275812 transcribed RNA sequence
+GECQ01169738.1_3     -          LOTUS_CONSENSUS      -            3.6e-05   31.2   4.5      0.16   19.5   0.0   3.2   2   1   1   3   3   2   2 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169738 transcribed RNA sequence
+GECQ01275813.1_6     -          LOTUS_CONSENSUS      -            3.8e-05   31.1   0.0   4.7e-05   30.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.275813 transcribed RNA sequence
+GECQ01169727.1_2     -          LOTUS_CONSENSUS      -              6e-05   30.5   7.2      0.11   20.0   0.0   3.8   3   1   1   4   4   2   2 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169727 transcribed RNA sequence
+GECQ01169728.1_2     -          LOTUS_CONSENSUS      -            6.4e-05   30.4   7.2      0.11   20.0   0.0   3.7   3   1   1   4   4   2   2 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169728 transcribed RNA sequence
+GECQ01352325.1_3     -          LOTUS_CONSENSUS      -              0.003   25.1   0.0    0.0055   24.2   0.0   1.5   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.352325 transcribed RNA sequence
+GECQ01203874.1_1     -          LOTUS_CONSENSUS      -             0.0039   24.7   0.0     0.007   23.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.203874 transcribed RNA sequence
+GECQ01169720.1_1     -          LOTUS_CONSENSUS      -             0.0056   24.2   0.0     0.011   23.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169720 transcribed RNA sequence
+GECQ01140155.1_2     -          LOTUS_CONSENSUS      -             0.0084   23.6   0.0     0.018   22.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.140155 transcribed RNA sequence
+GECQ01140154.1_3     -          LOTUS_CONSENSUS      -               0.01   23.4   0.0     0.021   22.3   0.0   1.5   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.140154 transcribed RNA sequence
+GECQ01011731.1_3     -          LOTUS_CONSENSUS      -               0.02   22.4   0.2     0.032   21.7   0.1   1.5   2   0   0   2   2   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.11731 transcribed RNA sequence
+GECQ01169734.1_3     -          LOTUS_CONSENSUS      -              0.026   22.0   0.0       0.1   20.2   0.0   2.0   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.169734 transcribed RNA sequence
+GECQ01442891.1_6     -          LOTUS_CONSENSUS      -              0.097   20.2   0.0      0.12   19.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.442891 transcribed RNA sequence
+GECQ01202363.1_6     -          LOTUS_CONSENSUS      -               0.36   18.4   0.0      0.73   17.4   0.0   1.6   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.202363 transcribed RNA sequence
+GECQ01442892.1_6     -          LOTUS_CONSENSUS      -               0.39   18.3   0.1      0.45   18.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.442892 transcribed RNA sequence
+GECQ01174165.1_1     -          LOTUS_CONSENSUS      -               0.82   17.2   1.7       1.4   16.5   1.7   1.4   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.174165 transcribed RNA sequence
+GECQ01296707.1_6     -          LOTUS_CONSENSUS      -                  1   16.9   0.0       1.5   16.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.296707 transcribed RNA sequence
+GECQ01284649.1_4     -          LOTUS_CONSENSUS      -                1.4   16.5   5.5   1.7e+02    9.8   0.4   2.2   1   1   1   2   2   2   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.284649 transcribed RNA sequence
+GECQ01174164.1_1     -          LOTUS_CONSENSUS      -                1.9   16.0   1.4       4.7   14.8   1.4   1.7   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.174164 transcribed RNA sequence
+GECQ01294845.1_2     -          LOTUS_CONSENSUS      -                3.6   15.2   0.1       8.1   14.0   0.1   1.6   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.294845 transcribed RNA sequence
+GECQ01294846.1_2     -          LOTUS_CONSENSUS      -                3.6   15.2   0.1       8.1   14.0   0.1   1.6   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.294846 transcribed RNA sequence
+GECQ01294847.1_2     -          LOTUS_CONSENSUS      -                3.6   15.2   0.1       8.1   14.0   0.1   1.6   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.294847 transcribed RNA sequence
+GECQ01193332.1_1     -          LOTUS_CONSENSUS      -                3.8   15.1   0.1       4.8   14.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.193332 transcribed RNA sequence
+GECQ01035978.1_4     -          LOTUS_CONSENSUS      -                5.3   14.7   0.0       6.6   14.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.35978 transcribed RNA sequence
+GECQ01427087.1_1     -          LOTUS_CONSENSUS      -                6.1   14.4   0.2        14   13.3   0.2   1.6   1   1   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.427087 transcribed RNA sequence
+GECQ01451387.1_3     -          LOTUS_CONSENSUS      -                7.9   14.1   0.1         9   13.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.451387 transcribed RNA sequence
+GECQ01160929.1_1     -          LOTUS_CONSENSUS      -                9.1   13.9   0.1        27   12.4   0.0   1.7   2   0   0   2   2   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.160929 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:30 2019
+# [ok]

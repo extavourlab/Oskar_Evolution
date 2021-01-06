@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_019558301.2       -          oskar_filtered.aligned.OSK_domain -            1.5e-57  195.4   0.0   2.6e-57  194.7   0.0   1.4   1   0   0   1   1   1   1 maternal effect protein oskar [Aedes albopictus]
+XP_019540707.2       -          oskar_filtered.aligned.OSK_domain -            1.5e-57  195.4   0.0   2.6e-57  194.7   0.0   1.4   1   0   0   1   1   1   1 maternal effect protein oskar [Aedes albopictus]
+XP_019559727.1       -          oskar_filtered.aligned.OSK_domain -              0.094   13.5   0.2      0.12   13.2   0.2   1.1   1   0   0   1   1   1   0 heat shock protein beta-1 isoform X3 [Aedes albopictus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_006496715.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:37 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_013176763.1       -          LOTUS_CONSENSUS      -              1e-14   54.9   0.0   2.1e-13   50.6   0.0   2.5   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 [Papilio xuthus]
+XP_013176764.1       -          LOTUS_CONSENSUS      -              1e-14   54.9   0.0   2.1e-13   50.6   0.0   2.5   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 [Papilio xuthus]
+XP_013176765.1       -          LOTUS_CONSENSUS      -              1e-14   54.9   0.0   2.1e-13   50.6   0.0   2.5   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 [Papilio xuthus]
+XP_013162477.1       -          LOTUS_CONSENSUS      -            5.6e-14   52.5   0.0   2.1e-08   34.7   0.0   2.3   2   0   0   2   2   2   2 PREDICTED: uncharacterized protein LOC106113964 [Papilio xuthus]
+XP_013180456.1       -          LOTUS_CONSENSUS      -             0.0059   17.2   0.1      0.01   16.4   0.1   1.4   1   0   0   1   1   1   1 PREDICTED: DPH4 homolog [Papilio xuthus]
+XP_013163858.1       -          LOTUS_CONSENSUS      -              0.031   14.9   0.6     0.069   13.8   0.6   1.7   1   0   0   1   1   1   0 PREDICTED: NEDD8-activating enzyme E1 catalytic subunit-like [Papilio xuthus]
+XP_013163278.1       -          LOTUS_CONSENSUS      -              0.047   14.3   0.1      0.11   13.1   0.1   1.5   1   0   0   1   1   1   0 PREDICTED: collagen alpha-5(IV) chain-like [Papilio xuthus]
+XP_013174254.1       -          LOTUS_CONSENSUS      -              0.058   14.0   0.6      0.13   12.9   0.6   1.7   1   0   0   1   1   1   0 PREDICTED: NEDD8-activating enzyme E1 catalytic subunit-like [Papilio xuthus]
+XP_013173641.1       -          LOTUS_CONSENSUS      -                0.1   13.2   0.2      0.28   11.8   0.2   1.7   1   0   0   1   1   1   0 PREDICTED: oligoribonuclease, mitochondrial isoform X2 [Papilio xuthus]
+XP_013173642.1       -          LOTUS_CONSENSUS      -                0.1   13.2   0.2      0.28   11.8   0.2   1.7   1   0   0   1   1   1   0 PREDICTED: oligoribonuclease, mitochondrial isoform X2 [Papilio xuthus]
+XP_013173640.1       -          LOTUS_CONSENSUS      -               0.14   12.8   0.8      0.36   11.5   0.2   2.0   2   0   0   2   2   2   0 PREDICTED: oligoribonuclease isoform X1 [Papilio xuthus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836235.1_Pxut_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000836235.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836235.1_Pxut_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:53 2019
+# [ok]

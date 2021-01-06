@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUX01075091.1_2     -          oskar_filtered.aligned.OSK_domain -            5.6e-57  197.3   5.6   7.4e-57  196.9   0.0   3.4   3   0   0   3   3   3   1 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.75091 transcribed RNA sequence
+GFUX01070507.1_2     -          oskar_filtered.aligned.OSK_domain -            6.5e-57  197.1   0.0   6.5e-57  197.1   0.0   3.4   3   0   0   3   3   3   1 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.70507 transcribed RNA sequence
+GFUX01081633.1_3     -          oskar_filtered.aligned.OSK_domain -            6.9e-57  197.0   5.6   7.6e-57  196.9   0.0   3.2   3   0   0   3   3   3   1 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.81633 transcribed RNA sequence
+GFUX01089149.1_2     -          oskar_filtered.aligned.OSK_domain -            2.6e-18   71.2   0.0   4.6e-18   70.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.89149 transcribed RNA sequence
+GFUX01029298.1_1     -          oskar_filtered.aligned.OSK_domain -                1.3   13.5   0.2       2.1   12.9   0.2   1.3   1   0   0   1   1   1   0 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.29298 transcribed RNA sequence
+GFUX01018505.1_3     -          oskar_filtered.aligned.OSK_domain -                  2   12.9   0.0       3.2   12.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.18505 transcribed RNA sequence
+GFUX01081497.1_2     -          oskar_filtered.aligned.OSK_domain -                  2   12.9   0.2       6.2   11.3   0.2   1.8   1   0   0   1   1   1   0 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.81497 transcribed RNA sequence
+GFUX01006268.1_3     -          oskar_filtered.aligned.OSK_domain -                2.1   12.9   0.2       5.2   11.6   0.2   1.7   1   0   0   1   1   1   0 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.6268 transcribed RNA sequence
+GFUX01020382.1_1     -          oskar_filtered.aligned.OSK_domain -                2.2   12.8   0.6       3.6   12.1   0.6   1.4   1   0   0   1   1   1   0 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.20382 transcribed RNA sequence
+GFUX01047010.1_6     -          oskar_filtered.aligned.OSK_domain -                5.5   11.5   0.0       5.5   11.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.47010 transcribed RNA sequence
+GFUX01077798.1_1     -          oskar_filtered.aligned.OSK_domain -                7.8   11.0   5.2        33    8.9   4.8   2.2   1   1   0   1   1   1   0 TSA: Solenopsis invicta RIFA_USDA-ARS_BCPRU.77798 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:15 2019
+# [ok]

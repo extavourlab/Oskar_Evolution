@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014255922.1       -          oskar_filtered.aligned.LOTUS_domain -            3.9e-23   82.1   0.3   6.1e-20   71.8   0.1   2.9   2   0   0   2   2   2   2 tudor domain-containing protein 7A-like [Cimex lectularius]
+XP_014258757.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-22   80.7   0.5   1.3e-12   48.2   0.0   4.2   4   0   0   4   4   4   3 tudor domain-containing protein 5-like isoform X4 [Cimex lectularius]
+XP_014258752.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-22   79.9   0.6   1.6e-12   48.0   0.0   4.2   4   0   0   4   4   4   3 tudor domain-containing protein 5-like isoform X1 [Cimex lectularius]
+XP_014258753.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-22   79.9   0.6   1.6e-12   48.0   0.0   4.2   4   0   0   4   4   4   3 tudor domain-containing protein 5-like isoform X1 [Cimex lectularius]
+XP_014255164.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-12   47.5   0.1     0.022   15.5   0.0   5.1   3   2   1   4   4   4   3 meiosis regulator and mRNA stability factor 1-like [Cimex lectularius]
+XP_024082048.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-12   47.5   0.1     0.022   15.5   0.0   5.1   3   2   1   4   4   4   3 meiosis regulator and mRNA stability factor 1-like [Cimex lectularius]
+XP_024080992.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-10   40.2   1.2     0.027   15.2   0.0   4.2   4   0   0   4   4   4   3 uncharacterized protein LOC106672109 isoform X2 [Cimex lectularius]
+XP_024080993.1       -          oskar_filtered.aligned.LOTUS_domain -            3.3e-07   30.9   0.5     0.026   15.2   0.0   3.2   3   0   0   3   3   3   2 uncharacterized protein LOC106672109 isoform X3 [Cimex lectularius]
+XP_014254259.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0027   18.4   8.9       9.3    7.0   0.1   5.0   3   2   1   5   5   5   2 bifunctional glutamate/proline--tRNA ligase [Cimex lectularius]
+XP_014261778.1       -          oskar_filtered.aligned.LOTUS_domain -               0.13   13.0   0.1      0.49   11.1   0.1   2.0   1   0   0   1   1   1   0 valine--tRNA ligase [Cimex lectularius]
+XP_014248269.1       -          oskar_filtered.aligned.LOTUS_domain -               0.93   10.2   3.2       5.4    7.8   0.0   3.0   3   1   0   3   3   2   0 dnaJ homolog subfamily C member 10-like [Cimex lectularius]
+XP_014248270.1       -          oskar_filtered.aligned.LOTUS_domain -               0.93   10.2   3.2       5.4    7.8   0.0   3.0   3   1   0   3   3   2   0 dnaJ homolog subfamily C member 10-like [Cimex lectularius]
+XP_014248271.1       -          oskar_filtered.aligned.LOTUS_domain -               0.93   10.2   3.2       5.4    7.8   0.0   3.0   3   1   0   3   3   2   0 dnaJ homolog subfamily C member 10-like [Cimex lectularius]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648675.2_Clec_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000648675.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648675.2_Clec_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:08 2019
+# [ok]

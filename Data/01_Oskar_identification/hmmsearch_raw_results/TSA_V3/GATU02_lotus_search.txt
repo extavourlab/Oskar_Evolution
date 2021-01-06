@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATU02022522.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-18   67.8   0.0   1.2e-17   66.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Baetis sp. AD-2013 s8548_L_20110_0_a_6_6_l_1142 transcribed RNA sequence
+GATU02018732.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-18   67.7   0.0   2.3e-16   62.8   0.0   2.6   2   0   0   2   2   2   1 TSA: Baetis sp. AD-2013 s5127_L_7919_0_a_58_0_l_4532 transcribed RNA sequence
+GATU02005823.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-11   46.7   0.0      0.17   15.0   0.0   6.3   4   2   3   7   7   7   3 TSA: Baetis sp. AD-2013 C128183_a_45_0_l_4075 transcribed RNA sequence
+GATU02002157.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-05   28.4   0.1   5.3e-05   26.3   0.0   2.0   2   1   0   2   2   2   1 TSA: Baetis sp. AD-2013 C110854_a_7_0_l_814 transcribed RNA sequence
+GATU02000254.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.39   13.9   0.4       1.9   11.7   0.1   2.3   2   1   0   2   2   2   0 TSA: Baetis sp. AD-2013 C101134_a_3_0_l_527 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATU02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATU02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATU02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:27 2019
+# [ok]

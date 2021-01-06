@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBXA01022885.1_1     -          OSK_CONSENSUS        -            4.3e-55  188.7   0.1   1.1e-54  187.4   0.1   1.7   1   0   0   1   1   1   1 TSA: Parnopes grandior s7653_L_14628_1_a_37_0_l_2690 transcribed RNA sequence
+GBXA01022884.1_1     -          OSK_CONSENSUS        -            7.5e-55  187.9   0.1   1.8e-54  186.7   0.1   1.6   1   0   0   1   1   1   1 TSA: Parnopes grandior s7652_L_14628_0_a_42_6_l_3689 transcribed RNA sequence
+GBXA01014983.1_6     -          OSK_CONSENSUS        -               0.14   14.8   0.8      0.34   13.6   0.5   1.8   2   0   0   2   2   2   0 TSA: Parnopes grandior C97044_a_9_0_l_1319 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBXA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBXA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBXA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:14 2019
+# [ok]

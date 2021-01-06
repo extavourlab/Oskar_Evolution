@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWN01017959.1_4     -          LOTUS_CONSENSUS      -            2.1e-15   60.4   0.3    0.0051   20.7   0.0   4.1   3   1   1   4   4   4   3 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype C176888_11_0, transcribed RNA sequence
+GCWN01018049.1_5     -          LOTUS_CONSENSUS      -            6.1e-12   49.3   2.4     4e-11   46.7   0.1   3.4   3   0   0   3   3   3   1 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype C177346_27_0, transcribed RNA sequence
+GCWN01033909.1_6     -          LOTUS_CONSENSUS      -            1.1e-09   42.0   0.2   3.2e-09   40.6   0.2   1.8   1   0   0   1   1   1   1 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s5325_L_14509_1_21_8_BUBBLE, transcribed RNA sequence
+GCWN01033908.1_4     -          LOTUS_CONSENSUS      -            1.2e-09   42.0   0.2     3e-09   40.7   0.2   1.7   1   0   0   1   1   1   1 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s5324_L_14509_0_22_6_BUBBLE, transcribed RNA sequence
+GCWN01029618.1_6     -          LOTUS_CONSENSUS      -               0.13   16.2   0.5   3.3e+02    5.3   0.0   5.1   5   1   0   5   5   5   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s1459_L_3154_0_54_2_COMPLEX, transcribed RNA sequence
+GCWN01029621.1_6     -          LOTUS_CONSENSUS      -               0.13   16.2   0.5   3.2e+02    5.3   0.0   5.1   5   1   0   5   5   5   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s1461_L_3154_2_53_9_COMPLEX, transcribed RNA sequence
+GCWN01029620.1_6     -          LOTUS_CONSENSUS      -               0.22   15.5   0.4   3.7e+02    5.1   0.0   4.9   5   1   0   5   5   5   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s1460_L_3154_1_48_9_COMPLEX, transcribed RNA sequence
+GCWN01027521.1_4     -          LOTUS_CONSENSUS      -               0.27   15.2   0.9        43    8.1   0.2   2.9   2   1   0   2   2   2   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s11639_L_40465_0_15_6_FORK, transcribed RNA sequence
+GCWN01035711.1_4     -          LOTUS_CONSENSUS      -                1.8   12.5   0.1       5.5   11.0   0.1   1.8   1   0   0   1   1   1   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s6950_L_20578_0_8_5_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:19 2019
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLY01019684.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-20   75.6   1.7   8.1e-20   74.0   0.0   2.6   2   0   0   2   2   2   1 TSA: Eucera plumigera s1266_L_1511_0_a_17_2_l_4327 transcribed RNA sequence
+GBLY01019685.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-20   75.0   1.7   1.1e-19   73.5   0.0   2.6   2   0   0   2   2   2   1 TSA: Eucera plumigera s1267_L_1511_1_a_20_6_l_5714 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:16 2019
+# [ok]

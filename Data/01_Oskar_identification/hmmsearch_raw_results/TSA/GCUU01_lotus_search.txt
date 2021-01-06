@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCUU01026739.1_3     -          LOTUS_CONSENSUS      -            1.3e-13   54.3   0.7   2.8e-11   46.8   0.1   4.7   5   1   1   6   6   6   2 TSA: Elasmus sp. AD-2014 s7071_L_18266_1_a_18_9_l_3293 transcribed RNA sequence
+GCUU01026738.1_1     -          LOTUS_CONSENSUS      -            3.2e-13   53.0   0.7   3.9e-11   46.3   0.1   4.4   4   1   0   4   4   4   2 TSA: Elasmus sp. AD-2014 s7070_L_18266_0_a_24_8_l_4251 transcribed RNA sequence
+GCUU01019244.1_1     -          LOTUS_CONSENSUS      -            6.1e-10   42.5   0.0   2.3e-09   40.6   0.0   2.1   1   0   0   1   1   1   1 TSA: Elasmus sp. AD-2014 C175622_a_50_0_l_3985 transcribed RNA sequence
+GCUU01029910.1_3     -          LOTUS_CONSENSUS      -            8.4e-07   32.5   0.1       9.9    9.8   0.0   5.6   4   1   2   6   6   6   3 TSA: Elasmus sp. AD-2014 s9931_L_32306_0_a_65_7_l_4026 transcribed RNA sequence
+GCUU01010550.1_3     -          LOTUS_CONSENSUS      -              0.022   18.3   3.4      0.06   16.9   0.8   2.0   1   1   1   2   2   2   0 TSA: Elasmus sp. AD-2014 C138540_a_4_0_l_391 transcribed RNA sequence
+GCUU01016849.1_1     -          LOTUS_CONSENSUS      -              0.044   17.3   3.4     0.072   16.6   0.0   3.0   3   1   1   4   4   4   0 TSA: Elasmus sp. AD-2014 C164996_a_10_0_l_1177 transcribed RNA sequence
+GCUU01013490.1_6     -          LOTUS_CONSENSUS      -               0.33   14.5   0.1      0.91   13.1   0.1   1.8   1   0   0   1   1   1   0 TSA: Elasmus sp. AD-2014 C150416_a_32_0_l_573 transcribed RNA sequence
+GCUU01018819.1_4     -          LOTUS_CONSENSUS      -                  3   11.5   2.3       3.5   11.2   0.3   2.2   2   0   0   2   2   2   0 TSA: Elasmus sp. AD-2014 C173690_a_59_0_l_2478 transcribed RNA sequence
+GCUU01024699.1_3     -          LOTUS_CONSENSUS      -                8.2   10.1   6.0       9.1    9.9   0.2   2.7   3   0   0   3   3   3   0 TSA: Elasmus sp. AD-2014 s5234_L_12143_0_a_59_6_l_1050 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCUU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:22 2019
+# [ok]

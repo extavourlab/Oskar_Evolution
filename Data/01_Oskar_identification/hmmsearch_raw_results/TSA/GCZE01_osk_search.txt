@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZE01061868.1_2     -          OSK_CONSENSUS        -            2.6e-25   93.6   0.1   5.5e-25   92.6   0.0   1.6   2   0   0   2   2   2   1 TSA: Melanoliarus placitus breed wildtype C409920_14_0, transcribed RNA sequence
+GCZE01056690.1_4     -          OSK_CONSENSUS        -            3.7e-24   89.9   0.1   5.3e-24   89.4   0.1   1.2   1   0   0   1   1   1   1 TSA: Melanoliarus placitus breed wildtype C390662_16_0, transcribed RNA sequence
+GCZE01037719.1_5     -          OSK_CONSENSUS        -               0.06   17.7   0.1     0.065   17.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C331727_2_0, transcribed RNA sequence
+GCZE01038306.1_6     -          OSK_CONSENSUS        -               0.42   15.0   2.5      0.55   14.6   2.5   1.2   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C333373_8_0, transcribed RNA sequence
+GCZE01043359.1_3     -          OSK_CONSENSUS        -               0.44   14.9   0.6      0.53   14.6   0.6   1.1   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C348071_3_0, transcribed RNA sequence
+GCZE01053187.1_3     -          OSK_CONSENSUS        -                1.9   12.8   0.4       3.6   11.9   0.4   1.5   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C378659_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:12 2019
+# [ok]

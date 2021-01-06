@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCR01091388.1_2     -          LOTUS_CONSENSUS      -            1.4e-17   68.7   0.0   3.5e-16   64.2   0.0   2.3   2   0   0   2   2   2   1 TSA: Blattella germanica breed breeding s15752_L_91737_0_a_6_4_l_1424, transcribed RNA sequence
+GDCR01078790.1_4     -          LOTUS_CONSENSUS      -            8.2e-16   63.0   0.0   1.9e-15   61.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Blattella germanica breed breeding C363783_a_11_0_l_889, transcribed RNA sequence
+GDCR01078484.1_2     -          LOTUS_CONSENSUS      -            0.00023   26.3   0.0     0.028   19.6   0.0   2.3   2   0   0   2   2   2   1 TSA: Blattella germanica breed breeding C362913_a_7_0_l_867, transcribed RNA sequence
+GDCR01084997.1_1     -          LOTUS_CONSENSUS      -              0.036   19.3   0.0   3.9e+02    6.4   0.0   5.0   3   1   2   5   5   5   0 TSA: Blattella germanica breed breeding C381292_a_46_0_l_4164, transcribed RNA sequence
+GDCR01040405.1_6     -          LOTUS_CONSENSUS      -               0.16   17.2   7.5       5.7   12.3   1.6   2.2   1   1   1   2   2   2   0 TSA: Blattella germanica breed breeding C262876_a_4_0_l_279, transcribed RNA sequence
+GDCR01052085.1_6     -          LOTUS_CONSENSUS      -               0.33   16.2   0.1      0.49   15.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C293006_a_3_0_l_349, transcribed RNA sequence
+GDCR01086460.1_2     -          LOTUS_CONSENSUS      -                0.7   15.2   0.0       1.7   14.0   0.0   1.5   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding s11299_L_26287_0_a_24_9_l_817, transcribed RNA sequence
+GDCR01017843.1_5     -          LOTUS_CONSENSUS      -                1.5   14.1   0.7       1.7   14.0   0.7   1.2   1   1   0   1   1   1   0 TSA: Blattella germanica breed breeding C212466_a_9_0_l_246, transcribed RNA sequence
+GDCR01050690.1_5     -          LOTUS_CONSENSUS      -                1.9   13.8   0.1       3.6   12.9   0.0   1.5   1   1   0   1   1   1   0 TSA: Blattella germanica breed breeding C289467_a_4_0_l_339, transcribed RNA sequence
+GDCR01058543.1_5     -          LOTUS_CONSENSUS      -                2.2   13.6   0.1       3.7   12.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C309743_a_3_0_l_401, transcribed RNA sequence
+GDCR01032452.1_2     -          LOTUS_CONSENSUS      -                7.1   11.9   0.0       8.5   11.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C244766_a_3_0_l_263, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:19 2019
+# [ok]

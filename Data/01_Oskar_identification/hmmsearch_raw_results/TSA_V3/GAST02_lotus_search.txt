@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAST02013344.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-10   42.4   2.1   5.6e-09   39.5   0.0   2.6   2   1   0   2   2   2   1 TSA: Polyommatus icarus C147185_a_6_0_l_1118 transcribed RNA sequence
+GAST02024765.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.021   18.4   0.2      0.77   13.3   0.1   2.7   2   0   0   2   2   2   0 TSA: Polyommatus icarus s3769_L_4957_0_a_19_8_l_1713 transcribed RNA sequence
+GAST02016320.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.59   13.7   0.2       1.7   12.2   0.2   1.7   1   0   0   1   1   1   0 TSA: Polyommatus icarus C157259_a_24_0_l_3132 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAST02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAST02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAST02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:14 2019
+# [ok]

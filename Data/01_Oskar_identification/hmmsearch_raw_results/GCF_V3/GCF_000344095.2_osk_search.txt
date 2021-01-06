@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012267561.1       -          oskar_filtered.aligned.OSK_domain -            2.5e-59  200.4   0.0   5.1e-59  199.4   0.0   1.5   1   0   0   1   1   1   1 maternal effect protein oskar-like [Athalia rosae]
+XP_020707515.1       -          oskar_filtered.aligned.OSK_domain -              0.048   13.6   0.7      0.14   12.1   0.2   2.1   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X6 [Athalia rosae]
+XP_020707512.1       -          oskar_filtered.aligned.OSK_domain -              0.051   13.5   0.6      0.16   11.9   0.2   2.1   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X3 [Athalia rosae]
+XP_012254284.1       -          oskar_filtered.aligned.OSK_domain -              0.052   13.5   0.5      0.16   11.9   0.2   2.0   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X1 [Athalia rosae]
+XP_020707513.1       -          oskar_filtered.aligned.OSK_domain -              0.053   13.5   0.6      0.16   11.9   0.2   2.0   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X4 [Athalia rosae]
+XP_020707511.1       -          oskar_filtered.aligned.OSK_domain -              0.053   13.5   0.6      0.16   11.9   0.2   2.0   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X2 [Athalia rosae]
+XP_020707514.1       -          oskar_filtered.aligned.OSK_domain -              0.056   13.4   0.6      0.15   12.0   0.2   2.0   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X5 [Athalia rosae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000344095.2_Aros_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000344095.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000344095.2_Aros_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:00 2019
+# [ok]

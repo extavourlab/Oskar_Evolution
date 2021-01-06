@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCEW01019683.1_4     -          oskar_filtered.aligned.LOTUS_domain -              3e-14   56.4   0.0   3.7e-14   56.2   0.0   1.0   1   0   0   1   1   1   1 TSA: Sapromyza sciomyzina C90134_a_3_0_l_270 transcribed RNA sequence
+GCEW01013429.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-10   44.1   0.1   2.1e-10   44.1   0.1   3.9   4   0   0   4   4   4   1 TSA: Sapromyza sciomyzina C146765_a_15_0_l_2456 transcribed RNA sequence
+GCEW01004369.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-08   38.4   0.0   2.2e-08   37.6   0.0   1.4   1   1   0   1   1   1   1 TSA: Sapromyza sciomyzina C115246_a_26_0_l_468 transcribed RNA sequence
+GCEW01024840.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-06   32.1   0.2   1.9e-06   31.4   0.2   1.3   1   0   0   1   1   1   1 TSA: Sapromyza sciomyzina s2968_L_4922_0_a_35_4_l_475 transcribed RNA sequence
+GCEW01015737.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-05   28.7   0.7   1.5e-05   28.5   0.7   1.1   1   0   0   1   1   1   1 TSA: Sapromyza sciomyzina C78276_a_3_0_l_225 transcribed RNA sequence
+GCEW01017862.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-05   27.4   0.1   3.8e-05   27.2   0.1   1.1   1   0   0   1   1   1   1 TSA: Sapromyza sciomyzina C84836_a_8_0_l_250 transcribed RNA sequence
+GCEW01024025.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.43   14.2   0.0       1.1   12.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Sapromyza sciomyzina s2225_L_3256_0_a_10_6_l_1626 transcribed RNA sequence
+GCEW01004165.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.2   12.8   0.0       2.2   11.9   0.0   1.5   1   0   0   1   1   1   0 TSA: Sapromyza sciomyzina C114527_a_4_0_l_459 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCEW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCEW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCEW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:43 2019
+# [ok]

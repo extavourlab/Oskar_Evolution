@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEQ01054989.1_3     -          OSK_CONSENSUS        -            0.00053   24.9   0.1   0.00068   24.6   0.1   1.1   1   0   0   1   1   1   1 TSA: Proasellus arthrodilus, contig comp64341_c0_seq5, transcribed RNA sequence
+HAEQ01054987.1_3     -          OSK_CONSENSUS        -             0.0026   22.7   0.1    0.0044   21.9   0.1   1.3   1   0   0   1   1   1   1 TSA: Proasellus arthrodilus, contig comp64341_c0_seq3, transcribed RNA sequence
+HAEQ01054986.1_3     -          OSK_CONSENSUS        -             0.0029   22.5   0.1    0.0049   21.8   0.1   1.3   1   0   0   1   1   1   1 TSA: Proasellus arthrodilus, contig comp64341_c0_seq2, transcribed RNA sequence
+HAEQ01060339.1_5     -          OSK_CONSENSUS        -              0.015   20.2   0.0        46    8.9   0.0   2.4   2   0   0   2   2   2   0 TSA: Proasellus arthrodilus, contig comp65041_c0_seq4, transcribed RNA sequence
+HAEQ01060337.1_5     -          OSK_CONSENSUS        -              0.048   18.6   0.0        80    8.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Proasellus arthrodilus, contig comp65041_c0_seq2, transcribed RNA sequence
+HAEQ01068102.1_6     -          OSK_CONSENSUS        -               0.23   16.4   0.1      0.56   15.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp65706_c1_seq5, transcribed RNA sequence
+HAEQ01038086.1_3     -          OSK_CONSENSUS        -               0.27   16.1   0.0        50    8.8   0.0   2.2   2   0   0   2   2   2   0 TSA: Proasellus arthrodilus, contig comp58983_c1_seq1, transcribed RNA sequence
+HAEQ01067838.1_6     -          OSK_CONSENSUS        -               0.28   16.1   0.1       0.3   16.0   0.1   1.0   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp65684_c3_seq12, transcribed RNA sequence
+HAEQ01067832.1_6     -          OSK_CONSENSUS        -               0.41   15.5   0.0      0.48   15.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp65684_c3_seq6, transcribed RNA sequence
+HAEQ01068098.1_5     -          OSK_CONSENSUS        -               0.51   15.2   0.1       1.8   13.4   0.1   1.9   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp65706_c1_seq1, transcribed RNA sequence
+HAEQ01068104.1_6     -          OSK_CONSENSUS        -               0.54   15.1   0.1       1.8   13.4   0.1   1.9   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp65706_c1_seq7, transcribed RNA sequence
+HAEQ01046674.1_1     -          OSK_CONSENSUS        -               0.81   14.6   0.8       1.3   13.9   0.8   1.4   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp62448_c0_seq8, transcribed RNA sequence
+HAEQ01046669.1_1     -          OSK_CONSENSUS        -               0.84   14.5   0.8       1.4   13.9   0.8   1.3   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp62448_c0_seq3, transcribed RNA sequence
+HAEQ01046671.1_1     -          OSK_CONSENSUS        -               0.97   14.3   1.2       1.5   13.7   1.2   1.3   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp62448_c0_seq5, transcribed RNA sequence
+HAEQ01046668.1_1     -          OSK_CONSENSUS        -                  1   14.3   1.2       1.6   13.7   1.2   1.3   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp62448_c0_seq2, transcribed RNA sequence
+HAEQ01103650.1_4     -          OSK_CONSENSUS        -                1.5   13.7   0.1       1.8   13.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp896217_c0_seq1, transcribed RNA sequence
+HAEQ01071969.1_1     -          OSK_CONSENSUS        -                3.9   12.4   0.0       4.2   12.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp257022_c0_seq1, transcribed RNA sequence
+HAEQ01058595.1_1     -          OSK_CONSENSUS        -                3.9   12.4   0.8       6.6   11.6   0.8   1.3   1   0   0   1   1   1   0 TSA: Proasellus arthrodilus, contig comp64827_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEQ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEQ.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEQ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:45 2019
+# [ok]

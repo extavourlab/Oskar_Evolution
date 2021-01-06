@@ -1,0 +1,27 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWU01027988.1_1     -          oskar_filtered.aligned.OSK_domain -              2e-30  109.8   0.1   3.9e-30  108.8   0.0   1.5   2   0   0   2   2   2   1 TSA: Aclerda sp. AD-2014 breed wildtype C253760_5_0, transcribed RNA sequence
+GCWU01045207.1_2     -          oskar_filtered.aligned.OSK_domain -            7.6e-29  104.6   1.0   9.7e-29  104.3   1.0   1.3   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s7770_L_16345_0_51_9_FORK, transcribed RNA sequence
+GCWU01038433.1_5     -          oskar_filtered.aligned.OSK_domain -            6.5e-27   98.3   0.0   1.3e-26   97.3   0.0   1.5   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s18003_L_58085_0_32_9_LINEAR, transcribed RNA sequence
+GCWU01037375.1_5     -          oskar_filtered.aligned.OSK_domain -            1.3e-06   32.1   1.5   2.6e-06   31.1   1.5   1.5   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s17050_L_53303_0_4_7_LINEAR_a, transcribed RNA sequence
+GCWU01036457.1_5     -          oskar_filtered.aligned.OSK_domain -            1.4e-05   28.8   4.6   1.4e-05   28.8   4.6   2.1   2   0   0   2   2   2   1 TSA: Aclerda sp. AD-2014 breed wildtype s16224_L_49756_0_48_3_LINEAR, transcribed RNA sequence
+GCWU01043333.1_2     -          oskar_filtered.aligned.OSK_domain -            4.6e-05   27.1   0.1     8e-05   26.3   0.1   1.3   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s6082_L_12022_0_5_9_LINEAR, transcribed RNA sequence
+GCWU01024500.1_2     -          oskar_filtered.aligned.OSK_domain -             0.0015   22.2   0.3    0.0018   21.9   0.3   1.2   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype C229960_4_0, transcribed RNA sequence
+GCWU01008653.1_2     -          oskar_filtered.aligned.OSK_domain -              0.068   16.8   0.1     0.068   16.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype C164742_4_0, transcribed RNA sequence
+GCWU01035757.1_3     -          oskar_filtered.aligned.OSK_domain -               0.33   14.5   0.0      0.79   13.3   0.0   1.7   1   0   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype s15590_L_46740_0_4_2_LINEAR, transcribed RNA sequence
+GCWU01039926.1_2     -          oskar_filtered.aligned.OSK_domain -               0.77   13.3   0.0       1.4   12.5   0.0   1.2   1   1   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype s3011_L_4952_0_7_0_LINEAR, transcribed RNA sequence
+GCWU01037863.1_2     -          oskar_filtered.aligned.OSK_domain -               0.78   13.3   0.2       1.3   12.6   0.2   1.5   1   0   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype s17490_L_55466_0_17_0_LINEAR, transcribed RNA sequence
+GCWU01046016.1_3     -          oskar_filtered.aligned.OSK_domain -                1.3   12.5   0.3       1.5   12.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype s8499_L_18710_0_14_1_LINEAR, transcribed RNA sequence
+GCWU01046053.1_1     -          oskar_filtered.aligned.OSK_domain -                2.6   11.6   5.0       6.1   10.4   5.0   1.6   1   0   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype s8531_L_18764_2_49_6_COMPLEX, transcribed RNA sequence
+GCWU01029343.1_5     -          oskar_filtered.aligned.OSK_domain -                4.9   10.7   4.7        17    8.9   1.9   3.2   2   1   0   2   2   2   0 TSA: Aclerda sp. AD-2014 breed wildtype C262860_24_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:36 2019
+# [ok]

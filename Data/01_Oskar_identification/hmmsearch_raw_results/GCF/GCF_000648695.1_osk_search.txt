@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022908970.1       -          OSK_CONSENSUS        -            3.9e-28   98.3   1.6   6.7e-28   97.6   1.6   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC111420246 [Onthophagus taurus]
+XP_022911073.1       -          OSK_CONSENSUS        -            4.8e-24   85.1   0.5   6.5e-24   84.6   0.5   1.1   1   0   0   1   1   1   1 maternal effect protein oskar-like [Onthophagus taurus]
+XP_022904648.1       -          OSK_CONSENSUS        -            5.5e-11   42.6   1.4   1.3e-10   41.4   1.4   1.5   1   1   0   1   1   1   1 uncharacterized protein LOC111416780 [Onthophagus taurus]
+XP_022909500.1       -          OSK_CONSENSUS        -            2.7e-09   37.1   1.4   5.5e-09   36.1   1.4   1.5   1   1   0   1   1   1   1 uncharacterized protein LOC111420687 [Onthophagus taurus]
+XP_022920621.1       -          OSK_CONSENSUS        -            6.4e-08   32.7   0.5   1.1e-07   31.9   0.5   1.4   1   1   0   1   1   1   1 uncharacterized protein LOC111429034 [Onthophagus taurus]
+XP_022901860.1       -          OSK_CONSENSUS        -               0.02   14.8   0.0      0.04   13.8   0.0   1.4   1   1   0   1   1   1   0 platelet-activating factor acetylhydrolase IB subunit beta homolog [Onthophagus taurus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648695.1_Otau_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000648695.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648695.1_Otau_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:44 2019
+# [ok]

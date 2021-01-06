@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFCV01071208.1_1     -          OSK_CONSENSUS        -             0.0024   23.0   0.3    0.0057   21.8   0.3   1.6   1   0   0   1   1   1   1 TSA: Gammarus chevreuxi TRINITY_DN66434_c1_g1_i3 transcribed RNA sequence
+GFCV01126885.1_2     -          OSK_CONSENSUS        -               0.42   15.7   0.7      0.44   15.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Gammarus chevreuxi TRINITY_DN115691_c0_g1_i1 transcribed RNA sequence
+GFCV01004917.1_6     -          OSK_CONSENSUS        -                1.6   13.8   0.0       2.4   13.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Gammarus chevreuxi TRINITY_DN14821_c0_g1_i1 transcribed RNA sequence
+GFCV01042916.1_1     -          OSK_CONSENSUS        -                1.7   13.8   0.0       6.8   11.8   0.0   2.0   2   0   0   2   2   2   0 TSA: Gammarus chevreuxi TRINITY_DN60240_c0_g1_i4 transcribed RNA sequence
+GFCV01042913.1_1     -          OSK_CONSENSUS        -                1.8   13.7   0.0       5.8   12.0   0.0   1.8   2   0   0   2   2   2   0 TSA: Gammarus chevreuxi TRINITY_DN60240_c0_g1_i1 transcribed RNA sequence
+GFCV01042915.1_1     -          OSK_CONSENSUS        -                1.9   13.6   0.0       5.5   12.1   0.0   1.7   2   0   0   2   2   2   0 TSA: Gammarus chevreuxi TRINITY_DN60240_c0_g1_i3 transcribed RNA sequence
+GFCV01053160.1_4     -          OSK_CONSENSUS        -                3.1   12.9   0.8       3.8   12.6   0.8   1.1   1   0   0   1   1   1   0 TSA: Gammarus chevreuxi TRINITY_DN62837_c0_g1_i1 transcribed RNA sequence
+GFCV01035945.1_5     -          OSK_CONSENSUS        -                5.9   12.0   0.4        14   10.7   0.4   1.6   1   1   0   1   1   1   0 TSA: Gammarus chevreuxi TRINITY_DN57479_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFCV.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GFCV.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFCV.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:09 2019
+# [ok]

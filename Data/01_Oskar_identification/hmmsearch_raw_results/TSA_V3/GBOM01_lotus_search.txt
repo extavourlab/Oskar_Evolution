@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOM01013851.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-13   53.5   0.0   4.6e-13   52.0   0.0   1.9   1   0   0   1   1   1   1 TSA: Chalybion californicum C79082_a_23_0_l_4701 transcribed RNA sequence
+GBOM01013853.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-10   43.0   0.3       2.2   11.3   0.0   6.4   2   1   4   6   6   6   4 TSA: Chalybion californicum C79090_a_20_0_l_4713 transcribed RNA sequence
+GBOM01002893.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00015   24.7   0.0   0.00021   24.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Chalybion californicum C35665_a_4_0_l_275 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:51 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWO01028925.1_3     -          oskar_filtered.aligned.OSK_domain -            5.3e-07   33.8   0.0   6.6e-07   33.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Aphalara polygoni breed wildtype C442981_3_0, transcribed RNA sequence
+GCWO01038451.1_5     -          oskar_filtered.aligned.OSK_domain -             0.0025   21.8   3.9     0.013   19.5   3.8   2.1   1   1   0   1   1   1   1 TSA: Aphalara polygoni breed wildtype s11825_L_21853_0_5_8_LINEAR, transcribed RNA sequence
+GCWO01002648.1_4     -          oskar_filtered.aligned.OSK_domain -             0.0031   21.5   0.0    0.0034   21.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Aphalara polygoni breed wildtype C339603_2_0, transcribed RNA sequence
+GCWO01019789.1_2     -          oskar_filtered.aligned.OSK_domain -               0.16   15.9   0.0      0.16   15.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Aphalara polygoni breed wildtype C404115_6_0, transcribed RNA sequence
+GCWO01026351.1_6     -          oskar_filtered.aligned.OSK_domain -                  2   12.3   0.0       2.3   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Aphalara polygoni breed wildtype C431421_6_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:14 2019
+# [ok]

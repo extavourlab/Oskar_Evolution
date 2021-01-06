@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHGZ01128931.1_5     -          oskar_filtered.aligned.OSK_domain -               0.72   15.2   1.3      0.87   15.0   1.3   1.0   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_130552, transcribed RNA sequence
+GHGZ01147068.1_3     -          oskar_filtered.aligned.OSK_domain -                  1   14.8   1.6       1.2   14.5   1.6   1.1   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_148919, transcribed RNA sequence
+GHGZ01168723.1_1     -          oskar_filtered.aligned.OSK_domain -                3.9   12.8   5.2       3.8   12.9   4.1   1.7   1   1   0   1   1   1   0 TSA: Achaea janata Transcript_170789, transcribed RNA sequence
+GHGZ01072582.1_2     -          oskar_filtered.aligned.OSK_domain -                4.5   12.6   0.2       4.6   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_73258, transcribed RNA sequence
+GHGZ01112706.1_4     -          oskar_filtered.aligned.OSK_domain -                5.4   12.4   0.7       6.4   12.1   0.7   1.2   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_114107, transcribed RNA sequence
+GHGZ01027678.1_6     -          oskar_filtered.aligned.OSK_domain -                5.5   12.3   0.2       6.4   12.1   0.2   1.0   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_27898, transcribed RNA sequence
+GHGZ01119260.1_2     -          oskar_filtered.aligned.OSK_domain -                6.3   12.2   0.3       8.6   11.7   0.3   1.2   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_120748, transcribed RNA sequence
+GHGZ01053758.1_2     -          oskar_filtered.aligned.OSK_domain -                6.8   12.0   0.1       7.5   11.9   0.1   1.0   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_54066, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHGZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:33 2019
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOW01085898.1_1     -          oskar_filtered.aligned.OSK_domain -            4.4e-09   42.0   0.0   7.2e-09   41.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Photinus pyralis TR45873_c0_g1_i3 transcribed RNA sequence
+GEOW01084738.1_6     -          oskar_filtered.aligned.OSK_domain -            2.5e-08   39.6   0.0   2.9e-08   39.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Photinus pyralis TR45808_c0_g3_i1 transcribed RNA sequence
+GEOW01084739.1_5     -          oskar_filtered.aligned.OSK_domain -            8.5e-05   28.0   0.0    0.0001   27.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Photinus pyralis TR45808_c0_g3_i2 transcribed RNA sequence
+GEOW01084747.1_4     -          oskar_filtered.aligned.OSK_domain -              0.074   18.5   0.0     0.085   18.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45808_c0_g8_i1 transcribed RNA sequence
+GEOW01084740.1_4     -          oskar_filtered.aligned.OSK_domain -                0.2   17.1   0.6      0.33   16.4   0.1   1.7   2   0   0   2   2   2   0 TSA: Photinus pyralis TR45808_c0_g4_i1 transcribed RNA sequence
+GEOW01129455.1_2     -          oskar_filtered.aligned.OSK_domain -               0.39   16.1   0.1      0.42   16.0   0.1   1.0   1   0   0   1   1   1   0 TSA: Photinus pyralis TR67244_c0_g1_i1 transcribed RNA sequence
+GEOW01085902.1_2     -          oskar_filtered.aligned.OSK_domain -               0.45   15.9   0.0      0.59   15.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45873_c0_g1_i7 transcribed RNA sequence
+GEOW01085910.1_2     -          oskar_filtered.aligned.OSK_domain -               0.52   15.7   0.0      0.61   15.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45873_c0_g1_i12 transcribed RNA sequence
+GEOW01085903.1_2     -          oskar_filtered.aligned.OSK_domain -               0.73   15.2   0.0       1.3   14.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45873_c0_g1_i8 transcribed RNA sequence
+GEOW01085897.1_2     -          oskar_filtered.aligned.OSK_domain -               0.86   15.0   0.0       1.3   14.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Photinus pyralis TR45873_c0_g1_i2 transcribed RNA sequence
+GEOW01110178.1_2     -          oskar_filtered.aligned.OSK_domain -                1.3   14.4   0.1       2.5   13.5   0.0   1.5   2   0   0   2   2   2   0 TSA: Photinus pyralis TR57767_c0_g1_i1 transcribed RNA sequence
+GEOW01160163.1_1     -          oskar_filtered.aligned.OSK_domain -                1.3   14.4   0.3       1.4   14.3   0.3   1.0   1   0   0   1   1   1   0 TSA: Photinus pyralis TR85302_c0_g1_i1 transcribed RNA sequence
+GEOW01022626.1_4     -          oskar_filtered.aligned.OSK_domain -                2.4   13.6   0.1         3   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR11411_c0_g1_i1 transcribed RNA sequence
+GEOW01007106.1_5     -          oskar_filtered.aligned.OSK_domain -                2.7   13.3   0.0       2.9   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR4107_c3_g7_i1 transcribed RNA sequence
+GEOW01090552.1_2     -          oskar_filtered.aligned.OSK_domain -                  3   13.2   0.0       3.9   12.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Photinus pyralis TR47106_c0_g2_i1 transcribed RNA sequence
+GEOW01163519.1_1     -          oskar_filtered.aligned.OSK_domain -                3.3   13.1   0.0       3.6   13.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR88632_c0_g1_i1 transcribed RNA sequence
+GEOW01110179.1_2     -          oskar_filtered.aligned.OSK_domain -                4.2   12.7   0.0       9.8   11.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Photinus pyralis TR57767_c0_g1_i2 transcribed RNA sequence
+GEOW01081576.1_3     -          oskar_filtered.aligned.OSK_domain -                4.6   12.6   0.1       5.3   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR43721_c0_g4_i1 transcribed RNA sequence
+GEOW01110180.1_3     -          oskar_filtered.aligned.OSK_domain -                5.6   12.3   0.0        10   11.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Photinus pyralis TR57767_c0_g1_i3 transcribed RNA sequence
+GEOW01139641.1_1     -          oskar_filtered.aligned.OSK_domain -                9.2   11.6   0.0       9.4   11.6   0.0   1.0   1   0   0   1   1   1   0 TSA: Photinus pyralis TR73777_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:32 2019
+# [ok]

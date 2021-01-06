@@ -1,0 +1,49 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWD01015600.1_1     -          OSK_CONSENSUS        -            6.7e-32  115.6   0.0     1e-31  115.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp30688_c0_seq1 transcribed RNA sequence
+GAWD01030559.1_2     -          OSK_CONSENSUS        -            6.1e-29  106.0   0.1   9.2e-29  105.5   0.1   1.2   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp43998_c1_seq1 transcribed RNA sequence
+GAWD01030560.1_2     -          OSK_CONSENSUS        -            7.3e-29  105.8   0.1   1.1e-28  105.3   0.1   1.2   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp43998_c1_seq2 transcribed RNA sequence
+GAWD01039535.1_3     -          OSK_CONSENSUS        -            8.6e-16   63.3   0.0   8.6e-16   63.3   0.0   2.8   3   1   0   3   3   2   1 TSA: Medauroidea extradentata comp48856_c1_seq1 transcribed RNA sequence
+GAWD01055425.1_3     -          OSK_CONSENSUS        -            6.6e-14   57.2   0.0   1.4e-13   56.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp52011_c1_seq2 transcribed RNA sequence
+GAWD01050013.1_3     -          OSK_CONSENSUS        -            1.1e-13   56.4   0.0   2.1e-13   55.5   0.0   1.4   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp51558_c5_seq5 transcribed RNA sequence
+GAWD01050014.1_2     -          OSK_CONSENSUS        -            4.3e-13   54.5   0.0   8.3e-13   53.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp51558_c5_seq6 transcribed RNA sequence
+GAWD01050021.1_3     -          OSK_CONSENSUS        -            4.7e-13   54.4   0.6     2e-12   52.4   0.0   2.3   2   0   0   2   2   2   1 TSA: Medauroidea extradentata comp51558_c5_seq13 transcribed RNA sequence
+GAWD01075792.1_2     -          OSK_CONSENSUS        -              9e-13   53.5   0.1   9.4e-13   53.4   0.1   1.0   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp93834_c0_seq1 transcribed RNA sequence
+GAWD01050019.1_2     -          OSK_CONSENSUS        -            1.8e-12   52.5   0.6   7.6e-12   50.5   0.0   2.3   2   0   0   2   2   2   1 TSA: Medauroidea extradentata comp51558_c5_seq11 transcribed RNA sequence
+GAWD01125724.1_3     -          OSK_CONSENSUS        -            3.5e-08   38.6   0.0   3.7e-08   38.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp1809080_c0_seq1 transcribed RNA sequence
+GAWD01050017.1_3     -          OSK_CONSENSUS        -            3.8e-06   31.9   0.2   7.9e-06   30.9   0.2   1.5   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp51558_c5_seq9 transcribed RNA sequence
+GAWD01013940.1_3     -          OSK_CONSENSUS        -            2.2e-05   29.5   0.3   3.3e-05   28.9   0.3   1.3   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp28564_c0_seq1 transcribed RNA sequence
+GAWD01050015.1_3     -          OSK_CONSENSUS        -            3.1e-05   29.0   1.8   6.7e-05   27.9   0.2   2.3   2   0   0   2   2   2   1 TSA: Medauroidea extradentata comp51558_c5_seq7 transcribed RNA sequence
+GAWD01035715.1_3     -          OSK_CONSENSUS        -            5.7e-05   28.1   0.0   7.5e-05   27.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp47148_c0_seq1 transcribed RNA sequence
+GAWD01079658.1_1     -          OSK_CONSENSUS        -            0.00044   25.2   0.1   0.00081   24.4   0.1   1.4   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp377967_c0_seq1 transcribed RNA sequence
+GAWD01017319.1_5     -          OSK_CONSENSUS        -            0.00059   24.8   0.7   0.00059   24.8   0.7   1.8   2   0   0   2   2   2   1 TSA: Medauroidea extradentata comp32776_c0_seq1 transcribed RNA sequence
+GAWD01062186.1_3     -          OSK_CONSENSUS        -              0.006   21.6   0.0    0.0089   21.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp52467_c0_seq6 transcribed RNA sequence
+GAWD01062187.1_2     -          OSK_CONSENSUS        -              0.007   21.3   0.0     0.015   20.3   0.0   1.4   1   1   0   1   1   1   1 TSA: Medauroidea extradentata comp52467_c0_seq7 transcribed RNA sequence
+GAWD01062182.1_1     -          OSK_CONSENSUS        -             0.0074   21.3   0.0     0.012   20.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Medauroidea extradentata comp52467_c0_seq2 transcribed RNA sequence
+GAWD01035716.1_1     -          OSK_CONSENSUS        -              0.019   20.0   0.0     0.035   19.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp47148_c0_seq2 transcribed RNA sequence
+GAWD01094348.1_3     -          OSK_CONSENSUS        -               0.05   18.6   0.0     0.056   18.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp776738_c0_seq1 transcribed RNA sequence
+GAWD01008672.1_1     -          OSK_CONSENSUS        -                0.1   17.6   0.0      0.22   16.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp20742_c0_seq1 transcribed RNA sequence
+GAWD01005273.1_5     -          OSK_CONSENSUS        -               0.16   16.9   0.1      0.18   16.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp11074_c0_seq1 transcribed RNA sequence
+GAWD01034964.1_5     -          OSK_CONSENSUS        -               0.16   16.9   0.1      0.18   16.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp46731_c0_seq1 transcribed RNA sequence
+GAWD01060925.1_2     -          OSK_CONSENSUS        -               0.26   16.2   0.0      0.27   16.2   0.0   1.0   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp52379_c0_seq2 transcribed RNA sequence
+GAWD01089841.1_4     -          OSK_CONSENSUS        -               0.41   15.6   0.3      0.43   15.5   0.3   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp665186_c0_seq1 transcribed RNA sequence
+GAWD01039463.1_5     -          OSK_CONSENSUS        -               0.59   15.1   0.6        93    7.9   0.1   2.8   3   0   0   3   3   2   0 TSA: Medauroidea extradentata comp48832_c1_seq2 transcribed RNA sequence
+GAWD01060924.1_2     -          OSK_CONSENSUS        -               0.62   15.0   0.0       1.1   14.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp52379_c0_seq1 transcribed RNA sequence
+GAWD01092425.1_6     -          OSK_CONSENSUS        -               0.65   14.9   0.0      0.83   14.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp732284_c0_seq1 transcribed RNA sequence
+GAWD01089058.1_3     -          OSK_CONSENSUS        -               0.72   14.8   0.0      0.79   14.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp645434_c0_seq1 transcribed RNA sequence
+GAWD01072626.1_3     -          OSK_CONSENSUS        -                1.2   14.1   0.1       1.2   14.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp53069_c1_seq17 transcribed RNA sequence
+GAWD01005994.1_2     -          OSK_CONSENSUS        -                1.3   13.9   0.4       1.6   13.7   0.4   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp12734_c0_seq1 transcribed RNA sequence
+GAWD01123851.1_3     -          OSK_CONSENSUS        -                2.4   13.1   0.2       3.2   12.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp1749393_c0_seq1 transcribed RNA sequence
+GAWD01094353.1_5     -          OSK_CONSENSUS        -                2.5   13.0   0.9         3   12.8   0.9   1.1   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp776957_c0_seq1 transcribed RNA sequence
+GAWD01097036.1_2     -          OSK_CONSENSUS        -                3.7   12.5   0.1       4.5   12.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Medauroidea extradentata comp850901_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:32 2019
+# [ok]

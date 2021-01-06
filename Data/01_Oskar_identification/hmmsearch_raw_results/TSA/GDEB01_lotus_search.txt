@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEB01024068.1_2     -          LOTUS_CONSENSUS      -            7.7e-17   64.5   0.3   7.7e-17   64.5   0.3   3.4   2   1   0   2   2   2   1 TSA: Daktulosphaira vitifoliae breed wildtype s3901_L_7486_0_a_46_4_l_2709, transcribed RNA sequence
+GDEB01026377.1_1     -          LOTUS_CONSENSUS      -            9.8e-17   64.1   2.8   3.2e-15   59.3   0.0   3.2   3   0   0   3   3   3   1 TSA: Daktulosphaira vitifoliae breed wildtype s883_L_1074_1_a_52_7_l_2825, transcribed RNA sequence
+GDEB01012898.1_6     -          LOTUS_CONSENSUS      -            1.1e-13   54.3   0.1   1.8e-13   53.7   0.1   1.3   1   0   0   1   1   1   1 TSA: Daktulosphaira vitifoliae breed wildtype C66113_a_19_0_l_582, transcribed RNA sequence
+GDEB01012448.1_2     -          LOTUS_CONSENSUS      -            3.7e-13   52.6   1.8   9.5e-13   51.3   0.0   2.0   2   0   0   2   2   2   1 TSA: Daktulosphaira vitifoliae breed wildtype C64859_a_17_0_l_549, transcribed RNA sequence
+GDEB01015403.1_4     -          LOTUS_CONSENSUS      -              6e-07   32.7   1.7     0.025   18.0   0.2   2.7   2   2   1   3   3   3   2 TSA: Daktulosphaira vitifoliae breed wildtype C73361_a_25_0_l_841, transcribed RNA sequence
+GDEB01024419.1_5     -          LOTUS_CONSENSUS      -            2.4e-05   27.6   0.0   1.7e+02    5.7   0.0   5.9   4   1   2   6   6   6   1 TSA: Daktulosphaira vitifoliae breed wildtype s4220_L_11062_1_a_60_1_l_3963, transcribed RNA sequence
+GDEB01016242.1_5     -          LOTUS_CONSENSUS      -            5.3e-05   26.5   0.5    0.0021   21.4   0.0   2.6   3   0   0   3   3   3   1 TSA: Daktulosphaira vitifoliae breed wildtype C75727_a_10_0_l_969, transcribed RNA sequence
+GDEB01024417.1_5     -          LOTUS_CONSENSUS      -            7.6e-05   26.0   0.0     2e+02    5.5   0.0   5.8   3   1   2   5   5   5   0 TSA: Daktulosphaira vitifoliae breed wildtype s4219_L_11062_0_a_54_6_l_4813, transcribed RNA sequence
+GDEB01017224.1_5     -          LOTUS_CONSENSUS      -                2.4   11.6   5.4         5   10.6   1.5   3.1   2   1   1   3   3   3   0 TSA: Daktulosphaira vitifoliae breed wildtype C78505_a_20_0_l_1161, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:21 2019
+# [ok]

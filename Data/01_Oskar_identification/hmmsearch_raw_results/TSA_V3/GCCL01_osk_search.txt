@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCCL01017320.1_4     -          oskar_filtered.aligned.OSK_domain -              0.099   16.0   0.4      0.11   15.9   0.4   1.1   1   0   0   1   1   1   0 TSA: Ecdyonurus insignis C153615_a_4_0_l_443 transcribed RNA sequence
+GCCL01007048.1_1     -          oskar_filtered.aligned.OSK_domain -               0.55   13.6   0.0      0.56   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Ecdyonurus insignis C121198_a_4_0_l_263 transcribed RNA sequence
+GCCL01026743.1_3     -          oskar_filtered.aligned.OSK_domain -                1.4   12.3   2.4        48    7.3   2.4   2.4   1   1   0   1   1   1   0 TSA: Ecdyonurus insignis C185986_a_9_0_l_1689 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCCL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCCL01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCCL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:39 2019
+# [ok]

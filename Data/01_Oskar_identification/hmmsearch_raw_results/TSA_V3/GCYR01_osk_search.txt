@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYR01024990.1_5     -          oskar_filtered.aligned.OSK_domain -            1.4e-24   90.0   0.2   2.5e-24   89.2   0.2   1.4   1   0   0   1   1   1   1 TSA: Frankliniella occidentalis breed wildtype s5868_L_8983_0_71_0_BUBBLE, transcribed RNA sequence
+GCYR01024991.1_5     -          oskar_filtered.aligned.OSK_domain -            8.1e-23   84.3   0.1   3.6e-22   82.2   0.1   1.9   1   1   0   1   1   1   1 TSA: Frankliniella occidentalis breed wildtype s5869_L_8983_1_68_5_BUBBLE, transcribed RNA sequence
+GCYR01017115.1_3     -          oskar_filtered.aligned.OSK_domain -            3.6e-22   82.2   0.7     8e-22   81.0   0.1   1.9   2   0   0   2   2   2   1 TSA: Frankliniella occidentalis breed wildtype s11986_L_25150_0_51_6_LINEAR, transcribed RNA sequence
+GCYR01017229.1_1     -          oskar_filtered.aligned.OSK_domain -              0.027   17.4   0.1     0.041   16.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Frankliniella occidentalis breed wildtype s1208_L_1409_0_9_2_LINEAR, transcribed RNA sequence
+GCYR01014694.1_2     -          oskar_filtered.aligned.OSK_domain -                9.4    9.1   6.3   1.3e+02    5.4   6.2   2.5   1   1   0   1   1   1   0 TSA: Frankliniella occidentalis breed wildtype C237343_25_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:59 2019
+# [ok]

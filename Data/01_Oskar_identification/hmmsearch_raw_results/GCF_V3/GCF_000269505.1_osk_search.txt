@@ -1,0 +1,15 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017140399.1       -          oskar_filtered.aligned.OSK_domain -            1.7e-81  272.7   0.8   5.2e-81  271.1   0.2   2.2   2   0   0   2   2   2   1 PREDICTED: maternal effect protein oskar isoform X2 [Drosophila miranda]
+XP_017140398.1       -          oskar_filtered.aligned.OSK_domain -            5.5e-81  271.0   0.2   5.5e-81  271.0   0.2   2.3   2   1   0   3   3   3   1 PREDICTED: maternal effect protein oskar isoform X1 [Drosophila miranda]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000269505.1_DroMir_2.2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000269505.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000269505.1_DroMir_2.2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:59 2019
+# [ok]

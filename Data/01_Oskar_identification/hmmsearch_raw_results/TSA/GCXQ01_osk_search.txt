@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXQ01007541.1_4     -          OSK_CONSENSUS        -            2.8e-09   40.7   0.0   2.9e-09   40.6   0.0   1.0   1   0   0   1   1   1   1 TSA: Macrohomotoma gladiata breed wildtype C158691_2_0, transcribed RNA sequence
+GCXQ01003541.1_2     -          OSK_CONSENSUS        -             0.0002   24.9   0.1    0.0002   24.9   0.1   1.0   1   0   0   1   1   1   1 TSA: Macrohomotoma gladiata breed wildtype C145523_3_0, transcribed RNA sequence
+GCXQ01035121.1_2     -          OSK_CONSENSUS        -               0.64   13.5   1.2      0.86   13.1   0.2   1.6   2   0   0   2   2   2   0 TSA: Macrohomotoma gladiata breed wildtype s13810_L_44382_0_4_6_FORK, transcribed RNA sequence
+GCXQ01032235.1_5     -          OSK_CONSENSUS        -               0.81   13.2   4.1       6.9   10.1   4.0   2.0   1   1   0   1   1   1   0 TSA: Macrohomotoma gladiata breed wildtype s11207_L_30920_0_4_7_LINEAR, transcribed RNA sequence
+GCXQ01021675.1_2     -          OSK_CONSENSUS        -                  1   12.9   5.6        17    8.9   2.6   2.0   1   1   1   2   2   2   0 TSA: Macrohomotoma gladiata breed wildtype C207647_11_0, transcribed RNA sequence
+GCXQ01043459.1_2     -          OSK_CONSENSUS        -                  4   10.9   4.6       8.2    9.9   4.6   1.4   1   0   0   1   1   1   0 TSA: Macrohomotoma gladiata breed wildtype s7654_L_17788_0_5_3_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:01 2019
+# [ok]

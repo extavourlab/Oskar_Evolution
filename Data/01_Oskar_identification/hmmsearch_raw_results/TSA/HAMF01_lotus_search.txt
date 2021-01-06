@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAMF01020837.1_6     -          LOTUS_CONSENSUS      -            5.4e-18   69.4   3.4   5.4e-17   66.2   0.1   3.7   4   0   0   4   4   4   1 TSA: Galerucella calmariensis TRINITY_DN109339_c2_g6_i1 transcribed RNA sequence
+HAMF01039518.1_2     -          LOTUS_CONSENSUS      -            3.3e-17   66.9   0.2   5.7e-17   66.1   0.2   1.4   1   0   0   1   1   1   1 TSA: Galerucella calmariensis TRINITY_DN51976_c0_g1_i1 transcribed RNA sequence
+HAMF01017699.1_1     -          LOTUS_CONSENSUS      -            1.3e-13   55.3   0.0   4.8e-10   43.9   0.0   2.9   2   0   0   2   2   2   2 TSA: Galerucella calmariensis TRINITY_DN108116_c0_g2_i2 transcribed RNA sequence
+HAMF01014819.1_1     -          LOTUS_CONSENSUS      -              0.011   20.3   4.3        15   10.3   0.0   5.5   4   2   2   6   6   5   0 TSA: Galerucella calmariensis TRINITY_DN106934_c3_g2_i3 transcribed RNA sequence
+HAMF01049816.1_5     -          LOTUS_CONSENSUS      -               0.52   14.9   1.5        17   10.1   0.1   2.5   2   1   1   3   3   3   0 TSA: Galerucella calmariensis TRINITY_DN85264_c0_g1_i2 transcribed RNA sequence
+HAMF01052767.1_1     -          LOTUS_CONSENSUS      -               0.71   14.5   0.1         2   13.1   0.0   1.8   2   0   0   2   2   1   0 TSA: Galerucella calmariensis TRINITY_DN90523_c0_g2_i1 transcribed RNA sequence
+HAMF01040926.1_6     -          LOTUS_CONSENSUS      -               0.98   14.1   0.0       2.3   12.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Galerucella calmariensis TRINITY_DN56924_c0_g2_i1 transcribed RNA sequence
+HAMF01049701.1_6     -          LOTUS_CONSENSUS      -                1.8   13.2   0.3       7.2   11.3   0.1   2.1   2   0   0   2   2   2   0 TSA: Galerucella calmariensis TRINITY_DN85030_c0_g1_i1 transcribed RNA sequence
+HAMF01052766.1_1     -          LOTUS_CONSENSUS      -                2.2   12.9   0.1       6.9   11.3   0.0   1.8   2   0   0   2   2   2   0 TSA: Galerucella calmariensis TRINITY_DN90523_c0_g1_i1 transcribed RNA sequence
+HAMF01027416.1_4     -          LOTUS_CONSENSUS      -                2.3   12.9   0.0   1.9e+02    6.8   0.0   2.2   2   0   0   2   2   2   0 TSA: Galerucella calmariensis TRINITY_DN125002_c0_g1_i1 transcribed RNA sequence
+HAMF01056116.1_3     -          LOTUS_CONSENSUS      -                  3   12.5   0.4   2.2e+02    6.5   0.1   3.3   3   0   0   3   3   3   0 TSA: Galerucella calmariensis TRINITY_DN94482_c0_g3_i4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/HAMF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:20 2019
+# [ok]

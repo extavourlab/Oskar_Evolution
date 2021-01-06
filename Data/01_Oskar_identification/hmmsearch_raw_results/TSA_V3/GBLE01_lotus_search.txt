@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLE01034275.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-25   92.7   1.9     6e-25   90.9   0.1   2.5   2   1   0   2   2   2   1 TSA: Brachymeria minuta s9087_L_23277_0_a_75_5_l_1314 transcribed RNA sequence
+GBLE01011350.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-24   89.1   2.1   2.3e-18   69.8   0.5   2.7   2   0   0   2   2   2   2 TSA: Brachymeria minuta C142662_a_8_0_l_1111 transcribed RNA sequence
+GBLE01014026.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-13   53.5   0.1   1.6e-12   51.0   0.0   2.4   2   0   0   2   2   2   1 TSA: Brachymeria minuta C154278_a_69_0_l_3406 transcribed RNA sequence
+GBLE01013868.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-11   46.3   8.6       1.5   12.6   0.1   7.1   3   1   4   7   7   7   4 TSA: Brachymeria minuta C153606_a_21_0_l_2755 transcribed RNA sequence
+GBLE01014106.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-07   35.0   0.9      0.14   15.9   0.0   4.7   4   1   1   5   5   5   2 TSA: Brachymeria minuta C154678_a_41_0_l_4379 transcribed RNA sequence
+GBLE01034246.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.19   15.5   0.8        36    8.2   0.2   4.2   3   2   2   5   5   5   0 TSA: Brachymeria minuta s9060_L_23156_0_a_15_9_l_2744 transcribed RNA sequence
+GBLE01028113.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.44   14.3   2.0        59    7.5   0.1   3.4   4   0   0   4   4   4   0 TSA: Brachymeria minuta s3530_L_4310_4_a_59_1_l_1423 transcribed RNA sequence
+GBLE01028109.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.5   14.1   1.8        65    7.3   0.1   3.4   4   0   0   4   4   4   0 TSA: Brachymeria minuta s3527_L_4310_1_a_64_9_l_1528 transcribed RNA sequence
+GBLE01020253.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.56   14.0   1.4      0.65   13.8   1.4   1.1   1   0   0   1   1   1   0 TSA: Brachymeria minuta C85501_a_4_0_l_256 transcribed RNA sequence
+GBLE01028108.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.2   12.9   2.5        75    7.1   0.1   3.4   4   0   0   4   4   4   0 TSA: Brachymeria minuta s3526_L_4310_0_a_63_6_l_1723 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:17 2019
+# [ok]

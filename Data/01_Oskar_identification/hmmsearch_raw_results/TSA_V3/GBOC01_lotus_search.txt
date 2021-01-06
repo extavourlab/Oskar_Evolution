@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOC01010844.1_5     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-18   67.1   0.0   4.3e-16   61.5   0.0   2.6   2   0   0   2   2   2   1 TSA: Palarus histrio C68238_a_34_0_l_4611 transcribed RNA sequence
+GBOC01004373.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-13   53.4   0.2   1.9e-13   53.0   0.2   1.2   1   0   0   1   1   1   1 TSA: Palarus histrio C40161_a_3_0_l_402 transcribed RNA sequence
+GBOC01010966.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-05   25.0   0.0        26    7.6   0.0   5.0   2   1   3   5   5   5   2 TSA: Palarus histrio C68716_a_31_0_l_5381 transcribed RNA sequence
+GBOC01001078.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.49   13.1   0.1      0.59   12.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Palarus histrio C29618_a_8_0_l_243 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:00 2019
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011635164.1       -          oskar_filtered.aligned.LOTUS_domain -            7.6e-32  109.7   0.2   7.6e-32  109.7   0.2   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC105425879 isoform X2 [Pogonomyrmex barbatus]
+XP_011635158.1       -          oskar_filtered.aligned.LOTUS_domain -            7.7e-32  109.7   0.2   7.7e-32  109.7   0.2   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC105425879 isoform X1 [Pogonomyrmex barbatus]
+XP_011630819.1       -          oskar_filtered.aligned.LOTUS_domain -            7.4e-21   74.4   1.5   3.8e-18   65.7   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011630820.1       -          oskar_filtered.aligned.LOTUS_domain -            7.4e-21   74.4   1.5   3.8e-18   65.7   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011630821.1       -          oskar_filtered.aligned.LOTUS_domain -            7.4e-21   74.4   1.5   3.8e-18   65.7   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011630822.1       -          oskar_filtered.aligned.LOTUS_domain -            7.4e-21   74.4   1.5   3.8e-18   65.7   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011631089.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-12   48.2  11.3   1.1e-11   45.0   0.0   4.0   4   0   0   4   4   4   2 LOW QUALITY PROTEIN: uncharacterized protein LOC105423137 [Pogonomyrmex barbatus]
+XP_025073854.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-05   25.2   0.0       1.9    8.9   0.0   4.9   3   2   3   6   6   6   2 meiosis regulator and mRNA stability factor 1 [Pogonomyrmex barbatus]
+XP_011632792.1       -          oskar_filtered.aligned.LOTUS_domain -              0.027   14.8   0.2       2.4    8.6   0.0   3.1   3   0   0   3   3   3   0 annexin B9-like isoform X1 [Pogonomyrmex barbatus]
+XP_011632793.1       -          oskar_filtered.aligned.LOTUS_domain -              0.027   14.8   0.2       2.4    8.6   0.0   3.1   3   0   0   3   3   3   0 annexin B9-like isoform X1 [Pogonomyrmex barbatus]
+XP_025073387.1       -          oskar_filtered.aligned.LOTUS_domain -              0.028   14.8   0.1       2.6    8.5   0.0   3.1   3   0   0   3   3   3   0 annexin B9-like isoform X3 [Pogonomyrmex barbatus]
+XP_025073386.1       -          oskar_filtered.aligned.LOTUS_domain -              0.033   14.6   0.2         3    8.3   0.0   3.1   3   0   0   3   3   3   0 annexin B9-like isoform X2 [Pogonomyrmex barbatus]
+XP_011630286.1       -          oskar_filtered.aligned.LOTUS_domain -               0.21   12.0   0.4        14    6.1   0.0   2.8   3   0   0   3   3   3   0 annexin B9-like [Pogonomyrmex barbatus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000187915.1_Pbar_UMD_V03_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000187915.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000187915.1_Pbar_UMD_V03_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:02 2019
+# [ok]

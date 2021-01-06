@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBEB01011572.1_2     -          LOTUS_CONSENSUS      -            2.4e-24   88.7   0.2   7.5e-24   87.1   0.1   2.0   2   0   0   2   2   1   1 TSA: Nasonia vitripennis comp35721_c0_seq2 transcribed RNA sequence
+GBEB01000203.1_1     -          LOTUS_CONSENSUS      -            1.5e-18   70.2   1.2   1.5e-12   50.9   0.2   3.1   2   0   0   2   2   2   2 TSA: Nasonia vitripennis comp12493_c0_seq1 transcribed RNA sequence
+GBEB01000204.1_1     -          LOTUS_CONSENSUS      -            4.3e-18   68.6   6.9   1.5e-12   50.9   0.2   3.8   3   0   0   3   3   3   2 TSA: Nasonia vitripennis comp12493_c0_seq2 transcribed RNA sequence
+GBEB01009579.1_3     -          LOTUS_CONSENSUS      -            6.8e-16   61.6   8.7   1.3e-11   47.9   0.1   4.0   4   0   0   4   4   3   2 TSA: Nasonia vitripennis comp34467_c0_seq1 transcribed RNA sequence
+GBEB01022356.1_3     -          LOTUS_CONSENSUS      -            1.1e-15   61.0   0.4   3.4e-15   59.4   0.0   2.1   2   0   0   2   2   1   1 TSA: Nasonia vitripennis comp39423_c1_seq31 transcribed RNA sequence
+GBEB01022358.1_3     -          LOTUS_CONSENSUS      -            1.1e-15   60.9   0.4   3.3e-15   59.4   0.0   2.1   2   0   0   2   2   1   1 TSA: Nasonia vitripennis comp39423_c1_seq42 transcribed RNA sequence
+GBEB01009580.1_3     -          LOTUS_CONSENSUS      -            4.5e-15   59.0  11.2   1.7e-11   47.5   0.1   4.4   4   0   0   4   4   4   2 TSA: Nasonia vitripennis comp34467_c0_seq2 transcribed RNA sequence
+GBEB01002683.1_2     -          LOTUS_CONSENSUS      -            5.5e-15   58.7   3.2   4.1e-12   49.5   0.8   3.1   3   0   0   3   3   3   2 TSA: Nasonia vitripennis comp16205_c0_seq1 transcribed RNA sequence
+GBEB01004118.1_1     -          LOTUS_CONSENSUS      -            3.8e-07   33.6   0.0       1.1   12.8   0.0   6.0   3   1   2   6   6   6   2 TSA: Nasonia vitripennis comp26577_c1_seq1 transcribed RNA sequence
+GBEB01004119.1_2     -          LOTUS_CONSENSUS      -            8.6e-07   32.4   0.0       1.3   12.6   0.0   5.9   3   1   3   6   6   6   2 TSA: Nasonia vitripennis comp26577_c1_seq2 transcribed RNA sequence
+GBEB01017133.1_4     -          LOTUS_CONSENSUS      -              0.018   18.6   0.0     0.031   17.8   0.0   1.3   1   0   0   1   1   1   0 TSA: Nasonia vitripennis comp38095_c3_seq1 transcribed RNA sequence
+GBEB01027150.1_5     -          LOTUS_CONSENSUS      -               0.16   15.5   0.3      0.58   13.8   0.3   1.9   1   0   0   1   1   1   0 TSA: Nasonia vitripennis comp42056_c0_seq1 transcribed RNA sequence
+GBEB01011201.1_1     -          LOTUS_CONSENSUS      -                0.2   15.2   1.1      0.62   13.6   1.1   1.8   1   0   0   1   1   1   0 TSA: Nasonia vitripennis comp35507_c0_seq3 transcribed RNA sequence
+GBEB01011200.1_1     -          LOTUS_CONSENSUS      -               0.22   15.1   1.7      0.81   13.3   1.1   2.3   2   0   0   2   2   2   0 TSA: Nasonia vitripennis comp35507_c0_seq2 transcribed RNA sequence
+GBEB01008265.1_2     -          LOTUS_CONSENSUS      -               0.34   14.5   0.2      0.87   13.2   0.2   1.6   1   0   0   1   1   1   0 TSA: Nasonia vitripennis comp33069_c3_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBEB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:53 2019
+# [ok]

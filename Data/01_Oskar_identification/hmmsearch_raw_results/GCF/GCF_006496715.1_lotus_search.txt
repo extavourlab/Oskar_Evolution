@@ -1,0 +1,32 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_019540707.2       -          LOTUS_CONSENSUS      -            2.2e-26   93.1   0.0   9.2e-26   91.1   0.0   2.1   2   0   0   2   2   1   1 maternal effect protein oskar [Aedes albopictus]
+XP_019558301.2       -          LOTUS_CONSENSUS      -            2.2e-26   93.1   0.0   9.2e-26   91.1   0.0   2.1   2   0   0   2   2   1   1 maternal effect protein oskar [Aedes albopictus]
+XP_029723149.1       -          LOTUS_CONSENSUS      -            3.2e-12   47.8   0.1   2.3e-11   45.0   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC115263988 [Aedes albopictus]
+XP_029723154.1       -          LOTUS_CONSENSUS      -            1.5e-11   45.6   0.8   6.4e-11   43.6   0.0   2.4   3   0   0   3   3   2   1 tudor domain-containing protein 5-like isoform X1 [Aedes albopictus]
+XP_029723155.1       -          LOTUS_CONSENSUS      -            1.5e-11   45.6   1.0   5.6e-11   43.8   0.0   2.4   3   0   0   3   3   2   1 tudor domain-containing protein 5-like isoform X2 [Aedes albopictus]
+XP_019559462.2       -          LOTUS_CONSENSUS      -            1.8e-11   45.4   0.9   4.8e-11   44.0   0.0   2.2   3   0   0   3   3   2   1 tudor domain-containing protein 5-like isoform X2 [Aedes albopictus]
+XP_029728400.1       -          LOTUS_CONSENSUS      -            1.9e-11   45.2   0.9   5.6e-11   43.8   0.0   2.3   3   0   0   3   3   2   1 tudor domain-containing protein 5 isoform X2 [Aedes albopictus]
+XP_019559461.2       -          LOTUS_CONSENSUS      -            2.1e-11   45.2   0.2   7.7e-11   43.3   0.0   2.1   2   0   0   2   2   1   1 uncharacterized protein LOC109428218 isoform X1 [Aedes albopictus]
+XP_019559052.2       -          LOTUS_CONSENSUS      -            2.2e-11   45.0   0.1     9e-11   43.1   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC109427899 isoform X1 [Aedes albopictus]
+XP_019536103.2       -          LOTUS_CONSENSUS      -            1.5e-10   42.4   3.7   2.2e-10   41.9   0.0   3.0   3   0   0   3   3   3   1 tudor domain-containing protein 7A-like isoform X2 [Aedes albopictus]
+XP_029716782.1       -          LOTUS_CONSENSUS      -            1.5e-10   42.4   3.8   2.3e-10   41.8   0.0   3.0   3   0   0   3   3   3   1 LOW QUALITY PROTEIN: tudor domain-containing protein 7 [Aedes albopictus]
+XP_019536102.2       -          LOTUS_CONSENSUS      -            2.1e-10   41.9   4.0   2.3e-10   41.8   0.0   3.0   3   0   0   3   3   3   1 tudor domain-containing protein 7-like isoform X1 [Aedes albopictus]
+XP_029720467.1       -          LOTUS_CONSENSUS      -            2.3e-10   41.8   0.0   2.3e-10   41.8   0.0   2.8   3   0   0   3   3   2   1 LOW QUALITY PROTEIN: tudor domain-containing protein 7A-like [Aedes albopictus]
+XP_029716043.1       -          LOTUS_CONSENSUS      -              0.041   15.3   0.5       7.1    8.2   0.1   3.0   3   0   0   3   3   3   0 annexin B10-like [Aedes albopictus]
+XP_029716109.1       -          LOTUS_CONSENSUS      -              0.041   15.3   0.5       7.1    8.2   0.1   3.0   3   0   0   3   3   3   0 annexin B10 [Aedes albopictus]
+XP_029722756.1       -          LOTUS_CONSENSUS      -              0.041   15.3   0.5       7.1    8.2   0.1   3.0   3   0   0   3   3   3   0 annexin B10 [Aedes albopictus]
+XP_029715822.1       -          LOTUS_CONSENSUS      -               0.24   12.9   0.2       7.8    8.0   0.0   2.5   3   0   0   3   3   2   0 annexin B10-like [Aedes albopictus]
+XP_029716161.1       -          LOTUS_CONSENSUS      -               0.24   12.9   0.2       7.8    8.0   0.0   2.5   3   0   0   3   3   2   0 annexin B10-like isoform X2 [Aedes albopictus]
+XP_029716160.1       -          LOTUS_CONSENSUS      -               0.26   12.8   0.2       8.2    8.0   0.0   2.5   3   0   0   3   3   2   0 annexin B10-like isoform X1 [Aedes albopictus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_006496715.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:43 2019
+# [ok]

@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAES01061351.1_5     -          LOTUS_CONSENSUS      -            1.4e-16   66.1   0.7   9.9e-15   60.1   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq4, transcribed RNA sequence
+HAES01061356.1_5     -          LOTUS_CONSENSUS      -            1.5e-16   66.0   0.7     1e-14   60.1   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq9, transcribed RNA sequence
+HAES01061355.1_5     -          LOTUS_CONSENSUS      -            1.5e-16   65.9   0.7     1e-14   60.0   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq8, transcribed RNA sequence
+HAES01061348.1_5     -          LOTUS_CONSENSUS      -            1.6e-16   65.8   0.7   1.1e-14   60.0   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq1, transcribed RNA sequence
+HAES01061353.1_5     -          LOTUS_CONSENSUS      -            1.7e-16   65.8   0.7   1.1e-14   60.0   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq6, transcribed RNA sequence
+HAES01061357.1_5     -          LOTUS_CONSENSUS      -            1.8e-16   65.7   0.7   1.1e-14   59.9   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq10, transcribed RNA sequence
+HAES01061349.1_6     -          LOTUS_CONSENSUS      -            2.5e-16   65.3   0.7   1.3e-14   59.7   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq2, transcribed RNA sequence
+HAES01061352.1_6     -          LOTUS_CONSENSUS      -            2.6e-16   65.2   0.7   1.4e-14   59.7   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp61486_c0_seq5, transcribed RNA sequence
+HAES01052338.1_1     -          LOTUS_CONSENSUS      -            1.3e-09   43.7   2.0     7e-08   38.2   0.2   2.9   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp59798_c1_seq3, transcribed RNA sequence
+HAES01097180.1_5     -          LOTUS_CONSENSUS      -            3.5e-09   42.3   0.6       1.3   14.8   0.0   3.6   2   1   1   3   3   3   3 TSA: Proasellus cavaticus, contig comp361986_c0_seq1, transcribed RNA sequence
+HAES01043504.1_5     -          LOTUS_CONSENSUS      -            8.9e-05   28.2   2.7   0.00048   25.9   0.7   2.4   2   0   0   2   2   2   1 TSA: Proasellus cavaticus, contig comp57012_c0_seq1, transcribed RNA sequence
+HAES01073236.1_5     -          LOTUS_CONSENSUS      -              0.062   19.1   1.3   2.5e+02    7.5   0.0   5.0   4   1   0   6   6   4   0 TSA: Proasellus cavaticus, contig comp62581_c3_seq2, transcribed RNA sequence
+HAES01073268.1_5     -          LOTUS_CONSENSUS      -              0.067   19.0   1.1   2.7e+02    7.5   0.0   4.9   4   1   0   6   6   4   0 TSA: Proasellus cavaticus, contig comp62581_c3_seq34, transcribed RNA sequence
+HAES01073264.1_6     -          LOTUS_CONSENSUS      -              0.079   18.8   1.1   2.7e+02    7.4   0.0   4.8   4   1   0   6   6   4   0 TSA: Proasellus cavaticus, contig comp62581_c3_seq30, transcribed RNA sequence
+HAES01073238.1_5     -          LOTUS_CONSENSUS      -              0.081   18.7   0.2     3e+02    7.3   0.0   4.7   3   1   2   5   5   4   0 TSA: Proasellus cavaticus, contig comp62581_c3_seq4, transcribed RNA sequence
+HAES01073253.1_5     -          LOTUS_CONSENSUS      -              0.089   18.6   0.0   3.1e+02    7.2   0.0   4.7   2   1   1   4   4   4   0 TSA: Proasellus cavaticus, contig comp62581_c3_seq19, transcribed RNA sequence
+HAES01073249.1_6     -          LOTUS_CONSENSUS      -                0.1   18.4   0.0   3.2e+02    7.2   0.0   4.6   2   1   1   4   4   4   0 TSA: Proasellus cavaticus, contig comp62581_c3_seq15, transcribed RNA sequence
+HAES01107297.1_6     -          LOTUS_CONSENSUS      -                5.5   12.8   1.1       7.9   12.4   1.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus cavaticus, contig comp533454_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAES.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAES.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAES.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:53 2019
+# [ok]

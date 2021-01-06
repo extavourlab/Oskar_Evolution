@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFG01026980.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-24   88.3   0.0   9.8e-24   86.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Badonnelia titei breed wildtype s1243_L_1705_0_a_52_9_l_2991, transcribed RNA sequence
+GDFG01033098.1_5     -          oskar_filtered.aligned.LOTUS_domain -              7e-14   55.3   0.1   1.7e-11   47.6   0.0   2.8   2   0   0   2   2   2   1 TSA: Badonnelia titei breed wildtype s6794_L_32178_0_a_22_4_l_3496, transcribed RNA sequence
+GDFG01025404.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-09   40.5   0.0     0.031   17.9   0.0   3.6   4   0   0   4   4   4   3 TSA: Badonnelia titei breed wildtype C95909_a_14_0_l_1241, transcribed RNA sequence
+GDFG01032820.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.4   14.4   0.9   2.4e+02    5.4   0.0   4.6   4   1   1   5   5   5   0 TSA: Badonnelia titei breed wildtype s6543_L_29265_0_a_25_4_l_4401, transcribed RNA sequence
+GDFG01032821.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.83   13.3   0.7   3.5e+02    4.9   0.0   4.5   4   1   1   5   5   5   0 TSA: Badonnelia titei breed wildtype s6544_L_29265_1_a_37_4_l_5600, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:44 2019
+# [ok]

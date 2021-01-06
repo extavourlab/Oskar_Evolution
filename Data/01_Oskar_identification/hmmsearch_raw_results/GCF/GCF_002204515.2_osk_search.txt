@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_001656415.1       -          OSK_CONSENSUS        -            7.1e-55  185.6   0.0   4.9e-53  179.7   0.0   2.2   2   0   0   2   2   2   1 maternal effect protein oskar [Aedes aegypti]
+XP_021695282.1       -          OSK_CONSENSUS        -                1.4    9.2   5.2       4.6    7.5   0.2   3.1   2   0   0   2   2   2   0 CLIP-associating protein isoform X6 [Aedes aegypti]
+XP_021695281.1       -          OSK_CONSENSUS        -                1.4    9.2   5.2       4.7    7.5   0.2   3.1   2   0   0   2   2   2   0 CLIP-associating protein isoform X5 [Aedes aegypti]
+XP_021695279.1       -          OSK_CONSENSUS        -                1.4    9.1   5.2       4.7    7.5   0.2   3.1   2   0   0   2   2   2   0 CLIP-associating protein isoform X4 [Aedes aegypti]
+XP_021695280.1       -          OSK_CONSENSUS        -                1.4    9.1   5.2       4.7    7.5   0.2   3.1   2   0   0   2   2   2   0 CLIP-associating protein isoform X4 [Aedes aegypti]
+XP_021695277.1       -          OSK_CONSENSUS        -                1.5    9.1   5.0       4.8    7.4   0.2   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X2 [Aedes aegypti]
+XP_021695278.1       -          OSK_CONSENSUS        -                1.5    9.1   5.2       4.7    7.5   0.2   3.1   2   0   0   2   2   2   0 CLIP-associating protein isoform X3 [Aedes aegypti]
+XP_021695274.1       -          OSK_CONSENSUS        -                1.5    9.0   5.0       4.9    7.4   0.2   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X1 [Aedes aegypti]
+XP_021695275.1       -          OSK_CONSENSUS        -                1.5    9.0   5.0       4.9    7.4   0.2   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X1 [Aedes aegypti]
+XP_021695276.1       -          OSK_CONSENSUS        -                1.5    9.0   5.0       4.9    7.4   0.2   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X1 [Aedes aegypti]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002204515.2_AaegL5.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002204515.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002204515.2_AaegL5.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:47 2019
+# [ok]

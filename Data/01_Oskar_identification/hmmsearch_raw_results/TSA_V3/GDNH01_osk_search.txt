@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDNH01019209.1_6     -          oskar_filtered.aligned.OSK_domain -             0.0025   21.1   0.0    0.0025   21.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Sinaspidytes wrasei breed wildtype C168589_a_6_0_l_568, transcribed RNA sequence
+GDNH01025927.1_3     -          oskar_filtered.aligned.OSK_domain -               0.17   15.1   0.1      0.23   14.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype s11538_L_36230_0_a_32_6_l_1017, transcribed RNA sequence
+GDNH01015958.1_2     -          oskar_filtered.aligned.OSK_domain -               0.79   12.9   0.1         1   12.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype C154141_a_6_0_l_389, transcribed RNA sequence
+GDNH01009232.1_4     -          oskar_filtered.aligned.OSK_domain -                1.6   11.9   0.2       2.6   11.2   0.1   1.4   1   1   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype C130553_a_3_0_l_262, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDNH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:45 2019
+# [ok]

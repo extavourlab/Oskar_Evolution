@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDDT01019411.1_4     -          LOTUS_CONSENSUS      -            2.2e-11   46.9   0.1   3.4e-11   46.3   0.1   1.2   1   0   0   1   1   1   1 TSA: Mesopsocus unipunctatus breed wildtype s1560_L_2429_0_a_15_2_l_784, transcribed RNA sequence
+GDDT01021502.1_1     -          LOTUS_CONSENSUS      -              0.052   16.8   0.1        65    6.9   0.0   3.9   4   0   0   4   4   4   0 TSA: Mesopsocus unipunctatus breed wildtype s3445_L_6699_0_a_23_2_l_1154, transcribed RNA sequence
+GDDT01001231.1_6     -          LOTUS_CONSENSUS      -              0.094   16.0   0.1      0.11   15.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Mesopsocus unipunctatus breed wildtype C37538_a_4_0_l_234, transcribed RNA sequence
+GDDT01000798.1_3     -          LOTUS_CONSENSUS      -                0.1   15.9   0.2      0.11   15.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Mesopsocus unipunctatus breed wildtype C36092_a_7_0_l_222, transcribed RNA sequence
+GDDT01021503.1_1     -          LOTUS_CONSENSUS      -                0.3   14.4   0.2   1.1e+02    6.2   0.0   3.7   4   0   0   4   4   4   0 TSA: Mesopsocus unipunctatus breed wildtype s3446_L_6699_1_a_17_4_l_1694, transcribed RNA sequence
+GDDT01006451.1_2     -          LOTUS_CONSENSUS      -               0.73   13.2   0.0       1.1   12.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Mesopsocus unipunctatus breed wildtype C52292_a_5_0_l_340, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDDT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:26 2019
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYY01038545.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-19   71.7   0.4   5.8e-18   68.7   0.2   2.8   2   0   0   2   2   1   1 TSA: Tuberolachnus salignus breed wildtype s8920_L_20692_0_52_4_BUBBLE, transcribed RNA sequence
+GCYY01038546.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-18   70.4   0.8     6e-18   68.6   0.2   2.4   2   0   0   2   2   1   1 TSA: Tuberolachnus salignus breed wildtype s8921_L_20692_1_52_8_BUBBLE, transcribed RNA sequence
+GCYY01029218.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-13   52.7   0.2   5.5e-13   52.7   0.2   6.6   7   1   1   8   8   7   1 TSA: Tuberolachnus salignus breed wildtype s14476_L_41673_0_26_5_LINEAR, transcribed RNA sequence
+GCYY01008768.1_5     -          oskar_filtered.aligned.LOTUS_domain -              7e-13   52.3   1.1   2.5e-12   50.6   0.3   2.1   2   0   0   2   2   2   1 TSA: Tuberolachnus salignus breed wildtype C135725_4_0, transcribed RNA sequence
+GCYY01027316.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-12   49.4   0.5   5.8e-12   49.4   0.5   4.1   4   0   0   4   4   3   1 TSA: Tuberolachnus salignus breed wildtype s12762_L_34167_0_31_9_COMPLEX, transcribed RNA sequence
+GCYY01027318.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-12   49.1   0.5   6.9e-12   49.1   0.5   3.9   4   0   0   4   4   3   1 TSA: Tuberolachnus salignus breed wildtype s12764_L_34167_2_27_7_COMPLEX, transcribed RNA sequence
+GCYY01037233.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-09   39.2   2.1   4.4e-08   36.9   2.1   2.2   1   0   0   1   1   1   1 TSA: Tuberolachnus salignus breed wildtype s773_L_1253_0_57_3_COMPLEX, transcribed RNA sequence
+GCYY01032781.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-07   33.4   0.1   2.2e+02    5.8   0.0   7.0   4   2   3   7   7   7   0 TSA: Tuberolachnus salignus breed wildtype s3727_L_7063_0_13_4_LINEAR, transcribed RNA sequence
+GCYY01037266.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-06   29.9   0.2   2.1e-05   28.3   0.2   1.8   1   0   0   1   1   1   1 TSA: Tuberolachnus salignus breed wildtype s776_L_1253_3_54_1_COMPLEX, transcribed RNA sequence
+GCYY01036788.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0018   22.2   0.8    0.0018   22.2   0.8   3.0   3   0   0   3   3   3   1 TSA: Tuberolachnus salignus breed wildtype s7339_L_16100_0_20_7_LINEAR, transcribed RNA sequence
+GCYY01037266.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.002   22.0   1.1     0.011   19.6   1.1   2.3   1   0   0   1   1   1   1 TSA: Tuberolachnus salignus breed wildtype s776_L_1253_3_54_1_COMPLEX, transcribed RNA sequence
+GCYY01031006.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0048   20.7   0.7       1.2   13.0   0.3   2.9   1   1   1   2   2   2   1 TSA: Tuberolachnus salignus breed wildtype s2126_L_3897_2_23_3_COMPLEX, transcribed RNA sequence
+GCYY01031005.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.25   15.2   0.2        18    9.3   0.0   3.2   2   1   2   4   4   3   0 TSA: Tuberolachnus salignus breed wildtype s2125_L_3897_1_38_8_COMPLEX, transcribed RNA sequence
+GCYY01010400.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.27   15.1   0.3      0.52   14.2   0.3   1.4   1   0   0   1   1   1   0 TSA: Tuberolachnus salignus breed wildtype C143969_7_0, transcribed RNA sequence
+GCYY01026258.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.74   13.7   0.4        69    7.4   0.1   2.9   2   0   0   2   2   2   0 TSA: Tuberolachnus salignus breed wildtype s1180_L_2069_0_30_8_BUBBLE, transcribed RNA sequence
+GCYY01033257.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.76   13.7   0.2         2   12.3   0.2   1.7   1   0   0   1   1   1   0 TSA: Tuberolachnus salignus breed wildtype s4156_L_7990_0_47_4_BUBBLE, transcribed RNA sequence
+GCYY01009339.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.79   13.6   0.1       1.3   13.0   0.1   1.3   1   0   0   1   1   1   0 TSA: Tuberolachnus salignus breed wildtype C138403_52_0, transcribed RNA sequence
+GCYY01035354.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.8   13.6   0.6         1   13.3   0.6   1.4   1   1   0   1   1   1   0 TSA: Tuberolachnus salignus breed wildtype s6046_L_12632_0_3_1_LINEAR, transcribed RNA sequence
+GCYY01001549.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.84   13.6   0.4      0.91   13.5   0.4   1.2   1   0   0   1   1   1   0 TSA: Tuberolachnus salignus breed wildtype C105609_3_0, transcribed RNA sequence
+GCYY01033258.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.92   13.4   0.2       2.3   12.2   0.2   1.6   1   0   0   1   1   1   0 TSA: Tuberolachnus salignus breed wildtype s4157_L_7990_1_45_5_BUBBLE, transcribed RNA sequence
+GCYY01020021.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.96   13.4   0.3         1   13.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Tuberolachnus salignus breed wildtype C85035_3_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:47 2019
+# [ok]

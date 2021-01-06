@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBO01047639.1_2     -          oskar_filtered.aligned.OSK_domain -            2.9e-22   83.9   0.2   3.5e-22   83.6   0.2   1.2   1   0   0   1   1   1   1 TSA: Incisitermes marginipennis breed breeding C221505_a_4_0_l_745, transcribed RNA sequence
+GDBO01022421.1_5     -          oskar_filtered.aligned.OSK_domain -               0.87   13.8   0.9         1   13.6   0.7   1.2   1   1   0   1   1   1   0 TSA: Incisitermes marginipennis breed breeding C152434_a_4_0_l_304, transcribed RNA sequence
+GDBO01057993.1_3     -          oskar_filtered.aligned.OSK_domain -                3.2   12.0   3.8       8.1   10.7   3.8   1.8   1   1   0   1   1   1   0 TSA: Incisitermes marginipennis breed breeding C250343_a_19_0_l_1622, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:18 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFAX01060393.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-13   54.6   0.0   1.6e-12   53.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN87946_c0_g1_i1 transcribed RNA sequence
+GFAX01030815.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-09   43.9   0.0   1.4e-05   31.1   0.0   2.9   3   0   0   3   3   3   2 TSA: Carausius morosus TRINITY_DN52485_c0_g1_i3 transcribed RNA sequence
+GFAX01030814.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-09   43.5   0.0   2.1e-05   30.6   0.0   3.0   3   0   0   3   3   3   2 TSA: Carausius morosus TRINITY_DN52485_c0_g1_i2 transcribed RNA sequence
+GFAX01030813.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-09   43.3   0.0   1.3e-05   31.2   0.0   2.9   3   0   0   3   3   3   2 TSA: Carausius morosus TRINITY_DN52485_c0_g1_i1 transcribed RNA sequence
+GFAX01180099.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.9   14.1   2.6       5.2   13.2   2.6   1.5   1   1   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN81433_c0_g1_i1 transcribed RNA sequence
+GFAX01064319.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.9   14.0   0.8       4.4   13.5   0.8   1.3   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN68438_c0_g1_i1 transcribed RNA sequence
+GFAX01091142.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.6   13.7   0.6       6.3   13.0   0.6   1.4   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN56293_c0_g1_i8 transcribed RNA sequence
+GFAX01113503.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.4   13.5   0.0       9.3   12.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN45878_c1_g2_i1 transcribed RNA sequence
+GFAX01148923.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.7   13.1   0.2       7.7   12.7   0.2   1.4   1   1   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN64116_c0_g1_i1 transcribed RNA sequence
+GFAX01160667.1_3     -          oskar_filtered.aligned.LOTUS_domain -                7.7   12.7   0.0       8.9   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN69767_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFAX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:20 2019
+# [ok]

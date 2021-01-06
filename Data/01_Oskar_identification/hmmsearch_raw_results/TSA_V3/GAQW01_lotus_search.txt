@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAQW01009920.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-18   68.5   0.1   2.7e-17   67.0   0.1   1.7   1   0   0   1   1   1   1 TSA: Onthophagus nigriventris isotig09887 transcribed RNA sequence
+GAQW01017209.1_2     -          oskar_filtered.aligned.LOTUS_domain -              2e-14   57.8   0.2     4e-14   56.9   0.2   1.5   1   0   0   1   1   1   1 TSA: Onthophagus nigriventris GR6AR3B01BOX4L_A transcribed RNA sequence
+GAQW01021804.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-13   55.2   0.2   2.4e-13   54.4   0.0   1.5   2   0   0   2   2   2   1 TSA: Onthophagus nigriventris GR6AR3B01A5W8Y_D transcribed RNA sequence
+GAQW01005213.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   29.2   7.0       6.1   11.3   0.0   4.0   3   1   1   4   4   4   3 TSA: Onthophagus nigriventris isotig05178 transcribed RNA sequence
+GAQW01008453.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.29   15.6   0.1        13   10.3   0.1   2.4   2   0   0   2   2   2   0 TSA: Onthophagus nigriventris isotig08420 transcribed RNA sequence
+GAQW01033853.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.4   0.4       1.7   13.1   0.4   1.2   1   0   0   1   1   1   0 TSA: Onthophagus nigriventris GR6AR3B01EB2GS_A transcribed RNA sequence
+GAQW01013681.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.0   0.1       3.2   12.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Onthophagus nigriventris isotig13649 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAQW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAQW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAQW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:28 2019
+# [ok]

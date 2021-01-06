@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDNW01019662.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-21   79.7   0.3   5.7e-21   77.4   0.2   2.2   2   0   0   2   2   2   1 TSA: Cucujus clavipes s5249_L_17705_0_a_60_9_l_1308 transcribed RNA sequence
+GDNW01017309.1_6     -          oskar_filtered.aligned.LOTUS_domain -            9.6e-21   76.7   0.4   9.6e-21   76.7   0.4   3.0   4   0   0   4   4   4   1 TSA: Cucujus clavipes s3128_L_7299_0_a_43_9_l_4040 transcribed RNA sequence
+GDNW01017310.1_6     -          oskar_filtered.aligned.LOTUS_domain -              1e-20   76.5   3.5   1.8e-20   75.8   0.2   3.1   4   0   0   4   4   4   1 TSA: Cucujus clavipes s3129_L_7299_1_a_45_3_l_3893 transcribed RNA sequence
+GDNW01019996.1_2     -          oskar_filtered.aligned.LOTUS_domain -              2e-19   72.4   0.2   5.5e-15   58.2   0.0   2.7   3   0   0   3   3   3   2 TSA: Cucujus clavipes s5551_L_19720_0_a_48_4_l_2512 transcribed RNA sequence
+GDNW01014892.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-07   33.6   0.3      0.72   12.9   0.0   5.6   3   2   2   5   5   5   1 TSA: Cucujus clavipes C86379_a_62_0_l_4314 transcribed RNA sequence
+GDNW01019695.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.058   16.4   1.2     0.074   16.0   0.1   1.7   2   0   0   2   2   2   0 TSA: Cucujus clavipes s5279_L_17834_0_a_44_9_l_1488 transcribed RNA sequence
+GDNW01017482.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.17   14.9   0.3        27    7.8   0.1   2.3   2   0   0   2   2   2   0 TSA: Cucujus clavipes s3284_L_7805_0_a_7_8_l_1003 transcribed RNA sequence
+GDNW01002044.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.96   12.5   0.0         1   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Cucujus clavipes C44734_a_13_0_l_242 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDNW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:09 2019
+# [ok]

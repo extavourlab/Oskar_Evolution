@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNA01025404.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-27   97.6   7.3     5e-27   97.5   0.0   3.2   2   1   0   2   2   2   1 TSA: Otitesella tsamvi s20293_L_30561_0_a_55_4_l_1434 transcribed RNA sequence
+GBNA01025413.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-26   95.8   3.6   6.3e-26   94.0   0.0   2.8   3   0   0   3   3   3   1 TSA: Otitesella tsamvi s20300_L_30611_0_a_50_3_l_1586 transcribed RNA sequence
+GBNA01027645.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-13   54.0   0.0   6.9e-13   52.1   0.0   1.9   2   0   0   2   2   2   1 TSA: Otitesella tsamvi s3896_L_2487_2_a_25_7_l_2116 transcribed RNA sequence
+GBNA01027644.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-13   54.0   0.1   1.5e-12   51.1   0.0   2.6   2   0   0   2   2   2   1 TSA: Otitesella tsamvi s3895_L_2487_1_a_49_4_l_3655 transcribed RNA sequence
+GBNA01027643.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-13   54.0   0.1   1.5e-12   51.1   0.0   2.6   2   0   0   2   2   2   1 TSA: Otitesella tsamvi s3894_L_2487_0_a_49_3_l_3655 transcribed RNA sequence
+GBNA01032834.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-06   30.6   0.0       1.7   12.4   0.0   5.4   2   1   3   5   5   5   1 TSA: Otitesella tsamvi s856_L_583_4_a_28_6_l_2614 transcribed RNA sequence
+GBNA01032812.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-05   26.0   0.0       3.6   11.3   0.0   5.1   2   1   3   5   5   5   1 TSA: Otitesella tsamvi s854_L_583_2_a_48_6_l_4671 transcribed RNA sequence
+GBNA01032801.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-05   26.0   0.0       3.5   11.4   0.0   5.1   2   1   3   5   5   5   1 TSA: Otitesella tsamvi s853_L_583_1_a_48_5_l_4645 transcribed RNA sequence
+GBNA01032790.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-05   26.0   0.0       3.5   11.4   0.0   5.1   2   1   3   5   5   5   1 TSA: Otitesella tsamvi s852_L_583_0_a_48_5_l_4645 transcribed RNA sequence
+GBNA01032823.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-05   26.0   0.0       3.5   11.4   0.0   5.1   2   1   3   5   5   5   1 TSA: Otitesella tsamvi s855_L_583_3_a_48_3_l_4651 transcribed RNA sequence
+GBNA01006185.1_4     -          oskar_filtered.aligned.LOTUS_domain -                0.9   13.3   0.0       1.1   13.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Otitesella tsamvi C146759_a_4_0_l_319 transcribed RNA sequence
+GBNA01028587.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.7   12.4   1.8   1.7e+02    5.9   0.0   3.6   4   0   0   4   4   4   0 TSA: Otitesella tsamvi s4743_L_3082_1_a_95_1_l_1264 transcribed RNA sequence
+GBNA01021740.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.6   11.8   1.9       6.2   10.6   0.6   2.4   2   1   0   2   2   2   0 TSA: Otitesella tsamvi s16994_L_16678_1_a_25_6_l_968 transcribed RNA sequence
+GBNA01013066.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.7   11.0   2.6   1.2e+02    6.5   0.1   3.6   4   1   0   4   4   4   0 TSA: Otitesella tsamvi C190141_a_14_0_l_1209 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:55 2019
+# [ok]

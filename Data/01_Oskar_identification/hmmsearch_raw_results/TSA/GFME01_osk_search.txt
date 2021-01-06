@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFME01014878.1_4     -          OSK_CONSENSUS        -            1.8e-38  135.6   1.2   3.4e-38  134.7   1.2   1.4   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript14992 transcribed RNA sequence
+GFME01003268.1_1     -          OSK_CONSENSUS        -            2.5e-31  112.3   1.5     6e-31  111.1   1.5   1.6   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript3298 transcribed RNA sequence
+GFME01003267.1_1     -          OSK_CONSENSUS        -            2.6e-31  112.3   1.5     6e-31  111.1   1.5   1.5   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript3297 transcribed RNA sequence
+GFME01003270.1_1     -          OSK_CONSENSUS        -            3.2e-31  112.0   1.5   6.8e-31  110.9   1.5   1.5   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript3300 transcribed RNA sequence
+GFME01037130.1_5     -          OSK_CONSENSUS        -            1.3e-23   87.2   0.0   1.4e-23   87.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript37401 transcribed RNA sequence
+GFME01003269.1_1     -          OSK_CONSENSUS        -            2.8e-20   76.4   1.7     6e-20   75.4   1.7   1.5   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript3299 transcribed RNA sequence
+GFME01003269.1_2     -          OSK_CONSENSUS        -            5.4e-16   62.5   1.0   5.4e-16   62.5   1.0   1.9   2   0   0   2   2   2   1 TSA: Megaphragma amalphitanum transcript3299 transcribed RNA sequence
+GFME01019207.1_5     -          OSK_CONSENSUS        -              0.063   16.8   0.7      0.07   16.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript19354 transcribed RNA sequence
+GFME01026896.1_6     -          OSK_CONSENSUS        -              0.094   16.2   0.6      0.11   15.9   0.6   1.2   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript27103 transcribed RNA sequence
+GFME01044840.1_2     -          OSK_CONSENSUS        -               0.12   15.9   0.4      0.18   15.3   0.4   1.3   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript45173 transcribed RNA sequence
+GFME01024959.1_5     -          OSK_CONSENSUS        -               0.12   15.8   0.3      0.41   14.1   0.3   1.9   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript25151 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFME01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFME01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFME01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:47 2019
+# [ok]

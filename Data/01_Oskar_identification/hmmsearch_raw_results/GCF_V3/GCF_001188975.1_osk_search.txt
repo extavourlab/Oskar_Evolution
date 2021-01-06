@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014097083.1       -          oskar_filtered.aligned.OSK_domain -            9.1e-76  253.8   0.1   9.1e-76  253.8   0.1   2.4   2   1   0   2   2   2   1 PREDICTED: maternal effect protein oskar isoform X4 [Bactrocera oleae]
+XP_014097078.1       -          oskar_filtered.aligned.OSK_domain -            1.1e-75  253.5   0.1   1.1e-75  253.5   0.1   2.8   2   1   0   2   2   2   1 PREDICTED: maternal effect protein oskar isoform X3 [Bactrocera oleae]
+XP_014097070.1       -          oskar_filtered.aligned.OSK_domain -            1.3e-75  253.2   0.1   1.3e-75  253.2   0.1   2.6   2   1   0   2   2   2   1 PREDICTED: maternal effect protein oskar isoform X2 [Bactrocera oleae]
+XP_014097063.1       -          oskar_filtered.aligned.OSK_domain -            1.4e-75  253.1   0.1   1.4e-75  253.1   0.1   3.1   2   1   0   2   2   2   1 PREDICTED: maternal effect protein oskar isoform X1 [Bactrocera oleae]
+XP_014097088.1       -          oskar_filtered.aligned.OSK_domain -            1.4e-75  253.1   0.1   1.4e-75  253.1   0.1   2.9   2   1   0   2   2   2   1 PREDICTED: maternal effect protein oskar isoform X5 [Bactrocera oleae]
+XP_014087942.1       -          oskar_filtered.aligned.OSK_domain -              0.063   13.0   0.6     0.087   12.5   0.6   1.2   1   0   0   1   1   1   0 PREDICTED: glutamate--cysteine ligase regulatory subunit [Bactrocera oleae]
+XP_014088352.1       -          oskar_filtered.aligned.OSK_domain -              0.086   12.6   0.2      0.23   11.2   0.0   1.7   2   0   0   2   2   2   0 PREDICTED: tyrosine-protein phosphatase non-receptor type 61F isoform X2 [Bactrocera oleae]
+XP_014088351.1       -          oskar_filtered.aligned.OSK_domain -              0.091   12.5   0.2      0.24   11.1   0.0   1.7   2   0   0   2   2   2   0 PREDICTED: tyrosine-protein phosphatase non-receptor type 61F isoform X1 [Bactrocera oleae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001188975.1_gapfilled_joined_lt9474.gt500.covgt10_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001188975.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001188975.1_gapfilled_joined_lt9474.gt500.covgt10_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:47 2019
+# [ok]

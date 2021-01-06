@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVC01015078.1_1     -          LOTUS_CONSENSUS      -            8.8e-23   83.1   0.0   2.9e-22   81.4   0.0   1.9   1   0   0   1   1   1   1 TSA: Metaphycus flavus C66132_a_61_0_l_2051 transcribed RNA sequence
+GBVC01002420.1_4     -          LOTUS_CONSENSUS      -             0.0014   21.5   0.0    0.0016   21.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Metaphycus flavus C31279_a_3_0_l_261 transcribed RNA sequence
+GBVC01017331.1_3     -          LOTUS_CONSENSUS      -                0.2   14.6   0.2        26    7.8   0.0   2.6   3   0   0   3   3   3   0 TSA: Metaphycus flavus s2381_L_10393_0_a_13_3_l_1507 transcribed RNA sequence
+GBVC01001005.1_2     -          LOTUS_CONSENSUS      -               0.32   14.0   0.0      0.36   13.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Metaphycus flavus C27471_a_3_0_l_221 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:19 2019
+# [ok]

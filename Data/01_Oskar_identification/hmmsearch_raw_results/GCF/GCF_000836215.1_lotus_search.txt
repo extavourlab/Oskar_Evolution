@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_013134609.1       -          LOTUS_CONSENSUS      -            7.3e-15   55.0   0.0   1.1e-13   51.3   0.0   2.4   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7A [Papilio polytes]
+XP_013137077.1       -          LOTUS_CONSENSUS      -            1.6e-10   41.1   0.0   3.4e-09   36.8   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC106102205 isoform X1 [Papilio polytes]
+XP_013137078.1       -          LOTUS_CONSENSUS      -            3.2e-10   40.1   0.0   7.1e-09   35.8   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC106102205 isoform X2 [Papilio polytes]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836215.1_Ppol_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000836215.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836215.1_Ppol_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:53 2019
+# [ok]

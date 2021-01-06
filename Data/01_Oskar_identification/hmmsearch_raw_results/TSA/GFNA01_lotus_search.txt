@@ -1,0 +1,42 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNA01357697.1_2     -          LOTUS_CONSENSUS      -            6.4e-25   94.0   0.0   1.6e-24   92.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Aedes aegypti comp377847_c0_seq1 transcribed RNA sequence
+GFNA01156889.1_6     -          LOTUS_CONSENSUS      -            7.8e-11   48.8   0.0   1.4e-10   48.0   0.0   1.4   2   0   0   2   2   1   1 TSA: Aedes aegypti comp358811_c0_seq2 transcribed RNA sequence
+GFNA01156888.1_4     -          LOTUS_CONSENSUS      -            5.2e-10   46.2   0.0   1.5e-09   44.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Aedes aegypti comp358811_c0_seq1 transcribed RNA sequence
+GFNA01287560.1_2     -          LOTUS_CONSENSUS      -            6.5e-10   45.9   0.1   4.3e-09   43.3   0.0   2.6   2   0   0   2   2   1   1 TSA: Aedes aegypti comp370671_c2_seq1 transcribed RNA sequence
+GFNA01287562.1_2     -          LOTUS_CONSENSUS      -            8.9e-10   45.5   0.1   5.1e-09   43.0   0.0   2.5   2   0   0   2   2   1   1 TSA: Aedes aegypti comp370671_c2_seq3 transcribed RNA sequence
+GFNA01156890.1_6     -          LOTUS_CONSENSUS      -            9.1e-10   45.4   0.0   2.6e-09   44.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Aedes aegypti comp358811_c0_seq3 transcribed RNA sequence
+GFNA01287561.1_2     -          LOTUS_CONSENSUS      -            9.4e-10   45.4   0.1   5.3e-09   43.0   0.0   2.5   2   0   0   2   2   1   1 TSA: Aedes aegypti comp370671_c2_seq2 transcribed RNA sequence
+GFNA01287564.1_2     -          LOTUS_CONSENSUS      -            1.2e-09   45.1   1.0   4.2e-09   43.3   0.0   2.6   3   0   0   3   3   1   1 TSA: Aedes aegypti comp370671_c2_seq5 transcribed RNA sequence
+GFNA01265383.1_3     -          LOTUS_CONSENSUS      -               0.93   16.6   0.1       1.5   15.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp369096_c0_seq8 transcribed RNA sequence
+GFNA01265376.1_3     -          LOTUS_CONSENSUS      -                1.2   16.2   0.1       1.9   15.5   0.1   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp369096_c0_seq1 transcribed RNA sequence
+GFNA01058179.1_6     -          LOTUS_CONSENSUS      -                1.8   15.6   0.1       1.9   15.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Aedes aegypti comp286218_c0_seq2 transcribed RNA sequence
+GFNA01265381.1_3     -          LOTUS_CONSENSUS      -                1.8   15.6   0.1       3.1   14.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp369096_c0_seq6 transcribed RNA sequence
+GFNA01265380.1_3     -          LOTUS_CONSENSUS      -                2.2   15.4   0.1       3.6   14.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp369096_c0_seq5 transcribed RNA sequence
+GFNA01123150.1_3     -          LOTUS_CONSENSUS      -                2.5   15.2   0.0       3.4   14.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Aedes aegypti comp348788_c1_seq2 transcribed RNA sequence
+GFNA01258314.1_4     -          LOTUS_CONSENSUS      -                3.1   14.9   0.5       4.2   14.5   0.5   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp368556_c0_seq3 transcribed RNA sequence
+GFNA01258324.1_4     -          LOTUS_CONSENSUS      -                3.2   14.8   0.5       4.2   14.5   0.5   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp368556_c0_seq13 transcribed RNA sequence
+GFNA01058178.1_6     -          LOTUS_CONSENSUS      -                3.2   14.8   0.0       3.7   14.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Aedes aegypti comp286218_c0_seq1 transcribed RNA sequence
+GFNA01265378.1_3     -          LOTUS_CONSENSUS      -                3.4   14.8   0.1       6.6   13.8   0.1   1.4   1   0   0   1   1   1   0 TSA: Aedes aegypti comp369096_c0_seq3 transcribed RNA sequence
+GFNA01123149.1_1     -          LOTUS_CONSENSUS      -                3.6   14.7   0.0       5.1   14.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Aedes aegypti comp348788_c1_seq1 transcribed RNA sequence
+GFNA01265382.1_3     -          LOTUS_CONSENSUS      -                3.7   14.6   0.1       7.2   13.7   0.1   1.4   1   0   0   1   1   1   0 TSA: Aedes aegypti comp369096_c0_seq7 transcribed RNA sequence
+GFNA01258323.1_4     -          LOTUS_CONSENSUS      -                4.7   14.3   0.5       7.7   13.6   0.5   1.4   1   0   0   1   1   1   0 TSA: Aedes aegypti comp368556_c0_seq12 transcribed RNA sequence
+GFNA01138875.1_1     -          LOTUS_CONSENSUS      -                5.1   14.2   0.0       7.3   13.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp354695_c3_seq2 transcribed RNA sequence
+GFNA01063556.1_6     -          LOTUS_CONSENSUS      -                5.2   14.2   0.0       7.5   13.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Aedes aegypti comp296449_c1_seq1 transcribed RNA sequence
+GFNA01199404.1_3     -          LOTUS_CONSENSUS      -                7.8   13.6   1.6        47   11.1   0.4   2.4   1   1   1   2   2   2   0 TSA: Aedes aegypti comp363748_c1_seq8 transcribed RNA sequence
+GFNA01090740.1_2     -          LOTUS_CONSENSUS      -                7.8   13.6   0.1       8.5   13.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Aedes aegypti comp329289_c0_seq1 transcribed RNA sequence
+GFNA01197814.1_1     -          LOTUS_CONSENSUS      -                8.6   13.5   0.0        23   12.1   0.0   1.7   1   0   0   1   1   1   0 TSA: Aedes aegypti comp363601_c0_seq20 transcribed RNA sequence
+GFNA01258327.1_4     -          LOTUS_CONSENSUS      -                8.7   13.4   0.4        19   12.3   0.4   1.6   1   0   0   1   1   1   0 TSA: Aedes aegypti comp368556_c0_seq16 transcribed RNA sequence
+GFNA01054168.1_5     -          LOTUS_CONSENSUS      -                9.3   13.3   0.0        10   13.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Aedes aegypti comp278710_c1_seq1 transcribed RNA sequence
+GFNA01298698.1_4     -          LOTUS_CONSENSUS      -                9.4   13.3   0.2        15   12.6   0.2   1.4   1   1   0   1   1   1   0 TSA: Aedes aegypti comp371385_c5_seq10 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:01 2019
+# [ok]

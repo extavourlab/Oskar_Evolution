@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_001234884.1       -          oskar_filtered.aligned.OSK_domain -            9.5e-56  188.9   1.8   1.6e-55  188.1   1.8   1.4   1   0   0   1   1   1   1 maternal effect protein oskar [Nasonia vitripennis]
+XP_001604098.2       -          oskar_filtered.aligned.OSK_domain -            4.2e-09   36.8   0.1   1.5e-08   35.0   0.1   2.1   1   1   1   2   2   2   1 PREDICTED: protein SHQ1 homolog [Nasonia vitripennis]
+XP_008209006.1       -          oskar_filtered.aligned.OSK_domain -            4.2e-09   36.8   0.1   1.5e-08   35.0   0.1   2.1   1   1   1   2   2   2   1 PREDICTED: protein SHQ1 homolog [Nasonia vitripennis]
+XP_016845164.1       -          oskar_filtered.aligned.OSK_domain -               0.37   10.9   2.2      0.52   10.4   0.6   1.9   1   1   1   2   2   2   0 PREDICTED: multiple inositol polyphosphate phosphatase 1 [Nasonia vitripennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000002325.3_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:30 2019
+# [ok]

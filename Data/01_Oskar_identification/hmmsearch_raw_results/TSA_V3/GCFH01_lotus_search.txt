@@ -1,0 +1,15 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCFH01010657.1_1     -          oskar_filtered.aligned.LOTUS_domain -              4e-13   53.1   0.2     4e-13   53.1   0.2   2.5   2   1   0   2   2   2   1 TSA: Archimicrodon brachycerus C137932_a_8_0_l_988 transcribed RNA sequence
+GCFH01038312.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.89   13.4   0.6     1e+02    6.8   0.3   2.3   2   0   0   2   2   2   0 TSA: Archimicrodon brachycerus s9888_L_26255_0_a_51_4_l_1163 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCFH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:40 2019
+# [ok]

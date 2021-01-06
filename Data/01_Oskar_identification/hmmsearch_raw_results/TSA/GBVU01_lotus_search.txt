@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVU01008679.1_3     -          LOTUS_CONSENSUS      -            2.1e-25   92.3   0.0   6.4e-25   90.8   0.0   1.8   1   0   0   1   1   1   1 TSA: Pelecinus polyturator C127900_a_30_0_l_2084 transcribed RNA sequence
+GBVU01006218.1_3     -          LOTUS_CONSENSUS      -            7.2e-19   71.4   1.3   5.9e-18   68.5   0.2   2.7   2   0   0   2   2   2   1 TSA: Pelecinus polyturator C119925_a_5_0_l_1179 transcribed RNA sequence
+GBVU01005683.1_1     -          LOTUS_CONSENSUS      -            1.3e-17   67.4   0.2   1.3e-17   67.4   0.2   2.9   3   1   0   3   3   3   1 TSA: Pelecinus polyturator C118223_a_24_0_l_1078 transcribed RNA sequence
+GBVU01005711.1_1     -          LOTUS_CONSENSUS      -            0.00031   24.5   0.0        17    9.3   0.0   3.4   2   2   1   3   3   3   3 TSA: Pelecinus polyturator C118319_a_17_0_l_1084 transcribed RNA sequence
+GBVU01021995.1_3     -          LOTUS_CONSENSUS      -               0.72   13.7   0.2       1.2   13.0   0.2   1.4   1   1   0   1   1   1   0 TSA: Pelecinus polyturator C83533_a_4_0_l_361 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:04 2019
+# [ok]

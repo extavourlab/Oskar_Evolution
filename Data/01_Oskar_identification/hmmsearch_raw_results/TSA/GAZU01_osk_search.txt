@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZU01023425.1_4     -          OSK_CONSENSUS        -            1.1e-51  178.8   0.2   1.3e-51  178.6   0.2   1.0   1   0   0   1   1   1   1 TSA: Brachycistis timberlakei comp15293_c2_seq1 transcribed RNA sequence
+GAZU01023423.1_6     -          OSK_CONSENSUS        -              0.064   17.0   0.3     0.083   16.7   0.3   1.1   1   0   0   1   1   1   0 TSA: Brachycistis timberlakei comp15293_c0_seq1 transcribed RNA sequence
+GAZU01021179.1_4     -          OSK_CONSENSUS        -              0.087   16.6   3.7       9.1   10.0   0.1   3.4   3   1   1   4   4   4   0 TSA: Brachycistis timberlakei comp14810_c0_seq7 transcribed RNA sequence
+GAZU01021185.1_5     -          OSK_CONSENSUS        -               0.09   16.5   1.7        13    9.5   0.1   3.6   2   1   1   3   3   3   0 TSA: Brachycistis timberlakei comp14810_c0_seq13 transcribed RNA sequence
+GAZU01021173.1_5     -          OSK_CONSENSUS        -               0.12   16.2   1.8        13    9.6   0.1   3.6   2   1   1   3   3   3   0 TSA: Brachycistis timberlakei comp14810_c0_seq1 transcribed RNA sequence
+GAZU01021174.1_4     -          OSK_CONSENSUS        -               0.13   16.0   4.3         5   10.9   0.1   2.9   2   1   1   3   3   3   0 TSA: Brachycistis timberlakei comp14810_c0_seq2 transcribed RNA sequence
+GAZU01043674.1_3     -          OSK_CONSENSUS        -               0.15   15.8   0.2      0.17   15.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Brachycistis timberlakei comp57700_c0_seq1 transcribed RNA sequence
+GAZU01021180.1_6     -          OSK_CONSENSUS        -               0.22   15.3   3.5        12    9.7   0.1   3.6   3   1   1   4   4   4   0 TSA: Brachycistis timberlakei comp14810_c0_seq8 transcribed RNA sequence
+GAZU01021182.1_6     -          OSK_CONSENSUS        -                0.4   14.5   4.1        12    9.7   0.1   3.6   3   1   2   5   5   5   0 TSA: Brachycistis timberlakei comp14810_c0_seq10 transcribed RNA sequence
+GAZU01021184.1_6     -          OSK_CONSENSUS        -               0.76   13.5   5.1       6.5   10.5   0.1   3.1   2   1   1   3   3   3   0 TSA: Brachycistis timberlakei comp14810_c0_seq12 transcribed RNA sequence
+GAZU01046530.1_2     -          OSK_CONSENSUS        -                  1   13.1   0.1       1.2   12.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Brachycistis timberlakei comp76348_c0_seq1 transcribed RNA sequence
+GAZU01021186.1_5     -          OSK_CONSENSUS        -                1.2   12.9   5.0       8.3   10.2   0.1   3.1   2   1   1   3   3   3   0 TSA: Brachycistis timberlakei comp14810_c0_seq14 transcribed RNA sequence
+GAZU01021177.1_6     -          OSK_CONSENSUS        -                1.4   12.7   5.8       6.8   10.4   0.1   3.2   2   1   1   3   3   3   0 TSA: Brachycistis timberlakei comp14810_c0_seq5 transcribed RNA sequence
+GAZU01021176.1_5     -          OSK_CONSENSUS        -                1.6   12.5   5.2       9.3   10.0   0.1   3.2   2   1   1   3   3   3   0 TSA: Brachycistis timberlakei comp14810_c0_seq4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:54 2019
+# [ok]

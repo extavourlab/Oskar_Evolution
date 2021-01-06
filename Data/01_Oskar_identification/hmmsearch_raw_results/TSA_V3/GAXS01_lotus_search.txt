@@ -1,0 +1,44 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXS01018579.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-22   83.6   0.0   1.1e-21   81.3   0.0   2.2   2   0   0   2   2   1   1 TSA: Pepsis grossa comp10496_c0_seq1 transcribed RNA sequence
+GAXS01011795.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   64.8   0.0   2.1e-10   45.0   0.0   2.9   2   0   0   2   2   2   2 TSA: Pepsis grossa comp8933_c0_seq1 transcribed RNA sequence
+GAXS01011796.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-16   64.1   0.9     4e-10   44.2   0.0   3.8   4   0   0   4   4   3   2 TSA: Pepsis grossa comp8933_c0_seq2 transcribed RNA sequence
+GAXS01040663.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-14   57.4   0.0   3.4e-14   57.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Pepsis grossa comp11590_c2_seq159 transcribed RNA sequence
+GAXS01024746.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.1e-08   36.7   0.0         1   13.9   0.0   6.0   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq18 transcribed RNA sequence
+GAXS01024742.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-08   36.7   0.0         1   13.9   0.0   5.9   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq14 transcribed RNA sequence
+GAXS01024744.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.7e-08   36.6   0.0         1   13.9   0.0   6.0   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq16 transcribed RNA sequence
+GAXS01024745.1_6     -          oskar_filtered.aligned.LOTUS_domain -              9e-08   36.6   0.0       1.1   13.9   0.0   6.0   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq17 transcribed RNA sequence
+GAXS01024735.1_6     -          oskar_filtered.aligned.LOTUS_domain -              9e-08   36.6   0.0         1   13.9   0.0   5.9   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq7 transcribed RNA sequence
+GAXS01024741.1_6     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-08   36.5   0.0         1   13.9   0.0   5.9   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq13 transcribed RNA sequence
+GAXS01024738.1_6     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-08   36.5   0.0       1.1   13.9   0.0   6.0   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq10 transcribed RNA sequence
+GAXS01024736.1_6     -          oskar_filtered.aligned.LOTUS_domain -            9.9e-08   36.4   0.0         1   13.9   0.0   5.8   3   2   3   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq8 transcribed RNA sequence
+GAXS01024730.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-06   31.0   0.1      0.47   15.0   0.0   5.6   3   2   3   6   6   5   1 TSA: Pepsis grossa comp11097_c0_seq2 transcribed RNA sequence
+GAXS01024734.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-06   30.9   0.0      0.45   15.1   0.0   5.4   2   2   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq6 transcribed RNA sequence
+GAXS01024729.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-06   30.8   0.0      0.48   15.0   0.0   5.6   2   2   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq1 transcribed RNA sequence
+GAXS01024731.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-06   30.8   0.0      0.46   15.0   0.0   5.3   2   2   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq3 transcribed RNA sequence
+GAXS01024743.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-06   30.7   0.1      0.56   14.8   0.0   5.5   3   2   3   6   6   5   1 TSA: Pepsis grossa comp11097_c0_seq15 transcribed RNA sequence
+GAXS01024737.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.4e-06   30.6   0.0      0.47   15.0   0.0   5.3   2   2   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq9 transcribed RNA sequence
+GAXS01024733.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-06   30.6   0.0       0.5   14.9   0.0   5.5   2   2   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq5 transcribed RNA sequence
+GAXS01024732.1_4     -          oskar_filtered.aligned.LOTUS_domain -            7.1e-06   30.5   0.0      0.54   14.8   0.0   5.3   2   2   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq4 transcribed RNA sequence
+GAXS01044167.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00016   26.2   0.0   0.00033   25.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Pepsis grossa comp20232_c0_seq1 transcribed RNA sequence
+GAXS01034152.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.062   17.8   0.1       8.4   11.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Pepsis grossa comp11473_c32_seq18 transcribed RNA sequence
+GAXS01034160.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.064   17.8   1.4        23    9.6   0.0   3.2   3   0   0   3   3   3   0 TSA: Pepsis grossa comp11473_c32_seq26 transcribed RNA sequence
+GAXS01034139.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.095   17.2   0.1       9.9   10.8   0.0   2.2   2   0   0   2   2   2   0 TSA: Pepsis grossa comp11473_c32_seq5 transcribed RNA sequence
+GAXS01034141.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.46   15.1   0.1        41    8.8   0.0   3.1   3   0   0   3   3   3   0 TSA: Pepsis grossa comp11473_c32_seq7 transcribed RNA sequence
+GAXS01034161.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.52   14.9   0.2        38    8.9   0.0   3.0   3   0   0   3   3   3   0 TSA: Pepsis grossa comp11473_c32_seq27 transcribed RNA sequence
+GAXS01034156.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.7   3.0        59    8.3   0.0   3.8   4   0   0   4   4   4   0 TSA: Pepsis grossa comp11473_c32_seq22 transcribed RNA sequence
+GAXS01002921.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.6   13.3   0.3       3.2   12.4   0.3   1.4   1   0   0   1   1   1   0 TSA: Pepsis grossa comp3899_c0_seq1 transcribed RNA sequence
+GAXS01002922.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.2   0.3       3.6   12.2   0.3   1.4   1   0   0   1   1   1   0 TSA: Pepsis grossa comp3899_c0_seq2 transcribed RNA sequence
+GAXS01034143.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.4   12.7   1.1        58    8.3   0.0   3.0   3   0   0   3   3   3   0 TSA: Pepsis grossa comp11473_c32_seq9 transcribed RNA sequence
+GAXS01062503.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.9   12.1   0.0       4.6   11.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Pepsis grossa comp192976_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:46 2019
+# [ok]

@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOB01267695.1_2     -          OSK_CONSENSUS        -              0.007   22.5   0.0     0.011   21.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Azaleodes micronipha TR175105-c0_g1_i1 transcribed RNA sequence
+GEOB01244137.1_5     -          OSK_CONSENSUS        -               0.23   17.6   0.1      0.27   17.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR155536-c0_g1_i1 transcribed RNA sequence
+GEOB01188398.1_6     -          OSK_CONSENSUS        -               0.34   17.0   0.0      0.46   16.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR105708-c0_g1_i1 transcribed RNA sequence
+GEOB01166620.1_6     -          OSK_CONSENSUS        -               0.55   16.3   3.6        30   10.7   1.0   2.2   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR88062-c0_g2_i2 transcribed RNA sequence
+GEOB01236394.1_2     -          OSK_CONSENSUS        -               0.61   16.2   0.5      0.75   15.9   0.5   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR149316-c0_g2_i1 transcribed RNA sequence
+GEOB01166619.1_6     -          OSK_CONSENSUS        -               0.63   16.1   3.6        32   10.6   1.0   2.2   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR88062-c0_g2_i1 transcribed RNA sequence
+GEOB01236393.1_2     -          OSK_CONSENSUS        -               0.71   16.0   0.5      0.87   15.7   0.5   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR149316-c0_g1_i1 transcribed RNA sequence
+GEOB01282598.1_2     -          OSK_CONSENSUS        -                  1   15.4   0.3       1.3   15.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR187383-c0_g1_i1 transcribed RNA sequence
+GEOB01285192.1_4     -          OSK_CONSENSUS        -                1.9   14.6   0.0       2.7   14.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR189482-c2_g1_i1 transcribed RNA sequence
+GEOB01250324.1_6     -          OSK_CONSENSUS        -                  2   14.5   0.6       3.1   13.9   0.5   1.4   2   0   0   2   2   2   0 TSA: Azaleodes micronipha TR160688-c0_g1_i1 transcribed RNA sequence
+GEOB01256928.1_4     -          OSK_CONSENSUS        -                2.1   14.4   0.1       3.3   13.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR166122-c0_g1_i1 transcribed RNA sequence
+GEOB01003267.1_3     -          OSK_CONSENSUS        -                2.4   14.3   1.2       2.5   14.2   1.2   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR1387-c1_g2_i3 transcribed RNA sequence
+GEOB01204153.1_4     -          OSK_CONSENSUS        -                3.6   13.7   0.3       3.9   13.6   0.3   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR122440-c0_g1_i1 transcribed RNA sequence
+GEOB01018896.1_5     -          OSK_CONSENSUS        -                  4   13.5   0.9       4.6   13.3   0.9   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR9524-c0_g1_i1 transcribed RNA sequence
+GEOB01040438.1_2     -          OSK_CONSENSUS        -                6.3   12.9   0.0       6.7   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR20739-c0_g1_i1 transcribed RNA sequence
+GEOB01153766.1_6     -          OSK_CONSENSUS        -                7.8   12.6   0.1       9.1   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR81286-c0_g1_i1 transcribed RNA sequence
+GEOB01017640.1_6     -          OSK_CONSENSUS        -                8.2   12.5   6.8        40   10.3   1.9   2.1   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR8961-c0_g1_i1 transcribed RNA sequence
+GEOB01053655.1_5     -          OSK_CONSENSUS        -                8.7   12.4   0.1       9.6   12.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR28287-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:43 2019
+# [ok]

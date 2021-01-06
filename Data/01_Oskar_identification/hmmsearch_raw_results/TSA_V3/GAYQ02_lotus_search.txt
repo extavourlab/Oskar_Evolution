@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYQ02032773.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-18   70.9   0.0   3.4e-18   69.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Forficula auricularia C192605_a_4_0_l_1029 transcribed RNA sequence
+GAYQ02028866.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-16   64.6   0.5   5.1e-16   62.7   0.1   2.0   2   0   0   2   2   2   1 TSA: Forficula auricularia C181024_a_3_0_l_672 transcribed RNA sequence
+GAYQ02043785.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-12   51.9   1.1   1.2e-12   51.9   1.1   2.2   2   0   0   2   2   2   1 TSA: Forficula auricularia s6280_L_12165_0_a_8_6_l_1958 transcribed RNA sequence
+GAYQ02009275.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-05   26.9   0.2   7.4e-05   26.8   0.2   1.1   1   0   0   1   1   1   1 TSA: Forficula auricularia C124536_a_4_0_l_254 transcribed RNA sequence
+GAYQ02037722.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.4   0.6       2.4   12.4   0.6   1.5   1   0   0   1   1   1   0 TSA: Forficula auricularia s10320_L_46059_0_a_19_0_l_1557 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYQ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYQ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYQ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:06 2019
+# [ok]

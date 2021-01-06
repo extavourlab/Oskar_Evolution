@@ -1,0 +1,40 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBII01017052.1_2     -          LOTUS_CONSENSUS      -              1e-17   68.2   0.2   7.6e-10   43.0   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig5_AB transcribed RNA sequence
+GBII01001285.1_2     -          LOTUS_CONSENSUS      -            1.1e-17   68.1   0.2   7.6e-10   42.9   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig3_AB transcribed RNA sequence
+GBII01024342.1_3     -          LOTUS_CONSENSUS      -            3.7e-17   66.4   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig10_AB transcribed RNA sequence
+GBII01035909.1_3     -          LOTUS_CONSENSUS      -            3.7e-17   66.4   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig7_AB transcribed RNA sequence
+GBII01019764.1_3     -          LOTUS_CONSENSUS      -            3.8e-17   66.4   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig2_AB transcribed RNA sequence
+GBII01035328.1_2     -          LOTUS_CONSENSUS      -            3.8e-17   66.3   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig8_AB transcribed RNA sequence
+GBII01004214.1_3     -          LOTUS_CONSENSUS      -            3.8e-17   66.3   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig6_AB transcribed RNA sequence
+GBII01034527.1_2     -          LOTUS_CONSENSUS      -            3.9e-17   66.3   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig4_AB transcribed RNA sequence
+GBII01015116.1_2     -          LOTUS_CONSENSUS      -            3.9e-17   66.3   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig9_AB transcribed RNA sequence
+GBII01033790.1_2     -          LOTUS_CONSENSUS      -              4e-17   66.3   0.2   1.2e-09   42.3   0.0   4.0   3   0   0   3   3   3   2 TSA: Bemisia tabaci CL64.Contig1_AB transcribed RNA sequence
+GBII01040598.1_6     -          LOTUS_CONSENSUS      -            3.9e-12   50.3   0.0   5.3e-12   49.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL1956.Contig1_AB transcribed RNA sequence
+GBII01032005.1_6     -          LOTUS_CONSENSUS      -            4.3e-12   50.2   0.0   5.7e-12   49.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL1956.Contig2_AB transcribed RNA sequence
+GBII01028865.1_6     -          LOTUS_CONSENSUS      -            8.6e-12   49.2   0.0   1.4e-11   48.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL1956.Contig3_AB transcribed RNA sequence
+GBII01022644.1_1     -          LOTUS_CONSENSUS      -             0.0016   22.7   0.0     0.005   21.1   0.0   1.8   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unigene1043_AB transcribed RNA sequence
+GBII01027967.1_1     -          LOTUS_CONSENSUS      -              0.052   17.8   0.5      0.15   16.4   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig8_AB transcribed RNA sequence
+GBII01014790.1_1     -          LOTUS_CONSENSUS      -               0.06   17.6   0.5      0.16   16.3   0.0   1.8   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig2_AB transcribed RNA sequence
+GBII01043540.1_1     -          LOTUS_CONSENSUS      -               0.06   17.6   0.5      0.17   16.2   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig7_AB transcribed RNA sequence
+GBII01021173.1_1     -          LOTUS_CONSENSUS      -              0.068   17.5   0.5      0.19   16.0   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig9_AB transcribed RNA sequence
+GBII01027273.1_1     -          LOTUS_CONSENSUS      -              0.069   17.5   0.5      0.21   15.9   0.0   2.0   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig4_AB transcribed RNA sequence
+GBII01014872.1_1     -          LOTUS_CONSENSUS      -               0.07   17.4   0.5      0.19   16.1   0.0   1.8   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig10_AB transcribed RNA sequence
+GBII01020674.1_1     -          LOTUS_CONSENSUS      -              0.082   17.2   0.6      0.22   15.9   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig6_AB transcribed RNA sequence
+GBII01048204.1_1     -          LOTUS_CONSENSUS      -              0.083   17.2   0.6      0.22   15.8   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig3_AB transcribed RNA sequence
+GBII01042068.1_1     -          LOTUS_CONSENSUS      -              0.091   17.1   0.6      0.25   15.7   0.0   2.0   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL723.Contig5_AB transcribed RNA sequence
+GBII01034577.1_1     -          LOTUS_CONSENSUS      -               0.11   16.8   2.7      0.13   16.6   0.0   2.3   3   0   0   3   3   3   0 TSA: Bemisia tabaci CL723.Contig1_AB transcribed RNA sequence
+GBII01038701.1_1     -          LOTUS_CONSENSUS      -               0.13   16.5   2.7      0.16   16.3   0.0   2.3   3   0   0   3   3   3   0 TSA: Bemisia tabaci Unigene19540_AB transcribed RNA sequence
+GBII01009189.1_1     -          LOTUS_CONSENSUS      -               0.16   16.3   2.7      0.19   16.1   0.0   2.4   3   0   0   3   3   3   0 TSA: Bemisia tabaci Unigene19539_AB transcribed RNA sequence
+GBII01037582.1_5     -          LOTUS_CONSENSUS      -               0.92   13.8   0.0       2.6   12.4   0.0   1.7   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL1588.Contig1_AB transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBII01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBII01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBII01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:19 2019
+# [ok]

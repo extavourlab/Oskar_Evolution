@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDER01008308.1_5     -          OSK_CONSENSUS        -             0.0014   21.5   0.4    0.0025   20.7   0.4   1.4   1   0   0   1   1   1   1 TSA: Saldula saltatoria breed wildtype C128966_a_9_0_l_900, transcribed RNA sequence
+GDER01006456.1_5     -          OSK_CONSENSUS        -             0.0018   21.2   0.1    0.0092   18.8   0.1   1.9   1   1   0   1   1   1   1 TSA: Saldula saltatoria breed wildtype C122717_a_22_0_l_676, transcribed RNA sequence
+GDER01027016.1_5     -          OSK_CONSENSUS        -              0.046   16.6   0.0     0.068   16.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Saldula saltatoria breed wildtype s6552_L_21590_0_a_26_0_l_743, transcribed RNA sequence
+GDER01002237.1_6     -          OSK_CONSENSUS        -              0.076   15.9   0.1     0.098   15.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Saldula saltatoria breed wildtype C107693_a_9_0_l_408, transcribed RNA sequence
+GDER01026728.1_3     -          OSK_CONSENSUS        -               0.24   14.2   0.0       0.3   13.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Saldula saltatoria breed wildtype s6292_L_19539_1_a_6_1_l_534, transcribed RNA sequence
+GDER01020539.1_3     -          OSK_CONSENSUS        -               0.34   13.8   0.0      0.38   13.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Saldula saltatoria breed wildtype C98831_a_4_0_l_327, transcribed RNA sequence
+GDER01027679.1_4     -          OSK_CONSENSUS        -               0.96   12.3   0.1       1.1   12.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Saldula saltatoria breed wildtype s7153_L_25000_0_a_5_0_l_645, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDER01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDER01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDER01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:06 2019
+# [ok]

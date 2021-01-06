@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GACP01102293.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-18   70.6   0.0   5.8e-18   70.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Micropterix calthella contig102421 mRNA sequence
+GACP01030038.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-09   41.7   0.0   8.7e-09   40.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Micropterix calthella contig30073 mRNA sequence
+GACP01022209.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-08   38.9   0.0   5.7e-08   38.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Micropterix calthella contig22238 mRNA sequence
+GACP01069055.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-07   37.5   0.0   1.2e-07   37.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Micropterix calthella contig69140 mRNA sequence
+GACP01069055.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.17   17.5   0.0      0.17   17.5   0.0   1.4   1   1   0   1   1   1   0 TSA: Micropterix calthella contig69140 mRNA sequence
+GACP01018715.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.17   17.5   0.3      0.33   16.6   0.2   1.5   1   1   0   1   1   1   0 TSA: Micropterix calthella contig18739 mRNA sequence
+GACP01120522.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.34   16.5   0.0      0.48   16.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Micropterix calthella contig120664 mRNA sequence
+GACP01092991.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.67   15.6   0.3      0.76   15.4   0.3   1.2   1   0   0   1   1   1   0 TSA: Micropterix calthella contig93109 mRNA sequence
+GACP01034406.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.6   0.1       2.2   13.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Micropterix calthella contig34447 mRNA sequence
+GACP01001033.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.9   14.1   0.1       4.8   12.9   0.1   1.6   1   0   0   1   1   1   0 TSA: Micropterix calthella contig01033 mRNA sequence
+GACP01021808.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.9   1.2       6.1   12.5   1.0   1.7   1   1   1   2   2   2   0 TSA: Micropterix calthella contig21836 mRNA sequence
+GACP01092934.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.2   13.4   0.1       4.5   12.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Micropterix calthella contig93052 mRNA sequence
+GACP01077783.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.2   0.0       6.1   12.5   0.0   1.4   1   1   0   1   1   1   0 TSA: Micropterix calthella contig77879 mRNA sequence
+GACP01112206.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.8   13.2   0.0       4.2   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Micropterix calthella contig112343 mRNA sequence
+GACP01003363.1_2     -          oskar_filtered.aligned.LOTUS_domain -                8.5   12.1   3.8       7.5   12.2   0.5   2.2   2   0   0   2   2   2   0 TSA: Micropterix calthella contig03365 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GACP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:57 2019
+# [ok]

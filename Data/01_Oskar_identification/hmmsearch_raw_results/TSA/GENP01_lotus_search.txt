@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENP01047029.1_2     -          LOTUS_CONSENSUS      -             0.0081   22.1   0.0     0.013   21.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Acanthopteroctetes unifascia TR56490-c0_g1_i1 transcribed RNA sequence
+GENP01047030.1_2     -          LOTUS_CONSENSUS      -              0.031   20.2   0.0     0.051   19.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR56490-c0_g2_i1 transcribed RNA sequence
+GENP01008837.1_4     -          LOTUS_CONSENSUS      -               0.26   17.2   0.1      0.33   16.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR11921-c1_g1_i1 transcribed RNA sequence
+GENP01021518.1_5     -          LOTUS_CONSENSUS      -                2.5   14.1   1.3       4.7   13.2   1.3   1.4   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR28624-c0_g1_i1 transcribed RNA sequence
+GENP01021519.1_6     -          LOTUS_CONSENSUS      -                3.9   13.4   1.3       7.1   12.6   1.3   1.3   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR28624-c0_g3_i1 transcribed RNA sequence
+GENP01113407.1_5     -          LOTUS_CONSENSUS      -                4.3   13.3   0.0       5.2   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR114799-c0_g1_i1 transcribed RNA sequence
+GENP01099209.1_1     -          LOTUS_CONSENSUS      -                4.4   13.3   0.3       5.6   12.9   0.3   1.2   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR102483-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:37 2019
+# [ok]

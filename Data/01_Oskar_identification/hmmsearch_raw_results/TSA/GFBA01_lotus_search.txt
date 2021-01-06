@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFBA01057036.1_3     -          LOTUS_CONSENSUS      -            2.4e-18   70.5   0.1   4.8e-11   47.1   0.0   2.4   2   0   0   2   2   2   2 TSA: Tupiocoris notatus TR27232_c0_g3_i1 transcribed RNA sequence
+GFBA01020397.1_2     -          LOTUS_CONSENSUS      -              5e-15   59.9   0.0   1.2e-14   58.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Tupiocoris notatus TR9063_c0_g2_i1 transcribed RNA sequence
+GFBA01010226.1_6     -          LOTUS_CONSENSUS      -            1.3e-10   45.7   0.0   2.9e-10   44.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Tupiocoris notatus TR4460_c0_g1_i4 transcribed RNA sequence
+GFBA01010225.1_6     -          LOTUS_CONSENSUS      -            1.4e-10   45.6   0.0   3.8e-10   44.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Tupiocoris notatus TR4460_c0_g1_i3 transcribed RNA sequence
+GFBA01010223.1_6     -          LOTUS_CONSENSUS      -            1.7e-10   45.4   0.0   4.2e-10   44.1   0.0   1.7   1   0   0   1   1   1   1 TSA: Tupiocoris notatus TR4460_c0_g1_i1 transcribed RNA sequence
+GFBA01010224.1_6     -          LOTUS_CONSENSUS      -              2e-10   45.1   0.0   4.2e-10   44.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Tupiocoris notatus TR4460_c0_g1_i2 transcribed RNA sequence
+GFBA01017746.1_3     -          LOTUS_CONSENSUS      -            2.8e-08   38.2   0.0      0.46   15.1   0.0   5.8   3   1   3   6   6   6   3 TSA: Tupiocoris notatus TR7964_c1_g2_i1 transcribed RNA sequence
+GFBA01045821.1_3     -          LOTUS_CONSENSUS      -                1.4   13.5   0.0       2.3   12.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Tupiocoris notatus TR21427_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFBA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFBA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFBA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:51 2019
+# [ok]

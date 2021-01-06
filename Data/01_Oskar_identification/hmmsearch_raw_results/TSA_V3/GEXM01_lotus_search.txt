@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEXM01006167.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-23   83.9   0.3   2.2e-15   59.9   0.1   2.2   2   0   0   2   2   2   2 TSA: Oxysternon conspicillatum comp3386_c0_seq3 transcribed RNA sequence
+GEXM01006166.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-22   82.3   0.3   4.2e-15   59.0   0.1   2.2   2   0   0   2   2   2   2 TSA: Oxysternon conspicillatum comp3386_c0_seq2 transcribed RNA sequence
+GEXM01006165.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-22   81.3   0.3   6.5e-15   58.3   0.1   2.3   2   0   0   2   2   2   2 TSA: Oxysternon conspicillatum comp3386_c0_seq1 transcribed RNA sequence
+GEXM01003266.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-17   67.3   0.1   4.5e-17   65.3   0.1   2.2   2   0   0   2   2   2   1 TSA: Oxysternon conspicillatum comp40_c0_seq1 transcribed RNA sequence
+GEXM01000541.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0014   21.9   0.6        15    9.0   0.0   4.4   4   0   0   4   4   4   1 TSA: Oxysternon conspicillatum comp852_c0_seq2 transcribed RNA sequence
+GEXM01000540.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0031   20.8   0.6        19    8.7   0.0   4.4   4   0   0   4   4   4   1 TSA: Oxysternon conspicillatum comp852_c0_seq1 transcribed RNA sequence
+GEXM01003776.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.077   16.4   0.1       0.1   16.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Oxysternon conspicillatum comp3215_c0_seq14 transcribed RNA sequence
+GEXM01003772.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.16   15.3   0.1      0.35   14.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Oxysternon conspicillatum comp3215_c0_seq10 transcribed RNA sequence
+GEXM01021188.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.4   14.1   0.2       2.8   11.4   0.0   2.2   2   0   0   2   2   2   0 TSA: Oxysternon conspicillatum comp13586_c0_seq1 transcribed RNA sequence
+GEXM01005353.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.77   13.2   1.7       1.2   12.5   1.7   1.5   1   1   0   1   1   1   0 TSA: Oxysternon conspicillatum comp3534_c0_seq3 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEXM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEXM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEXM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:12 2019
+# [ok]

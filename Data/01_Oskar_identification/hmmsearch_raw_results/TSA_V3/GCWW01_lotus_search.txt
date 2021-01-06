@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWW01038569.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-20   77.4   0.3   7.2e-13   52.5   0.0   3.6   3   0   0   3   3   3   3 TSA: Coccus sp. AD-2014 breed wildtype s4749_L_5429_1_8_3_COMPLEX, transcribed RNA sequence
+GCWW01038568.1_5     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-20   74.5   2.6   9.5e-13   52.1   0.0   3.9   4   0   0   4   4   4   3 TSA: Coccus sp. AD-2014 breed wildtype s4748_L_5429_0_11_1_COMPLEX, transcribed RNA sequence
+GCWW01030435.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-17   67.5   0.0   3.4e-17   66.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Coccus sp. AD-2014 breed wildtype s15621_L_29794_0_52_3_LINEAR, transcribed RNA sequence
+GCWW01030676.1_4     -          oskar_filtered.aligned.LOTUS_domain -              7e-08   36.4   0.0   1.6e-07   35.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Coccus sp. AD-2014 breed wildtype s15839_L_30572_0_4_0_LINEAR, transcribed RNA sequence
+GCWW01028007.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-06   32.1   0.0       8.3   10.5   0.0   5.7   3   1   3   6   6   6   2 TSA: Coccus sp. AD-2014 breed wildtype s13429_L_22924_0_17_6_COMPLEX, transcribed RNA sequence
+GCWW01028009.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-06   32.1   0.0       8.3   10.5   0.0   5.7   3   1   3   6   6   6   2 TSA: Coccus sp. AD-2014 breed wildtype s13430_L_22924_1_17_7_COMPLEX, transcribed RNA sequence
+GCWW01028010.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-06   32.1   0.0       8.3   10.5   0.0   5.7   3   1   3   6   6   6   2 TSA: Coccus sp. AD-2014 breed wildtype s13431_L_22924_2_17_7_COMPLEX, transcribed RNA sequence
+GCWW01024852.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.39   14.8   0.2       1.8   12.7   0.0   2.2   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10582_L_15733_3_30_3_COMPLEX, transcribed RNA sequence
+GCWW01024848.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.94   13.6   0.2       4.8   11.3   0.0   2.3   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10579_L_15733_0_31_3_COMPLEX, transcribed RNA sequence
+GCWW01024850.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.94   13.6   0.2       4.8   11.3   0.0   2.3   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10580_L_15733_1_32_5_COMPLEX, transcribed RNA sequence
+GCWW01024851.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.99   13.5   0.1       4.8   11.3   0.0   2.2   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10581_L_15733_2_30_3_COMPLEX, transcribed RNA sequence
+GCWW01032477.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.9   12.6   1.8       3.3   11.8   1.8   1.3   1   0   0   1   1   1   0 TSA: Coccus sp. AD-2014 breed wildtype s17461_L_36618_0_4_4_LINEAR, transcribed RNA sequence
+GCWW01018374.1_2     -          oskar_filtered.aligned.LOTUS_domain -                  3   12.0   0.2       6.2   10.9   0.2   1.5   1   0   0   1   1   1   0 TSA: Coccus sp. AD-2014 breed wildtype C195760_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:30 2019
+# [ok]

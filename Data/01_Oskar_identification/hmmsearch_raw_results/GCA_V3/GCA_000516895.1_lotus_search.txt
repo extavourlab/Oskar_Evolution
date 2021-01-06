@@ -1,0 +1,39 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g289978.t1           -          oskar_filtered.aligned.LOTUS_domain -            2.3e-15   61.9   0.0   5.1e-15   60.8   0.0   1.5   1   1   0   1   1   1   1 -
+g638482.t1           -          oskar_filtered.aligned.LOTUS_domain -            3.7e-12   51.6   0.0     8e-12   50.5   0.0   1.6   1   0   0   1   1   1   1 -
+g502800.t1           -          oskar_filtered.aligned.LOTUS_domain -               0.06   18.8   0.0        10   11.7   0.0   2.4   1   1   1   2   2   2   0 -
+g197542.t1           -          oskar_filtered.aligned.LOTUS_domain -               0.37   16.3   0.0   1.1e+02    8.4   0.0   2.1   1   1   1   2   2   2   0 -
+g638479.t1           -          oskar_filtered.aligned.LOTUS_domain -               0.39   16.2   0.0      0.82   15.2   0.0   1.6   1   0   0   1   1   1   0 -
+g669363.t1           -          oskar_filtered.aligned.LOTUS_domain -               0.49   15.9   0.1   1.6e+02    7.9   0.0   2.2   2   0   0   2   2   2   0 -
+g685163.t1           -          oskar_filtered.aligned.LOTUS_domain -                0.5   15.9   4.1        64    9.1   0.6   2.4   2   0   0   2   2   2   0 -
+g542052.t1           -          oskar_filtered.aligned.LOTUS_domain -                0.6   15.6   1.2       4.3   12.9   0.1   2.5   2   1   0   2   2   2   0 -
+g541614.t1           -          oskar_filtered.aligned.LOTUS_domain -               0.84   15.2   4.2   1.2e+02    8.3   0.7   2.5   2   0   0   2   2   2   0 -
+g459972.t1           -          oskar_filtered.aligned.LOTUS_domain -               0.85   15.2   0.0        23   10.6   0.0   2.3   1   1   1   2   2   2   0 -
+g641894.t1           -          oskar_filtered.aligned.LOTUS_domain -               0.85   15.1   0.1      0.94   15.0   0.1   1.1   1   0   0   1   1   1   0 -
+g462655.t1           -          oskar_filtered.aligned.LOTUS_domain -                1.2   14.7   0.0       1.7   14.2   0.0   1.3   1   0   0   1   1   1   0 -
+g600966.t1           -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.5   0.1       4.1   13.0   0.1   1.8   1   0   0   1   1   1   0 -
+g726925.t1           -          oskar_filtered.aligned.LOTUS_domain -                2.1   13.9   5.9        71    9.0   0.1   3.5   1   1   2   4   4   4   0 -
+g728786.t1           -          oskar_filtered.aligned.LOTUS_domain -                2.4   13.7   0.0       3.4   13.2   0.0   1.2   1   0   0   1   1   1   0 -
+g156381.t1           -          oskar_filtered.aligned.LOTUS_domain -                2.8   13.5   0.0       3.8   13.1   0.0   1.2   1   0   0   1   1   1   0 -
+g588265.t1           -          oskar_filtered.aligned.LOTUS_domain -                2.9   13.5   0.7       4.3   12.9   0.7   1.5   1   1   0   1   1   1   0 -
+g97938.t1            -          oskar_filtered.aligned.LOTUS_domain -                  3   13.4   0.0       3.2   13.3   0.0   1.1   1   0   0   1   1   1   0 -
+g27841.t1            -          oskar_filtered.aligned.LOTUS_domain -                3.3   13.3   0.0     3e+02    7.0   0.0   2.2   1   1   1   2   2   2   0 -
+g190958.t1           -          oskar_filtered.aligned.LOTUS_domain -                3.6   13.1   0.0       4.2   12.9   0.0   1.1   1   0   0   1   1   1   0 -
+g535391.t1           -          oskar_filtered.aligned.LOTUS_domain -                4.7   12.8   0.0       7.1   12.2   0.0   1.2   1   0   0   1   1   1   0 -
+g144936.t1           -          oskar_filtered.aligned.LOTUS_domain -                4.8   12.7   5.9   3.6e+02    6.7   2.2   3.0   1   1   0   2   2   2   0 -
+g419973.t1           -          oskar_filtered.aligned.LOTUS_domain -                4.9   12.7   0.0       6.2   12.4   0.0   1.2   1   0   0   1   1   1   0 -
+g237782.t1           -          oskar_filtered.aligned.LOTUS_domain -                5.9   12.5   0.0       7.9   12.0   0.0   1.3   1   0   0   1   1   1   0 -
+g714769.t1           -          oskar_filtered.aligned.LOTUS_domain -                6.6   12.3   0.0        11   11.6   0.0   1.3   1   1   0   1   1   1   0 -
+g627963.t1           -          oskar_filtered.aligned.LOTUS_domain -                  8   12.0   0.0        15   11.2   0.0   1.4   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_000516895.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_000516895.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_000516895.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:28:08 2019
+# [ok]

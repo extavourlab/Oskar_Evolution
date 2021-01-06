@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GADB01015375.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-12   51.3   0.0   4.5e-12   49.9   0.0   1.7   2   0   0   2   2   2   1 TSA: Nannochorista philpotti contig15399 mRNA sequence
+GADB01002533.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-09   40.5   0.9   0.00089   23.3   0.0   4.1   4   1   1   5   5   5   2 TSA: Nannochorista philpotti contig02536 mRNA sequence
+GADB01044642.1_4     -          oskar_filtered.aligned.LOTUS_domain -            7.6e-09   39.6   0.0   8.2e-09   39.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Nannochorista philpotti contig44794 mRNA sequence
+GADB01024513.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-05   28.9   0.5   2.3e-05   28.4   0.5   1.3   1   0   0   1   1   1   1 TSA: Nannochorista philpotti contig24558 mRNA sequence
+GADB01013064.1_4     -          oskar_filtered.aligned.LOTUS_domain -              5e-05   27.3   0.2   0.00012   26.1   0.2   1.6   1   0   0   1   1   1   1 TSA: Nannochorista philpotti contig13081 mRNA sequence
+GADB01010473.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.039   18.0   0.0      0.55   14.3   0.0   2.1   1   1   1   2   2   2   0 TSA: Nannochorista philpotti contig10487 mRNA sequence
+GADB01028073.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.46   14.6   0.4      0.61   14.2   0.4   1.3   1   1   0   1   1   1   0 TSA: Nannochorista philpotti contig28132 mRNA sequence
+GADB01005077.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  1   13.4   0.0   4.5e+02    5.0   0.0   3.6   3   1   1   4   4   4   0 TSA: Nannochorista philpotti contig05085 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GADB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GADB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GADB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:09 2019
+# [ok]

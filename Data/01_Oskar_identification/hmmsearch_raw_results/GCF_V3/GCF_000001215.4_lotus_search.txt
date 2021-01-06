@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_996186.1          -          oskar_filtered.aligned.LOTUS_domain -            9.9e-26   90.7   0.1     6e-25   88.2   0.1   2.3   2   0   0   2   2   2   1 oskar, isoform C [Drosophila melanogaster]
+NP_731295.1          -          oskar_filtered.aligned.LOTUS_domain -            1.5e-25   90.1   0.1   9.1e-25   87.6   0.1   2.4   2   0   0   2   2   2   1 oskar, isoform A [Drosophila melanogaster]
+NP_610950.2          -          oskar_filtered.aligned.LOTUS_domain -            1.8e-14   54.6   0.0   6.5e-14   52.8   0.0   2.0   1   0   0   1   1   1   1 tejas [Drosophila melanogaster]
+NP_001163213.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-14   54.3   0.0   5.8e-14   52.9   0.0   1.7   1   0   0   1   1   1   1 tapas, isoform D [Drosophila melanogaster]
+NP_611475.3          -          oskar_filtered.aligned.LOTUS_domain -            2.9e-14   53.9   0.0   7.9e-14   52.5   0.0   1.7   1   0   0   1   1   1   1 tapas, isoform B [Drosophila melanogaster]
+NP_001033929.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   25.7   0.0   2.1e-05   25.5   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein Dmel_CG34007, isoform A [Drosophila melanogaster]
+NP_001286104.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   25.7   0.0   2.1e-05   25.5   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein Dmel_CG34007, isoform B [Drosophila melanogaster]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000001215.4_Release_6_plus_ISO1_MT_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000001215.4_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000001215.4_Release_6_plus_ISO1_MT_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:29 2019
+# [ok]

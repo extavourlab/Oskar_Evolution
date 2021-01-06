@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOC01010844.1_5     -          LOTUS_CONSENSUS      -            7.5e-16   60.7   0.0   1.4e-14   56.6   0.0   2.7   3   0   0   3   3   3   1 TSA: Palarus histrio C68238_a_34_0_l_4611 transcribed RNA sequence
+GBOC01004373.1_3     -          LOTUS_CONSENSUS      -            6.5e-12   48.1   0.2   8.1e-12   47.8   0.2   1.2   1   0   0   1   1   1   1 TSA: Palarus histrio C40161_a_3_0_l_402 transcribed RNA sequence
+GBOC01010966.1_1     -          LOTUS_CONSENSUS      -            6.4e-05   25.6   0.0        80    6.1   0.0   5.6   4   1   3   7   7   7   3 TSA: Palarus histrio C68716_a_31_0_l_5381 transcribed RNA sequence
+GBOC01001078.1_5     -          LOTUS_CONSENSUS      -               0.15   14.8   0.1       0.2   14.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Palarus histrio C29618_a_8_0_l_243 transcribed RNA sequence
+GBOC01010123.1_4     -          LOTUS_CONSENSUS      -               0.82   12.5   0.6       2.2   11.1   0.6   1.7   1   0   0   1   1   1   0 TSA: Palarus histrio C65316_a_29_0_l_2867 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:28 2019
+# [ok]

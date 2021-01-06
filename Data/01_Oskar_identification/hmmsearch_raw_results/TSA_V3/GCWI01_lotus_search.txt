@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWI01064528.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-18   71.6   0.2   3.3e-13   54.2   0.0   3.6   3   0   0   3   3   3   2 TSA: Campylenchia latipes breed wildtype s26390_L_90670_1_6_7_FORK, transcribed RNA sequence
+GCWI01064526.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-18   70.1   0.2   5.7e-13   53.5   0.0   4.0   3   0   0   3   3   3   2 TSA: Campylenchia latipes breed wildtype s26389_L_90670_0_9_4_FORK, transcribed RNA sequence
+GCWI01064128.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-16   62.6   0.5   1.1e-14   58.9   0.0   2.7   3   0   0   3   3   3   1 TSA: Campylenchia latipes breed wildtype s2602_L_3825_0_26_1_FORK, transcribed RNA sequence
+GCWI01064139.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.8e-16   62.5   0.6   1.2e-14   58.9   0.0   2.7   3   0   0   3   3   3   1 TSA: Campylenchia latipes breed wildtype s2603_L_3825_1_25_9_FORK, transcribed RNA sequence
+GCWI01063778.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.048   18.4   0.0      0.29   15.9   0.0   2.2   2   0   0   2   2   2   0 TSA: Campylenchia latipes breed wildtype s25713_L_86034_0_5_1_FORK, transcribed RNA sequence
+GCWI01063779.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.081   17.7   0.0      0.23   16.2   0.0   1.7   2   0   0   2   2   2   0 TSA: Campylenchia latipes breed wildtype s25714_L_86034_1_3_5_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:15 2019
+# [ok]

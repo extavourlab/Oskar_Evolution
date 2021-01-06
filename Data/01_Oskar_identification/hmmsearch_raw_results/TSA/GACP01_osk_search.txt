@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GACP01097299.1_3     -          OSK_CONSENSUS        -                0.5   15.4   0.6      0.59   15.2   0.6   1.2   1   0   0   1   1   1   0 TSA: Micropterix calthella contig97422 mRNA sequence
+GACP01012212.1_5     -          OSK_CONSENSUS        -                1.6   13.8   0.6   2.6e+02    6.5   0.0   2.2   2   0   0   2   2   2   0 TSA: Micropterix calthella contig12231 mRNA sequence
+GACP01133144.1_1     -          OSK_CONSENSUS        -                1.6   13.8   0.1       1.7   13.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Micropterix calthella contig133304 mRNA sequence
+GACP01075886.1_4     -          OSK_CONSENSUS        -                1.8   13.6   0.0       1.8   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Micropterix calthella contig75981 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GACP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:17 2019
+# [ok]

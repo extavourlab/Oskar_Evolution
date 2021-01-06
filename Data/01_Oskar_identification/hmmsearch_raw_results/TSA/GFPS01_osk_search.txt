@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFPS01010958.1_3     -          OSK_CONSENSUS        -              4e-29  104.7   1.8   4.6e-29  104.5   0.1   1.8   2   0   0   2   2   2   1 TSA: Timema californicum Tcm_TRINITY_DN90365_c0_g1_i2 transcribed RNA sequence
+GFPS01017969.1_3     -          OSK_CONSENSUS        -              8e-23   84.2   0.3   2.6e-22   82.5   0.0   2.0   2   0   0   2   2   2   1 TSA: Timema californicum Tcm_TRINITY_DN104573_c1_g1_i3 transcribed RNA sequence
+GFPS01006729.1_2     -          OSK_CONSENSUS        -            9.1e-07   32.0   0.1   1.1e-06   31.7   0.1   1.1   1   0   0   1   1   1   1 TSA: Timema californicum Tcm_TRINITY_DN107571_c3_g1_i2 transcribed RNA sequence
+GFPS01002676.1_5     -          OSK_CONSENSUS        -              0.054   16.5   0.1      0.22   14.5   0.1   2.0   1   0   0   1   1   1   0 TSA: Timema californicum Tcm_TRINITY_DN107646_c1_g1_i5 transcribed RNA sequence
+GFPS01004380.1_5     -          OSK_CONSENSUS        -                0.6   13.1   0.4      0.94   12.5   0.4   1.3   1   0   0   1   1   1   0 TSA: Timema californicum Tcm_TRINITY_DN84663_c0_g1_i1 transcribed RNA sequence
+GFPS01004636.1_6     -          OSK_CONSENSUS        -               0.79   12.7   0.1      0.89   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Timema californicum Tcm_TRINITY_DN101647_c5_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFPS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:59 2019
+# [ok]

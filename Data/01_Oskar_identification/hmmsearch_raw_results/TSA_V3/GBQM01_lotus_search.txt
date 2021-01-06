@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQM01013925.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-20   76.1   0.2   4.4e-20   74.9   0.0   1.7   2   0   0   2   2   2   1 TSA: Colpa sexmaculata C74449_a_3_0_l_951 transcribed RNA sequence
+GBQM01003275.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00024   24.4   0.1   0.00027   24.2   0.1   1.1   1   0   0   1   1   1   1 TSA: Colpa sexmaculata C39563_a_4_0_l_255 transcribed RNA sequence
+GBQM01010326.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0016   21.7   0.2     0.034   17.5   0.0   2.7   1   1   2   3   3   3   1 TSA: Colpa sexmaculata C61087_a_6_0_l_525 transcribed RNA sequence
+GBQM01000683.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.93   12.8   0.1       1.2   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Colpa sexmaculata C32858_a_56_0_l_222 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:49:53 2019
+# [ok]

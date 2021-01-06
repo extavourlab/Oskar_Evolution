@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAKJ01009501.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-19   71.5   1.8   1.6e-18   69.0   0.5   2.5   2   0   0   2   2   2   1 TSA: Sitodiplosis mosellana Unigene17785_S_mosellanaA transcribed RNA sequence
+GAKJ01010751.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-11   47.1   0.4   5.4e-11   44.8   0.4   2.2   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene19253_S_mosellanaA transcribed RNA sequence
+GAKJ01004384.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-11   45.4   0.0     8e-11   44.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene8085_S_mosellanaA transcribed RNA sequence
+GAKJ01002860.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-08   36.4   0.0   5.5e-08   35.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene6225_S_mosellanaA transcribed RNA sequence
+GAKJ01003894.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.6e-05   25.5   0.3    0.0002   23.7   0.3   2.0   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene7480_S_mosellanaA transcribed RNA sequence
+GAKJ01008260.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.002   20.5   0.2    0.0074   18.7   0.2   2.0   1   1   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene16352_S_mosellanaA transcribed RNA sequence
+GAKJ01010819.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.061   15.8   5.8        14    8.2   0.0   5.5   4   1   2   6   6   6   0 TSA: Sitodiplosis mosellana Unigene19332_S_mosellanaA transcribed RNA sequence
+GAKJ01010820.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.064   15.7   5.9        13    8.2   0.0   5.4   4   1   2   6   6   6   0 TSA: Sitodiplosis mosellana Unigene19333_S_mosellanaA transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAKJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:45 2019
+# [ok]

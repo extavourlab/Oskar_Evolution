@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFFH01050102.1_3     -          LOTUS_CONSENSUS      -            9.9e-17   65.2   0.0   1.7e-16   64.5   0.0   1.4   1   1   0   1   1   1   1 TSA: Oratosquilla oratoria Unigene36152_EMSIG2_1 transcribed RNA sequence
+GFFH01000214.1_2     -          LOTUS_CONSENSUS      -              0.024   19.1   0.0   3.8e+02    5.7   0.0   5.2   5   1   1   6   6   6   0 TSA: Oratosquilla oratoria CL58.Contig2_EMSIG2_1 transcribed RNA sequence
+GFFH01000217.1_2     -          LOTUS_CONSENSUS      -              0.024   19.1   0.0   3.8e+02    5.7   0.0   5.2   5   1   1   6   6   6   0 TSA: Oratosquilla oratoria CL58.Contig5_EMSIG2_1 transcribed RNA sequence
+GFFH01000216.1_3     -          LOTUS_CONSENSUS      -              0.027   18.9   0.0   3.9e+02    5.6   0.0   5.1   5   1   1   6   6   6   0 TSA: Oratosquilla oratoria CL58.Contig4_EMSIG2_1 transcribed RNA sequence
+GFFH01000215.1_3     -          LOTUS_CONSENSUS      -              0.028   18.9   0.0   3.9e+02    5.6   0.0   5.1   5   1   1   6   6   6   0 TSA: Oratosquilla oratoria CL58.Contig3_EMSIG2_1 transcribed RNA sequence
+GFFH01000213.1_1     -          LOTUS_CONSENSUS      -              0.043   18.3   0.0   4.3e+02    5.5   0.0   5.1   5   1   1   6   6   6   0 TSA: Oratosquilla oratoria CL58.Contig1_EMSIG2_1 transcribed RNA sequence
+GFFH01058823.1_4     -          LOTUS_CONSENSUS      -               0.24   15.9   0.5      0.42   15.1   0.5   1.4   1   0   0   1   1   1   0 TSA: Oratosquilla oratoria Unigene44893_EMSIG2_1 transcribed RNA sequence
+GFFH01021265.1_4     -          LOTUS_CONSENSUS      -                1.4   13.5   2.0   1.5e+02    6.9   0.1   2.2   2   0   0   2   2   2   0 TSA: Oratosquilla oratoria Unigene7271_EMSIG2_1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFFH.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GFFH.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFFH.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:17 2019
+# [ok]

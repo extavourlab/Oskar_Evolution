@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUW02013106.1_3     -          LOTUS_CONSENSUS      -            9.3e-18   67.7   1.1   4.4e-16   62.4   0.0   3.5   4   0   0   4   4   4   1 TSA: Apachyus charteceus C137363_a_25_0_l_3385 transcribed RNA sequence
+GAUW02011012.1_2     -          LOTUS_CONSENSUS      -             0.0013   22.4   0.3        58    7.5   0.0   4.1   2   2   2   4   4   4   2 TSA: Apachyus charteceus C131211_a_10_0_l_1269 transcribed RNA sequence
+GAUW02004729.1_3     -          LOTUS_CONSENSUS      -                1.1   13.1   0.6       1.3   12.8   0.6   1.2   1   0   0   1   1   1   0 TSA: Apachyus charteceus C112907_a_9_0_l_493 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUW02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUW02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUW02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:31 2019
+# [ok]

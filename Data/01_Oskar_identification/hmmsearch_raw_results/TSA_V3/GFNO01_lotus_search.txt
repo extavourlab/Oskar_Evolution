@@ -1,0 +1,35 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNO01060854.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-20   78.3   1.4   1.8e-19   75.0   0.0   3.2   4   0   0   4   4   3   1 TSA: Lasius niger comp89231_c1_seq1 transcribed RNA sequence
+GFNO01060857.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-20   78.3   1.3   1.8e-19   74.9   0.0   3.2   4   0   0   4   4   3   1 TSA: Lasius niger comp89231_c1_seq4 transcribed RNA sequence
+GFNO01060855.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-20   78.2   1.3   1.8e-19   74.9   0.0   3.2   4   0   0   4   4   3   1 TSA: Lasius niger comp89231_c1_seq2 transcribed RNA sequence
+GFNO01060856.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-20   78.2   1.3   1.9e-19   74.9   0.0   3.2   4   0   0   4   4   3   1 TSA: Lasius niger comp89231_c1_seq3 transcribed RNA sequence
+GFNO01067755.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-16   65.5   0.2   6.1e-10   44.4   0.0   3.8   4   0   0   4   4   3   2 TSA: Lasius niger comp90128_c0_seq2 transcribed RNA sequence
+GFNO01067754.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-15   62.8   0.0   9.9e-10   43.7   0.0   3.0   2   0   0   2   2   2   2 TSA: Lasius niger comp90128_c0_seq1 transcribed RNA sequence
+GFNO01067756.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-15   62.6   0.0     1e-09   43.7   0.0   2.9   2   0   0   2   2   2   2 TSA: Lasius niger comp90128_c0_seq3 transcribed RNA sequence
+GFNO01059756.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.001   24.4   1.4        18   10.7   0.0   5.1   3   1   4   7   7   6   1 TSA: Lasius niger comp89094_c0_seq2 transcribed RNA sequence
+GFNO01059757.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0011   24.2   1.6        19   10.7   0.0   5.1   3   1   4   7   7   6   1 TSA: Lasius niger comp89094_c0_seq3 transcribed RNA sequence
+GFNO01031030.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.049   19.0   0.1     0.091   18.1   0.0   1.5   2   0   0   2   2   2   0 TSA: Lasius niger comp80758_c0_seq1 transcribed RNA sequence
+GFNO01023794.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.68   15.3   2.8       1.3   14.5   2.0   2.0   1   1   0   1   1   1   0 TSA: Lasius niger comp75590_c0_seq1 transcribed RNA sequence
+GFNO01047622.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.4   0.2       3.4   13.1   0.1   1.7   2   0   0   2   2   2   0 TSA: Lasius niger comp86916_c0_seq2 transcribed RNA sequence
+GFNO01047625.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.2   0.1       2.8   13.3   0.1   1.4   1   0   0   1   1   1   0 TSA: Lasius niger comp86916_c0_seq5 transcribed RNA sequence
+GFNO01047647.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.6   14.2   0.1       2.9   13.3   0.1   1.4   1   0   0   1   1   1   0 TSA: Lasius niger comp86916_c0_seq27 transcribed RNA sequence
+GFNO01047621.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   14.0   0.1       3.3   13.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Lasius niger comp86916_c0_seq1 transcribed RNA sequence
+GFNO01047641.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.2   13.2   0.3       9.2   11.7   0.1   1.8   2   0   0   2   2   2   0 TSA: Lasius niger comp86916_c0_seq21 transcribed RNA sequence
+GFNO01047640.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.4   13.1   0.1        11   11.4   0.1   1.8   1   0   0   1   1   1   0 TSA: Lasius niger comp86916_c0_seq20 transcribed RNA sequence
+GFNO01034053.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.6   13.0   0.1       3.6   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Lasius niger comp82368_c0_seq1 transcribed RNA sequence
+GFNO01047626.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.0   0.1        12   11.3   0.1   1.8   1   0   0   1   1   1   0 TSA: Lasius niger comp86916_c0_seq6 transcribed RNA sequence
+GFNO01047645.1_2     -          oskar_filtered.aligned.LOTUS_domain -                  4   12.9   0.1       8.3   11.8   0.1   1.5   1   0   0   1   1   1   0 TSA: Lasius niger comp86916_c0_seq25 transcribed RNA sequence
+GFNO01047644.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.2   12.8   0.1       8.7   11.8   0.1   1.4   1   0   0   1   1   1   0 TSA: Lasius niger comp86916_c0_seq24 transcribed RNA sequence
+GFNO01064667.1_5     -          oskar_filtered.aligned.LOTUS_domain -                4.8   12.6   2.9        60    9.1   0.4   2.1   2   0   0   2   2   2   0 TSA: Lasius niger comp89749_c13_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:17 2019
+# [ok]

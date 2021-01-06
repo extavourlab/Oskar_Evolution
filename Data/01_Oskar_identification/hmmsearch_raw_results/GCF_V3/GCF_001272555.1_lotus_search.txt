@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015438441.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-20   72.2   0.0   6.3e-20   70.8   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Dufourea novaeangliae]
+XP_015438442.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-20   72.2   0.0   6.3e-20   70.8   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Dufourea novaeangliae]
+XP_015438443.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-20   72.2   0.0   6.3e-20   70.8   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Dufourea novaeangliae]
+XP_015435780.1       -          oskar_filtered.aligned.LOTUS_domain -            5.7e-11   42.0  10.3   3.1e-08   33.3   0.1   4.2   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC107191296 [Dufourea novaeangliae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001272555.1_ASM127255v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001272555.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001272555.1_ASM127255v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:47 2019
+# [ok]

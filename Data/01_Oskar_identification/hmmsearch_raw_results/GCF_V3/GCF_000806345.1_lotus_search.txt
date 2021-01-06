@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011188082.1       -          oskar_filtered.aligned.LOTUS_domain -            9.9e-28   96.8   4.3   7.4e-26   90.8   0.0   4.5   5   0   0   5   5   5   1 maternal effect protein oskar [Zeugodacus cucurbitae]
+XP_011192994.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-18   67.3   0.2     8e-18   65.0   0.0   2.3   2   0   0   2   2   2   1 uncharacterized protein LOC105218853 [Zeugodacus cucurbitae]
+XP_011179383.1       -          oskar_filtered.aligned.LOTUS_domain -            9.2e-10   39.1   0.1   9.2e-10   39.1   0.1   3.1   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_011179384.1       -          oskar_filtered.aligned.LOTUS_domain -            9.2e-10   39.1   0.1   9.2e-10   39.1   0.1   3.1   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_028894956.1       -          oskar_filtered.aligned.LOTUS_domain -            9.2e-10   39.1   0.1   9.2e-10   39.1   0.1   3.1   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_028894957.1       -          oskar_filtered.aligned.LOTUS_domain -            9.2e-10   39.1   0.1   9.2e-10   39.1   0.1   3.1   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_028894959.1       -          oskar_filtered.aligned.LOTUS_domain -            9.2e-10   39.1   0.1   9.2e-10   39.1   0.1   3.1   2   0   0   2   2   2   1 uncharacterized protein LOC105210260 [Zeugodacus cucurbitae]
+XP_011193569.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0007   20.2   0.0    0.0009   19.9   0.0   1.1   1   0   0   1   1   1   1 uncharacterized protein LOC105219256 [Zeugodacus cucurbitae]
+XP_028894423.1       -          oskar_filtered.aligned.LOTUS_domain -              0.078   13.7   0.1        15    6.4   0.0   3.1   2   0   0   2   2   2   0 uncharacterized protein LOC105209574 isoform X2 [Zeugodacus cucurbitae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000806345.1_ASM80634v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000806345.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000806345.1_ASM80634v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:52 2019
+# [ok]

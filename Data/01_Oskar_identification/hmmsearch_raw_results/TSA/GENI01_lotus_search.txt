@@ -1,0 +1,61 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENI01154044.1_1     -          LOTUS_CONSENSUS      -              6e-21   80.1   0.1   7.8e-21   79.7   0.1   1.1   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k96_42659 transcribed RNA sequence
+GENI01130370.1_3     -          LOTUS_CONSENSUS      -            2.7e-19   74.8   0.1   6.1e-19   73.7   0.1   1.6   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k88_166068 transcribed RNA sequence
+GENI01134552.1_1     -          LOTUS_CONSENSUS      -            2.7e-19   74.8   2.2   7.3e-19   73.4   0.0   2.7   3   0   0   3   3   2   1 TSA: Palaephatus luteolus k90_133195 transcribed RNA sequence
+GENI01146808.1_5     -          LOTUS_CONSENSUS      -            2.9e-19   74.7   2.5   2.9e-19   74.7   0.1   2.3   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k92_216705 transcribed RNA sequence
+GENI01150803.1_6     -          LOTUS_CONSENSUS      -              6e-19   73.7   0.1     6e-19   73.7   0.1   2.4   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k94_171743 transcribed RNA sequence
+GENI01153520.1_1     -          LOTUS_CONSENSUS      -              6e-19   73.7   0.1     6e-19   73.7   0.1   2.7   3   0   0   3   3   2   1 TSA: Palaephatus luteolus k94_180711 transcribed RNA sequence
+GENI01024776.1_5     -          LOTUS_CONSENSUS      -            7.8e-15   60.5   0.1   2.2e-14   59.1   0.0   1.8   2   0   0   2   2   1   1 TSA: Palaephatus luteolus k52_421836 transcribed RNA sequence
+GENI01014120.1_1     -          LOTUS_CONSENSUS      -              1e-14   60.2   1.5   2.6e-14   58.8   0.0   2.5   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k52_403136 transcribed RNA sequence
+GENI01016320.1_4     -          LOTUS_CONSENSUS      -              1e-14   60.2   1.5   2.6e-14   58.8   0.0   2.5   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k52_406970 transcribed RNA sequence
+GENI01014119.1_1     -          LOTUS_CONSENSUS      -            1.1e-14   60.1   1.5   2.6e-14   58.8   0.0   2.4   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k52_403135 transcribed RNA sequence
+GENI01017395.1_1     -          LOTUS_CONSENSUS      -            1.1e-14   60.1   1.5   2.6e-14   58.8   0.0   2.4   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k52_408789 transcribed RNA sequence
+GENI01127693.1_3     -          LOTUS_CONSENSUS      -            1.6e-14   59.6   0.0   7.4e-14   57.4   0.0   2.2   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k88_148643 transcribed RNA sequence
+GENI01016817.1_1     -          LOTUS_CONSENSUS      -            1.7e-14   59.4   0.0   2.6e-14   58.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k52_407802 transcribed RNA sequence
+GENI01016818.1_1     -          LOTUS_CONSENSUS      -            1.7e-14   59.4   0.0   2.6e-14   58.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k52_407803 transcribed RNA sequence
+GENI01131905.1_1     -          LOTUS_CONSENSUS      -            2.1e-14   59.2   0.0   7.5e-14   57.4   0.0   2.0   2   0   0   2   2   1   1 TSA: Palaephatus luteolus k90_49408 transcribed RNA sequence
+GENI01131091.1_4     -          LOTUS_CONSENSUS      -              4e-14   58.2   0.0   1.2e-13   56.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k88_169874 transcribed RNA sequence
+GENI01054058.1_5     -          LOTUS_CONSENSUS      -              1e-13   57.0   0.0   3.1e-13   55.4   0.0   1.9   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k62_340945 transcribed RNA sequence
+GENI01054643.1_1     -          LOTUS_CONSENSUS      -              1e-13   56.9   0.0   3.1e-13   55.4   0.0   1.9   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k62_346525 transcribed RNA sequence
+GENI01054057.1_5     -          LOTUS_CONSENSUS      -            1.1e-13   56.8   0.0   3.1e-13   55.4   0.0   1.8   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k62_340944 transcribed RNA sequence
+GENI01105864.1_3     -          LOTUS_CONSENSUS      -            1.2e-12   53.6   0.0   2.7e-06   33.1   0.0   2.7   2   0   0   2   2   2   2 TSA: Palaephatus luteolus k80_238517 transcribed RNA sequence
+GENI01109415.1_6     -          LOTUS_CONSENSUS      -            2.4e-12   52.6   0.0   5.2e-06   32.2   0.0   3.0   3   0   0   3   3   2   2 TSA: Palaephatus luteolus k80_266417 transcribed RNA sequence
+GENI01026539.1_4     -          LOTUS_CONSENSUS      -            2.6e-12   52.4   0.0   4.1e-06   32.6   0.0   2.6   2   0   0   2   2   2   2 TSA: Palaephatus luteolus k52_424977 transcribed RNA sequence
+GENI01051254.1_4     -          LOTUS_CONSENSUS      -            4.7e-12   51.6   0.0   7.1e-06   31.8   0.0   3.0   3   0   0   3   3   2   2 TSA: Palaephatus luteolus k60_369389 transcribed RNA sequence
+GENI01079750.1_3     -          LOTUS_CONSENSUS      -            5.8e-12   51.3   0.0   7.9e-06   31.7   0.0   3.0   3   0   0   3   3   2   2 TSA: Palaephatus luteolus k70_334370 transcribed RNA sequence
+GENI01081595.1_6     -          LOTUS_CONSENSUS      -            5.8e-12   51.3   0.0   7.9e-06   31.7   0.0   3.0   3   0   0   3   3   2   2 TSA: Palaephatus luteolus k70_351838 transcribed RNA sequence
+GENI01012358.1_5     -          LOTUS_CONSENSUS      -            6.4e-12   51.2   0.0   8.2e-06   31.6   0.0   3.0   3   0   0   3   3   2   2 TSA: Palaephatus luteolus k52_399760 transcribed RNA sequence
+GENI01036246.1_1     -          LOTUS_CONSENSUS      -            4.9e-07   35.5   0.4    0.0012   24.6   0.0   2.8   2   1   1   3   3   3   2 TSA: Palaephatus luteolus k56_129830 transcribed RNA sequence
+GENI01074695.1_4     -          LOTUS_CONSENSUS      -            1.2e-06   34.3   1.2   3.8e-06   32.7   0.0   2.5   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k68_367932 transcribed RNA sequence
+GENI01097272.1_4     -          LOTUS_CONSENSUS      -            3.5e-06   32.8   1.7     1e-05   31.3   0.0   2.7   3   0   0   3   3   2   1 TSA: Palaephatus luteolus k76_284105 transcribed RNA sequence
+GENI01097096.1_1     -          LOTUS_CONSENSUS      -            3.6e-06   32.8   0.9     1e-05   31.3   0.0   2.4   3   0   0   3   3   1   1 TSA: Palaephatus luteolus k76_282867 transcribed RNA sequence
+GENI01097518.1_1     -          LOTUS_CONSENSUS      -            4.7e-06   32.4   0.0     1e-05   31.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Palaephatus luteolus k76_286195 transcribed RNA sequence
+GENI01112132.1_2     -          LOTUS_CONSENSUS      -              0.041   19.7   0.0     0.092   18.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k82_219639 transcribed RNA sequence
+GENI01156217.1_1     -          LOTUS_CONSENSUS      -                  1   15.2   0.2         2   14.3   0.1   1.5   1   1   0   1   1   1   0 TSA: Palaephatus luteolus k96_133850 transcribed RNA sequence
+GENI01020291.1_3     -          LOTUS_CONSENSUS      -                2.2   14.2   0.4       5.1   13.0   0.4   1.7   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k52_413861 transcribed RNA sequence
+GENI01140533.1_2     -          LOTUS_CONSENSUS      -                2.2   14.2   0.4       5.3   13.0   0.4   1.7   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k92_196876 transcribed RNA sequence
+GENI01140142.1_6     -          LOTUS_CONSENSUS      -                2.3   14.1   0.1       5.2   13.0   0.0   1.6   2   0   0   2   2   1   0 TSA: Palaephatus luteolus k92_179372 transcribed RNA sequence
+GENI01104021.1_4     -          LOTUS_CONSENSUS      -                2.8   13.8   1.4        32   10.4   0.2   2.1   1   1   1   2   2   2   0 TSA: Palaephatus luteolus k80_33620 transcribed RNA sequence
+GENI01123157.1_1     -          LOTUS_CONSENSUS      -                3.1   13.7   0.3       7.9   12.4   0.3   1.8   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k86_180477 transcribed RNA sequence
+GENI01123297.1_3     -          LOTUS_CONSENSUS      -                3.3   13.6   0.3       8.6   12.3   0.3   1.8   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k86_181193 transcribed RNA sequence
+GENI01126263.1_2     -          LOTUS_CONSENSUS      -                3.3   13.6   0.0       5.2   13.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k88_27960 transcribed RNA sequence
+GENI01106644.1_3     -          LOTUS_CONSENSUS      -                3.8   13.4   0.4       9.6   12.1   0.4   1.7   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k80_246867 transcribed RNA sequence
+GENI01123861.1_6     -          LOTUS_CONSENSUS      -                3.9   13.4   0.4       9.5   12.2   0.4   1.7   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k86_184769 transcribed RNA sequence
+GENI01048560.1_5     -          LOTUS_CONSENSUS      -                3.9   13.4   0.4       9.5   12.2   0.4   1.7   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k60_341383 transcribed RNA sequence
+GENI01018516.1_3     -          LOTUS_CONSENSUS      -                4.5   13.2   0.2        12   11.9   0.2   1.7   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k52_410719 transcribed RNA sequence
+GENI01152025.1_4     -          LOTUS_CONSENSUS      -                4.6   13.2   0.0        95    9.0   0.0   2.7   3   0   0   3   3   2   0 TSA: Palaephatus luteolus k94_176450 transcribed RNA sequence
+GENI01146590.1_5     -          LOTUS_CONSENSUS      -                5.2   13.0   0.4         7   12.6   0.4   1.2   1   0   0   1   1   1   0 TSA: Palaephatus luteolus k92_216326 transcribed RNA sequence
+GENI01058332.1_4     -          LOTUS_CONSENSUS      -                6.4   12.7   0.0   1.1e+02    8.7   0.0   2.7   3   0   0   3   3   2   0 TSA: Palaephatus luteolus k64_323627 transcribed RNA sequence
+GENI01113328.1_6     -          LOTUS_CONSENSUS      -                9.5   12.2   0.0   1.3e+02    8.5   0.0   2.6   3   0   0   3   3   2   0 TSA: Palaephatus luteolus k82_227991 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:09 2019
+# [ok]

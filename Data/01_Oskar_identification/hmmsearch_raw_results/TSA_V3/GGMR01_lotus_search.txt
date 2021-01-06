@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGMR01009730.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.4e-21   77.5   1.2   5.4e-21   77.5   1.2   2.3   2   1   0   2   2   2   1 TSA: Schizaphis graminum TR_DN19515_c2_g1_i14 transcribed RNA sequence
+GGMR01016625.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-19   70.2   0.9   1.6e-17   66.3   0.2   3.3   2   0   0   2   2   2   1 TSA: Schizaphis graminum TR_DN23228_c1_g2_i28 transcribed RNA sequence
+GGMR01013653.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-18   68.5  24.4     5e-12   48.7   0.1   6.2   7   0   0   7   7   7   3 TSA: Schizaphis graminum TR_DN20051_c0_g6_i3 transcribed RNA sequence
+GGMR01012203.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-18   68.4  24.4     5e-12   48.7   0.1   6.1   7   0   0   7   7   7   3 TSA: Schizaphis graminum TR_DN20051_c0_g2_i13 transcribed RNA sequence
+GGMR01001509.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-13   51.2   0.1   8.3e-13   51.2   0.1   3.2   3   1   0   3   3   3   1 TSA: Schizaphis graminum TR_DN20051_c0_g6_i8 transcribed RNA sequence
+GGMR01000946.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-11   45.9   0.1   3.6e-11   45.9   0.1   2.9   3   0   0   3   3   3   1 TSA: Schizaphis graminum TR_DN20389_c3_g1_i10 transcribed RNA sequence
+GGMR01005892.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-07   33.7   0.1   5.8e-07   32.4   0.1   1.6   1   0   0   1   1   1   1 TSA: Schizaphis graminum TR_DN20051_c0_g2_i7 transcribed RNA sequence
+GGMR01005892.1_2     -          oskar_filtered.aligned.LOTUS_domain -              2e-05   27.5  20.3    0.0036   20.2   0.2   5.9   6   0   0   6   6   6   2 TSA: Schizaphis graminum TR_DN20051_c0_g2_i7 transcribed RNA sequence
+GGMR01011909.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0065   19.4   1.7       1.5   11.8   0.3   3.2   2   0   0   2   2   2   1 TSA: Schizaphis graminum TR_DN20051_c0_g1_i5 transcribed RNA sequence
+GGMR01015427.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0075   19.2   1.7       1.5   11.9   0.3   3.0   2   0   0   2   2   2   1 TSA: Schizaphis graminum TR_DN20051_c0_g3_i6 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGMR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:11 2019
+# [ok]

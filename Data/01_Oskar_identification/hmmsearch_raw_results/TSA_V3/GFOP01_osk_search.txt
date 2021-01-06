@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOP01127659.1_3     -          oskar_filtered.aligned.OSK_domain -               0.93   14.5   0.5       1.5   13.8   0.5   1.4   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN38848_c0_g3_i1 transcribed RNA sequence
+GFOP01071938.1_6     -          oskar_filtered.aligned.OSK_domain -                  1   14.4   0.4       1.5   13.8   0.4   1.2   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN6042_c0_g2_i1 transcribed RNA sequence
+GFOP01058255.1_1     -          oskar_filtered.aligned.OSK_domain -                1.1   14.3   0.8         2   13.4   0.8   1.6   1   1   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN31346_c1_g1_i4 transcribed RNA sequence
+GFOP01073935.1_1     -          oskar_filtered.aligned.OSK_domain -                2.1   13.4   0.6       2.5   13.1   0.6   1.2   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN16628_c0_g2_i1 transcribed RNA sequence
+GFOP01127641.1_3     -          oskar_filtered.aligned.OSK_domain -                2.2   13.3   0.3       6.8   11.7   0.3   1.9   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN38848_c0_g2_i23 transcribed RNA sequence
+GFOP01058256.1_1     -          oskar_filtered.aligned.OSK_domain -                2.4   13.2   0.6       6.3   11.8   0.5   1.6   1   1   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN31346_c1_g1_i6 transcribed RNA sequence
+GFOP01045230.1_2     -          oskar_filtered.aligned.OSK_domain -                  3   12.9   0.0         3   12.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN50308_c0_g1_i1 transcribed RNA sequence
+GFOP01128905.1_6     -          oskar_filtered.aligned.OSK_domain -                4.3   12.3   0.6        31    9.6   0.6   1.9   1   1   1   2   2   2   0 TSA: Lepidotrigona ventralis TRINITY_DN22755_c0_g1_i2 transcribed RNA sequence
+GFOP01035514.1_2     -          oskar_filtered.aligned.OSK_domain -                5.6   12.0   2.7       6.5   11.8   2.7   1.2   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN9927_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:17 2019
+# [ok]

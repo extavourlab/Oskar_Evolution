@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEZK01172297.1_3     -          OSK_CONSENSUS        -            3.2e-23   88.3   0.1   7.4e-23   87.1   0.1   1.6   1   0   0   1   1   1   1 TSA: Bemisia tabaci c164727_g1 transcribed RNA sequence
+GEZK01175399.1_1     -          OSK_CONSENSUS        -            8.2e-05   28.5   0.0   9.4e-05   28.3   0.0   1.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci c216707_g1 transcribed RNA sequence
+GEZK01059341.1_1     -          OSK_CONSENSUS        -               0.12   18.1   0.1      0.15   17.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci c178373_g1 transcribed RNA sequence
+GEZK01226702.1_6     -          OSK_CONSENSUS        -               0.21   17.4   0.0      0.36   16.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci c161574_g1 transcribed RNA sequence
+GEZK01005789.1_5     -          OSK_CONSENSUS        -               0.27   17.0   0.0      0.46   16.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Bemisia tabaci c163741_g2 transcribed RNA sequence
+GEZK01188365.1_5     -          OSK_CONSENSUS        -               0.85   15.4   0.1      0.95   15.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci c221522_g1 transcribed RNA sequence
+GEZK01138294.1_6     -          OSK_CONSENSUS        -                1.4   14.7   0.2       1.9   14.3   0.2   1.5   1   1   0   1   1   1   0 TSA: Bemisia tabaci c89444_g1 transcribed RNA sequence
+GEZK01103915.1_5     -          OSK_CONSENSUS        -                2.8   13.7   0.0       2.8   13.7   0.0   1.0   1   0   0   1   1   1   0 TSA: Bemisia tabaci c15137_g1 transcribed RNA sequence
+GEZK01234449.1_2     -          OSK_CONSENSUS        -                2.9   13.7   0.3       4.2   13.2   0.3   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci c233930_g1 transcribed RNA sequence
+GEZK01009912.1_5     -          OSK_CONSENSUS        -                3.7   13.3   0.1         4   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci c262536_g1 transcribed RNA sequence
+GEZK01227929.1_3     -          OSK_CONSENSUS        -                3.8   13.3   0.3       5.5   12.8   0.3   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci c115914_g1 transcribed RNA sequence
+GEZK01214268.1_3     -          OSK_CONSENSUS        -                4.2   13.1   0.2       5.9   12.7   0.2   1.4   1   1   0   1   1   1   0 TSA: Bemisia tabaci c183942_g1 transcribed RNA sequence
+GEZK01026623.1_6     -          OSK_CONSENSUS        -                5.2   12.9   0.1       5.9   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci c276756_g1 transcribed RNA sequence
+GEZK01168994.1_3     -          OSK_CONSENSUS        -                5.4   12.8   0.0       9.3   12.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Bemisia tabaci c159984_g2 transcribed RNA sequence
+GEZK01087900.1_2     -          OSK_CONSENSUS        -                5.6   12.8   0.1       6.2   12.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci c232147_g1 transcribed RNA sequence
+GEZK01131875.1_5     -          OSK_CONSENSUS        -                6.8   12.5   0.0        12   11.7   0.0   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci c53409_g1 transcribed RNA sequence
+GEZK01069424.1_6     -          OSK_CONSENSUS        -                7.1   12.4   0.0        16   11.2   0.0   1.6   1   0   0   1   1   1   0 TSA: Bemisia tabaci c169340_g2 transcribed RNA sequence
+GEZK01061840.1_6     -          OSK_CONSENSUS        -                8.8   12.1   0.0        11   11.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci c117925_g1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEZK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:22 2019
+# [ok]

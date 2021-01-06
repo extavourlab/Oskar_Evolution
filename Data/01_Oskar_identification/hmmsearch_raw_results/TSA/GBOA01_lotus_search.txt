@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOA01023428.1_6     -          LOTUS_CONSENSUS      -            1.1e-15   60.6   0.2   7.7e-15   57.9   0.0   2.6   2   0   0   2   2   2   1 TSA: Spilomena beata s7426_L_20939_0_a_26_7_l_4201 transcribed RNA sequence
+GBOA01008049.1_4     -          LOTUS_CONSENSUS      -            1.2e-05   28.5   0.1    0.0009   22.4   0.0   2.3   2   1   0   2   2   2   1 TSA: Spilomena beata C62316_a_3_0_l_465 transcribed RNA sequence
+GBOA01019974.1_1     -          LOTUS_CONSENSUS      -              0.065   16.5   0.0        13    9.1   0.0   4.1   4   1   1   5   5   5   0 TSA: Spilomena beata s4296_L_7345_0_a_34_1_l_6682 transcribed RNA sequence
+GBOA01008206.1_4     -          LOTUS_CONSENSUS      -               0.33   14.2   0.0      0.47   13.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Spilomena beata C62930_a_39_0_l_475 transcribed RNA sequence
+GBOA01016066.1_4     -          LOTUS_CONSENSUS      -               0.33   14.2   0.3      0.83   12.9   0.3   1.7   1   0   0   1   1   1   0 TSA: Spilomena beata C98705_a_6_0_l_2926 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:32 2019
+# [ok]

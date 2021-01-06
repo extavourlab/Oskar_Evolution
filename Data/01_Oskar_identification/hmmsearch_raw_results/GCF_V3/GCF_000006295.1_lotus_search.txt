@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002426308.1       -          oskar_filtered.aligned.LOTUS_domain -            8.4e-17   60.6   0.2   1.1e-16   60.2   0.2   1.2   1   0   0   1   1   1   1 hypothetical protein Phum_PHUM247930 [Pediculus humanus corporis]
+XP_002433103.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-15   56.2   5.4   2.3e-15   56.0   0.0   3.6   4   0   0   4   4   4   1 conserved hypothetical protein [Pediculus humanus corporis]
+XP_002427545.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-06   26.3   3.0       2.5    7.7   0.0   6.9   5   1   3   8   8   8   2 conserved hypothetical protein [Pediculus humanus corporis]
+XP_002429804.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0012   18.4   1.8       1.6    8.4   0.0   3.7   4   0   0   4   4   4   2 Annexin A2, putative [Pediculus humanus corporis]
+XP_002429926.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   13.3   0.5      0.23   11.0   0.2   2.4   2   0   0   2   2   2   0 conserved hypothetical protein [Pediculus humanus corporis]
+XP_002431739.1       -          oskar_filtered.aligned.LOTUS_domain -                7.8    6.1  11.9       3.2    7.4   0.0   3.3   3   1   0   3   3   3   0 Ethanolamine kinase, putative [Pediculus humanus corporis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000006295.1_JCVI_LOUSE_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000006295.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000006295.1_JCVI_LOUSE_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:38 2019
+# [ok]

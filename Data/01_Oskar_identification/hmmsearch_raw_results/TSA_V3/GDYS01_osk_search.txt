@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYS01020314.1_1     -          oskar_filtered.aligned.OSK_domain -                2.1   12.0   0.3       2.5   11.7   0.3   1.2   1   0   0   1   1   1   0 TSA: Eurycotis floridana breed wildtype C150748_a_4_0_l_475, transcribed RNA sequence
+GDYS01042644.1_6     -          oskar_filtered.aligned.OSK_domain -                5.1   10.7   2.3       5.2   10.7   2.3   1.0   1   0   0   1   1   1   0 TSA: Eurycotis floridana breed wildtype C97714_a_7_0_l_236, transcribed RNA sequence
+GDYS01050238.1_1     -          oskar_filtered.aligned.OSK_domain -                9.3    9.9   4.8        21    8.8   4.7   1.7   1   1   0   1   1   1   0 TSA: Eurycotis floridana breed wildtype s6948_L_40641_0_a_16_7_l_1549, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:49 2019
+# [ok]

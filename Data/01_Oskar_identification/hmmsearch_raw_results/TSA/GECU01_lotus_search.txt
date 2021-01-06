@@ -1,0 +1,37 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECU01037891.1_1     -          LOTUS_CONSENSUS      -            5.1e-14   55.9   0.1   2.7e-09   40.8   0.0   3.8   4   0   0   4   4   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i2 transcribed RNA sequence
+GECU01028152.1_1     -          LOTUS_CONSENSUS      -            5.7e-14   55.8   0.0   2.6e-09   40.8   0.0   3.6   3   0   0   3   3   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i12 transcribed RNA sequence
+GECU01019984.1_1     -          LOTUS_CONSENSUS      -            5.8e-14   55.7   0.1   2.8e-09   40.7   0.0   3.8   4   0   0   4   4   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i5 transcribed RNA sequence
+GECU01027633.1_1     -          LOTUS_CONSENSUS      -            6.3e-14   55.6   0.5   2.9e-09   40.7   0.0   4.0   5   0   0   5   5   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i4 transcribed RNA sequence
+GECU01035586.1_2     -          LOTUS_CONSENSUS      -            7.1e-14   55.5   0.1   3.6e-09   40.4   0.0   3.7   4   0   0   4   4   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i19 transcribed RNA sequence
+GECU01029767.1_2     -          LOTUS_CONSENSUS      -              8e-14   55.3   0.0   3.5e-09   40.4   0.0   3.6   3   0   0   3   3   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i11 transcribed RNA sequence
+GECU01023197.1_2     -          LOTUS_CONSENSUS      -            8.1e-14   55.3   0.1   3.7e-09   40.3   0.0   3.8   4   0   0   4   4   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i3 transcribed RNA sequence
+GECU01012927.1_1     -          LOTUS_CONSENSUS      -            8.3e-14   55.2   0.1   3.3e-09   40.5   0.0   3.8   4   0   0   4   4   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i1 transcribed RNA sequence
+GECU01029189.1_2     -          LOTUS_CONSENSUS      -              9e-14   55.1   0.5   3.9e-09   40.3   0.0   3.9   5   0   0   5   5   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i7 transcribed RNA sequence
+GECU01004823.1_1     -          LOTUS_CONSENSUS      -            9.1e-14   55.1   0.0   3.2e-09   40.6   0.0   3.6   3   0   0   3   3   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i6 transcribed RNA sequence
+GECU01027625.1_2     -          LOTUS_CONSENSUS      -            1.2e-13   54.8   0.1   4.4e-09   40.1   0.0   3.8   4   0   0   4   4   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i9 transcribed RNA sequence
+GECU01011640.1_2     -          LOTUS_CONSENSUS      -            1.3e-13   54.7   0.0   4.2e-09   40.2   0.0   3.6   3   0   0   3   3   3   2 TSA: Homalodisca liturata TR26130_c0_g3_i10 transcribed RNA sequence
+GECU01027722.1_1     -          LOTUS_CONSENSUS      -              2e-10   44.4   0.0     1e-09   42.1   0.0   2.1   2   1   0   2   2   2   1 TSA: Homalodisca liturata TR26130_c0_g3_i15 transcribed RNA sequence
+GECU01014638.1_1     -          LOTUS_CONSENSUS      -            2.9e-10   43.9   0.0   9.4e-10   42.3   0.0   1.9   1   0   0   1   1   1   1 TSA: Homalodisca liturata TR26130_c0_g3_i14 transcribed RNA sequence
+GECU01026084.1_1     -          LOTUS_CONSENSUS      -            5.1e-10   43.1   0.0   1.4e-09   41.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Homalodisca liturata TR26130_c0_g3_i18 transcribed RNA sequence
+GECU01011061.1_2     -          LOTUS_CONSENSUS      -            1.1e-09   42.0   0.0   2.5e-09   40.9   0.0   1.5   2   0   0   2   2   1   1 TSA: Homalodisca liturata TR26130_c0_g3_i8 transcribed RNA sequence
+GECU01037540.1_1     -          LOTUS_CONSENSUS      -            2.7e-09   40.8   0.0   1.3e-08   38.6   0.0   2.1   2   0   0   2   2   2   1 TSA: Homalodisca liturata TR26130_c0_g3_i17 transcribed RNA sequence
+GECU01031280.1_1     -          LOTUS_CONSENSUS      -            3.7e-09   40.3   0.0   1.2e-08   38.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Homalodisca liturata TR26130_c0_g3_i16 transcribed RNA sequence
+GECU01034339.1_2     -          LOTUS_CONSENSUS      -            4.8e-09   40.0   0.0   1.6e-08   38.3   0.0   1.9   1   0   0   1   1   1   1 TSA: Homalodisca liturata TR26130_c0_g3_i13 transcribed RNA sequence
+GECU01024686.1_2     -          LOTUS_CONSENSUS      -            8.4e-06   29.6   0.0        15    9.5   0.0   4.9   3   1   3   6   6   5   2 TSA: Homalodisca liturata TR25741_c0_g2_i1 transcribed RNA sequence
+GECU01019549.1_1     -          LOTUS_CONSENSUS      -             0.0071   20.2   0.0       6.3   10.7   0.0   3.9   3   2   2   5   5   5   1 TSA: Homalodisca liturata TR19296_c0_g2_i1 transcribed RNA sequence
+GECU01013168.1_1     -          LOTUS_CONSENSUS      -             0.0084   20.0   0.0       6.5   10.7   0.0   3.8   3   2   2   5   5   5   1 TSA: Homalodisca liturata TR19296_c0_g2_i2 transcribed RNA sequence
+GECU01024604.1_3     -          LOTUS_CONSENSUS      -              0.012   19.5   0.0        19    9.2   0.0   2.2   2   0   0   2   2   2   0 TSA: Homalodisca liturata TR10110_c0_g1_i1 transcribed RNA sequence
+GECU01013502.1_3     -          LOTUS_CONSENSUS      -               0.29   15.0   1.0   1.8e+02    6.1   0.0   4.0   3   1   0   4   4   4   0 TSA: Homalodisca liturata TR26590_c0_g7_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:03 2019
+# [ok]

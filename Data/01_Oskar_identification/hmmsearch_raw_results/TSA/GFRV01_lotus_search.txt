@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFRV01005639.1_2     -          LOTUS_CONSENSUS      -            9.6e-14   55.0   0.0   8.9e-12   48.7   0.0   2.5   2   0   0   2   2   2   1 TSA: Plutella xylostella CL3390Contig1 transcribed RNA sequence
+GFRV01007737.1_5     -          LOTUS_CONSENSUS      -              5e-13   52.7   0.0   3.7e-07   33.9   0.0   2.8   2   0   0   2   2   2   2 TSA: Plutella xylostella CL12290Contig1 transcribed RNA sequence
+GFRV01018470.1_5     -          LOTUS_CONSENSUS      -             0.0075   20.1   0.0    0.0091   19.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Plutella xylostella TRINITY_DN31329_c0_g1_i2 transcribed RNA sequence
+GFRV01021661.1_4     -          LOTUS_CONSENSUS      -               0.41   14.5   0.0      0.91   13.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Plutella xylostella TRINITY_DN34147_c1_g11_i1 transcribed RNA sequence
+GFRV01000689.1_4     -          LOTUS_CONSENSUS      -                0.9   13.4   0.0       1.9   12.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Plutella xylostella CL122Contig4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFRV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFRV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFRV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:54 2019
+# [ok]

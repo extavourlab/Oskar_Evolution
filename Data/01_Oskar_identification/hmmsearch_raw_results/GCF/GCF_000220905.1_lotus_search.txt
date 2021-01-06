@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012148923.1       -          LOTUS_CONSENSUS      -            3.7e-19   69.4   0.1   1.8e-18   67.2   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like isoform X2 [Megachile rotundata]
+XP_003706804.1       -          LOTUS_CONSENSUS      -            3.7e-19   69.4   0.1   1.8e-18   67.1   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like isoform X1 [Megachile rotundata]
+XP_012152343.1       -          LOTUS_CONSENSUS      -            1.6e-14   54.5  14.7   2.6e-12   47.4   0.2   5.0   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC100880736 isoform X4 [Megachile rotundata]
+XP_012152342.1       -          LOTUS_CONSENSUS      -            1.9e-14   54.3  14.7   2.7e-12   47.4   0.2   5.0   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC100880736 isoform X3 [Megachile rotundata]
+XP_012152341.1       -          LOTUS_CONSENSUS      -            1.1e-13   51.8   0.7   3.3e-12   47.1   0.2   5.6   6   0   0   6   6   6   2 PREDICTED: protein PF14_0175-like isoform X2 [Megachile rotundata]
+XP_012152340.1       -          LOTUS_CONSENSUS      -            1.1e-13   51.8   0.7   3.3e-12   47.1   0.2   5.7   7   0   0   7   7   7   2 PREDICTED: protein PF14_0175-like isoform X1 [Megachile rotundata]
+XP_012145410.1       -          LOTUS_CONSENSUS      -            4.5e-05   24.2   0.1       4.7    8.1   0.0   6.1   2   1   3   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X5 [Megachile rotundata]
+XP_012145403.1       -          LOTUS_CONSENSUS      -            5.8e-05   23.9   0.1       5.2    8.0   0.0   6.0   2   1   3   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X4 [Megachile rotundata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000220905.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:01 2019
+# [ok]

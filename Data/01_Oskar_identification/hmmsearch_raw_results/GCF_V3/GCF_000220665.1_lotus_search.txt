@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017058667.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-25   89.1   0.4   2.7e-24   85.8   0.2   2.6   2   0   0   2   2   2   1 PREDICTED: maternal effect protein oskar [Drosophila ficusphila]
+XP_017061420.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-14   53.6   0.1   1.9e-13   50.9   0.0   2.5   3   0   0   3   3   3   1 PREDICTED: uncharacterized protein LOC108101543 [Drosophila ficusphila]
+XP_017051201.1       -          oskar_filtered.aligned.LOTUS_domain -              6e-14   52.6   0.0   2.1e-13   50.8   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108094881 isoform X1 [Drosophila ficusphila]
+XP_017051205.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-13   51.2   0.0   1.6e-13   51.2   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108094881 isoform X4 [Drosophila ficusphila]
+XP_017051204.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-13   51.2   0.0   1.6e-13   51.2   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108094881 isoform X3 [Drosophila ficusphila]
+XP_017057495.1       -          oskar_filtered.aligned.LOTUS_domain -            4.2e-06   27.4   0.0   4.9e-06   27.1   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108098842 [Drosophila ficusphila]
+XP_017043680.1       -          oskar_filtered.aligned.LOTUS_domain -            6.2e-06   26.8   0.0     7e-06   26.7   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108089795 [Drosophila ficusphila]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220665.1_Dfic_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000220665.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220665.1_Dfic_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:04 2019
+# [ok]

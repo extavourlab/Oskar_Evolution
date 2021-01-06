@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAET01022786.1_3     -          OSK_CONSENSUS        -              0.065   17.9   0.0     0.077   17.7   0.0   1.3   1   1   0   1   1   1   0 TSA: Proasellus coxalis, contig comp31130_c0_seq1, transcribed RNA sequence
+HAET01056943.1_3     -          OSK_CONSENSUS        -              0.066   17.9   0.3      0.17   16.6   0.3   1.7   1   0   0   1   1   1   0 TSA: Proasellus coxalis, contig comp43143_c0_seq3, transcribed RNA sequence
+HAET01052316.1_2     -          OSK_CONSENSUS        -               0.09   17.5   0.0      0.23   16.1   0.0   1.6   1   0   0   1   1   1   0 TSA: Proasellus coxalis, contig comp42770_c1_seq3, transcribed RNA sequence
+HAET01093186.1_1     -          OSK_CONSENSUS        -               0.43   15.3   0.5      0.81   14.3   0.5   1.5   1   1   0   1   1   1   0 TSA: Proasellus coxalis, contig comp676415_c0_seq1, transcribed RNA sequence
+HAET01071591.1_5     -          OSK_CONSENSUS        -               0.87   14.2   0.2         1   14.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Proasellus coxalis, contig comp334200_c0_seq1, transcribed RNA sequence
+HAET01074524.1_4     -          OSK_CONSENSUS        -                  1   14.0   0.1       1.2   13.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus coxalis, contig comp376516_c0_seq1, transcribed RNA sequence
+HAET01075278.1_5     -          OSK_CONSENSUS        -                1.6   13.4   0.0       2.1   13.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Proasellus coxalis, contig comp383875_c0_seq1, transcribed RNA sequence
+HAET01099581.1_5     -          OSK_CONSENSUS        -                  4   12.1   0.1       5.1   11.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus coxalis, contig comp857793_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAET.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAET.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAET.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:41 2019
+# [ok]

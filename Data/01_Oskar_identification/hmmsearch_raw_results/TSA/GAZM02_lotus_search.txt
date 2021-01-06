@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZM02015112.1_5     -          LOTUS_CONSENSUS      -            5.4e-06   29.3   0.1     8e-06   28.7   0.1   1.3   1   0   0   1   1   1   1 TSA: Stylops melittae s3757_L_4376_0_a_4_2_l_528 transcribed RNA sequence
+GAZM02009671.1_4     -          LOTUS_CONSENSUS      -            1.4e-05   27.9   0.2    0.0021   21.0   0.0   2.1   1   1   1   2   2   2   2 TSA: Stylops melittae C86206_a_4_0_l_538 transcribed RNA sequence
+GAZM02013771.1_6     -          LOTUS_CONSENSUS      -            5.4e-05   26.1   1.1        91    6.1   0.0   5.5   2   2   3   5   5   5   3 TSA: Stylops melittae s2522_L_2624_0_a_42_4_l_4950 transcribed RNA sequence
+GAZM02013772.1_4     -          LOTUS_CONSENSUS      -            6.1e-05   25.9   1.2        92    6.1   0.0   5.5   2   2   3   5   5   5   3 TSA: Stylops melittae s2523_L_2624_1_a_42_3_l_5035 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZM02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZM02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZM02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:52 2019
+# [ok]

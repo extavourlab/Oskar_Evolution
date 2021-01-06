@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNL01016523.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-20   74.0   0.1   3.4e-19   71.8   0.0   2.2   2   0   0   2   2   2   1 TSA: Sceliphron curvatum s2108_L_2686_0_a_8_6_l_3409 transcribed RNA sequence
+GBNL01016524.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-20   73.9   0.5   3.6e-19   71.8   0.0   2.5   3   0   0   3   3   3   1 TSA: Sceliphron curvatum s2109_L_2686_1_a_8_5_l_3506 transcribed RNA sequence
+GBNL01015627.1_5     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-17   64.5   0.0   8.7e-13   51.3   0.0   2.8   2   0   0   2   2   2   2 TSA: Sceliphron curvatum s1301_L_1568_0_a_26_5_l_9234 transcribed RNA sequence
+GBNL01022135.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-05   27.8   0.0        41    7.4   0.0   5.6   2   1   3   5   5   5   2 TSA: Sceliphron curvatum s7169_L_18694_0_a_16_4_l_4631 transcribed RNA sequence
+GBNL01001807.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.95   12.6   0.0       1.8   11.7   0.0   1.6   1   1   0   1   1   1   0 TSA: Sceliphron curvatum C35413_a_3_0_l_249 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:49 2019
+# [ok]

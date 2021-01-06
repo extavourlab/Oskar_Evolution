@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDNH01019209.1_6     -          OSK_CONSENSUS        -            0.00078   22.7   0.0    0.0011   22.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Sinaspidytes wrasei breed wildtype C168589_a_6_0_l_568, transcribed RNA sequence
+GDNH01015958.1_2     -          OSK_CONSENSUS        -               0.23   14.7   0.0       0.3   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype C154141_a_6_0_l_389, transcribed RNA sequence
+GDNH01023846.1_5     -          OSK_CONSENSUS        -               0.26   14.5   1.6       1.8   11.8   0.1   2.4   2   0   0   2   2   2   0 TSA: Sinaspidytes wrasei breed wildtype C195983_a_13_0_l_2369, transcribed RNA sequence
+GDNH01012147.1_3     -          OSK_CONSENSUS        -               0.28   14.4   0.0      0.34   14.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype C139770_a_10_0_l_296, transcribed RNA sequence
+GDNH01030944.1_1     -          OSK_CONSENSUS        -               0.53   13.5   1.8      0.62   13.3   1.8   1.1   1   0   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype s4020_L_5125_0_a_3_0_l_270, transcribed RNA sequence
+GDNH01009232.1_4     -          OSK_CONSENSUS        -               0.56   13.4   0.0      0.69   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype C130553_a_3_0_l_262, transcribed RNA sequence
+GDNH01008684.1_2     -          OSK_CONSENSUS        -                7.4    9.8   3.8        18    8.5   0.3   2.1   1   1   1   2   2   2   0 TSA: Sinaspidytes wrasei breed wildtype C129049_a_8_0_l_259, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDNH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:11:02 2019
+# [ok]

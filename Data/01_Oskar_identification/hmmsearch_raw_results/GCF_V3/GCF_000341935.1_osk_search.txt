@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015610266.1       -          oskar_filtered.aligned.OSK_domain -              0.018   15.5   0.2     0.059   13.8   0.2   1.8   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X2 [Cephus cinctus]
+XP_024935673.1       -          oskar_filtered.aligned.OSK_domain -              0.022   15.3   0.2     0.061   13.8   0.2   1.7   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X1 [Cephus cinctus]
+XP_024935674.1       -          oskar_filtered.aligned.OSK_domain -              0.024   15.1   0.2     0.057   13.9   0.2   1.6   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X3 [Cephus cinctus]
+XP_015601216.1       -          oskar_filtered.aligned.OSK_domain -                0.2   12.1   0.7      0.34   11.4   0.7   1.3   1   0   0   1   1   1   0 GTP-binding protein 10 homolog isoform X3 [Cephus cinctus]
+XP_015601217.1       -          oskar_filtered.aligned.OSK_domain -                0.2   12.1   0.7      0.34   11.4   0.7   1.3   1   0   0   1   1   1   0 GTP-binding protein 10 homolog isoform X3 [Cephus cinctus]
+XP_024943688.1       -          oskar_filtered.aligned.OSK_domain -                0.2   12.1   0.7      0.34   11.4   0.7   1.3   1   0   0   1   1   1   0 GTP-binding protein 10 homolog isoform X3 [Cephus cinctus]
+XP_024943689.1       -          oskar_filtered.aligned.OSK_domain -                0.2   12.1   0.7      0.34   11.4   0.7   1.3   1   0   0   1   1   1   0 GTP-binding protein 10 homolog isoform X3 [Cephus cinctus]
+XP_015601215.1       -          oskar_filtered.aligned.OSK_domain -               0.24   11.8   0.7       0.4   11.1   0.7   1.3   1   0   0   1   1   1   0 GTP-binding protein 10 homolog isoform X2 [Cephus cinctus]
+XP_024943687.1       -          oskar_filtered.aligned.OSK_domain -               0.28   11.7   0.9      0.48   10.9   0.9   1.3   1   0   0   1   1   1   0 GTP-binding protein 10 homolog isoform X1 [Cephus cinctus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000341935.1_Ccin1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000341935.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000341935.1_Ccin1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:00 2019
+# [ok]

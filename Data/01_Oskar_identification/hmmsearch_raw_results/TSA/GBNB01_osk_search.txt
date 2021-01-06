@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNB01017881.1_4     -          OSK_CONSENSUS        -              0.012   18.0   0.2       1.5   11.2   0.0   2.2   2   0   0   2   2   2   0 TSA: Stizus continuus s2876_L_5351_1_a_21_2_l_1269 transcribed RNA sequence
+GBNB01012505.1_2     -          OSK_CONSENSUS        -               0.78   12.1   1.3        27    7.1   0.1   2.4   1   1   1   2   2   2   0 TSA: Stizus continuus C57598_a_4_0_l_1270 transcribed RNA sequence
+GBNB01011041.1_5     -          OSK_CONSENSUS        -                4.7    9.6   5.3         1   11.7   0.6   2.0   2   0   0   2   2   2   0 TSA: Stizus continuus C52608_a_3_0_l_925 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:15 2019
+# [ok]

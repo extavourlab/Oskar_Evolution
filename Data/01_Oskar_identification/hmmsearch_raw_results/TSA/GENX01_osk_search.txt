@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENX01334727.1_6     -          OSK_CONSENSUS        -              0.075   19.4   2.6       4.7   13.5   0.8   2.1   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR398236-c0_g3_i1 transcribed RNA sequence
+GENX01246085.1_3     -          OSK_CONSENSUS        -               0.25   17.7   0.1      0.31   17.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR309534-c0_g7_i1 transcribed RNA sequence
+GENX01262652.1_6     -          OSK_CONSENSUS        -                1.4   15.3   2.6   1.2e+02    9.0   0.2   2.0   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR320657-c0_g1_i2 transcribed RNA sequence
+GENX01208569.1_3     -          OSK_CONSENSUS        -                1.8   14.9   1.3       2.1   14.7   1.3   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR287094-c8_g1_i2 transcribed RNA sequence
+GENX01016856.1_6     -          OSK_CONSENSUS        -                  2   14.7   1.7        23   11.3   0.2   2.0   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR21069-c0_g1_i1 transcribed RNA sequence
+GENX01181948.1_4     -          OSK_CONSENSUS        -                2.1   14.6   0.3       2.5   14.4   0.3   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR269942-c22_g5_i1 transcribed RNA sequence
+GENX01035607.1_2     -          OSK_CONSENSUS        -                3.4   14.0   0.0       3.9   13.8   0.0   1.0   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR44434-c0_g3_i1 transcribed RNA sequence
+GENX01193779.1_4     -          OSK_CONSENSUS        -                3.7   13.9   0.2       3.9   13.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR277339-c3_g2_i1 transcribed RNA sequence
+GENX01181574.1_5     -          OSK_CONSENSUS        -                3.8   13.8   0.2       4.4   13.6   0.2   1.0   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR269885-c3_g2_i1 transcribed RNA sequence
+GENX01111511.1_1     -          OSK_CONSENSUS        -                4.4   13.6   0.5       6.2   13.1   0.5   1.3   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR165015-c0_g1_i1 transcribed RNA sequence
+GENX01203594.1_2     -          OSK_CONSENSUS        -                4.4   13.6   0.0       5.5   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR283449-c0_g1_i1 transcribed RNA sequence
+GENX01181957.1_4     -          OSK_CONSENSUS        -                  6   13.2   0.3         7   13.0   0.3   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR269942-c22_g11_i2 transcribed RNA sequence
+GENX01255915.1_2     -          OSK_CONSENSUS        -                6.1   13.2   1.5       7.6   12.8   1.5   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR316342-c5_g1_i1 transcribed RNA sequence
+GENX01225357.1_6     -          OSK_CONSENSUS        -                7.3   12.9   0.1        10   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR296945-c0_g1_i1 transcribed RNA sequence
+GENX01181956.1_4     -          OSK_CONSENSUS        -                8.4   12.7   0.5        12   12.1   0.4   1.3   1   1   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR269942-c22_g11_i1 transcribed RNA sequence
+GENX01225358.1_6     -          OSK_CONSENSUS        -                9.7   12.5   0.1        14   12.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR296945-c0_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:51 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCDM01001588.1_2     -          OSK_CONSENSUS        -            3.2e-30  108.3   0.0   4.7e-30  107.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Mortonagrion selenion C105334_a_16_0_l_1137 transcribed RNA sequence
+GCDM01011153.1_2     -          OSK_CONSENSUS        -               0.05   16.7   0.1         3   10.9   0.0   2.0   1   1   1   2   2   2   0 TSA: Mortonagrion selenion C52950_a_3_0_l_257 transcribed RNA sequence
+GCDM01027856.1_2     -          OSK_CONSENSUS        -               0.19   14.8   0.3      0.43   13.7   0.3   1.5   1   0   0   1   1   1   0 TSA: Mortonagrion selenion s1972_L_2366_0_a_6_8_l_1614 transcribed RNA sequence
+GCDM01027857.1_2     -          OSK_CONSENSUS        -               0.23   14.5   0.3      0.53   13.4   0.3   1.6   1   0   0   1   1   1   0 TSA: Mortonagrion selenion s1973_L_2366_1_a_6_7_l_1846 transcribed RNA sequence
+GCDM01029153.1_2     -          OSK_CONSENSUS        -               0.37   13.9   0.0      0.58   13.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Mortonagrion selenion s314_L_289_2_a_12_6_l_1132 transcribed RNA sequence
+GCDM01017339.1_4     -          OSK_CONSENSUS        -               0.89   12.6   0.0       1.3   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Mortonagrion selenion C70607_a_4_0_l_374 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCDM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCDM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCDM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:03 2019
+# [ok]

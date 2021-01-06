@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBZL01023940.1_3     -          LOTUS_CONSENSUS      -            1.6e-16   64.2   1.4   1.7e-14   57.7   0.0   3.5   4   0   0   4   4   4   1 TSA: Actias selene Unigene24368_Acsel transcribed RNA sequence
+GBZL01015026.1_3     -          LOTUS_CONSENSUS      -              0.031   18.4   0.1        21    9.4   0.0   2.7   3   0   0   3   3   3   0 TSA: Actias selene Unigene15323_Acsel transcribed RNA sequence
+GBZL01004921.1_5     -          LOTUS_CONSENSUS      -               0.17   16.1   1.1        15    9.8   0.0   3.6   1   1   2   3   3   3   0 TSA: Actias selene Unigene5011_Acsel transcribed RNA sequence
+GBZL01013049.1_1     -          LOTUS_CONSENSUS      -                0.5   14.6   0.5     1e+02    7.1   0.3   2.3   2   0   0   2   2   2   0 TSA: Actias selene Unigene13320_Acsel transcribed RNA sequence
+GBZL01044447.1_2     -          LOTUS_CONSENSUS      -                1.2   13.4   0.1       1.5   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Actias selene Unigene46267_Acsel transcribed RNA sequence
+GBZL01005552.1_5     -          LOTUS_CONSENSUS      -                1.7   12.8   2.6         4   11.7   0.5   2.0   2   0   0   2   2   2   0 TSA: Actias selene Unigene5654_Acsel transcribed RNA sequence
+GBZL01038195.1_4     -          LOTUS_CONSENSUS      -                1.8   12.8   0.0         2   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Actias selene Unigene38906_Acsel transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBZL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:32 2019
+# [ok]

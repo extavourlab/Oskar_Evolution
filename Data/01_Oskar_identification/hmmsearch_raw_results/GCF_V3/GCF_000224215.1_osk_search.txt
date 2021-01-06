@@ -1,0 +1,15 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017031605.1       -          oskar_filtered.aligned.OSK_domain -            2.6e-90  301.4   0.0   5.5e-90  300.4   0.0   1.6   1   0   0   1   1   1   1 PREDICTED: maternal effect protein oskar [Drosophila kikkawai]
+XP_017026095.1       -          oskar_filtered.aligned.OSK_domain -               0.19   11.7   1.2      0.73    9.8   1.2   2.0   1   1   0   1   1   1   0 PREDICTED: zinc finger protein 426 [Drosophila kikkawai]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000224215.1_Dkik_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000224215.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000224215.1_Dkik_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:57 2019
+# [ok]

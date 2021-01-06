@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBSU01016169.1_1     -          OSK_CONSENSUS        -              0.013   19.3   0.6     0.019   18.7   0.6   1.2   1   0   0   1   1   1   0 TSA: Aphis glycines contig_17180 transcribed RNA sequence
+GBSU01013549.1_4     -          OSK_CONSENSUS        -               0.39   14.5   0.5       9.4   10.0   0.1   2.1   1   1   1   2   2   2   0 TSA: Aphis glycines contig_14289 transcribed RNA sequence
+GBSU01041349.1_2     -          OSK_CONSENSUS        -               0.59   13.9   0.8      0.72   13.6   0.8   1.0   1   0   0   1   1   1   0 TSA: Aphis glycines contig_46728 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBSU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBSU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBSU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:44 2019
+# [ok]

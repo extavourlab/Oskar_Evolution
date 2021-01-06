@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDKS01032963.1_4     -          LOTUS_CONSENSUS      -            1.9e-31  112.0   0.1   3.5e-31  111.2   0.1   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig04258 transcribed RNA sequence
+GDKS01009621.1_2     -          LOTUS_CONSENSUS      -            3.1e-31  111.3   0.1   5.5e-31  110.5   0.1   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig02570 transcribed RNA sequence
+GDKS01034623.1_6     -          LOTUS_CONSENSUS      -            1.6e-29  105.8   0.1   2.3e-29  105.3   0.1   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05924 transcribed RNA sequence
+GDKS01010543.1_3     -          LOTUS_CONSENSUS      -              2e-24   89.5   0.0   2.5e-14   57.2   0.0   2.3   2   0   0   2   2   2   2 TSA: Anopheles sinensis kangxing_isotig03494 transcribed RNA sequence
+GDKS01032638.1_4     -          LOTUS_CONSENSUS      -            2.7e-17   66.7   0.0   4.3e-17   66.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig03931 transcribed RNA sequence
+GDKS01020265.1_6     -          LOTUS_CONSENSUS      -            6.2e-15   59.1   0.0   8.3e-15   58.7   0.0   1.2   1   1   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig13237 transcribed RNA sequence
+GDKS01034348.1_4     -          LOTUS_CONSENSUS      -            1.3e-14   58.1   0.0   2.6e-14   57.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05648 transcribed RNA sequence
+GDKS01043317.1_1     -          LOTUS_CONSENSUS      -            1.6e-12   51.4   0.0   1.8e-12   51.2   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig14629 transcribed RNA sequence
+GDKS01031624.1_4     -          LOTUS_CONSENSUS      -            2.8e-11   47.4   0.0   4.4e-11   46.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig02917 transcribed RNA sequence
+GDKS01015890.1_6     -          LOTUS_CONSENSUS      -            5.3e-10   43.3   0.0   1.2e-09   42.2   0.0   1.6   2   0   0   2   2   2   1 TSA: Anopheles sinensis kangxing_isotig08855 transcribed RNA sequence
+GDKS01019746.1_1     -          LOTUS_CONSENSUS      -            1.5e-09   41.8   0.1   3.8e-09   40.6   0.1   1.6   1   1   1   2   2   2   1 TSA: Anopheles sinensis kangxing_isotig12718 transcribed RNA sequence
+GDKS01033834.1_4     -          LOTUS_CONSENSUS      -            6.1e-09   39.9   0.0   1.1e-08   39.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05133 transcribed RNA sequence
+GDKS01033996.1_6     -          LOTUS_CONSENSUS      -            6.4e-09   39.8   0.0   9.9e-09   39.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05295 transcribed RNA sequence
+GDKS01033834.1_6     -          LOTUS_CONSENSUS      -            9.9e-09   39.2   0.0   1.6e-05   29.0   0.0   2.4   2   0   0   2   2   2   2 TSA: Anopheles sinensis mingan_isotig05133 transcribed RNA sequence
+GDKS01015257.1_3     -          LOTUS_CONSENSUS      -              0.047   17.8   0.5       7.2   10.8   0.1   2.2   2   0   0   2   2   2   0 TSA: Anopheles sinensis kangxing_isotig08221 transcribed RNA sequence
+GDKS01015652.1_2     -          LOTUS_CONSENSUS      -              0.054   17.6   0.0     0.081   17.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Anopheles sinensis kangxing_isotig08617 transcribed RNA sequence
+GDKS01033747.1_6     -          LOTUS_CONSENSUS      -               0.22   15.6   1.9        17    9.6   0.5   2.6   2   1   0   2   2   2   0 TSA: Anopheles sinensis mingan_isotig05045 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDKS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:24 2019
+# [ok]

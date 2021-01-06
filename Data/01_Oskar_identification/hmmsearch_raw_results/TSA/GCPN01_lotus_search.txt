@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPN01003634.1_1     -          LOTUS_CONSENSUS      -                1.2   13.2   0.0       1.4   13.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Orthodera novaezealandiae breed breeding C108806_a_3_0_l_282, transcribed RNA sequence
+GCPN01027563.1_1     -          LOTUS_CONSENSUS      -                1.2   13.2   0.2       1.4   13.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Orthodera novaezealandiae breed breeding C80849_a_3_0_l_214, transcribed RNA sequence
+GCPN01005866.1_5     -          LOTUS_CONSENSUS      -                1.8   12.7   0.0       2.6   12.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Orthodera novaezealandiae breed breeding C114742_a_5_0_l_310, transcribed RNA sequence
+GCPN01032459.1_3     -          LOTUS_CONSENSUS      -                2.2   12.4   0.0       2.7   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Orthodera novaezealandiae breed breeding C92510_a_5_0_l_240, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:57 2019
+# [ok]

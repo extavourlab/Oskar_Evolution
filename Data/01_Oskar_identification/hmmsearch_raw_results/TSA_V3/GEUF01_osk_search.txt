@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEUF01006592.1_2     -          oskar_filtered.aligned.OSK_domain -            2.3e-37  133.0   0.7   6.7e-37  131.5   0.7   1.8   1   0   0   1   1   1   1 TSA: Callosobruchus maculatus c23402_g1_i3 transcribed RNA sequence
+GEUF01038497.1_1     -          oskar_filtered.aligned.OSK_domain -            2.6e-37  132.8   0.7   6.4e-37  131.5   0.7   1.6   1   0   0   1   1   1   1 TSA: Callosobruchus maculatus c23402_g1_i2 transcribed RNA sequence
+GEUF01052237.1_1     -          oskar_filtered.aligned.OSK_domain -            2.9e-37  132.6   0.7   7.5e-37  131.3   0.7   1.7   1   0   0   1   1   1   1 TSA: Callosobruchus maculatus c23402_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEUF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:11 2019
+# [ok]

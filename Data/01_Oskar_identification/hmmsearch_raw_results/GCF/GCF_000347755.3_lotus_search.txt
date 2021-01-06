@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_004529163.1       -          LOTUS_CONSENSUS      -            2.3e-27   95.5   0.0   5.8e-26   91.0   0.0   3.0   3   0   0   3   3   3   1 maternal effect protein oskar isoform X2 [Ceratitis capitata]
+XP_004529164.1       -          LOTUS_CONSENSUS      -            2.7e-27   95.3   0.0   5.7e-26   91.0   0.0   2.9   3   0   0   3   3   3   1 maternal effect protein oskar isoform X3 [Ceratitis capitata]
+XP_004529162.1       -          LOTUS_CONSENSUS      -            2.7e-27   95.3   0.0   6.2e-26   90.9   0.0   3.0   3   0   0   3   3   3   1 maternal effect protein oskar isoform X1 [Ceratitis capitata]
+XP_012157761.1       -          LOTUS_CONSENSUS      -            5.2e-15   55.9   3.2   8.6e-15   55.2   0.0   2.8   3   0   0   3   3   3   1 tudor domain-containing protein 15 [Ceratitis capitata]
+XP_004517748.1       -          LOTUS_CONSENSUS      -            1.8e-10   41.3   0.2   1.1e-09   38.8   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7B [Ceratitis capitata]
+XP_004517749.1       -          LOTUS_CONSENSUS      -            1.8e-10   41.3   0.2   1.1e-09   38.8   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7B [Ceratitis capitata]
+XP_023159321.1       -          LOTUS_CONSENSUS      -            1.8e-10   41.3   0.2   1.1e-09   38.8   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7B [Ceratitis capitata]
+XP_004519856.1       -          LOTUS_CONSENSUS      -              0.062   14.0   1.8      0.58   10.9   0.1   2.9   3   0   0   3   3   3   0 uncharacterized protein LOC101460591 [Ceratitis capitata]
+XP_020718062.1       -          LOTUS_CONSENSUS      -              0.062   14.0   1.8      0.58   10.9   0.1   2.9   3   0   0   3   3   3   0 uncharacterized protein LOC101460591 [Ceratitis capitata]
+XP_004521630.1       -          LOTUS_CONSENSUS      -              0.093   13.4   0.4      0.69   10.6   0.1   2.5   1   1   1   2   2   2   0 uncharacterized protein LOC101461543 [Ceratitis capitata]
+XP_004524687.1       -          LOTUS_CONSENSUS      -                1.5    9.6   3.9       1.6    9.5   0.2   2.7   2   0   0   2   2   2   0 ATP-binding cassette sub-family A member 1 [Ceratitis capitata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000347755.3_Ccap_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000347755.3_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000347755.3_Ccap_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:59 2019
+# [ok]

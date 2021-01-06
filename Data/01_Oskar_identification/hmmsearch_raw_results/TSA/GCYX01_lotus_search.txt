@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYX01039704.1_2     -          LOTUS_CONSENSUS      -            1.5e-10   45.4   0.0   2.6e-10   44.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Trioza urticae breed wildtype s1818_L_1969_2_20_7_COMPLEX, transcribed RNA sequence
+GCYX01039682.1_2     -          LOTUS_CONSENSUS      -            1.8e-10   45.1   0.0   3.5e-10   44.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Trioza urticae breed wildtype s1816_L_1969_0_21_5_COMPLEX, transcribed RNA sequence
+GCYX01032043.1_4     -          LOTUS_CONSENSUS      -            1.3e-06   32.8   0.0      0.52   14.8   0.0   4.7   3   1   1   4   4   4   2 TSA: Trioza urticae breed wildtype s11284_L_17720_0_39_6_FORK, transcribed RNA sequence
+GCYX01037409.1_6     -          LOTUS_CONSENSUS      -               0.16   16.4   0.9      0.46   15.0   0.9   1.7   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype s16120_L_30510_2_37_9_COMPLEX, transcribed RNA sequence
+GCYX01020719.1_1     -          LOTUS_CONSENSUS      -               0.83   14.1   0.1       1.1   13.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype C627983_2_0, transcribed RNA sequence
+GCYX01053004.1_5     -          LOTUS_CONSENSUS      -                4.5   11.8   2.7   1.7e+02    6.7   0.1   2.9   1   1   2   3   3   3   0 TSA: Trioza urticae breed wildtype s6087_L_7961_0_6_5_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:51 2019
+# [ok]

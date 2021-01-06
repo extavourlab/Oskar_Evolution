@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARQ01030070.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-20   74.6   5.0   1.6e-11   48.2   0.1   4.4   4   1   1   5   5   5   3 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp41171_c1 transcribed RNA sequence
+GARQ01029886.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-11   46.6   0.0   1.6e-10   44.9   0.0   1.9   1   0   0   1   1   1   1 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp41019_c0 transcribed RNA sequence
+GARQ01027199.1_1     -          oskar_filtered.aligned.LOTUS_domain -              2e-07   35.0   0.1        20    9.3   0.0   7.1   5   1   2   7   7   7   2 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp39064_c0 transcribed RNA sequence
+GARQ01014458.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0001   26.3   0.0   0.00024   25.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp28592_c0 transcribed RNA sequence
+GARQ01009234.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.19   15.9   0.1      0.22   15.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp22393_c0 transcribed RNA sequence
+GARQ01038117.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.69   14.1   0.0      0.81   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp348255_c0 transcribed RNA sequence
+GARQ01022350.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.73   14.0   1.1       1.4   13.0   0.0   2.0   3   0   0   3   3   3   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp35498_c0 transcribed RNA sequence
+GARQ01006637.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.4   0.1       2.8   12.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp18520_c0 transcribed RNA sequence
+GARQ01019969.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.0   1.4        28    8.9   0.1   2.8   3   0   0   3   3   3   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp33523_c1 transcribed RNA sequence
+GARQ01042947.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.0   0.1       1.9   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp496839_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:10 2019
+# [ok]

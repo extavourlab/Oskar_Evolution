@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTP01013758.1_6     -          LOTUS_CONSENSUS      -            1.4e-23   85.7   0.3   3.7e-23   84.3   0.3   1.7   1   0   0   1   1   1   1 TSA: Aproceros leucopoda s102_L_110_0_a_60_2_l_3140 transcribed RNA sequence
+GBTP01013769.1_6     -          LOTUS_CONSENSUS      -            1.5e-23   85.6   0.3     4e-23   84.2   0.3   1.7   1   0   0   1   1   1   1 TSA: Aproceros leucopoda s103_L_110_1_a_58_3_l_3347 transcribed RNA sequence
+GBTP01013604.1_3     -          LOTUS_CONSENSUS      -              1e-18   70.1   0.1   1.7e-16   62.9   0.0   2.5   2   0   0   2   2   2   1 TSA: Aproceros leucopoda C72506_a_46_0_l_5330 transcribed RNA sequence
+GBTP01019955.1_5     -          LOTUS_CONSENSUS      -            1.7e-08   37.4   0.0   1.3e-06   31.3   0.0   2.5   2   0   0   2   2   2   1 TSA: Aproceros leucopoda s938_L_1160_2_a_15_2_l_2154 transcribed RNA sequence
+GBTP01019099.1_5     -          LOTUS_CONSENSUS      -            3.4e-08   36.4   0.0      0.06   16.3   0.0   5.6   3   1   3   6   6   6   2 TSA: Aproceros leucopoda s5864_L_16305_0_a_51_8_l_6338 transcribed RNA sequence
+GBTP01019954.1_6     -          LOTUS_CONSENSUS      -            4.3e-08   36.0   0.0   4.1e-06   29.7   0.0   3.5   3   0   0   3   3   3   1 TSA: Aproceros leucopoda s937_L_1160_1_a_23_9_l_5383 transcribed RNA sequence
+GBTP01019956.1_6     -          LOTUS_CONSENSUS      -            9.5e-08   34.9   0.0   3.6e-06   29.9   0.0   2.6   2   0   0   2   2   2   1 TSA: Aproceros leucopoda s939_L_1160_3_a_18_0_l_4825 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:42 2019
+# [ok]

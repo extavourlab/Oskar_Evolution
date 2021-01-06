@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_030374856.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-26   93.3   1.0   5.8e-26   90.9   0.4   2.5   2   0   0   2   2   2   1 maternal effect protein oskar [Scaptodrosophila lebanonensis]
+XP_030388337.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-17   62.3   0.0   1.6e-16   60.6   0.0   1.9   1   0   0   1   1   1   1 tudor domain-containing protein 5 isoform X1 [Scaptodrosophila lebanonensis]
+XP_030388338.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-11   43.9   0.0   6.8e-11   42.5   0.0   1.7   1   0   0   1   1   1   1 tudor domain-containing protein 5 isoform X2 [Scaptodrosophila lebanonensis]
+XP_030375707.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-08   34.5   0.0     2e-08   34.5   0.0   2.3   2   0   0   2   2   2   1 uncharacterized protein LOC115624985 isoform X5 [Scaptodrosophila lebanonensis]
+XP_030375706.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-08   34.5   0.0     2e-08   34.5   0.0   2.3   2   0   0   2   2   2   1 uncharacterized protein LOC115624985 isoform X4 [Scaptodrosophila lebanonensis]
+XP_030375702.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-08   34.2   0.0   2.6e-08   34.2   0.0   2.2   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X1 [Scaptodrosophila lebanonensis]
+XP_030383312.1       -          oskar_filtered.aligned.LOTUS_domain -            3.3e-05   24.2   0.0   4.6e-05   23.8   0.0   1.2   1   1   0   1   1   1   1 uncharacterized protein LOC115630794 [Scaptodrosophila lebanonensis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003285725.1_SlebRS2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003285725.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003285725.1_SlebRS2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:11 2019
+# [ok]

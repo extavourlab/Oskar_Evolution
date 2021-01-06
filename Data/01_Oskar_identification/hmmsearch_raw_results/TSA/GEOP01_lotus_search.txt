@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOP01051419.1_2     -          LOTUS_CONSENSUS      -            0.00029   25.7   0.0   0.00035   25.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Palaephatus nielseni TR52736-c0_g2_i4 transcribed RNA sequence
+GEOP01006052.1_6     -          LOTUS_CONSENSUS      -              0.017   20.0   0.0     0.025   19.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR5612-c0_g1_i1 transcribed RNA sequence
+GEOP01027878.1_1     -          LOTUS_CONSENSUS      -              0.057   18.3   0.1      0.06   18.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR28570-c0_g2_i1 transcribed RNA sequence
+GEOP01018740.1_5     -          LOTUS_CONSENSUS      -               0.21   16.5   0.5      0.94   14.4   0.2   2.0   1   1   1   2   2   2   0 TSA: Palaephatus nielseni TR17888-c0_g1_i1 transcribed RNA sequence
+GEOP01047133.1_5     -          LOTUS_CONSENSUS      -                1.6   13.7   0.4       1.8   13.5   0.4   1.2   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR49043-c0_g8_i1 transcribed RNA sequence
+GEOP01047137.1_5     -          LOTUS_CONSENSUS      -                1.8   13.6   0.3         2   13.4   0.3   1.2   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR49043-c0_g12_i1 transcribed RNA sequence
+GEOP01051783.1_1     -          LOTUS_CONSENSUS      -                1.8   13.5   0.0       2.4   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR52880-c0_g1_i1 transcribed RNA sequence
+GEOP01055415.1_6     -          LOTUS_CONSENSUS      -                1.8   13.5   0.3       2.1   13.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR55902-c1_g4_i1 transcribed RNA sequence
+GEOP01047134.1_4     -          LOTUS_CONSENSUS      -                1.9   13.5   0.4       2.2   13.2   0.4   1.2   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR49043-c0_g9_i1 transcribed RNA sequence
+GEOP01055416.1_6     -          LOTUS_CONSENSUS      -                2.2   13.3   0.4       3.3   12.7   0.4   1.3   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR55902-c1_g4_i2 transcribed RNA sequence
+GEOP01023395.1_3     -          LOTUS_CONSENSUS      -                2.6   13.0   2.8       2.9   12.9   2.8   1.1   1   0   0   1   1   1   0 TSA: Palaephatus nielseni TR23491-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:41 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023301197.1       -          LOTUS_CONSENSUS      -            2.9e-25   88.5   1.5   1.5e-24   86.2   0.0   3.1   4   0   0   4   4   4   1 maternal effect protein oskar [Lucilia cuprina]
+XP_023295689.1       -          LOTUS_CONSENSUS      -            1.8e-16   60.3   0.0   7.3e-16   58.4   0.0   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC111678538 isoform X2 [Lucilia cuprina]
+XP_023295688.1       -          LOTUS_CONSENSUS      -            2.2e-16   60.0   0.0   8.8e-16   58.1   0.0   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC111678538 isoform X1 [Lucilia cuprina]
+XP_023304184.1       -          LOTUS_CONSENSUS      -            6.4e-08   32.9   0.3   3.3e-07   30.6   0.0   2.5   2   0   0   2   2   2   1 tudor domain-containing protein 7A [Lucilia cuprina]
+XP_023299995.1       -          LOTUS_CONSENSUS      -              0.036   14.5   3.3      0.15   12.5   3.3   2.1   1   0   0   1   1   1   0 tectonic [Lucilia cuprina]
+XP_023307946.1       -          LOTUS_CONSENSUS      -               0.21   12.0   0.8        15    6.1   0.0   2.6   2   1   0   2   2   2   0 GTP-binding protein 10 homolog [Lucilia cuprina]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699065.1_Lcup_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000699065.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699065.1_Lcup_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:52 2019
+# [ok]

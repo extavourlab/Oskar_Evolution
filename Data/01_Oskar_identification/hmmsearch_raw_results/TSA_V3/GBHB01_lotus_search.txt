@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBHB01003958.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-20   78.3   0.0   3.5e-20   76.8   0.0   1.8   1   0   0   1   1   1   1 TSA: Teleogryllus commodus MblContig3959 transcribed RNA sequence
+GBHB01046312.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-09   41.5   0.0   5.8e-09   40.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Teleogryllus commodus MblContig46313 transcribed RNA sequence
+GBHB01046189.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.061   18.2   0.0        51    8.8   0.0   3.3   1   1   2   3   3   3   0 TSA: Teleogryllus commodus MblContig46190 transcribed RNA sequence
+GBHB01060378.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.2   0.0       1.3   13.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Teleogryllus commodus Locus_18369_Transcript_1/1_Confidence_0.000_Length_360 transcribed RNA sequence
+GBHB01023329.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.1   12.7   2.4        39    9.2   0.6   2.9   1   1   1   2   2   2   0 TSA: Teleogryllus commodus MblContig23330 transcribed RNA sequence
+GBHB01012412.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.7   12.5   0.1       9.7   11.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Teleogryllus commodus MblContig12413 transcribed RNA sequence
+GBHB01078418.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  4   12.4   0.2       5.9   11.8   0.2   1.4   1   1   0   1   1   1   0 TSA: Teleogryllus commodus Locus_8359_Transcript_1/1_Confidence_0.000_Length_314 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBHB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBHB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBHB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:53 2019
+# [ok]

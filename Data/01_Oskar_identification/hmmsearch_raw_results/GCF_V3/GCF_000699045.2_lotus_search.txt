@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018321654.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-19   70.4   0.3   1.6e-17   63.9   0.1   2.8   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Agrilus planipennis]
+XP_018321651.1       -          oskar_filtered.aligned.LOTUS_domain -            6.2e-19   68.5   0.2   1.6e-17   63.9   0.1   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X1 [Agrilus planipennis]
+XP_018321652.1       -          oskar_filtered.aligned.LOTUS_domain -            6.2e-19   68.5   0.2   1.6e-17   63.9   0.1   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X1 [Agrilus planipennis]
+XP_018333463.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-18   65.8   4.4   1.3e-14   54.6   0.1   3.6   3   0   0   3   3   3   2 tudor domain-containing protein 5-like isoform X2 [Agrilus planipennis]
+XP_018333462.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-16   59.4  10.8   2.3e-14   53.8   0.1   4.4   5   0   0   5   5   5   2 uncharacterized protein LOC108742670 isoform X1 [Agrilus planipennis]
+XP_025836485.1       -          oskar_filtered.aligned.LOTUS_domain -            6.1e-10   39.6   0.3      0.04   14.5   0.0   4.9   4   1   1   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Agrilus planipennis]
+XP_025836484.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-09   38.4   0.4     0.053   14.1   0.0   5.0   4   1   1   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Agrilus planipennis]
+XP_018335086.1       -          oskar_filtered.aligned.LOTUS_domain -              0.036   14.6   0.5      0.11   13.1   0.5   1.8   1   0   0   1   1   1   0 piwi-like protein Ago3 [Agrilus planipennis]
+XP_018324839.1       -          oskar_filtered.aligned.LOTUS_domain -               0.14   12.7   0.0      0.88   10.2   0.1   2.1   2   0   0   2   2   2   0 uncharacterized protein LOC108736776 [Agrilus planipennis]
+XP_025829159.1       -          oskar_filtered.aligned.LOTUS_domain -               0.88   10.2   5.1        29    5.3   0.1   3.9   1   1   2   3   3   3   0 bifunctional glutamate/proline--tRNA ligase [Agrilus planipennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699045.2_Apla_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000699045.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699045.2_Apla_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:50 2019
+# [ok]

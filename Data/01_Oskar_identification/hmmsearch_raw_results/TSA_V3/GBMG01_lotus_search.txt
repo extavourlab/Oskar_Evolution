@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMG01005126.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-22   83.6   3.1   4.7e-22   81.5   0.0   3.0   3   0   0   3   3   3   1 TSA: Eumenes papillarius C122029_a_58_0_l_2780 transcribed RNA sequence
+GBMG01024299.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-20   76.2   0.4   2.4e-19   72.8   0.0   2.8   3   0   0   3   3   3   1 TSA: Eumenes papillarius s1785_L_2385_0_a_18_1_l_3299 transcribed RNA sequence
+GBMG01024300.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-20   75.8   0.3   2.7e-19   72.7   0.0   2.8   3   0   0   3   3   3   1 TSA: Eumenes papillarius s1786_L_2385_1_a_19_3_l_3669 transcribed RNA sequence
+GBMG01004875.1_5     -          oskar_filtered.aligned.LOTUS_domain -            9.9e-18   67.6   0.9   1.3e-12   51.2   0.2   2.9   2   0   0   2   2   2   2 TSA: Eumenes papillarius C120979_a_4_0_l_2493 transcribed RNA sequence
+GBMG01005621.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-08   37.0   0.6     0.087   16.4   0.0   6.7   4   2   3   7   7   7   1 TSA: Eumenes papillarius C124241_a_12_0_l_4156 transcribed RNA sequence
+GBMG01021446.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.49   14.0   2.5       1.2   12.8   2.5   1.9   1   1   0   1   1   1   0 TSA: Eumenes papillarius C92045_a_5_0_l_655 transcribed RNA sequence
+GBMG01024657.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.9   12.1   0.5        30    8.3   0.0   3.0   4   0   0   4   4   4   0 TSA: Eumenes papillarius s2107_L_2860_3_a_48_0_l_1442 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:13 2019
+# [ok]

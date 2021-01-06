@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPP01021927.1_2     -          oskar_filtered.aligned.OSK_domain -              0.018   18.0   0.7     0.049   16.5   0.7   1.7   1   0   0   1   1   1   0 TSA: Dioxys cincta s2933_L_3617_0_a_49_2_l_2864 transcribed RNA sequence
+GBPP01021928.1_2     -          oskar_filtered.aligned.OSK_domain -              0.038   16.9   0.9     0.095   15.6   0.9   1.6   1   0   0   1   1   1   0 TSA: Dioxys cincta s2934_L_3617_1_a_37_4_l_3998 transcribed RNA sequence
+GBPP01012022.1_3     -          oskar_filtered.aligned.OSK_domain -               0.58   13.0   0.6      0.61   13.0   0.6   1.1   1   0   0   1   1   1   0 TSA: Dioxys cincta C68147_a_7_0_l_444 transcribed RNA sequence
+GBPP01013138.1_1     -          oskar_filtered.aligned.OSK_domain -               0.83   12.5   0.2      0.98   12.3   0.2   1.2   1   0   0   1   1   1   0 TSA: Dioxys cincta C72198_a_6_0_l_509 transcribed RNA sequence
+GBPP01009619.1_2     -          oskar_filtered.aligned.OSK_domain -                3.1   10.7   4.0       3.6   10.4   4.0   1.0   1   0   0   1   1   1   0 TSA: Dioxys cincta C60304_a_4_0_l_349 transcribed RNA sequence
+GBPP01020419.1_4     -          oskar_filtered.aligned.OSK_domain -                3.9   10.3   4.5        74    6.1   5.2   2.8   2   1   0   2   2   2   0 TSA: Dioxys cincta s1575_L_1768_0_a_24_5_l_2265 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:08 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPI01023745.1_6     -          LOTUS_CONSENSUS      -            5.4e-18   68.3   0.0   1.7e-16   63.5   0.0   2.8   2   0   0   2   2   2   1 TSA: Urocerus augur s3413_L_5430_1_a_16_3_l_4723 transcribed RNA sequence
+GBPI01015408.1_2     -          LOTUS_CONSENSUS      -            2.6e-15   59.7   0.2   8.4e-15   58.1   0.0   1.9   2   0   0   2   2   2   1 TSA: Urocerus augur C76435_a_7_0_l_740 transcribed RNA sequence
+GBPI01011514.1_1     -          LOTUS_CONSENSUS      -              0.014   18.9   0.5     0.052   17.1   0.0   2.0   2   1   0   2   2   2   0 TSA: Urocerus augur C62860_a_4_0_l_466 transcribed RNA sequence
+GBPI01007856.1_1     -          LOTUS_CONSENSUS      -              0.032   17.7   0.5     0.043   17.3   0.5   1.2   1   0   0   1   1   1   0 TSA: Urocerus augur C51326_a_3_0_l_334 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:44 2019
+# [ok]

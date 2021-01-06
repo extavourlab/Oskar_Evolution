@@ -1,0 +1,32 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFAX01160536.1_6     -          OSK_CONSENSUS        -            1.4e-30  112.0   0.0   2.2e-30  111.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN46218_c0_g1_i1 transcribed RNA sequence
+GFAX01049584.1_4     -          OSK_CONSENSUS        -            3.1e-18   71.8   0.1   1.1e-17   70.0   0.0   2.0   2   0   0   2   2   2   1 TSA: Carausius morosus TRINITY_DN31958_c0_g1_i1 transcribed RNA sequence
+GFAX01049585.1_4     -          OSK_CONSENSUS        -              4e-18   71.5   0.1   1.3e-17   69.8   0.0   1.9   2   0   0   2   2   2   1 TSA: Carausius morosus TRINITY_DN31958_c0_g1_i2 transcribed RNA sequence
+GFAX01080797.1_4     -          OSK_CONSENSUS        -              2e-12   53.0   0.0   2.2e-12   52.8   0.0   1.0   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN82541_c0_g1_i1 transcribed RNA sequence
+GFAX01058227.1_6     -          OSK_CONSENSUS        -            1.2e-06   34.2   0.0   1.3e-06   34.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN11414_c0_g1_i1 transcribed RNA sequence
+GFAX01134031.1_3     -          OSK_CONSENSUS        -            0.00028   26.5   0.0   0.00028   26.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN75505_c0_g1_i1 transcribed RNA sequence
+GFAX01072982.1_4     -          OSK_CONSENSUS        -              0.011   21.3   0.0     0.021   20.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN61397_c0_g1_i1 transcribed RNA sequence
+GFAX01173862.1_4     -          OSK_CONSENSUS        -               0.31   16.6   0.0      0.52   15.8   0.0   1.3   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN37370_c0_g1_i1 transcribed RNA sequence
+GFAX01191806.1_6     -          OSK_CONSENSUS        -               0.41   16.2   0.2      0.49   15.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN80254_c0_g1_i1 transcribed RNA sequence
+GFAX01025301.1_3     -          OSK_CONSENSUS        -                  1   14.9   0.5       1.1   14.7   0.5   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN14078_c0_g1_i1 transcribed RNA sequence
+GFAX01075444.1_5     -          OSK_CONSENSUS        -                1.9   14.0   0.2       2.2   13.8   0.2   1.2   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN36052_c1_g1_i1 transcribed RNA sequence
+GFAX01143841.1_4     -          OSK_CONSENSUS        -                2.5   13.6   0.0       2.8   13.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN38066_c0_g1_i1 transcribed RNA sequence
+GFAX01016153.1_4     -          OSK_CONSENSUS        -                3.4   13.2   1.4       3.7   13.1   1.4   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN39486_c1_g1_i1 transcribed RNA sequence
+GFAX01191671.1_5     -          OSK_CONSENSUS        -                4.3   12.8   0.9       9.7   11.7   0.9   1.6   1   1   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN75898_c0_g1_i1 transcribed RNA sequence
+GFAX01056500.1_1     -          OSK_CONSENSUS        -                4.4   12.8   0.1       4.7   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN57715_c7_g4_i4 transcribed RNA sequence
+GFAX01056497.1_1     -          OSK_CONSENSUS        -                6.4   12.3   0.0       7.9   12.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN57715_c7_g4_i1 transcribed RNA sequence
+GFAX01112545.1_4     -          OSK_CONSENSUS        -                6.7   12.2   0.1       7.7   12.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN46685_c0_g1_i1 transcribed RNA sequence
+GFAX01143842.1_4     -          OSK_CONSENSUS        -                6.7   12.2   0.2        33   10.0   0.0   2.2   2   1   1   3   3   3   0 TSA: Carausius morosus TRINITY_DN38066_c0_g2_i1 transcribed RNA sequence
+GFAX01065634.1_1     -          OSK_CONSENSUS        -                7.8   12.0   1.3       8.9   11.8   0.3   1.5   1   1   1   2   2   2   0 TSA: Carausius morosus TRINITY_DN50496_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFAX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:36 2019
+# [ok]

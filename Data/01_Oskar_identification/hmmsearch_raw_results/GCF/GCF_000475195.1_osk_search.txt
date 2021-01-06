@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_008484229.1       -          OSK_CONSENSUS        -            5.7e-20   72.0   0.1   9.5e-20   71.3   0.1   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC103520908, partial [Diaphorina citri]
+XP_026687642.1       -          OSK_CONSENSUS        -            2.7e-17   63.3   0.0   3.4e-17   63.0   0.0   1.0   1   0   0   1   1   1   1 uncharacterized protein LOC113472190 [Diaphorina citri]
+XP_026681044.1       -          OSK_CONSENSUS        -             0.0022   18.1   0.0    0.0029   17.7   0.0   1.5   1   1   0   1   1   1   1 uncharacterized protein LOC113468390 [Diaphorina citri]
+XP_026686847.1       -          OSK_CONSENSUS        -               0.14   12.2   3.6        14    5.8   0.1   3.4   2   1   1   3   3   3   0 putative uncharacterized protein DDB_G0268590 [Diaphorina citri]
+XP_026684425.1       -          OSK_CONSENSUS        -               0.16   12.1   1.1        23    5.0   0.1   2.6   2   0   0   2   2   2   0 gastrula zinc finger protein xFG20-1 [Diaphorina citri]
+XP_026686529.1       -          OSK_CONSENSUS        -               0.29   11.2   0.7        33    4.5   0.2   2.9   1   1   1   2   2   2   0 fatty acyl-CoA reductase 2-like [Diaphorina citri]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000475195.1_Diaci_psyllid_genome_assembly_version_1.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000475195.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000475195.1_Diaci_psyllid_genome_assembly_version_1.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:02 2019
+# [ok]

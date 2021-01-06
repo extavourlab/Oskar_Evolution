@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGGI01002437.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-25   90.0   0.4   5.2e-25   90.0   0.4   3.4   3   0   0   3   3   3   1 TSA: Leptopilina boulardi XLOC_002480 transcribed RNA sequence
+GGGI01009700.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-20   75.5   3.2   4.5e-19   71.0   0.0   3.5   3   0   0   3   3   3   1 TSA: Leptopilina boulardi XLOC_009883 transcribed RNA sequence
+GGGI01011910.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.6e-17   63.8   0.5   7.6e-17   63.8   0.5   2.6   2   1   0   2   2   2   1 TSA: Leptopilina boulardi XLOC_012103 transcribed RNA sequence
+GGGI01007905.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-15   59.7   0.2   1.5e-15   59.7   0.2   4.7   5   0   0   5   5   5   2 TSA: Leptopilina boulardi XLOC_008087 transcribed RNA sequence
+GGGI01012920.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-07   34.0   0.1       1.3   11.8   0.0   5.3   2   1   3   5   5   5   3 TSA: Leptopilina boulardi XLOC_013116 transcribed RNA sequence
+GGGI01012910.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.021   17.4   9.6       5.4    9.7   0.0   5.4   5   1   1   6   6   6   0 TSA: Leptopilina boulardi XLOC_013106 transcribed RNA sequence
+GGGI01003031.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.13   14.9   0.0      0.13   14.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Leptopilina boulardi XLOC_003083 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGGI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGGI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGGI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:34 2019
+# [ok]

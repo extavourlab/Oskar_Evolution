@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUN01028352.1_2     -          OSK_CONSENSUS        -            2.1e-09   40.4   0.9   3.1e-09   39.8   0.9   1.2   1   0   0   1   1   1   1 TSA: Hygrobia nigra breed wildtype s802_L_1833_0_a_10_1_l_811, transcribed RNA sequence
+GFUN01028353.1_2     -          OSK_CONSENSUS        -            3.2e-09   39.8   0.1   3.9e-09   39.5   0.1   1.1   1   0   0   1   1   1   1 TSA: Hygrobia nigra breed wildtype s803_L_1833_1_a_13_4_l_506, transcribed RNA sequence
+GFUN01018700.1_1     -          OSK_CONSENSUS        -             0.0071   19.2   2.4     0.011   18.6   2.2   1.5   1   1   0   1   1   1   1 TSA: Hygrobia nigra breed wildtype C87095_a_6_0_l_839, transcribed RNA sequence
+GFUN01012686.1_3     -          OSK_CONSENSUS        -               0.24   14.2   0.1       0.4   13.5   0.1   1.3   1   0   0   1   1   1   0 TSA: Hygrobia nigra breed wildtype C69698_a_21_0_l_430, transcribed RNA sequence
+GFUN01010013.1_5     -          OSK_CONSENSUS        -               0.41   13.5   0.5      0.46   13.3   0.5   1.1   1   0   0   1   1   1   0 TSA: Hygrobia nigra breed wildtype C62307_a_3_0_l_344, transcribed RNA sequence
+GFUN01000587.1_4     -          OSK_CONSENSUS        -               0.83   12.5   3.2       1.9   11.3   3.2   1.6   1   0   0   1   1   1   0 TSA: Hygrobia nigra breed wildtype C101745_a_10_0_l_1959, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:26 2019
+# [ok]

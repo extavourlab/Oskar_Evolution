@@ -1,0 +1,37 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFBD01047622.1_2     -          LOTUS_CONSENSUS      -            1.1e-21   81.8   0.4   1.2e-20   78.5   0.0   3.0   3   0   0   3   3   3   1 TSA: Camponotus fellah comp64521_c0_seq1 transcribed RNA sequence
+GFBD01047623.1_2     -          LOTUS_CONSENSUS      -            1.4e-21   81.5   0.5   1.2e-20   78.5   0.0   2.9   3   0   0   3   3   3   1 TSA: Camponotus fellah comp64521_c0_seq2 transcribed RNA sequence
+GFBD01053520.1_2     -          LOTUS_CONSENSUS      -              2e-16   65.0   0.0   1.7e-10   46.0   0.0   2.7   2   0   0   2   2   2   2 TSA: Camponotus fellah comp65381_c0_seq14 transcribed RNA sequence
+GFBD01053511.1_2     -          LOTUS_CONSENSUS      -            2.2e-16   64.9   0.0   1.7e-10   45.9   0.0   2.7   2   0   0   2   2   2   2 TSA: Camponotus fellah comp65381_c0_seq5 transcribed RNA sequence
+GFBD01053522.1_2     -          LOTUS_CONSENSUS      -            3.2e-16   64.3   0.1   3.1e-10   45.1   0.0   3.3   3   0   0   3   3   2   2 TSA: Camponotus fellah comp65381_c0_seq16 transcribed RNA sequence
+GFBD01053512.1_2     -          LOTUS_CONSENSUS      -            3.4e-16   64.2   0.1   3.1e-10   45.1   0.0   3.3   3   0   0   3   3   2   2 TSA: Camponotus fellah comp65381_c0_seq6 transcribed RNA sequence
+GFBD01053521.1_2     -          LOTUS_CONSENSUS      -            3.7e-13   54.5   0.0   3.9e-07   35.2   0.0   2.7   2   0   0   2   2   2   2 TSA: Camponotus fellah comp65381_c0_seq15 transcribed RNA sequence
+GFBD01053516.1_2     -          LOTUS_CONSENSUS      -            4.2e-13   54.3   0.0   4.1e-07   35.1   0.0   2.7   2   0   0   2   2   2   2 TSA: Camponotus fellah comp65381_c0_seq10 transcribed RNA sequence
+GFBD01053513.1_2     -          LOTUS_CONSENSUS      -            6.8e-13   53.6   0.2   7.8e-07   34.2   0.0   3.4   3   0   0   3   3   2   2 TSA: Camponotus fellah comp65381_c0_seq7 transcribed RNA sequence
+GFBD01053514.1_2     -          LOTUS_CONSENSUS      -            7.4e-13   53.5   0.2     8e-07   34.2   0.0   3.4   3   0   0   3   3   2   2 TSA: Camponotus fellah comp65381_c0_seq8 transcribed RNA sequence
+GFBD01053508.1_2     -          LOTUS_CONSENSUS      -            1.3e-11   49.5   0.0   1.4e-10   46.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Camponotus fellah comp65381_c0_seq2 transcribed RNA sequence
+GFBD01053517.1_2     -          LOTUS_CONSENSUS      -            1.4e-11   49.4   0.0   1.4e-10   46.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Camponotus fellah comp65381_c0_seq11 transcribed RNA sequence
+GFBD01053510.1_2     -          LOTUS_CONSENSUS      -            1.8e-11   49.1   0.0   2.8e-10   45.3   0.0   3.0   3   0   0   3   3   2   1 TSA: Camponotus fellah comp65381_c0_seq4 transcribed RNA sequence
+GFBD01053507.1_2     -          LOTUS_CONSENSUS      -            1.9e-11   49.0   0.0   2.8e-10   45.2   0.0   3.0   3   0   0   3   3   2   1 TSA: Camponotus fellah comp65381_c0_seq1 transcribed RNA sequence
+GFBD01083894.1_2     -          LOTUS_CONSENSUS      -            9.2e-10   43.6   0.2   2.7e-09   42.1   0.0   1.9   2   1   0   2   2   2   1 TSA: Camponotus fellah comp567694_c0_seq1 transcribed RNA sequence
+GFBD01053509.1_2     -          LOTUS_CONSENSUS      -              3e-08   38.8   0.0   3.1e-07   35.5   0.0   2.5   2   0   0   2   2   2   1 TSA: Camponotus fellah comp65381_c0_seq3 transcribed RNA sequence
+GFBD01053518.1_2     -          LOTUS_CONSENSUS      -            3.4e-08   38.6   0.0   3.3e-07   35.4   0.0   2.5   2   0   0   2   2   2   1 TSA: Camponotus fellah comp65381_c0_seq12 transcribed RNA sequence
+GFBD01053515.1_2     -          LOTUS_CONSENSUS      -            4.5e-08   38.2   0.1     7e-07   34.4   0.0   3.1   3   0   0   3   3   2   1 TSA: Camponotus fellah comp65381_c0_seq9 transcribed RNA sequence
+GFBD01053519.1_2     -          LOTUS_CONSENSUS      -            4.9e-08   38.1   0.1   7.1e-07   34.3   0.0   3.0   3   0   0   3   3   2   1 TSA: Camponotus fellah comp65381_c0_seq13 transcribed RNA sequence
+GFBD01028601.1_2     -          LOTUS_CONSENSUS      -            6.5e-05   28.1   0.1        22   10.3   0.0   5.3   4   1   1   5   5   5   1 TSA: Camponotus fellah comp58309_c1_seq1 transcribed RNA sequence
+GFBD01010061.1_6     -          LOTUS_CONSENSUS      -               0.74   15.1   2.8      0.94   14.7   2.8   1.3   1   1   0   1   1   1   0 TSA: Camponotus fellah comp39046_c0_seq1 transcribed RNA sequence
+GFBD01071347.1_4     -          LOTUS_CONSENSUS      -               0.88   14.8   0.3       1.1   14.5   0.3   1.1   1   0   0   1   1   1   0 TSA: Camponotus fellah comp161448_c0_seq1 transcribed RNA sequence
+GFBD01079820.1_6     -          LOTUS_CONSENSUS      -                1.6   14.0   0.0       2.1   13.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Camponotus fellah comp420750_c0_seq1 transcribed RNA sequence
+GFBD01026621.1_2     -          LOTUS_CONSENSUS      -                3.2   13.0   0.1       4.6   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Camponotus fellah comp57017_c0_seq7 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFBD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFBD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFBD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:07 2019
+# [ok]

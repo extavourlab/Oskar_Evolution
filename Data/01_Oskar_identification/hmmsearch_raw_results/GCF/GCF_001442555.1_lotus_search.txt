@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_028522137.1       -          LOTUS_CONSENSUS      -            1.9e-14   54.0   2.7   1.5e-12   47.9   0.4   5.7   6   0   0   6   6   6   2 tudor domain-containing protein 5-like [Apis cerana]
+XP_028522138.1       -          LOTUS_CONSENSUS      -            1.9e-14   54.0   2.7   1.5e-12   47.9   0.4   5.7   6   0   0   6   6   6   2 tudor domain-containing protein 5-like [Apis cerana]
+XP_016904642.1       -          LOTUS_CONSENSUS      -             0.0071   16.9   0.4      0.11   13.0   0.0   3.2   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Apis cerana]
+XP_028520390.1       -          LOTUS_CONSENSUS      -              0.076   13.6   0.0      0.18   12.4   0.0   1.6   1   0   0   1   1   1   0 succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial [Apis cerana]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001442555.1_ACSNU-2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001442555.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001442555.1_ACSNU-2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:54 2019
+# [ok]

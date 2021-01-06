@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014610361.1       -          oskar_filtered.aligned.OSK_domain -            3.1e-66  222.7   1.5   3.1e-66  222.7   1.5   2.1   2   1   0   2   2   2   1 PREDICTED: maternal effect protein oskar [Polistes canadensis]
+XP_014604120.1       -          oskar_filtered.aligned.OSK_domain -               0.11   12.2   1.1      0.43   10.3   0.3   2.3   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X2 [Polistes canadensis]
+XP_014604119.1       -          oskar_filtered.aligned.OSK_domain -               0.12   12.1   1.1      0.45   10.2   0.3   2.3   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Polistes canadensis]
+XP_014606925.1       -          oskar_filtered.aligned.OSK_domain -               0.27   11.0   2.8       0.2   11.4   0.9   1.6   1   1   0   1   1   1   0 PREDICTED: uncharacterized protein LOC106788295 [Polistes canadensis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001313835.1_ASM131383v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001313835.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001313835.1_ASM131383v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:49 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWZ01009233.1_2     -          OSK_CONSENSUS        -            9.8e-28  100.3   0.0   1.6e-27   99.7   0.0   1.3   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype C136788_5_0, transcribed RNA sequence
+GCWZ01036938.1_3     -          OSK_CONSENSUS        -            1.6e-24   89.9   0.0   2.6e-24   89.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype s9704_L_37742_0_11_0_LINEAR, transcribed RNA sequence
+GCWZ01004654.1_1     -          OSK_CONSENSUS        -            3.7e-16   62.7   0.0   4.5e-16   62.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype C116868_5_0, transcribed RNA sequence
+GCWZ01004700.1_5     -          OSK_CONSENSUS        -            0.00023   24.4   0.0   0.00034   23.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype C117056_8_0, transcribed RNA sequence
+GCWZ01020212.1_3     -          OSK_CONSENSUS        -               0.37   14.0   0.3      0.42   13.8   0.3   1.2   1   0   0   1   1   1   0 TSA: Ceroplastes cirripediformis breed wildtype C80118_2_0, transcribed RNA sequence
+GCWZ01024324.1_6     -          OSK_CONSENSUS        -                1.1   12.4   0.1       1.3   12.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Ceroplastes cirripediformis breed wildtype C92880_3_0, transcribed RNA sequence
+GCWZ01014887.1_1     -          OSK_CONSENSUS        -                1.2   12.3   0.0       1.4   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Ceroplastes cirripediformis breed wildtype C64534_3_0, transcribed RNA sequence
+GCWZ01004542.1_5     -          OSK_CONSENSUS        -                  3   11.0   2.0        80    6.4   0.1   2.1   2   0   0   2   2   2   0 TSA: Ceroplastes cirripediformis breed wildtype C116444_8_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:29 2019
+# [ok]

@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXT01079327.1_3     -          OSK_CONSENSUS        -               0.13   16.5   0.1      0.15   16.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Crioscolia alcione comp152600_c0_seq1 transcribed RNA sequence
+GAXT01013684.1_4     -          OSK_CONSENSUS        -               0.32   15.3   3.9       2.9   12.1   0.3   3.1   2   1   0   2   2   2   0 TSA: Crioscolia alcione comp9094_c0_seq7 transcribed RNA sequence
+GAXT01074041.1_5     -          OSK_CONSENSUS        -               0.43   14.9   0.1      0.44   14.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Crioscolia alcione comp71688_c0_seq1 transcribed RNA sequence
+GAXT01012218.1_1     -          OSK_CONSENSUS        -               0.57   14.5   0.0      0.97   13.7   0.0   1.3   1   1   0   1   1   1   0 TSA: Crioscolia alcione comp8712_c0_seq1 transcribed RNA sequence
+GAXT01012219.1_1     -          OSK_CONSENSUS        -                  2   12.6   0.0       3.6   11.9   0.0   1.4   1   1   0   1   1   1   0 TSA: Crioscolia alcione comp8712_c0_seq2 transcribed RNA sequence
+GAXT01013685.1_6     -          OSK_CONSENSUS        -                2.3   12.5   2.3        10   10.4   0.1   2.7   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp9094_c0_seq8 transcribed RNA sequence
+GAXT01013678.1_6     -          OSK_CONSENSUS        -                2.3   12.5   2.3        10   10.4   0.1   2.7   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp9094_c0_seq1 transcribed RNA sequence
+GAXT01045098.1_5     -          OSK_CONSENSUS        -                4.2   11.6   1.0       9.2   10.5   0.2   2.0   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp11236_c4_seq6 transcribed RNA sequence
+GAXT01045115.1_6     -          OSK_CONSENSUS        -                4.3   11.6   1.0       9.4   10.5   0.2   2.0   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp11236_c4_seq23 transcribed RNA sequence
+GAXT01045108.1_5     -          OSK_CONSENSUS        -                4.5   11.5   1.0       9.6   10.5   0.2   2.0   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp11236_c4_seq16 transcribed RNA sequence
+GAXT01045119.1_6     -          OSK_CONSENSUS        -                  5   11.4   0.8        12   10.1   0.2   1.9   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp11236_c4_seq27 transcribed RNA sequence
+GAXT01013681.1_4     -          OSK_CONSENSUS        -                5.3   11.3   8.6       3.1   12.1   0.3   3.6   3   1   0   3   3   3   0 TSA: Crioscolia alcione comp9094_c0_seq4 transcribed RNA sequence
+GAXT01045105.1_5     -          OSK_CONSENSUS        -                5.4   11.3   0.8        12   10.1   0.2   1.9   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp11236_c4_seq13 transcribed RNA sequence
+GAXT01045127.1_5     -          OSK_CONSENSUS        -                5.4   11.3   0.8        12   10.1   0.2   1.9   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp11236_c4_seq35 transcribed RNA sequence
+GAXT01045114.1_4     -          OSK_CONSENSUS        -                5.5   11.2   0.8        12   10.1   0.2   1.9   2   0   0   2   2   2   0 TSA: Crioscolia alcione comp11236_c4_seq22 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:39 2019
+# [ok]

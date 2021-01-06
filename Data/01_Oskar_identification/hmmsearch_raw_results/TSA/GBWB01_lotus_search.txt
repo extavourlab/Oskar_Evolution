@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWB01017660.1_5     -          LOTUS_CONSENSUS      -            2.7e-24   88.0   0.2     1e-23   86.1   0.1   2.1   2   0   0   2   2   2   1 TSA: Philocaenus barbarus s4001_L_12927_1_a_56_1_l_2047 transcribed RNA sequence
+GBWB01019603.1_5     -          LOTUS_CONSENSUS      -              1e-14   57.3   9.0   1.2e-12   50.6   0.1   3.9   4   1   0   4   4   4   2 TSA: Philocaenus barbarus s642_L_1352_0_a_32_4_l_4355 transcribed RNA sequence
+GBWB01013994.1_3     -          LOTUS_CONSENSUS      -              3e-14   55.8   0.3   1.4e-13   53.6   0.0   2.3   2   0   0   2   2   2   1 TSA: Philocaenus barbarus C79612_a_52_0_l_3643 transcribed RNA sequence
+GBWB01018290.1_3     -          LOTUS_CONSENSUS      -            4.7e-05   26.3   0.0       5.5   10.0   0.0   5.8   3   1   2   5   5   5   1 TSA: Philocaenus barbarus s4570_L_15425_0_a_43_0_l_5641 transcribed RNA sequence
+GBWB01006926.1_4     -          LOTUS_CONSENSUS      -              0.035   17.1   0.1     0.082   15.9   0.1   1.8   1   1   0   1   1   1   0 TSA: Philocaenus barbarus C52477_a_4_0_l_544 transcribed RNA sequence
+GBWB01002819.1_2     -          LOTUS_CONSENSUS      -              0.095   15.7   0.1      0.12   15.4   0.1   1.3   1   1   0   1   1   1   0 TSA: Philocaenus barbarus C38982_a_4_0_l_282 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:52 2019
+# [ok]

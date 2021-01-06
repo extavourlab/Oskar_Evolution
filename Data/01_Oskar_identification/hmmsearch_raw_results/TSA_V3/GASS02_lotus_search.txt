@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASS02003776.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-20   75.8   0.2     7e-20   74.4   0.0   1.8   2   0   0   2   2   2   1 TSA: Platycentropus radiatus C112172_a_22_0_l_1645 transcribed RNA sequence
+GASS02001201.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-06   30.2   0.0   0.00069   23.1   0.0   2.4   2   0   0   2   2   2   1 TSA: Platycentropus radiatus C103921_a_5_0_l_874 transcribed RNA sequence
+GASS02009033.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.095   16.2   0.3      0.11   15.9   0.3   1.0   1   0   0   1   1   1   0 TSA: Platycentropus radiatus C59198_a_3_0_l_243 transcribed RNA sequence
+GASS02019819.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.19   15.2   2.0      0.32   14.5   2.0   1.2   1   0   0   1   1   1   0 TSA: Platycentropus radiatus C91957_a_42_0_l_536 transcribed RNA sequence
+GASS02015726.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.27   14.7   0.0      0.31   14.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Platycentropus radiatus C78922_a_12_0_l_370 transcribed RNA sequence
+GASS02022087.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.6   13.6   0.2       1.9   12.0   0.0   1.9   2   0   0   2   2   2   0 TSA: Platycentropus radiatus C99365_a_7_0_l_707 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASS02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASS02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASS02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:03 2019
+# [ok]

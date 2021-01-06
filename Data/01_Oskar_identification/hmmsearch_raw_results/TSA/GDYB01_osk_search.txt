@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYB01053002.1_5     -          OSK_CONSENSUS        -            1.7e-25   93.6   0.1   3.1e-25   92.8   0.1   1.4   1   0   0   1   1   1   1 TSA: Nocticola sp. AD-2015 breed wildtype s8538_L_22040_0_a_11_4_l_1739, transcribed RNA sequence
+GDYB01051474.1_1     -          OSK_CONSENSUS        -              0.046   17.5   0.8     0.046   17.5   0.8   1.7   2   0   0   2   2   2   0 TSA: Nocticola sp. AD-2015 breed wildtype s7158_L_16362_0_a_4_8_l_1271, transcribed RNA sequence
+GDYB01002058.1_6     -          OSK_CONSENSUS        -              0.076   16.7   0.1      0.08   16.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Nocticola sp. AD-2015 breed wildtype C106234_a_3_0_l_219, transcribed RNA sequence
+GDYB01033600.1_2     -          OSK_CONSENSUS        -               0.16   15.7   1.0       3.3   11.4   0.2   2.2   2   0   0   2   2   2   0 TSA: Nocticola sp. AD-2015 breed wildtype C194914_a_3_0_l_702, transcribed RNA sequence
+GDYB01008748.1_3     -          OSK_CONSENSUS        -               0.28   14.9   0.4      0.34   14.7   0.4   1.2   1   0   0   1   1   1   0 TSA: Nocticola sp. AD-2015 breed wildtype C123947_a_3_0_l_254, transcribed RNA sequence
+GDYB01019620.1_4     -          OSK_CONSENSUS        -               0.82   13.4   0.1      0.92   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Nocticola sp. AD-2015 breed wildtype C153476_a_11_0_l_345, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:32 2019
+# [ok]

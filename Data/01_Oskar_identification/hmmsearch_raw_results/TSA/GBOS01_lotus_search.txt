@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOS01032454.1_1     -          LOTUS_CONSENSUS      -            2.9e-23   85.4   0.0     1e-22   83.6   0.0   2.0   1   0   0   1   1   1   1 TSA: Dendrocerus carpenteri s6056_L_28358_0_a_52_1_l_3096 transcribed RNA sequence
+GBOS01022903.1_6     -          LOTUS_CONSENSUS      -            1.9e-20   76.4   0.0   3.6e-20   75.5   0.0   1.4   1   0   0   1   1   1   1 TSA: Dendrocerus carpenteri C87674_a_18_0_l_808 transcribed RNA sequence
+GBOS01016999.1_3     -          LOTUS_CONSENSUS      -            1.7e-15   60.5   0.0   2.5e-15   59.9   0.0   1.2   1   0   0   1   1   1   1 TSA: Dendrocerus carpenteri C70531_a_3_0_l_467 transcribed RNA sequence
+GBOS01010982.1_4     -          LOTUS_CONSENSUS      -            2.1e-12   50.6   0.0   2.9e-12   50.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Dendrocerus carpenteri C53643_a_6_0_l_300 transcribed RNA sequence
+GBOS01003237.1_2     -          LOTUS_CONSENSUS      -            0.00056   23.5   0.7      0.69   13.6   0.0   4.4   3   1   1   4   4   4   1 TSA: Dendrocerus carpenteri C109792_a_41_0_l_5052 transcribed RNA sequence
+GBOS01031449.1_1     -          LOTUS_CONSENSUS      -              0.001   22.7   4.2     0.047   17.4   0.0   3.7   4   1   0   4   4   4   1 TSA: Dendrocerus carpenteri s5148_L_20898_0_a_17_7_l_1713 transcribed RNA sequence
+GBOS01028394.1_6     -          LOTUS_CONSENSUS      -              0.077   16.7   4.0        16    9.2   0.1   3.1   1   1   1   2   2   2   0 TSA: Dendrocerus carpenteri s2353_L_4614_0_a_8_8_l_877 transcribed RNA sequence
+GBOS01030395.1_4     -          LOTUS_CONSENSUS      -               0.42   14.3   1.2      0.87   13.3   0.5   1.9   1   1   1   2   2   2   0 TSA: Dendrocerus carpenteri s418_L_515_0_a_12_3_l_842 transcribed RNA sequence
+GBOS01006168.1_2     -          LOTUS_CONSENSUS      -               0.52   14.1   0.1      0.65   13.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Dendrocerus carpenteri C41001_a_3_0_l_237 transcribed RNA sequence
+GBOS01022225.1_3     -          LOTUS_CONSENSUS      -                1.1   13.0   0.0       4.1   11.2   0.0   1.9   2   0   0   2   2   2   0 TSA: Dendrocerus carpenteri C85696_a_4_0_l_750 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:50 2019
+# [ok]

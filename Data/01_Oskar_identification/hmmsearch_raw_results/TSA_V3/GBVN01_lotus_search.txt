@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVN01038114.1_5     -          oskar_filtered.aligned.LOTUS_domain -              4e-23   85.5   0.1   1.4e-22   83.8   0.1   2.0   1   0   0   1   1   1   1 TSA: Encarsia formosa s1192_L_1510_1_a_18_8_l_1853 transcribed RNA sequence
+GBVN01047528.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.4e-21   78.6   9.1   1.2e-17   67.9   0.1   3.0   3   0   0   3   3   3   2 TSA: Encarsia formosa s9709_L_39814_1_a_26_4_l_2530 transcribed RNA sequence
+GBVN01047527.1_2     -          oskar_filtered.aligned.LOTUS_domain -              9e-21   77.9   9.1   1.8e-17   67.3   0.1   3.4   3   0   0   3   3   2   2 TSA: Encarsia formosa s9708_L_39814_0_a_32_8_l_3448 transcribed RNA sequence
+GBVN01023603.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-14   57.2   0.0   2.5e-14   57.2   0.0   2.7   3   0   0   3   3   2   1 TSA: Encarsia formosa C174400_a_47_0_l_3586 transcribed RNA sequence
+GBVN01021434.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.3e-14   56.0   0.7   1.7e-13   54.6   0.1   2.0   2   0   0   2   2   2   1 TSA: Encarsia formosa C167360_a_55_0_l_1613 transcribed RNA sequence
+GBVN01037701.1_6     -          oskar_filtered.aligned.LOTUS_domain -              7e-06   30.1   0.1      0.98   13.6   0.0   4.3   3   1   2   5   5   5   1 TSA: Encarsia formosa s10449_L_46974_0_a_30_4_l_2982 transcribed RNA sequence
+GBVN01003505.1_5     -          oskar_filtered.aligned.LOTUS_domain -            9.1e-06   29.8   0.3   1.6e-05   28.9   0.1   1.5   1   1   0   1   1   1   1 TSA: Encarsia formosa C110293_a_3_0_l_343 transcribed RNA sequence
+GBVN01021178.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.028   18.5   0.2      0.11   16.7   0.0   2.0   2   0   0   2   2   2   0 TSA: Encarsia formosa C166532_a_26_0_l_1533 transcribed RNA sequence
+GBVN01020215.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.13   16.4   3.1   1.4e+02    6.7   0.0   3.7   3   1   1   4   4   4   0 TSA: Encarsia formosa C163418_a_60_0_l_1303 transcribed RNA sequence
+GBVN01016571.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.2   0.0        65    7.8   0.0   2.2   1   1   1   2   2   2   0 TSA: Encarsia formosa C151234_a_3_0_l_804 transcribed RNA sequence
+GBVN01037618.1_3     -          oskar_filtered.aligned.LOTUS_domain -                6.2   11.0   4.0       5.8   11.1   0.1   2.5   2   0   0   2   2   2   0 TSA: Encarsia formosa s10374_L_46144_0_a_55_0_l_3057 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:15 2019
+# [ok]

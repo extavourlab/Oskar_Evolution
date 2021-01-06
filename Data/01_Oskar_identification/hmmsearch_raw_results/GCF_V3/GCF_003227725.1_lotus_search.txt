@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011252874.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-31  108.8   0.0   7.8e-31  106.8   0.0   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC105249250 [Camponotus floridanus]
+XP_011268042.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-23   82.0   0.2     3e-22   79.2   0.0   2.6   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Camponotus floridanus]
+XP_019882733.1       -          oskar_filtered.aligned.LOTUS_domain -            3.9e-18   66.0   0.4   2.8e-11   44.0   0.0   3.6   3   0   0   3   3   3   2 uncharacterized protein LOC105250047 isoform X1 [Camponotus floridanus]
+XP_019882734.1       -          oskar_filtered.aligned.LOTUS_domain -            3.9e-18   66.0   0.4   2.8e-11   44.0   0.0   3.6   3   0   0   3   3   3   2 uncharacterized protein LOC105250047 isoform X1 [Camponotus floridanus]
+XP_025269994.1       -          oskar_filtered.aligned.LOTUS_domain -            3.9e-18   66.0   0.4   2.8e-11   44.0   0.0   3.6   3   0   0   3   3   3   2 uncharacterized protein LOC105250047 isoform X1 [Camponotus floridanus]
+XP_019882737.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-14   54.7   0.5   1.1e-07   32.5   0.0   3.7   3   0   0   3   3   3   2 uncharacterized protein LOC105250047 isoform X4 [Camponotus floridanus]
+XP_019882736.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-14   54.2   1.0   1.1e-07   32.5   0.0   3.7   3   0   0   3   3   3   2 uncharacterized protein LOC105250047 isoform X3 [Camponotus floridanus]
+XP_019882735.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-12   48.6   0.1   2.5e-11   44.1   0.0   3.3   3   0   0   3   3   3   1 uncharacterized protein LOC105250047 isoform X2 [Camponotus floridanus]
+XP_025269996.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-09   37.1   0.1   9.5e-08   32.7   0.0   3.4   3   0   0   3   3   3   1 uncharacterized protein LOC105250047 isoform X6 [Camponotus floridanus]
+XP_025269995.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-09   37.0   0.3   9.4e-08   32.7   0.0   3.3   3   0   0   3   3   3   1 uncharacterized protein LOC105250047 isoform X5 [Camponotus floridanus]
+XP_019882738.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-08   35.4   0.1   1.3e-07   32.2   0.0   2.8   2   0   0   2   2   2   1 uncharacterized protein LOC105250047 isoform X7 [Camponotus floridanus]
+XP_025268632.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0001   22.9   0.0       6.1    7.6   0.0   5.0   3   2   3   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Camponotus floridanus]
+XP_025268630.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0001   22.9   0.0       6.1    7.6   0.0   5.0   3   2   3   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Camponotus floridanus]
+XP_025268631.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0001   22.9   0.0       6.1    7.6   0.0   5.0   3   2   3   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Camponotus floridanus]
+XP_025268633.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00011   22.9   0.0       6.1    7.6   0.0   5.0   3   2   3   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X3 [Camponotus floridanus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003227725.1_Cflo_v7.5_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003227725.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003227725.1_Cflo_v7.5_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:10 2019
+# [ok]

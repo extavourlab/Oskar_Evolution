@@ -1,0 +1,36 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGMU01005923.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.4e-24   89.7   0.4   6.4e-24   89.7   0.4   2.1   2   0   0   2   2   1   1 TSA: Serangium japonicum TRINITY_DN63286_c0_g1 transcribed RNA sequence
+GGMU01013998.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.4e-22   83.3   0.1   2.3e-21   81.5   0.1   2.0   1   0   0   1   1   1   1 TSA: Serangium japonicum TRINITY_DN54826_c0_g1 transcribed RNA sequence
+GGMU01032888.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-21   82.3   3.0   1.2e-18   72.7   1.0   3.3   3   0   0   3   3   3   2 TSA: Serangium japonicum TRINITY_DN77427_c0_g2 transcribed RNA sequence
+GGMU01146895.1_5     -          oskar_filtered.aligned.LOTUS_domain -              2e-20   78.5   1.2     2e-20   78.5   1.2   2.3   4   0   0   4   4   2   1 TSA: Serangium japonicum TRINITY_DN63263_c0_g1 transcribed RNA sequence
+GGMU01039424.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-17   68.5   3.8   9.4e-17   66.7   0.0   3.0   3   0   0   3   3   3   1 TSA: Serangium japonicum TRINITY_DN62600_c0_g2 transcribed RNA sequence
+GGMU01054562.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-13   56.8   0.0   2.4e-13   55.7   0.0   1.5   1   0   0   1   1   1   1 TSA: Serangium japonicum TRINITY_DN72825_c0_g1 transcribed RNA sequence
+GGMU01070262.1_4     -          oskar_filtered.aligned.LOTUS_domain -              2e-09   43.2   0.1   4.1e-09   42.2   0.1   1.5   1   0   0   1   1   1   1 TSA: Serangium japonicum TRINITY_DN81486_c2_g4 transcribed RNA sequence
+GGMU01127016.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0042   22.9   0.0     0.014   21.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Serangium japonicum TRINITY_DN52745_c0_g1 transcribed RNA sequence
+GGMU01102838.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.005   22.6   0.0         2   14.3   0.0   2.9   1   1   2   3   3   3   1 TSA: Serangium japonicum TRINITY_DN80838_c0_g1 transcribed RNA sequence
+GGMU01070260.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.039   19.8   0.0     0.041   19.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN81486_c2_g2 transcribed RNA sequence
+GGMU01048788.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.084   18.7   0.0   9.4e+02    5.7   0.0   4.8   2   1   1   4   4   4   0 TSA: Serangium japonicum TRINITY_DN72933_c0_g1 transcribed RNA sequence
+GGMU01070265.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.086   18.7   0.0      0.14   18.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN81486_c2_g7 transcribed RNA sequence
+GGMU01070259.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.15   17.9   0.1      0.17   17.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN81486_c2_g1 transcribed RNA sequence
+GGMU01124854.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.33   16.8   0.6       1.6   14.6   0.0   2.4   2   0   0   2   2   2   0 TSA: Serangium japonicum TRINITY_DN70629_c0_g1 transcribed RNA sequence
+GGMU01039056.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.51   16.2   0.1      0.55   16.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN80270_c0_g1 transcribed RNA sequence
+GGMU01018126.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  1   15.2   0.0       1.2   15.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN54750_c0_g1 transcribed RNA sequence
+GGMU01141232.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.8   3.5   2.1e+02    7.8   0.1   3.7   4   0   0   4   4   4   0 TSA: Serangium japonicum TRINITY_DN69491_c0_g2 transcribed RNA sequence
+GGMU01114588.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.8   13.1   0.3       4.8   13.1   0.3   2.6   3   0   0   3   3   3   0 TSA: Serangium japonicum TRINITY_DN81453_c1_g3 transcribed RNA sequence
+GGMU01095366.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.4   12.9   0.2       6.6   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN88248_c0_g1 transcribed RNA sequence
+GGMU01029673.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.5   12.9   0.1       7.4   12.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN18516_c0_g1 transcribed RNA sequence
+GGMU01089183.1_4     -          oskar_filtered.aligned.LOTUS_domain -                6.6   12.6   0.2   7.8e+02    6.0   0.1   2.0   1   1   1   2   2   2   0 TSA: Serangium japonicum TRINITY_DN79865_c0_g3 transcribed RNA sequence
+GGMU01013635.1_1     -          oskar_filtered.aligned.LOTUS_domain -                7.2   12.5   0.4   1.4e+02    8.3   0.2   2.4   1   1   1   2   2   2   0 TSA: Serangium japonicum TRINITY_DN112087_c0_g1 transcribed RNA sequence
+GGMU01039180.1_2     -          oskar_filtered.aligned.LOTUS_domain -                7.9   12.4   0.3        14   11.5   0.3   1.3   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN79027_c2_g3 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGMU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:43 2019
+# [ok]

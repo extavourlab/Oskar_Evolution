@@ -1,0 +1,25 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBBQ01016081.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.8e-08   36.7   5.5   1.6e-07   35.7   0.1   2.6   1   1   1   2   2   2   1 TSA: Teleopsis whitei Tw_comp14519_c0_seq1 transcribed RNA sequence
+GBBQ01027792.1_2     -          oskar_filtered.aligned.LOTUS_domain -              9e-05   26.9   0.0   0.00032   25.1   0.0   2.0   1   0   0   1   1   1   1 TSA: Teleopsis whitei Tw_comp18993_c0_seq1 transcribed RNA sequence
+GBBQ01027793.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.1e-05   26.9   0.0   0.00032   25.1   0.0   2.0   1   0   0   1   1   1   1 TSA: Teleopsis whitei Tw_comp18993_c0_seq2 transcribed RNA sequence
+GBBQ01027795.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.2e-05   26.9   0.0   0.00031   25.1   0.0   2.0   1   0   0   1   1   1   1 TSA: Teleopsis whitei Tw_comp18993_c0_seq4 transcribed RNA sequence
+GBBQ01027794.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-05   26.8   0.0   0.00032   25.1   0.0   2.0   1   0   0   1   1   1   1 TSA: Teleopsis whitei Tw_comp18993_c0_seq3 transcribed RNA sequence
+GBBQ01018580.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.035   18.6   0.2       1.6   13.2   0.0   2.3   1   1   1   2   2   2   0 TSA: Teleopsis whitei Tw_comp15706_c0_seq1 transcribed RNA sequence
+GBBQ01014498.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.049   18.1   0.4     0.099   17.1   0.4   1.5   1   0   0   1   1   1   0 TSA: Teleopsis whitei Tw_comp13712_c0_seq1 transcribed RNA sequence
+GBBQ01024020.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.13   16.7   0.1      0.29   15.7   0.1   1.5   1   0   0   1   1   1   0 TSA: Teleopsis whitei Tw_comp17790_c0_seq1 transcribed RNA sequence
+GBBQ01024024.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.26   15.8   0.1      0.63   14.6   0.1   1.6   1   0   0   1   1   1   0 TSA: Teleopsis whitei Tw_comp17790_c0_seq5 transcribed RNA sequence
+GBBQ01024021.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.29   15.6   0.1      0.61   14.6   0.1   1.5   1   0   0   1   1   1   0 TSA: Teleopsis whitei Tw_comp17790_c0_seq2 transcribed RNA sequence
+GBBQ01015393.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.43   15.1   1.1       1.5   13.3   0.1   2.3   1   1   1   2   2   2   0 TSA: Teleopsis whitei Tw_comp14178_c0_seq2 transcribed RNA sequence
+GBBQ01005684.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.51   14.8   0.1      0.92   14.0   0.1   1.5   1   0   0   1   1   1   0 TSA: Teleopsis whitei Tw_comp7476_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBBQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBBQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBBQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:00 2019
+# [ok]

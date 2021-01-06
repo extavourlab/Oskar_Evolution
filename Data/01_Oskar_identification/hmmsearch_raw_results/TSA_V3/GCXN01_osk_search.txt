@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXN01051681.1_3     -          oskar_filtered.aligned.OSK_domain -            2.2e-22   84.1   0.0   4.1e-22   83.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Mapuchea sp. AD-2014 breed wildtype s1436_L_2508_1_24_0_COMPLEX, transcribed RNA sequence
+GCXN01051670.1_3     -          oskar_filtered.aligned.OSK_domain -            2.2e-22   84.1   0.0   4.4e-22   83.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Mapuchea sp. AD-2014 breed wildtype s1435_L_2508_0_23_2_COMPLEX, transcribed RNA sequence
+GCXN01051692.1_3     -          oskar_filtered.aligned.OSK_domain -            2.3e-22   84.0   0.0   4.2e-22   83.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Mapuchea sp. AD-2014 breed wildtype s1437_L_2508_2_23_4_COMPLEX, transcribed RNA sequence
+GCXN01003431.1_1     -          oskar_filtered.aligned.OSK_domain -            1.5e-05   29.2   0.0   1.8e-05   29.0   0.0   1.0   1   0   0   1   1   1   1 TSA: Mapuchea sp. AD-2014 breed wildtype C198962_3_0, transcribed RNA sequence
+GCXN01039513.1_4     -          oskar_filtered.aligned.OSK_domain -            0.00063   23.9   0.1    0.0007   23.8   0.1   1.2   1   0   0   1   1   1   1 TSA: Mapuchea sp. AD-2014 breed wildtype C326205_4_0, transcribed RNA sequence
+GCXN01058403.1_2     -          oskar_filtered.aligned.OSK_domain -             0.0023   22.1   0.1    0.0027   21.9   0.1   1.2   1   0   0   1   1   1   1 TSA: Mapuchea sp. AD-2014 breed wildtype s20425_L_72587_0_4_0_LINEAR, transcribed RNA sequence
+GCXN01035263.1_1     -          oskar_filtered.aligned.OSK_domain -               0.26   15.4   0.2       0.3   15.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Mapuchea sp. AD-2014 breed wildtype C307409_2_0, transcribed RNA sequence
+GCXN01039535.1_4     -          oskar_filtered.aligned.OSK_domain -               0.28   15.3   0.5      0.37   14.9   0.5   1.2   1   0   0   1   1   1   0 TSA: Mapuchea sp. AD-2014 breed wildtype C326331_4_0, transcribed RNA sequence
+GCXN01025776.1_3     -          oskar_filtered.aligned.OSK_domain -                0.5   14.5   0.2      0.71   14.0   0.2   1.3   1   0   0   1   1   1   0 TSA: Mapuchea sp. AD-2014 breed wildtype C271355_2_0, transcribed RNA sequence
+GCXN01054722.1_4     -          oskar_filtered.aligned.OSK_domain -                1.7   12.8   0.0       2.1   12.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Mapuchea sp. AD-2014 breed wildtype s1710_L_2998_3_22_6_COMPLEX, transcribed RNA sequence
+GCXN01012114.1_3     -          oskar_filtered.aligned.OSK_domain -                2.8   12.0   0.2         3   11.9   0.2   1.0   1   0   0   1   1   1   0 TSA: Mapuchea sp. AD-2014 breed wildtype C225991_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:28 2019
+# [ok]

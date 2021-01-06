@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_019769660.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-22   79.8   0.7   2.3e-19   69.7   0.1   3.0   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769661.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-22   79.8   0.7   2.3e-19   69.7   0.1   3.0   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769662.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-22   79.8   0.7   2.3e-19   69.7   0.1   3.0   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769663.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-22   79.8   0.7   2.3e-19   69.7   0.1   3.0   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019769664.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-22   79.8   0.7   2.3e-19   69.7   0.1   3.0   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 7B-like isoform X1 [Dendroctonus ponderosae]
+XP_019761198.1       -          oskar_filtered.aligned.LOTUS_domain -            5.7e-22   78.1   0.4   4.4e-17   62.4   0.0   3.4   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC109538416 isoform X3 [Dendroctonus ponderosae]
+XP_019761197.1       -          oskar_filtered.aligned.LOTUS_domain -              6e-22   78.0   0.4   4.6e-17   62.4   0.0   3.4   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC109538416 isoform X2 [Dendroctonus ponderosae]
+XP_019761196.1       -          oskar_filtered.aligned.LOTUS_domain -              6e-22   78.0   0.4   4.6e-17   62.3   0.0   3.4   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC109538416 isoform X1 [Dendroctonus ponderosae]
+XP_019769666.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-21   76.7   0.7   2.2e-19   69.8   0.1   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X3 [Dendroctonus ponderosae]
+XP_019769665.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-21   76.0   0.5   2.2e-19   69.8   0.1   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B-like isoform X2 [Dendroctonus ponderosae]
+XP_019758566.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-08   34.2   8.2      0.56   10.7   0.0   6.2   3   2   4   7   7   7   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X4 [Dendroctonus ponderosae]
+XP_019758565.1       -          oskar_filtered.aligned.LOTUS_domain -            3.1e-08   34.0   8.1      0.58   10.7   0.0   6.2   3   2   3   7   7   7   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X3 [Dendroctonus ponderosae]
+XP_019758563.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-08   33.7   8.1      0.61   10.6   0.0   6.2   3   2   3   7   7   7   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Dendroctonus ponderosae]
+XP_019758564.1       -          oskar_filtered.aligned.LOTUS_domain -            8.5e-08   32.6   7.8      0.59   10.6   0.0   5.5   4   2   1   6   6   6   3 PREDICTED: meiosis arrest female protein 1 homolog isoform X2 [Dendroctonus ponderosae]
+XP_019763902.1       -          oskar_filtered.aligned.LOTUS_domain -               0.17   12.4   0.2       1.9    9.0   0.0   2.4   3   0   0   3   3   3   0 PREDICTED: annexin B9-like [Dendroctonus ponderosae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000355655.1_DendPond_male_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000355655.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000355655.1_DendPond_male_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:39 2019
+# [ok]

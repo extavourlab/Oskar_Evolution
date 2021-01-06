@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERA01020102.1_3     -          LOTUS_CONSENSUS      -               0.47   14.6   0.0       2.1   12.5   0.0   2.0   1   1   0   1   1   1   0 TSA: Pandorites podoceroides c20234_g2_i1 transcribed RNA sequence
+GERA01034630.1_5     -          LOTUS_CONSENSUS      -               0.91   13.7   2.1       6.5   10.9   0.1   2.2   2   0   0   2   2   2   0 TSA: Pandorites podoceroides c28251_g1_i1 transcribed RNA sequence
+GERA01014614.1_6     -          LOTUS_CONSENSUS      -                  1   13.5   0.8       1.6   12.9   0.8   1.4   1   0   0   1   1   1   0 TSA: Pandorites podoceroides c16808_g2_i1 transcribed RNA sequence
+GERA01007349.1_4     -          LOTUS_CONSENSUS      -                  2   12.6   0.0       2.3   12.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Pandorites podoceroides c11162_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERA.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERA.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERA.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:34 2019
+# [ok]

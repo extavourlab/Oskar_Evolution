@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBS01055781.1_2     -          LOTUS_CONSENSUS      -               0.33   16.0   0.0        55    8.9   0.0   2.2   2   0   0   2   2   2   0 TSA: Ergaula capucina breed breeding C389741_a_5_0_l_743, transcribed RNA sequence
+GDBS01043799.1_6     -          LOTUS_CONSENSUS      -               0.56   15.3   0.7      0.89   14.6   0.7   1.5   1   0   0   1   1   1   0 TSA: Ergaula capucina breed breeding C351636_a_6_0_l_424, transcribed RNA sequence
+GDBS01050917.1_6     -          LOTUS_CONSENSUS      -               0.71   14.9   0.4       2.5   13.2   0.2   1.9   2   0   0   2   2   2   0 TSA: Ergaula capucina breed breeding C374023_a_13_0_l_562, transcribed RNA sequence
+GDBS01006591.1_4     -          LOTUS_CONSENSUS      -                1.6   13.8   1.6       2.2   13.4   1.5   1.2   1   1   0   1   1   1   0 TSA: Ergaula capucina breed breeding C248597_a_3_0_l_226, transcribed RNA sequence
+GDBS01068175.1_5     -          LOTUS_CONSENSUS      -                1.9   13.5   0.6        34    9.6   0.6   2.0   1   1   1   2   2   2   0 TSA: Ergaula capucina breed breeding s13843_L_26508_0_a_16_4_l_385, transcribed RNA sequence
+GDBS01048621.1_5     -          LOTUS_CONSENSUS      -                2.1   13.4   0.8   2.5e+02    6.8   0.0   2.1   2   0   0   2   2   2   0 TSA: Ergaula capucina breed breeding C366668_a_3_0_l_508, transcribed RNA sequence
+GDBS01007807.1_3     -          LOTUS_CONSENSUS      -                  5   12.2   0.0         6   11.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Ergaula capucina breed breeding C252151_a_4_0_l_230, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:31 2019
+# [ok]

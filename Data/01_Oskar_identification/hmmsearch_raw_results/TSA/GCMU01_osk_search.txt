@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCMU01012581.1_4     -          OSK_CONSENSUS        -            5.7e-50  172.5   0.1     3e-48  166.8   0.0   2.2   2   0   0   2   2   2   2 TSA: Megaselia abdita C134347_a_43_0_l_1961 transcribed RNA sequence
+GCMU01009449.1_4     -          OSK_CONSENSUS        -               0.28   14.2   0.0      0.42   13.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Megaselia abdita C125913_a_4_0_l_835 transcribed RNA sequence
+GCMU01015846.1_5     -          OSK_CONSENSUS        -               0.87   12.6   2.0      0.94   12.5   2.0   1.0   1   0   0   1   1   1   0 TSA: Megaselia abdita C72790_a_4_0_l_235 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCMU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:07 2019
+# [ok]

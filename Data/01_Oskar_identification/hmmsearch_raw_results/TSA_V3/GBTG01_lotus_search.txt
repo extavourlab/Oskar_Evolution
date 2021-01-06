@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTG01032995.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-26   95.9   0.1   1.7e-26   95.9   0.1   2.3   2   0   0   2   2   2   1 TSA: Alastor atropos s683_L_936_1_a_27_3_l_2737 transcribed RNA sequence
+GBTG01032984.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-26   95.3   0.1   2.4e-26   95.3   0.1   2.1   2   0   0   2   2   2   1 TSA: Alastor atropos s682_L_936_0_a_28_3_l_3677 transcribed RNA sequence
+GBTG01033006.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-26   95.3   0.1   2.5e-26   95.3   0.1   2.1   2   0   0   2   2   2   1 TSA: Alastor atropos s684_L_936_2_a_27_6_l_3784 transcribed RNA sequence
+GBTG01004127.1_5     -          oskar_filtered.aligned.LOTUS_domain -              2e-12   50.7   0.9   1.8e-11   47.6   0.1   2.5   2   0   0   2   2   2   1 TSA: Alastor atropos C115402_a_3_0_l_875 transcribed RNA sequence
+GBTG01016149.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.19   15.4   0.2       0.9   13.2   0.1   1.8   1   1   1   2   2   2   0 TSA: Alastor atropos C68390_a_12_0_l_244 transcribed RNA sequence
+GBTG01025811.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.36   14.5   0.1       2.9   11.6   0.0   1.9   1   1   0   2   2   2   0 TSA: Alastor atropos C97353_a_3_0_l_462 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:27 2019
+# [ok]

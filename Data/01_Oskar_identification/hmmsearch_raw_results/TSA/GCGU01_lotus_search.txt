@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCGU01008797.1_5     -          LOTUS_CONSENSUS      -            3.6e-22   80.5   0.0   3.6e-22   80.5   0.0   3.2   2   1   0   3   3   3   1 TSA: Platypeza anthrax s3909_L_4504_0_a_71_7_l_2157 transcribed RNA sequence
+GCGU01005636.1_1     -          LOTUS_CONSENSUS      -            3.2e-12   48.5   0.0     1e-11   47.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Platypeza anthrax s1054_L_841_1_a_98_9_l_1233 transcribed RNA sequence
+GCGU01005635.1_1     -          LOTUS_CONSENSUS      -            9.1e-12   47.1   0.0   2.4e-11   45.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Platypeza anthrax s1053_L_841_0_a_104_2_l_2155 transcribed RNA sequence
+GCGU01007064.1_5     -          LOTUS_CONSENSUS      -            7.2e-10   41.0   0.0   2.5e-09   39.3   0.0   2.0   1   0   0   1   1   1   1 TSA: Platypeza anthrax s2342_L_2232_0_a_74_2_l_4503 transcribed RNA sequence
+GCGU01003724.1_1     -          LOTUS_CONSENSUS      -               0.15   14.4   2.3       3.5   10.0   0.3   2.9   2   1   1   3   3   3   0 TSA: Platypeza anthrax C64587_a_89_0_l_820 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCGU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:48 2019
+# [ok]

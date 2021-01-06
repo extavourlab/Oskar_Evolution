@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_008185199.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-24   87.0  14.2   1.4e-15   58.0   0.1   5.7   5   0   0   5   5   5   3 uncharacterized protein LOC100158689 [Acyrthosiphon pisum]
+XP_016663178.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-22   80.8   0.3   4.7e-22   78.8   0.3   2.2   1   0   0   1   1   1   1 uncharacterized protein LOC100569048 [Acyrthosiphon pisum]
+XP_029346403.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-19   69.3   0.1   4.4e-19   69.3   0.1   3.2   3   1   1   4   4   4   1 GATA zinc finger domain-containing protein 14, partial [Acyrthosiphon pisum]
+XP_029346809.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   52.0   0.0   1.1e-13   52.0   0.0   3.8   4   0   0   4   4   4   1 ras guanine nucleotide exchange factor P [Acyrthosiphon pisum]
+XP_029346810.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   52.0   0.0   1.1e-13   52.0   0.0   3.8   4   0   0   4   4   4   1 ras guanine nucleotide exchange factor P [Acyrthosiphon pisum]
+XP_029346811.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   52.0   0.0   1.1e-13   52.0   0.0   3.8   4   0   0   4   4   4   1 ras guanine nucleotide exchange factor P [Acyrthosiphon pisum]
+XP_008182537.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-10   41.9   0.0       9.3    7.3   0.0   8.0   5   2   3   8   8   8   2 meiosis regulator and mRNA stability factor 1 isoform X3 [Acyrthosiphon pisum]
+XP_029345012.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-10   41.9   0.0       9.3    7.3   0.0   8.0   5   2   3   8   8   8   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Acyrthosiphon pisum]
+XP_029345010.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-10   41.8   0.0       9.3    7.3   0.0   8.0   5   2   3   8   8   8   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Acyrthosiphon pisum]
+XP_029345011.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-10   41.8   0.0       9.3    7.3   0.0   8.0   5   2   3   8   8   8   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Acyrthosiphon pisum]
+XP_029345014.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-08   34.6   0.0       8.8    7.3   0.0   7.1   5   2   2   7   7   7   1 meiosis regulator and mRNA stability factor 1 isoform X5 [Acyrthosiphon pisum]
+XP_029345013.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-08   34.6   0.0       8.8    7.3   0.0   7.1   5   2   2   7   7   7   1 meiosis regulator and mRNA stability factor 1 isoform X4 [Acyrthosiphon pisum]
+XP_008188739.1       -          oskar_filtered.aligned.LOTUS_domain -               0.23   12.4   1.7      0.79   10.7   0.1   2.2   2   0   0   2   2   2   0 uncharacterized protein LOC103311001 [Acyrthosiphon pisum]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_005508785.1_pea_aphid_22Mar2018_4r6ur_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_005508785.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_005508785.1_pea_aphid_22Mar2018_4r6ur_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:37 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXW01022721.1_5     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-18   68.3   0.0   4.4e-17   65.9   0.0   2.1   2   0   0   2   2   2   1 TSA: Holdgatiella chepuensis breed wildtype C185639_21_0, transcribed RNA sequence
+GCXW01025742.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-16   62.4   3.2   2.7e-10   44.2   0.0   4.9   5   0   0   5   5   5   2 TSA: Holdgatiella chepuensis breed wildtype C199537_13_0, transcribed RNA sequence
+GCXW01025711.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-07   34.1   0.0        11   10.0   0.0   5.4   2   1   3   5   5   5   4 TSA: Holdgatiella chepuensis breed wildtype C199403_17_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:40 2019
+# [ok]

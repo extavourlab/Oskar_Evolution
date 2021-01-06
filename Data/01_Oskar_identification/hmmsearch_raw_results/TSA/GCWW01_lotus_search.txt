@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWW01038569.1_5     -          LOTUS_CONSENSUS      -            3.1e-20   76.1   0.1   9.5e-12   48.9   0.0   3.7   3   0   0   3   3   3   3 TSA: Coccus sp. AD-2014 breed wildtype s4749_L_5429_1_8_3_COMPLEX, transcribed RNA sequence
+GCWW01038568.1_5     -          LOTUS_CONSENSUS      -            1.5e-19   73.9   2.1   1.3e-11   48.5   0.0   4.1   4   0   0   4   4   4   2 TSA: Coccus sp. AD-2014 breed wildtype s4748_L_5429_0_11_1_COMPLEX, transcribed RNA sequence
+GCWW01030435.1_2     -          LOTUS_CONSENSUS      -            1.7e-14   57.7   0.0   3.7e-14   56.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Coccus sp. AD-2014 breed wildtype s15621_L_29794_0_52_3_LINEAR, transcribed RNA sequence
+GCWW01030676.1_4     -          LOTUS_CONSENSUS      -            1.6e-07   35.3   0.1   4.6e-07   33.8   0.0   1.9   2   1   0   2   2   1   1 TSA: Coccus sp. AD-2014 breed wildtype s15839_L_30572_0_4_0_LINEAR, transcribed RNA sequence
+GCWW01028010.1_4     -          LOTUS_CONSENSUS      -             0.0064   20.6   0.0   4.2e+02    5.1   0.0   4.9   3   1   1   4   4   4   0 TSA: Coccus sp. AD-2014 breed wildtype s13431_L_22924_2_17_7_COMPLEX, transcribed RNA sequence
+GCWW01028007.1_4     -          LOTUS_CONSENSUS      -             0.0064   20.6   0.0   4.2e+02    5.1   0.0   4.9   3   1   1   4   4   4   0 TSA: Coccus sp. AD-2014 breed wildtype s13429_L_22924_0_17_6_COMPLEX, transcribed RNA sequence
+GCWW01028009.1_4     -          LOTUS_CONSENSUS      -             0.0064   20.6   0.0   4.2e+02    5.1   0.0   4.9   3   1   1   4   4   4   0 TSA: Coccus sp. AD-2014 breed wildtype s13430_L_22924_1_17_7_COMPLEX, transcribed RNA sequence
+GCWW01015086.1_2     -          LOTUS_CONSENSUS      -               0.23   15.6   1.1      0.33   15.1   1.1   1.2   1   0   0   1   1   1   0 TSA: Coccus sp. AD-2014 breed wildtype C176734_2_0, transcribed RNA sequence
+GCWW01035646.1_3     -          LOTUS_CONSENSUS      -               0.24   15.5   0.1        67    7.7   0.0   2.8   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s2113_L_2118_2_5_9_COMPLEX, transcribed RNA sequence
+GCWW01024852.1_5     -          LOTUS_CONSENSUS      -               0.25   15.4   0.1      0.81   13.8   0.0   1.9   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10582_L_15733_3_30_3_COMPLEX, transcribed RNA sequence
+GCWW01035644.1_3     -          LOTUS_CONSENSUS      -               0.64   14.2   0.1   1.2e+02    6.9   0.0   2.9   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s2111_L_2118_0_5_6_COMPLEX, transcribed RNA sequence
+GCWW01024851.1_6     -          LOTUS_CONSENSUS      -               0.86   13.7   0.1       2.7   12.1   0.0   1.9   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10581_L_15733_2_30_3_COMPLEX, transcribed RNA sequence
+GCWW01024848.1_5     -          LOTUS_CONSENSUS      -               0.86   13.7   0.1       2.7   12.1   0.0   1.9   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10579_L_15733_0_31_3_COMPLEX, transcribed RNA sequence
+GCWW01024850.1_5     -          LOTUS_CONSENSUS      -               0.86   13.7   0.1       2.7   12.1   0.0   1.9   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s10580_L_15733_1_32_5_COMPLEX, transcribed RNA sequence
+GCWW01035645.1_1     -          LOTUS_CONSENSUS      -               0.92   13.6   0.1   2.4e+02    5.9   0.0   2.8   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s2112_L_2118_1_5_2_COMPLEX, transcribed RNA sequence
+GCWW01027708.1_6     -          LOTUS_CONSENSUS      -               0.93   13.6   0.1       5.9   11.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s1315_L_1256_3_27_9_COMPLEX, transcribed RNA sequence
+GCWW01027675.1_6     -          LOTUS_CONSENSUS      -               0.94   13.6   0.1       5.9   11.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Coccus sp. AD-2014 breed wildtype s1312_L_1256_0_29_2_COMPLEX, transcribed RNA sequence
+GCWW01038859.1_3     -          LOTUS_CONSENSUS      -                1.7   12.8   0.6       3.9   11.6   0.1   1.9   2   0   0   2   2   1   0 TSA: Coccus sp. AD-2014 breed wildtype s5009_L_5895_0_61_9_COMPLEX, transcribed RNA sequence
+GCWW01038861.1_3     -          LOTUS_CONSENSUS      -                1.7   12.8   0.6       3.9   11.6   0.1   1.9   2   0   0   2   2   1   0 TSA: Coccus sp. AD-2014 breed wildtype s5010_L_5895_1_63_3_COMPLEX, transcribed RNA sequence
+GCWW01027697.1_5     -          LOTUS_CONSENSUS      -                1.9   12.6   0.0         6   11.0   0.0   1.8   1   0   0   1   1   1   0 TSA: Coccus sp. AD-2014 breed wildtype s1314_L_1256_2_30_0_COMPLEX, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:11 2019
+# [ok]

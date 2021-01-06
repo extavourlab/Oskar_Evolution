@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPM01027060.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-24   87.8   0.0   1.3e-23   86.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Pimpla flavicoxis s8992_L_22784_0_a_48_5_l_1830 transcribed RNA sequence
+GBPM01021580.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-16   62.0   0.0   9.5e-15   57.9   0.0   2.6   2   0   0   2   2   2   1 TSA: Pimpla flavicoxis s4049_L_6640_0_a_40_8_l_5014 transcribed RNA sequence
+GBPM01007566.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-11   48.0   0.0   2.7e-08   37.1   0.0   2.6   2   0   0   2   2   2   2 TSA: Pimpla flavicoxis C138835_a_4_0_l_1182 transcribed RNA sequence
+GBPM01009406.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0011   22.4   0.0   1.7e+02    5.6   0.0   5.5   2   1   4   6   6   6   1 TSA: Pimpla flavicoxis C151251_a_14_0_l_3565 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:10:59 2019
+# [ok]

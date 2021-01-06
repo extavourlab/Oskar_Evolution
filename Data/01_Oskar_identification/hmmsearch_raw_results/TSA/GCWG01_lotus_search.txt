@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWG01047048.1_6     -          LOTUS_CONSENSUS      -            3.4e-16   63.5   0.0   1.3e-15   61.7   0.0   2.1   1   0   0   1   1   1   1 TSA: Anasa tristis breed wildtype s12060_L_69219_0_9_8_LINEAR, transcribed RNA sequence
+GCWG01055852.1_6     -          LOTUS_CONSENSUS      -            4.1e-12   50.4   0.0   7.4e-12   49.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Anasa tristis breed wildtype s7881_L_39243_0_6_0_LINEAR, transcribed RNA sequence
+GCWG01044662.1_2     -          LOTUS_CONSENSUS      -            1.5e-10   45.4   0.0      0.32   15.5   0.0   6.4   3   1   4   7   7   7   3 TSA: Anasa tristis breed wildtype C252214_9_0, transcribed RNA sequence
+GCWG01030449.1_3     -          LOTUS_CONSENSUS      -            3.5e-05   28.2   0.0   5.1e-05   27.7   0.0   1.3   1   0   0   1   1   1   1 TSA: Anasa tristis breed wildtype C200762_8_0, transcribed RNA sequence
+GCWG01047703.1_6     -          LOTUS_CONSENSUS      -            0.00028   25.3   0.1      0.24   15.9   0.0   2.9   2   0   0   2   2   2   2 TSA: Anasa tristis breed wildtype s12651_L_73601_0_8_0_LINEAR, transcribed RNA sequence
+GCWG01016416.1_3     -          LOTUS_CONSENSUS      -               0.49   14.9   0.1       0.7   14.4   0.1   1.4   1   1   0   1   1   1   0 TSA: Anasa tristis breed wildtype C160202_5_0, transcribed RNA sequence
+GCWG01031020.1_3     -          LOTUS_CONSENSUS      -               0.54   14.8   0.0      0.81   14.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Anasa tristis breed wildtype C202610_10_0, transcribed RNA sequence
+GCWG01055058.1_6     -          LOTUS_CONSENSUS      -                1.4   13.4   0.0       2.4   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Anasa tristis breed wildtype s7164_L_34816_1_5_1_COMPLEX, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:52 2019
+# [ok]

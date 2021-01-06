@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPI01016556.1_4     -          oskar_filtered.aligned.OSK_domain -            1.9e-25   92.9   0.6   2.6e-25   92.4   0.6   1.2   1   0   0   1   1   1   1 TSA: Urocerus augur C80716_a_3_0_l_879 transcribed RNA sequence
+GBPI01016556.1_6     -          oskar_filtered.aligned.OSK_domain -              3e-06   30.3   0.0   3.8e-06   29.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Urocerus augur C80716_a_3_0_l_879 transcribed RNA sequence
+GBPI01015408.1_2     -          oskar_filtered.aligned.OSK_domain -            1.3e-05   28.2   0.0   1.3e-05   28.2   0.0   2.6   2   1   0   2   2   2   1 TSA: Urocerus augur C76435_a_7_0_l_740 transcribed RNA sequence
+GBPI01010189.1_6     -          oskar_filtered.aligned.OSK_domain -              0.029   17.3   0.6     0.041   16.8   0.6   1.3   1   1   0   1   1   1   0 TSA: Urocerus augur C58626_a_7_0_l_410 transcribed RNA sequence
+GBPI01018452.1_6     -          oskar_filtered.aligned.OSK_domain -               0.16   14.8   0.4      0.26   14.2   0.4   1.3   1   0   0   1   1   1   0 TSA: Urocerus augur C88330_a_5_0_l_1253 transcribed RNA sequence
+GBPI01005221.1_1     -          oskar_filtered.aligned.OSK_domain -               0.64   12.9   0.3      0.65   12.9   0.3   1.1   1   0   0   1   1   1   0 TSA: Urocerus augur C43245_a_11_0_l_271 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:25 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GABK01001215.1_6     -          OSK_CONSENSUS        -             0.0066   18.3   0.2     0.011   17.5   0.2   1.4   1   0   0   1   1   1   1 TSA: Sialis lutaria contig01218 mRNA sequence
+GABK01001830.1_2     -          OSK_CONSENSUS        -               0.14   14.0   0.5      0.24   13.2   0.0   1.5   2   0   0   2   2   2   0 TSA: Sialis lutaria contig01833 mRNA sequence
+GABK01004658.1_5     -          OSK_CONSENSUS        -                1.5   10.7   4.7       1.5   10.6   2.9   2.0   1   1   1   2   2   2   0 TSA: Sialis lutaria contig04670 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GABK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GABK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GABK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:21 2019
+# [ok]

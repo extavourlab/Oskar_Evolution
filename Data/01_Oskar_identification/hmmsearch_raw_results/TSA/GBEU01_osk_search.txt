@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBEU01002494.1_1     -          OSK_CONSENSUS        -            6.3e-28  101.4   0.1   1.1e-27  100.6   0.1   1.4   1   0   0   1   1   1   1 TSA: Telenomus podisi Locus_3_Transcript_2483/6084_Confidence_1.000_Length_536 transcribed RNA sequence
+GBEU01002486.1_6     -          OSK_CONSENSUS        -              8e-28  101.1   0.1   1.4e-27  100.3   0.1   1.4   1   0   0   1   1   1   1 TSA: Telenomus podisi Locus_3_Transcript_2475/6084_Confidence_1.000_Length_536 transcribed RNA sequence
+GBEU01044525.1_1     -          OSK_CONSENSUS        -               0.24   15.1   0.1      0.35   14.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_18308_Transcript_1/1_Confidence_1.000_Length_487 transcribed RNA sequence
+GBEU01011912.1_2     -          OSK_CONSENSUS        -               0.26   14.9   0.1      0.53   13.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_933_Transcript_3/10_Confidence_0.110_Length_2467 transcribed RNA sequence
+GBEU01011913.1_4     -          OSK_CONSENSUS        -               0.26   14.9   0.1      0.53   13.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_933_Transcript_4/10_Confidence_0.110_Length_2467 transcribed RNA sequence
+GBEU01043839.1_2     -          OSK_CONSENSUS        -               0.36   14.5   1.1      0.36   14.5   0.2   1.4   2   0   0   2   2   2   0 TSA: Telenomus podisi Locus_17344_Transcript_1/1_Confidence_1.000_Length_476 transcribed RNA sequence
+GBEU01011918.1_2     -          OSK_CONSENSUS        -               0.45   14.1   0.1      0.93   13.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_933_Transcript_9/10_Confidence_0.206_Length_3858 transcribed RNA sequence
+GBEU01011915.1_6     -          OSK_CONSENSUS        -               0.45   14.1   0.1      0.93   13.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_933_Transcript_6/10_Confidence_0.206_Length_3858 transcribed RNA sequence
+GBEU01024329.1_6     -          OSK_CONSENSUS        -               0.47   14.1   0.3      0.76   13.4   0.3   1.4   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_4733_Transcript_2/4_Confidence_0.300_Length_783 transcribed RNA sequence
+GBEU01024328.1_5     -          OSK_CONSENSUS        -               0.48   14.0   0.3      0.76   13.4   0.3   1.4   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_4733_Transcript_1/4_Confidence_0.350_Length_788 transcribed RNA sequence
+GBEU01024330.1_5     -          OSK_CONSENSUS        -               0.62   13.7   0.3       1.4   12.6   0.3   1.6   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_4733_Transcript_3/4_Confidence_0.300_Length_1037 transcribed RNA sequence
+GBEU01024331.1_4     -          OSK_CONSENSUS        -               0.77   13.4   0.3       1.2   12.8   0.3   1.3   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_4733_Transcript_4/4_Confidence_0.850_Length_982 transcribed RNA sequence
+GBEU01044603.1_3     -          OSK_CONSENSUS        -                9.2    9.9   5.3         7   10.3   0.8   2.1   1   1   1   2   2   2   0 TSA: Telenomus podisi Locus_18382_Transcript_1/1_Confidence_1.000_Length_449 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBEU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:16 2019
+# [ok]

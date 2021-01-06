@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g11203.t1            -          oskar_filtered.aligned.LOTUS_domain -            3.6e-17   61.9   0.7   7.8e-17   60.9   0.3   1.6   2   0   0   2   2   2   1 -
+g6152.t1             -          oskar_filtered.aligned.LOTUS_domain -            8.2e-15   54.4   1.0   2.4e-14   52.9   1.0   1.8   1   0   0   1   1   1   1 -
+g1248.t1             -          oskar_filtered.aligned.LOTUS_domain -            0.00013   21.6   6.0       1.7    8.4   0.0   5.6   4   1   1   5   5   5   2 -
+g8982.t1             -          oskar_filtered.aligned.LOTUS_domain -              0.042   13.6   0.1        10    5.9   0.0   3.7   2   2   2   4   4   4   0 -
+g8966.t1             -          oskar_filtered.aligned.LOTUS_domain -              0.079   12.7   0.1      0.15   11.8   0.1   1.5   1   0   0   1   1   1   0 -
+g268.t1              -          oskar_filtered.aligned.LOTUS_domain -                2.2    8.0   6.9      0.72    9.6   0.5   3.0   3   1   0   3   3   3   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_001014945.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_001014945.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_001014945.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:28:05 2019
+# [ok]

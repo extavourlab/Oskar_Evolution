@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFM01030072.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-20   75.5   0.0   4.7e-14   55.8   0.0   3.2   3   0   0   3   3   3   2 TSA: Franklinothrips vespiformis breed wildtype s2828_L_7372_0_a_9_1_l_1560, transcribed RNA sequence
+GDFM01026550.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-18   69.6   0.0   1.1e-17   67.5   0.0   2.0   2   0   0   2   2   2   1 TSA: Franklinothrips vespiformis breed wildtype C83346_a_34_0_l_2354, transcribed RNA sequence
+GDFM01030863.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-16   64.3   0.0   2.3e-16   63.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Franklinothrips vespiformis breed wildtype s3539_L_14668_0_a_42_6_l_1171, transcribed RNA sequence
+GDFM01030073.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-15   58.5   0.0   1.4e-14   57.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Franklinothrips vespiformis breed wildtype s2829_L_7372_1_a_9_3_l_799, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:10 2019
+# [ok]

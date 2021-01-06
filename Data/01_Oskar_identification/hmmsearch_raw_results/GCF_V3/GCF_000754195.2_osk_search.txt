@@ -1,0 +1,15 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_016035546.1       -          oskar_filtered.aligned.OSK_domain -            2.3e-85  285.4   1.7   3.5e-85  284.8   0.1   2.1   3   0   0   3   3   3   1 uncharacterized protein Dsimw501_GD18580, isoform B [Drosophila simulans]
+XP_002104196.1       -          oskar_filtered.aligned.OSK_domain -            2.4e-85  285.4   1.8   3.4e-85  284.8   0.1   2.1   3   0   0   3   3   3   1 uncharacterized protein Dsimw501_GD18580, isoform A [Drosophila simulans]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000754195.2_ASM75419v2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000754195.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000754195.2_ASM75419v2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:51 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOF01031418.1_1     -          LOTUS_CONSENSUS      -            3.8e-13   54.1   0.0   3.5e-12   51.0   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella c27021_g1_i1 transcribed RNA sequence
+GEOF01031419.1_1     -          LOTUS_CONSENSUS      -            4.3e-13   53.9   0.0   3.7e-12   50.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella c27021_g1_i2 transcribed RNA sequence
+GEOF01040788.1_1     -          LOTUS_CONSENSUS      -            1.2e-05   30.1   0.0     0.012   20.4   0.0   3.1   2   1   0   2   2   2   2 TSA: Eudarcia simulatricella c28283_g4_i3 transcribed RNA sequence
+GEOF01005496.1_2     -          LOTUS_CONSENSUS      -               0.38   15.6   0.4      0.55   15.1   0.4   1.4   1   0   0   1   1   1   0 TSA: Eudarcia simulatricella c7504_g1_i1 transcribed RNA sequence
+GEOF01022957.1_6     -          LOTUS_CONSENSUS      -                1.1   14.2   0.1       2.4   13.1   0.1   1.5   1   0   0   1   1   1   0 TSA: Eudarcia simulatricella c23710_g1_i1 transcribed RNA sequence
+GEOF01004485.1_3     -          LOTUS_CONSENSUS      -                2.4   13.1   0.2       3.2   12.6   0.2   1.3   1   0   0   1   1   1   0 TSA: Eudarcia simulatricella c6270_g1_i1 transcribed RNA sequence
+GEOF01052010.1_4     -          LOTUS_CONSENSUS      -                2.5   13.0   0.0        31    9.5   0.0   2.8   2   0   0   2   2   2   0 TSA: Eudarcia simulatricella c29415_g2_i3 transcribed RNA sequence
+GEOF01045482.1_5     -          LOTUS_CONSENSUS      -                2.7   12.9   0.0       3.4   12.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Eudarcia simulatricella c28818_g3_i1 transcribed RNA sequence
+GEOF01052011.1_6     -          LOTUS_CONSENSUS      -                2.7   12.9   0.0        31    9.5   0.0   2.7   2   0   0   2   2   2   0 TSA: Eudarcia simulatricella c29415_g2_i4 transcribed RNA sequence
+GEOF01073429.1_3     -          LOTUS_CONSENSUS      -                4.7   12.1   0.0   4.5e+02    5.8   0.0   2.2   2   0   0   2   2   2   0 TSA: Eudarcia simulatricella c49622_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:42 2019
+# [ok]

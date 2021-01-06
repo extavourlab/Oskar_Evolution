@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERM01006138.1_1     -          LOTUS_CONSENSUS      -               0.23   15.8   1.6       0.4   15.0   1.6   1.5   1   1   0   1   1   1   0 TSA: Dorogostaiskia parasitica c23598_g1_i1 transcribed RNA sequence
+GERM01033821.1_4     -          LOTUS_CONSENSUS      -               0.29   15.5   0.1      0.83   14.0   0.1   1.7   1   0   0   1   1   1   0 TSA: Dorogostaiskia parasitica c56771_g1_i1 transcribed RNA sequence
+GERM01017793.1_1     -          LOTUS_CONSENSUS      -                1.3   13.3   0.1       2.7   12.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Dorogostaiskia parasitica c45210_g1_i1 transcribed RNA sequence
+GERM01026621.1_1     -          LOTUS_CONSENSUS      -                2.5   12.4   0.0       2.5   12.4   0.0   2.1   3   0   0   3   3   3   0 TSA: Dorogostaiskia parasitica c52519_g2_i2 transcribed RNA sequence
+GERM01031602.1_2     -          LOTUS_CONSENSUS      -                7.2   11.0   4.6         2   12.7   0.7   2.2   2   1   1   3   3   3   0 TSA: Dorogostaiskia parasitica c55654_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERM.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERM.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERM.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:50 2019
+# [ok]

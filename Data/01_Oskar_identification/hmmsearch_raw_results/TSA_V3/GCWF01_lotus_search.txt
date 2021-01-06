@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWF01061985.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.5e-25   91.8   8.3   1.3e-12   52.2   0.1   4.5   3   1   1   4   4   4   3 TSA: Bruchomorpha oculata breed wildtype s19314_L_103953_0_14_8_LINEAR, transcribed RNA sequence
+GCWF01051595.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-21   80.8   0.0   6.5e-21   78.9   0.0   2.0   1   0   0   1   1   1   1 TSA: Bruchomorpha oculata breed wildtype C401590_12_0, transcribed RNA sequence
+GCWF01057424.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.8e-05   27.5   0.1       1.7   13.4   0.0   3.7   3   0   0   3   3   3   2 TSA: Bruchomorpha oculata breed wildtype s15199_L_73409_0_44_6_LINEAR, transcribed RNA sequence
+GCWF01059079.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.016   19.9   0.0     0.063   18.0   0.0   2.0   3   0   0   3   3   3   0 TSA: Bruchomorpha oculata breed wildtype s16696_L_84131_0_8_6_LINEAR, transcribed RNA sequence
+GCWF01003178.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.074   17.8   2.5      0.25   16.1   2.3   1.8   1   1   0   1   1   1   0 TSA: Bruchomorpha oculata breed wildtype C242679_5_0, transcribed RNA sequence
+GCWF01017455.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.37   15.5   0.3      0.52   15.0   0.3   1.2   1   0   0   1   1   1   0 TSA: Bruchomorpha oculata breed wildtype C282509_2_0, transcribed RNA sequence
+GCWF01046677.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.72   14.6   0.1       1.4   13.7   0.1   1.4   1   0   0   1   1   1   0 TSA: Bruchomorpha oculata breed wildtype C379188_7_0, transcribed RNA sequence
+GCWF01008295.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.0   0.7       1.2   13.8   0.7   1.0   1   0   0   1   1   1   0 TSA: Bruchomorpha oculata breed wildtype C256664_4_0, transcribed RNA sequence
+GCWF01041519.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.8   0.4   1.4e+02    7.2   0.1   2.3   1   1   0   2   2   2   0 TSA: Bruchomorpha oculata breed wildtype C358694_2_0, transcribed RNA sequence
+GCWF01064016.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  4   12.2   0.0       6.3   11.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Bruchomorpha oculata breed wildtype s3559_L_10977_0_9_5_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:24 2019
+# [ok]

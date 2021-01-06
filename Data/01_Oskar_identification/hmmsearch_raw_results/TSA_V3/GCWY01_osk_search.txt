@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWY01017914.1_2     -          oskar_filtered.aligned.OSK_domain -            1.4e-22   83.1   3.4   3.2e-22   81.9   3.4   1.7   1   0   0   1   1   1   1 TSA: Echmepteryx hageni breed wildtype i18232_g_ig11723_l_1683_nC_1, transcribed RNA sequence
+GCWY01009522.1_6     -          oskar_filtered.aligned.OSK_domain -            1.2e-13   53.9   0.1   1.2e-13   53.9   0.1   1.2   1   0   0   1   1   1   1 TSA: Echmepteryx hageni breed wildtype i09356_g_ig02847_l_712_nC_1, transcribed RNA sequence
+GCWY01010833.1_3     -          oskar_filtered.aligned.OSK_domain -               0.37   13.2   1.6      0.38   13.2   0.6   1.5   1   1   0   1   1   1   0 TSA: Echmepteryx hageni breed wildtype i10668_g_ig04159_l_431_nC_1, transcribed RNA sequence
+GCWY01012348.1_6     -          oskar_filtered.aligned.OSK_domain -               0.75   12.2   3.3      0.79   12.2   3.3   1.3   1   1   0   1   1   1   0 TSA: Echmepteryx hageni breed wildtype i12186_g_ig05677_l_581_nC_1, transcribed RNA sequence
+GCWY01012180.1_5     -          oskar_filtered.aligned.OSK_domain -                2.1   10.8   7.1       1.7   11.1   3.5   2.1   1   1   0   2   2   2   0 TSA: Echmepteryx hageni breed wildtype i12018_g_ig05509_l_1080_nC_1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:43 2019
+# [ok]

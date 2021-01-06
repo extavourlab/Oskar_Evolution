@@ -1,0 +1,26 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYQ01057234.1_6     -          oskar_filtered.aligned.OSK_domain -            7.3e-35  124.5   0.0   1.3e-34  123.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s9241_L_35641_0_4_9_LINEAR, transcribed RNA sequence
+GCYQ01052767.1_4     -          oskar_filtered.aligned.OSK_domain -            1.5e-29  107.2   0.1   3.8e-29  105.9   0.1   1.7   1   0   0   1   1   1   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s5127_L_18106_0_63_5_LINEAR, transcribed RNA sequence
+GCYQ01043071.1_6     -          oskar_filtered.aligned.OSK_domain -              4e-25   92.8   0.4   1.1e-24   91.3   0.4   1.8   1   0   0   1   1   1   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s12417_L_51211_1_57_0_BUBBLE, transcribed RNA sequence
+GCYQ01043070.1_4     -          oskar_filtered.aligned.OSK_domain -            4.7e-19   73.0   0.2   1.2e-18   71.7   0.0   1.7   2   0   0   2   2   2   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s12416_L_51211_0_58_7_BUBBLE, transcribed RNA sequence
+GCYQ01038229.1_6     -          oskar_filtered.aligned.OSK_domain -            2.5e-11   47.8   0.2   4.7e-11   46.9   0.2   1.4   1   0   0   1   1   1   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype C245339_20_0, transcribed RNA sequence
+GCYQ01047595.1_4     -          oskar_filtered.aligned.OSK_domain -            1.3e-09   42.2   0.4   2.4e-09   41.3   0.4   1.4   1   0   0   1   1   1   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s16546_L_70919_0_4_4_LINEAR, transcribed RNA sequence
+GCYQ01052189.1_1     -          oskar_filtered.aligned.OSK_domain -            9.9e-05   26.3   0.1   0.00016   25.6   0.1   1.3   1   0   0   1   1   1   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s4595_L_16005_0_2_8_LINEAR, transcribed RNA sequence
+GCYQ01001608.1_6     -          oskar_filtered.aligned.OSK_domain -            0.00013   25.9   0.0   0.00013   25.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Phlaeothripidae sp. AD-2014 breed wildtype C109755_3_0, transcribed RNA sequence
+GCYQ01056415.1_6     -          oskar_filtered.aligned.OSK_domain -              0.018   18.9   1.7     0.018   18.9   1.7   1.8   2   0   0   2   2   2   0 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s8484_L_32039_0_2_5_LINEAR, transcribed RNA sequence
+GCYQ01051268.1_6     -          oskar_filtered.aligned.OSK_domain -              0.026   18.4   0.0     0.048   17.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s3747_L_12864_1_58_3_COMPLEX, transcribed RNA sequence
+GCYQ01051267.1_6     -          oskar_filtered.aligned.OSK_domain -              0.071   17.0   0.0      0.13   16.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s3746_L_12864_0_52_1_COMPLEX, transcribed RNA sequence
+GCYQ01033098.1_1     -          oskar_filtered.aligned.OSK_domain -               0.78   13.6   0.0      0.95   13.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Phlaeothripidae sp. AD-2014 breed wildtype C217881_5_0, transcribed RNA sequence
+GCYQ01055401.1_5     -          oskar_filtered.aligned.OSK_domain -                1.8   12.4   0.0       2.9   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Phlaeothripidae sp. AD-2014 breed wildtype s7556_L_27927_0_2_0_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:26 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASG02028517.1_1     -          OSK_CONSENSUS        -                0.5   13.6   2.4       2.7   11.2   0.5   3.4   1   1   1   2   2   2   0 TSA: Yponomeuta evonymellus s1267_L_1109_2_a_15_9_l_5924 transcribed RNA sequence
+GASG02013559.1_1     -          OSK_CONSENSUS        -               0.71   13.1   0.1      0.99   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Yponomeuta evonymellus C171442_a_7_0_l_380 transcribed RNA sequence
+GASG02008940.1_2     -          OSK_CONSENSUS        -                1.1   12.5   0.1       1.5   12.1   0.1   1.4   1   1   0   1   1   1   0 TSA: Yponomeuta evonymellus C154135_a_37_0_l_286 transcribed RNA sequence
+GASG02018876.1_1     -          OSK_CONSENSUS        -                1.2   12.3   0.0       2.2   11.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Yponomeuta evonymellus C192668_a_9_0_l_613 transcribed RNA sequence
+GASG02032318.1_3     -          OSK_CONSENSUS        -                1.3   12.2   0.1       1.7   11.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Yponomeuta evonymellus s4118_L_4323_0_a_3_7_l_460 transcribed RNA sequence
+GASG02010240.1_2     -          OSK_CONSENSUS        -                1.7   11.9   0.8       1.8   11.8   0.8   1.0   1   0   0   1   1   1   0 TSA: Yponomeuta evonymellus C158971_a_15_0_l_308 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASG02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:42 2019
+# [ok]

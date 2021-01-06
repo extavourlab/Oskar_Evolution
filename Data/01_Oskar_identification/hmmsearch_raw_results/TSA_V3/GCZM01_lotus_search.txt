@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZM01016483.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   66.1   0.0   3.8e-17   64.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Cycadothrips chadwicki breed wildtype s4436_L_17946_0_34_1_LINEAR, transcribed RNA sequence
+GCZM01006849.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.04   16.7   0.0       7.3    9.4   0.0   2.0   1   1   1   2   2   2   0 TSA: Cycadothrips chadwicki breed wildtype C54801_3_0, transcribed RNA sequence
+GCZM01013927.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.063   16.1   0.9     0.063   16.1   0.9   1.9   2   1   0   2   2   2   0 TSA: Cycadothrips chadwicki breed wildtype s2113_L_8447_0_22_4_LINEAR, transcribed RNA sequence
+GCZM01017283.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.099   15.5   0.0        45    6.9   0.0   2.4   1   1   1   2   2   2   0 TSA: Cycadothrips chadwicki breed wildtype s515_L_1883_0_3_2_LINEAR, transcribed RNA sequence
+GCZM01000749.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.66   12.8   0.0      0.74   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Cycadothrips chadwicki breed wildtype C34885_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:49 2019
+# [ok]

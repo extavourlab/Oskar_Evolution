@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOD01040562.1_4     -          LOTUS_CONSENSUS      -            1.2e-15   62.4   0.0   3.5e-13   54.6   0.0   2.7   2   0   0   2   2   2   1 TSA: Dryadaula visaliella c37561_g2_i2 transcribed RNA sequence
+GEOD01056996.1_3     -          LOTUS_CONSENSUS      -            1.3e-10   46.3   0.1   4.6e-07   35.0   0.0   3.4   3   0   0   3   3   3   1 TSA: Dryadaula visaliella c40631_g1_i4 transcribed RNA sequence
+GEOD01040561.1_4     -          LOTUS_CONSENSUS      -            3.8e-10   44.9   0.0   1.1e-07   37.0   0.0   2.7   2   0   0   2   2   2   1 TSA: Dryadaula visaliella c37561_g2_i1 transcribed RNA sequence
+GEOD01056996.1_2     -          LOTUS_CONSENSUS      -            1.1e-05   30.6   0.0   2.5e-05   29.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Dryadaula visaliella c40631_g1_i4 transcribed RNA sequence
+GEOD01056993.1_3     -          LOTUS_CONSENSUS      -            9.4e-05   27.6   0.1     0.013   20.7   0.0   3.4   3   0   0   3   3   3   1 TSA: Dryadaula visaliella c40631_g1_i1 transcribed RNA sequence
+GEOD01056993.1_1     -          LOTUS_CONSENSUS      -              0.014   20.6   0.0       2.2   13.6   0.0   3.1   3   0   0   3   3   3   0 TSA: Dryadaula visaliella c40631_g1_i1 transcribed RNA sequence
+GEOD01056995.1_1     -          LOTUS_CONSENSUS      -               0.28   16.4   0.0      0.53   15.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Dryadaula visaliella c40631_g1_i3 transcribed RNA sequence
+GEOD01096129.1_1     -          LOTUS_CONSENSUS      -                1.1   14.5   0.3       1.2   14.4   0.3   1.1   1   0   0   1   1   1   0 TSA: Dryadaula visaliella c66305_g1_i1 transcribed RNA sequence
+GEOD01026537.1_5     -          LOTUS_CONSENSUS      -                1.3   14.3   1.7       2.1   13.6   1.7   1.4   1   0   0   1   1   1   0 TSA: Dryadaula visaliella c30758_g1_i1 transcribed RNA sequence
+GEOD01056994.1_2     -          LOTUS_CONSENSUS      -                3.5   12.9   0.0       5.1   12.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Dryadaula visaliella c40631_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:20 2019
+# [ok]

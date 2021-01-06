@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXG02065140.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-19   73.3   0.0   7.3e-19   73.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Gynaikothrips ficorum C270434_a_4_0_l_471 transcribed RNA sequence
+GAXG02102443.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-14   59.2   0.2   3.8e-14   57.8   0.0   1.7   2   0   0   2   2   2   1 TSA: Gynaikothrips ficorum s2036_L_2801_0_a_3_8_l_758 transcribed RNA sequence
+GAXG02090017.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-14   59.0   0.0   3.7e-14   57.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Gynaikothrips ficorum C345177_a_14_0_l_1566 transcribed RNA sequence
+GAXG02068543.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-10   46.6   0.1     2e-10   45.9   0.1   1.4   1   0   0   1   1   1   1 TSA: Gynaikothrips ficorum C280340_a_3_0_l_516 transcribed RNA sequence
+GAXG02090990.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-05   29.2   0.8    0.0057   22.0   0.1   2.6   1   1   1   2   2   2   1 TSA: Gynaikothrips ficorum C348263_a_7_0_l_1855 transcribed RNA sequence
+GAXG02055087.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.086   18.2   0.2       2.2   13.6   0.1   2.2   2   0   0   2   2   2   0 TSA: Gynaikothrips ficorum C242548_a_3_0_l_380 transcribed RNA sequence
+GAXG02077971.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.2   14.5   0.1       3.5   13.0   0.0   1.9   2   0   0   2   2   2   0 TSA: Gynaikothrips ficorum C307868_a_6_0_l_698 transcribed RNA sequence
+GAXG02038727.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.7   14.0   0.2       2.7   13.4   0.2   1.3   1   0   0   1   1   1   0 TSA: Gynaikothrips ficorum C197502_a_5_0_l_276 transcribed RNA sequence
+GAXG02039223.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.5   13.0   0.0       4.7   12.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Gynaikothrips ficorum C198854_a_6_0_l_279 transcribed RNA sequence
+GAXG02099227.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.3   12.7   0.2        23   10.4   0.0   2.1   2   0   0   2   2   2   0 TSA: Gynaikothrips ficorum s16064_L_83437_0_a_8_4_l_993 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXG02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:34 2019
+# [ok]

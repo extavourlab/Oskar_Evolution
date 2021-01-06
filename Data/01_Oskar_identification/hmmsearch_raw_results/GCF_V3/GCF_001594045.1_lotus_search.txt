@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018043713.1       -          oskar_filtered.aligned.LOTUS_domain -            7.7e-31  106.3   0.1   2.3e-30  104.8   0.1   1.9   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108684124 isoform X2 [Atta colombica]
+XP_018056899.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-22   77.6   0.1   4.5e-19   68.5   0.0   3.2   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7-like [Atta colombica]
+XP_018056900.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-22   77.6   0.1   4.5e-19   68.5   0.0   3.2   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7-like [Atta colombica]
+XP_018056901.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-22   77.6   0.1   4.5e-19   68.5   0.0   3.2   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7-like [Atta colombica]
+XP_018055255.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-17   62.7   5.8   2.7e-12   46.8   0.0   4.4   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC108691835 isoform X2 [Atta colombica]
+XP_018055254.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-16   60.0  11.4   2.4e-12   46.9   0.0   5.2   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC108691835 isoform X1 [Atta colombica]
+XP_018060470.1       -          oskar_filtered.aligned.LOTUS_domain -              0.024   14.9   0.7        11    6.3   0.0   3.6   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X2 [Atta colombica]
+XP_018059370.1       -          oskar_filtered.aligned.LOTUS_domain -              0.041   14.1   0.1       9.5    6.5   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Atta colombica]
+XP_018059375.1       -          oskar_filtered.aligned.LOTUS_domain -              0.041   14.1   0.1       9.5    6.5   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Atta colombica]
+XP_018059371.1       -          oskar_filtered.aligned.LOTUS_domain -              0.042   14.0   0.1       9.7    6.5   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Atta colombica]
+XP_018059372.1       -          oskar_filtered.aligned.LOTUS_domain -              0.042   14.0   0.1       9.7    6.5   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Atta colombica]
+XP_018059373.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   13.9   0.2        11    6.3   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X3 [Atta colombica]
+XP_018060467.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.3   0.8        20    5.5   0.0   3.4   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Atta colombica]
+XP_018060468.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.3   0.8        20    5.5   0.0   3.4   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Atta colombica]
+XP_018060469.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.3   0.8        20    5.5   0.0   3.4   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Atta colombica]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594045.1_Acol1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594045.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594045.1_Acol1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:54 2019
+# [ok]

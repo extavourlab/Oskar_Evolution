@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPG01074019.1_5     -          LOTUS_CONSENSUS      -               0.24   16.3   0.2      0.52   15.2   0.2   1.5   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c82764_g1_i1 transcribed RNA sequence
+GEPG01015182.1_4     -          LOTUS_CONSENSUS      -               0.61   15.0   0.0      0.72   14.8   0.0   1.5   1   1   0   1   1   1   0 TSA: Boeckaxelia carpenterii c31417_g1_i1 transcribed RNA sequence
+GEPG01036854.1_6     -          LOTUS_CONSENSUS      -                1.1   14.2   0.1       4.4   12.3   0.1   2.0   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c51820_g3_i1 transcribed RNA sequence
+GEPG01070491.1_6     -          LOTUS_CONSENSUS      -                2.7   12.9   0.4        15   10.6   0.1   1.9   2   0   0   2   2   2   0 TSA: Boeckaxelia carpenterii c78677_g1_i1 transcribed RNA sequence
+GEPG01005923.1_3     -          LOTUS_CONSENSUS      -                  3   12.8   0.1       4.3   12.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c12983_g1_i1 transcribed RNA sequence
+GEPG01063150.1_2     -          LOTUS_CONSENSUS      -                4.1   12.3   0.0       8.4   11.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c70094_g1_i1 transcribed RNA sequence
+GEPG01017281.1_1     -          LOTUS_CONSENSUS      -                  7   11.6   0.0        13   10.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c34609_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPG.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPG.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPG.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:01 2019
+# [ok]

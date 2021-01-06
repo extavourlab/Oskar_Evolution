@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGEH01044402.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-15   61.2   0.2     3e-06   32.3   0.0   3.6   3   1   1   4   4   4   2 TSA: Papaipema sp. 4 SJO-2017 c50009_g3_i1 transcribed RNA sequence
+GGEH01036996.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-14   57.5   0.4   6.9e-12   50.4   0.0   3.2   3   0   0   3   3   3   1 TSA: Papaipema sp. 4 SJO-2017 c47583_g1_i1 transcribed RNA sequence
+GGEH01044403.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-05   29.2   0.2   0.00044   25.3   0.0   2.7   1   1   1   2   2   2   1 TSA: Papaipema sp. 4 SJO-2017 c50009_g3_i2 transcribed RNA sequence
+GGEH01051023.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.39   15.8   0.0      0.58   15.3   0.0   1.3   1   1   0   1   1   1   0 TSA: Papaipema sp. 4 SJO-2017 c51117_g1_i1 transcribed RNA sequence
+GGEH01071112.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.62   15.2   0.1      0.91   14.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Papaipema sp. 4 SJO-2017 c52735_g12_i1 transcribed RNA sequence
+GGEH01077097.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.6   13.9   0.1       1.7   13.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Papaipema sp. 4 SJO-2017 c57877_g1_i1 transcribed RNA sequence
+GGEH01026943.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.2   0.5       5.1   12.3   0.5   1.5   1   0   0   1   1   1   0 TSA: Papaipema sp. 4 SJO-2017 c42903_g5_i1 transcribed RNA sequence
+GGEH01004388.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.9   13.1   0.0         5   12.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Papaipema sp. 4 SJO-2017 c17325_g1_i1 transcribed RNA sequence
+GGEH01014582.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.4   12.8   0.5       7.2   11.8   0.5   1.5   1   1   0   1   1   1   0 TSA: Papaipema sp. 4 SJO-2017 c34628_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGEH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGEH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGEH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:25 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAVA02016919.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-25   91.4   1.8   8.1e-25   90.0   0.0   2.8   3   0   0   3   3   3   1 TSA: Triarthria setipennis s1378_L_1418_0_a_72_1_l_2346 transcribed RNA sequence
+GAVA02016920.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-25   91.4   1.8   8.1e-25   90.0   0.0   2.8   3   0   0   3   3   3   1 TSA: Triarthria setipennis s1379_L_1418_1_a_71_6_l_2346 transcribed RNA sequence
+GAVA02023240.1_3     -          oskar_filtered.aligned.LOTUS_domain -              1e-11   47.9   2.8   1.3e-11   47.6   0.0   2.6   3   0   0   3   3   3   1 TSA: Triarthria setipennis s7085_L_16647_0_a_51_2_l_2449 transcribed RNA sequence
+GAVA02002752.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-08   36.0   0.1   5.2e-08   36.0   0.1   2.9   3   0   0   3   3   3   1 TSA: Triarthria setipennis C110115_a_51_0_l_4113 transcribed RNA sequence
+GAVA02000765.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.15   15.3   1.9      0.19   14.9   0.2   1.9   2   0   0   2   2   2   0 TSA: Triarthria setipennis C102871_a_47_0_l_1633 transcribed RNA sequence
+GAVA02023240.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.27   14.5   0.1         2   11.7   0.0   2.5   2   0   0   2   2   2   0 TSA: Triarthria setipennis s7085_L_16647_0_a_51_2_l_2449 transcribed RNA sequence
+GAVA02009837.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.46   13.7   0.2       0.5   13.6   0.2   1.2   1   0   0   1   1   1   0 TSA: Triarthria setipennis C74127_a_50_0_l_369 transcribed RNA sequence
+GAVA02024568.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.47   13.7   1.2   1.1e+02    6.1   0.1   4.2   4   1   0   4   4   4   0 TSA: Triarthria setipennis s8285_L_24783_0_a_31_2_l_5002 transcribed RNA sequence
+GAVA02019119.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.61   13.4   0.0       1.7   11.9   0.0   1.9   1   0   0   1   1   1   0 TSA: Triarthria setipennis s3361_L_4435_2_a_54_0_l_1707 transcribed RNA sequence
+GAVA02019118.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.62   13.3   0.0       1.9   11.8   0.0   1.9   1   0   0   1   1   1   0 TSA: Triarthria setipennis s3360_L_4435_1_a_57_6_l_1801 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVA02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAVA02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVA02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:30 2019
+# [ok]

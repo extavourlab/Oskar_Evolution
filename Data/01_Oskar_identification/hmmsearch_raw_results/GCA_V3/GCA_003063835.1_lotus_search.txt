@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g21505.t1            -          oskar_filtered.aligned.LOTUS_domain -              1e-32  113.5   0.0   3.4e-32  111.9   0.0   2.0   1   0   0   1   1   1   1 -
+g23671.t1            -          oskar_filtered.aligned.LOTUS_domain -            7.2e-23   81.9   3.3   1.1e-20   74.9   0.0   3.9   4   0   0   4   4   4   1 -
+g24057.t1            -          oskar_filtered.aligned.LOTUS_domain -            4.8e-17   63.2   0.5   2.1e-09   38.7   0.0   4.2   4   0   0   4   4   4   2 -
+g35258.t1            -          oskar_filtered.aligned.LOTUS_domain -            4.4e-06   28.0   0.0      0.38   12.2   0.0   4.9   3   2   1   4   4   4   2 -
+g39998.t1            -          oskar_filtered.aligned.LOTUS_domain -               0.19   13.2   0.7      0.71   11.3   0.2   2.2   2   0   0   2   2   2   0 -
+g15531.t1            -          oskar_filtered.aligned.LOTUS_domain -               0.52   11.8   0.0      0.52   11.8   0.0   2.2   2   0   0   2   2   2   0 -
+g19380.t1            -          oskar_filtered.aligned.LOTUS_domain -                1.2   10.6   2.9       1.9   10.0   0.1   2.8   2   1   0   2   2   2   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_003063835.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_003063835.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_003063835.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:27:54 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCGJ01017980.1_3     -          oskar_filtered.aligned.OSK_domain -               0.33   14.8   0.1      0.67   13.9   0.1   1.5   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene2408_test2_name transcribed RNA sequence
+GCGJ01043229.1_5     -          oskar_filtered.aligned.OSK_domain -               0.48   14.3   0.4      0.53   14.2   0.4   1.2   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene27669_test2_name transcribed RNA sequence
+GCGJ01023538.1_6     -          oskar_filtered.aligned.OSK_domain -               0.48   14.3   0.1      0.48   14.3   0.1   1.0   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene7968_test2_name transcribed RNA sequence
+GCGJ01038119.1_2     -          oskar_filtered.aligned.OSK_domain -                  1   13.3   1.0       1.7   12.6   1.0   1.7   1   1   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene22558_test2_name transcribed RNA sequence
+GCGJ01003001.1_3     -          oskar_filtered.aligned.OSK_domain -                1.3   13.0   1.3       1.9   12.4   1.3   1.4   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL1299.Contig1_test2_name transcribed RNA sequence
+GCGJ01019029.1_3     -          oskar_filtered.aligned.OSK_domain -                  2   12.3   0.2       2.1   12.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene3458_test2_name transcribed RNA sequence
+GCGJ01011435.1_6     -          oskar_filtered.aligned.OSK_domain -                2.3   12.1   0.0       2.4   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL6385.Contig2_test2_name transcribed RNA sequence
+GCGJ01038682.1_5     -          oskar_filtered.aligned.OSK_domain -                2.4   12.1   0.0         3   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene23121_test2_name transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCGJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:37 2019
+# [ok]

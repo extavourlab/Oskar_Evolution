@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g6282.t1             -          oskar_filtered.aligned.LOTUS_domain -            8.2e-25   87.1   0.3   3.3e-24   85.1   0.3   2.1   1   0   0   1   1   1   1 -
+g3375.t1             -          oskar_filtered.aligned.LOTUS_domain -            8.1e-13   48.6   0.0     2e-12   47.3   0.0   1.7   1   0   0   1   1   1   1 -
+g9812.t1             -          oskar_filtered.aligned.LOTUS_domain -            5.1e-11   42.8   0.0   5.1e-11   42.8   0.0   2.7   3   0   0   3   3   3   1 -
+g3430.t1             -          oskar_filtered.aligned.LOTUS_domain -              0.019   15.3   0.0     0.021   15.1   0.0   1.2   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_008042575.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_008042575.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_008042575.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:27:21 2019
+# [ok]

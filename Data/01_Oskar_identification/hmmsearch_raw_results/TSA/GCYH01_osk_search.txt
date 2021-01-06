@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYH01030618.1_3     -          OSK_CONSENSUS        -            3.1e-21   79.7   0.0   2.2e-19   73.7   0.0   2.2   2   0   0   2   2   2   1 TSA: Phylloscelis atra breed wildtype C265359_5_0, transcribed RNA sequence
+GCYH01017682.1_3     -          OSK_CONSENSUS        -            6.9e-14   55.8   0.0   7.5e-14   55.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Phylloscelis atra breed wildtype C212127_2_0, transcribed RNA sequence
+GCYH01046624.1_6     -          OSK_CONSENSUS        -                0.1   16.2   1.2        14    9.4   0.1   2.4   2   0   0   2   2   2   0 TSA: Phylloscelis atra breed wildtype s4673_L_8680_0_7_9_FORK, transcribed RNA sequence
+GCYH01032326.1_5     -          OSK_CONSENSUS        -               0.29   14.8   0.6      0.55   13.9   0.6   1.4   1   0   0   1   1   1   0 TSA: Phylloscelis atra breed wildtype C273724_11_0, transcribed RNA sequence
+GCYH01046625.1_6     -          OSK_CONSENSUS        -                1.1   13.0   1.9   1.2e+02    6.3   0.2   2.4   2   0   0   2   2   2   0 TSA: Phylloscelis atra breed wildtype s4674_L_8680_1_9_3_FORK, transcribed RNA sequence
+GCYH01000131.1_1     -          OSK_CONSENSUS        -                1.5   12.4   0.1       1.6   12.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Phylloscelis atra breed wildtype C153212_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:12 2019
+# [ok]

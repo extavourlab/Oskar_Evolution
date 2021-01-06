@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_030572142.1       -          LOTUS_CONSENSUS      -            3.8e-27   94.6   0.1   4.6e-26   91.2   0.1   2.8   2   0   0   2   2   2   1 maternal effect protein oskar [Drosophila novamexicana]
+XP_030558430.1       -          LOTUS_CONSENSUS      -            1.5e-11   44.7   0.0     1e-10   42.0   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC115760969 [Drosophila novamexicana]
+XP_030573785.1       -          LOTUS_CONSENSUS      -            3.7e-09   37.0   0.0   1.6e-08   35.0   0.0   2.2   1   0   0   1   1   1   1 uncharacterized protein LOC115771985 isoform X3 [Drosophila novamexicana]
+XP_030573768.1       -          LOTUS_CONSENSUS      -            5.2e-09   36.5   0.0     2e-08   34.6   0.0   2.1   1   0   0   1   1   1   1 uncharacterized protein LOC115771985 isoform X1 [Drosophila novamexicana]
+XP_030556872.1       -          LOTUS_CONSENSUS      -             0.0046   17.4   0.0    0.0049   17.3   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC115759895 [Drosophila novamexicana]
+XP_030568267.1       -          LOTUS_CONSENSUS      -              0.086   13.3   0.1      0.23   12.0   0.1   1.7   1   0   0   1   1   1   0 uncharacterized protein LOC115767999 isoform X2 [Drosophila novamexicana]
+XP_030568265.1       -          LOTUS_CONSENSUS      -               0.09   13.3   0.1      0.24   11.9   0.1   1.7   1   0   0   1   1   1   0 uncharacterized protein LOC115767999 isoform X1 [Drosophila novamexicana]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003285875.2_DnovRS2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003285875.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003285875.2_DnovRS2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:07 2019
+# [ok]

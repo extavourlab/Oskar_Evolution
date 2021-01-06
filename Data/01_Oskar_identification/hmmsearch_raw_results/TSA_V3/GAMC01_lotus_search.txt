@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAMC01000912.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-28  101.5   0.0   1.3e-26   95.6   0.0   3.4   3   0   0   3   3   3   1 TSA: Ceratitis capitata comp51028_c0_seq2 mRNA sequence
+GAMC01000911.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-28  101.4   0.0   1.3e-26   95.6   0.0   3.4   3   0   0   3   3   3   1 TSA: Ceratitis capitata comp51028_c0_seq1 mRNA sequence
+GAMC01002628.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-17   64.7   0.1   1.8e-16   63.0   0.1   2.0   1   0   0   1   1   1   1 TSA: Ceratitis capitata comp56621_c0_seq1 mRNA sequence
+GAMC01002629.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-17   64.4   0.1   2.2e-16   62.8   0.1   1.9   1   0   0   1   1   1   1 TSA: Ceratitis capitata comp56621_c0_seq2 mRNA sequence
+GAMC01007336.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-10   43.8   0.0   1.8e-10   43.8   0.0   2.3   2   1   0   2   2   2   1 TSA: Ceratitis capitata comp60701_c1_seq1 mRNA sequence
+GAMC01014855.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.062   16.3   0.0      0.18   14.9   0.0   1.7   1   0   0   1   1   1   0 TSA: Ceratitis capitata comp64046_c5_seq1.1 mRNA sequence
+GAMC01014856.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.062   16.3   0.0      0.18   14.9   0.0   1.7   1   0   0   1   1   1   0 TSA: Ceratitis capitata comp64046_c5_seq1.2 mRNA sequence
+GAMC01002482.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.56   13.3   0.7       1.3   12.1   0.7   1.5   1   0   0   1   1   1   0 TSA: Ceratitis capitata comp56405_c0_seq1 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAMC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAMC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAMC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:00 2019
+# [ok]

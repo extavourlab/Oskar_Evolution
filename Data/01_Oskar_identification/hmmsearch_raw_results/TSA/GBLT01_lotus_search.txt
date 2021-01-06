@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLT01019269.1_6     -          LOTUS_CONSENSUS      -              4e-19   71.9   2.5   9.2e-15   58.0   0.7   2.4   2   0   0   2   2   2   2 TSA: Perilampus aeneus C92977_a_3_0_l_1238 transcribed RNA sequence
+GBLT01001719.1_6     -          LOTUS_CONSENSUS      -            5.2e-13   52.3   0.1   2.8e-12   50.0   0.0   2.3   2   0   0   2   2   2   1 TSA: Perilampus aeneus C106580_a_24_0_l_3329 transcribed RNA sequence
+GBLT01008744.1_1     -          LOTUS_CONSENSUS      -            6.6e-12   48.8   0.0   1.5e-11   47.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Perilampus aeneus C56262_a_5_0_l_327 transcribed RNA sequence
+GBLT01025818.1_1     -          LOTUS_CONSENSUS      -               0.12   15.9   0.2      0.51   13.9   0.2   2.0   1   0   0   1   1   1   0 TSA: Perilampus aeneus s5270_L_10613_1_a_11_6_l_3674 transcribed RNA sequence
+GBLT01025816.1_3     -          LOTUS_CONSENSUS      -               0.24   14.9   0.3      0.76   13.3   0.3   1.8   1   0   0   1   1   1   0 TSA: Perilampus aeneus s5269_L_10613_0_a_22_2_l_4885 transcribed RNA sequence
+GBLT01018927.1_4     -          LOTUS_CONSENSUS      -                4.5   10.9   5.6   2.9e+02    5.1   0.3   4.0   2   2   0   2   2   2   0 TSA: Perilampus aeneus C91639_a_19_0_l_1158 transcribed RNA sequence
+GBLT01015276.1_1     -          LOTUS_CONSENSUS      -                  6   10.5   5.9       7.3   10.2   3.0   2.3   2   0   0   2   2   2   0 TSA: Perilampus aeneus C78346_a_6_0_l_656 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:04 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZV01005328.1_3     -          OSK_CONSENSUS        -               0.64   13.7   0.1       0.7   13.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Apis mellifera comp6082_c0_seq1 transcribed RNA sequence
+GAZV01044710.1_3     -          OSK_CONSENSUS        -               0.76   13.5   0.9      0.78   13.4   0.9   1.1   1   0   0   1   1   1   0 TSA: Apis mellifera comp20308_c0_seq1 transcribed RNA sequence
+GAZV01031546.1_3     -          OSK_CONSENSUS        -                3.4   11.4   6.4        18    9.0   0.6   3.5   3   0   0   3   3   3   0 TSA: Apis mellifera comp13141_c5_seq11 transcribed RNA sequence
+GAZV01031547.1_3     -          OSK_CONSENSUS        -                6.7   10.4   4.2        20    8.9   0.6   2.7   2   0   0   2   2   2   0 TSA: Apis mellifera comp13141_c5_seq12 transcribed RNA sequence
+GAZV01002797.1_5     -          OSK_CONSENSUS        -                 10    9.8   7.9        31    8.2   0.4   3.4   3   1   0   3   3   3   0 TSA: Apis mellifera comp3989_c1_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:48 2019
+# [ok]

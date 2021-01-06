@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g20638.t1            -          OSK_CONSENSUS        -            3.2e-28  100.6   0.1   5.6e-28   99.9   0.1   1.4   1   0   0   1   1   1   1 -
+g78021.t1            -          OSK_CONSENSUS        -             0.0003   22.8   0.0    0.0012   20.7   0.0   1.7   1   1   1   2   2   2   1 -
+g76477.t1            -          OSK_CONSENSUS        -             0.0035   19.3   0.0    0.0044   18.9   0.0   1.2   1   0   0   1   1   1   1 -
+g16865.t1            -          OSK_CONSENSUS        -             0.0088   18.0   0.4     0.015   17.2   0.4   1.3   1   0   0   1   1   1   1 -
+g56616.t1            -          OSK_CONSENSUS        -              0.015   17.2   0.0     0.042   15.8   0.0   1.6   2   0   0   2   2   2   0 -
+g70034.t1            -          OSK_CONSENSUS        -              0.035   16.0   0.0     0.044   15.7   0.0   1.1   1   0   0   1   1   1   0 -
+g27158.t1            -          OSK_CONSENSUS        -               0.12   14.3   0.0      0.22   13.5   0.0   1.3   1   0   0   1   1   1   0 -
+g56296.t1            -          OSK_CONSENSUS        -               0.18   13.7   0.0      0.35   12.8   0.0   1.4   1   0   0   1   1   1   0 -
+g871.t1              -          OSK_CONSENSUS        -                0.3   13.0   0.3      0.31   12.9   0.3   1.2   1   0   0   1   1   1   0 -
+g58984.t1            -          OSK_CONSENSUS        -                0.5   12.3   0.0         1   11.3   0.0   1.5   1   0   0   1   1   1   0 -
+g22501.t1            -          OSK_CONSENSUS        -               0.77   11.7   0.1        47    5.9   0.0   2.5   2   0   0   2   2   2   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_003018175.1_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_003018175.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_003018175.1_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:47:54 2019
+# [ok]

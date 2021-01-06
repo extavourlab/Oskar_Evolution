@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNC01015782.1_6     -          LOTUS_CONSENSUS      -            8.5e-18   66.9   0.0   2.8e-15   58.9   0.0   3.0   2   0   0   2   2   2   1 TSA: Telenomus sp. AD-2014 s3334_L_11213_0_a_27_7_l_3983 transcribed RNA sequence
+GBNC01013883.1_4     -          LOTUS_CONSENSUS      -            1.2e-15   60.1   5.9   1.6e-13   53.2   0.2   3.7   4   0   0   4   4   4   2 TSA: Telenomus sp. AD-2014 s1620_L_2597_0_a_10_1_l_1945 transcribed RNA sequence
+GBNC01013884.1_5     -          LOTUS_CONSENSUS      -            4.3e-15   58.2   5.3   3.3e-13   52.2   0.2   3.6   4   0   0   4   4   4   2 TSA: Telenomus sp. AD-2014 s1621_L_2597_1_a_12_3_l_3332 transcribed RNA sequence
+GBNC01011137.1_3     -          LOTUS_CONSENSUS      -            1.3e-14   56.7   0.0   3.7e-14   55.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Telenomus sp. AD-2014 C46480_a_60_0_l_1898 transcribed RNA sequence
+GBNC01015860.1_5     -          LOTUS_CONSENSUS      -            3.1e-05   26.6   0.0        21    8.0   0.0   5.1   2   1   3   5   5   5   2 TSA: Telenomus sp. AD-2014 s3404_L_11705_0_a_70_0_l_5369 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:40 2019
+# [ok]

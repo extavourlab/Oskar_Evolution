@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDPU01024876.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-20   74.4   1.7   6.1e-20   74.4   1.7   2.3   2   0   0   2   2   2   1 TSA: Macrosiagon limbatum s4792_L_15901_0_a_40_4_l_848 transcribed RNA sequence
+GDPU01004369.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-09   40.0   0.1   4.2e-09   39.6   0.1   1.1   1   0   0   1   1   1   1 TSA: Macrosiagon limbatum C45554_a_3_0_l_248 transcribed RNA sequence
+GDPU01016363.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.037   17.3   0.0        21    8.5   0.0   2.8   1   1   2   3   3   3   0 TSA: Macrosiagon limbatum C81070_a_34_0_l_731 transcribed RNA sequence
+GDPU01019127.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.059   16.7   2.8      0.16   15.3   2.8   1.7   1   0   0   1   1   1   0 TSA: Macrosiagon limbatum C89728_a_38_0_l_1285 transcribed RNA sequence
+GDPU01022077.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.25   14.7   0.5       0.6   13.5   0.5   1.6   1   0   0   1   1   1   0 TSA: Macrosiagon limbatum s225_L_240_1_a_38_4_l_1534 transcribed RNA sequence
+GDPU01002548.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.38   14.1   0.1      0.69   13.3   0.1   1.7   1   1   0   1   1   1   0 TSA: Macrosiagon limbatum C40690_a_3_0_l_238 transcribed RNA sequence
+GDPU01017492.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.8   10.9   3.2        12    9.3   0.1   2.8   3   0   0   3   3   3   0 TSA: Macrosiagon limbatum C84530_a_45_0_l_892 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDPU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:36 2019
+# [ok]

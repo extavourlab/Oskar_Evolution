@@ -1,0 +1,64 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g335859.t1           -          oskar_filtered.aligned.OSK_domain -            2.5e-26   96.9   0.0   2.9e-26   96.7   0.0   1.0   1   0   0   1   1   1   1 -
+g18671.t1            -          oskar_filtered.aligned.OSK_domain -            1.3e-14   58.7   0.1   1.9e-14   58.2   0.1   1.2   1   0   0   1   1   1   1 -
+g312605.t1           -          oskar_filtered.aligned.OSK_domain -            1.5e-14   58.5   0.7   3.7e-14   57.2   0.1   1.6   2   1   0   2   2   1   1 -
+g358060.t1           -          oskar_filtered.aligned.OSK_domain -            1.6e-11   48.6   0.2   1.9e-11   48.3   0.2   1.0   1   0   0   1   1   1   1 -
+g306264.t1           -          oskar_filtered.aligned.OSK_domain -            2.2e-11   48.2   0.5   3.8e-11   47.4   0.5   1.4   1   0   0   1   1   1   1 -
+g330667.t1           -          oskar_filtered.aligned.OSK_domain -            2.2e-11   48.1   0.1   3.4e-11   47.5   0.1   1.3   1   0   0   1   1   1   1 -
+g333448.t1           -          oskar_filtered.aligned.OSK_domain -            3.7e-11   47.4   0.3   4.6e-11   47.1   0.3   1.0   1   0   0   1   1   1   1 -
+g136464.t1           -          oskar_filtered.aligned.OSK_domain -              4e-11   47.3   0.0   5.7e-11   46.8   0.0   1.3   1   0   0   1   1   1   1 -
+g200114.t1           -          oskar_filtered.aligned.OSK_domain -            3.1e-09   41.1   0.1   3.6e-09   40.9   0.1   1.0   1   0   0   1   1   1   1 -
+g296781.t1           -          oskar_filtered.aligned.OSK_domain -            1.8e-08   38.7   0.1   2.6e-08   38.1   0.1   1.2   1   0   0   1   1   1   1 -
+g317098.t1           -          oskar_filtered.aligned.OSK_domain -            2.2e-07   35.1   0.0   2.5e-07   34.9   0.0   1.1   1   0   0   1   1   1   1 -
+g265442.t1           -          oskar_filtered.aligned.OSK_domain -            9.1e-07   33.1   0.0   1.5e-06   32.3   0.0   1.3   1   0   0   1   1   1   1 -
+g276019.t1           -          oskar_filtered.aligned.OSK_domain -            1.6e-06   32.3   0.0   2.8e-06   31.5   0.0   1.3   1   0   0   1   1   1   1 -
+g194851.t1           -          oskar_filtered.aligned.OSK_domain -            7.9e-05   26.8   0.0   8.3e-05   26.7   0.0   1.3   1   0   0   1   1   1   1 -
+g262035.t1           -          oskar_filtered.aligned.OSK_domain -             0.0001   26.4   0.0   0.00014   25.9   0.0   1.2   1   0   0   1   1   1   1 -
+g67925.t1            -          oskar_filtered.aligned.OSK_domain -            0.00023   25.3   0.0   0.00032   24.8   0.0   1.2   1   0   0   1   1   1   1 -
+g214230.t1           -          oskar_filtered.aligned.OSK_domain -            0.00037   24.6   0.0   0.00041   24.5   0.0   1.1   1   0   0   1   1   1   1 -
+g232642.t1           -          oskar_filtered.aligned.OSK_domain -             0.0016   22.5   0.1    0.0021   22.1   0.1   1.3   1   0   0   1   1   1   1 -
+g38363.t1            -          oskar_filtered.aligned.OSK_domain -             0.0016   22.5   0.0    0.0024   21.9   0.0   1.2   1   0   0   1   1   1   1 -
+g224197.t1           -          oskar_filtered.aligned.OSK_domain -             0.0028   21.7   0.0    0.0039   21.3   0.0   1.2   1   0   0   1   1   1   1 -
+g313357.t1           -          oskar_filtered.aligned.OSK_domain -             0.0032   21.5   0.0    0.0037   21.3   0.0   1.2   1   0   0   1   1   1   1 -
+g316196.t1           -          oskar_filtered.aligned.OSK_domain -             0.0056   20.7   0.0     0.006   20.6   0.0   1.0   1   0   0   1   1   1   1 -
+g90187.t1            -          oskar_filtered.aligned.OSK_domain -              0.015   19.3   0.0     0.043   17.9   0.0   1.8   2   0   0   2   2   1   0 -
+g266703.t1           -          oskar_filtered.aligned.OSK_domain -              0.027   18.5   0.1      0.03   18.3   0.1   1.2   1   0   0   1   1   1   0 -
+g202206.t1           -          oskar_filtered.aligned.OSK_domain -               0.12   16.3   0.1      0.17   15.9   0.1   1.2   1   0   0   1   1   1   0 -
+g295036.t1           -          oskar_filtered.aligned.OSK_domain -               0.15   16.1   3.1      0.64   14.0   0.1   2.1   1   1   1   2   2   2   0 -
+g97144.t1            -          oskar_filtered.aligned.OSK_domain -                0.2   15.7   0.1      0.34   14.9   0.0   1.3   1   1   0   1   1   1   0 -
+g282802.t1           -          oskar_filtered.aligned.OSK_domain -               0.26   15.3   0.0      0.32   15.0   0.0   1.1   1   0   0   1   1   1   0 -
+g188012.t1           -          oskar_filtered.aligned.OSK_domain -               0.42   14.6   0.0      0.82   13.7   0.0   1.4   1   0   0   1   1   1   0 -
+g304023.t1           -          oskar_filtered.aligned.OSK_domain -               0.48   14.4   0.0      0.98   13.4   0.0   1.7   2   0   0   2   2   2   0 -
+g275138.t1           -          oskar_filtered.aligned.OSK_domain -               0.55   14.3   0.4      0.93   13.5   0.0   1.6   2   0   0   2   2   1   0 -
+g197912.t1           -          oskar_filtered.aligned.OSK_domain -               0.74   13.8   0.0      0.86   13.6   0.0   1.3   1   1   0   1   1   1   0 -
+g148458.t1           -          oskar_filtered.aligned.OSK_domain -               0.74   13.8   0.0       1.2   13.1   0.0   1.3   1   0   0   1   1   1   0 -
+g236860.t1           -          oskar_filtered.aligned.OSK_domain -                  1   13.4   0.0       1.5   12.8   0.0   1.3   1   0   0   1   1   1   0 -
+g5669.t1             -          oskar_filtered.aligned.OSK_domain -                1.1   13.3   0.1   2.1e+02    5.8   0.0   2.3   2   0   0   2   2   2   0 -
+g218446.t1           -          oskar_filtered.aligned.OSK_domain -                1.2   13.1   0.0       1.7   12.7   0.0   1.2   1   0   0   1   1   1   0 -
+g55345.t1            -          oskar_filtered.aligned.OSK_domain -                1.5   12.8   0.0       1.9   12.5   0.0   1.1   1   0   0   1   1   1   0 -
+g104812.t1           -          oskar_filtered.aligned.OSK_domain -                1.5   12.8   0.0       1.8   12.6   0.0   1.3   1   1   0   1   1   1   0 -
+g12771.t1            -          oskar_filtered.aligned.OSK_domain -                1.5   12.8   0.0       2.4   12.2   0.0   1.3   1   0   0   1   1   1   0 -
+g288607.t1           -          oskar_filtered.aligned.OSK_domain -                1.5   12.8   0.0       2.8   12.0   0.0   1.3   1   0   0   1   1   1   0 -
+g274254.t1           -          oskar_filtered.aligned.OSK_domain -                1.7   12.6   0.6       3.9   11.5   0.0   1.8   2   0   0   2   2   1   0 -
+g30473.t1            -          oskar_filtered.aligned.OSK_domain -                1.7   12.6   0.0         2   12.4   0.0   1.3   1   1   0   1   1   1   0 -
+g193166.t1           -          oskar_filtered.aligned.OSK_domain -                1.9   12.5   0.1       4.5   11.3   0.1   1.6   1   1   0   1   1   1   0 -
+g333581.t1           -          oskar_filtered.aligned.OSK_domain -                1.9   12.5   0.0       3.3   11.7   0.0   1.4   1   0   0   1   1   1   0 -
+g285949.t1           -          oskar_filtered.aligned.OSK_domain -                1.9   12.5   0.0       3.8   11.5   0.0   1.5   1   0   0   1   1   1   0 -
+g361834.t1           -          oskar_filtered.aligned.OSK_domain -                2.3   12.2   0.1       2.4   12.2   0.1   1.1   1   0   0   1   1   1   0 -
+g158338.t1           -          oskar_filtered.aligned.OSK_domain -                2.7   12.0   0.1        75    7.3   0.0   1.9   1   1   1   2   2   2   0 -
+g1858.t1             -          oskar_filtered.aligned.OSK_domain -                  3   11.9   0.0       5.1   11.1   0.0   1.3   1   1   0   1   1   1   0 -
+g35098.t1            -          oskar_filtered.aligned.OSK_domain -                3.2   11.8   0.6       4.7   11.2   0.6   1.5   1   1   0   1   1   1   0 -
+g59760.t1            -          oskar_filtered.aligned.OSK_domain -                4.4   11.3   0.0       5.9   10.9   0.0   1.3   1   0   0   1   1   1   0 -
+g123905.t1           -          oskar_filtered.aligned.OSK_domain -                4.9   11.1   2.9        15    9.6   2.9   1.8   1   1   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_002778355.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_002778355.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_002778355.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:27:26 2019
+# [ok]

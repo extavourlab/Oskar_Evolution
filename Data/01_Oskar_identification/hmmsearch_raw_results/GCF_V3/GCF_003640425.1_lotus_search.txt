@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026759247.1       -          oskar_filtered.aligned.LOTUS_domain -            3.3e-16   59.3   0.0   1.1e-13   51.3   0.0   2.8   2   0   0   2   2   2   1 tudor domain-containing protein 7B [Galleria mellonella]
+XP_026759248.1       -          oskar_filtered.aligned.LOTUS_domain -            3.3e-16   59.3   0.0   1.1e-13   51.3   0.0   2.8   2   0   0   2   2   2   1 tudor domain-containing protein 7B [Galleria mellonella]
+XP_026763227.1       -          oskar_filtered.aligned.LOTUS_domain -            9.2e-16   57.9   0.0   9.3e-09   35.4   0.0   3.1   3   0   0   3   3   3   2 tudor domain-containing protein 5 [Galleria mellonella]
+XP_026748990.1       -          oskar_filtered.aligned.LOTUS_domain -              0.013   15.7   0.4     0.024   14.9   0.4   1.4   1   0   0   1   1   1   0 oligoribonuclease, mitochondrial isoform X2 [Galleria mellonella]
+XP_026748989.1       -          oskar_filtered.aligned.LOTUS_domain -              0.015   15.5   0.4     0.035   14.3   0.4   1.6   1   0   0   1   1   1   0 probable oligoribonuclease isoform X1 [Galleria mellonella]
+XP_026752193.1       -          oskar_filtered.aligned.LOTUS_domain -              0.022   15.0   0.0       3.3    8.0   0.0   3.5   5   0   0   5   5   5   0 meiosis regulator and mRNA stability factor 1 [Galleria mellonella]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003640425.1_ASM364042v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003640425.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003640425.1_ASM364042v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:34 2019
+# [ok]

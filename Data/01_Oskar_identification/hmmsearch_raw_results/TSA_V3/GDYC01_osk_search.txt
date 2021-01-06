@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYC01004521.1_5     -          oskar_filtered.aligned.OSK_domain -             0.0041   21.1   0.1    0.0041   21.1   0.1   1.1   1   0   0   1   1   1   1 TSA: Episymploce sundaica breed wildtype C123231_a_4_0_l_231, transcribed RNA sequence
+GDYC01051519.1_3     -          oskar_filtered.aligned.OSK_domain -               0.64   14.0   0.1         1   13.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype s12835_L_47505_0_a_6_4_l_962, transcribed RNA sequence
+GDYC01035083.1_1     -          oskar_filtered.aligned.OSK_domain -               0.66   13.9   0.7      0.89   13.5   0.1   1.5   2   0   0   2   2   2   0 TSA: Episymploce sundaica breed wildtype C211639_a_3_0_l_590, transcribed RNA sequence
+GDYC01030345.1_3     -          oskar_filtered.aligned.OSK_domain -               0.98   13.4   0.1       3.7   11.5   0.1   1.9   1   1   0   2   2   2   0 TSA: Episymploce sundaica breed wildtype C197055_a_4_0_l_478, transcribed RNA sequence
+GDYC01021667.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   13.2   0.5       1.2   13.1   0.5   1.1   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype C171179_a_3_0_l_350, transcribed RNA sequence
+GDYC01052686.1_2     -          oskar_filtered.aligned.OSK_domain -                  2   12.3   1.8       3.6   11.5   1.8   1.4   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype s13900_L_58961_0_a_11_9_l_1614, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:59 2019
+# [ok]

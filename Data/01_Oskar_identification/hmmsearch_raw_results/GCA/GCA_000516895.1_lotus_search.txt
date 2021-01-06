@@ -1,0 +1,48 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g289978.t1           -          LOTUS_CONSENSUS      -            1.9e-14   58.9   0.0   3.6e-14   58.1   0.0   1.4   1   0   0   1   1   1   1 -
+g638482.t1           -          LOTUS_CONSENSUS      -            2.1e-09   42.8   0.0   4.4e-09   41.8   0.0   1.5   2   0   0   2   2   1   1 -
+g542052.t1           -          LOTUS_CONSENSUS      -              0.068   18.7   0.5       1.2   14.8   0.0   2.4   2   0   0   2   2   2   0 -
+g588265.t1           -          LOTUS_CONSENSUS      -               0.23   17.0   0.1      0.46   16.1   0.1   1.5   1   0   0   1   1   1   0 -
+g638479.t1           -          LOTUS_CONSENSUS      -               0.25   16.9   0.0      0.48   16.0   0.0   1.5   1   0   0   1   1   1   0 -
+g502800.t1           -          LOTUS_CONSENSUS      -               0.42   16.2   0.0        23   10.6   0.0   2.3   1   1   1   2   2   2   0 -
+g462655.t1           -          LOTUS_CONSENSUS      -               0.57   15.8   0.0      0.78   15.3   0.0   1.3   1   0   0   1   1   1   0 -
+g266085.t1           -          LOTUS_CONSENSUS      -               0.77   15.4   0.0       1.2   14.8   0.0   1.3   1   0   0   1   1   1   0 -
+g402184.t1           -          LOTUS_CONSENSUS      -               0.77   15.4   0.0       1.2   14.8   0.0   1.3   1   0   0   1   1   1   0 -
+g419973.t1           -          LOTUS_CONSENSUS      -               0.77   15.3   0.0      0.95   15.0   0.0   1.2   1   0   0   1   1   1   0 -
+g714769.t1           -          LOTUS_CONSENSUS      -                0.8   15.3   0.0       1.4   14.6   0.0   1.4   1   1   0   1   1   1   0 -
+g127505.t1           -          LOTUS_CONSENSUS      -                1.4   14.5   0.0       2.5   13.7   0.0   1.3   1   1   0   1   1   1   0 -
+g190958.t1           -          LOTUS_CONSENSUS      -                1.5   14.4   0.0       1.6   14.3   0.0   1.1   1   0   0   1   1   1   0 -
+g103570.t1           -          LOTUS_CONSENSUS      -                2.2   13.9   0.1         3   13.4   0.1   1.2   1   0   0   1   1   1   0 -
+g255703.t1           -          LOTUS_CONSENSUS      -                2.3   13.8   0.0         5   12.8   0.0   1.6   1   0   0   1   1   1   0 -
+g535391.t1           -          LOTUS_CONSENSUS      -                2.6   13.7   0.2       3.7   13.2   0.2   1.4   1   1   0   1   1   1   0 -
+g685163.t1           -          LOTUS_CONSENSUS      -                2.9   13.5   4.3   1.6e+02    7.9   0.4   2.6   2   1   0   2   2   2   0 -
+g181382.t1           -          LOTUS_CONSENSUS      -                3.2   13.4   0.1        38    9.9   0.1   2.3   1   1   1   2   2   2   0 -
+g197542.t1           -          LOTUS_CONSENSUS      -                3.4   13.3   0.0   1.5e+02    8.0   0.0   2.1   1   1   1   2   2   2   0 -
+g420273.t1           -          LOTUS_CONSENSUS      -                3.8   13.1   0.0         5   12.7   0.0   1.2   1   0   0   1   1   1   0 -
+g312968.t1           -          LOTUS_CONSENSUS      -                3.8   13.1   0.2       7.9   12.1   0.2   1.5   1   1   0   1   1   1   0 -
+g721605.t1           -          LOTUS_CONSENSUS      -                3.8   13.1   0.4        14   11.3   0.2   1.8   1   1   1   2   2   2   0 -
+g669363.t1           -          LOTUS_CONSENSUS      -                  4   13.1   0.2   4.2e+02    6.6   0.0   2.2   2   0   0   2   2   2   0 -
+g579963.t1           -          LOTUS_CONSENSUS      -                4.2   13.0   1.6   6.1e+02    6.1   0.1   2.9   1   1   2   3   3   3   0 -
+g629722.t1           -          LOTUS_CONSENSUS      -                4.5   12.9   0.0       5.8   12.5   0.0   1.3   1   0   0   1   1   1   0 -
+g175816.t1           -          LOTUS_CONSENSUS      -                4.6   12.8   0.0       4.6   12.8   0.0   1.3   1   1   0   1   1   1   0 -
+g627963.t1           -          LOTUS_CONSENSUS      -                4.8   12.8   0.0       9.6   11.8   0.0   1.4   1   0   0   1   1   1   0 -
+g277239.t1           -          LOTUS_CONSENSUS      -                5.2   12.7   0.1       5.8   12.5   0.1   1.1   1   0   0   1   1   1   0 -
+g579190.t1           -          LOTUS_CONSENSUS      -                5.3   12.7   0.0       8.4   12.0   0.0   1.3   1   0   0   1   1   1   0 -
+g144625.t1           -          LOTUS_CONSENSUS      -                5.6   12.6   0.1        22   10.7   0.1   1.9   1   1   1   2   2   2   0 -
+g687552.t1           -          LOTUS_CONSENSUS      -                6.1   12.5   0.0        11   11.7   0.0   1.4   1   0   0   1   1   1   0 -
+g8616.t1             -          LOTUS_CONSENSUS      -                6.2   12.4   0.0       8.5   12.0   0.0   1.2   1   0   0   1   1   1   0 -
+g77325.t1            -          LOTUS_CONSENSUS      -                7.4   12.2   0.0       9.8   11.8   0.0   1.3   1   1   0   1   1   1   0 -
+g221688.t1           -          LOTUS_CONSENSUS      -                7.9   12.1   0.5        59    9.3   0.1   2.3   3   0   0   3   3   2   0 -
+g541614.t1           -          LOTUS_CONSENSUS      -                9.8   11.8   4.8   3.2e+02    7.0   0.2   2.9   2   1   1   3   3   3   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_000516895.1_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_000516895.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_000516895.1_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:47:09 2019
+# [ok]

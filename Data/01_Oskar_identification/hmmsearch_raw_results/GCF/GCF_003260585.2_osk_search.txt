@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012532829.1       -          OSK_CONSENSUS        -            5.1e-59  198.8   0.4   5.1e-59  198.8   0.4   1.7   2   0   0   2   2   2   1 uncharacterized protein LOC105834706 [Monomorium pharaonis]
+XP_028047640.1       -          OSK_CONSENSUS        -             0.0027   17.7   0.0    0.0037   17.3   0.0   1.1   1   0   0   1   1   1   1 uncharacterized protein LOC114254756 [Monomorium pharaonis]
+XP_012543141.1       -          OSK_CONSENSUS        -              0.044   13.8   1.1       6.3    6.8   0.0   3.6   2   1   2   4   4   4   0 protein VAC14 homolog [Monomorium pharaonis]
+XP_028047188.1       -          OSK_CONSENSUS        -                1.5    8.8   5.7       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X10 [Monomorium pharaonis]
+XP_028047187.1       -          OSK_CONSENSUS        -                1.6    8.7   5.7       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X9 [Monomorium pharaonis]
+XP_028047180.1       -          OSK_CONSENSUS        -                1.6    8.7   5.7       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X6 [Monomorium pharaonis]
+XP_028047177.1       -          OSK_CONSENSUS        -                1.6    8.7   5.7       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X5 [Monomorium pharaonis]
+XP_028047173.1       -          OSK_CONSENSUS        -                1.7    8.6   5.8       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X3 [Monomorium pharaonis]
+XP_028047174.1       -          OSK_CONSENSUS        -                1.7    8.6   5.8       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X4 [Monomorium pharaonis]
+XP_028047182.1       -          OSK_CONSENSUS        -                1.7    8.6   5.7       2.2    8.3   0.2   4.2   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X7 [Monomorium pharaonis]
+XP_028047170.1       -          OSK_CONSENSUS        -                1.7    8.6   5.8       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X2 [Monomorium pharaonis]
+XP_028047169.1       -          OSK_CONSENSUS        -                1.7    8.6   5.8       2.2    8.3   0.2   4.3   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X1 [Monomorium pharaonis]
+XP_028047184.1       -          OSK_CONSENSUS        -                1.7    8.6   5.7       2.2    8.3   0.2   4.2   4   0   0   4   4   4   0 dystrophin, isoforms A/C/F/G/H isoform X8 [Monomorium pharaonis]
+XP_028047196.1       -          OSK_CONSENSUS        -                4.7    7.2   7.9       1.9    8.4   0.2   4.5   4   1   0   4   4   4   0 dystrophin isoform X12 [Monomorium pharaonis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003260585.2_ASM326058v2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003260585.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003260585.2_ASM326058v2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:06 2019
+# [ok]

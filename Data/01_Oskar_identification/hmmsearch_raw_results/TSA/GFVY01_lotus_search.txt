@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFVY01133821.1_1     -          LOTUS_CONSENSUS      -            7.9e-23   87.2   0.0   3.5e-22   85.2   0.0   2.1   2   0   0   2   2   2   1 TSA: Clitarchus hookeri c138549_g1_i1 transcribed RNA sequence
+GFVY01173144.1_5     -          LOTUS_CONSENSUS      -            8.6e-23   87.1   0.0   3.5e-22   85.2   0.0   2.0   2   0   0   2   2   2   1 TSA: Clitarchus hookeri c145671_g1_i1 transcribed RNA sequence
+GFVY01133822.1_2     -          LOTUS_CONSENSUS      -            8.6e-23   87.1   0.0   3.5e-22   85.2   0.0   2.0   2   0   0   2   2   2   1 TSA: Clitarchus hookeri c138549_g1_i2 transcribed RNA sequence
+GFVY01118930.1_1     -          LOTUS_CONSENSUS      -            1.3e-12   54.5   0.7   9.6e-09   42.1   0.0   4.7   6   0   0   6   6   6   1 TSA: Clitarchus hookeri c134137_g2_i2 transcribed RNA sequence
+GFVY01118929.1_1     -          LOTUS_CONSENSUS      -            4.6e-12   52.7   1.0   1.3e-08   41.7   0.0   4.5   6   0   0   6   6   5   1 TSA: Clitarchus hookeri c134137_g2_i1 transcribed RNA sequence
+GFVY01117203.1_6     -          LOTUS_CONSENSUS      -            2.9e-11   50.2   0.2   2.6e-08   40.7   0.0   4.2   4   0   0   4   4   4   1 TSA: Clitarchus hookeri c133508_g1_i1 transcribed RNA sequence
+GFVY01101954.1_5     -          LOTUS_CONSENSUS      -            1.5e-10   47.8   0.0   3.7e-05   30.6   0.0   2.5   2   0   0   2   2   2   2 TSA: Clitarchus hookeri c126686_g1_i1 transcribed RNA sequence
+GFVY01091103.1_3     -          LOTUS_CONSENSUS      -            1.6e-10   47.8   0.0   3.8e-05   30.6   0.0   2.5   2   0   0   2   2   2   2 TSA: Clitarchus hookeri c120623_g1_i1 transcribed RNA sequence
+GFVY01010048.1_5     -          LOTUS_CONSENSUS      -                3.3   14.7   0.0       5.6   14.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Clitarchus hookeri c19195_g1_i1 transcribed RNA sequence
+GFVY01170558.1_2     -          LOTUS_CONSENSUS      -                  7   13.7   1.2        18   12.4   1.2   1.6   1   0   0   1   1   1   0 TSA: Clitarchus hookeri c145297_g2_i2 transcribed RNA sequence
+GFVY01047082.1_4     -          LOTUS_CONSENSUS      -                8.6   13.4   0.1        24   12.0   0.0   1.8   1   1   0   1   1   1   0 TSA: Clitarchus hookeri c81964_g1_i1 transcribed RNA sequence
+GFVY01296283.1_1     -          LOTUS_CONSENSUS      -                9.3   13.3   0.1        25   11.9   0.0   1.7   1   1   0   1   1   1   0 TSA: Clitarchus hookeri c515168_g1_i1 transcribed RNA sequence
+GFVY01255763.1_2     -          LOTUS_CONSENSUS      -                9.7   13.2   0.7        10   13.1   0.7   1.3   1   0   0   1   1   1   0 TSA: Clitarchus hookeri c369447_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFVY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFVY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFVY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:59:56 2019
+# [ok]

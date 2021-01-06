@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZM02009671.1_4     -          oskar_filtered.aligned.LOTUS_domain -              4e-07   32.9   0.2   6.8e-05   25.7   0.0   2.1   1   1   1   2   2   2   2 TSA: Stylops melittae C86206_a_4_0_l_538 transcribed RNA sequence
+GAZM02013771.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-07   32.5   1.2        16    8.5   0.3   5.6   2   1   3   5   5   5   3 TSA: Stylops melittae s2522_L_2624_0_a_42_4_l_4950 transcribed RNA sequence
+GAZM02013772.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-07   32.4   1.2        16    8.5   0.3   5.6   2   1   3   5   5   5   3 TSA: Stylops melittae s2523_L_2624_1_a_42_3_l_5035 transcribed RNA sequence
+GAZM02015112.1_5     -          oskar_filtered.aligned.LOTUS_domain -            7.6e-07   32.0   0.2   1.1e-06   31.5   0.2   1.2   1   0   0   1   1   1   1 TSA: Stylops melittae s3757_L_4376_0_a_4_2_l_528 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZM02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZM02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZM02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:10:32 2019
+# [ok]

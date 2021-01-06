@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWT01013612.1_1     -          OSK_CONSENSUS        -                0.2   15.1   0.3      0.23   14.9   0.3   1.1   1   0   0   1   1   1   0 TSA: Methana parva breed wildtype C137811_a_3_0_l_362, transcribed RNA sequence
+GDWT01005451.1_4     -          OSK_CONSENSUS        -               0.33   14.4   0.4      0.37   14.2   0.4   1.3   1   1   0   1   1   1   0 TSA: Methana parva breed wildtype C114967_a_5_0_l_262, transcribed RNA sequence
+GDWT01027053.1_2     -          OSK_CONSENSUS        -               0.59   13.6   0.1       1.6   12.2   0.1   1.7   1   0   0   1   1   1   0 TSA: Methana parva breed wildtype C177233_a_6_0_l_932, transcribed RNA sequence
+GDWT01020379.1_3     -          OSK_CONSENSUS        -                1.2   12.5   0.0       1.6   12.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Methana parva breed wildtype C157740_a_3_0_l_535, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:59:57 2019
+# [ok]

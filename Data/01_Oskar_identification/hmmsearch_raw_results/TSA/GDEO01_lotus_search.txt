@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEO01035891.1_4     -          LOTUS_CONSENSUS      -            2.5e-06   31.6   0.0      0.17   16.1   0.0   3.6   3   1   1   4   4   4   2 TSA: Ulopa reticulata breed wildtype C201682_a_10_0_l_1447, transcribed RNA sequence
+GDEO01009101.1_2     -          LOTUS_CONSENSUS      -              0.001   23.2   0.0    0.0013   22.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Ulopa reticulata breed wildtype C126485_a_3_0_l_256, transcribed RNA sequence
+GDEO01020925.1_4     -          LOTUS_CONSENSUS      -               0.51   14.5   0.9       2.3   12.5   0.0   2.2   2   1   0   2   2   2   0 TSA: Ulopa reticulata breed wildtype C158831_a_5_0_l_383, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:39 2019
+# [ok]

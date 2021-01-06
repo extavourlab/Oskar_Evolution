@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPV01016788.1_6     -          LOTUS_CONSENSUS      -            1.7e-23   85.3   0.1   5.5e-23   83.7   0.1   1.9   1   0   0   1   1   1   1 TSA: Auplopus albifrons s3721_L_7737_0_a_49_0_l_2808 transcribed RNA sequence
+GBPV01016789.1_6     -          LOTUS_CONSENSUS      -            3.7e-23   84.3   0.1   9.6e-23   83.0   0.1   1.8   1   0   0   1   1   1   1 TSA: Auplopus albifrons s3722_L_7737_1_a_37_3_l_4308 transcribed RNA sequence
+GBPV01004834.1_1     -          LOTUS_CONSENSUS      -                0.3   14.1   0.1      0.41   13.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Auplopus albifrons C37010_a_3_0_l_383 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:07 2019
+# [ok]

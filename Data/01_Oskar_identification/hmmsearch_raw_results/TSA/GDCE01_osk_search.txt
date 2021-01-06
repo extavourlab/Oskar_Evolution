@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCE01048158.1_3     -          OSK_CONSENSUS        -            7.5e-15   59.1   0.0   1.1e-14   58.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Agamemnon cornutus breed breeding s1210_L_1730_0_a_14_1_l_1095, transcribed RNA sequence
+GDCE01048159.1_3     -          OSK_CONSENSUS        -            9.8e-15   58.7   0.0   1.5e-14   58.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Agamemnon cornutus breed breeding s1211_L_1730_1_a_12_7_l_1243, transcribed RNA sequence
+GDCE01002472.1_6     -          OSK_CONSENSUS        -            1.1e-07   35.9   0.0   1.2e-07   35.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Agamemnon cornutus breed breeding C121300_a_6_0_l_214, transcribed RNA sequence
+GDCE01034837.1_3     -          OSK_CONSENSUS        -               0.12   16.2   0.3       3.3   11.5   0.1   2.1   2   0   0   2   2   2   0 TSA: Agamemnon cornutus breed breeding C202664_a_7_0_l_476, transcribed RNA sequence
+GDCE01020715.1_4     -          OSK_CONSENSUS        -                0.2   15.4   0.7      0.25   15.2   0.7   1.1   1   0   0   1   1   1   0 TSA: Agamemnon cornutus breed breeding C164895_a_11_0_l_283, transcribed RNA sequence
+GDCE01056989.1_2     -          OSK_CONSENSUS        -               0.32   14.8   0.0         6   10.7   0.0   2.4   2   0   0   2   2   2   0 TSA: Agamemnon cornutus breed breeding s9199_L_42823_0_a_10_2_l_1552, transcribed RNA sequence
+GDCE01015771.1_3     -          OSK_CONSENSUS        -               0.46   14.3   0.0      0.49   14.2   0.0   1.0   1   0   0   1   1   1   0 TSA: Agamemnon cornutus breed breeding C152959_a_3_0_l_259, transcribed RNA sequence
+GDCE01015886.1_6     -          OSK_CONSENSUS        -                1.7   12.5   0.5       1.9   12.3   0.5   1.1   1   0   0   1   1   1   0 TSA: Agamemnon cornutus breed breeding C153223_a_3_0_l_260, transcribed RNA sequence
+GDCE01035861.1_5     -          OSK_CONSENSUS        -                1.8   12.3   0.2       4.8   11.0   0.2   1.5   1   1   1   2   2   2   0 TSA: Agamemnon cornutus breed breeding C205468_a_7_0_l_503, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:27 2019
+# [ok]

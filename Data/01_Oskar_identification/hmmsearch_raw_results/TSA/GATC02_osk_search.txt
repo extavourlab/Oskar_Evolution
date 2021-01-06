@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATC02018205.1_1     -          OSK_CONSENSUS        -            1.7e-21   80.1   0.0   7.3e-21   78.0   0.0   2.2   1   1   0   1   1   1   1 TSA: Nemophora degeerella C162112_a_56_0_l_3011 transcribed RNA sequence
+GATC02016035.1_4     -          OSK_CONSENSUS        -            2.1e-21   79.8   4.0   2.4e-21   79.6   0.5   2.6   2   1   0   2   2   2   1 TSA: Nemophora degeerella C154954_a_21_0_l_1567 transcribed RNA sequence
+GATC02008336.1_5     -          OSK_CONSENSUS        -               0.17   15.0   0.3      0.55   13.4   0.2   1.8   2   1   0   2   2   2   0 TSA: Nemophora degeerella C127673_a_5_0_l_544 transcribed RNA sequence
+GATC02025628.1_6     -          OSK_CONSENSUS        -               0.18   15.0   0.6       4.3   10.5   0.1   2.0   1   1   0   2   2   2   0 TSA: Nemophora degeerella C95806_a_8_0_l_274 transcribed RNA sequence
+GATC02008950.1_4     -          OSK_CONSENSUS        -               0.59   13.3   0.0      0.84   12.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Nemophora degeerella C129935_a_16_0_l_580 transcribed RNA sequence
+GATC02028757.1_1     -          OSK_CONSENSUS        -               0.88   12.8   0.1       1.1   12.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Nemophora degeerella s2222_L_2564_0_a_4_0_l_357 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATC02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATC02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATC02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:12 2019
+# [ok]

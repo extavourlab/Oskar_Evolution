@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERG01126764.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-22   83.5   0.0   6.6e-22   83.5   0.0   2.7   2   1   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 c110910_g2_i2 transcribed RNA sequence
+GERG01126763.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-22   83.5   0.0   6.9e-22   83.5   0.0   2.7   2   0   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 c110910_g2_i1 transcribed RNA sequence
+GERG01122903.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-15   61.9   0.0   1.1e-14   60.3   0.0   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 c110470_g3_i1 transcribed RNA sequence
+GERG01118506.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-05   30.3   0.0   5.4e-05   29.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 c109913_g3_i1 transcribed RNA sequence
+GERG01088207.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.57   16.3   0.1      0.78   15.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 c105351_g3_i1 transcribed RNA sequence
+GERG01121802.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.3   13.9   0.6       5.7   13.1   0.6   1.4   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 c110329_g1_i4 transcribed RNA sequence
+GERG01138432.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.8   13.7   0.2       4.8   13.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 c120395_g1_i1 transcribed RNA sequence
+GERG01056478.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.9   13.3   0.0         7   12.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 c87323_g1_i1 transcribed RNA sequence
+GERG01124922.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.6   13.1   0.4        10   12.3   0.4   1.4   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 c110695_g1_i1 transcribed RNA sequence
+GERG01088744.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.8   13.1   0.5        15   11.7   0.5   1.7   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 c105491_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GERG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GERG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GERG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:05 2019
+# [ok]

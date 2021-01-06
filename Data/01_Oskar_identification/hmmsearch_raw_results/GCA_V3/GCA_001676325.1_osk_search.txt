@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g46703.t1            -          oskar_filtered.aligned.OSK_domain -              1e-20   75.8   0.0   1.3e-20   75.5   0.0   1.0   1   0   0   1   1   1   1 -
+g43122.t1            -          oskar_filtered.aligned.OSK_domain -            6.3e-14   53.7   0.1   8.3e-14   53.3   0.1   1.1   1   0   0   1   1   1   1 -
+g9966.t1             -          oskar_filtered.aligned.OSK_domain -            7.3e-07   30.6   0.1   7.3e-07   30.6   0.1   1.0   1   0   0   1   1   1   1 -
+g35552.t1            -          oskar_filtered.aligned.OSK_domain -            1.4e-06   29.7   0.1   1.6e-06   29.5   0.1   1.1   1   0   0   1   1   1   1 -
+g26977.t1            -          oskar_filtered.aligned.OSK_domain -              0.015   16.6   0.1     0.015   16.6   0.1   1.0   1   0   0   1   1   1   0 -
+g24344.t1            -          oskar_filtered.aligned.OSK_domain -               0.18   13.1   0.0       0.2   12.9   0.0   1.0   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_001676325.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_001676325.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_001676325.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:27:51 2019
+# [ok]

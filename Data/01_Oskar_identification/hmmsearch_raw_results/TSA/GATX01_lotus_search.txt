@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATX01014289.1_5     -          LOTUS_CONSENSUS      -            2.5e-13   54.8   0.0   1.5e-12   52.4   0.0   2.4   2   0   0   2   2   1   1 TSA: Annulipalpia sp. AD-2013 s14309_L_92063_0 transcribed RNA sequence
+GATX01072121.1_5     -          LOTUS_CONSENSUS      -            1.4e-09   42.8   0.0   2.3e-09   42.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Annulipalpia sp. AD-2013 C345571 transcribed RNA sequence
+GATX01015662.1_2     -          LOTUS_CONSENSUS      -            4.3e-06   31.7   5.1   7.8e-05   27.6   0.1   3.6   3   0   0   3   3   3   1 TSA: Annulipalpia sp. AD-2013 s15682_L_102347_0 transcribed RNA sequence
+GATX01011045.1_3     -          LOTUS_CONSENSUS      -            1.7e-05   29.8   0.0        41    9.3   0.0   5.7   3   3   1   5   5   5   2 TSA: Annulipalpia sp. AD-2013 s11062_L_44913_0 transcribed RNA sequence
+GATX01016518.1_2     -          LOTUS_CONSENSUS      -            0.00063   24.7   0.0        16   10.6   0.0   5.1   4   2   1   5   5   5   1 TSA: Annulipalpia sp. AD-2013 s16539_L_108738_0 transcribed RNA sequence
+GATX01045172.1_2     -          LOTUS_CONSENSUS      -              0.011   20.8   0.1     0.014   20.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Annulipalpia sp. AD-2013 C274305 transcribed RNA sequence
+GATX01025990.1_5     -          LOTUS_CONSENSUS      -                1.4   14.0   0.1       1.8   13.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Annulipalpia sp. AD-2013 C233437 transcribed RNA sequence
+GATX01068544.1_1     -          LOTUS_CONSENSUS      -                1.7   13.7   0.4   1.6e+02    7.4   0.0   2.3   1   1   1   2   2   2   0 TSA: Annulipalpia sp. AD-2013 C334858 transcribed RNA sequence
+GATX01082339.1_2     -          LOTUS_CONSENSUS      -                1.9   13.6   1.1        26    9.9   0.2   2.6   2   1   0   2   2   2   0 TSA: Annulipalpia sp. AD-2013 C381608 transcribed RNA sequence
+GATX01009477.1_6     -          LOTUS_CONSENSUS      -                  2   13.5   0.2       4.1   12.5   0.2   1.5   1   0   0   1   1   1   0 TSA: Annulipalpia sp. AD-2013 s9493_L_34722_0 transcribed RNA sequence
+GATX01085524.1_2     -          LOTUS_CONSENSUS      -                3.3   12.8   0.1       8.3   11.5   0.1   1.7   1   0   0   1   1   1   0 TSA: Annulipalpia sp. AD-2013 C396122 transcribed RNA sequence
+GATX01014138.1_1     -          LOTUS_CONSENSUS      -                8.8   11.4   0.2       8.8   11.4   0.2   2.3   3   0   0   3   3   3   0 TSA: Annulipalpia sp. AD-2013 s14157_L_90917_0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:23 2019
+# [ok]

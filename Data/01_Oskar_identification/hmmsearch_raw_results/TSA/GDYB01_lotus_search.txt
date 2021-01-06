@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYB01050437.1_3     -          LOTUS_CONSENSUS      -            1.7e-25   93.2   0.0   3.7e-25   92.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Nocticola sp. AD-2015 breed wildtype s621_L_704_1_a_20_7_l_998, transcribed RNA sequence
+GDYB01050426.1_3     -          LOTUS_CONSENSUS      -              2e-25   93.0   0.0   4.2e-25   92.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Nocticola sp. AD-2015 breed wildtype s620_L_704_0_a_20_2_l_1066, transcribed RNA sequence
+GDYB01048552.1_5     -          LOTUS_CONSENSUS      -               0.23   15.8   0.4        27    9.3   0.1   2.5   1   1   1   2   2   2   0 TSA: Nocticola sp. AD-2015 breed wildtype s4511_L_8199_0_a_6_3_l_407, transcribed RNA sequence
+GDYB01053495.1_2     -          LOTUS_CONSENSUS      -               0.32   15.4   0.1      0.67   14.4   0.1   1.5   1   0   0   1   1   1   0 TSA: Nocticola sp. AD-2015 breed wildtype s8985_L_24894_0_a_12_3_l_1219, transcribed RNA sequence
+GDYB01040357.1_1     -          LOTUS_CONSENSUS      -                1.6   13.1   1.4   1.5e+02    6.8   0.1   2.7   1   1   1   2   2   2   0 TSA: Nocticola sp. AD-2015 breed wildtype C215591_a_15_0_l_1620, transcribed RNA sequence
+GDYB01021277.1_6     -          LOTUS_CONSENSUS      -                3.8   12.0   1.5       4.4   11.8   1.4   1.6   1   1   0   1   1   1   0 TSA: Nocticola sp. AD-2015 breed wildtype C158240_a_5_0_l_368, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:33 2019
+# [ok]

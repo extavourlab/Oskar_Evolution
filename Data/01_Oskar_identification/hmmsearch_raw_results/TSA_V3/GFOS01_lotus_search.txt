@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOS01090404.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-18   72.5   0.7     1e-09   44.3   0.1   4.0   4   0   0   4   4   3   3 TSA: Rhagovelia antilleana c78097_g1_i1 transcribed RNA sequence
+GFOS01090406.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-18   72.4   0.6   1.1e-09   44.2   0.1   4.1   4   0   0   4   4   3   3 TSA: Rhagovelia antilleana c78097_g1_i3 transcribed RNA sequence
+GFOS01090405.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-18   72.4   0.7     1e-09   44.3   0.1   4.0   4   0   0   4   4   3   3 TSA: Rhagovelia antilleana c78097_g1_i2 transcribed RNA sequence
+GFOS01108357.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-10   47.3   0.0   2.6e-10   46.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Rhagovelia antilleana c80476_g1_i1 transcribed RNA sequence
+GFOS01076172.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-10   46.2   0.0       1.1   15.3   0.0   5.7   2   2   3   5   5   5   3 TSA: Rhagovelia antilleana c75529_g1_i3 transcribed RNA sequence
+GFOS01076170.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-09   42.2   0.0         2   14.5   0.0   5.6   2   2   2   5   5   5   2 TSA: Rhagovelia antilleana c75529_g1_i1 transcribed RNA sequence
+GFOS01076171.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.5e-09   41.7   0.0       2.2   14.3   0.0   5.7   2   2   3   5   5   5   2 TSA: Rhagovelia antilleana c75529_g1_i2 transcribed RNA sequence
+GFOS01044742.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.036   20.1   0.8   5.2e+02    6.7   0.1   3.5   3   1   0   3   3   3   0 TSA: Rhagovelia antilleana c59389_g1_i1 transcribed RNA sequence
+GFOS01100510.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.13   18.3   2.6       3.9   13.5   0.4   4.8   2   0   0   2   2   2   0 TSA: Rhagovelia antilleana c79520_g1_i3 transcribed RNA sequence
+GFOS01100505.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.13   18.3   2.6       3.9   13.5   0.4   4.8   2   0   0   2   2   2   0 TSA: Rhagovelia antilleana c79520_g1_i1 transcribed RNA sequence
+GFOS01043785.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.65   16.0   0.7      0.89   15.6   0.3   1.4   1   1   0   1   1   1   0 TSA: Rhagovelia antilleana c58616_g1_i1 transcribed RNA sequence
+GFOS01040590.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.6   13.6   0.3   4.8e+02    6.8   0.0   2.1   2   0   0   2   2   2   0 TSA: Rhagovelia antilleana c55575_g1_i1 transcribed RNA sequence
+GFOS01012834.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.3   13.4   0.1       6.5   12.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Rhagovelia antilleana c18322_g1_i1 transcribed RNA sequence
+GFOS01067227.1_2     -          oskar_filtered.aligned.LOTUS_domain -                5.1   13.2   0.1        13   11.8   0.1   1.6   1   0   0   1   1   1   0 TSA: Rhagovelia antilleana c72876_g1_i2 transcribed RNA sequence
+GFOS01135735.1_4     -          oskar_filtered.aligned.LOTUS_domain -                6.4   12.8   0.3        18   11.4   0.3   1.9   1   1   0   1   1   1   0 TSA: Rhagovelia antilleana c98846_g1_i1 transcribed RNA sequence
+GFOS01049829.1_3     -          oskar_filtered.aligned.LOTUS_domain -                6.5   12.8   1.0       8.4   12.5   1.0   1.2   1   0   0   1   1   1   0 TSA: Rhagovelia antilleana c63445_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:25 2019
+# [ok]

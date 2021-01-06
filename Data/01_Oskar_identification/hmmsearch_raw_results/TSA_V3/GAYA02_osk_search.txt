@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYA02038084.1_4     -          oskar_filtered.aligned.OSK_domain -            1.2e-32  117.2   1.3   1.2e-32  117.2   1.3   2.5   2   1   0   2   2   2   1 TSA: Zorotypus caudelli s12448_L_22847_0_a_33_4_l_1719 transcribed RNA sequence
+GAYA02038085.1_4     -          oskar_filtered.aligned.OSK_domain -            1.7e-19   74.3   1.5     2e-19   74.1   1.5   1.0   1   0   0   1   1   1   1 TSA: Zorotypus caudelli s12449_L_22847_1_a_15_3_l_467 transcribed RNA sequence
+GAYA02027200.1_3     -          oskar_filtered.aligned.OSK_domain -              0.038   17.8   3.0     0.055   17.2   3.0   1.3   1   1   0   1   1   1   0 TSA: Zorotypus caudelli C294659_a_3_0_l_506 transcribed RNA sequence
+GAYA02053600.1_2     -          oskar_filtered.aligned.OSK_domain -              0.045   17.5   0.3      0.05   17.4   0.3   1.0   1   0   0   1   1   1   0 TSA: Zorotypus caudelli s9335_L_14416_1_a_21_3_l_280 transcribed RNA sequence
+GAYA02053599.1_2     -          oskar_filtered.aligned.OSK_domain -               0.15   15.8   0.3      0.17   15.7   0.3   1.1   1   0   0   1   1   1   0 TSA: Zorotypus caudelli s9334_L_14416_0_a_62_1_l_663 transcribed RNA sequence
+GAYA02048514.1_3     -          oskar_filtered.aligned.OSK_domain -                0.2   15.4   0.1      0.23   15.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Zorotypus caudelli s4739_L_5780_4_a_7_7_l_613 transcribed RNA sequence
+GAYA02053383.1_1     -          oskar_filtered.aligned.OSK_domain -               0.31   14.8   0.3      0.86   13.3   0.1   1.8   2   0   0   2   2   2   0 TSA: Zorotypus caudelli s913_L_1038_0_a_34_5_l_4452 transcribed RNA sequence
+GAYA02004368.1_4     -          oskar_filtered.aligned.OSK_domain -                1.6   12.5   0.4       1.9   12.2   0.4   1.1   1   0   0   1   1   1   0 TSA: Zorotypus caudelli C219818_a_3_0_l_220 transcribed RNA sequence
+GAYA02032935.1_6     -          oskar_filtered.aligned.OSK_domain -                5.1   10.8   5.1        14    9.4   4.4   1.8   1   1   0   1   1   1   0 TSA: Zorotypus caudelli C317336_a_4_0_l_1104 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYA02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYA02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYA02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:07 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011147428.1       -          OSK_CONSENSUS        -            5.2e-58  195.8   0.5     1e-57  194.8   0.5   1.4   1   0   0   1   1   1   1 maternal effect protein oskar [Harpegnathos saltator]
+XP_011149139.1       -          OSK_CONSENSUS        -               0.16   12.1   1.0      0.67   10.1   0.3   2.3   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X2 [Harpegnathos saltator]
+XP_011148967.1       -          OSK_CONSENSUS        -               0.23   11.7   1.1      0.78    9.9   0.3   2.2   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X1 [Harpegnathos saltator]
+XP_025153925.1       -          OSK_CONSENSUS        -               0.25   11.5   4.2       1.9    8.7   0.2   4.0   3   0   0   3   3   3   0 dystrophin isoform X7 [Harpegnathos saltator]
+XP_025153924.1       -          OSK_CONSENSUS        -               0.29   11.3   7.3       1.9    8.7   0.2   4.8   4   0   0   4   4   4   0 dystrophin isoform X6 [Harpegnathos saltator]
+XP_025153922.1       -          OSK_CONSENSUS        -                0.3   11.3   7.3       1.9    8.7   0.2   4.8   4   0   0   4   4   4   0 dystrophin isoform X5 [Harpegnathos saltator]
+XP_025153921.1       -          OSK_CONSENSUS        -               0.31   11.2   7.3       1.9    8.7   0.2   4.8   4   0   0   4   4   4   0 dystrophin isoform X3 [Harpegnathos saltator]
+XP_025153920.1       -          OSK_CONSENSUS        -               0.31   11.2   7.3       1.9    8.7   0.2   4.8   4   0   0   4   4   4   0 dystrophin isoform X2 [Harpegnathos saltator]
+XP_019701153.1       -          OSK_CONSENSUS        -               0.31   11.2   7.3       1.9    8.7   0.2   4.8   4   0   0   4   4   4   0 dystrophin isoform X1 [Harpegnathos saltator]
+XP_011154509.1       -          OSK_CONSENSUS        -               0.32   11.2   7.3       1.9    8.7   0.2   4.7   4   0   0   4   4   4   0 dystrophin isoform X4 [Harpegnathos saltator]
+XP_025153926.1       -          OSK_CONSENSUS        -                1.1    9.4   9.9       1.6    8.9   0.2   5.0   4   1   0   4   4   4   0 dystrophin isoform X8 [Harpegnathos saltator]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003227715.1_Hsal_v8.5_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003227715.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003227715.1_Hsal_v8.5_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:05 2019
+# [ok]

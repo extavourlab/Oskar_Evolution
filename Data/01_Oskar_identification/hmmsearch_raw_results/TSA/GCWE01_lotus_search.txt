@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWE01026641.1_5     -          LOTUS_CONSENSUS      -            2.8e-14   56.5   0.0   1.6e-13   54.2   0.0   1.9   2   0   0   2   2   2   1 TSA: Arilus cristatus breed wildtype s4025_L_12452_0_2_3_LINEAR, transcribed RNA sequence
+GCWE01022799.1_1     -          LOTUS_CONSENSUS      -            1.6e-12   50.9   0.0   1.9e-12   50.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Arilus cristatus breed wildtype C98315_2_0, transcribed RNA sequence
+GCWE01032084.1_2     -          LOTUS_CONSENSUS      -            6.5e-07   32.9   0.2       1.7   12.4   0.2   4.0   1   1   3   4   4   4   3 TSA: Arilus cristatus breed wildtype s8942_L_36667_0_6_4_LINEAR, transcribed RNA sequence
+GCWE01006192.1_5     -          LOTUS_CONSENSUS      -              0.012   19.3   0.1     0.039   17.6   0.0   1.8   2   0   0   2   2   2   0 TSA: Arilus cristatus breed wildtype C122791_5_0, transcribed RNA sequence
+GCWE01012137.1_6     -          LOTUS_CONSENSUS      -               0.45   14.2   0.1       0.6   13.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Arilus cristatus breed wildtype C65623_2_0, transcribed RNA sequence
+GCWE01012217.1_3     -          LOTUS_CONSENSUS      -               0.51   14.0   0.0      0.67   13.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Arilus cristatus breed wildtype C65837_4_0, transcribed RNA sequence
+GCWE01006400.1_3     -          LOTUS_CONSENSUS      -               0.61   13.8   0.2         1   13.0   0.2   1.4   1   0   0   1   1   1   0 TSA: Arilus cristatus breed wildtype C123641_5_0, transcribed RNA sequence
+GCWE01014643.1_1     -          LOTUS_CONSENSUS      -               0.73   13.5   0.2      0.92   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Arilus cristatus breed wildtype C72859_2_0, transcribed RNA sequence
+GCWE01012307.1_4     -          LOTUS_CONSENSUS      -                1.6   12.4   0.0       1.8   12.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Arilus cristatus breed wildtype C66107_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:21 2019
+# [ok]

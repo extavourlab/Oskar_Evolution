@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEES01006458.1_1     -          OSK_CONSENSUS        -            1.5e-52  182.0   0.1   1.9e-52  181.7   0.1   1.0   1   0   0   1   1   1   1 TSA: Neodiprion lecontei Nlec_orf_06458 transcribed RNA sequence
+GEES01034948.1_1     -          OSK_CONSENSUS        -                1.7   12.9   0.1       1.8   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Neodiprion lecontei Nlec_orf_34948 transcribed RNA sequence
+GEES01043002.1_1     -          OSK_CONSENSUS        -                1.8   12.8   0.2         2   12.6   0.2   1.2   1   0   0   1   1   1   0 TSA: Neodiprion lecontei Nlec_orf_43002 transcribed RNA sequence
+GEES01065979.1_3     -          OSK_CONSENSUS        -                5.5   11.2   0.1       7.8   10.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Neodiprion lecontei Nlec_orf_65979 transcribed RNA sequence
+GEES01029527.1_3     -          OSK_CONSENSUS        -                5.8   11.1   0.1       8.3   10.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Neodiprion lecontei Nlec_orf_29527 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEES01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEES01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEES01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:12 2019
+# [ok]

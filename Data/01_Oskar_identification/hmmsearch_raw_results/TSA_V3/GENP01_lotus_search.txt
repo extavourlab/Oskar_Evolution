@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENP01047029.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0016   24.3   0.0    0.0026   23.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Acanthopteroctetes unifascia TR56490-c0_g1_i1 transcribed RNA sequence
+GENP01047030.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.009   21.9   0.0     0.015   21.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Acanthopteroctetes unifascia TR56490-c0_g2_i1 transcribed RNA sequence
+GENP01037915.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.28   17.1   0.0      0.31   16.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR50016-c3_g3_i3 transcribed RNA sequence
+GENP01008837.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.29   17.0   0.1      0.36   16.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR11921-c1_g1_i1 transcribed RNA sequence
+GENP01037913.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.47   16.3   0.0      0.54   16.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR50016-c3_g3_i1 transcribed RNA sequence
+GENP01037914.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  1   15.2   0.0       1.2   15.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR50016-c3_g3_i2 transcribed RNA sequence
+GENP01142264.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.3   14.9   1.7       1.5   14.7   1.7   1.4   1   1   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR155444-c0_g1_i1 transcribed RNA sequence
+GENP01123466.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.8   14.5   0.7         2   14.3   0.7   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR125463-c0_g1_i1 transcribed RNA sequence
+GENP01160667.1_4     -          oskar_filtered.aligned.LOTUS_domain -                  2   14.3   0.0   5.7e+02    6.4   0.0   2.1   2   0   0   2   2   2   0 TSA: Acanthopteroctetes unifascia TR184730-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:48 2019
+# [ok]

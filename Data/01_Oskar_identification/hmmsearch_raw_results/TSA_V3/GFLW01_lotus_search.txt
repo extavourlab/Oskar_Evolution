@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFLW01080684.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-13   55.3   0.1     4e-13   54.8   0.1   1.2   1   0   0   1   1   1   1 TSA: Aphidius ervi TR32913-c20_g1_i1 transcribed RNA sequence
+GFLW01007095.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-11   49.5   0.4   1.9e-11   49.5   0.4   1.9   2   1   0   2   2   2   1 TSA: Aphidius ervi TR2808-c2_g1_i1 transcribed RNA sequence
+GFLW01004431.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.11   18.1   0.1       5.8   12.6   0.0   3.3   2   1   1   3   3   3   0 TSA: Aphidius ervi TR1511-c6_g1_i5 transcribed RNA sequence
+GFLW01004432.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.16   17.5   2.0       2.6   13.7   0.3   3.5   3   1   1   4   4   4   0 TSA: Aphidius ervi TR1511-c6_g1_i6 transcribed RNA sequence
+GFLW01022185.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.19   17.3   0.0      0.19   17.3   0.0   3.2   3   1   0   3   3   3   0 TSA: Aphidius ervi TR8267-c0_g1_i2 transcribed RNA sequence
+GFLW01022184.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.27   16.9   0.0      0.27   16.9   0.0   2.7   3   0   0   3   3   3   0 TSA: Aphidius ervi TR8267-c0_g1_i1 transcribed RNA sequence
+GFLW01041847.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.5   13.3   0.1         9   12.0   0.1   1.8   1   1   0   1   1   1   0 TSA: Aphidius ervi TR16911-c7_g3_i1 transcribed RNA sequence
+GFLW01111710.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.7   12.9   3.2        74    9.0   0.2   2.7   2   0   0   2   2   2   0 TSA: Aphidius ervi TR45651-c0_g1_i1 transcribed RNA sequence
+GFLW01042966.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.9   12.6   1.3       6.3   12.5   1.3   1.1   1   0   0   1   1   1   0 TSA: Aphidius ervi TR17565-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFLW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFLW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFLW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:00 2019
+# [ok]

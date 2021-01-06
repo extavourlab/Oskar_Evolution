@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IABS01020334.1_1     -          oskar_filtered.aligned.OSK_domain -            3.8e-60  206.9   0.8   8.7e-60  205.7   0.1   1.8   2   0   0   2   2   2   1 TSA: Crematogaster osakensis mRNA, contig: comp66100_c0_seq1.m.86783, transcribed RNA sequence
+IABS01035091.1_1     -          oskar_filtered.aligned.OSK_domain -               0.17   15.6   0.1      0.36   14.6   0.0   1.7   1   1   1   2   2   2   0 TSA: Crematogaster osakensis mRNA, contig: comp70124_c2_seq21.m.248746, transcribed RNA sequence
+IABS01016833.1_1     -          oskar_filtered.aligned.OSK_domain -               0.65   13.7   0.1       1.2   12.9   0.1   1.5   1   0   0   1   1   1   0 TSA: Crematogaster osakensis mRNA, contig: comp63926_c0_seq2.m.64078, transcribed RNA sequence
+IABS01052513.1_1     -          oskar_filtered.aligned.OSK_domain -                1.7   12.4   0.1       1.7   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Crematogaster osakensis mRNA, contig: comp7626017_c0_seq1.m.550736, transcribed RNA sequence
+IABS01014851.1_4     -          oskar_filtered.aligned.OSK_domain -                1.8   12.3   0.0         2   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Crematogaster osakensis mRNA, contig: comp62216_c0_seq2.m.52661, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IABS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:38 2019
+# [ok]

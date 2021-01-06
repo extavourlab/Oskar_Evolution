@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFM01026550.1_2     -          OSK_CONSENSUS        -            2.6e-35  124.8   0.0   4.5e-35  124.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Franklinothrips vespiformis breed wildtype C83346_a_34_0_l_2354, transcribed RNA sequence
+GDFM01028523.1_5     -          OSK_CONSENSUS        -              5e-27   97.8   0.0   1.7e-26   96.2   0.0   1.9   2   0   0   2   2   2   1 TSA: Franklinothrips vespiformis breed wildtype s1425_L_2236_0_a_34_4_l_4773, transcribed RNA sequence
+GDFM01028524.1_5     -          OSK_CONSENSUS        -            1.9e-25   92.7   0.0   8.2e-25   90.7   0.0   2.0   2   0   0   2   2   2   1 TSA: Franklinothrips vespiformis breed wildtype s1426_L_2236_1_a_34_0_l_4977, transcribed RNA sequence
+GDFM01011064.1_4     -          OSK_CONSENSUS        -            1.9e-11   47.3   0.2   2.3e-11   46.9   0.2   1.1   1   0   0   1   1   1   1 TSA: Franklinothrips vespiformis breed wildtype C44063_a_3_0_l_410, transcribed RNA sequence
+GDFM01028473.1_3     -          OSK_CONSENSUS        -            5.7e-07   32.7   0.6    0.0033   20.5   0.0   3.6   3   0   0   3   3   3   2 TSA: Franklinothrips vespiformis breed wildtype s1380_L_2178_2_a_38_8_l_6362, transcribed RNA sequence
+GDFM01028474.1_3     -          OSK_CONSENSUS        -            2.5e-06   30.6   0.0    0.0035   20.4   0.0   2.9   2   0   0   2   2   2   2 TSA: Franklinothrips vespiformis breed wildtype s1381_L_2178_3_a_37_7_l_6689, transcribed RNA sequence
+GDFM01028470.1_3     -          OSK_CONSENSUS        -            2.9e-06   30.4   0.6     0.003   20.6   0.0   3.0   4   0   0   4   4   4   2 TSA: Franklinothrips vespiformis breed wildtype s1378_L_2178_0_a_40_8_l_5948, transcribed RNA sequence
+GDFM01006297.1_6     -          OSK_CONSENSUS        -            5.8e-05   26.2   0.3   7.3e-05   25.8   0.3   1.2   1   0   0   1   1   1   1 TSA: Franklinothrips vespiformis breed wildtype C32356_a_3_0_l_285, transcribed RNA sequence
+GDFM01005335.1_2     -          OSK_CONSENSUS        -               0.09   15.8   0.0       0.1   15.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Franklinothrips vespiformis breed wildtype C30092_a_4_0_l_270, transcribed RNA sequence
+GDFM01012075.1_5     -          OSK_CONSENSUS        -               0.25   14.3   0.3       1.1   12.3   0.1   1.8   1   1   1   2   2   2   0 TSA: Franklinothrips vespiformis breed wildtype C46569_a_4_0_l_442, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:03 2019
+# [ok]

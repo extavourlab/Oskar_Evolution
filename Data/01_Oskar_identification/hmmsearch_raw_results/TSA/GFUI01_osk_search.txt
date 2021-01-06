@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUI01037367.1_4     -          OSK_CONSENSUS        -               0.48   14.4   1.3      0.82   13.7   0.1   2.0   1   1   1   2   2   2   0 TSA: Liopterus haemorrhoidalis breed wildtype T_DN21685_c0_g1_i1_l_668, transcribed RNA sequence
+GFUI01051070.1_4     -          OSK_CONSENSUS        -               0.62   14.0   2.4      0.78   13.7   2.4   1.2   1   0   0   1   1   1   0 TSA: Liopterus haemorrhoidalis breed wildtype T_DN8320_c0_g1_i1_l_392, transcribed RNA sequence
+GFUI01052898.1_1     -          OSK_CONSENSUS        -               0.79   13.7   0.0      0.88   13.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Liopterus haemorrhoidalis breed wildtype T_DN88_c0_g1_i1_l_397, transcribed RNA sequence
+GFUI01018406.1_5     -          OSK_CONSENSUS        -                1.1   13.2   0.1       1.3   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Liopterus haemorrhoidalis breed wildtype T_DN10954_c1_g1_i1_l_267, transcribed RNA sequence
+GFUI01063280.1_3     -          OSK_CONSENSUS        -                1.5   12.8   0.2       1.7   12.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Liopterus haemorrhoidalis breed wildtype T_DN9825_c2_g2_i1_l_258, transcribed RNA sequence
+GFUI01044265.1_3     -          OSK_CONSENSUS        -                1.8   12.5   0.0         2   12.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Liopterus haemorrhoidalis breed wildtype T_DN4665_c0_g1_i1_l_388, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:05:11 2019
+# [ok]

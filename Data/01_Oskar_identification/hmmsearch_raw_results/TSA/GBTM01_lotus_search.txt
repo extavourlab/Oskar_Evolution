@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTM01021197.1_5     -          LOTUS_CONSENSUS      -            7.6e-12   48.6   0.6   6.7e-11   45.6   0.0   2.8   3   0   0   3   3   3   1 TSA: Anthophora plumipes C89243_a_7_0_l_1900 transcribed RNA sequence
+GBTM01025852.1_4     -          LOTUS_CONSENSUS      -              0.018   18.5   5.9       2.3   11.8   0.0   4.4   4   1   1   5   5   5   0 TSA: Anthophora plumipes s3744_L_6133_1_a_10_0_l_1964 transcribed RNA sequence
+GBTM01025851.1_5     -          LOTUS_CONSENSUS      -              0.025   18.1   5.9       2.3   11.8   0.0   4.2   4   1   1   5   5   5   0 TSA: Anthophora plumipes s3743_L_6133_0_a_13_7_l_1962 transcribed RNA sequence
+GBTM01015994.1_2     -          LOTUS_CONSENSUS      -               0.78   13.3   1.7       1.9   12.1   0.5   2.1   2   0   0   2   2   2   0 TSA: Anthophora plumipes C71070_a_3_0_l_713 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:50 2019
+# [ok]

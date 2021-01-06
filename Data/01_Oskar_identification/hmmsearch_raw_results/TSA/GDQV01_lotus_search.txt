@@ -1,0 +1,79 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDQV01038264.1_3     -          LOTUS_CONSENSUS      -            8.2e-19   73.6   0.4   8.2e-19   73.6   0.4   1.9   2   0   0   2   2   1   1 TSA: Arachnocampa luminosa Alum42841_c0_seq2 transcribed RNA sequence
+GDQV01091872.1_2     -          LOTUS_CONSENSUS      -            1.5e-18   72.7  14.4   4.1e-11   48.9   0.0   5.3   4   1   2   6   6   4   3 TSA: Arachnocampa luminosa Alum62797_c0_seq2 transcribed RNA sequence
+GDQV01038263.1_3     -          LOTUS_CONSENSUS      -            1.6e-18   72.7   0.3   1.6e-18   72.7   0.3   2.2   3   0   0   3   3   1   1 TSA: Arachnocampa luminosa Alum42841_c0_seq1 transcribed RNA sequence
+GDQV01106608.1_2     -          LOTUS_CONSENSUS      -            1.7e-13   56.5   0.1   4.3e-13   55.2   0.1   1.6   2   0   0   2   2   1   1 TSA: Arachnocampa luminosa Alum65033_c3_seq9 transcribed RNA sequence
+GDQV01106611.1_2     -          LOTUS_CONSENSUS      -            5.9e-12   51.6   0.1   2.9e-11   49.4   0.1   2.3   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum65033_c3_seq12 transcribed RNA sequence
+GDQV01106601.1_2     -          LOTUS_CONSENSUS      -            7.2e-12   51.3   0.1   2.5e-11   49.6   0.1   2.0   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum65033_c3_seq2 transcribed RNA sequence
+GDQV01106603.1_2     -          LOTUS_CONSENSUS      -            8.4e-12   51.1   0.1   2.6e-11   49.5   0.1   1.8   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum65033_c3_seq4 transcribed RNA sequence
+GDQV01106606.1_2     -          LOTUS_CONSENSUS      -              2e-11   49.9   0.1     2e-11   49.9   0.1   2.5   2   1   0   2   2   1   1 TSA: Arachnocampa luminosa Alum65033_c3_seq7 transcribed RNA sequence
+GDQV01123718.1_2     -          LOTUS_CONSENSUS      -            6.5e-10   45.0   0.1   2.2e-09   43.3   0.1   2.0   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum66987_c0_seq5 transcribed RNA sequence
+GDQV01123715.1_2     -          LOTUS_CONSENSUS      -              8e-10   44.8   0.1   3.2e-09   42.8   0.1   2.2   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum66987_c0_seq2 transcribed RNA sequence
+GDQV01123714.1_3     -          LOTUS_CONSENSUS      -            3.4e-09   42.7   0.8   2.3e-08   40.1   0.0   2.6   2   0   0   2   2   2   1 TSA: Arachnocampa luminosa Alum66987_c0_seq1 transcribed RNA sequence
+GDQV01123716.1_3     -          LOTUS_CONSENSUS      -            5.1e-09   42.2   0.8   3.3e-08   39.6   0.0   2.7   2   0   0   2   2   1   1 TSA: Arachnocampa luminosa Alum66987_c0_seq3 transcribed RNA sequence
+GDQV01040026.1_2     -          LOTUS_CONSENSUS      -            1.4e-08   40.8   0.0     2e-08   40.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum44138_c0_seq1 transcribed RNA sequence
+GDQV01031553.1_1     -          LOTUS_CONSENSUS      -            1.9e-08   40.3   0.3   2.2e-08   40.1   0.3   1.1   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum37371_c0_seq1 transcribed RNA sequence
+GDQV01043911.1_1     -          LOTUS_CONSENSUS      -            5.3e-08   38.9   0.2   4.2e-07   36.0   0.0   2.7   2   0   0   2   2   1   1 TSA: Arachnocampa luminosa Alum46649_c0_seq1 transcribed RNA sequence
+GDQV01106614.1_4     -          LOTUS_CONSENSUS      -            3.6e-06   33.1   0.1   7.3e-06   32.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Arachnocampa luminosa Alum65033_c6_seq1 transcribed RNA sequence
+GDQV01048275.1_1     -          LOTUS_CONSENSUS      -              0.057   19.6   4.7       7.6   12.8   0.7   3.8   4   1   0   4   4   3   0 TSA: Arachnocampa luminosa Alum49191_c0_seq1 transcribed RNA sequence
+GDQV01168779.1_5     -          LOTUS_CONSENSUS      -               0.13   18.4   0.0      0.14   18.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Arachnocampa luminosa Alum102557_c0_seq1 transcribed RNA sequence
+GDQV01131195.1_2     -          LOTUS_CONSENSUS      -               0.55   16.4   0.8       1.2   15.3   0.5   1.8   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum67634_c3_seq1 transcribed RNA sequence
+GDQV01131197.1_1     -          LOTUS_CONSENSUS      -               0.64   16.2   2.2      0.91   15.7   0.5   1.9   1   1   1   2   2   2   0 TSA: Arachnocampa luminosa Alum67634_c3_seq3 transcribed RNA sequence
+GDQV01134209.1_6     -          LOTUS_CONSENSUS      -                1.1   15.5   0.8       4.7   13.4   0.4   2.3   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq38 transcribed RNA sequence
+GDQV01019735.1_6     -          LOTUS_CONSENSUS      -                1.1   15.5   0.2       1.6   15.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Arachnocampa luminosa Alum25419_c0_seq1 transcribed RNA sequence
+GDQV01131196.1_3     -          LOTUS_CONSENSUS      -                1.1   15.4   0.8       4.7   13.5   0.4   2.3   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum67634_c3_seq2 transcribed RNA sequence
+GDQV01131198.1_1     -          LOTUS_CONSENSUS      -                1.2   15.4   0.7       5.8   13.2   0.4   2.3   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum67634_c3_seq4 transcribed RNA sequence
+GDQV01134197.1_6     -          LOTUS_CONSENSUS      -                1.3   15.3   0.7       5.7   13.2   0.4   2.3   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq26 transcribed RNA sequence
+GDQV01134184.1_6     -          LOTUS_CONSENSUS      -                1.4   15.2   0.6       6.4   13.0   0.4   2.3   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq13 transcribed RNA sequence
+GDQV01025867.1_2     -          LOTUS_CONSENSUS      -                1.6   15.0   0.5       2.4   14.4   0.5   1.4   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum31682_c0_seq1 transcribed RNA sequence
+GDQV01005729.1_1     -          LOTUS_CONSENSUS      -                1.6   14.9   1.0       2.5   14.3   1.0   1.4   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum6909_c0_seq1 transcribed RNA sequence
+GDQV01111205.1_1     -          LOTUS_CONSENSUS      -                2.1   14.5   2.1   4.8e+02    7.0   0.7   2.7   2   0   0   2   2   2   0 TSA: Arachnocampa luminosa Alum65640_c0_seq1 transcribed RNA sequence
+GDQV01047504.1_2     -          LOTUS_CONSENSUS      -                2.7   14.2   3.4   3.6e+02    7.4   0.2   4.3   3   1   1   4   4   3   0 TSA: Arachnocampa luminosa Alum48784_c0_seq1 transcribed RNA sequence
+GDQV01047506.1_2     -          LOTUS_CONSENSUS      -                2.8   14.2   3.4   3.7e+02    7.4   0.2   4.3   3   1   1   4   4   3   0 TSA: Arachnocampa luminosa Alum48784_c0_seq3 transcribed RNA sequence
+GDQV01134213.1_4     -          LOTUS_CONSENSUS      -                3.2   14.0   3.1       5.1   13.3   0.4   2.5   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq42 transcribed RNA sequence
+GDQV01000451.1_3     -          LOTUS_CONSENSUS      -                3.3   13.9   1.3       4.5   13.5   1.3   1.2   1   0   0   1   1   1   0 TSA: Arachnocampa luminosa Alum424_c1_seq1 transcribed RNA sequence
+GDQV01134182.1_4     -          LOTUS_CONSENSUS      -                3.4   13.9   2.9       5.8   13.1   0.4   2.5   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq11 transcribed RNA sequence
+GDQV01134173.1_6     -          LOTUS_CONSENSUS      -                3.5   13.9   0.4       3.5   13.9   0.4   2.1   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq2 transcribed RNA sequence
+GDQV01134176.1_6     -          LOTUS_CONSENSUS      -                3.5   13.9   0.4       3.5   13.9   0.4   2.1   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq5 transcribed RNA sequence
+GDQV01134203.1_5     -          LOTUS_CONSENSUS      -                3.6   13.8   0.4       3.6   13.8   0.4   2.1   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq32 transcribed RNA sequence
+GDQV01134185.1_4     -          LOTUS_CONSENSUS      -                3.6   13.8   3.4       5.1   13.3   0.4   2.5   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq14 transcribed RNA sequence
+GDQV01025868.1_1     -          LOTUS_CONSENSUS      -                3.9   13.7   0.4       3.9   13.7   0.4   2.3   2   1   1   3   3   2   0 TSA: Arachnocampa luminosa Alum31682_c0_seq2 transcribed RNA sequence
+GDQV01134188.1_4     -          LOTUS_CONSENSUS      -                3.9   13.7   3.2       5.8   13.1   0.4   2.5   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq17 transcribed RNA sequence
+GDQV01134195.1_4     -          LOTUS_CONSENSUS      -                  4   13.7   3.4       6.2   13.1   0.4   2.7   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq24 transcribed RNA sequence
+GDQV01134174.1_5     -          LOTUS_CONSENSUS      -                4.2   13.6   0.4       4.2   13.6   0.4   2.2   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq3 transcribed RNA sequence
+GDQV01152313.1_2     -          LOTUS_CONSENSUS      -                4.3   13.6   0.0       4.8   13.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Arachnocampa luminosa Alum85657_c0_seq1 transcribed RNA sequence
+GDQV01134190.1_5     -          LOTUS_CONSENSUS      -                4.3   13.6   0.4       4.3   13.6   0.4   2.0   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq19 transcribed RNA sequence
+GDQV01113846.1_3     -          LOTUS_CONSENSUS      -                4.4   13.5   0.3       4.4   13.5   0.3   4.0   4   0   0   4   4   3   0 TSA: Arachnocampa luminosa Alum65952_c0_seq3 transcribed RNA sequence
+GDQV01161321.1_5     -          LOTUS_CONSENSUS      -                4.4   13.5   0.4       5.6   13.2   0.4   1.4   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum94866_c0_seq1 transcribed RNA sequence
+GDQV01113847.1_1     -          LOTUS_CONSENSUS      -                4.4   13.5   0.2       4.4   13.5   0.2   4.5   5   0   0   5   5   3   0 TSA: Arachnocampa luminosa Alum65952_c0_seq4 transcribed RNA sequence
+GDQV01113849.1_1     -          LOTUS_CONSENSUS      -                4.5   13.5   0.3       4.5   13.5   0.3   4.6   5   0   0   5   5   3   0 TSA: Arachnocampa luminosa Alum65952_c0_seq6 transcribed RNA sequence
+GDQV01134187.1_4     -          LOTUS_CONSENSUS      -                4.6   13.5   3.7       6.2   13.1   0.4   2.7   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq16 transcribed RNA sequence
+GDQV01113844.1_3     -          LOTUS_CONSENSUS      -                4.6   13.5   0.2       4.6   13.5   0.2   3.9   4   0   0   4   4   3   0 TSA: Arachnocampa luminosa Alum65952_c0_seq1 transcribed RNA sequence
+GDQV01134214.1_4     -          LOTUS_CONSENSUS      -                4.6   13.5   3.3       6.9   12.9   0.4   2.7   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq43 transcribed RNA sequence
+GDQV01113848.1_1     -          LOTUS_CONSENSUS      -                4.7   13.4   0.2       4.7   13.4   0.2   4.5   5   0   0   5   5   3   0 TSA: Arachnocampa luminosa Alum65952_c0_seq5 transcribed RNA sequence
+GDQV01134191.1_5     -          LOTUS_CONSENSUS      -                  5   13.4   0.4         5   13.4   0.4   2.2   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq20 transcribed RNA sequence
+GDQV01134177.1_5     -          LOTUS_CONSENSUS      -                5.3   13.3   0.4       5.3   13.3   0.4   2.1   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq6 transcribed RNA sequence
+GDQV01134202.1_5     -          LOTUS_CONSENSUS      -                5.4   13.2   2.6       5.7   13.2   0.4   2.2   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq31 transcribed RNA sequence
+GDQV01134199.1_4     -          LOTUS_CONSENSUS      -                5.6   13.2   3.7       6.9   12.9   0.4   2.7   2   1   0   2   2   2   0 TSA: Arachnocampa luminosa Alum67860_c4_seq28 transcribed RNA sequence
+GDQV01134178.1_5     -          LOTUS_CONSENSUS      -                5.9   13.1   0.5       5.9   13.1   0.5   2.3   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq7 transcribed RNA sequence
+GDQV01134194.1_5     -          LOTUS_CONSENSUS      -                5.9   13.1   0.5       5.9   13.1   0.5   2.3   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq23 transcribed RNA sequence
+GDQV01134192.1_5     -          LOTUS_CONSENSUS      -                6.2   13.1   0.4       6.2   13.1   0.4   2.4   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq21 transcribed RNA sequence
+GDQV01134212.1_5     -          LOTUS_CONSENSUS      -                6.2   13.1   0.4       6.2   13.1   0.4   2.4   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq41 transcribed RNA sequence
+GDQV01191432.1_5     -          LOTUS_CONSENSUS      -                6.5   13.0   0.5       8.6   12.6   0.5   1.4   1   1   0   1   1   1   0 TSA: Arachnocampa luminosa Alum125971_c0_seq1 transcribed RNA sequence
+GDQV01134200.1_5     -          LOTUS_CONSENSUS      -                6.5   13.0   2.8         7   12.9   0.4   2.3   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq29 transcribed RNA sequence
+GDQV01134205.1_5     -          LOTUS_CONSENSUS      -                6.6   13.0   2.8         7   12.9   0.4   2.3   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq34 transcribed RNA sequence
+GDQV01168480.1_6     -          LOTUS_CONSENSUS      -                  7   12.9   0.2       8.9   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Arachnocampa luminosa Alum102249_c0_seq1 transcribed RNA sequence
+GDQV01134181.1_5     -          LOTUS_CONSENSUS      -                7.3   12.8   3.0       7.6   12.8   0.5   2.4   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq10 transcribed RNA sequence
+GDQV01134198.1_5     -          LOTUS_CONSENSUS      -                7.4   12.8   3.0       7.6   12.8   0.5   2.4   2   1   0   2   2   1   0 TSA: Arachnocampa luminosa Alum67860_c4_seq27 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDQV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDQV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDQV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:07 2019
+# [ok]

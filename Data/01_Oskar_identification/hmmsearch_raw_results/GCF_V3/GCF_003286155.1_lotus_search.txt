@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_001980894.1       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-25   90.1   0.2     5e-25   88.1   0.2   2.2   1   0   0   1   1   1   1 maternal effect protein oskar isoform X1 [Drosophila erecta]
+XP_001975650.1       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-13   51.5   0.0   8.1e-13   48.9   0.0   2.3   2   0   0   2   2   2   1 uncharacterized protein LOC6549417 isoform X1 [Drosophila erecta]
+XP_026836368.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-13   51.1   0.1   7.6e-13   49.0   0.0   2.2   3   0   0   3   3   3   1 tudor domain-containing protein 5 isoform X2 [Drosophila erecta]
+XP_015012193.2       -          oskar_filtered.aligned.LOTUS_domain -              3e-13   50.3   0.0     3e-13   50.3   0.0   3.0   3   0   0   3   3   3   1 uncharacterized protein LOC6547599 isoform X3 [Drosophila erecta]
+XP_026836042.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-13   49.9   0.0     4e-13   49.9   0.0   2.9   3   0   0   3   3   3   1 tudor domain-containing protein 7B isoform X1 [Drosophila erecta]
+XP_001974146.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-05   24.6   0.0   3.6e-05   24.3   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC6549120 [Drosophila erecta]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003286155.1_DereRS2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003286155.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003286155.1_DereRS2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:41 2019
+# [ok]

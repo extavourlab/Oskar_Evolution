@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATG02016758.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-14   56.1   0.2   1.7e-13   53.3   0.0   2.5   3   0   0   3   3   3   1 TSA: Corydalus cornutus s3330_L_7600_0_a_43_4_l_1791 transcribed RNA sequence
+GATG02016759.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-14   55.6   0.3     2e-13   53.0   0.0   2.5   3   0   0   3   3   3   1 TSA: Corydalus cornutus s3331_L_7600_1_a_44_1_l_2043 transcribed RNA sequence
+GATG02002326.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-09   38.8   0.0   6.6e-09   38.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Corydalus cornutus C28617_a_7_0_l_254 transcribed RNA sequence
+GATG02016264.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.26   14.1   0.7        63    6.5   0.2   2.7   2   0   0   2   2   2   0 TSA: Corydalus cornutus s2887_L_5936_0_a_20_0_l_1337 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATG02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:35 2019
+# [ok]

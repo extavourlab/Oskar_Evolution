@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVH01018747.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-23   84.7   0.4   7.7e-23   83.5   0.1   1.8   2   0   0   2   2   2   1 TSA: Xyela alpigena s3100_L_4514_0_a_44_8_l_2427 transcribed RNA sequence
+GBVH01016346.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-15   59.4   0.0   6.8e-15   58.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Xyela alpigena C85294_a_28_0_l_4704 transcribed RNA sequence
+GBVH01022697.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.07   16.3   0.1      0.16   15.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Xyela alpigena s818_L_757_1_a_22_5_l_2681 transcribed RNA sequence
+GBVH01022698.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.09   15.9   0.1      0.21   14.7   0.1   1.5   1   0   0   1   1   1   0 TSA: Xyela alpigena s819_L_757_2_a_25_6_l_3191 transcribed RNA sequence
+GBVH01014597.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.13   15.4   0.2      0.33   14.1   0.2   1.6   1   0   0   1   1   1   0 TSA: Xyela alpigena C79146_a_46_0_l_1894 transcribed RNA sequence
+GBVH01012613.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.31   14.2   0.1      0.63   13.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Xyela alpigena C71736_a_39_0_l_1151 transcribed RNA sequence
+GBVH01012885.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.5   13.5   0.0        28    7.9   0.0   2.9   3   1   1   4   4   4   0 TSA: Xyela alpigena C72706_a_8_0_l_1220 transcribed RNA sequence
+GBVH01014137.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.6   13.3   0.1       1.4   12.1   0.1   1.5   1   0   0   1   1   1   0 TSA: Xyela alpigena C77434_a_8_0_l_1667 transcribed RNA sequence
+GBVH01017467.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.89   12.7   0.3        79    6.4   0.0   3.4   4   0   0   4   4   4   0 TSA: Xyela alpigena s1948_L_2400_2_a_52_8_l_1430 transcribed RNA sequence
+GBVH01017466.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.1   12.5   0.2        93    6.2   0.0   3.3   4   0   0   4   4   4   0 TSA: Xyela alpigena s1947_L_2400_1_a_54_9_l_1482 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:49:31 2019
+# [ok]

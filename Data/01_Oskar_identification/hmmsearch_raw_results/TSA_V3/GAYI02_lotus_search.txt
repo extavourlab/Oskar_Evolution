@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYI02052772.1_4     -          oskar_filtered.aligned.LOTUS_domain -              1e-05   30.2   0.0   2.3e-05   29.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Xenophysella greensladeae C284544_a_4_0_l_1039 transcribed RNA sequence
+GAYI02034419.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.83   14.5   0.0         3   12.6   0.0   1.7   1   1   1   2   2   2   0 TSA: Xenophysella greensladeae C224657_a_3_0_l_352 transcribed RNA sequence
+GAYI02070875.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.6   0.1       1.7   13.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Xenophysella greensladeae s6644_L_11975_0_a_5_1_l_302 transcribed RNA sequence
+GAYI02070308.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.5   1.9   1.5e+02    7.2   0.1   2.4   1   1   1   2   2   2   0 TSA: Xenophysella greensladeae s6132_L_10615_0_a_8_0_l_405 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYI02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYI02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYI02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:42 2019
+# [ok]

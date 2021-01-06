@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOE01104051.1_4     -          oskar_filtered.aligned.OSK_domain -                0.6   16.0   0.2       0.7   15.8   0.2   1.0   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR58552-c0_g1_i1 transcribed RNA sequence
+GEOE01042425.1_5     -          oskar_filtered.aligned.OSK_domain -                1.2   15.0   0.2       1.6   14.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR24726-c3_g9_i1 transcribed RNA sequence
+GEOE01103622.1_3     -          oskar_filtered.aligned.OSK_domain -                2.2   14.1   1.1       2.2   14.1   1.1   1.7   1   1   0   2   2   2   0 TSA: Enteucha acetosae TR58185-c0_g1_i1 transcribed RNA sequence
+GEOE01202784.1_5     -          oskar_filtered.aligned.OSK_domain -                2.5   14.0   0.2       2.5   14.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR155156-c0_g1_i1 transcribed RNA sequence
+GEOE01106790.1_3     -          oskar_filtered.aligned.OSK_domain -                3.3   13.6   0.3       3.3   13.6   0.3   1.0   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR60216-c1_g1_i1 transcribed RNA sequence
+GEOE01045104.1_4     -          oskar_filtered.aligned.OSK_domain -                3.5   13.5   0.3       3.5   13.5   0.3   2.4   2   1   0   2   2   2   0 TSA: Enteucha acetosae TR25379-c33_g6_i4 transcribed RNA sequence
+GEOE01073513.1_2     -          oskar_filtered.aligned.OSK_domain -                4.3   13.2   0.1       5.9   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR40873-c0_g1_i1 transcribed RNA sequence
+GEOE01179333.1_4     -          oskar_filtered.aligned.OSK_domain -                4.7   13.1   0.5       5.1   13.0   0.5   1.0   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR124209-c0_g1_i1 transcribed RNA sequence
+GEOE01193739.1_5     -          oskar_filtered.aligned.OSK_domain -                  6   12.7   0.2       6.5   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR143205-c0_g1_i1 transcribed RNA sequence
+GEOE01105429.1_5     -          oskar_filtered.aligned.OSK_domain -                8.4   12.3   0.2        14   11.5   0.2   1.4   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR59126-c0_g3_i2 transcribed RNA sequence
+GEOE01119163.1_2     -          oskar_filtered.aligned.OSK_domain -                9.3   12.1   0.0       9.4   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR65985-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:35 2019
+# [ok]

@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IACE01085560.1_1     -          LOTUS_CONSENSUS      -            1.9e-28  104.3   0.0   1.9e-28  104.3   0.0   2.3   2   1   0   2   2   2   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62589_g2_i1, transcribed RNA sequence
+IACE01097721.1_5     -          LOTUS_CONSENSUS      -            1.5e-22   85.4   0.2   3.4e-20   77.8   0.0   2.9   2   0   0   2   2   2   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c64528_g1_i1, transcribed RNA sequence
+IACE01097722.1_4     -          LOTUS_CONSENSUS      -            1.8e-22   85.1   0.2   3.2e-20   77.9   0.0   2.7   2   0   0   2   2   2   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c64528_g1_i2, transcribed RNA sequence
+IACE01090353.1_3     -          LOTUS_CONSENSUS      -            5.7e-14   57.8   1.1   9.4e-08   37.9   0.0   3.8   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i7, transcribed RNA sequence
+IACE01090355.1_2     -          LOTUS_CONSENSUS      -            8.8e-14   57.2   1.1   1.2e-07   37.5   0.0   3.9   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i9, transcribed RNA sequence
+IACE01090352.1_3     -          LOTUS_CONSENSUS      -            8.9e-14   57.2   1.1   1.2e-07   37.5   0.0   3.9   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i6, transcribed RNA sequence
+IACE01090348.1_1     -          LOTUS_CONSENSUS      -            9.1e-14   57.2   1.1   1.3e-07   37.5   0.0   3.9   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i2, transcribed RNA sequence
+IACE01090351.1_1     -          LOTUS_CONSENSUS      -              1e-13   57.1   1.1   1.3e-07   37.5   0.0   3.9   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i5, transcribed RNA sequence
+IACE01090349.1_2     -          LOTUS_CONSENSUS      -            1.1e-13   56.9   1.1   1.3e-07   37.4   0.0   4.0   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i3, transcribed RNA sequence
+IACE01104669.1_3     -          LOTUS_CONSENSUS      -             0.0068   22.3   0.0        18   11.3   0.0   4.5   3   1   1   4   4   4   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c65188_g1_i2, transcribed RNA sequence
+IACE01000437.1_4     -          LOTUS_CONSENSUS      -                2.2   14.3   0.3   1.4e+02    8.5   0.1   2.4   2   0   0   2   2   2   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c645_g1_i2, transcribed RNA sequence
+IACE01083013.1_2     -          LOTUS_CONSENSUS      -                4.6   13.3   0.1         8   12.5   0.1   1.4   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62082_g1_i1, transcribed RNA sequence
+IACE01087201.1_5     -          LOTUS_CONSENSUS      -                5.2   13.1   0.0       5.7   13.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62921_g7_i1, transcribed RNA sequence
+IACE01156644.1_4     -          LOTUS_CONSENSUS      -                5.5   13.0   0.2       9.1   12.3   0.2   1.3   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c78226_g1_i1, transcribed RNA sequence
+IACE01087202.1_5     -          LOTUS_CONSENSUS      -                6.4   12.8   0.0       7.2   12.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62921_g7_i2, transcribed RNA sequence
+IACE01052171.1_4     -          LOTUS_CONSENSUS      -                6.6   12.8   0.0       7.8   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c51494_g2_i1, transcribed RNA sequence
+IACE01083014.1_1     -          LOTUS_CONSENSUS      -                6.9   12.7   0.1        11   12.1   0.1   1.3   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62082_g1_i2, transcribed RNA sequence
+IACE01089194.1_1     -          LOTUS_CONSENSUS      -                  8   12.5   0.0        17   11.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63273_g2_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IACE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:45 2019
+# [ok]

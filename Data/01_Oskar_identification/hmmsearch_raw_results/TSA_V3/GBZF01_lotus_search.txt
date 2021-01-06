@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBZF01014465.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   64.4   0.0   1.1e-14   58.4   0.0   2.8   2   0   0   2   2   2   1 TSA: Antheraea pernyi Unigene14781_Aper transcribed RNA sequence
+GBZF01014464.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-14   56.6   0.0   3.3e-12   50.4   0.0   2.8   2   0   0   2   2   2   1 TSA: Antheraea pernyi Unigene14780_Aper transcribed RNA sequence
+GBZF01019993.1_1     -          oskar_filtered.aligned.LOTUS_domain -            0.00032   24.7   0.6     0.019   19.1   0.0   2.7   3   0   0   3   3   3   1 TSA: Antheraea pernyi Unigene20478_Aper transcribed RNA sequence
+GBZF01027368.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.94   13.6   5.0   1.4e+02    6.7   0.1   4.3   4   1   0   4   4   4   0 TSA: Antheraea pernyi Unigene27981_Aper transcribed RNA sequence
+GBZF01037955.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.99   13.5   0.0       1.8   12.7   0.0   1.5   1   0   0   1   1   1   0 TSA: Antheraea pernyi Unigene38834_Aper transcribed RNA sequence
+GBZF01045834.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.8   12.1   0.0       3.5   11.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Antheraea pernyi Unigene48016_Aper transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBZF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:16 2019
+# [ok]

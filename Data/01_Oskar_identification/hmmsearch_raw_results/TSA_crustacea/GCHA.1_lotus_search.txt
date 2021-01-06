@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCHA01014088.1_1     -          LOTUS_CONSENSUS      -            2.3e-19   73.6   0.0   3.1e-10   44.3   0.0   3.6   3   0   0   3   3   3   3 TSA: Tigriopus japonicus TJ_CDS_14089 transcribed RNA sequence
+GCHA01014435.1_1     -          LOTUS_CONSENSUS      -            2.3e-19   73.6   0.0   3.1e-10   44.3   0.0   3.6   3   0   0   3   3   3   3 TSA: Tigriopus japonicus TJ_CDS_14436 transcribed RNA sequence
+GCHA01039462.1_1     -          LOTUS_CONSENSUS      -              4e-17   66.4   1.3   9.6e-17   65.2   0.0   2.2   2   0   0   2   2   2   1 TSA: Tigriopus japonicus TJ_CDS_39464 transcribed RNA sequence
+GCHA01039788.1_1     -          LOTUS_CONSENSUS      -              4e-17   66.4   1.3   9.6e-17   65.2   0.0   2.2   2   0   0   2   2   2   1 TSA: Tigriopus japonicus TJ_CDS_39790 transcribed RNA sequence
+GCHA01030046.1_1     -          LOTUS_CONSENSUS      -              3e-10   44.3   5.4      0.32   15.4   0.0   6.5   5   1   3   8   8   8   3 TSA: Tigriopus japonicus TJ_CDS_30048 transcribed RNA sequence
+GCHA01030047.1_1     -          LOTUS_CONSENSUS      -              3e-10   44.3   5.4      0.32   15.4   0.0   6.5   5   1   3   8   8   8   3 TSA: Tigriopus japonicus TJ_CDS_30049 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GCHA.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GCHA.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GCHA.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:20 2019
+# [ok]

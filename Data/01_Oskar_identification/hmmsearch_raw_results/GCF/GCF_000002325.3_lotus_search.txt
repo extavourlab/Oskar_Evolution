@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_001234884.1       -          LOTUS_CONSENSUS      -            9.9e-26   90.4   0.5   2.5e-25   89.1   0.1   1.9   2   1   0   2   2   2   1 maternal effect protein oskar [Nasonia vitripennis]
+XP_008205380.1       -          LOTUS_CONSENSUS      -            4.2e-20   72.3   1.8   9.2e-14   52.0   0.3   3.2   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5-like [Nasonia vitripennis]
+XP_016843056.1       -          LOTUS_CONSENSUS      -            4.2e-20   72.3   1.8   9.2e-14   52.0   0.3   3.2   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5-like [Nasonia vitripennis]
+XP_016845477.1       -          LOTUS_CONSENSUS      -            9.9e-17   61.5   0.1   4.2e-16   59.5   0.0   2.2   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7A-like isoform X2 [Nasonia vitripennis]
+XP_001604820.2       -          LOTUS_CONSENSUS      -            1.1e-16   61.4   0.1   4.6e-16   59.4   0.0   2.2   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7A-like isoform X1 [Nasonia vitripennis]
+XP_008212485.1       -          LOTUS_CONSENSUS      -            2.2e-16   60.4  10.0   2.8e-12   47.2   0.1   4.6   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC100121779 isoform X1 [Nasonia vitripennis]
+XP_016837157.1       -          LOTUS_CONSENSUS      -            2.2e-16   60.4  10.0   2.8e-12   47.2   0.1   4.6   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC100121779 isoform X1 [Nasonia vitripennis]
+XP_016837158.1       -          LOTUS_CONSENSUS      -              5e-16   59.3  11.5   2.4e-12   47.5   0.1   4.5   5   0   0   5   5   4   2 PREDICTED: uncharacterized protein LOC100121779 isoform X3 [Nasonia vitripennis]
+XP_016845662.1       -          LOTUS_CONSENSUS      -            3.3e-09   37.4   0.1     0.088   13.6   0.0   6.2   4   1   2   6   6   6   2 PREDICTED: meiosis arrest female protein 1 homolog [Nasonia vitripennis]
+XP_003428145.1       -          LOTUS_CONSENSUS      -            7.7e-07   29.8   0.0   3.1e-06   27.9   0.0   1.9   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC100678748 isoform X2 [Nasonia vitripennis]
+XP_008214714.1       -          LOTUS_CONSENSUS      -            8.1e-07   29.8   0.0   3.2e-06   27.8   0.0   1.9   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC100678748 isoform X1 [Nasonia vitripennis]
+XP_016845420.1       -          LOTUS_CONSENSUS      -            8.1e-07   29.8   0.0   3.2e-06   27.8   0.0   1.9   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC100678748 isoform X1 [Nasonia vitripennis]
+XP_008212486.1       -          LOTUS_CONSENSUS      -            0.00084   20.1   1.0     0.011   16.4   0.0   3.4   3   0   0   3   3   2   1 PREDICTED: uncharacterized protein LOC100121779 isoform X2 [Nasonia vitripennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000002325.3_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:38 2019
+# [ok]

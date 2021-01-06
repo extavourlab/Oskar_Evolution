@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFL01122731.1_2     -          OSK_CONSENSUS        -                0.5   16.1   0.2       0.5   16.1   0.2   1.0   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp2712598_c0_seq1, transcribed RNA sequence
+HAFL01219292.1_6     -          OSK_CONSENSUS        -               0.54   16.0   0.5      0.56   15.9   0.5   1.0   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp4505132_c0_seq1, transcribed RNA sequence
+HAFL01035099.1_4     -          OSK_CONSENSUS        -               0.58   15.9   0.4       1.2   14.9   0.4   1.5   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp100028_c0_seq4, transcribed RNA sequence
+HAFL01035107.1_4     -          OSK_CONSENSUS        -               0.62   15.8   0.4       1.2   14.8   0.4   1.5   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp100028_c0_seq12, transcribed RNA sequence
+HAFL01121880.1_1     -          OSK_CONSENSUS        -               0.73   15.6   0.1      0.81   15.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp801063_c0_seq1, transcribed RNA sequence
+HAFL01035101.1_5     -          OSK_CONSENSUS        -               0.81   15.4   0.2       1.5   14.6   0.2   1.5   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp100028_c0_seq6, transcribed RNA sequence
+HAFL01035100.1_5     -          OSK_CONSENSUS        -               0.84   15.4   0.2       1.6   14.5   0.2   1.5   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp100028_c0_seq5, transcribed RNA sequence
+HAFL01037803.1_1     -          OSK_CONSENSUS        -               0.89   15.3   0.1       1.1   15.0   0.0   1.4   1   1   0   1   1   1   0 TSA: Proasellus beticus, contig comp100433_c0_seq2, transcribed RNA sequence
+HAFL01099874.1_6     -          OSK_CONSENSUS        -                1.2   14.8   0.7       1.4   14.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp98236_c3_seq3, transcribed RNA sequence
+HAFL01196166.1_5     -          OSK_CONSENSUS        -                1.7   14.3   0.3       2.1   14.1   0.3   1.2   1   1   0   1   1   1   0 TSA: Proasellus beticus, contig comp1200110_c0_seq1, transcribed RNA sequence
+HAFL01163431.1_3     -          OSK_CONSENSUS        -                  2   14.1   0.1       3.2   13.5   0.1   1.4   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp1428271_c0_seq1, transcribed RNA sequence
+HAFL01201226.1_6     -          OSK_CONSENSUS        -                2.7   13.7   0.2         3   13.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp1659301_c0_seq1, transcribed RNA sequence
+HAFL01196492.1_2     -          OSK_CONSENSUS        -                3.7   13.3   0.2       5.2   12.8   0.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus beticus, contig comp28151_c0_seq1, transcribed RNA sequence
+HAFL01105097.1_2     -          OSK_CONSENSUS        -                5.4   12.8   1.3     4e+02    6.7   0.3   2.8   2   0   0   2   2   2   0 TSA: Proasellus beticus, contig comp99410_c0_seq3, transcribed RNA sequence
+HAFL01037808.1_1     -          OSK_CONSENSUS        -                7.2   12.3   0.2        24   10.6   0.0   1.9   1   1   1   2   2   2   0 TSA: Proasellus beticus, contig comp100433_c0_seq7, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFL.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFL.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFL.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:35 2019
+# [ok]

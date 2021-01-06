@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQM01024998.1_4     -          OSK_CONSENSUS        -               0.16   16.2   0.5      0.18   16.1   0.5   1.1   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c33037_g1_i1 transcribed RNA sequence
+GEQM01002455.1_4     -          OSK_CONSENSUS        -               0.59   14.4   1.1      0.72   14.1   1.1   1.2   1   1   0   1   1   1   0 TSA: Macropereiopus parvus c3971_g1_i1 transcribed RNA sequence
+GEQM01063961.1_3     -          OSK_CONSENSUS        -               0.81   14.0   0.5      0.97   13.7   0.5   1.2   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c59979_g1_i1 transcribed RNA sequence
+GEQM01053738.1_1     -          OSK_CONSENSUS        -                  1   13.6   0.1       1.6   13.0   0.1   1.3   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c48998_g1_i6 transcribed RNA sequence
+GEQM01053736.1_1     -          OSK_CONSENSUS        -                1.6   13.0   0.1       2.6   12.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c48998_g1_i4 transcribed RNA sequence
+GEQM01037430.1_6     -          OSK_CONSENSUS        -                2.1   12.6   0.0       2.8   12.2   0.0   1.3   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c43492_g1_i1 transcribed RNA sequence
+GEQM01042645.1_3     -          OSK_CONSENSUS        -                2.6   12.3   0.2       8.1   10.7   0.2   1.7   2   0   0   2   2   2   0 TSA: Macropereiopus parvus c46172_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQM.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQM.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQM.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:16 2019
+# [ok]

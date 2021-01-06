@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HACB02067110.1_2     -          OSK_CONSENSUS        -               0.58   14.8   0.0      0.74   14.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Cherax quadricarinatus, contig c51719_g1_i1, transcribed RNA sequence
+HACB02101390.1_1     -          OSK_CONSENSUS        -               0.61   14.7   0.0       1.2   13.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Cherax quadricarinatus, contig c72649_g1_i1, transcribed RNA sequence
+HACB02056035.1_2     -          OSK_CONSENSUS        -                2.4   12.8   0.1         4   12.1   0.1   1.3   1   0   0   1   1   1   0 TSA: Cherax quadricarinatus, contig c50153_g2_i3, transcribed RNA sequence
+HACB02056032.1_2     -          OSK_CONSENSUS        -                2.6   12.7   0.1         4   12.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Cherax quadricarinatus, contig c50153_g2_i1, transcribed RNA sequence
+HACB02045007.1_3     -          OSK_CONSENSUS        -                2.9   12.5   0.0       3.3   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Cherax quadricarinatus, contig c46085_g1_i1, transcribed RNA sequence
+HACB02104435.1_4     -          OSK_CONSENSUS        -                3.4   12.3   0.0       3.6   12.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Cherax quadricarinatus, contig c75799_g1_i1, transcribed RNA sequence
+HACB02030780.1_5     -          OSK_CONSENSUS        -                  5   11.8   1.3       7.3   11.2   1.3   1.2   1   0   0   1   1   1   0 TSA: Cherax quadricarinatus, contig c37317_g1_i1, transcribed RNA sequence
+HACB02098252.1_6     -          OSK_CONSENSUS        -                6.1   11.5   1.4        84    7.8   0.0   2.3   2   1   0   2   2   2   0 TSA: Cherax quadricarinatus, contig c69363_g1_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HACB.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HACB.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HACB.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:27 2019
+# [ok]

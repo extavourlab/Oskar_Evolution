@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXW02037479.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-16   61.7   0.0   2.5e-15   60.2   0.0   1.9   1   0   0   1   1   1   1 TSA: Euroleon nostras s7527_L_17073_1_a_20_8_l_4188 transcribed RNA sequence
+GAXW02037478.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-16   61.7   0.0   2.6e-15   60.2   0.0   1.9   1   0   0   1   1   1   1 TSA: Euroleon nostras s7526_L_17073_0_a_20_5_l_4220 transcribed RNA sequence
+GAXW02017607.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.001   22.9   0.4       0.6   14.0   0.0   2.4   2   0   0   2   2   2   2 TSA: Euroleon nostras C151780_a_4_0_l_779 transcribed RNA sequence
+GAXW02026283.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.13   16.2   0.6      0.14   16.1   0.6   1.2   1   0   0   1   1   1   0 TSA: Euroleon nostras C90962_a_6_0_l_229 transcribed RNA sequence
+GAXW02038340.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.0   1.8       1.2   13.1   0.4   2.3   2   0   0   2   2   2   0 TSA: Euroleon nostras s8304_L_28154_0_a_8_4_l_566 transcribed RNA sequence
+GAXW02025709.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.3   15.0   0.1      0.41   14.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Euroleon nostras C89614_a_3_0_l_227 transcribed RNA sequence
+GAXW02019837.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.83   13.6   0.2       2.3   12.2   0.2   1.6   1   0   0   1   1   1   0 TSA: Euroleon nostras C159454_a_15_0_l_1257 transcribed RNA sequence
+GAXW02017365.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.0   0.0        74    7.3   0.0   3.0   3   0   0   3   3   3   0 TSA: Euroleon nostras C150946_a_12_0_l_749 transcribed RNA sequence
+GAXW02017530.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.2   1.6       4.2   11.3   1.6   1.3   1   0   0   1   1   1   0 TSA: Euroleon nostras C151512_a_33_0_l_770 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXW02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXW02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXW02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:38 2019
+# [ok]

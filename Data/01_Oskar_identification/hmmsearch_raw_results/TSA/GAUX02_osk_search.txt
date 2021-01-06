@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUX02033659.1_2     -          OSK_CONSENSUS        -            2.9e-34  122.2   0.0   3.9e-34  121.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Ceuthophilus sp. AD-2013 C237916_a_27_0_l_791 transcribed RNA sequence
+GAUX02024000.1_6     -          OSK_CONSENSUS        -            1.7e-12   51.5   0.1     2e-12   51.2   0.1   1.1   1   0   0   1   1   1   1 TSA: Ceuthophilus sp. AD-2013 C204259_a_3_0_l_414 transcribed RNA sequence
+GAUX02021610.1_1     -          OSK_CONSENSUS        -            2.1e-05   28.4   0.0   2.8e-05   28.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Ceuthophilus sp. AD-2013 C196403_a_4_0_l_369 transcribed RNA sequence
+GAUX02049431.1_4     -          OSK_CONSENSUS        -               0.33   14.7   0.1         1   13.2   0.1   1.7   1   0   0   1   1   1   0 TSA: Ceuthophilus sp. AD-2013 s3074_L_3408_4_a_124_3_l_4172 transcribed RNA sequence
+GAUX02049429.1_4     -          OSK_CONSENSUS        -               0.38   14.5   0.1      0.89   13.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Ceuthophilus sp. AD-2013 s3072_L_3408_2_a_133_1_l_3866 transcribed RNA sequence
+GAUX02049427.1_4     -          OSK_CONSENSUS        -               0.42   14.4   0.1       1.1   13.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Ceuthophilus sp. AD-2013 s3070_L_3408_0_a_126_7_l_4391 transcribed RNA sequence
+GAUX02049430.1_4     -          OSK_CONSENSUS        -               0.45   14.3   0.1       1.1   13.0   0.1   1.6   1   0   0   1   1   1   0 TSA: Ceuthophilus sp. AD-2013 s3073_L_3408_3_a_125_2_l_4593 transcribed RNA sequence
+GAUX02049428.1_4     -          OSK_CONSENSUS        -               0.47   14.2   0.1       1.2   12.9   0.1   1.6   1   0   0   1   1   1   0 TSA: Ceuthophilus sp. AD-2013 s3071_L_3408_1_a_125_0_l_4772 transcribed RNA sequence
+GAUX02039335.1_6     -          OSK_CONSENSUS        -               0.69   13.7   0.9       3.5   11.4   0.4   2.3   1   1   1   2   2   2   0 TSA: Ceuthophilus sp. AD-2013 C258614_a_18_0_l_1755 transcribed RNA sequence
+GAUX02034974.1_6     -          OSK_CONSENSUS        -                1.5   12.6   0.1       2.7   11.8   0.1   1.4   1   0   0   1   1   1   0 TSA: Ceuthophilus sp. AD-2013 C242784_a_17_0_l_904 transcribed RNA sequence
+GAUX02038505.1_4     -          OSK_CONSENSUS        -                3.3   11.5   3.1       1.4   12.7   0.4   1.7   2   0   0   2   2   2   0 TSA: Ceuthophilus sp. AD-2013 C255694_a_15_0_l_1489 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUX02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUX02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUX02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:14 2019
+# [ok]

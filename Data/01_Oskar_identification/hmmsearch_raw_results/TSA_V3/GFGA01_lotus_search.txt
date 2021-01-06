@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFGA01008784.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-20   75.5   0.2   1.1e-19   74.1   0.2   1.8   1   0   0   1   1   1   1 TSA: Eutolmus rufibarbis c8790_BT_Eu_ru_202_g2_i1 transcribed RNA sequence
+GFGA01014168.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.3e-18   69.0   0.0   8.6e-18   68.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Eutolmus rufibarbis c521_BT_Eu_ru_202_g1_i2 transcribed RNA sequence
+GFGA01035411.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-11   46.9   0.0   3.4e-11   46.9   0.0   2.5   2   1   0   2   2   2   1 TSA: Eutolmus rufibarbis c9976_BT_Eu_ru_202_g2_i1 transcribed RNA sequence
+GFGA01011611.1_4     -          oskar_filtered.aligned.LOTUS_domain -                0.5   14.2   0.7       0.8   13.6   0.7   1.4   1   0   0   1   1   1   0 TSA: Eutolmus rufibarbis c4713_BT_Eu_ru_202_g1_i1 transcribed RNA sequence
+GFGA01036111.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.67   13.8   0.1         3   11.7   0.0   1.9   2   0   0   2   2   2   0 TSA: Eutolmus rufibarbis c2434_BT_Eu_ru_202_g1_i2 transcribed RNA sequence
+GFGA01006242.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.0   0.1   3.1e+02    5.3   0.0   3.7   3   0   0   3   3   3   0 TSA: Eutolmus rufibarbis c7112_BT_Eu_ru_202_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFGA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFGA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFGA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:43 2019
+# [ok]

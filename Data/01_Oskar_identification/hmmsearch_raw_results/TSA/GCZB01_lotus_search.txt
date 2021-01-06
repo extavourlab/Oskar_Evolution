@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZB01036340.1_5     -          LOTUS_CONSENSUS      -            1.2e-24   90.5   0.3   3.3e-12   50.6   0.0   3.3   3   0   0   3   3   3   3 TSA: Sehirus cinctus breed wildtype C252599_6_0, transcribed RNA sequence
+GCZB01040425.1_5     -          LOTUS_CONSENSUS      -            9.1e-17   65.3   0.0   2.2e-16   64.0   0.0   1.7   1   0   0   1   1   1   1 TSA: Sehirus cinctus breed wildtype s1197_L_2662_4_9_3_COMPLEX, transcribed RNA sequence
+GCZB01040381.1_4     -          LOTUS_CONSENSUS      -            1.1e-16   65.0   0.1     1e-15   61.9   0.0   2.6   2   0   0   2   2   2   1 TSA: Sehirus cinctus breed wildtype s1193_L_2662_0_11_6_COMPLEX, transcribed RNA sequence
+GCZB01038157.1_4     -          LOTUS_CONSENSUS      -            9.6e-09   39.5   0.0       2.6   12.5   0.0   6.0   2   1   2   4   4   4   3 TSA: Sehirus cinctus breed wildtype C260881_10_0, transcribed RNA sequence
+GCZB01017335.1_6     -          LOTUS_CONSENSUS      -               0.16   16.4   0.3      0.21   16.0   0.3   1.1   1   0   0   1   1   1   0 TSA: Sehirus cinctus breed wildtype C175759_2_0, transcribed RNA sequence
+GCZB01044068.1_3     -          LOTUS_CONSENSUS      -               0.85   14.1   0.9   1.9e+02    6.5   0.0   2.6   2   0   0   2   2   2   0 TSA: Sehirus cinctus breed wildtype s15264_L_59024_0_8_3_LINEAR, transcribed RNA sequence
+GCZB01023736.1_1     -          LOTUS_CONSENSUS      -                1.5   13.3   0.1       2.4   12.6   0.1   1.6   1   1   0   1   1   1   0 TSA: Sehirus cinctus breed wildtype C197579_2_0, transcribed RNA sequence
+GCZB01021998.1_4     -          LOTUS_CONSENSUS      -                2.3   12.7   0.0       3.7   12.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Sehirus cinctus breed wildtype C191347_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:57 2019
+# [ok]

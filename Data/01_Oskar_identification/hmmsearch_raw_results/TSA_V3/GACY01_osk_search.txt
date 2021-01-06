@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GACY01035341.1_5     -          oskar_filtered.aligned.OSK_domain -                  1   13.2   0.6       1.2   13.1   0.6   1.1   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig35406 mRNA sequence
+GACY01016910.1_4     -          oskar_filtered.aligned.OSK_domain -                1.4   12.9   0.1       1.7   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig16944 mRNA sequence
+GACY01031827.1_1     -          oskar_filtered.aligned.OSK_domain -                2.7   11.9   0.1       3.7   11.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig31887 mRNA sequence
+GACY01041591.1_4     -          oskar_filtered.aligned.OSK_domain -                2.8   11.8   1.3       3.1   11.7   1.3   1.1   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig41668 mRNA sequence
+GACY01052694.1_4     -          oskar_filtered.aligned.OSK_domain -                3.1   11.7   0.4       3.3   11.6   0.4   1.0   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig52792 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GACY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:34 2019
+# [ok]

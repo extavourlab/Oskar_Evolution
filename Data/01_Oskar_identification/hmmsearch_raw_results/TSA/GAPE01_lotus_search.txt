@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAPE01022322.1_2     -          LOTUS_CONSENSUS      -            1.6e-19   73.5   3.5   2.1e-19   73.1   0.5   2.9   3   0   0   3   3   2   1 TSA: Meligethes aeneus Locus_5213_Contig3 transcribed RNA sequence
+GAPE01022320.1_2     -          LOTUS_CONSENSUS      -            1.8e-19   73.4   0.6   1.8e-19   73.4   0.6   2.6   3   0   0   3   3   2   1 TSA: Meligethes aeneus Locus_5213_Contig1 transcribed RNA sequence
+GAPE01027922.1_2     -          LOTUS_CONSENSUS      -            3.2e-19   72.6   0.0   1.1e-12   51.6   0.0   2.7   2   0   0   2   2   2   2 TSA: Meligethes aeneus Locus_8487_Contig1 transcribed RNA sequence
+GAPE01027923.1_3     -          LOTUS_CONSENSUS      -            9.9e-17   64.6   0.0   2.1e-10   44.3   0.0   2.6   2   0   0   2   2   2   2 TSA: Meligethes aeneus Locus_8487_Contig2 transcribed RNA sequence
+GAPE01019095.1_2     -          LOTUS_CONSENSUS      -            1.4e-07   35.2   0.5   4.4e-07   33.7   0.1   2.0   2   0   0   2   2   2   1 TSA: Meligethes aeneus Locus_3790_Contig1 transcribed RNA sequence
+GAPE01036722.1_1     -          LOTUS_CONSENSUS      -            6.6e-06   29.9   0.0     0.039   17.8   0.0   2.6   2   0   0   2   2   2   2 TSA: Meligethes aeneus Locus_8487_Transcript_7/25 transcribed RNA sequence
+GAPE01032960.1_4     -          LOTUS_CONSENSUS      -            1.2e-05   29.0   0.0        63    7.5   0.0   5.8   5   1   1   6   6   6   2 TSA: Meligethes aeneus Locus_4009_Transcript_33/42 transcribed RNA sequence
+GAPE01019612.1_4     -          LOTUS_CONSENSUS      -            1.3e-05   28.9   0.0        64    7.5   0.0   5.7   5   1   1   6   6   6   2 TSA: Meligethes aeneus Locus_4009_Contig6 transcribed RNA sequence
+GAPE01032959.1_3     -          LOTUS_CONSENSUS      -              2e-05   28.4   0.0        69    7.4   0.0   5.7   5   1   1   6   6   6   2 TSA: Meligethes aeneus Locus_4009_Transcript_30/42 transcribed RNA sequence
+GAPE01019613.1_5     -          LOTUS_CONSENSUS      -            5.4e-05   27.0   0.0        84    7.1   0.0   5.8   5   1   1   6   6   6   2 TSA: Meligethes aeneus Locus_4009_Contig7 transcribed RNA sequence
+GAPE01019095.1_3     -          LOTUS_CONSENSUS      -            9.8e-05   26.1   0.0   0.00018   25.3   0.0   1.4   1   0   0   1   1   1   1 TSA: Meligethes aeneus Locus_3790_Contig1 transcribed RNA sequence
+GAPE01032961.1_4     -          LOTUS_CONSENSUS      -            0.00011   26.0   0.0        97    6.9   0.0   5.7   5   1   0   6   6   6   1 TSA: Meligethes aeneus Locus_4009_Transcript_39/42 transcribed RNA sequence
+GAPE01032958.1_3     -          LOTUS_CONSENSUS      -            0.00011   25.9   0.0        51    7.8   0.0   5.9   5   1   1   6   6   6   1 TSA: Meligethes aeneus Locus_4009_Transcript_28/42 transcribed RNA sequence
+GAPE01032957.1_3     -          LOTUS_CONSENSUS      -             0.0025   21.6   0.0        56    7.7   0.0   4.8   4   1   1   5   5   5   1 TSA: Meligethes aeneus Locus_4009_Transcript_27/42 transcribed RNA sequence
+GAPE01032207.1_1     -          LOTUS_CONSENSUS      -                5.1   11.0   1.9   1.1e+02    6.8   0.1   2.8   3   0   0   3   3   3   0 TSA: Meligethes aeneus Locus_3222_Transcript_1/4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAPE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:59 2019
+# [ok]

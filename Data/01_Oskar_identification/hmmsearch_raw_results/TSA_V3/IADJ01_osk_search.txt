@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IADJ01028537.1_4     -          oskar_filtered.aligned.OSK_domain -            5.4e-23   86.9   0.5   8.6e-23   86.3   0.5   1.3   1   0   0   1   1   1   1 TSA: Trypoxylus dichotomus mRNA, comp53678_c0_seq1, transcribed RNA sequence
+IADJ01051703.1_3     -          oskar_filtered.aligned.OSK_domain -                0.1   17.6   0.1      0.14   17.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Trypoxylus dichotomus mRNA, comp62464_c1_seq8, transcribed RNA sequence
+IADJ01001304.1_2     -          oskar_filtered.aligned.OSK_domain -                1.8   13.5   0.0       2.4   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Trypoxylus dichotomus mRNA, comp2692_c0_seq1, transcribed RNA sequence
+IADJ01044209.1_4     -          oskar_filtered.aligned.OSK_domain -                4.2   12.3   0.2        56    8.6   0.0   2.3   2   0   0   2   2   2   0 TSA: Trypoxylus dichotomus mRNA, comp60645_c0_seq3, transcribed RNA sequence
+IADJ01083710.1_2     -          oskar_filtered.aligned.OSK_domain -                4.6   12.2   0.5   4.4e+02    5.7   0.0   2.1   2   0   0   2   2   2   0 TSA: Trypoxylus dichotomus mRNA, comp66160_c0_seq12, transcribed RNA sequence
+IADJ01044207.1_4     -          oskar_filtered.aligned.OSK_domain -                4.8   12.1   0.2        70    8.3   0.0   2.3   2   0   0   2   2   2   0 TSA: Trypoxylus dichotomus mRNA, comp60645_c0_seq1, transcribed RNA sequence
+IADJ01051704.1_3     -          oskar_filtered.aligned.OSK_domain -                5.6   11.9   0.0       6.4   11.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Trypoxylus dichotomus mRNA, comp62464_c1_seq9, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IADJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IADJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IADJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:12 2019
+# [ok]

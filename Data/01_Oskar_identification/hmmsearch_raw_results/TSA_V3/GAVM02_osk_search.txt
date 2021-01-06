@@ -1,0 +1,15 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAVM02025082.1_3     -          oskar_filtered.aligned.OSK_domain -            6.1e-21   78.0   0.8   6.1e-21   78.0   0.8   2.7   2   1   0   2   2   2   1 TSA: Hydroptila sp. AD-2013 s80_L_99_0_a_66_5_l_1553 transcribed RNA sequence
+GAVM02012926.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   11.8   3.7       1.5   11.4   3.7   1.1   1   0   0   1   1   1   0 TSA: Hydroptila sp. AD-2013 C81313_a_28_0_l_499 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVM02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAVM02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVM02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:36 2019
+# [ok]

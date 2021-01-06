@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWC01068728.1_3     -          oskar_filtered.aligned.LOTUS_domain -              3e-24   90.6   0.0   7.4e-24   89.3   0.0   1.7   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq2 transcribed RNA sequence
+GAWC01068729.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-24   90.2   0.0   9.6e-24   89.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq3 transcribed RNA sequence
+GAWC01068734.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-24   89.7   0.0   1.3e-23   88.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq8 transcribed RNA sequence
+GAWC01051377.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-15   60.8   0.0   1.9e-12   52.7   0.0   2.9   3   0   0   3   3   2   1 TSA: Aretaon asperrimus comp55516_c0_seq1 transcribed RNA sequence
+GAWC01051379.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-14   59.8   0.0   3.3e-12   52.0   0.0   3.1   3   0   0   3   3   3   1 TSA: Aretaon asperrimus comp55516_c0_seq3 transcribed RNA sequence
+GAWC01059118.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-11   49.0   0.0   1.2e-05   30.9   0.0   2.5   2   0   0   2   2   2   2 TSA: Aretaon asperrimus comp56974_c0_seq6 transcribed RNA sequence
+GAWC01059129.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-11   48.4   0.0   1.5e-05   30.6   0.0   2.6   2   0   0   2   2   2   2 TSA: Aretaon asperrimus comp56974_c0_seq17 transcribed RNA sequence
+GAWC01059127.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-11   48.3   0.0   1.5e-05   30.5   0.0   2.5   2   0   0   2   2   2   2 TSA: Aretaon asperrimus comp56974_c0_seq15 transcribed RNA sequence
+GAWC01081108.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.2   17.4   0.0   1.3e+03    5.1   0.0   4.1   2   2   1   3   3   3   0 TSA: Aretaon asperrimus comp59035_c0_seq4 transcribed RNA sequence
+GAWC01077726.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.9   1.5        37   10.0   0.1   3.4   3   0   0   3   3   3   0 TSA: Aretaon asperrimus comp58786_c2_seq8 transcribed RNA sequence
+GAWC01077722.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.5   13.8   1.5        38   10.0   0.1   3.4   3   0   0   3   3   3   0 TSA: Aretaon asperrimus comp58786_c2_seq4 transcribed RNA sequence
+GAWC01077725.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.7   1.5        39   10.0   0.1   3.4   3   0   0   3   3   3   0 TSA: Aretaon asperrimus comp58786_c2_seq7 transcribed RNA sequence
+GAWC01077727.1_2     -          oskar_filtered.aligned.LOTUS_domain -                  3   13.6   1.5        40    9.9   0.1   3.3   3   0   0   3   3   3   0 TSA: Aretaon asperrimus comp58786_c2_seq9 transcribed RNA sequence
+GAWC01009670.1_1     -          oskar_filtered.aligned.LOTUS_domain -                6.7   12.4   0.0       8.4   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp18902_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:40 2019
+# [ok]

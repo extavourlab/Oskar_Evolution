@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMW01012417.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.2   15.1   2.7      0.72   13.3   2.7   1.8   1   1   0   1   1   1   0 TSA: Parischnogaster nigricans C71285_a_3_0_l_498 transcribed RNA sequence
+GBMW01020771.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.54   13.7   0.3        13    9.3   0.0   3.1   3   0   0   3   3   3   0 TSA: Parischnogaster nigricans s118_L_148_2_a_54_3_l_1874 transcribed RNA sequence
+GBMW01020782.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.55   13.7   0.3        13    9.3   0.0   3.1   3   0   0   3   3   3   0 TSA: Parischnogaster nigricans s119_L_148_3_a_52_8_l_1876 transcribed RNA sequence
+GBMW01020794.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.64   13.4   0.3        13    9.2   0.0   3.1   3   0   0   3   3   3   0 TSA: Parischnogaster nigricans s120_L_148_4_a_50_5_l_1969 transcribed RNA sequence
+GBMW01020760.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.93   12.9   1.3        12    9.4   0.1   3.0   4   0   0   4   4   4   0 TSA: Parischnogaster nigricans s117_L_148_1_a_56_4_l_1623 transcribed RNA sequence
+GBMW01020749.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.94   12.9   0.4        16    9.0   0.0   3.0   3   0   0   3   3   3   0 TSA: Parischnogaster nigricans s116_L_148_0_a_51_7_l_2222 transcribed RNA sequence
+GBMW01027339.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.3   11.1   2.8       4.9   10.6   1.1   2.2   2   0   0   2   2   2   0 TSA: Parischnogaster nigricans s7131_L_27459_0_a_11_1_l_3793 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:25 2019
+# [ok]

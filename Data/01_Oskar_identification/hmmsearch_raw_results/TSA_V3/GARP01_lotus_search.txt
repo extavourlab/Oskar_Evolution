@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARP01025145.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-09   42.6   0.0        14   10.8   0.0   6.7   3   1   4   7   7   7   2 TSA: Bemisia tabaci comp13225_c0_seq2 transcribed RNA sequence
+GARP01084949.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-08   40.0   0.0   1.5e-08   39.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci comp42964_c0_seq1 transcribed RNA sequence
+GARP01025146.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-08   39.9   0.0        20   10.3   0.0   6.6   3   1   4   7   7   7   2 TSA: Bemisia tabaci comp13225_c0_seq3 transcribed RNA sequence
+GARP01025144.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-07   35.3   0.0       5.5   12.2   0.0   4.4   2   1   2   4   4   4   2 TSA: Bemisia tabaci comp13225_c0_seq1 transcribed RNA sequence
+GARP01088230.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-05   28.6   0.0   6.6e-05   27.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Bemisia tabaci comp46956_c0_seq1 transcribed RNA sequence
+GARP01036334.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.025   19.7   0.0     0.034   19.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci comp60654_c0_seq1 transcribed RNA sequence
+GARP01038481.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.091   17.9   0.1       0.1   17.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci comp64081_c0_seq1 transcribed RNA sequence
+GARP01014471.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.4   0.2       2.8   13.1   0.0   1.8   2   0   0   2   2   2   0 TSA: Bemisia tabaci comp6878_c0_seq1 transcribed RNA sequence
+GARP01014472.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.4   0.2         3   13.0   0.0   1.8   2   0   0   2   2   1   0 TSA: Bemisia tabaci comp6878_c0_seq2 transcribed RNA sequence
+GARP01043663.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.1   0.0       1.7   13.8   0.0   1.3   1   1   0   1   1   1   0 TSA: Bemisia tabaci comp73272_c0_seq1 transcribed RNA sequence
+GARP01047238.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.6   13.9   0.0         2   13.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci comp81003_c0_seq1 transcribed RNA sequence
+GARP01054595.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.4   12.8   2.7       4.6   12.4   2.7   1.3   1   1   0   1   1   1   0 TSA: Bemisia tabaci comp103040_c0_seq1 transcribed RNA sequence
+GARP01013998.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.3   12.5   0.0       9.7   11.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci comp6595_c0_seq2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:38 2019
+# [ok]

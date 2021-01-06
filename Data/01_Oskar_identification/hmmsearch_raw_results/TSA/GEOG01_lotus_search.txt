@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOG01081001.1_2     -          LOTUS_CONSENSUS      -               0.37   16.5   0.3      0.45   16.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR78291-c0_g1_i1 transcribed RNA sequence
+GEOG01005729.1_2     -          LOTUS_CONSENSUS      -               0.53   16.0   5.3     2e+02    7.7   0.1   3.4   2   1   1   3   3   3   0 TSA: Heterobathmia pseuderiocrania TR4851-c0_g1_i1 transcribed RNA sequence
+GEOG01008435.1_3     -          LOTUS_CONSENSUS      -               0.79   15.4   1.0       5.2   12.8   0.2   2.1   2   0   0   2   2   2   0 TSA: Heterobathmia pseuderiocrania TR7529-c0_g1_i1 transcribed RNA sequence
+GEOG01008436.1_2     -          LOTUS_CONSENSUS      -               0.97   15.1   1.0         6   12.6   0.2   2.1   2   0   0   2   2   2   0 TSA: Heterobathmia pseuderiocrania TR7529-c0_g2_i1 transcribed RNA sequence
+GEOG01009422.1_4     -          LOTUS_CONSENSUS      -                1.4   14.6   0.5       1.5   14.5   0.5   1.3   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR8683-c0_g1_i1 transcribed RNA sequence
+GEOG01000440.1_5     -          LOTUS_CONSENSUS      -                2.3   13.9   0.1       2.7   13.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR464-c0_g1_i1 transcribed RNA sequence
+GEOG01068621.1_2     -          LOTUS_CONSENSUS      -                2.3   13.9   1.1       3.1   13.5   1.1   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR64976-c0_g1_i1 transcribed RNA sequence
+GEOG01112408.1_3     -          LOTUS_CONSENSUS      -                3.3   13.4   0.2       4.2   13.1   0.2   1.3   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR118502-c0_g1_i1 transcribed RNA sequence
+GEOG01007351.1_3     -          LOTUS_CONSENSUS      -                3.8   13.2   0.8        18   11.1   0.8   1.9   1   1   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR6440-c0_g1_i1 transcribed RNA sequence
+GEOG01130782.1_2     -          LOTUS_CONSENSUS      -                4.6   12.9   0.2       8.4   12.1   0.1   1.5   1   1   1   2   2   2   0 TSA: Heterobathmia pseuderiocrania TR142354-c0_g1_i1 transcribed RNA sequence
+GEOG01123369.1_6     -          LOTUS_CONSENSUS      -                8.9   12.0   0.0        12   11.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR132751-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:46 2019
+# [ok]

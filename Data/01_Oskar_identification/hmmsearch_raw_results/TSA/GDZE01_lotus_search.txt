@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDZE01074018.1_2     -          LOTUS_CONSENSUS      -               0.19   16.6   0.0      0.52   15.2   0.0   1.7   1   0   0   1   1   1   0 TSA: Nyctibora sp. AD-2015 breed wildtype s8129_L_24729_0_a_37_6_l_954, transcribed RNA sequence
+GDZE01044001.1_5     -          LOTUS_CONSENSUS      -               0.25   16.2   1.4      0.39   15.6   1.4   1.2   1   0   0   1   1   1   0 TSA: Nyctibora sp. AD-2015 breed wildtype C307298_a_4_0_l_473, transcribed RNA sequence
+GDZE01074020.1_2     -          LOTUS_CONSENSUS      -               0.29   16.0   0.0      0.66   14.9   0.0   1.5   1   0   0   1   1   1   0 TSA: Nyctibora sp. AD-2015 breed wildtype s8130_L_24729_1_a_34_8_l_1095, transcribed RNA sequence
+GDZE01069744.1_5     -          LOTUS_CONSENSUS      -                0.3   16.0   2.4      0.55   15.1   0.9   2.2   2   0   0   2   2   2   0 TSA: Nyctibora sp. AD-2015 breed wildtype s426_L_600_4_a_21_2_l_1480, transcribed RNA sequence
+GDZE01048475.1_1     -          LOTUS_CONSENSUS      -               0.45   15.4   0.1      0.78   14.6   0.1   1.4   1   0   0   1   1   1   0 TSA: Nyctibora sp. AD-2015 breed wildtype C320790_a_4_0_l_564, transcribed RNA sequence
+GDZE01027589.1_5     -          LOTUS_CONSENSUS      -                2.7   12.9   0.0       5.7   11.8   0.0   1.5   1   1   1   2   2   2   0 TSA: Nyctibora sp. AD-2015 breed wildtype C259442_a_5_0_l_300_a, transcribed RNA sequence
+GDZE01005742.1_3     -          LOTUS_CONSENSUS      -                  3   12.7   0.1       9.8   11.1   0.1   1.7   1   1   1   2   2   2   0 TSA: Nyctibora sp. AD-2015 breed wildtype C202383_a_3_0_l_217, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDZE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:05 2019
+# [ok]

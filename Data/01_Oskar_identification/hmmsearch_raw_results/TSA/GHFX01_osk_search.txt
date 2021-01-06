@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFX01000477.1_5     -          OSK_CONSENSUS        -              0.033   17.2   0.6     0.095   15.7   0.6   1.8   1   0   0   1   1   1   0 TSA: Osmia cornuta isolate ocor4 contig481, transcribed RNA sequence
+GHFX01028964.1_4     -          OSK_CONSENSUS        -              0.065   16.2   0.6     0.079   15.9   0.6   1.2   1   1   0   1   1   1   0 TSA: Osmia cornuta isolate ocor4 contig29428, transcribed RNA sequence
+GHFX01008760.1_5     -          OSK_CONSENSUS        -               0.91   12.5   3.2        21    8.0   0.2   3.7   3   1   1   4   4   4   0 TSA: Osmia cornuta isolate ocor4 contig8818, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:45 2019
+# [ok]

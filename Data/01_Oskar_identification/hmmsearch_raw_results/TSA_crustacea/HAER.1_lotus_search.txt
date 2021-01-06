@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAER01065136.1_2     -          LOTUS_CONSENSUS      -            1.7e-14   58.6   0.4   2.6e-13   54.8   0.1   2.7   2   0   0   2   2   2   1 TSA: Proasellus cantabricus, contig c57117_g1_i1, transcribed RNA sequence
+HAER01043568.1_1     -          LOTUS_CONSENSUS      -            8.4e-06   30.8   0.2   1.4e-05   30.1   0.2   1.3   1   0   0   1   1   1   1 TSA: Proasellus cantabricus, contig c35052_g1_i1, transcribed RNA sequence
+HAER01078667.1_4     -          LOTUS_CONSENSUS      -               0.11   17.6   0.7      0.17   17.0   0.7   1.3   1   0   0   1   1   1   0 TSA: Proasellus cantabricus, contig c70913_g1_i1, transcribed RNA sequence
+HAER01029329.1_2     -          LOTUS_CONSENSUS      -                0.3   16.2   0.1   1.2e+03    4.6   0.0   4.7   2   1   1   4   4   4   0 TSA: Proasellus cantabricus, contig c27524_g1_i2, transcribed RNA sequence
+HAER01029328.1_2     -          LOTUS_CONSENSUS      -               0.34   16.0   0.1   1.2e+03    4.6   0.0   4.7   2   1   2   4   4   4   0 TSA: Proasellus cantabricus, contig c27524_g1_i1, transcribed RNA sequence
+HAER01065389.1_6     -          LOTUS_CONSENSUS      -                1.6   13.8   0.4   6.1e+02    5.6   0.0   2.7   3   0   0   3   3   3   0 TSA: Proasellus cantabricus, contig c57372_g1_i1, transcribed RNA sequence
+HAER01038889.1_5     -          LOTUS_CONSENSUS      -                1.7   13.8   0.3       3.4   12.8   0.2   1.5   2   0   0   2   2   2   0 TSA: Proasellus cantabricus, contig c30672_g3_i3, transcribed RNA sequence
+HAER01026213.1_5     -          LOTUS_CONSENSUS      -                2.1   13.4   0.3       5.1   12.2   0.3   1.6   1   0   0   1   1   1   0 TSA: Proasellus cantabricus, contig c25750_g1_i1, transcribed RNA sequence
+HAER01038880.1_5     -          LOTUS_CONSENSUS      -                3.2   12.9   0.2       6.9   11.8   0.1   1.5   2   0   0   2   2   2   0 TSA: Proasellus cantabricus, contig c30672_g3_i1, transcribed RNA sequence
+HAER01028286.1_4     -          LOTUS_CONSENSUS      -                  4   12.6   0.1        89    8.3   0.0   2.5   2   1   0   2   2   2   0 TSA: Proasellus cantabricus, contig c26986_g2_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAER.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAER.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAER.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:49 2019
+# [ok]

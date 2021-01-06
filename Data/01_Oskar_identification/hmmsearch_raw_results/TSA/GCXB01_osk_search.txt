@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXB01011142.1_1     -          OSK_CONSENSUS        -             0.0022   21.4   0.0    0.0028   21.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Heteropsylla cubana breed wildtype C146158_3_0, transcribed RNA sequence
+GCXB01023849.1_3     -          OSK_CONSENSUS        -             0.0028   21.1   1.7    0.0037   20.7   1.7   1.2   1   0   0   1   1   1   1 TSA: Heteropsylla cubana breed wildtype C192006_3_0, transcribed RNA sequence
+GCXB01014869.1_6     -          OSK_CONSENSUS        -              0.023   18.1   0.7     0.025   18.0   0.7   1.0   1   0   0   1   1   1   0 TSA: Heteropsylla cubana breed wildtype C158418_3_0, transcribed RNA sequence
+GCXB01038407.1_5     -          OSK_CONSENSUS        -              0.089   16.2   0.0      0.15   15.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Heteropsylla cubana breed wildtype s5654_L_13948_0_12_2_LINEAR, transcribed RNA sequence
+GCXB01039013.1_6     -          OSK_CONSENSUS        -               0.25   14.8   2.9      0.28   14.6   2.9   1.1   1   0   0   1   1   1   0 TSA: Heteropsylla cubana breed wildtype s6204_L_15717_0_4_0_LINEAR, transcribed RNA sequence
+GCXB01020542.1_5     -          OSK_CONSENSUS        -                0.3   14.5   0.1      0.34   14.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Heteropsylla cubana breed wildtype C178578_5_0, transcribed RNA sequence
+GCXB01015825.1_3     -          OSK_CONSENSUS        -                1.1   12.7   0.2       1.4   12.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Heteropsylla cubana breed wildtype C161618_3_0, transcribed RNA sequence
+GCXB01029659.1_1     -          OSK_CONSENSUS        -                2.9   11.3   2.3        12    9.3   0.8   2.1   1   1   1   2   2   2   0 TSA: Heteropsylla cubana breed wildtype s10682_L_33686_0_8_0_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:37 2019
+# [ok]

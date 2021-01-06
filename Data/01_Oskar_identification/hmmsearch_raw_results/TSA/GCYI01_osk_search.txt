@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYI01021478.1_6     -          OSK_CONSENSUS        -               0.36   14.6   0.4      0.39   14.4   0.4   1.1   1   0   0   1   1   1   0 TSA: Phymata pennsylvanica breed wildtype C337600_2_0, transcribed RNA sequence
+GCYI01047017.1_3     -          OSK_CONSENSUS        -               0.47   14.2   1.1       1.2   12.9   0.5   1.8   1   1   1   2   2   2   0 TSA: Phymata pennsylvanica breed wildtype s2475_L_3494_0_4_0_LINEAR, transcribed RNA sequence
+GCYI01038232.1_3     -          OSK_CONSENSUS        -               0.51   14.1   3.8       3.1   11.5   0.1   2.5   2   1   1   3   3   3   0 TSA: Phymata pennsylvanica breed wildtype s13639_L_33003_1_52_5_BUBBLE, transcribed RNA sequence
+GCYI01021935.1_3     -          OSK_CONSENSUS        -               0.53   14.0   0.2        24    8.6   0.0   2.1   2   0   0   2   2   2   0 TSA: Phymata pennsylvanica breed wildtype C339428_2_0, transcribed RNA sequence
+GCYI01046492.1_1     -          OSK_CONSENSUS        -               0.55   14.0   4.6        22    8.8   0.5   4.3   3   1   2   5   5   5   0 TSA: Phymata pennsylvanica breed wildtype s21087_L_73821_0_28_5_LINEAR, transcribed RNA sequence
+GCYI01038231.1_3     -          OSK_CONSENSUS        -               0.64   13.8   4.1         3   11.6   0.1   2.5   2   1   1   3   3   3   0 TSA: Phymata pennsylvanica breed wildtype s13638_L_33003_0_48_8_BUBBLE, transcribed RNA sequence
+GCYI01044549.1_6     -          OSK_CONSENSUS        -                1.8   12.3   0.1       4.1   11.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Phymata pennsylvanica breed wildtype s19338_L_62403_0_45_5_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:09 2019
+# [ok]

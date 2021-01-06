@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011635164.1       -          LOTUS_CONSENSUS      -            3.8e-28   97.8   0.1   3.8e-28   97.8   0.1   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC105425879 isoform X2 [Pogonomyrmex barbatus]
+XP_011635158.1       -          LOTUS_CONSENSUS      -            3.8e-28   97.8   0.1   3.8e-28   97.8   0.1   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC105425879 isoform X1 [Pogonomyrmex barbatus]
+XP_011630819.1       -          LOTUS_CONSENSUS      -            1.8e-20   73.1   1.5   6.7e-18   64.9   0.0   3.8   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011630820.1       -          LOTUS_CONSENSUS      -            1.8e-20   73.1   1.5   6.7e-18   64.9   0.0   3.8   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011630821.1       -          LOTUS_CONSENSUS      -            1.8e-20   73.1   1.5   6.7e-18   64.9   0.0   3.8   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011630822.1       -          LOTUS_CONSENSUS      -            1.8e-20   73.1   1.5   6.7e-18   64.9   0.0   3.8   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Pogonomyrmex barbatus]
+XP_011631089.1       -          LOTUS_CONSENSUS      -              6e-13   49.0   4.7   2.1e-10   40.9   0.0   4.1   4   1   0   4   4   4   2 LOW QUALITY PROTEIN: uncharacterized protein LOC105423137 [Pogonomyrmex barbatus]
+XP_025073854.1       -          LOTUS_CONSENSUS      -            4.2e-05   23.9   0.1       3.8    8.0   0.0   5.4   3   1   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 [Pogonomyrmex barbatus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000187915.1_Pbar_UMD_V03_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000187915.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000187915.1_Pbar_UMD_V03_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:59 2019
+# [ok]

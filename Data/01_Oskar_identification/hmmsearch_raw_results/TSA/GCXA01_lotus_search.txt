@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXA01031973.1_1     -          LOTUS_CONSENSUS      -            4.8e-23   85.1   6.2   3.2e-11   47.1   0.0   4.9   4   1   1   5   5   5   3 TSA: Corimelaena lateralis breed wildtype s12975_L_46082_0_19_3_FORK, transcribed RNA sequence
+GCXA01028683.1_2     -          LOTUS_CONSENSUS      -            1.3e-17   67.6   0.3     1e-16   64.8   0.1   2.7   2   0   0   2   2   2   1 TSA: Corimelaena lateralis breed wildtype C298053_24_0, transcribed RNA sequence
+GCXA01031974.1_3     -          LOTUS_CONSENSUS      -              4e-10   43.6   9.8    0.0033   21.5   0.0   4.9   4   1   1   5   5   5   3 TSA: Corimelaena lateralis breed wildtype s12976_L_46082_1_18_8_FORK, transcribed RNA sequence
+GCXA01028653.1_3     -          LOTUS_CONSENSUS      -            3.3e-09   40.7   0.0       2.2   12.4   0.0   6.5   3   1   4   7   7   7   3 TSA: Corimelaena lateralis breed wildtype C297931_32_0, transcribed RNA sequence
+GCXA01040970.1_3     -          LOTUS_CONSENSUS      -            0.00053   24.0   0.1    0.0071   20.4   0.0   2.2   1   1   1   2   2   2   1 TSA: Corimelaena lateralis breed wildtype s7473_L_21076_0_6_6_COMPLEX, transcribed RNA sequence
+GCXA01040971.1_1     -          LOTUS_CONSENSUS      -             0.0024   21.9   0.0     0.004   21.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Corimelaena lateralis breed wildtype s7474_L_21076_1_6_6_COMPLEX, transcribed RNA sequence
+GCXA01038502.1_4     -          LOTUS_CONSENSUS      -               0.58   14.3   0.2      0.88   13.7   0.2   1.2   1   0   0   1   1   1   0 TSA: Corimelaena lateralis breed wildtype s5131_L_13033_0_17_7_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:47 2019
+# [ok]

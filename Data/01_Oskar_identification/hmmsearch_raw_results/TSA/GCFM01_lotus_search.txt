@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCFM01003436.1_3     -          LOTUS_CONSENSUS      -               0.11   15.9   0.0      0.22   15.0   0.0   1.5   1   0   0   1   1   1   0 TSA: Episyrphus balteatus C112681_a_8_0_l_699 transcribed RNA sequence
+GCFM01023589.1_3     -          LOTUS_CONSENSUS      -               0.78   13.2   3.0       2.2   11.7   3.0   1.7   1   0   0   1   1   1   0 TSA: Episyrphus balteatus s510_L_543_1_a_45_8_l_1440 transcribed RNA sequence
+GCFM01000499.1_2     -          LOTUS_CONSENSUS      -                2.7   11.5   4.4   2.3e+02    5.3   4.0   2.7   1   1   1   2   2   2   0 TSA: Episyrphus balteatus C101853_a_3_0_l_460 transcribed RNA sequence
+GCFM01023600.1_1     -          LOTUS_CONSENSUS      -                5.5   10.5   6.4       1.6   12.3   3.0   1.8   2   0   0   2   2   2   0 TSA: Episyrphus balteatus s511_L_543_2_a_51_0_l_1120 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCFM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:55 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014364541.1       -          LOTUS_CONSENSUS      -            5.1e-15   55.6   0.0   7.7e-10   39.0   0.0   2.4   2   0   0   2   2   2   2 PREDICTED: uncharacterized protein LOC106715710 [Papilio machaon]
+XP_014356242.1       -          LOTUS_CONSENSUS      -            1.8e-14   53.8   1.0   1.7e-13   50.7   0.0   2.6   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7A isoform X2 [Papilio machaon]
+XP_014356240.1       -          LOTUS_CONSENSUS      -            2.2e-14   53.5   1.7   1.7e-13   50.7   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Papilio machaon]
+XP_014356241.1       -          LOTUS_CONSENSUS      -            2.2e-14   53.5   1.7   1.7e-13   50.7   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Papilio machaon]
+XP_014360240.1       -          LOTUS_CONSENSUS      -             0.0062   16.8   1.0      0.44   10.9   0.1   3.5   2   1   1   3   3   3   1 PREDICTED: coiled-coil domain-containing protein 39 [Papilio machaon]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001298355.1_Pap_ma_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001298355.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001298355.1_Pap_ma_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:50 2019
+# [ok]

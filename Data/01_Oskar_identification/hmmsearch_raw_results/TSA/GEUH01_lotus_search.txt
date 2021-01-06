@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEUH01025377.1_3     -          LOTUS_CONSENSUS      -            3.4e-21   79.7   0.2   2.4e-16   64.1   0.2   2.4   2   0   0   2   2   2   2 TSA: Callosobruchus maculatus c18506_g1_i1 transcribed RNA sequence
+GEUH01060084.1_1     -          LOTUS_CONSENSUS      -            5.8e-21   78.9   0.7   1.8e-20   77.4   0.7   1.9   1   0   0   1   1   1   1 TSA: Callosobruchus maculatus c24919_g3_i1 transcribed RNA sequence
+GEUH01037174.1_3     -          LOTUS_CONSENSUS      -            9.7e-21   78.2   0.2   5.7e-16   62.9   0.2   2.9   2   0   0   2   2   2   2 TSA: Callosobruchus maculatus c18506_g1_i2 transcribed RNA sequence
+GEUH01034438.1_1     -          LOTUS_CONSENSUS      -            2.5e-18   70.5   0.1     8e-17   65.7   0.0   2.6   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus c16351_g1_i2 transcribed RNA sequence
+GEUH01000341.1_1     -          LOTUS_CONSENSUS      -            2.6e-18   70.5   0.1   8.1e-17   65.7   0.0   2.6   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus c16351_g1_i1 transcribed RNA sequence
+GEUH01014394.1_3     -          LOTUS_CONSENSUS      -            2.6e-18   70.4   0.1   8.3e-17   65.6   0.0   2.7   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus c16351_g1_i3 transcribed RNA sequence
+GEUH01063093.1_1     -          LOTUS_CONSENSUS      -            1.5e-06   32.7   0.3       3.7   12.3   0.4   5.0   3   1   1   4   4   4   2 TSA: Callosobruchus maculatus c22087_g3_i1 transcribed RNA sequence
+GEUH01057583.1_1     -          LOTUS_CONSENSUS      -            4.4e-06   31.2   0.5       5.2   11.8   0.4   5.3   4   1   1   5   5   4   2 TSA: Callosobruchus maculatus c22087_g3_i2 transcribed RNA sequence
+GEUH01057778.1_1     -          LOTUS_CONSENSUS      -               0.99   14.1   0.2       2.2   13.0   0.2   1.6   1   1   0   1   1   1   0 TSA: Callosobruchus maculatus c42717_g1_i1 transcribed RNA sequence
+GEUH01041831.1_2     -          LOTUS_CONSENSUS      -                  1   14.0   0.0       3.4   12.4   0.0   1.7   2   0   0   2   2   2   0 TSA: Callosobruchus maculatus c49513_g1_i1 transcribed RNA sequence
+GEUH01047338.1_6     -          LOTUS_CONSENSUS      -                1.1   14.0   0.0       1.4   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus c32368_g1_i1 transcribed RNA sequence
+GEUH01033015.1_2     -          LOTUS_CONSENSUS      -                1.4   13.6   0.1       1.7   13.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus c20983_g2_i1 transcribed RNA sequence
+GEUH01038594.1_2     -          LOTUS_CONSENSUS      -                7.9   11.2   4.2     1e+02    7.7   0.2   2.4   2   0   0   2   2   2   0 TSA: Callosobruchus maculatus c37202_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEUH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:13 2019
+# [ok]

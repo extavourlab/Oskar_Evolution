@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCA01004035.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.18   15.7   0.0      0.27   15.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Catara rugosicollis breed wildtype C111248_a_3_0_l_382, transcribed RNA sequence
+GDCA01006395.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.4   14.6   0.0      0.53   14.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Catara rugosicollis breed wildtype C118005_a_8_0_l_439, transcribed RNA sequence
+GDCA01030745.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.47   14.3   0.4      0.62   14.0   0.4   1.2   1   0   0   1   1   1   0 TSA: Catara rugosicollis breed wildtype C97441_a_54_0_l_295, transcribed RNA sequence
+GDCA01007427.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.6   12.7   0.6        82    7.1   0.0   2.5   3   0   0   3   3   3   0 TSA: Catara rugosicollis breed wildtype C121019_a_22_0_l_471, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:39 2019
+# [ok]

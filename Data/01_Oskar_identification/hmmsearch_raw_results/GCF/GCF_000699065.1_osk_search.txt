@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023301197.1       -          OSK_CONSENSUS        -            9.3e-61  204.2   3.3   4.4e-60  202.0   0.6   2.9   3   0   0   3   3   3   1 maternal effect protein oskar [Lucilia cuprina]
+XP_023297432.1       -          OSK_CONSENSUS        -            1.1e-05   25.2   0.0   1.6e-05   24.7   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC111680048 [Lucilia cuprina]
+XP_023293912.1       -          OSK_CONSENSUS        -              0.021   14.6   3.4       4.5    7.0   0.0   3.0   3   0   0   3   3   3   0 rab GTPase-activating protein 1-like isoform X1 [Lucilia cuprina]
+XP_023292704.1       -          OSK_CONSENSUS        -              0.095   12.4   0.1      0.32   10.7   0.0   2.0   2   0   0   2   2   2   0 probable ATP-dependent RNA helicase DDX43 [Lucilia cuprina]
+XP_023307541.1       -          OSK_CONSENSUS        -              0.096   12.4   0.0      0.23   11.2   0.0   1.6   2   0   0   2   2   2   0 uncharacterized protein LOC111689301 [Lucilia cuprina]
+XP_023308003.1       -          OSK_CONSENSUS        -               0.14   11.9   0.0      0.27   10.9   0.0   1.4   1   0   0   1   1   1   0 uncharacterized protein LOC111689772 [Lucilia cuprina]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699065.1_Lcup_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000699065.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699065.1_Lcup_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:51 2019
+# [ok]

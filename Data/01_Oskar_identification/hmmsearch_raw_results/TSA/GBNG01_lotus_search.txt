@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNG01006465.1_1     -          LOTUS_CONSENSUS      -            2.1e-26   95.5   0.1   2.1e-26   95.5   0.1   2.9   3   0   0   3   3   3   1 TSA: Vespula germanica C126572_a_11_0_l_1621 transcribed RNA sequence
+GBNG01029716.1_6     -          LOTUS_CONSENSUS      -            3.3e-20   75.6   1.3   1.4e-18   70.4   0.0   3.2   2   0   0   2   2   2   1 TSA: Vespula germanica s636_L_702_0_a_24_6_l_3900 transcribed RNA sequence
+GBNG01022921.1_2     -          LOTUS_CONSENSUS      -              0.037   17.7   0.0      0.07   16.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Vespula germanica C98885_a_5_0_l_517 transcribed RNA sequence
+GBNG01021997.1_5     -          LOTUS_CONSENSUS      -               0.78   13.5   0.6       1.7   12.4   0.6   1.5   1   0   0   1   1   1   0 TSA: Vespula germanica C95222_a_4_0_l_474 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:24 2019
+# [ok]

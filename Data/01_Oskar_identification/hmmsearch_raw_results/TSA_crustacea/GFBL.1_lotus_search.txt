@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFBL01040643.1_3     -          LOTUS_CONSENSUS      -              8e-11   47.2   0.0     2e-10   45.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Eriocheir sinensis TR53692-c0_g1_i1 transcribed RNA sequence
+GFBL01040644.1_3     -          LOTUS_CONSENSUS      -            8.6e-11   47.1   0.0   2.1e-10   45.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Eriocheir sinensis TR53692-c0_g1_i2 transcribed RNA sequence
+GFBL01025388.1_4     -          LOTUS_CONSENSUS      -            7.2e-08   37.7   0.0    0.0079   21.6   0.0   2.7   2   0   0   2   2   2   2 TSA: Eriocheir sinensis TR48352-c0_g2_i2 transcribed RNA sequence
+GFBL01025387.1_4     -          LOTUS_CONSENSUS      -            8.1e-08   37.5   0.0    0.0083   21.5   0.0   2.7   2   0   0   2   2   2   2 TSA: Eriocheir sinensis TR48352-c0_g2_i1 transcribed RNA sequence
+GFBL01076734.1_1     -          LOTUS_CONSENSUS      -             0.0042   22.5   0.0   5.4e+02    6.1   0.0   4.8   3   1   2   5   5   5   1 TSA: Eriocheir sinensis TR65096-c0_g4_i1 transcribed RNA sequence
+GFBL01025386.1_4     -          LOTUS_CONSENSUS      -               0.16   17.3   0.0        99    8.4   0.0   2.2   2   0   0   2   2   2   0 TSA: Eriocheir sinensis TR48352-c0_g1_i1 transcribed RNA sequence
+GFBL01102669.1_2     -          LOTUS_CONSENSUS      -                4.8   12.6   0.2       9.4   11.7   0.2   1.4   1   0   0   1   1   1   0 TSA: Eriocheir sinensis TR68917-c0_g3_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFBL.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GFBL.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFBL.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:07 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGGW01002014.1_5     -          LOTUS_CONSENSUS      -            3.9e-17   65.0   2.7   4.9e-16   61.5   0.0   3.0   3   0   0   3   3   3   1 TSA: Amenia sp. RSM006 Ameniinae_sp_contig_5965 transcribed RNA sequence
+GGGW01011994.1_6     -          LOTUS_CONSENSUS      -              0.075   16.0   0.0      0.16   15.0   0.0   1.6   1   1   0   1   1   1   0 TSA: Amenia sp. RSM006 Ameniinae_sp_contig_15415 transcribed RNA sequence
+GGGW01008300.1_5     -          LOTUS_CONSENSUS      -               0.61   13.1   0.1       1.1   12.2   0.0   1.6   2   0   0   2   2   2   0 TSA: Amenia sp. RSM006 Ameniinae_sp_contig_12147 transcribed RNA sequence
+GGGW01000006.1_5     -          LOTUS_CONSENSUS      -                2.4   11.2  10.4        76    6.3   0.0   7.0   6   0   0   6   6   6   0 TSA: Amenia sp. RSM006 Ameniinae_sp_contig_60.1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGGW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGGW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGGW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:56 2019
+# [ok]

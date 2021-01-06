@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFFZ01016507.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-18   70.2   0.2   7.9e-18   68.1   0.0   2.2   2   0   0   2   2   2   1 TSA: Machimus arthriticus c9833_BT_Ma_ar_201_g1_i1 transcribed RNA sequence
+GFFZ01023076.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-18   69.2   0.2   1.4e-17   67.4   0.0   2.2   2   0   0   2   2   2   1 TSA: Machimus arthriticus c9833_BT_Ma_ar_201_g1_i2 transcribed RNA sequence
+GFFZ01029928.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-13   51.8   0.0   1.2e-12   51.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Machimus arthriticus c12589_BT_Ma_ar_201_g2_i2 transcribed RNA sequence
+GFFZ01008552.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-12   49.5   5.2   5.5e-12   49.4   0.0   2.4   2   0   0   2   2   2   1 TSA: Machimus arthriticus c12589_BT_Ma_ar_201_g2_i1 transcribed RNA sequence
+GFFZ01007597.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.55   14.1   0.0      0.71   13.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Machimus arthriticus c34131_BT_Ma_ar_201_g1_i1 transcribed RNA sequence
+GFFZ01034123.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.5   12.0   2.4   5.6e+02    4.4   0.0   4.9   5   1   1   6   6   6   0 TSA: Machimus arthriticus c11843_BT_Ma_ar_201_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFFZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFFZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFFZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:13 2019
+# [ok]

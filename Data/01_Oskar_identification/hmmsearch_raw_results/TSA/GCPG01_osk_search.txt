@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPG01004619.1_4     -          OSK_CONSENSUS        -            4.4e-32  114.6   0.1   6.2e-32  114.1   0.1   1.2   1   0   0   1   1   1   1 TSA: Diestrammena asynamora breed breeding C112602_a_4_0_l_657, transcribed RNA sequence
+GCPG01010865.1_4     -          OSK_CONSENSUS        -            0.00037   23.8   0.2    0.0011   22.4   0.2   1.8   1   0   0   1   1   1   1 TSA: Diestrammena asynamora breed breeding C130362_a_3_0_l_1325, transcribed RNA sequence
+GCPG01016919.1_1     -          OSK_CONSENSUS        -             0.0013   22.1   0.4    0.0021   21.4   0.2   1.4   2   0   0   2   2   2   1 TSA: Diestrammena asynamora breed breeding C58508_a_3_0_l_231, transcribed RNA sequence
+GCPG01036513.1_6     -          OSK_CONSENSUS        -             0.0031   20.8   0.0    0.0035   20.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Diestrammena asynamora breed breeding s4406_L_8347_0_a_7_9_l_500, transcribed RNA sequence
+GCPG01038507.1_1     -          OSK_CONSENSUS        -               0.08   16.2   0.0       0.2   15.0   0.0   1.6   1   0   0   1   1   1   0 TSA: Diestrammena asynamora breed breeding s6208_L_21886_0_a_11_3_l_1259, transcribed RNA sequence
+GCPG01013962.1_1     -          OSK_CONSENSUS        -               0.16   15.3   0.2       7.2    9.9   0.1   2.4   2   0   0   2   2   2   0 TSA: Diestrammena asynamora breed breeding C138855_a_36_0_l_2962, transcribed RNA sequence
+GCPG01030659.1_5     -          OSK_CONSENSUS        -                0.7   13.2   0.0      0.96   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Diestrammena asynamora breed breeding C94216_a_3_0_l_413, transcribed RNA sequence
+GCPG01014766.1_4     -          OSK_CONSENSUS        -               0.79   13.0   0.1      0.82   13.0   0.1   1.0   1   0   0   1   1   1   0 TSA: Diestrammena asynamora breed breeding C52143_a_3_0_l_204, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:10 2019
+# [ok]

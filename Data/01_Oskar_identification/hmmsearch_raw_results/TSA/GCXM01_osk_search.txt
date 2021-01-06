@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXM01017306.1_4     -          OSK_CONSENSUS        -                0.8   13.2   0.5       1.1   12.7   0.5   1.2   1   0   0   1   1   1   0 TSA: Lygus lineolaris breed wildtype C497529_6_0, transcribed RNA sequence
+GCXM01036510.1_5     -          OSK_CONSENSUS        -                  1   12.9   0.0       2.5   11.6   0.0   1.6   1   0   0   1   1   1   0 TSA: Lygus lineolaris breed wildtype s20309_L_60683_0_36_8_LINEAR, transcribed RNA sequence
+GCXM01039309.1_1     -          OSK_CONSENSUS        -                1.5   12.3   0.0       4.2   10.8   0.0   1.7   1   0   0   1   1   1   0 TSA: Lygus lineolaris breed wildtype s4383_L_6637_1_25_8_FORK, transcribed RNA sequence
+GCXM01021592.1_5     -          OSK_CONSENSUS        -                1.7   12.1   0.1       2.6   11.5   0.1   1.3   1   0   0   1   1   1   0 TSA: Lygus lineolaris breed wildtype C523259_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:36 2019
+# [ok]

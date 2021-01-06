@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBGG01011409.1_2     -          LOTUS_CONSENSUS      -            1.8e-23   85.6   0.0   3.2e-23   84.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Themira biloba Contig11411 transcribed RNA sequence
+GBGG01002221.1_4     -          LOTUS_CONSENSUS      -            1.4e-11   47.5   0.0   3.6e-11   46.1   0.0   1.7   2   0   0   2   2   2   1 TSA: Themira biloba Contig2222 transcribed RNA sequence
+GBGG01005041.1_1     -          LOTUS_CONSENSUS      -            7.3e-09   38.7   0.1   9.1e-08   35.2   0.0   2.9   2   0   0   2   2   2   1 TSA: Themira biloba Contig5042 transcribed RNA sequence
+GBGG01007447.1_6     -          LOTUS_CONSENSUS      -                1.5   12.1   1.5        34    7.7   0.0   3.5   4   0   0   4   4   4   0 TSA: Themira biloba Contig7448 transcribed RNA sequence
+GBGG01003121.1_1     -          LOTUS_CONSENSUS      -                  3   11.1   4.6       5.8   10.2   4.6   1.4   1   0   0   1   1   1   0 TSA: Themira biloba Contig3122 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBGG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBGG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBGG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:14 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGBO01023176.1_4     -          oskar_filtered.aligned.OSK_domain -               0.54   14.1   0.4      0.84   13.5   0.4   1.2   1   0   0   1   1   1   0 TSA: Adelphocoris fasciaticollis isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp25795_c0_seq1, transcribed RNA sequence
+GGBO01010372.1_6     -          oskar_filtered.aligned.OSK_domain -               0.76   13.6   2.3       1.5   12.7   2.3   1.8   1   1   0   1   1   1   0 TSA: Adelphocoris fasciaticollis isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp156863_c0_seq1, transcribed RNA sequence
+GGBO01020186.1_4     -          oskar_filtered.aligned.OSK_domain -                1.5   12.6   0.3       9.9   10.0   0.3   2.3   2   0   0   2   2   2   0 TSA: Adelphocoris fasciaticollis isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp23580_c0_seq1, transcribed RNA sequence
+GGBO01020605.1_4     -          oskar_filtered.aligned.OSK_domain -                3.8   11.3   0.0       6.9   10.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Adelphocoris fasciaticollis isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp23931_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGBO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:48 2019
+# [ok]

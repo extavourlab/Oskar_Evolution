@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPH01014662.1_5     -          LOTUS_CONSENSUS      -               0.34   15.2   0.0      0.85   13.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Boeckaxelia potanini c20988_g1_i1 transcribed RNA sequence
+GEPH01023377.1_1     -          LOTUS_CONSENSUS      -                1.1   13.5   0.3       3.8   11.8   0.1   2.0   2   0   0   2   2   2   0 TSA: Boeckaxelia potanini c28156_g1_i1 transcribed RNA sequence
+GEPH01026238.1_2     -          LOTUS_CONSENSUS      -                1.4   13.3   0.3        43    8.5   0.0   2.3   1   1   1   2   2   2   0 TSA: Boeckaxelia potanini c30059_g2_i2 transcribed RNA sequence
+GEPH01036108.1_5     -          LOTUS_CONSENSUS      -                1.6   13.1   0.1       2.3   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Boeckaxelia potanini c35594_g1_i1 transcribed RNA sequence
+GEPH01016766.1_1     -          LOTUS_CONSENSUS      -                4.6   11.6   2.7        24    9.2   1.4   2.4   2   0   0   2   2   2   0 TSA: Boeckaxelia potanini c22778_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPH.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPH.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPH.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:03 2019
+# [ok]

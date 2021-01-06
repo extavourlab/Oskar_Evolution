@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAJA01019279.1_3     -          LOTUS_CONSENSUS      -            9.6e-25   89.5   0.6   9.6e-25   89.5   0.6   1.8   2   0   0   2   2   2   1 TSA: Leptopilina boulardi comp359_c0_seq1 transcribed RNA sequence
+GAJA01006168.1_2     -          LOTUS_CONSENSUS      -            2.3e-19   72.3   0.9   1.3e-17   66.7   0.0   2.8   2   0   0   2   2   2   1 TSA: Leptopilina boulardi comp3003_c0_seq1 transcribed RNA sequence
+GAJA01014079.1_5     -          LOTUS_CONSENSUS      -            8.6e-18   67.2   0.3   1.7e-17   66.3   0.3   1.5   1   0   0   1   1   1   1 TSA: Leptopilina boulardi comp7358_c0_seq1 transcribed RNA sequence
+GAJA01020544.1_2     -          LOTUS_CONSENSUS      -              3e-17   65.5   0.4     3e-17   65.5   0.4   2.7   2   1   0   2   2   2   1 TSA: Leptopilina boulardi comp237_c0_seq1 transcribed RNA sequence
+GAJA01020169.1_6     -          LOTUS_CONSENSUS      -              3e-16   62.3   0.1   6.8e-16   61.1   0.1   1.7   1   0   0   1   1   1   1 TSA: Leptopilina boulardi comp811_c0_seq1 transcribed RNA sequence
+GAJA01017661.1_1     -          LOTUS_CONSENSUS      -            1.8e-14   56.6   0.0     3e-14   55.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Leptopilina boulardi comp14652_c0_seq1 transcribed RNA sequence
+GAJA01019426.1_4     -          LOTUS_CONSENSUS      -            5.1e-07   32.7   0.0         1   12.5   0.0   5.6   3   1   2   5   5   5   2 TSA: Leptopilina boulardi comp317_c0_seq1 transcribed RNA sequence
+GAJA01014831.1_6     -          LOTUS_CONSENSUS      -              0.021   17.9   1.4      0.27   14.3   0.0   3.5   2   1   1   3   3   3   0 TSA: Leptopilina boulardi comp7676_c0_seq1 transcribed RNA sequence
+GAJA01016949.1_4     -          LOTUS_CONSENSUS      -               0.32   14.1   0.7      0.57   13.3   0.6   1.5   1   1   0   1   1   1   0 TSA: Leptopilina boulardi comp15957_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAJA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAJA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAJA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:23 2019
+# [ok]

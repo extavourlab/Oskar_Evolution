@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEP01074156.1_6     -          LOTUS_CONSENSUS      -              8e-13   53.3   0.0     9e-13   53.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Proasellus assaforensis, contig comp586112_c0_seq1, transcribed RNA sequence
+HAEP01066023.1_4     -          LOTUS_CONSENSUS      -            7.3e-08   37.4   0.6     9e-08   37.1   0.6   1.1   1   0   0   1   1   1   1 TSA: Proasellus assaforensis, contig comp441889_c0_seq1, transcribed RNA sequence
+HAEP01054387.1_2     -          LOTUS_CONSENSUS      -               0.87   14.8   0.6   1.5e+02    7.6   0.1   2.5   2   0   0   2   2   2   0 TSA: Proasellus assaforensis, contig comp259913_c0_seq1, transcribed RNA sequence
+HAEP01001117.1_4     -          LOTUS_CONSENSUS      -                0.9   14.7   0.3       1.2   14.3   0.3   1.2   1   0   0   1   1   1   0 TSA: Proasellus assaforensis, contig comp1439_c1_seq1, transcribed RNA sequence
+HAEP01039259.1_4     -          LOTUS_CONSENSUS      -                2.1   13.5   0.6       4.5   12.4   0.6   1.5   1   0   0   1   1   1   0 TSA: Proasellus assaforensis, contig comp40984_c0_seq7, transcribed RNA sequence
+HAEP01032960.1_3     -          LOTUS_CONSENSUS      -                2.1   13.5   3.6   2.2e+02    7.0   0.8   2.5   2   0   0   2   2   2   0 TSA: Proasellus assaforensis, contig comp39503_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEP.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEP.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEP.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:44 2019
+# [ok]

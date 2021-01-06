@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBND01020864.1_5     -          oskar_filtered.aligned.OSK_domain -            4.3e-58  199.2   0.0   9.4e-58  198.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Buathra laborator s4244_L_5902_0_a_29_8_l_1680 transcribed RNA sequence
+GBND01019430.1_5     -          oskar_filtered.aligned.OSK_domain -               0.26   14.0   0.2      0.34   13.7   0.2   1.3   1   0   0   1   1   1   0 TSA: Buathra laborator s2953_L_3757_0_a_22_6_l_1382 transcribed RNA sequence
+GBND01008466.1_1     -          oskar_filtered.aligned.OSK_domain -               0.32   13.8   0.1      0.36   13.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Buathra laborator C62359_a_4_0_l_268 transcribed RNA sequence
+GBND01019431.1_5     -          oskar_filtered.aligned.OSK_domain -               0.43   13.3   0.2      0.67   12.7   0.2   1.4   1   0   0   1   1   1   0 TSA: Buathra laborator s2954_L_3757_1_a_16_9_l_2003 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBND01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBND01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBND01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:26 2019
+# [ok]

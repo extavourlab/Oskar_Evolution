@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCF01001667.1_5     -          OSK_CONSENSUS        -               0.16   16.2   0.0      0.17   16.1   0.0   1.0   1   0   0   1   1   1   0 TSA: Aularches miliaris breed breeding C120511_a_4_0_l_208, transcribed RNA sequence
+GDCF01073316.1_4     -          OSK_CONSENSUS        -               0.42   14.8   0.3      0.71   14.1   0.3   1.3   1   0   0   1   1   1   0 TSA: Aularches miliaris breed breeding s5050_L_16124_2_a_30_2_l_1136, transcribed RNA sequence
+GDCF01073313.1_4     -          OSK_CONSENSUS        -               0.46   14.7   0.3      0.86   13.8   0.3   1.4   1   0   0   1   1   1   0 TSA: Aularches miliaris breed breeding s5048_L_16124_0_a_43_6_l_1259, transcribed RNA sequence
+GDCF01061698.1_6     -          OSK_CONSENSUS        -               0.85   13.8   0.0       1.3   13.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Aularches miliaris breed breeding C256760_a_24_0_l_689, transcribed RNA sequence
+GDCF01045239.1_3     -          OSK_CONSENSUS        -                  1   13.6   0.1       2.2   12.5   0.0   1.6   1   1   1   2   2   2   0 TSA: Aularches miliaris breed breeding C216600_a_9_0_l_334, transcribed RNA sequence
+GDCF01027967.1_6     -          OSK_CONSENSUS        -                2.3   12.4   0.0       3.3   11.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Aularches miliaris breed breeding C177184_a_3_0_l_253, transcribed RNA sequence
+GDCF01057714.1_4     -          OSK_CONSENSUS        -                2.6   12.3   0.0       3.5   11.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Aularches miliaris breed breeding C246751_a_4_0_l_530, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:52 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNG01006465.1_1     -          oskar_filtered.aligned.OSK_domain -            7.2e-63  215.1   0.2   7.2e-63  215.1   0.2   2.3   2   1   0   2   2   2   1 TSA: Vespula germanica C126572_a_11_0_l_1621 transcribed RNA sequence
+GBNG01015574.1_6     -          oskar_filtered.aligned.OSK_domain -                1.1   12.3   0.2       1.3   12.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Vespula germanica C71817_a_46_0_l_295 transcribed RNA sequence
+GBNG01027374.1_3     -          oskar_filtered.aligned.OSK_domain -                1.4   12.0   0.1       2.4   11.2   0.1   1.3   1   0   0   1   1   1   0 TSA: Vespula germanica s425_L_428_0_a_52_2_l_1282 transcribed RNA sequence
+GBNG01026925.1_6     -          oskar_filtered.aligned.OSK_domain -                1.5   11.9   1.1       2.8   11.0   0.1   1.9   2   0   0   2   2   2   0 TSA: Vespula germanica s3855_L_5122_0_a_6_7_l_1337 transcribed RNA sequence
+GBNG01004797.1_4     -          oskar_filtered.aligned.OSK_domain -                2.2   11.3   4.1       2.4   11.2   1.6   2.0   2   0   0   2   2   2   0 TSA: Vespula germanica C119622_a_54_0_l_1079 transcribed RNA sequence
+GBNG01031154.1_2     -          oskar_filtered.aligned.OSK_domain -                3.5   10.7   5.6       5.9    9.9   5.6   1.7   1   1   0   1   1   1   0 TSA: Vespula germanica s7663_L_15513_0_a_29_5_l_675 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:02 2019
+# [ok]

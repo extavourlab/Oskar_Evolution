@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUP01019540.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-20   73.9   1.8   8.4e-15   57.6   0.0   4.2   3   0   0   3   3   3   2 TSA: Trissolcus semistriatus s4876_L_16736_1_a_29_4_l_3381 transcribed RNA sequence
+GBUP01019539.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-19   71.1   0.2   9.2e-15   57.4   0.0   3.1   2   0   0   2   2   2   2 TSA: Trissolcus semistriatus s4875_L_16736_0_a_28_7_l_3621 transcribed RNA sequence
+GBUP01014254.1_6     -          oskar_filtered.aligned.LOTUS_domain -              5e-18   67.9   2.0   5.1e-17   64.7   0.0   3.3   3   1   1   4   4   4   1 TSA: Trissolcus semistriatus C60449_a_10_0_l_2850 transcribed RNA sequence
+GBUP01014917.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-17   66.0   0.0   2.9e-16   62.3   0.0   2.8   2   0   0   2   2   2   1 TSA: Trissolcus semistriatus C62370_a_42_0_l_3834 transcribed RNA sequence
+GBUP01014822.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-17   65.8   0.2   7.7e-17   64.1   0.2   1.9   1   0   0   1   1   1   1 TSA: Trissolcus semistriatus C62092_a_66_0_l_3595 transcribed RNA sequence
+GBUP01015185.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-07   33.3   0.0       1.2   12.1   0.0   5.2   2   1   4   6   6   6   2 TSA: Trissolcus semistriatus C63138_a_49_0_l_5281 transcribed RNA sequence
+GBUP01011847.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.93   12.5   1.5        58    6.7   0.1   2.7   2   0   0   2   2   2   0 TSA: Trissolcus semistriatus C52633_a_16_0_l_1511 transcribed RNA sequence
+GBUP01012037.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.6   11.7   0.9        40    7.2   0.0   3.1   4   0   0   4   4   4   0 TSA: Trissolcus semistriatus C53281_a_50_0_l_1587 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:10:08 2019
+# [ok]

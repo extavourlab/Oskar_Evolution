@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBRD01001834.1_3     -          LOTUS_CONSENSUS      -            1.3e-20   76.1   0.1   2.1e-17   65.7   0.0   3.6   3   0   0   3   3   3   1 TSA: Lygus hesperus comp22589_c1_seq1 transcribed RNA sequence
+GBRD01012093.1_2     -          LOTUS_CONSENSUS      -            1.3e-10   43.9   0.0     2e-10   43.4   0.0   1.3   1   0   0   1   1   1   1 TSA: Lygus hesperus comp7436_c0_seq1 transcribed RNA sequence
+GBRD01015930.1_3     -          LOTUS_CONSENSUS      -              0.007   19.2   0.0       6.2    9.7   0.0   2.6   1   1   2   3   3   3   2 TSA: Lygus hesperus comp26224_c0_seq2 transcribed RNA sequence
+GBRD01017541.1_4     -          LOTUS_CONSENSUS      -               0.67   12.8   0.1       2.1   11.2   0.1   1.8   1   0   0   1   1   1   0 TSA: Lygus hesperus comp29476_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBRD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBRD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBRD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:06 2019
+# [ok]

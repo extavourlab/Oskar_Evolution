@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQR01071407.1_5     -          OSK_CONSENSUS        -              0.025   19.2   0.1     0.037   18.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c55351_g1_i2 transcribed RNA sequence
+GEQR01095654.1_2     -          OSK_CONSENSUS        -               0.22   16.1   0.1      0.27   15.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c83200_g1_i1 transcribed RNA sequence
+GEQR01077173.1_5     -          OSK_CONSENSUS        -               0.24   16.0   1.0        94    7.5   0.1   2.2   2   0   0   2   2   2   0 TSA: Ommatogammarus albinus c61750_g1_i2 transcribed RNA sequence
+GEQR01057352.1_3     -          OSK_CONSENSUS        -               0.63   14.6   0.3      0.74   14.4   0.3   1.1   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c52305_g5_i1 transcribed RNA sequence
+GEQR01078752.1_6     -          OSK_CONSENSUS        -                  1   13.9   0.0       1.2   13.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c63556_g1_i1 transcribed RNA sequence
+GEQR01071404.1_5     -          OSK_CONSENSUS        -                1.2   13.7   0.0       2.4   12.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c55351_g1_i1 transcribed RNA sequence
+GEQR01071409.1_5     -          OSK_CONSENSUS        -                1.5   13.4   0.0       2.6   12.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c55351_g1_i3 transcribed RNA sequence
+GEQR01096947.1_1     -          OSK_CONSENSUS        -                1.9   13.0   0.0       2.3   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c84710_g1_i1 transcribed RNA sequence
+GEQR01005486.1_2     -          OSK_CONSENSUS        -                  2   13.0   1.2       2.4   12.7   0.5   1.5   2   0   0   2   2   2   0 TSA: Ommatogammarus albinus c7772_g1_i1 transcribed RNA sequence
+GEQR01025893.1_3     -          OSK_CONSENSUS        -                  2   13.0   0.0         6   11.4   0.0   1.7   1   1   1   2   2   2   0 TSA: Ommatogammarus albinus c31457_g2_i1 transcribed RNA sequence
+GEQR01063248.1_2     -          OSK_CONSENSUS        -                2.1   12.9   0.1       2.5   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c53756_g1_i1 transcribed RNA sequence
+GEQR01010996.1_6     -          OSK_CONSENSUS        -                5.3   11.6   0.0       6.7   11.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Ommatogammarus albinus c15119_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQR.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQR.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQR.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:23 2019
+# [ok]

@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFJ01080001.1_4     -          OSK_CONSENSUS        -              0.041   18.7   0.1     0.043   18.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp405473_c0_seq1, transcribed RNA sequence
+HAFJ01056679.1_4     -          OSK_CONSENSUS        -              0.074   17.9   0.0      0.17   16.7   0.0   1.6   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp60362_c0_seq3, transcribed RNA sequence
+HAFJ01020608.1_3     -          OSK_CONSENSUS        -                0.6   14.9   0.2       1.3   13.8   0.2   1.6   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp40262_c0_seq1, transcribed RNA sequence
+HAFJ01012918.1_1     -          OSK_CONSENSUS        -               0.77   14.6   0.4       1.9   13.3   0.4   1.8   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp27413_c0_seq1, transcribed RNA sequence
+HAFJ01003529.1_4     -          OSK_CONSENSUS        -               0.88   14.4   0.1       1.3   13.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp5281_c0_seq1, transcribed RNA sequence
+HAFJ01107529.1_5     -          OSK_CONSENSUS        -                1.1   14.1   0.4       1.3   13.8   0.4   1.1   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp1088699_c0_seq1, transcribed RNA sequence
+HAFJ01053504.1_2     -          OSK_CONSENSUS        -                1.3   13.9   0.0       1.3   13.9   0.0   1.0   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp59869_c0_seq1, transcribed RNA sequence
+HAFJ01002512.1_1     -          OSK_CONSENSUS        -                1.3   13.9   0.1       1.6   13.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp3153_c0_seq1, transcribed RNA sequence
+HAFJ01058802.1_6     -          OSK_CONSENSUS        -                1.3   13.8   0.2       2.4   12.9   0.2   1.4   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp60591_c1_seq5, transcribed RNA sequence
+HAFJ01059402.1_6     -          OSK_CONSENSUS        -                  2   13.2   1.1       6.8   11.5   0.3   2.0   2   0   0   2   2   2   0 TSA: Proasellus solanasi, contig comp60642_c0_seq22, transcribed RNA sequence
+HAFJ01083066.1_4     -          OSK_CONSENSUS        -                2.5   12.9   1.7       4.6   12.0   1.7   1.4   1   0   0   1   1   1   0 TSA: Proasellus solanasi, contig comp470377_c0_seq1, transcribed RNA sequence
+HAFJ01041057.1_4     -          OSK_CONSENSUS        -                7.8   11.3   3.0        14   10.5   2.8   1.5   1   1   0   1   1   1   0 TSA: Proasellus solanasi, contig comp55751_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFJ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFJ.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFJ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:30 2019
+# [ok]

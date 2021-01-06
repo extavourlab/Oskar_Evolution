@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOA01054377.1_1     -          OSK_CONSENSUS        -            1.5e-18   71.2   0.3   2.9e-18   70.3   0.3   1.4   1   0   0   1   1   1   1 TSA: Bactrocera bryoniae TR32459_c0_g1_i1 transcribed RNA sequence
+GFOA01054377.1_3     -          OSK_CONSENSUS        -            3.3e-16   63.6   0.4   5.6e-16   62.9   0.4   1.4   1   0   0   1   1   1   1 TSA: Bactrocera bryoniae TR32459_c0_g1_i1 transcribed RNA sequence
+GFOA01049136.1_6     -          OSK_CONSENSUS        -               0.98   13.3   1.5       4.5   11.2   0.4   2.0   1   1   1   2   2   2   0 TSA: Bactrocera bryoniae TR27322_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:25 2019
+# [ok]

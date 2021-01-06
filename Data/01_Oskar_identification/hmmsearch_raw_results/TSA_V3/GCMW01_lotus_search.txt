@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCMW01021132.1_4     -          oskar_filtered.aligned.LOTUS_domain -              9e-23   83.6   1.4   1.7e-22   82.7   0.0   2.3   2   0   0   2   2   2   1 TSA: Pipiza noctiluca s3084_L_3010_1_a_55_1_l_2012 transcribed RNA sequence
+GCMW01005696.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-18   69.3   1.2   3.7e-18   68.8   0.1   1.8   2   0   0   2   2   2   1 TSA: Pipiza noctiluca C122586_a_8_0_l_1106 transcribed RNA sequence
+GCMW01007625.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-09   41.2   0.1   1.4e-09   41.2   0.1   3.5   3   1   1   4   4   4   1 TSA: Pipiza noctiluca C129936_a_18_0_l_1898 transcribed RNA sequence
+GCMW01023013.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-08   36.4   0.1     1e-07   35.3   0.1   1.8   1   1   0   1   1   1   1 TSA: Pipiza noctiluca s4851_L_6220_0_a_8_6_l_652 transcribed RNA sequence
+GCMW01023013.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-06   28.9   0.5   3.9e-05   27.0   0.0   2.1   2   0   0   2   2   2   1 TSA: Pipiza noctiluca s4851_L_6220_0_a_8_6_l_652 transcribed RNA sequence
+GCMW01016932.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.72   13.3   0.0      0.91   13.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Pipiza noctiluca C93910_a_14_0_l_348 transcribed RNA sequence
+GCMW01027404.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.94   12.9   0.0       2.3   11.7   0.0   1.7   1   0   0   1   1   1   0 TSA: Pipiza noctiluca s8920_L_20966_0_a_3_4_l_884 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCMW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:26 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHKV01039540.1_6     -          oskar_filtered.aligned.OSK_domain -              0.082   17.2   0.6      0.15   16.4   0.6   1.4   1   0   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_39722, transcribed RNA sequence
+GHKV01039539.1_4     -          oskar_filtered.aligned.OSK_domain -                0.1   16.9   0.6      0.18   16.2   0.6   1.3   1   0   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_39721, transcribed RNA sequence
+GHKV01052393.1_3     -          oskar_filtered.aligned.OSK_domain -               0.15   16.4   1.8      0.15   16.4   1.8   2.2   1   1   1   2   2   2   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_52653, transcribed RNA sequence
+GHKV01065739.1_3     -          oskar_filtered.aligned.OSK_domain -               0.61   14.4   0.7       1.2   13.5   0.7   1.5   1   0   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_66058, transcribed RNA sequence
+GHKV01038943.1_5     -          oskar_filtered.aligned.OSK_domain -               0.79   14.0   3.8       2.8   12.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_39123, transcribed RNA sequence
+GHKV01045982.1_6     -          oskar_filtered.aligned.OSK_domain -               0.96   13.8   0.1       1.6   13.0   0.1   1.5   1   1   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_46211, transcribed RNA sequence
+GHKV01049551.1_4     -          oskar_filtered.aligned.OSK_domain -                1.3   13.4   0.7       2.1   12.7   0.7   1.4   1   0   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_49803, transcribed RNA sequence
+GHKV01036051.1_2     -          oskar_filtered.aligned.OSK_domain -                1.5   13.1   1.6       2.8   12.3   1.6   1.5   1   1   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_36216, transcribed RNA sequence
+GHKV01008643.1_5     -          oskar_filtered.aligned.OSK_domain -                2.3   12.5   0.1       3.1   12.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_8733, transcribed RNA sequence
+GHKV01070623.1_6     -          oskar_filtered.aligned.OSK_domain -                2.9   12.2   3.1       3.6   11.9   3.1   1.1   1   0   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_70963, transcribed RNA sequence
+GHKV01011648.1_1     -          oskar_filtered.aligned.OSK_domain -                3.8   11.8   0.0         6   11.2   0.0   1.3   1   1   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_11755, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHKV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHKV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHKV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:40 2019
+# [ok]

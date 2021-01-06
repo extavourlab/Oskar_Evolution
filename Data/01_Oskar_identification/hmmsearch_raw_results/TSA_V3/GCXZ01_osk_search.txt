@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXZ01034082.1_1     -          oskar_filtered.aligned.OSK_domain -            1.3e-25   94.4   0.3     2e-25   93.8   0.3   1.3   1   0   0   1   1   1   1 TSA: Idiosystatus acutiusculus breed wildtype C416237_39_0, transcribed RNA sequence
+GCXZ01042860.1_5     -          oskar_filtered.aligned.OSK_domain -              0.039   17.9   0.4     0.052   17.5   0.4   1.2   1   0   0   1   1   1   0 TSA: Idiosystatus acutiusculus breed wildtype s16767_L_38114_0_4_3_LINEAR, transcribed RNA sequence
+GCXZ01046957.1_5     -          oskar_filtered.aligned.OSK_domain -               0.34   14.8   0.1      0.66   13.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Idiosystatus acutiusculus breed wildtype s20457_L_52502_0_3_9_LINEAR, transcribed RNA sequence
+GCXZ01052647.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   13.0   2.6       8.5   10.3   0.5   2.4   2   0   0   2   2   2   0 TSA: Idiosystatus acutiusculus breed wildtype s25586_L_76284_0_11_0_LINEAR, transcribed RNA sequence
+GCXZ01014555.1_1     -          oskar_filtered.aligned.OSK_domain -                1.4   12.8   0.2       1.5   12.7   0.2   1.0   1   0   0   1   1   1   0 TSA: Idiosystatus acutiusculus breed wildtype C309335_2_0, transcribed RNA sequence
+GCXZ01043465.1_5     -          oskar_filtered.aligned.OSK_domain -                2.1   12.2   1.2         3   11.7   1.0   1.3   1   1   0   1   1   1   0 TSA: Idiosystatus acutiusculus breed wildtype s17312_L_40038_0_3_5_LINEAR, transcribed RNA sequence
+GCXZ01020134.1_3     -          oskar_filtered.aligned.OSK_domain -                2.3   12.1   0.1       2.3   12.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Idiosystatus acutiusculus breed wildtype C332737_3_0, transcribed RNA sequence
+GCXZ01039317.1_1     -          oskar_filtered.aligned.OSK_domain -                3.4   11.6   0.0       6.4   10.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Idiosystatus acutiusculus breed wildtype s13572_L_27099_0_21_8_COMPLEX, transcribed RNA sequence
+GCXZ01016016.1_4     -          oskar_filtered.aligned.OSK_domain -                3.9   11.4   0.0       4.4   11.2   0.0   1.0   1   0   0   1   1   1   0 TSA: Idiosystatus acutiusculus breed wildtype C315185_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:47 2019
+# [ok]

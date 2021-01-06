@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEA01041987.1_3     -          OSK_CONSENSUS        -            2.4e-31  112.5   0.5   6.1e-31  111.2   0.5   1.6   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s24182_L_47855_0_a_42_1_l_1136, transcribed RNA sequence
+GDEA01033068.1_1     -          OSK_CONSENSUS        -            8.1e-07   32.8   0.0   1.2e-06   32.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s16146_L_16850_0_a_13_6_l_322, transcribed RNA sequence
+GDEA01013758.1_5     -          OSK_CONSENSUS        -               0.41   14.3   0.6      0.44   14.2   0.6   1.1   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype C305548_a_3_0_l_307, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:12 2019
+# [ok]

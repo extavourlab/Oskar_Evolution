@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTL01062756.1_4     -          OSK_CONSENSUS        -               0.15   16.5   1.1      0.92   13.9   0.1   2.5   2   0   0   2   2   2   0 TSA: Tetragonula carbonaria C265346_a_49_0_l_1345 transcribed RNA sequence
+GBTL01078121.1_6     -          OSK_CONSENSUS        -               0.22   15.9   0.1      0.36   15.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria s12776_L_84678_0_a_27_8_l_1238 transcribed RNA sequence
+GBTL01087760.1_5     -          OSK_CONSENSUS        -               0.93   13.9   0.2       1.9   12.9   0.1   1.6   1   1   1   2   2   2   0 TSA: Tetragonula carbonaria s9515_L_46200_0_a_12_6_l_573 transcribed RNA sequence
+GBTL01000504.1_1     -          OSK_CONSENSUS        -                2.2   12.7   0.2       2.2   12.7   0.2   1.0   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C101070_a_3_0_l_237 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTL01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:57 2019
+# [ok]

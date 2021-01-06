@@ -1,0 +1,31 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWD01019791.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-14   56.3   0.0   7.3e-14   56.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Campanulotes compar breed wildtype C142058_9_0, transcribed RNA sequence
+GCWD01059628.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-11   48.6   3.3   4.3e-09   40.8   0.0   3.5   3   0   0   3   3   3   1 TSA: Campanulotes compar breed wildtype C222346_5_0, transcribed RNA sequence
+GCWD01033545.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-11   48.5   0.1   3.5e-11   47.5   0.1   1.5   1   0   0   1   1   1   1 TSA: Campanulotes compar breed wildtype C169876_4_0, transcribed RNA sequence
+GCWD01031511.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-11   48.0   0.0   3.1e-11   47.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Campanulotes compar breed wildtype C165760_5_0, transcribed RNA sequence
+GCWD01040368.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-10   44.8   0.0   4.7e-10   43.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Campanulotes compar breed wildtype C183652_8_0, transcribed RNA sequence
+GCWD01059392.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.7e-09   39.6   0.2    0.0016   22.9   0.0   2.5   2   0   0   2   2   2   2 TSA: Campanulotes compar breed wildtype C221874_6_0, transcribed RNA sequence
+GCWD01045628.1_2     -          oskar_filtered.aligned.LOTUS_domain -              3e-06   31.7   0.0   4.9e-06   30.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Campanulotes compar breed wildtype C194262_7_0, transcribed RNA sequence
+GCWD01060486.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-06   31.5   0.0         3   12.4   0.0   5.4   4   1   2   6   6   5   1 TSA: Campanulotes compar breed wildtype C224066_57_0, transcribed RNA sequence
+GCWD01060574.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.4e-05   26.8   4.9       3.7   12.1   0.0   5.5   5   1   1   6   6   5   1 TSA: Campanulotes compar breed wildtype C224242_15_0, transcribed RNA sequence
+GCWD01059118.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.002   22.6   0.0       5.7   11.5   0.0   2.6   2   0   0   2   2   2   2 TSA: Campanulotes compar breed wildtype C221324_5_0, transcribed RNA sequence
+GCWD01013139.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.062   17.8   0.0      0.28   15.7   0.0   1.8   1   1   1   2   2   2   0 TSA: Campanulotes compar breed wildtype C128608_4_0, transcribed RNA sequence
+GCWD01043742.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.49   14.9   0.5   1.8e+02    6.7   0.0   2.4   2   0   0   2   2   2   0 TSA: Campanulotes compar breed wildtype C190458_70_0, transcribed RNA sequence
+GCWD01014003.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.61   14.6   1.7      0.69   14.4   1.4   1.3   1   1   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C130358_2_0, transcribed RNA sequence
+GCWD01056368.1_3     -          oskar_filtered.aligned.LOTUS_domain -                  1   13.9   0.1       2.5   12.6   0.1   1.6   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C215820_6_0, transcribed RNA sequence
+GCWD01035512.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.8   0.0       1.5   13.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C173846_3_0, transcribed RNA sequence
+GCWD01057755.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.6   0.1       3.9   12.0   0.1   1.8   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C218598_7_0, transcribed RNA sequence
+GCWD01006836.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.6   0.0       1.5   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C115850_3_0, transcribed RNA sequence
+GCWD01018849.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.1   0.3       2.4   12.7   0.3   1.2   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C140162_6_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:56 2019
+# [ok]

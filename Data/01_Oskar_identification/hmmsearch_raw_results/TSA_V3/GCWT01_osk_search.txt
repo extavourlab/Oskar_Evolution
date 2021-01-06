@@ -1,0 +1,43 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWT01054821.1_3     -          oskar_filtered.aligned.OSK_domain -            7.4e-22   82.1   0.0   1.1e-21   81.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s6800_L_11990_1_27_4_BUBBLE, transcribed RNA sequence
+GCWT01054818.1_3     -          oskar_filtered.aligned.OSK_domain -            7.5e-22   82.1   0.0   1.2e-21   81.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s6799_L_11990_0_29_1_BUBBLE, transcribed RNA sequence
+GCWT01042567.1_6     -          oskar_filtered.aligned.OSK_domain -            9.7e-18   68.7   2.5   9.7e-18   68.7   2.5   4.1   4   0   0   4   4   4   1 TSA: Agallia constricta breed wildtype s16833_L_42878_0_17_9_LINEAR, transcribed RNA sequence
+GCWT01045858.1_5     -          oskar_filtered.aligned.OSK_domain -            1.3e-15   61.8   2.7   1.7e-15   61.4   2.7   1.2   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s19799_L_56688_0_5_0_LINEAR, transcribed RNA sequence
+GCWT01031996.1_6     -          oskar_filtered.aligned.OSK_domain -              7e-14   56.1   0.4   1.1e-13   55.5   0.4   1.3   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype C523994_3_0, transcribed RNA sequence
+GCWT01050784.1_4     -          oskar_filtered.aligned.OSK_domain -            2.5e-10   44.5   1.2   4.5e-10   43.7   1.1   1.5   1   1   0   1   1   1   1 TSA: Agallia constricta breed wildtype s3165_L_5042_0_9_3_LINEAR, transcribed RNA sequence
+GCWT01021371.1_3     -          oskar_filtered.aligned.OSK_domain -            5.6e-10   43.4   0.8   6.3e-10   43.2   0.8   1.0   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype C471064_2_0, transcribed RNA sequence
+GCWT01058101.1_4     -          oskar_filtered.aligned.OSK_domain -            3.2e-09   40.9   0.3   8.3e-09   39.6   0.3   1.6   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s9756_L_19186_0_17_8_COMPLEX, transcribed RNA sequence
+GCWT01028883.1_4     -          oskar_filtered.aligned.OSK_domain -            6.4e-09   39.9   0.0   7.3e-09   39.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype C506444_5_0, transcribed RNA sequence
+GCWT01048932.1_1     -          oskar_filtered.aligned.OSK_domain -            4.2e-08   37.3   0.0   5.4e-08   36.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s22571_L_72439_0_4_0_LINEAR, transcribed RNA sequence
+GCWT01057712.1_1     -          oskar_filtered.aligned.OSK_domain -            7.4e-08   36.5   0.0   1.2e-07   35.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s9405_L_18296_1_7_0_BUBBLE, transcribed RNA sequence
+GCWT01057711.1_1     -          oskar_filtered.aligned.OSK_domain -            7.9e-08   36.4   0.0   1.2e-07   35.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s9404_L_18296_0_7_4_BUBBLE, transcribed RNA sequence
+GCWT01043145.1_3     -          oskar_filtered.aligned.OSK_domain -            9.1e-08   36.2   0.0   1.2e-07   35.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s17354_L_45331_0_5_0_LINEAR, transcribed RNA sequence
+GCWT01036098.1_1     -          oskar_filtered.aligned.OSK_domain -            1.1e-07   35.9   0.1   2.4e-07   34.8   0.1   1.5   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s109_L_119_2_6_2_COMPLEX, transcribed RNA sequence
+GCWT01035876.1_1     -          oskar_filtered.aligned.OSK_domain -            1.1e-07   35.9   0.1   2.5e-07   34.7   0.1   1.5   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s107_L_119_0_6_8_COMPLEX, transcribed RNA sequence
+GCWT01035987.1_1     -          oskar_filtered.aligned.OSK_domain -            1.1e-07   35.9   0.1   2.5e-07   34.7   0.1   1.5   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s108_L_119_1_6_5_COMPLEX, transcribed RNA sequence
+GCWT01045936.1_3     -          oskar_filtered.aligned.OSK_domain -            3.4e-07   34.3   0.1   5.5e-07   33.6   0.1   1.3   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s19869_L_57100_0_19_2_LINEAR, transcribed RNA sequence
+GCWT01046038.1_5     -          oskar_filtered.aligned.OSK_domain -            3.5e-07   34.3   0.0   8.4e-07   33.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s19960_L_57666_1_31_0_BUBBLE, transcribed RNA sequence
+GCWT01046036.1_6     -          oskar_filtered.aligned.OSK_domain -            4.2e-07   34.0   0.0   7.6e-07   33.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s19959_L_57666_0_29_0_BUBBLE, transcribed RNA sequence
+GCWT01048688.1_4     -          oskar_filtered.aligned.OSK_domain -            2.4e-06   31.6   1.0   4.3e-06   30.7   1.0   1.4   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s22351_L_70889_0_5_1_LINEAR, transcribed RNA sequence
+GCWT01001093.1_2     -          oskar_filtered.aligned.OSK_domain -            0.00052   23.9   0.2   0.00056   23.8   0.2   1.0   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype C394882_2_0, transcribed RNA sequence
+GCWT01007531.1_4     -          oskar_filtered.aligned.OSK_domain -            0.00093   23.1   0.0   0.00097   23.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype C417026_2_0, transcribed RNA sequence
+GCWT01044719.1_1     -          oskar_filtered.aligned.OSK_domain -             0.0065   20.4   0.0    0.0096   19.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s18773_L_51767_0_3_0_LINEAR, transcribed RNA sequence
+GCWT01036112.1_4     -          oskar_filtered.aligned.OSK_domain -             0.0068   20.3   0.0    0.0081   20.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s11011_L_22435_0_4_7_LINEAR, transcribed RNA sequence
+GCWT01026082.1_2     -          oskar_filtered.aligned.OSK_domain -             0.0079   20.1   0.2    0.0089   19.9   0.2   1.3   1   1   0   1   1   1   1 TSA: Agallia constricta breed wildtype C492668_3_0, transcribed RNA sequence
+GCWT01048616.1_2     -          oskar_filtered.aligned.OSK_domain -             0.0081   20.0   1.2     0.046   17.6   0.5   2.4   2   0   0   2   2   2   1 TSA: Agallia constricta breed wildtype s22287_L_70507_0_10_9_LINEAR, transcribed RNA sequence
+GCWT01019659.1_1     -          oskar_filtered.aligned.OSK_domain -              0.017   19.0   0.2     0.018   18.9   0.2   1.0   1   0   0   1   1   1   0 TSA: Agallia constricta breed wildtype C463840_3_0, transcribed RNA sequence
+GCWT01028946.1_3     -          oskar_filtered.aligned.OSK_domain -               0.13   16.1   0.0      0.15   15.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Agallia constricta breed wildtype C506768_4_0, transcribed RNA sequence
+GCWT01029480.1_2     -          oskar_filtered.aligned.OSK_domain -               0.14   16.0   0.1      0.22   15.4   0.1   1.4   1   1   0   1   1   1   0 TSA: Agallia constricta breed wildtype C509562_4_0, transcribed RNA sequence
+GCWT01024695.1_1     -          oskar_filtered.aligned.OSK_domain -               0.36   14.7   0.1      0.37   14.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Agallia constricta breed wildtype C485962_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:50 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGLW01154777.1_6     -          OSK_CONSENSUS        -                1.5   14.3   0.6         2   14.0   0.6   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN1797_c0_g1_i1 transcribed RNA sequence
+GGLW01069070.1_1     -          OSK_CONSENSUS        -                2.2   13.8   0.4       7.1   12.2   0.4   1.6   1   1   1   2   2   2   0 TSA: Arctia plantaginis Al_TRINITY_DN49253_c0_g1_i1 transcribed RNA sequence
+GGLW01184850.1_4     -          OSK_CONSENSUS        -                3.2   13.3   0.1       4.5   12.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN22301_c0_g1_i1 transcribed RNA sequence
+GGLW01088682.1_4     -          OSK_CONSENSUS        -                3.3   13.3   0.4       5.3   12.6   0.4   1.2   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN57256_c0_g1_i1 transcribed RNA sequence
+GGLW01192201.1_2     -          OSK_CONSENSUS        -                3.8   13.1   0.2       3.9   13.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN21080_c0_g1_i1 transcribed RNA sequence
+GGLW01066144.1_3     -          OSK_CONSENSUS        -                  4   13.0   0.7       6.1   12.4   0.3   1.5   1   1   1   2   2   2   0 TSA: Arctia plantaginis Al_TRINITY_DN43903_c0_g2_i1 transcribed RNA sequence
+GGLW01022227.1_4     -          OSK_CONSENSUS        -                  4   13.0   1.3       4.4   12.9   1.3   1.0   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN17946_c0_g1_i1 transcribed RNA sequence
+GGLW01065424.1_5     -          OSK_CONSENSUS        -                8.2   12.0   0.1       9.4   11.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN30814_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGLW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:28 2019
+# [ok]

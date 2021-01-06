@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCUU01026739.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-17   65.3   0.6   3.9e-13   52.7   0.0   4.8   5   1   0   6   6   6   2 TSA: Elasmus sp. AD-2014 s7071_L_18266_1_a_18_9_l_3293 transcribed RNA sequence
+GCUU01026738.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.8e-17   64.6  16.2   5.4e-13   52.3   0.0   4.6   3   1   0   3   3   3   2 TSA: Elasmus sp. AD-2014 s7070_L_18266_0_a_24_8_l_4251 transcribed RNA sequence
+GCUU01019244.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-11   48.2   0.0   3.5e-11   46.5   0.0   2.0   1   0   0   1   1   1   1 TSA: Elasmus sp. AD-2014 C175622_a_50_0_l_3985 transcribed RNA sequence
+GCUU01029910.1_3     -          oskar_filtered.aligned.LOTUS_domain -              2e-09   40.8   0.4         3   11.4   0.0   5.5   3   1   3   6   6   6   3 TSA: Elasmus sp. AD-2014 s9931_L_32306_0_a_65_7_l_4026 transcribed RNA sequence
+GCUU01016849.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0074   19.8   2.5     0.013   18.9   0.0   2.7   3   1   1   4   4   4   1 TSA: Elasmus sp. AD-2014 C164996_a_10_0_l_1177 transcribed RNA sequence
+GCUU01010550.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.041   17.4   0.8     0.041   17.4   0.8   1.7   1   1   1   2   2   2   0 TSA: Elasmus sp. AD-2014 C138540_a_4_0_l_391 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCUU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:45 2019
+# [ok]

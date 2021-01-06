@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFPX01003486.1_1     -          OSK_CONSENSUS        -            1.9e-28  102.5   0.0     4e-28  101.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Timema poppensis Tps_TRINITY_DN82834_c0_g1_i2 transcribed RNA sequence
+GFPX01008369.1_2     -          OSK_CONSENSUS        -              0.006   19.6   0.0    0.0085   19.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Timema poppensis Tps_TRINITY_DN94889_c2_g1_i2 transcribed RNA sequence
+GFPX01001104.1_3     -          OSK_CONSENSUS        -               0.21   14.6   0.3        20    8.1   0.0   2.1   2   0   0   2   2   2   0 TSA: Timema poppensis Tps_TRINITY_DN91001_c0_g2_i1 transcribed RNA sequence
+GFPX01005059.1_4     -          OSK_CONSENSUS        -               0.94   12.4   0.1         3   10.8   0.0   1.7   1   1   1   2   2   2   0 TSA: Timema poppensis Tps_TRINITY_DN93147_c4_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFPX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:15 2019
+# [ok]

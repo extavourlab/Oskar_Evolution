@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQL01012720.1_6     -          OSK_CONSENSUS        -               0.22   14.9   0.0      0.25   14.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Macropereiopus wagneri c31381_g2_i1 transcribed RNA sequence
+GEQL01032648.1_6     -          OSK_CONSENSUS        -               0.62   13.4   0.2      0.64   13.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Macropereiopus wagneri c46957_g1_i1 transcribed RNA sequence
+GEQL01010265.1_4     -          OSK_CONSENSUS        -                  2   11.8   2.5       2.2   11.6   2.5   1.1   1   0   0   1   1   1   0 TSA: Macropereiopus wagneri c28741_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQL.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQL.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQL.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:14 2019
+# [ok]

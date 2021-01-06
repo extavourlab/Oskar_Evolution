@@ -1,0 +1,150 @@
+Order,Species,PGC Origin – Stage,PGC Origin – Location/Derivation,Mode of PGC Specification,PGC Migration,PGC Identification Criteria,Exptl Evid.,Embryology,Notes,Refs
+Collembola,Anurida maritima,Blastula,Inner mass origin from central cytoplasm = oosome,P,M,"LM, TEM",-,,"Balbiani body observed in nutritive cells pre-vitellogenesis; Oosome components initially cortical, then drawn into yolk centre by successive cleavage furrows; Nelsen (based on Claypole) wrongly referred to them as being first detected in association with coelomic sacs",[1-5]
+Collembola,Ceratophysella bengtssoni,Blastula,Inner mass origin,P,M,TEM,-,,,[5]
+Collembola,Proisotoma minuta,Blastula,Inner mass origin,P,M,TEM,-,,,[5]
+Collembola,Schaefferia decemoculata,Blastula,Inner mass origin,P,M,TEM,-,,,[5]
+Collembola,Tetrodontophora bielanensis,Blastula,"as for A. maritima: one region of egg contains polar granules, which are incorporated into PGCs in blastoderm stage (nuage, which partially derives from nucleus seen in PGCs); these enter yolk mass, divide, then migrate to the mesodermal gonad anlage",P,M,TEM,-,"Polyspermy is the rule; only one sperm becomes the functional pronucleus; 4 nuclei initially form syncytium, then superficial cleavage results in a stereoblastula","Some inner cells which get only a few cortical granules degenerate; nuage and mitochondria are perinuclear; nuage fibrous and fuzzy before gonad colonization; after gonad entry, granular nuage of nuclear origin (containing RNA but not DNA) joins fibrous nuage ; Semitransparent chorion; about 500 um egg; holoblastic cleavage after 4 cell stage; embryogenesis about 5 months
+",[6-8]
+Collembola,Allacma fusca,Blastula,Detach from blastoderm and enter yolk mass; scattered in yolk mass at blastoderm stage,P,M,TEM,-,,"Meroistic polytrophic ovaries with paired, sac-like ovaries and no discrete ovarioles; 20-30 trophocytes per oocyte",[9]
+Collembola,Arrhopalites caecus,,,,,,,,"Meroistic polytrophic ovaries with paired, sac-like ovaries and no discrete ovarioles; 20-30 trophocytes per oocyte",
+Collembola,Tetrodontophora bielanensis,,,,,,,,,
+Archaeognatha,Petrobius brevistylis,Germ band,"First visible in coelom of A1-A6, surrounded by mesodermal cells",E,G,TEM,-,,Gonia contain dense bodies,[10]
+Archaeognatha,Pedetontus unimaculatus,Blastoderm,"During superficial cleavage stage, 1 or 2 small blastomeres seen underlying segregated blastoderm; fate not followed",P,M,LM,-,,"Cleavage similar to Symphyla, Siplopoda, Parupoda, Collembola, but different from Thysanura & Pterygota",[11]
+Thysanura,Lepisma saccharina,Germ band,First visible on elongating germ band at P; migrate A among mesoderm cells to abdominal segments,E,M,LM,-,,Hard to distinguish from mesodermal cells,Heymons 1897
+Thysanura,Thermobia domestica,Germ band,First seen in splanchnic walls of abdominal coelomic sacs during blastokinesis = 4d AEL; no nuage visible in eggs,E,G,"LM, TEM",-,,"Gonad rudiments differentiate just before midgut epithelium in 3rd instar nymphs, A2-A6 in females, A4-A6 in males","[12, 13]"
+Thysanura,Ctenolepisma lineata,Germ band,As for T. domestica (presumably – not specified explicitly?),E,G,LM,-,,Culture 30° C,[12]
+Diptera,Simulium pictipes,Blastoderm,Pole cells push through blastoderm to yolk and migrate to P of germ band,P,M,LM,-,,,[14]
+Diptera,Drosophila melanogaster,Blastoderm,Pole cells carried into embryo by midgut invagination,P,M,LM,+,,,[15-20]
+Diptera,Miastor metraloas,Blastoderm,Pole cells (single precursor),P,M,LM,-,,Nematocera; polar granules; Migrate through blastoderm before gastrulation begins; Cited in Nelsen 1934,"[21, 22]"
+Diptera,Sciara coprophila,Blastoderm,Pole cells,P,M,LM,-,,Cited in Nelsen 1934,[23]
+Diptera,Chironomus sp.,Blastoderm,Pole cells,P,M,LM,-,,Nematocera; Pole cells migrate through blastoderm before gastrulation begins; Cited in Nelsen 1934,[24]
+Diptera,Miastor americana,Blastoderm,Pole cells (single precursor),P,M,LM,-,,Cited in Nelsen 1934,[25]
+Diptera,Calliphora erythrocephala,Blastoderm,Pole cells,P,M,LM,-,,Cited in Nelsen 1934,[26]
+Diptera,Phormia regina,Blastoderm,Pole cells,P,M,LM,-,,Calliphoridae; specialized ooplasm seen at P,[27]
+Diptera,Calliphora vomitaria,Blastoderm,Pole cells,P,M,LM,-,,Cited in Nelsen 1934,"[28, 29]"
+Diptera,Compsilura concinnata,Blastoderm,Pole cells,P,M,LM,-,,Cited in Nelsen 1934,[30]
+Diptera,Melanoplus ovirus,Blastoderm,Pole cells,P,M,LM,-,,"Muscida, Pupipara; initially 12 formed; 230-250 PCs at gastrulation; pole plasm",[31]
+Diptera,Phaenicia sericata,Blastoderm,Pole cells,P,M,LM,-,,Calliphoridae,[32]
+Diptera,Culex pipiens,Blastoderm,Pole cells at ND8,P,M,LM,+,,Oosome/P granules; irradiation expts; 12-16 pole cells,"[33, 34]"
+Diptera,Aedes aegypti,Blastoderm,Pole cells,P,M,LM,-,,14-16 pole cells,[33]
+Diptera,Anopheles maculipennis,Blastoderm,Pole cells,P,M,LM,-,,"20-20 pole cells ; Balbiani body of nuclear origin observed near GV; Nicholson calls this the “branching nucleus”
+",[33]
+Diptera,Bactrocera tryoni,Blastoderm,Pole cells,P,M,LM,-,,"Trypetidae;4 buds, then 32 migrating; polar granules in oocyte pole plasm; claim that half of pole cells form somatic structures after migration",[35]
+Diptera,Musca domestica,Blastoderm,Pole cells,P,M,LM,-,,Muscidae,[36]
+Diptera,Lucilia sericata,Blastoderm,Pole cells,P,M,LM,-,,"Calliphoridae, Cyclorrhapha; Polar granules in posterior periplasm; pole cells lack nucleoli; no apparent loss during migration",[37]
+Diptera,Culex fatigans,Blastoderm,Pole cells,P,M,LM,-,,"Culicidae, Nematocera; Polar granules of 1um in posterior periplasm; nucleoli appear in pole cells at end of blastoderm formation",[37]
+Diptera,Smittia sp.,Blastoderm,Pole cells,P,M,LM,-,,Chironomidae; parthenogenetic;  posterior cytoplasm has oosome,[38]
+Diptera,Calliphora vicina,Blastoderm,Pole cells,P,M,LM,-,,,[39]
+Diptera,Mycophila speyeri,Blastoderm,Pole cells,P,M,LM,-,,Cecidomyiidae; Mononuclear origin; nurse cells of mixed GL/somatic origin,[40]
+Diptera,Heteropeza pygmaea,Blastoderm,Pole cells,P,M,LM,-,,"Eggs lacking follicular epithelium (and paedogenetic larvae) develop pole cells (just like WT) ; Cecidomyiinae, Heteropezinae; Paedogenetic animals; “M-trophocytes” lose plasma membrane and form a syncytium; in some Cecidomyiinae trophocytes may be all or partly of somatic origin
+",[41]
+Diptera,Ceratitis capitata,Blastoderm,Pole cells form in a break in blastoderm: some are in contact with the yolk,P,M,"LM, TEM, LSM",-,,Two pole cell populations?,[42]
+Diptera,Acricotopus lucidus,Blastoderm,Pole cells (mononuclear origin),P,M,"LM, LSM",-,,Loss of K chromatids from somatic nuclei after pole cell formation,[43]
+Diptera,"Anopheles labranchiae
+",,,,,,,"Germ band formation 6h, retraction 13h, anatrepsis and segmentation 18h, dorsal closure 24h at 27ºC","Culicidae; germ cell formation described at time of germ band retraction as “probably redistribution of germinative material which enters in the internal organs”
+",
+Diptera,Mikiola fagi,,,,,,,,Cecidomyiidae; polytrophic ovaries; nurse cell origin proposed to be partially somatic (mesodermal) paedogenetic have 1 GL NC,
+Diptera,Mayetida paea,,,,,,,,Cecidomyiidae; polytrophic ovaries; nurse cell origin proposed to be partially somatic (mesodermal) paedogenetic have 1 GL NC,
+Diptera,Bouchella artemisae,,,,,,,,Cecidomyiidae; polytrophic ovaries; nurse cell origin proposed to be partially somatic (mesodermal) paedogenetic have 1 GL NC,
+Diptera,"Rhabdophaga rosaria
+",,,,,,,,"Cecidomyiidae; polytrophic ovaries; nurse cell origin proposed to be partially somatic (mesodermal) paedogenetic have 1 GL NC
+",
+Coleoptera,Doryphora decemlineata,Germ band,"Mesoderm; Amniotic cavity at embryo surface, close to caudal end of embryo",E,M,LM,-,,Chrysomelidae; Migrate along abdominal ectoderm,[44]
+Coleoptera,Hydrophilus piceus,Germ band,Coelomic sac mesoderm (at coelomic sac formation),E,M,LM,-,,Cited in Nelsen 1934,[45]
+Coleoptera,Tenebrio molitor,Germ band,mesoderm?,E,M,LM,-,,Inner layer/mesenteron segregation; before coelimic sac formation; Cited in Nelsen 1934,[46]
+Coleoptera,Calligrapha multipunctata,Blastoderm,Pole cells,P,M,LM,-,,Chrysomelidae; Cited in Nelsen 1934,[47]
+Coleoptera,Calandra granaria,Blastoderm,Pole cells,P,M,LM,-,,No pole plasm seen; Cited in Nelsen 1934,[48]
+Coleoptera,Leptinotarsa decemlineata,Blastoderm,Pole cells,P,M,LM,-,,Cited in Nelsen 1934,[47]
+Coleoptera,Donacia crassipes,Blastoderm,Caudal blastoderm (immediately after blastoderm formation),P?,M,LM,-,,Cited in Nelsen 1934,[49]
+Coleoptera,Corynodes pusis,Blastoderm,Caudal blastoderm (immediately after blastoderm formation),P,M,LM,-,,Pole plasm visible at oviposition,[50]
+Coleoptera,Calendra callosa,Blastoderm,Pole cells,P,M,LM,-,,Rhynchophoridae; Remain at posterior until after gastrulation and germ band formation and end up at posterior of rudiment beneath caudal plate,[51]
+Coleoptera,Calandra oryzae,Blastoderm,Pole cells,P,M,LM,-,,No pole plasm seen,[52]
+Coleoptera,Xyleborus terrugineus,Blastoderm,Pole cells,P,M,LM,-,,Germinal plasm seen at posterior,[53]
+Coleoptera,Tribolium castaneum,?,?,?,?,"TEM, LM, SEM",-,,Polar plasm observed (Zissler); no pole cells (Sander); pole cells (Beeman),"[54, 55]"
+Coleoptera,Rhagophthalmus ohbai,?,At P of embryonic rudiment at 5d germ cells (and others) aggregate and proliferate towards AD,E?,M,"LM, SEM",-,,Rhagophthalmidae,[56]
+Coleoptera,Athemus suturellus,,,,,,,"Syncytial cleavage followed by blastoderm formation; ventral plate forms germ band, segmentation begins at anterior; katatrepsis prior to dorsal closure; hatching 240 hAEL at RT",Cantharidae,
+Coleoptera,"Dytiscus marginalis
+",,,,,,,,20-25 polytrophic ovarioles per ovary; 20 follicles per ovariole; 1 oocyte + 15 NCs per follicle,
+Coleoptera,Creophilus maxillosus,,,,,,,,Telotrophi ovary; rDNA segregates preferentially into pro-oocyte; Germ plasm present at posterior of pro-oocytes; contains spectrin; intercellular bridges contain spectrin and fusomes,
+Coleoptera,Pseudoxycheila angustata,,,,,,,,"Meroistic polytrophic ovaries; BB forms perinuclear in previt. oocytes, disperses in ooplasm but some multivesicular bodies segregate out of BB and go to posterior ooplasm; BB lacks nuage",
+Coleoptera,Cicindela campestris,,,,,,,,On BB developed during oogenesis,
+Hymenoptera,Encrytus aphidivorus,Blastoderm?,Pole cells?,P?,M?,LM,-,,Pole plasm observed in preblastoderm embryos; cited in Hegner 1914,"[57, 58]"
+Hymenoptera,Copidosoma sp.,Cleavage,B4 at four cell stage,P,M?,"LM, Mol",+,,Meroistic polytrophic ovaryes; Hegner though oosome consisted of entire oocyte nucles chromatin (“Keimbahn-chromatin”); B4 is first cell to cellularise,"[57, 59-64]"
+Hymenoptera,Trichogramma evanescens,Syncytial blastoderm,Pole cells,P,M,LM,-,,Polar granules in oocyte; oosome breakdown; considers this “nutrimental”,"[65, 66]"
+Hymenoptera,Apanteles glomeratus,?,?,P?,M?,LM,-,,"Oosome created in meroistic polytrophic ovaries; chemical tests suggests made of protein, not chromatin, fat, yolk or glycogen","[67, 68]"
+Hymenoptera,Pteronidea ribesii,Germ band,Mesendoermal rudiment,E,M,LM,-,,"Arise in D of mesendodermal rudiment after germ band formation, in 2 groups which migrate to P of GB then to genital ridges",[69]
+Hymenoptera,Pimpla turionellae,Blastoderm,Pole cells,P (trans),M,LM,“+”,,Ichneumonidae (monoembryonic parasitic); oosome; polytrophic ovarioles; if pole cells are removed adults still fertile; somatic gonad development independent of pole cells,"[70, 71]"
+Hymenoptera,Habobracon juglandis,Blastoderm,Pole cells,P,M,LM,-,,Dark body seen at posterior egg,[72]
+Hymenoptera,Nasonia vitripennis,Blstoderm,Pole cells,P,M,LM,-,,Oosome; 4 pole buds; 12-16 total pole cells; posterior midhug invagination does not carry pole cells into interior; suggested in migrate through blastoderm,[73]
+Hymenoptera,Apis mellifera,?,?,E?,?,SEM,-,,"Nuage in ovarian germ cells; Pole plasm; At posterior of bro, no germ cells seen, but no microvilli seen there; t emd of embryogenesis putative PGCs seen at posterior there ectoderm fuses over endoderm","[54, 74-77]"
+Hymenoptera,Tritneptis dipronis,Blastoderm,Pole cells,P,M,LM,-,,Oosome; germ cells penetrate blastoderm,[78]
+Hymenoptera,Athalia rosae,Blastoderm?,Pole cells?,P,M,“LI”,-,,"piggyBac vector injected into posterior results in some fluorescent GCs, and transformants",[79]
+Hymenoptera,Cosmoconus meridionator,,,,,,,,Ichneumonidae; meroistic polytrophic ovaries; Nuage in nurse cell nucli but not in oocyte; dense bodies at oocyte posterior; oocyte nucleus migrates AD and dense granules disappear; nuage complexes appear in polar ooplasm,
+Hymenoptera,Lissonata catenator,,,,,,,,Ichneumonidae; meroistic polytrophic ovaries; Nuage in nurse cell nucli but not in oocyte; dense bodies at oocyte posterior; oocyte nucleus migrates AD and dense granules disappear; nuage complexes appear in polar ooplasm,
+Lepidoptera,Diacrisia virginica,Germ band,Coelomic sac mesoderm,E,G?,L,-,,"At 3d, inner lateral somatic mesoderm of coelomic sacs",[80]
+Lepidoptera,Pieris rapae,Germ band,Mesoderm,E,G,LM,-,,At mid GB seen in coelomic cavities in contact with splanchnic mesoderm and fat cells; no pole cells at blastoderm,[81]
+Lepidoptera,Euvanessa antiopa,Blastoderm,“primitive blastoderm cells” after blastoderm formation,P?,M,LM,-,,Cited in Nelsen 1934,[82]
+Lepidoptera,Solenobia triquetrella,Germ band,Caudal primary ectoderm,E,G?,LM,-,,Cited in Nelsen 1934,[83]
+Lepidoptera,Antheraea pernyi,Germ band,Mesoderm (at coelomic cavity formation),E,G?,LM,-,,"Among abdominal somatic mesoderm, in all segments except anal segment",[84]
+Lepidoptera,Bombyx mori,Syncitial blastoderm,Germinal rudiment,E?,M?,Mol,“+”,,"Transgenesis vectors injected at preblastoderm (frequency 2%); no germ plasm, no pole cells; among blastoderm cells during GB formation; vasa RNA associated with some granular material in some blastoderm cells that shift to P during GB development; in many segmental clusters then one in A5",[85-90]
+Lepidoptera,Atrophaneura alcinous,Early germ band,Mesoderm?,E,M,LM,-,,25-35 PGCs identified until just before germ band formation,"[91]
+"
+Lepidoptera,Endoclyta execrescens,Germ band,?,E,M,LM,-,,Seen in yolk as clump of cells near germ band posterior,[92]
+Lepidoptera,Endoclyta signifer,Germ band,?,E,M,LM,-,,Seen in yolk as clump of cells near germ band posterior,[92]
+Lepidoptera,Endromis versicolora,Germ band,Primary ectoderm of caudal germ band,E,M,LM,-,,Segregation before inner layer segregation; cited in Nelsen 1934,[93]
+Lepidoptera,Ephestia kuehniella,Germ band,Primary ectoderm of caudal germ band,E,M,"LM, Mol",-,,Nuage apposed to nuclear pores in previtellogenic nurse cells; W-sex heterochromatin transcriptionally active during previtellogenesis; txts accumulate in nuage; encodes genes important for germ plasm assembly?; cited in Nelsen 1934,"[94, 95]"
+Lepidoptera,Epiphyas postvittana,Germ band,?,E,M,LM,-,,Before inner layer formation,[96]
+Lepidoptera,Heliothis zea,Germ band,Center germ band midline,E,M,LM,-,,"Before inner layer formation; invaginate towards yolk and separate into 2 groups, 8-10 cells per group",[97]
+Lepidoptera,Luehdorfia japonica,Germ band,Between germ band and yolk,E,G?,LM,-,,"No pole cells, no polar granules; along midline of germ band, then embed into inner layer mass",[91]
+Lepidoptera,Neomicropteryx nipponensis,Germ band,Coelomic sac mesoderm,E,M,LM,-,,"Appear in single line at MD corner of coelomic sacs, detach from splanchnic mesoderm and become embedded in fat bodies",[98]
+Lepidoptera,Parnassius glacialis,Embryonic rudiment,Ventral plate,E?,M,LM,-,,"No pole cells; no polar granules; morphology like soma but nuclei larger, mitotic spindle orientation different",[91]
+Lepidoptera,Pectinophora gossypiella,Blastoderm,Pole cells,P,M,"LM, TEM",-,,"2 types of pole cells (but only one type in given  embryo): first ones have interchromatin net, second ones have condesnsed chromatin core; formed when blastoderm is 2-4 cell layers thick (500-700 nuclei)",[99]
+Lepidoptera,Eriocrania sp.,,,,,,,Superficial germ band with no invagination into yolk,No polar granules,
+Lepidoptera,Plodia interpunctella,,,,,,,,All oocytes produced by and of L4; egg chambers have 1 OC and 7 NC; follicle cells surround chamber after completion of GC mitoses,
+Siphonaptera,Hystrichopsylla dippie,Blastoderm,Pole cells,P,M,LM,-,,No polar granules,[100]
+Siphonaptera,Neosopsyllus fasciatus,Blastoderm,Pole cells,P,M,LM,-,,No polar granules,[100]
+Siphonaptera,Ctenocephalides felis,Blastoderm,Pole cells,P,M,LM,-,,No polar granules,[100]
+Ephemeroptera,Ephemera vulgata,n.d.,n.d.,n.d.,n.d.,LM,-,,Described only during postembryonic developmenet; cited in Nelsen 1934,Heymons 1897 no. 1885
+Ephemeroptera,Caenis grisea,n.d.,n.d.,n.d.,n.d.,LM,-,,Described only during postembryonic developmenet; cited in Nelsen 1934,Heymons 1897 no. 1885
+Ephemeroptera,Ephemera japonica,,,,,,,"Superficial cleavage, 1st five synchronous, blasatoderm forms at 8th cleavage, posterior forms embryonic rudiment, anterior forms serosa",Oocyte nucleus lies “in polar plasm” but no specific characteristics of plasm described,
+Ephemeroptera,Cloëon sp.,,,,,,,,polytrophic meroistic ovaries with polyfusomes; each cell has same amount of fusomal material,
+Neuroptera,Chrysopa sp.,n.d.,n.d.,n.d.,n.d.,n.d,n.d,,n.d,
+Orthoptera,Schistocerca americana,n.d.,n.d.,n.d.,n.d.,"LM, LSM, Mol",-,,"Germ cells in germaria express Pum and Nos; nos mRNA at posteri of oocytes before oocyte nuclear migration, but not Nos protein",[101]
+Orthoptera,Locusta migratoria,Germ band,Mesoderm?,E,M,LM,-,,First seen in median walls of D pouch of coelomic cavities of A2-A5,[102]
+Orthoptera,Xiphidium enisterum,Germ band,Mesoderm,E,M,LM,-,,"First seen in coelomic sacs on inner wall of somite, then drop into coelomic cavity – metameric A1-A6, then into single gonad",[103]
+Orthoptera,Melanoplus differentialis,Germ band,Lateral abdominal lobe ectoderm,E,M,LM,-,,Considered to migrate into coelomic sacs,[2]
+Orthoptera,Gryllus domesticus,Germ band,Mesentoderm?,E,M,LM,-,,"Segregate during inner layer and mesenteron formation, before coelomic sac formation; cited in Nelsen 1934",[104]
+Orthoptera,Gryllus campestris,Germ band,Mesentoderm?,E,M,LM,-,,"Segregate during inner layer and mesenteron formation, before coelomic sac formation; cited in Nelsen 1934",[104]
+Orthoptera,Acheta domesticus,,,,,,,,"2 BBs found in previtellogenic oocytes, on either side of oocyte nucleus; A body forms first; they migrate to the poles; contain tubulins, mitocondria, ER, Xcat2 like mRNAs",
+Orthoptera,Gryllus rubens,,,,,,,,No BBs observed,
+Hemiptera,Aphis rosea,Blastoderm,Caudal blastoderm,P?,M,LM,-,,Segregate from blastoderm cells immediately after blastoderm formation; cited in Nelsen 1934,[21]
+Hemiptera,Pyrrhocoris apterus,Germ band,Mesoderm?,E,M,LM,-,,During inner layer and mesenteron segregation but before coelomic sac formation,[105]
+Hemiptera,Aphis plantoides,Blastoderm,Caudal blastoderm,P?,M,LM,-,,Segregate from blastoderm cells immediately after blastoderm formation; cited in Nelsen 1934,[106]
+Hemiptera,Aphis pelargonii,Blastoderm,Caudal blastoderm,P?,M,LM,-,,Segregate from blastoderm cells immediately after blastoderm formation; cited in Nelsen 1934,[107]
+Hemiptera,Rhodnius prolixus,Blastoderm,Caudal blastoderm,P,M,LM,-,,"Bud off blastoderm and are continuous with it ; Nutritive cords contain microtubules in filamentous aggregates, longitudinal mitochondria, ribosomes; trophic core also contains filamentous MT aggregates; nuage cytoplasmic in oocytes; NC nuclei have nuage perinuclear assoc. with mitochondria; ribosomes and mitochondria transported into oocyte from tropharium","[108, 109]"
+Hemiptera,Oncopeltus fasciatus,Blastoderm,Caudal blastoderm,P,M,"LM, TEM",-,,"No pole plasm; PGCs appear “within the yolk,” close to “inner surface of blastoderm” (according to Butt) at time of embryonic primodrium determination; Heming, Kelly & Huebner say they appear on the surface ; BB observed to have type 2 lipid spheres","[110, 111]"
+Hemiptera,Acyrthosiphon pisum,Blastoderm,Pole cells,P,M,LM,-,,Pole cells drop to inside of blastoderm,[112]
+Hemiptera,Notonecta glauca,,,,,,,,Oocyte nucleus migrates from paracentral to periperal position,
+Hemiptera,Ranatra lineages,,,,,,,,Oocyte nucleus migrates from paracentral to periperal position,
+Hemiptera,Ilyocoris cimicoides,,,,,,,,Oocyte nucleus migrates from paracentral to periperal position,
+Hemiptera,Nepa cinerea,,,,,,,,Oocyte nucleus migrates from paracentral to periperal position,
+Hemiptera,Corixa punctata,,,,,,,,Oocyte nucleus migrates from paracentral to periperal position,
+Hemiptera,Dysdercus intermedius,,,,,,,,"MRNA synthesized in trophic cords by trophocytes, transported via trophic cords to ooplasm; oocyte does not transcribe but does translate",
+Plecoptera,Pteronarcys proteus,Germ band,Mesoderm,E,G,LM,-,,Segmentally in abdominal longitudinal lateral strands of splanchnic mesoderm,[113]
+Psocoptera,Liposcelis divergens,Blastoderm,PV blastoderm,P?,M,LM,-,,Liposcelidae; no oosome; number founders unknown; single cell layer; surrounded by epithelial cells during migration; below disc at place where invatination (gastrulation) initiates,[114]
+Blattodea,Blatella germanica,Germ band,Mesoderm,E,M,LM,-,Avg. 40 eggs/capsule; syncytial cleavage then blastoderm with tangential divisions; ventral plate forms by thickening,"Segregate before coelomic sac formation, during mesenteron segregation; cited in Nelsen 1934 ; 14-26 ovarioles per ovary, approx. 10 ova/ovariole",[104]
+Blattodea,Periplaneta orientalis,Germ band,Mesoderm,E,M,LM,-,,"Segregate before coelomic sac formation, during mesenteron segregation; cited in Nelsen 1934 ; Nucleoli of eearly oocytes emit aggregates associated with nuclear envelop; migrate through nuclear pores (? – TEM); 8 ovarioles per panoistic ovary, approx. 30 ova/ovariole; dense bodies in ooplasmic matrix
+",[104]
+Dermaptera,Labidura riparia,Blastaoderm,Pole cells,P,M,LM,-,,Oosome; pole cells cellularise first; between vitelline membrane and blastoderm,[115]
+Dermaptera,Forficula auricularia,Blastoderm,Pole cells,P,M,LM,-,,Formed immediately after blastoderm formation; cited in Nelsen 1934,[104]
+Phasmatodea,Carausius morosus,Germ band,Mesoderm,E,M,"LM, TEM",+,Anterior has denser cytoplasm than rest: contains cast-off polar bodies?; blastoderm completed 10d; heart shaped rudiment forms on VA of egg; mesoderm proliferates from middle of ventral plate,"New embryos arising as a result of substitutive polyembryony have germ cells; first seen just before proliferation of mesoderm in P abdominal region ; Parthenogenetic; displays substitive polyembryony
+",[116-119]
+Phasmatodea,Didymuria violescens,,,,,,,"Syncytial cleavage followed by 2 longitudinal ridges of nuclear concentration at P in V shape, giving rise to heart shaped rudiment; anatrepsis precedes stomodaeum formation; by end of anatrepsis, 5A segments",,
+Isoptera,Eutermes rippertii,,,,,,,Syncytial divisions folloed by blastoderm formation; embryonic rudiment is convex on V side; mesoderm arises by cells “pushed below the surface” by blastoderm “concentration” or by tangential divisions of blastoderm nuclei,,
+Odonata,Agrion puella,,,,,,,,Cited in Nelsen 1934,
+Odonata,Epitheca bimaculata,,,,,,,,Cited in Nelsen 1934,
+Odonata,Sympetrum flaveolum,,,,,,,,Cited in Nelsen 1934,
+Odonata,Libellula quadrimaculata,,,,,,,,Cited in Nelsen 1934,
+Odonata,Libellula pulchella,,,,,,,,BB found next to oogonial and oocyte nuclei,
+Odonata,Cordulia aenea,,,,,,,,Nuage created by nuclear extrusion,
+Strepsiptera,Elenchus tenuicornis,,,,,,,,Polytrophic meroistic ovaries; diploid NCs; nuage in NC cytoplasm,

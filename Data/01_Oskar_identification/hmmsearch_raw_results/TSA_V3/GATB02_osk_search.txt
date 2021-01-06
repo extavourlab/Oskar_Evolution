@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATB02054733.1_5     -          oskar_filtered.aligned.OSK_domain -              0.034   18.1   1.5      0.24   15.4   0.2   2.3   2   0   0   2   2   2   0 TSA: Metallyticus splendidus s3056_L_5269_1_a_7_1_l_1141 transcribed RNA sequence
+GATB02054732.1_5     -          oskar_filtered.aligned.OSK_domain -              0.059   17.3   1.6      0.31   15.0   0.2   2.2   2   0   0   2   2   2   0 TSA: Metallyticus splendidus s3055_L_5269_0_a_9_6_l_1350 transcribed RNA sequence
+GATB02023520.1_1     -          oskar_filtered.aligned.OSK_domain -              0.077   17.0   0.0       0.1   16.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Metallyticus splendidus C161160_a_4_0_l_576 transcribed RNA sequence
+GATB02023530.1_3     -          oskar_filtered.aligned.OSK_domain -              0.089   16.7   2.9      0.11   16.5   2.9   1.1   1   0   0   1   1   1   0 TSA: Metallyticus splendidus C161186_a_5_0_l_576 transcribed RNA sequence
+GATB02055129.1_6     -          oskar_filtered.aligned.OSK_domain -               0.33   14.9   2.1      0.47   14.4   2.1   1.2   1   0   0   1   1   1   0 TSA: Metallyticus splendidus s3413_L_6083_0_a_10_6_l_886 transcribed RNA sequence
+GATB02057483.1_4     -          oskar_filtered.aligned.OSK_domain -               0.37   14.7   0.0       0.9   13.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Metallyticus splendidus s5536_L_13262_0_a_10_4_l_2213 transcribed RNA sequence
+GATB02004412.1_5     -          oskar_filtered.aligned.OSK_domain -               0.86   13.5   0.1      0.93   13.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Metallyticus splendidus C111306_a_4_0_l_292 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATB02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:17 2019
+# [ok]

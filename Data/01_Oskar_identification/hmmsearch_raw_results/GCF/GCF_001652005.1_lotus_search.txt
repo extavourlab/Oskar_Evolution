@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017875887.1       -          LOTUS_CONSENSUS      -            1.1e-18   67.7  11.6   8.4e-17   61.7   0.1   4.4   4   1   0   4   4   3   2 uncharacterized protein LOC108622490 [Ceratina calcarata]
+XP_017881985.1       -          LOTUS_CONSENSUS      -            3.8e-18   66.0   0.2   3.4e-17   62.9   0.0   2.4   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like [Ceratina calcarata]
+XP_026670277.1       -          LOTUS_CONSENSUS      -            3.8e-18   66.0   0.2   3.4e-17   62.9   0.0   2.4   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like [Ceratina calcarata]
+XP_026672915.1       -          LOTUS_CONSENSUS      -            2.4e-17   63.4   3.9   1.4e-13   51.3   0.1   2.9   3   0   0   3   3   2   2 tudor domain-containing protein 5-like [Ceratina calcarata]
+XP_026673321.1       -          LOTUS_CONSENSUS      -             0.0021   18.7   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X4 [Ceratina calcarata]
+XP_026673320.1       -          LOTUS_CONSENSUS      -             0.0022   18.7   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X3 [Ceratina calcarata]
+XP_017888068.1       -          LOTUS_CONSENSUS      -             0.0022   18.6   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Ceratina calcarata]
+XP_026673315.1       -          LOTUS_CONSENSUS      -             0.0022   18.6   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Ceratina calcarata]
+XP_026673316.1       -          LOTUS_CONSENSUS      -             0.0022   18.6   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Ceratina calcarata]
+XP_026673317.1       -          LOTUS_CONSENSUS      -             0.0022   18.6   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Ceratina calcarata]
+XP_026673318.1       -          LOTUS_CONSENSUS      -             0.0022   18.6   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Ceratina calcarata]
+XP_026673319.1       -          LOTUS_CONSENSUS      -             0.0023   18.6   0.0        26    5.6   0.0   4.9   4   1   1   5   5   5   0 meiosis regulator and mRNA stability factor 1 isoform X2 [Ceratina calcarata]
+XP_017879016.1       -          LOTUS_CONSENSUS      -               0.11   13.2   0.0      0.12   13.1   0.0   1.1   1   0   0   1   1   1   0 pigment-dispersing hormone peptides [Ceratina calcarata]
+XP_017879017.1       -          LOTUS_CONSENSUS      -               0.11   13.2   0.0      0.12   13.1   0.0   1.1   1   0   0   1   1   1   0 pigment-dispersing hormone peptides [Ceratina calcarata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001652005.1_ASM165200v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001652005.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001652005.1_ASM165200v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:55 2019
+# [ok]

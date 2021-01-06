@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYH02013963.1_4     -          OSK_CONSENSUS        -            5.9e-22   81.4   0.3   1.6e-21   80.0   0.3   1.7   1   0   0   1   1   1   1 TSA: Conwentzia psociformis s10832_L_8613_0_a_79_2_l_3099 transcribed RNA sequence
+GAYH02013964.1_4     -          OSK_CONSENSUS        -            1.1e-21   80.5   1.5   1.7e-21   79.9   0.3   2.0   2   0   0   2   2   2   1 TSA: Conwentzia psociformis s10833_L_8613_1_a_73_5_l_3222 transcribed RNA sequence
+GAYH02013965.1_4     -          OSK_CONSENSUS        -            1.2e-21   80.5   4.8   1.7e-21   79.9   0.3   2.6   2   0   0   2   2   2   1 TSA: Conwentzia psociformis s10834_L_8613_2_a_74_2_l_3266 transcribed RNA sequence
+GAYH02008281.1_1     -          OSK_CONSENSUS        -              0.042   16.9   0.6     0.049   16.7   0.6   1.3   1   1   0   1   1   1   0 TSA: Conwentzia psociformis C195737_a_3_0_l_358 transcribed RNA sequence
+GAYH02011370.1_4     -          OSK_CONSENSUS        -              0.059   16.4   0.3      0.14   15.2   0.0   1.7   2   0   0   2   2   2   0 TSA: Conwentzia psociformis C218411_a_52_0_l_745 transcribed RNA sequence
+GAYH02001005.1_5     -          OSK_CONSENSUS        -               0.23   14.5   0.0      0.24   14.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Conwentzia psociformis C158805_a_7_0_l_210 transcribed RNA sequence
+GAYH02010535.1_6     -          OSK_CONSENSUS        -               0.91   12.6   0.2       1.7   11.7   0.2   1.4   1   0   0   1   1   1   0 TSA: Conwentzia psociformis C211132_a_4_0_l_551 transcribed RNA sequence
+GAYH02021833.1_5     -          OSK_CONSENSUS        -                1.1   12.3   1.3         2   11.5   0.4   1.9   2   0   0   2   2   2   0 TSA: Conwentzia psociformis s17935_L_20716_1_a_24_7_l_2665 transcribed RNA sequence
+GAYH02026030.1_1     -          OSK_CONSENSUS        -                1.9   11.6   0.1       3.3   10.7   0.1   1.4   1   0   0   1   1   1   0 TSA: Conwentzia psociformis s3103_L_1976_1_a_98_0_l_1342 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYH02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYH02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYH02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:13 2019
+# [ok]

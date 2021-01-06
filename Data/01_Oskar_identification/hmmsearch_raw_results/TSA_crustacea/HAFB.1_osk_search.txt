@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFB01095286.1_2     -          OSK_CONSENSUS        -               0.42   15.3   1.7      0.49   15.0   1.7   1.0   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp943086_c0_seq1, transcribed RNA sequence
+HAFB01070428.1_4     -          OSK_CONSENSUS        -                1.3   13.7   0.5       1.6   13.4   0.5   1.1   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp442389_c0_seq1, transcribed RNA sequence
+HAFB01093566.1_6     -          OSK_CONSENSUS        -                1.3   13.6   0.0       1.6   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp898454_c0_seq1, transcribed RNA sequence
+HAFB01097500.1_6     -          OSK_CONSENSUS        -                1.4   13.6   1.0       1.6   13.4   1.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp1004163_c0_seq1, transcribed RNA sequence
+HAFB01059631.1_6     -          OSK_CONSENSUS        -                1.6   13.4   0.1       1.9   13.2   0.1   1.0   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp311873_c0_seq1, transcribed RNA sequence
+HAFB01055744.1_4     -          OSK_CONSENSUS        -                1.7   13.3   0.2       1.7   13.3   0.2   1.6   2   0   0   2   2   2   0 TSA: Proasellus jaloniacus, contig comp267863_c0_seq1, transcribed RNA sequence
+HAFB01076254.1_3     -          OSK_CONSENSUS        -                2.4   12.8   0.5       4.2   12.0   0.3   1.5   1   1   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp521420_c0_seq1, transcribed RNA sequence
+HAFB01066489.1_4     -          OSK_CONSENSUS        -                2.7   12.6   0.0       3.4   12.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp394148_c0_seq1, transcribed RNA sequence
+HAFB01070346.1_1     -          OSK_CONSENSUS        -                6.3   11.4   0.0       6.9   11.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp441519_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFB.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFB.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFB.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:10 2019
+# [ok]

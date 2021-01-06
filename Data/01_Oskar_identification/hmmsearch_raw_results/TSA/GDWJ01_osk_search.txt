@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWJ01047928.1_4     -          OSK_CONSENSUS        -            1.9e-05   28.6   0.3   5.6e-05   27.0   0.0   1.8   2   0   0   2   2   2   1 TSA: Polyphaga aegyptiaca breed wildtype C219122_a_3_0_l_870, transcribed RNA sequence
+GDWJ01048556.1_4     -          OSK_CONSENSUS        -               0.37   14.6   1.0      0.37   14.6   1.0   1.9   2   0   0   2   2   2   0 TSA: Polyphaga aegyptiaca breed wildtype C220920_a_7_0_l_965, transcribed RNA sequence
+GDWJ01029656.1_3     -          OSK_CONSENSUS        -               0.64   13.8   0.5      0.87   13.4   0.1   1.5   2   0   0   2   2   2   0 TSA: Polyphaga aegyptiaca breed wildtype C169874_a_5_0_l_298, transcribed RNA sequence
+GDWJ01022770.1_2     -          OSK_CONSENSUS        -               0.67   13.8   0.0      0.67   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Polyphaga aegyptiaca breed wildtype C152870_a_4_0_l_256, transcribed RNA sequence
+GDWJ01001775.1_4     -          OSK_CONSENSUS        -                1.2   12.9   0.3       1.2   12.9   0.3   1.0   1   0   0   1   1   1   0 TSA: Polyphaga aegyptiaca breed wildtype C104776_a_4_0_l_209, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:25 2019
+# [ok]

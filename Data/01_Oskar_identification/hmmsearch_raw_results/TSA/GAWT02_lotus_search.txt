@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWT02034519.1_6     -          LOTUS_CONSENSUS      -               0.18   16.5   0.0      0.35   15.6   0.0   1.6   1   0   0   1   1   1   0 TSA: Empusa pennata C188146_a_30_0_l_707 transcribed RNA sequence
+GAWT02065563.1_4     -          LOTUS_CONSENSUS      -               0.84   14.4   2.6       8.6   11.2   0.5   2.6   2   0   0   2   2   2   0 TSA: Empusa pennata s6584_L_15505_1_a_8_3_l_904 transcribed RNA sequence
+GAWT02011927.1_3     -          LOTUS_CONSENSUS      -                1.4   13.7   0.0         2   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Empusa pennata C128817_a_3_0_l_321 transcribed RNA sequence
+GAWT02052455.1_2     -          LOTUS_CONSENSUS      -                1.7   13.4   0.0       2.1   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Empusa pennata C87425_a_3_0_l_238 transcribed RNA sequence
+GAWT02054500.1_3     -          LOTUS_CONSENSUS      -                2.1   13.1   0.1        17   10.2   0.1   1.9   1   1   0   1   1   1   0 TSA: Empusa pennata C92321_a_4_0_l_246 transcribed RNA sequence
+GAWT02063632.1_4     -          LOTUS_CONSENSUS      -                2.4   12.9   0.0       5.3   11.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Empusa pennata s4838_L_9254_0_a_5_6_l_873 transcribed RNA sequence
+GAWT02016673.1_5     -          LOTUS_CONSENSUS      -                8.3   11.2   2.2   2.2e+02    6.6   0.1   2.6   1   1   2   3   3   3   0 TSA: Empusa pennata C141006_a_3_0_l_368 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWT02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWT02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWT02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:36 2019
+# [ok]

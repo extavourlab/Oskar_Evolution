@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022191060.1       -          OSK_CONSENSUS        -            8.9e-25   87.6   0.0   1.6e-24   86.8   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC111049329 [Nilaparvata lugens]
+XP_022191061.1       -          OSK_CONSENSUS        -            8.9e-25   87.6   0.0   1.6e-24   86.8   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC111049329 [Nilaparvata lugens]
+XP_022191062.1       -          OSK_CONSENSUS        -            8.9e-25   87.6   0.0   1.6e-24   86.8   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC111049329 [Nilaparvata lugens]
+XP_022193394.1       -          OSK_CONSENSUS        -               0.03   14.4   0.1      0.25   11.4   0.1   2.1   2   0   0   2   2   2   0 uncharacterized protein LOC111051244 isoform X2 [Nilaparvata lugens]
+XP_022193393.1       -          OSK_CONSENSUS        -               0.04   14.0   0.1      0.32   11.1   0.1   2.1   2   0   0   2   2   2   0 annexin B11-like isoform X1 [Nilaparvata lugens]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000757685.1_NilLug1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000757685.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000757685.1_NilLug1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:52 2019
+# [ok]

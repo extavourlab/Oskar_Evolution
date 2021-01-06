@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMA01015871.1_2     -          LOTUS_CONSENSUS      -            7.1e-21   77.2   0.1   2.5e-20   75.5   0.0   2.0   2   0   0   2   2   2   1 TSA: Diodontus minutus s2888_L_3950_0_a_38_2_l_3829 transcribed RNA sequence
+GBMA01015872.1_1     -          LOTUS_CONSENSUS      -            1.3e-20   76.4   0.0   2.5e-20   75.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Diodontus minutus s2889_L_3950_1_a_37_6_l_3925 transcribed RNA sequence
+GBMA01000516.1_2     -          LOTUS_CONSENSUS      -            2.2e-17   66.0   0.0   2.6e-13   53.0   0.0   2.8   2   0   0   2   2   2   2 TSA: Diodontus minutus C103105_a_7_0_l_2802 transcribed RNA sequence
+GBMA01001163.1_1     -          LOTUS_CONSENSUS      -            2.2e-05   27.5   0.0        15    8.8   0.0   5.7   2   1   3   5   5   5   1 TSA: Diodontus minutus C106971_a_28_0_l_5256 transcribed RNA sequence
+GBMA01016667.1_3     -          LOTUS_CONSENSUS      -             0.0012   22.0   0.0   1.1e+02    6.0   0.0   5.4   3   2   1   4   4   4   1 TSA: Diodontus minutus s3610_L_5255_0_a_21_6_l_6503 transcribed RNA sequence
+GBMA01016668.1_3     -          LOTUS_CONSENSUS      -             0.0012   21.9   0.0   1.1e+02    6.0   0.0   5.4   3   2   1   4   4   4   1 TSA: Diodontus minutus s3611_L_5255_1_a_21_4_l_6548 transcribed RNA sequence
+GBMA01017829.1_6     -          LOTUS_CONSENSUS      -               0.44   13.7   0.2        32    7.8   0.1   2.7   2   0   0   2   2   2   0 TSA: Diodontus minutus s465_L_526_2_a_66_8_l_3896 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:42 2019
+# [ok]

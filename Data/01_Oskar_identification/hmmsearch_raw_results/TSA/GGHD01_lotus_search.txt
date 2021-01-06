@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGHD01011682.1_6     -          LOTUS_CONSENSUS      -            2.5e-15   59.1   0.1   1.4e-14   56.6   0.0   2.4   2   0   0   2   2   2   1 TSA: Eurychaeta muscaria Eurychaeta_muscaria_contig_14074 transcribed RNA sequence
+GGHD01011403.1_4     -          LOTUS_CONSENSUS      -            4.6e-06   29.4   0.0   4.6e-06   29.4   0.0   3.2   3   0   0   3   3   3   1 TSA: Eurychaeta muscaria Eurychaeta_muscaria_contig_220 transcribed RNA sequence
+GGHD01003123.1_6     -          LOTUS_CONSENSUS      -               0.34   13.8   0.3        67    6.4   0.1   2.5   2   1   0   2   2   2   0 TSA: Eurychaeta muscaria Eurychaeta_muscaria_contig_4264 transcribed RNA sequence
+GGHD01015710.1_4     -          LOTUS_CONSENSUS      -                2.2   11.2   3.1        56    6.7   0.4   2.2   2   0   0   2   2   2   0 TSA: Eurychaeta muscaria Eurychaeta_muscaria_contig_12074 transcribed RNA sequence
+GGHD01009036.1_5     -          LOTUS_CONSENSUS      -                3.3   10.6   3.3       1.5   11.7   0.3   1.9   2   0   0   2   2   2   0 TSA: Eurychaeta muscaria Eurychaeta_muscaria_contig_24598 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGHD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:42 2019
+# [ok]

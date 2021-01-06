@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUK01010772.1_6     -          LOTUS_CONSENSUS      -              7e-13   51.9   0.1   8.9e-13   51.6   0.1   1.1   1   0   0   1   1   1   1 TSA: Osmia cornuta C60846_a_10_0_l_386 transcribed RNA sequence
+GBUK01006043.1_2     -          LOTUS_CONSENSUS      -              0.021   18.3   0.2      0.31   14.6   0.0   2.0   1   1   1   2   2   2   0 TSA: Osmia cornuta C46418_a_3_0_l_260 transcribed RNA sequence
+GBUK01025979.1_2     -          LOTUS_CONSENSUS      -              0.064   16.8   0.4       4.2   11.0   0.0   3.4   3   1   0   3   3   3   0 TSA: Osmia cornuta s4402_L_6398_0_a_23_8_l_1999 transcribed RNA sequence
+GBUK01021232.1_6     -          LOTUS_CONSENSUS      -               0.92   13.1   0.3       9.4    9.9   0.0   2.6   2   1   0   2   2   2   0 TSA: Osmia cornuta C96148_a_7_0_l_1591 transcribed RNA sequence
+GBUK01021106.1_2     -          LOTUS_CONSENSUS      -               0.95   13.1   0.1       2.9   11.5   0.1   1.8   1   0   0   1   1   1   0 TSA: Osmia cornuta C95708_a_19_0_l_1544 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:14 2019
+# [ok]

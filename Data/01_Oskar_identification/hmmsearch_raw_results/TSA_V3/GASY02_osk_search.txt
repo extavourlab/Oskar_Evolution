@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASY02021409.1_2     -          oskar_filtered.aligned.OSK_domain -              0.026   17.6   0.1     0.052   16.6   0.1   1.6   1   0   0   1   1   1   0 TSA: Dyseriocrania subpurpurella s10039_L_16013_0_a_12_9_l_1595 transcribed RNA sequence
+GASY02019564.1_2     -          oskar_filtered.aligned.OSK_domain -               0.56   13.3   0.1       1.1   12.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Dyseriocrania subpurpurella C173451_a_27_0_l_1736 transcribed RNA sequence
+GASY02009950.1_5     -          oskar_filtered.aligned.OSK_domain -               0.61   13.2   0.3      0.72   12.9   0.3   1.0   1   0   0   1   1   1   0 TSA: Dyseriocrania subpurpurella C134838_a_5_0_l_354 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASY02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASY02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASY02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:29 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLT01019269.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-21   78.7   3.1   6.2e-16   61.7   0.9   2.4   2   0   0   2   2   2   2 TSA: Perilampus aeneus C92977_a_3_0_l_1238 transcribed RNA sequence
+GBLT01001719.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-15   60.3   0.1   7.9e-15   58.2   0.0   2.2   2   0   0   2   2   2   1 TSA: Perilampus aeneus C106580_a_24_0_l_3329 transcribed RNA sequence
+GBLT01008744.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-13   51.9   0.1   1.8e-12   50.6   0.0   1.7   2   0   0   2   2   2   1 TSA: Perilampus aeneus C56262_a_5_0_l_327 transcribed RNA sequence
+GBLT01011745.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.054   17.0   1.2     0.094   16.2   0.2   1.8   1   1   1   2   2   2   0 TSA: Perilampus aeneus C66339_a_3_0_l_440 transcribed RNA sequence
+GBLT01025818.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.073   16.6   0.3      0.26   14.8   0.3   1.9   1   0   0   1   1   1   0 TSA: Perilampus aeneus s5270_L_10613_1_a_11_6_l_3674 transcribed RNA sequence
+GBLT01025816.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.12   15.8   0.3      0.37   14.3   0.3   1.7   1   0   0   1   1   1   0 TSA: Perilampus aeneus s5269_L_10613_0_a_22_2_l_4885 transcribed RNA sequence
+GBLT01025324.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.8   11.0   1.6   2.9e+02    5.0   0.0   3.6   4   0   0   4   4   4   0 TSA: Perilampus aeneus s4824_L_8206_0_a_62_4_l_1966 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:43 2019
+# [ok]

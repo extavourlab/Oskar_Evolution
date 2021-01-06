@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWV01021415.1_2     -          OSK_CONSENSUS        -            4.3e-06   30.3   0.1   1.4e-05   28.7   0.1   1.7   2   0   0   2   2   2   1 TSA: Tryonicus parvus breed wildtype C162367_a_3_0_l_482, transcribed RNA sequence
+GDWV01039265.1_3     -          OSK_CONSENSUS        -               0.88   13.1   0.1       1.3   12.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Tryonicus parvus breed wildtype s2389_L_3217_0_a_4_0_l_549, transcribed RNA sequence
+GDWV01022203.1_4     -          OSK_CONSENSUS        -                1.8   12.1   0.0        22    8.6   0.0   2.0   1   1   1   2   2   2   0 TSA: Tryonicus parvus breed wildtype C164830_a_4_0_l_506, transcribed RNA sequence
+GDWV01018012.1_6     -          OSK_CONSENSUS        -                2.3   11.7   4.2     1e+02    6.4   4.2   2.0   1   1   0   1   1   1   0 TSA: Tryonicus parvus breed wildtype C152305_a_3_0_l_402, transcribed RNA sequence
+GDWV01026906.1_4     -          OSK_CONSENSUS        -                2.5   11.6   1.5       9.5    9.7   0.2   2.1   2   0   0   2   2   2   0 TSA: Tryonicus parvus breed wildtype C179366_a_18_0_l_699, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:08 2019
+# [ok]

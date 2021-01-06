@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENO01079510.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-09   43.9   0.0   1.5e-09   43.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Tischeria quercitella k62_739870 transcribed RNA sequence
+GENO01138120.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.47   16.7   0.3        10   12.3   0.2   1.9   1   1   1   2   2   2   0 TSA: Tischeria quercitella k76_341442 transcribed RNA sequence
+GENO01052297.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.2   15.4   0.0       1.8   14.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Tischeria quercitella k62_89343 transcribed RNA sequence
+GENO01194166.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.9   14.1   0.0       4.4   13.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Tischeria quercitella k92_3744 transcribed RNA sequence
+GENO01176448.1_6     -          oskar_filtered.aligned.LOTUS_domain -                4.3   13.6   0.1       7.1   12.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Tischeria quercitella k86_153309 transcribed RNA sequence
+GENO01168814.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.9   13.4   0.1       8.4   12.6   0.1   1.4   1   0   0   1   1   1   0 TSA: Tischeria quercitella k84_162031 transcribed RNA sequence
+GENO01089664.1_1     -          oskar_filtered.aligned.LOTUS_domain -                7.4   12.8   0.2        45   10.3   0.2   2.0   1   1   1   2   2   2   0 TSA: Tischeria quercitella k64_99134 transcribed RNA sequence
+GENO01041606.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  8   12.7   0.1         8   12.7   0.1   2.2   2   1   0   2   2   2   0 TSA: Tischeria quercitella k58_514057 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:32 2019
+# [ok]

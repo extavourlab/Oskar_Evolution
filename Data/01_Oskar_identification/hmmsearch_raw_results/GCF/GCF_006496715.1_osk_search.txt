@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_019558301.2       -          OSK_CONSENSUS        -            3.1e-54  184.1   0.1   4.7e-53  180.2   0.0   2.1   2   0   0   2   2   2   1 maternal effect protein oskar [Aedes albopictus]
+XP_019540707.2       -          OSK_CONSENSUS        -            3.1e-54  184.1   0.1   4.7e-53  180.2   0.0   2.1   2   0   0   2   2   2   1 maternal effect protein oskar [Aedes albopictus]
+XP_029710371.1       -          OSK_CONSENSUS        -              0.034   14.9   0.2        18    6.1   0.1   2.8   2   0   0   2   2   2   0 uncharacterized protein LOC109421171 isoform X3 [Aedes albopictus]
+XP_029725326.1       -          OSK_CONSENSUS        -              0.038   14.8   0.2        18    6.1   0.1   2.7   2   0   0   2   2   2   0 LOW QUALITY PROTEIN: uncharacterized protein LOC109410834 [Aedes albopictus]
+XP_019538658.1       -          OSK_CONSENSUS        -                  2    9.2   4.4       7.6    7.3   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X6 [Aedes albopictus]
+XP_019538657.1       -          OSK_CONSENSUS        -                  2    9.1   4.4       7.7    7.3   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X5 [Aedes albopictus]
+XP_019538656.1       -          OSK_CONSENSUS        -                2.1    9.1   4.4       7.8    7.3   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X4 [Aedes albopictus]
+XP_019538655.1       -          OSK_CONSENSUS        -                2.2    9.1   4.4       7.9    7.2   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X3 [Aedes albopictus]
+XP_019538654.1       -          OSK_CONSENSUS        -                2.3    9.0   4.4       8.1    7.2   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X2 [Aedes albopictus]
+XP_019538649.1       -          OSK_CONSENSUS        -                2.4    8.9   4.4       8.2    7.2   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X1 [Aedes albopictus]
+XP_019538650.1       -          OSK_CONSENSUS        -                2.4    8.9   4.4       8.2    7.2   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X1 [Aedes albopictus]
+XP_019538651.1       -          OSK_CONSENSUS        -                2.4    8.9   4.4       8.2    7.2   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X1 [Aedes albopictus]
+XP_019538652.1       -          OSK_CONSENSUS        -                2.4    8.9   4.4       8.2    7.2   0.3   3.0   2   0   0   2   2   2   0 CLIP-associating protein isoform X1 [Aedes albopictus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_006496715.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:43 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXC02017713.1_6     -          LOTUS_CONSENSUS      -            2.4e-16   62.8   0.0   1.7e-08   37.6   0.0   3.4   3   0   0   3   3   3   2 TSA: Thrips palmi C88469_a_12_0_l_3557 transcribed RNA sequence
+GAXC02020747.1_5     -          LOTUS_CONSENSUS      -              2e-12   50.2   0.1     4e-12   49.2   0.1   1.5   1   0   0   1   1   1   1 TSA: Thrips palmi s3537_L_5927_0_a_52_6_l_2518 transcribed RNA sequence
+GAXC02019138.1_1     -          LOTUS_CONSENSUS      -            3.8e-10   42.9   0.0   8.4e-10   41.8   0.0   1.5   1   0   0   1   1   1   1 TSA: Thrips palmi s2077_L_2779_1_a_65_1_l_2772 transcribed RNA sequence
+GAXC02019137.1_1     -          LOTUS_CONSENSUS      -            3.9e-10   42.9   0.0   8.4e-10   41.8   0.0   1.5   1   0   0   1   1   1   1 TSA: Thrips palmi s2076_L_2779_0_a_64_0_l_2772 transcribed RNA sequence
+GAXC02023131.1_6     -          LOTUS_CONSENSUS      -            0.00082   22.6   0.0       1.2   12.5   0.0   3.9   3   1   1   4   4   4   1 TSA: Thrips palmi s5710_L_16911_0_a_15_0_l_2657 transcribed RNA sequence
+GAXC02023242.1_3     -          LOTUS_CONSENSUS      -               0.72   13.1   0.1         2   11.7   0.1   1.8   1   0   0   1   1   1   0 TSA: Thrips palmi s5810_L_17528_0_a_10_6_l_1604 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXC02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXC02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXC02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:25 2019
+# [ok]

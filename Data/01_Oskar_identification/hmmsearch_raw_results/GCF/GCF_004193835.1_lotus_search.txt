@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_028156046.1       -          LOTUS_CONSENSUS      -            7.3e-14   52.3   0.0     2e-12   47.7   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X3 [Ostrinia furnacalis]
+XP_028156045.1       -          LOTUS_CONSENSUS      -            7.8e-14   52.2   0.0     2e-12   47.7   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7A isoform X2 [Ostrinia furnacalis]
+XP_028156043.1       -          LOTUS_CONSENSUS      -            8.1e-14   52.1   0.0   2.1e-12   47.6   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7A isoform X1 [Ostrinia furnacalis]
+XP_028156044.1       -          LOTUS_CONSENSUS      -            8.1e-14   52.1   0.0   2.1e-12   47.6   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7A isoform X1 [Ostrinia furnacalis]
+XP_028172690.1       -          LOTUS_CONSENSUS      -            1.9e-12   47.7   0.0   3.8e-07   30.8   0.0   2.7   3   0   0   3   3   3   2 tudor domain-containing protein 5 [Ostrinia furnacalis]
+XP_028159922.1       -          LOTUS_CONSENSUS      -            9.6e-06   26.3   0.0     0.052   14.3   0.0   2.2   2   0   0   2   2   2   2 uncharacterized protein LOC114352499 [Ostrinia furnacalis]
+XP_028179528.1       -          LOTUS_CONSENSUS      -              0.036   14.8   0.6     0.099   13.4   0.5   1.8   2   0   0   2   2   2   0 oligoribonuclease, mitochondrial [Ostrinia furnacalis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_004193835.1_ASM419383v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_004193835.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_004193835.1_ASM419383v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:42 2019
+# [ok]

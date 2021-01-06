@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQE01022934.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-24   87.2   0.5   1.9e-23   85.8   0.0   2.1   2   0   0   2   2   2   1 TSA: Cephalonomia tarsalis s2094_L_2702_0_a_49_3_l_4215 transcribed RNA sequence
+GBQE01022935.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.7e-24   87.1   0.5     2e-23   85.8   0.0   2.0   2   0   0   2   2   2   1 TSA: Cephalonomia tarsalis s2095_L_2702_1_a_49_1_l_4301 transcribed RNA sequence
+GBQE01027577.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-22   82.9   6.9   1.2e-21   80.0   0.3   3.3   3   0   0   3   3   3   1 TSA: Cephalonomia tarsalis s6286_L_17161_0_a_26_3_l_4290 transcribed RNA sequence
+GBQE01021373.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-12   49.9  12.6   1.4e-07   34.8   0.2   5.1   3   1   0   3   3   3   2 TSA: Cephalonomia tarsalis C92653_a_43_0_l_3718 transcribed RNA sequence
+GBQE01021665.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-05   27.2   0.0       5.3   10.5   0.0   5.7   4   2   2   6   6   6   1 TSA: Cephalonomia tarsalis C93581_a_42_0_l_5386 transcribed RNA sequence
+GBQE01028450.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.047   17.1   1.0        15    9.1   0.1   3.4   1   1   2   3   3   3   0 TSA: Cephalonomia tarsalis s7072_L_22920_0_a_27_7_l_3253 transcribed RNA sequence
+GBQE01024832.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.07   16.6   3.3        22    8.6   0.1   3.8   3   1   1   4   4   4   0 TSA: Cephalonomia tarsalis s3804_L_5189_3_a_44_8_l_1600 transcribed RNA sequence
+GBQE01023011.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.09   16.2   0.1      0.16   15.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Cephalonomia tarsalis s2163_L_2790_0_a_6_3_l_541 transcribed RNA sequence
+GBQE01024831.1_5     -          oskar_filtered.aligned.LOTUS_domain -                0.1   16.0   1.5   1.3e+02    6.1   0.0   4.0   3   1   1   4   4   4   0 TSA: Cephalonomia tarsalis s3803_L_5189_2_a_44_2_l_1641 transcribed RNA sequence
+GBQE01024829.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.12   15.9   1.6   1.3e+02    6.1   0.0   3.9   3   1   1   4   4   4   0 TSA: Cephalonomia tarsalis s3801_L_5189_0_a_45_7_l_1637 transcribed RNA sequence
+GBQE01021114.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.59   13.6   1.0       2.9   11.4   0.2   2.7   2   0   0   2   2   2   0 TSA: Cephalonomia tarsalis C91843_a_16_0_l_3225 transcribed RNA sequence
+GBQE01027148.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.99   12.9   0.0        23    8.5   0.0   2.5   2   0   0   2   2   2   0 TSA: Cephalonomia tarsalis s58_L_73_0_a_48_6_l_2053 transcribed RNA sequence
+GBQE01024830.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  1   12.8   5.9   1.8e+02    5.7   0.0   4.5   4   1   0   5   5   5   0 TSA: Cephalonomia tarsalis s3802_L_5189_1_a_48_7_l_2076 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:58 2019
+# [ok]

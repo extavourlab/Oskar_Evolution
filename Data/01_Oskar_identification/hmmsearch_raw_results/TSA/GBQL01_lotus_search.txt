@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQL01011996.1_5     -          LOTUS_CONSENSUS      -              1e-27   99.0   0.0   2.1e-26   94.8   0.0   2.7   2   0   0   2   2   2   1 TSA: Episyron rufipes C83476_a_76_0_l_2847 transcribed RNA sequence
+GBQL01012676.1_5     -          LOTUS_CONSENSUS      -            4.5e-19   71.2   0.0   1.1e-18   70.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Episyron rufipes C87026_a_30_0_l_4884 transcribed RNA sequence
+GBQL01012608.1_3     -          LOTUS_CONSENSUS      -            1.1e-17   66.8   1.6   7.2e-14   54.6   0.2   3.4   3   0   0   3   3   3   2 TSA: Episyron rufipes C86706_a_15_0_l_4497 transcribed RNA sequence
+GBQL01014429.1_4     -          LOTUS_CONSENSUS      -            0.00084   22.3   0.0        15    8.7   0.0   4.9   3   1   1   4   4   4   1 TSA: Episyron rufipes s2430_L_3229_0_a_31_8_l_6520 transcribed RNA sequence
+GBQL01014430.1_4     -          LOTUS_CONSENSUS      -            0.00089   22.2   0.0        15    8.7   0.0   4.9   3   1   1   4   4   4   1 TSA: Episyron rufipes s2431_L_3229_1_a_31_4_l_6622 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:17 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCVB01016734.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-24   88.8   0.1   4.9e-24   87.5   0.1   1.7   1   0   0   1   1   1   1 TSA: Brachyserphus parvulus C74477_a_54_0_l_1306 transcribed RNA sequence
+GCVB01019685.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-19   71.2   1.8   1.4e-18   70.0   0.3   2.5   2   0   0   2   2   2   1 TSA: Brachyserphus parvulus C83315_a_40_0_l_3721_a transcribed RNA sequence
+GCVB01013498.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-17   64.9   0.4   5.3e-17   64.9   0.4   1.7   2   0   0   2   2   2   1 TSA: Brachyserphus parvulus C64597_a_4_0_l_718 transcribed RNA sequence
+GCVB01021664.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-05   27.3   0.1        17    8.7   0.0   5.3   2   1   3   5   5   5   2 TSA: Brachyserphus parvulus s2641_L_6808_0_a_54_1_l_4736 transcribed RNA sequence
+GCVB01017102.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0015   21.7   1.1   1.6e+02    5.6   0.1   4.4   4   0   0   4   4   4   0 TSA: Brachyserphus parvulus C75639_a_43_0_l_1427 transcribed RNA sequence
+GCVB01008120.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.038   17.2   0.2     0.046   17.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Brachyserphus parvulus C49041_a_4_0_l_384 transcribed RNA sequence
+GCVB01020819.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.061   16.6   6.4   1.3e+02    5.9   0.1   4.2   3   2   1   4   4   4   0 TSA: Brachyserphus parvulus s1877_L_4295_1_a_48_7_l_2256 transcribed RNA sequence
+GCVB01021998.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.084   16.1   0.2        47    7.3   0.0   2.9   1   1   1   2   2   2   0 TSA: Brachyserphus parvulus s2943_L_8572_0_a_28_7_l_2362 transcribed RNA sequence
+GCVB01020839.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.14   15.4   1.1      0.63   13.3   0.6   2.1   1   1   1   2   2   2   0 TSA: Brachyserphus parvulus s1895_L_4348_0_a_25_8_l_550 transcribed RNA sequence
+GCVB01022245.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.36   14.1   0.3      0.63   13.3   0.3   1.4   1   0   0   1   1   1   0 TSA: Brachyserphus parvulus s3165_L_9909_0_a_7_5_l_924 transcribed RNA sequence
+GCVB01020818.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.52   13.6   2.3   1.3e+02    5.9   0.1   3.3   3   1   0   3   3   3   0 TSA: Brachyserphus parvulus s1876_L_4295_0_a_48_4_l_2329 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCVB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:52 2019
+# [ok]

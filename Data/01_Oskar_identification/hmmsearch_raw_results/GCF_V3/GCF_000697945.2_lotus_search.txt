@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026276393.1       -          oskar_filtered.aligned.LOTUS_domain -              8e-18   65.0   0.1   2.7e-10   40.8   0.0   3.6   3   0   0   3   3   3   3 uncharacterized protein LOC113205131 isoform X2 [Frankliniella occidentalis]
+XP_026276392.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-17   64.5   0.1   2.9e-10   40.7   0.0   3.6   3   0   0   3   3   3   3 uncharacterized protein LOC113205131 isoform X1 [Frankliniella occidentalis]
+XP_026280917.1       -          oskar_filtered.aligned.LOTUS_domain -            5.1e-16   59.2   0.0   1.4e-15   57.8   0.0   1.8   1   0   0   1   1   1   1 uncharacterized protein LOC113208224 [Frankliniella occidentalis]
+XP_026290464.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-13   49.9   0.1   1.4e-11   44.9   0.0   2.8   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like isoform X3 [Frankliniella occidentalis]
+XP_026290463.1       -          oskar_filtered.aligned.LOTUS_domain -            4.9e-13   49.6   0.1   1.5e-11   44.8   0.0   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like isoform X2 [Frankliniella occidentalis]
+XP_026290462.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-13   49.5   0.1   1.6e-11   44.7   0.0   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like isoform X1 [Frankliniella occidentalis]
+XP_026275266.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-09   38.5   0.0       1.5    9.5   0.0   5.9   2   2   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X4 [Frankliniella occidentalis]
+XP_026275264.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-09   38.2   0.0       1.6    9.4   0.0   5.8   2   2   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Frankliniella occidentalis]
+XP_026275265.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-09   38.2   0.0       1.6    9.4   0.0   5.8   2   2   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X3 [Frankliniella occidentalis]
+XP_026275262.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-09   38.2   0.0       1.6    9.4   0.0   5.8   2   2   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Frankliniella occidentalis]
+XP_026275263.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-09   38.2   0.0       1.6    9.4   0.0   5.8   2   2   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Frankliniella occidentalis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000697945.2_Focc_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000697945.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000697945.2_Focc_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:50 2019
+# [ok]

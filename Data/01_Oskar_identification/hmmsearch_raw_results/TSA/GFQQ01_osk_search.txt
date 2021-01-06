@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFQQ01003419.1_4     -          OSK_CONSENSUS        -            1.2e-26   96.8   0.1   3.1e-26   95.4   0.1   1.6   1   0   0   1   1   1   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_3426, transcribed RNA sequence
+GFQQ01003423.1_4     -          OSK_CONSENSUS        -            1.6e-26   96.4   0.1   3.9e-26   95.1   0.1   1.6   1   0   0   1   1   1   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_3430, transcribed RNA sequence
+GFQQ01003420.1_5     -          OSK_CONSENSUS        -            1.6e-26   96.3   0.1     5e-26   94.8   0.1   1.8   1   0   0   1   1   1   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_3427, transcribed RNA sequence
+GFQQ01016005.1_6     -          OSK_CONSENSUS        -            8.5e-21   77.8   0.9   4.7e-20   75.4   0.0   2.5   2   0   0   2   2   2   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_16047, transcribed RNA sequence
+GFQQ01016007.1_6     -          OSK_CONSENSUS        -            9.3e-21   77.6   0.9   4.9e-20   75.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_16049, transcribed RNA sequence
+GFQQ01016009.1_6     -          OSK_CONSENSUS        -            9.3e-21   77.6   0.9   4.9e-20   75.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_16051, transcribed RNA sequence
+GFQQ01003418.1_4     -          OSK_CONSENSUS        -            3.4e-17   66.1   0.5   7.4e-17   64.9   0.5   1.5   1   0   0   1   1   1   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_3425, transcribed RNA sequence
+GFQQ01003417.1_4     -          OSK_CONSENSUS        -            5.6e-14   55.6   0.3   3.8e-09   39.9   0.2   2.6   2   0   0   2   2   2   2 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_3424, transcribed RNA sequence
+GFQQ01003421.1_4     -          OSK_CONSENSUS        -            1.2e-13   54.5   0.7   3.9e-09   39.9   0.5   2.6   2   0   0   2   2   2   2 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_3428, transcribed RNA sequence
+GFQQ01025710.1_4     -          OSK_CONSENSUS        -            4.3e-10   43.0   0.3   4.9e-10   42.8   0.3   1.0   1   0   0   1   1   1   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_25803, transcribed RNA sequence
+GFQQ01003414.1_4     -          OSK_CONSENSUS        -            1.6e-09   41.2   0.5   3.8e-09   39.9   0.5   1.6   1   0   0   1   1   1   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_3421, transcribed RNA sequence
+GFQQ01022648.1_5     -          OSK_CONSENSUS        -            9.4e-07   32.1   0.0   1.6e-06   31.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_22721, transcribed RNA sequence
+GFQQ01034761.1_6     -          OSK_CONSENSUS        -               0.25   14.5   0.0      0.39   13.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_34942, transcribed RNA sequence
+GFQQ01026790.1_1     -          OSK_CONSENSUS        -                5.6   10.1   3.8       7.1    9.8   0.6   2.1   2   0   0   2   2   2   0 TSA: Thrips tabaci isolate Punjab-Faridkot transcript_26890, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFQQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFQQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFQQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:55 2019
+# [ok]

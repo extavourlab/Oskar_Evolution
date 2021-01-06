@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBJX01001198.1_1     -          oskar_filtered.aligned.OSK_domain -              0.065   15.7   1.2     0.098   15.1   0.9   1.5   1   1   0   1   1   1   0 TSA: Adelges tsugae At_04964 transcribed RNA sequence
+GBJX01003001.1_1     -          oskar_filtered.aligned.OSK_domain -              0.075   15.5   1.1       0.1   15.1   1.1   1.5   1   1   0   1   1   1   0 TSA: Adelges tsugae At_10391 transcribed RNA sequence
+GBJX01008774.1_1     -          oskar_filtered.aligned.OSK_domain -               0.77   12.2   0.7         2   10.9   0.7   1.7   1   0   0   1   1   1   0 TSA: Adelges tsugae At_23364 transcribed RNA sequence
+GBJX01010275.1_1     -          oskar_filtered.aligned.OSK_domain -               0.77   12.2   0.7         2   10.9   0.7   1.7   1   0   0   1   1   1   0 TSA: Adelges tsugae At_26574 transcribed RNA sequence
+GBJX01008773.1_1     -          oskar_filtered.aligned.OSK_domain -               0.77   12.2   0.7         2   10.9   0.7   1.7   1   0   0   1   1   1   0 TSA: Adelges tsugae At_23363 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBJX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:31 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBDY01008181.1_6     -          LOTUS_CONSENSUS      -            1.4e-22   83.5   6.5   3.7e-14   56.5   0.2   4.4   3   1   1   4   4   4   3 TSA: Kerria lacca L_2330_T_2/6_C_0.250_L_2560 transcribed RNA sequence
+GBDY01026722.1_4     -          LOTUS_CONSENSUS      -            4.8e-22   81.8   5.2   1.1e-13   55.0   0.1   5.2   3   1   1   4   4   4   3 TSA: Kerria lacca L_2330_T_6/6_C_0.625_L_5738 transcribed RNA sequence
+GBDY01029975.1_5     -          LOTUS_CONSENSUS      -            1.1e-21   80.7   7.2   1.1e-13   55.0   0.1   5.5   4   1   1   5   5   5   3 TSA: Kerria lacca L_2330_T_1/6_C_0.562_L_5682 transcribed RNA sequence
+GBDY01010849.1_6     -          LOTUS_CONSENSUS      -            1.8e-19   73.5  12.7   1.1e-13   55.0   0.1   4.8   5   1   1   6   6   6   3 TSA: Kerria lacca L_2330_T_3/6_C_0.625_L_5827 transcribed RNA sequence
+GBDY01033158.1_6     -          LOTUS_CONSENSUS      -            1.4e-15   61.0   0.1   1.4e-15   61.0   0.1   2.3   2   1   0   2   2   2   1 TSA: Kerria lacca L_6335_T_4/5_C_0.200_L_1387 transcribed RNA sequence
+GBDY01002006.1_3     -          LOTUS_CONSENSUS      -             0.0016   22.4   0.0       3.5   11.7   0.0   3.2   2   2   1   3   3   3   2 TSA: Kerria lacca L_6034_T_1/1_C_1.000_L_856 transcribed RNA sequence
+GBDY01034716.1_4     -          LOTUS_CONSENSUS      -               0.34   14.9   0.7      0.37   14.8   0.7   1.1   1   0   0   1   1   1   0 TSA: Kerria lacca L_15340_T_1/1_C_1.000_L_225 transcribed RNA sequence
+GBDY01028821.1_2     -          LOTUS_CONSENSUS      -                5.3   11.1   2.4       8.3   10.5   2.4   1.2   1   0   0   1   1   1   0 TSA: Kerria lacca L_27103_T_1/1_C_1.000_L_254 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBDY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:05:15 2019
+# [ok]

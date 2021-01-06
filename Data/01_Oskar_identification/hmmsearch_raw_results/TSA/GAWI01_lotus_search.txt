@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWI01012089.1_2     -          LOTUS_CONSENSUS      -            2.9e-16   62.7   0.1   6.5e-16   61.6   0.0   1.6   2   0   0   2   2   2   1 TSA: Delia antiqua Unigene7647 transcribed RNA sequence
+GAWI01009404.1_1     -          LOTUS_CONSENSUS      -            2.2e-08   37.5   0.2   3.8e-08   36.7   0.0   1.5   2   0   0   2   2   2   1 TSA: Delia antiqua Unigene4945 transcribed RNA sequence
+GAWI01020436.1_4     -          LOTUS_CONSENSUS      -            0.00055   23.4   0.4    0.0022   21.5   0.0   2.2   2   0   0   2   2   2   1 TSA: Delia antiqua Unigene16055 transcribed RNA sequence
+GAWI01002575.1_2     -          LOTUS_CONSENSUS      -               0.43   14.1   0.0       1.2   12.7   0.0   1.7   1   0   0   1   1   1   0 TSA: Delia antiqua CL1435.Contig1 transcribed RNA sequence
+GAWI01027347.1_6     -          LOTUS_CONSENSUS      -               0.53   13.8   0.0      0.73   13.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Delia antiqua Unigene23026 transcribed RNA sequence
+GAWI01022522.1_4     -          LOTUS_CONSENSUS      -               0.82   13.2   0.2      0.93   13.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Delia antiqua Unigene18157 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:57 2019
+# [ok]

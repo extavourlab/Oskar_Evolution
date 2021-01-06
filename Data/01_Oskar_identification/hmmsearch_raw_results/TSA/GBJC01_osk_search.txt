@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBJC01108156.1_6     -          OSK_CONSENSUS        -            1.8e-41  146.6   0.7   4.1e-41  145.5   0.0   1.9   2   0   0   2   2   2   1 TSA: Periplaneta americana comp399742_c0_seq1 transcribed RNA sequence
+GBJC01108156.1_4     -          OSK_CONSENSUS        -            2.7e-41  146.1   0.8   5.5e-41  145.1   0.0   1.9   2   0   0   2   2   2   1 TSA: Periplaneta americana comp399742_c0_seq1 transcribed RNA sequence
+GBJC01100718.1_6     -          OSK_CONSENSUS        -              0.028   19.3   0.0     0.032   19.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp287878_c0_seq1 transcribed RNA sequence
+GBJC01101167.1_2     -          OSK_CONSENSUS        -               0.51   15.2   0.0      0.64   14.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp103597_c0_seq2 transcribed RNA sequence
+GBJC01004523.1_1     -          OSK_CONSENSUS        -               0.71   14.7   0.0      0.92   14.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp91367_c0_seq2 transcribed RNA sequence
+GBJC01020087.1_4     -          OSK_CONSENSUS        -                1.1   14.1   0.1       1.6   13.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp1193356_c0_seq1 transcribed RNA sequence
+GBJC01024449.1_6     -          OSK_CONSENSUS        -                1.6   13.6   0.8       2.1   13.2   0.8   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana comp100731_c0_seq4 transcribed RNA sequence
+GBJC01087367.1_4     -          OSK_CONSENSUS        -                2.3   13.1   0.2       6.3   11.7   0.1   1.8   2   0   0   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq11 transcribed RNA sequence
+GBJC01117859.1_6     -          OSK_CONSENSUS        -                3.2   12.6   0.1       8.8   11.2   0.1   1.7   1   0   0   1   1   1   0 TSA: Periplaneta americana comp117891_c1_seq9 transcribed RNA sequence
+GBJC01077691.1_3     -          OSK_CONSENSUS        -                5.7   11.8   0.5       7.3   11.4   0.5   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp92591_c0_seq1 transcribed RNA sequence
+GBJC01029021.1_3     -          OSK_CONSENSUS        -                  7   11.5   0.0       7.7   11.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp103597_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBJC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:27 2019
+# [ok]

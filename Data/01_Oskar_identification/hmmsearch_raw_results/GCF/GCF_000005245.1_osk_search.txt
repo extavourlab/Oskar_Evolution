@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002053269.1       -          OSK_CONSENSUS        -              5e-75  250.7   1.9   8.3e-75  250.0   0.8   1.9   2   0   0   2   2   2   1 oskar [Drosophila virilis]
+XP_002054219.1       -          OSK_CONSENSUS        -              0.034   14.0   0.4       2.6    7.9   0.1   2.6   2   0   0   2   2   2   0 uncharacterized protein Dvir_GJ22922 [Drosophila virilis]
+XP_002048759.2       -          OSK_CONSENSUS        -               0.16   11.8   0.8       1.9    8.3   0.1   2.5   1   1   0   2   2   2   0 uncharacterized protein Dvir_GJ21226 [Drosophila virilis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005245.1_dvir_caf1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005245.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005245.1_dvir_caf1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:39 2019
+# [ok]

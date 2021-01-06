@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_029672554.1       -          oskar_filtered.aligned.LOTUS_domain -            9.3e-30  103.2   0.0   2.9e-29  101.6   0.0   1.9   2   0   0   2   2   2   1 uncharacterized protein LOC115241134 [Formica exsecta]
+XP_029679201.1       -          oskar_filtered.aligned.LOTUS_domain -            9.3e-23   80.8   0.0   4.4e-22   78.6   0.0   2.3   2   0   0   2   2   2   1 tudor domain-containing protein 7-like [Formica exsecta]
+XP_029679202.1       -          oskar_filtered.aligned.LOTUS_domain -            9.3e-23   80.8   0.0   4.4e-22   78.6   0.0   2.3   2   0   0   2   2   2   1 tudor domain-containing protein 7-like [Formica exsecta]
+XP_029679203.1       -          oskar_filtered.aligned.LOTUS_domain -            9.3e-23   80.8   0.0   4.4e-22   78.6   0.0   2.3   2   0   0   2   2   2   1 tudor domain-containing protein 7-like [Formica exsecta]
+XP_029679204.1       -          oskar_filtered.aligned.LOTUS_domain -            9.3e-23   80.8   0.0   4.4e-22   78.6   0.0   2.3   2   0   0   2   2   2   1 tudor domain-containing protein 7-like [Formica exsecta]
+XP_029672515.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-19   69.6   2.5   3.4e-12   46.8   0.0   4.3   4   0   0   4   4   4   2 uncharacterized protein LOC115241096 [Formica exsecta]
+XP_029672149.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-07   31.9   0.0       1.1    9.9   0.0   5.9   2   1   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X4 [Formica exsecta]
+XP_029672150.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-07   31.9   0.0       1.1    9.9   0.0   5.9   2   1   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X4 [Formica exsecta]
+XP_029672147.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   31.8   0.0       1.4    9.6   0.0   5.9   2   1   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X3 [Formica exsecta]
+XP_029672146.1       -          oskar_filtered.aligned.LOTUS_domain -            4.6e-07   30.4   0.0       1.4    9.5   0.0   5.8   2   1   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Formica exsecta]
+XP_029672144.1       -          oskar_filtered.aligned.LOTUS_domain -            4.7e-07   30.3   0.0       1.4    9.5   0.0   5.8   2   1   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Formica exsecta]
+XP_029672145.1       -          oskar_filtered.aligned.LOTUS_domain -            4.7e-07   30.3   0.0       1.4    9.5   0.0   5.8   2   1   4   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Formica exsecta]
+XP_029662848.1       -          oskar_filtered.aligned.LOTUS_domain -               0.29   11.8   0.5        28    5.4   0.0   3.3   4   0   0   4   4   4   0 annexin B9-like isoform X4 [Formica exsecta]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003651465.1_ASM365146v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003651465.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003651465.1_ASM365146v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:34 2019
+# [ok]

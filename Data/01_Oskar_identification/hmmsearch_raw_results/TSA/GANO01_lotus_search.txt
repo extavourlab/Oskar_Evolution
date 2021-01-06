@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GANO01003814.1_1     -          LOTUS_CONSENSUS      -            5.1e-21   75.5   0.1   1.6e-20   74.0   0.1   1.9   1   0   0   1   1   1   1 TSA: Corethrella appendiculata Co-90457 mRNA sequence
+GANO01003776.1_1     -          LOTUS_CONSENSUS      -            9.1e-12   45.9   0.0   9.1e-12   45.9   0.0   5.0   5   1   1   6   6   6   1 TSA: Corethrella appendiculata Co-97362 mRNA sequence
+GANO01002967.1_1     -          LOTUS_CONSENSUS      -             0.0045   18.0   3.1       2.2    9.4   0.0   3.5   3   0   0   3   3   3   2 TSA: Corethrella appendiculata Co-273 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GANO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:13 2019
+# [ok]

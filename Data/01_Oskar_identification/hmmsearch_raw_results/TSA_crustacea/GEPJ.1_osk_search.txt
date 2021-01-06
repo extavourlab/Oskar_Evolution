@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPJ01036214.1_1     -          OSK_CONSENSUS        -            1.1e-05   29.3   0.1   2.6e-05   28.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Brandtia latissima c36145_g1_i3 transcribed RNA sequence
+GEPJ01036216.1_1     -          OSK_CONSENSUS        -            1.2e-05   29.3   0.1   2.7e-05   28.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Brandtia latissima c36145_g1_i5 transcribed RNA sequence
+GEPJ01036215.1_1     -          OSK_CONSENSUS        -            1.2e-05   29.3   0.1   2.7e-05   28.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Brandtia latissima c36145_g1_i4 transcribed RNA sequence
+GEPJ01036213.1_1     -          OSK_CONSENSUS        -            1.2e-05   29.3   0.1   2.7e-05   28.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Brandtia latissima c36145_g1_i2 transcribed RNA sequence
+GEPJ01036212.1_3     -          OSK_CONSENSUS        -               0.13   16.1   0.0      0.27   15.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Brandtia latissima c36145_g1_i1 transcribed RNA sequence
+GEPJ01006853.1_4     -          OSK_CONSENSUS        -               0.41   14.5   0.0       1.2   13.0   0.0   1.6   2   0   0   2   2   2   0 TSA: Brandtia latissima c10024_g2_i1 transcribed RNA sequence
+GEPJ01055109.1_6     -          OSK_CONSENSUS        -               0.67   13.8   0.2      0.67   13.8   0.2   1.0   1   0   0   1   1   1   0 TSA: Brandtia latissima c57895_g1_i1 transcribed RNA sequence
+GEPJ01054124.1_5     -          OSK_CONSENSUS        -                2.5   12.0   0.0       2.8   11.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Brandtia latissima c56730_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPJ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPJ.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPJ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:07 2019
+# [ok]

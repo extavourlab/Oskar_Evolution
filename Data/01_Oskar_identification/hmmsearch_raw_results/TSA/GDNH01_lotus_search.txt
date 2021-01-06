@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDNH01034788.1_2     -          LOTUS_CONSENSUS      -            2.5e-20   76.1   0.2   1.6e-17   67.1   0.0   3.5   2   1   1   3   3   3   1 TSA: Sinaspidytes wrasei breed wildtype s7627_L_14285_0_a_33_0_l_4410, transcribed RNA sequence
+GDNH01035334.1_2     -          LOTUS_CONSENSUS      -            1.4e-16   64.1   0.0     3e-13   53.5   0.1   2.6   2   0   0   2   2   2   2 TSA: Sinaspidytes wrasei breed wildtype s8130_L_15872_1_a_19_2_l_2234, transcribed RNA sequence
+GDNH01035332.1_2     -          LOTUS_CONSENSUS      -            3.1e-16   63.0   0.0   5.9e-13   52.5   0.1   3.0   2   0   0   2   2   2   2 TSA: Sinaspidytes wrasei breed wildtype s8129_L_15872_0_a_25_0_l_3616, transcribed RNA sequence
+GDNH01037008.1_3     -          LOTUS_CONSENSUS      -              0.037   17.9   0.3     0.049   17.5   0.3   1.2   1   0   0   1   1   1   0 TSA: Sinaspidytes wrasei breed wildtype s9671_L_21569_0_a_37_6_l_445, transcribed RNA sequence
+GDNH01027162.1_6     -          LOTUS_CONSENSUS      -               0.42   14.5   0.2       2.7   11.9   0.1   2.4   2   0   0   2   2   2   0 TSA: Sinaspidytes wrasei breed wildtype s12707_L_43251_0_a_36_2_l_1916, transcribed RNA sequence
+GDNH01001919.1_4     -          LOTUS_CONSENSUS      -                1.1   13.1   0.6        14    9.6   0.2   2.0   1   1   1   2   2   2   0 TSA: Sinaspidytes wrasei breed wildtype C109875_a_4_0_l_218, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDNH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:11:02 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBKU01038307.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-16   63.2   3.7     1e-13   55.8   0.0   3.3   3   0   0   3   3   3   1 TSA: Trichoplusia ni UN038652 transcribed RNA sequence
+GBKU01038306.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-16   63.0   2.7     2e-13   54.9   0.0   3.2   3   0   0   3   3   3   1 TSA: Trichoplusia ni UN038651 transcribed RNA sequence
+GBKU01000248.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-11   48.0   0.0   4.8e-11   47.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Trichoplusia ni UN000256 transcribed RNA sequence
+GBKU01002112.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.043   18.5   0.0     0.088   17.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Trichoplusia ni UN002204 transcribed RNA sequence
+GBKU01019311.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.47   15.2   0.2       1.1   13.9   0.1   1.6   1   1   1   2   2   2   0 TSA: Trichoplusia ni UN019552 transcribed RNA sequence
+GBKU01066134.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.8   0.1       4.5   12.0   0.0   2.0   2   0   0   2   2   2   0 TSA: Trichoplusia ni UN066581 transcribed RNA sequence
+GBKU01030170.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  2   13.2   0.1       2.1   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Trichoplusia ni UN030469 transcribed RNA sequence
+GBKU01022666.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.2   13.0   1.6   1.5e+02    7.1   0.1   2.1   2   0   0   2   2   2   0 TSA: Trichoplusia ni UN022930 transcribed RNA sequence
+GBKU01019416.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.4   12.9   0.0         3   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Trichoplusia ni UN019658 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBKU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBKU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBKU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:51 2019
+# [ok]

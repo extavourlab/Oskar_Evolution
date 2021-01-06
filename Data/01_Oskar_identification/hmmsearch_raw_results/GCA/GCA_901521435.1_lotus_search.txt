@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g8115.t1             -          LOTUS_CONSENSUS      -            1.3e-28  100.2   0.1   4.4e-28   98.5   0.0   2.0   2   0   0   2   2   2   1 -
+g11405.t1            -          LOTUS_CONSENSUS      -            4.5e-10   40.7   0.4   2.6e-06   28.7   0.0   3.8   3   0   0   3   3   3   2 -
+g18195.t1            -          LOTUS_CONSENSUS      -             0.0039   18.5   0.0        17    6.8   0.0   4.8   3   1   2   5   5   5   1 -
+g28028.t1            -          LOTUS_CONSENSUS      -              0.051   14.9   0.8       1.5   10.2   0.0   2.8   3   0   0   3   3   3   0 -
+g7741.t1             -          LOTUS_CONSENSUS      -               0.23   12.8   0.2      0.46   11.9   0.2   1.5   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_901521435.1_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_901521435.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_901521435.1_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:49:02 2019
+# [ok]

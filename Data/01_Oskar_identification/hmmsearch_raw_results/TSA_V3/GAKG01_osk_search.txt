@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAKG01026637.1_1     -          oskar_filtered.aligned.OSK_domain -               0.25   14.3   0.0      0.29   14.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Cotesia vestalis comp770_c0_seq2 transcribed RNA sequence
+GAKG01020775.1_5     -          oskar_filtered.aligned.OSK_domain -                2.5   11.0   6.3       3.1   10.7   6.3   1.2   1   0   0   1   1   1   0 TSA: Cotesia vestalis comp4539_c0_seq1 transcribed RNA sequence
+GAKG01026636.1_1     -          oskar_filtered.aligned.OSK_domain -                3.6   10.5   4.5       4.8   10.1   4.2   1.5   1   1   0   1   1   1   0 TSA: Cotesia vestalis comp770_c0_seq1 transcribed RNA sequence
+GAKG01021968.1_6     -          oskar_filtered.aligned.OSK_domain -                4.2   10.3   4.2        13    8.6   4.2   2.0   1   1   0   1   1   1   0 TSA: Cotesia vestalis comp5104_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAKG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:05 2019
+# [ok]

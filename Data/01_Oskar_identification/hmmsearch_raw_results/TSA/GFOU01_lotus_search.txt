@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOU01016549.1_4     -          LOTUS_CONSENSUS      -            2.5e-25   92.7   0.1   1.4e-23   87.1   0.0   3.7   4   0   0   4   4   4   1 TSA: Zeugodacus cucumis TR10051_c0_g2_i2 transcribed RNA sequence
+GFOU01016548.1_4     -          LOTUS_CONSENSUS      -            6.6e-25   91.4   0.2   1.5e-23   87.1   0.0   3.2   3   0   0   3   3   3   1 TSA: Zeugodacus cucumis TR10051_c0_g2_i1 transcribed RNA sequence
+GFOU01050042.1_4     -          LOTUS_CONSENSUS      -            1.2e-10   45.7   0.0   1.5e-10   45.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Zeugodacus cucumis TR26770_c0_g1_i1 transcribed RNA sequence
+GFOU01010540.1_2     -          LOTUS_CONSENSUS      -              1e-06   33.1   0.3   1.1e-05   29.7   0.0   2.9   3   0   0   3   3   3   1 TSA: Zeugodacus cucumis TR6898_c0_g1_i1 transcribed RNA sequence
+GFOU01010540.1_1     -          LOTUS_CONSENSUS      -              0.013   19.9   0.0     0.036   18.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Zeugodacus cucumis TR6898_c0_g1_i1 transcribed RNA sequence
+GFOU01004355.1_2     -          LOTUS_CONSENSUS      -               0.38   15.2   0.7       2.6   12.5   0.1   2.3   2   0   0   2   2   2   0 TSA: Zeugodacus cucumis TR3130_c0_g1_i1 transcribed RNA sequence
+GFOU01052791.1_3     -          LOTUS_CONSENSUS      -               0.54   14.7   0.8      0.65   14.5   0.8   1.1   1   0   0   1   1   1   0 TSA: Zeugodacus cucumis TR29450_c0_g1_i1 transcribed RNA sequence
+GFOU01026068.1_6     -          LOTUS_CONSENSUS      -               0.65   14.5   0.0       1.5   13.3   0.0   1.6   1   0   0   1   1   1   0 TSA: Zeugodacus cucumis TR13906_c0_g1_i2 transcribed RNA sequence
+GFOU01026067.1_6     -          LOTUS_CONSENSUS      -                1.4   13.4   0.0       3.2   12.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Zeugodacus cucumis TR13906_c0_g1_i1 transcribed RNA sequence
+GFOU01038958.1_3     -          LOTUS_CONSENSUS      -                4.7   11.7   5.6     1e+02    7.4   0.0   5.4   4   0   0   4   4   4   0 TSA: Zeugodacus cucumis TR16682_c0_g4_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:45 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GANH01002091.1_3     -          oskar_filtered.aligned.OSK_domain -            1.1e-46  160.9   0.0   2.6e-46  159.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Microplitis demolitor Mdpara_comp29762_c0_seq1 transcribed RNA sequence
+GANH01010028.1_6     -          oskar_filtered.aligned.OSK_domain -               0.19   13.5   0.7      0.21   13.4   0.7   1.2   1   0   0   1   1   1   0 TSA: Microplitis demolitor Mdpara_comp36106_c2_seq17 transcribed RNA sequence
+GANH01010023.1_6     -          oskar_filtered.aligned.OSK_domain -               0.28   12.9   0.5      0.45   12.3   0.5   1.4   1   0   0   1   1   1   0 TSA: Microplitis demolitor Mdpara_comp36106_c2_seq12 transcribed RNA sequence
+GANH01010038.1_6     -          oskar_filtered.aligned.OSK_domain -               0.52   12.0   0.6       1.1   11.0   0.6   1.6   1   0   0   1   1   1   0 TSA: Microplitis demolitor Mdpara_comp36106_c2_seq5 transcribed RNA sequence
+GANH01002680.1_2     -          oskar_filtered.aligned.OSK_domain -                1.9   10.2   4.5       2.1   10.1   4.5   1.0   1   0   0   1   1   1   0 TSA: Microplitis demolitor Mdpara_comp31515_c0_seq7 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GANH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:36 2019
+# [ok]

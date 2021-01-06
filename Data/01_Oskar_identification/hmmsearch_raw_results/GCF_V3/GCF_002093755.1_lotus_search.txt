@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_020818561.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-26   91.1   0.4   1.5e-25   89.6   0.4   1.8   1   0   0   1   1   1   1 LOW QUALITY PROTEIN: maternal effect protein oskar [Drosophila serrata]
+XP_020814846.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-11   45.1   0.0   1.1e-11   45.1   0.0   2.3   3   0   0   3   3   3   1 LOW QUALITY PROTEIN: uncharacterized protein LOC110189215 [Drosophila serrata]
+XP_020806682.1       -          oskar_filtered.aligned.LOTUS_domain -            4.2e-10   40.0   0.0   2.8e-09   37.4   0.0   2.4   2   0   0   2   2   2   1 uncharacterized protein LOC110182878 isoform X3 [Drosophila serrata]
+XP_020806680.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-10   39.4   0.0   3.7e-09   37.0   0.0   2.4   2   0   0   2   2   2   1 tudor domain-containing protein 7B isoform X1 [Drosophila serrata]
+XP_020812333.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-06   28.3   0.0   2.1e-06   28.1   0.0   1.1   1   0   0   1   1   1   1 LOW QUALITY PROTEIN: uncharacterized protein LOC110187285, partial [Drosophila serrata]
+XP_020802938.1       -          oskar_filtered.aligned.LOTUS_domain -              0.021   15.3   0.0      0.03   14.8   0.0   1.4   1   1   0   1   1   1   0 uncharacterized protein LOC110179667 [Drosophila serrata]
+XP_020805310.1       -          oskar_filtered.aligned.LOTUS_domain -               0.62   10.6   8.9      0.18   12.3   5.4   1.9   2   0   0   2   2   2   0 putative uncharacterized protein DDB_G0292292 isoform X1 [Drosophila serrata]
+XP_020805312.1       -          oskar_filtered.aligned.LOTUS_domain -               0.62   10.6   8.9      0.18   12.3   5.4   1.9   2   0   0   2   2   2   0 putative uncharacterized protein DDB_G0292292 isoform X1 [Drosophila serrata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002093755.1_Dser1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002093755.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002093755.1_Dser1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:44 2019
+# [ok]

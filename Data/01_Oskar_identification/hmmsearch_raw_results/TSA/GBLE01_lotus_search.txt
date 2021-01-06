@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLE01034275.1_5     -          LOTUS_CONSENSUS      -            9.4e-22   80.6   3.1   1.3e-21   80.1   0.3   2.6   2   1   0   2   2   2   1 TSA: Brachymeria minuta s9087_L_23277_0_a_75_5_l_1314 transcribed RNA sequence
+GBLE01011350.1_3     -          LOTUS_CONSENSUS      -              3e-20   75.8   5.8   5.4e-16   62.1   0.4   2.9   3   0   0   3   3   3   2 TSA: Brachymeria minuta C142662_a_8_0_l_1111 transcribed RNA sequence
+GBLE01014026.1_5     -          LOTUS_CONSENSUS      -            3.2e-11   46.8   0.1   2.5e-10   44.0   0.0   2.6   3   0   0   3   3   3   1 TSA: Brachymeria minuta C154278_a_69_0_l_3406 transcribed RNA sequence
+GBLE01013868.1_6     -          LOTUS_CONSENSUS      -            4.6e-10   43.1   7.9       1.2   12.9   0.0   6.6   3   2   4   7   7   7   4 TSA: Brachymeria minuta C153606_a_21_0_l_2755 transcribed RNA sequence
+GBLE01014106.1_6     -          LOTUS_CONSENSUS      -            4.7e-06   30.3   0.4      0.58   14.0   0.0   5.4   5   1   1   6   6   6   1 TSA: Brachymeria minuta C154678_a_41_0_l_4379 transcribed RNA sequence
+GBLE01028109.1_1     -          LOTUS_CONSENSUS      -                1.4   12.8   0.4   2.3e+02    5.6   0.0   2.9   3   0   0   3   3   3   0 TSA: Brachymeria minuta s3527_L_4310_1_a_64_9_l_1528 transcribed RNA sequence
+GBLE01028113.1_1     -          LOTUS_CONSENSUS      -                1.5   12.6   0.7   2.1e+02    5.8   0.0   2.9   3   0   0   3   3   3   0 TSA: Brachymeria minuta s3530_L_4310_4_a_59_1_l_1423 transcribed RNA sequence
+GBLE01028108.1_1     -          LOTUS_CONSENSUS      -                1.9   12.3   0.5   2.7e+02    5.4   0.0   3.0   3   0   0   3   3   3   0 TSA: Brachymeria minuta s3526_L_4310_0_a_63_6_l_1723 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:33 2019
+# [ok]

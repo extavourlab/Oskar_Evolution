@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFAB01005185.1_6     -          LOTUS_CONSENSUS      -            1.7e-13   53.5   0.0   1.7e-13   53.5   0.0   2.7   3   0   0   3   3   3   1 TSA: Spodoptera frugiperda RNA_contig_5186 transcribed RNA sequence
+GFAB01009935.1_6     -          LOTUS_CONSENSUS      -              6e-12   48.5   0.0   2.3e-09   40.3   0.0   2.4   2   0   0   2   2   2   2 TSA: Spodoptera frugiperda RNA_contig_9936 transcribed RNA sequence
+GFAB01005578.1_6     -          LOTUS_CONSENSUS      -               0.84   12.8   0.2   2.9e+02    4.7   0.0   3.2   2   0   0   2   2   2   0 TSA: Spodoptera frugiperda RNA_contig_5579 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFAB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:38 2019
+# [ok]

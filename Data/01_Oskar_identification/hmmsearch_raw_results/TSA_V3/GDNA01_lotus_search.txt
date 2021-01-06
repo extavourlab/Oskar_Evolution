@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDNA01017069.1_6     -          oskar_filtered.aligned.LOTUS_domain -              4e-17   65.1   0.0   5.4e-17   64.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Noterus clavicornis breed wildtype s2542_L_3137_0_a_12_5_l_475, transcribed RNA sequence
+GDNA01017698.1_4     -          oskar_filtered.aligned.LOTUS_domain -            7.8e-16   61.0   1.3   2.4e-14   56.2   0.1   3.3   3   0   0   3   3   3   1 TSA: Noterus clavicornis breed wildtype s3109_L_4208_0_a_47_8_l_3613, transcribed RNA sequence
+GDNA01017700.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-16   60.8   0.9   3.5e-14   55.7   0.1   3.3   3   0   0   3   3   3   1 TSA: Noterus clavicornis breed wildtype s3110_L_4208_1_a_47_9_l_3593, transcribed RNA sequence
+GDNA01017070.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-14   55.9   1.2   1.6e-11   47.1   0.1   2.3   1   1   0   2   2   2   2 TSA: Noterus clavicornis breed wildtype s2543_L_3137_1_a_11_2_l_616, transcribed RNA sequence
+GDNA01013873.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-13   52.8  11.8   1.4e-11   47.3   1.3   4.0   3   1   1   4   4   4   2 TSA: Noterus clavicornis breed wildtype C78611_a_16_0_l_1734, transcribed RNA sequence
+GDNA01004621.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-08   36.2   0.1     7e-08   35.4   0.1   1.4   1   0   0   1   1   1   1 TSA: Noterus clavicornis breed wildtype C46810_a_3_0_l_308, transcribed RNA sequence
+GDNA01015202.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.022   17.8   0.0        69    6.6   0.0   4.5   2   1   2   4   4   4   0 TSA: Noterus clavicornis breed wildtype C83057_a_75_0_l_3653, transcribed RNA sequence
+GDNA01003494.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.08   16.0   0.4     0.096   15.7   0.4   1.0   1   0   0   1   1   1   0 TSA: Noterus clavicornis breed wildtype C42989_a_6_0_l_267, transcribed RNA sequence
+GDNA01007561.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.4   11.2   4.6       2.7   11.1   2.6   2.0   2   1   0   2   2   2   0 TSA: Noterus clavicornis breed wildtype C56686_a_12_0_l_456, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDNA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:21 2019
+# [ok]

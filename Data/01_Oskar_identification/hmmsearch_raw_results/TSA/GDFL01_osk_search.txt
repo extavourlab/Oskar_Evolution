@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFL01026656.1_3     -          OSK_CONSENSUS        -            8.3e-28  100.9   0.0   1.4e-27  100.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Elipsocus kuriliensis breed wildtype C200678_a_32_0_l_1329, transcribed RNA sequence
+GDFL01033993.1_3     -          OSK_CONSENSUS        -              8e-25   91.2   0.0   1.4e-24   90.4   0.0   1.3   1   0   0   1   1   1   1 TSA: Elipsocus kuriliensis breed wildtype s12912_L_29922_0_a_49_1_l_1346, transcribed RNA sequence
+GDFL01022434.1_6     -          OSK_CONSENSUS        -                0.8   13.2   0.3       8.4    9.9   0.0   2.1   2   0   0   2   2   2   0 TSA: Elipsocus kuriliensis breed wildtype C181036_a_40_0_l_740, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFL01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:02 2019
+# [ok]

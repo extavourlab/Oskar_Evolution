@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAMG01050126.1_6     -          LOTUS_CONSENSUS      -            1.2e-17   68.1   4.2   3.2e-17   66.8   0.1   3.8   5   0   0   5   5   5   1 TSA: Galerucella pusilla TRINITY_DN80728_c0_g8_i6 transcribed RNA sequence
+HAMG01018166.1_3     -          LOTUS_CONSENSUS      -            6.6e-17   65.7   0.1   6.6e-17   65.7   0.1   1.6   2   0   0   2   2   2   1 TSA: Galerucella pusilla TRINITY_DN61646_c0_g1_i1 transcribed RNA sequence
+HAMG01036937.1_3     -          LOTUS_CONSENSUS      -              7e-14   56.0   0.0   2.6e-10   44.6   0.0   2.9   2   0   0   2   2   2   2 TSA: Galerucella pusilla TRINITY_DN75625_c0_g1_i6 transcribed RNA sequence
+HAMG01004603.1_2     -          LOTUS_CONSENSUS      -            1.1e-07   36.2   0.0   1.4e-07   35.9   0.0   1.2   1   0   0   1   1   1   1 TSA: Galerucella pusilla TRINITY_DN114794_c0_g1_i1 transcribed RNA sequence
+HAMG01040615.1_2     -          LOTUS_CONSENSUS      -              0.038   18.4   3.9        15   10.1   0.0   5.0   4   2   2   6   6   6   0 TSA: Galerucella pusilla TRINITY_DN77130_c0_g1_i3 transcribed RNA sequence
+HAMG01045031.1_6     -          LOTUS_CONSENSUS      -                0.4   15.2   0.5   1.1e+02    7.3   0.1   4.1   4   0   0   4   4   4   0 TSA: Galerucella pusilla TRINITY_DN78842_c1_g3_i5 transcribed RNA sequence
+HAMG01012208.1_1     -          LOTUS_CONSENSUS      -                1.2   13.7   0.0       2.1   12.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Galerucella pusilla TRINITY_DN44965_c0_g1_i1 transcribed RNA sequence
+HAMG01022021.1_2     -          LOTUS_CONSENSUS      -                3.2   12.3   0.9        20    9.7   0.1   2.3   2   0   0   2   2   2   0 TSA: Galerucella pusilla TRINITY_DN66953_c2_g2_i4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/HAMG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:43 2019
+# [ok]

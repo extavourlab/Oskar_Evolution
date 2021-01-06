@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWT02057627.1_1     -          OSK_CONSENSUS        -             0.0068   20.5   0.3    0.0075   20.4   0.3   1.0   1   0   0   1   1   1   1 TSA: Empusa pennata C99406_a_3_0_l_255 transcribed RNA sequence
+GAWT02005999.1_4     -          OSK_CONSENSUS        -              0.038   18.1   0.5     0.044   17.9   0.5   1.1   1   0   0   1   1   1   0 TSA: Empusa pennata C113567_a_3_0_l_274 transcribed RNA sequence
+GAWT02068857.1_2     -          OSK_CONSENSUS        -              0.041   17.9   0.1      0.11   16.6   0.1   1.7   1   0   0   1   1   1   0 TSA: Empusa pennata s9553_L_46408_0_a_5_1_l_1842 transcribed RNA sequence
+GAWT02006234.1_6     -          OSK_CONSENSUS        -                2.6   12.1   0.0       3.5   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Empusa pennata C114107_a_3_0_l_275 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWT02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWT02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWT02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:35 2019
+# [ok]

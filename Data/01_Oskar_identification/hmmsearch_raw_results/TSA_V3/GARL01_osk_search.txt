@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARL01039409.1_3     -          oskar_filtered.aligned.OSK_domain -              0.048   18.3   1.0     0.058   18.0   1.0   1.4   1   0   0   1   1   1   0 TSA: Spodoptera exigua SEUC30270_TC01 transcribed RNA sequence
+GARL01054083.1_1     -          oskar_filtered.aligned.OSK_domain -              0.069   17.7   0.4     0.083   17.5   0.4   1.3   1   0   0   1   1   1   0 TSA: Spodoptera exigua SEUC36151_TC01 transcribed RNA sequence
+GARL01008573.1_6     -          oskar_filtered.aligned.OSK_domain -               0.28   15.7   1.3     1e+02    7.4   0.1   2.2   2   0   0   2   2   2   0 TSA: Spodoptera exigua SEUC08184_TC01 transcribed RNA sequence
+GARL01029376.1_3     -          oskar_filtered.aligned.OSK_domain -               0.85   14.2   0.0         1   13.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Spodoptera exigua SEUC24929_TC02 transcribed RNA sequence
+GARL01091702.1_5     -          oskar_filtered.aligned.OSK_domain -                1.1   13.8   0.2       1.7   13.2   0.2   1.4   1   1   0   1   1   1   0 TSA: Spodoptera exigua SEUC47712_TC01 transcribed RNA sequence
+GARL01067455.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   13.7   0.1       1.3   13.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Spodoptera exigua SEUC40635_TC06 transcribed RNA sequence
+GARL01021580.1_6     -          oskar_filtered.aligned.OSK_domain -                1.6   13.3   0.1       1.7   13.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Spodoptera exigua SEUC19521_TC01 transcribed RNA sequence
+GARL01091789.1_1     -          oskar_filtered.aligned.OSK_domain -                1.8   13.1   0.0       1.9   13.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Spodoptera exigua SEUC47799_TC01 transcribed RNA sequence
+GARL01036479.1_6     -          oskar_filtered.aligned.OSK_domain -                  3   12.4   5.8       3.4   12.2   4.8   1.8   1   1   0   1   1   1   0 TSA: Spodoptera exigua SEUC28850_TC01 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARL01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:06 2019
+# [ok]

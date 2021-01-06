@@ -1,0 +1,15 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFZR01014231.1_4     -          oskar_filtered.aligned.OSK_domain -               0.91   12.5   0.2      0.93   12.4   0.2   1.0   1   0   0   1   1   1   0 TSA: Eutolmus rufibarbis c21818_g1_i1_VG_Eu_ru_204 transcribed RNA sequence
+GFZR01028698.1_4     -          oskar_filtered.aligned.OSK_domain -                1.1   12.2   1.8       1.2   12.0   1.8   1.1   1   0   0   1   1   1   0 TSA: Eutolmus rufibarbis c11795_g1_i1_VG_Eu_ru_204 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFZR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFZR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFZR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:00 2019
+# [ok]

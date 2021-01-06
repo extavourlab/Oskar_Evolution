@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWQ01013240.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-25   91.4   0.9   7.7e-25   89.9   0.9   1.8   1   0   0   1   1   1   1 TSA: Monosapyga clavicornis C95230_a_63_0_l_4303 transcribed RNA sequence
+GBWQ01021579.1_2     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-21   76.9   0.0   6.6e-20   74.0   0.0   2.4   2   0   0   2   2   2   1 TSA: Monosapyga clavicornis s8270_L_20853_0_a_29_3_l_6251 transcribed RNA sequence
+GBWQ01020812.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.5e-15   58.0   1.6   4.2e-11   45.8   0.0   3.4   3   0   0   3   3   3   2 TSA: Monosapyga clavicornis s7579_L_17280_1_a_24_8_l_4754 transcribed RNA sequence
+GBWQ01020811.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-13   53.3   7.6   3.1e-11   46.2   0.0   3.5   3   1   1   4   4   4   2 TSA: Monosapyga clavicornis s7578_L_17280_0_a_18_5_l_3727 transcribed RNA sequence
+GBWQ01021426.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00027   23.9   0.0        79    6.4   0.0   5.5   2   1   2   4   4   4   1 TSA: Monosapyga clavicornis s8131_L_19877_0_a_54_1_l_5808 transcribed RNA sequence
+GBWQ01017325.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.41   13.7   0.0      0.92   12.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Monosapyga clavicornis s4437_L_6252_0_a_39_6_l_7410 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:45 2019
+# [ok]

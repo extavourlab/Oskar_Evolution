@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022197084.1       -          oskar_filtered.aligned.LOTUS_domain -            4.6e-17   62.6   0.0     6e-15   55.8   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC111054371, partial [Nilaparvata lugens]
+XP_022186494.1       -          oskar_filtered.aligned.LOTUS_domain -            8.6e-17   61.7   0.2   2.8e-14   53.7   0.0   3.7   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Nilaparvata lugens]
+XP_022187477.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-10   42.2   0.0   1.6e-10   41.5   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC111046270, partial [Nilaparvata lugens]
+XP_022198133.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0017   19.0   0.0      0.12   13.0   0.0   3.4   2   1   1   3   3   3   1 LOW QUALITY PROTEIN: meiosis regulator and mRNA stability factor 1 [Nilaparvata lugens]
+XP_022199377.1       -          oskar_filtered.aligned.LOTUS_domain -              0.054   14.2   0.7        19    6.0   0.0   3.1   4   0   0   4   4   4   0 annexin B9-like [Nilaparvata lugens]
+XP_022204003.1       -          oskar_filtered.aligned.LOTUS_domain -              0.061   14.0   2.7      0.64   10.8   0.1   3.6   3   1   1   4   4   4   0 LOW QUALITY PROTEIN: uncharacterized protein LOC111060640 [Nilaparvata lugens]
+XP_022186189.1       -          oskar_filtered.aligned.LOTUS_domain -              0.091   13.5   0.0      0.21   12.3   0.0   1.5   1   0   0   1   1   1   0 uncharacterized protein LOC111045173 [Nilaparvata lugens]
+XP_022196863.1       -          oskar_filtered.aligned.LOTUS_domain -               0.12   13.1   0.0      0.29   11.9   0.0   1.7   2   0   0   2   2   2   0 beta-ureidopropionase [Nilaparvata lugens]
+XP_022196865.1       -          oskar_filtered.aligned.LOTUS_domain -               0.12   13.1   0.0      0.29   11.9   0.0   1.7   2   0   0   2   2   2   0 beta-ureidopropionase [Nilaparvata lugens]
+XP_022196866.1       -          oskar_filtered.aligned.LOTUS_domain -               0.12   13.1   0.0      0.29   11.9   0.0   1.7   2   0   0   2   2   2   0 beta-ureidopropionase [Nilaparvata lugens]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000757685.1_NilLug1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000757685.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000757685.1_NilLug1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:51 2019
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012267561.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-24   86.2   2.3   1.9e-24   86.2   0.1   2.2   2   1   0   2   2   2   1 maternal effect protein oskar-like [Athalia rosae]
+XP_012258869.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-24   85.2   1.4   1.4e-21   77.0   0.0   3.2   3   0   0   3   3   3   1 tudor domain-containing protein 7A-like isoform X3 [Athalia rosae]
+XP_020708948.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-24   85.1   1.4   1.4e-21   76.9   0.0   3.1   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like isoform X2 [Athalia rosae]
+XP_012258867.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-24   84.9   1.4   1.5e-21   76.9   0.0   3.1   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like isoform X1 [Athalia rosae]
+XP_012258868.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-24   84.9   1.4   1.5e-21   76.9   0.0   3.1   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like isoform X1 [Athalia rosae]
+XP_020707392.1       -          oskar_filtered.aligned.LOTUS_domain -            3.9e-22   78.7   0.1   3.1e-18   66.2   0.0   3.1   3   0   0   3   3   3   2 tudor domain-containing protein 7B-like isoform X2 [Athalia rosae]
+XP_012254025.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-22   78.7   0.1   3.1e-18   66.2   0.0   3.1   3   0   0   3   3   3   2 tudor domain-containing protein 7B-like isoform X1 [Athalia rosae]
+XP_012254026.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-22   78.7   0.1   3.1e-18   66.2   0.0   3.1   3   0   0   3   3   3   2 tudor domain-containing protein 7B-like isoform X1 [Athalia rosae]
+XP_012254027.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-22   78.7   0.1   3.1e-18   66.2   0.0   3.1   3   0   0   3   3   3   2 tudor domain-containing protein 7B-like isoform X1 [Athalia rosae]
+XP_020707391.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-22   78.7   0.1   3.1e-18   66.2   0.0   3.1   3   0   0   3   3   3   2 tudor domain-containing protein 7B-like isoform X1 [Athalia rosae]
+XP_012253931.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   60.8   0.7   5.3e-13   49.4   0.0   4.2   3   0   0   3   3   3   1 uncharacterized protein LOC105684842 isoform X1 [Athalia rosae]
+XP_012253933.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-16   60.6   0.7   4.5e-13   49.6   0.0   3.8   3   0   0   3   3   3   2 uncharacterized protein LOC105684842 isoform X3 [Athalia rosae]
+XP_012253932.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-16   60.3   0.7   5.1e-13   49.5   0.0   3.8   3   0   0   3   3   3   2 uncharacterized protein LOC105684842 isoform X2 [Athalia rosae]
+XP_012267117.1       -          oskar_filtered.aligned.LOTUS_domain -              0.064   13.8   0.8        21    5.7   0.0   3.5   4   0   0   4   4   4   0 annexin B9-like isoform X2 [Athalia rosae]
+XP_012266642.1       -          oskar_filtered.aligned.LOTUS_domain -               0.21   12.2   0.0      0.51   10.9   0.0   1.7   1   0   0   1   1   1   0 cytochrome P450 4C1-like [Athalia rosae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000344095.2_Aros_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000344095.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000344095.2_Aros_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:00 2019
+# [ok]

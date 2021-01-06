@@ -1,0 +1,41 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBXE01082791.1_4     -          LOTUS_CONSENSUS      -            7.9e-13   54.5   0.0   1.9e-06   34.1   0.0   3.7   3   1   0   3   3   3   2 TSA: Carcinus maenas comp81978_c0_seq1 transcribed RNA sequence
+GBXE01099155.1_5     -          LOTUS_CONSENSUS      -            1.6e-10   47.1   0.0   5.6e-10   45.4   0.0   2.0   1   0   0   1   1   1   1 TSA: Carcinus maenas comp85776_c10_seq1 transcribed RNA sequence
+GBXE01099165.1_5     -          LOTUS_CONSENSUS      -            2.1e-10   46.7   0.0   6.1e-10   45.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Carcinus maenas comp85776_c10_seq11 transcribed RNA sequence
+GBXE01099159.1_5     -          LOTUS_CONSENSUS      -            2.6e-10   46.4   0.0   1.1e-09   44.4   0.0   2.2   1   0   0   1   1   1   1 TSA: Carcinus maenas comp85776_c10_seq5 transcribed RNA sequence
+GBXE01099161.1_5     -          LOTUS_CONSENSUS      -            2.7e-10   46.4   0.0   1.2e-09   44.4   0.0   2.2   1   0   0   1   1   1   1 TSA: Carcinus maenas comp85776_c10_seq7 transcribed RNA sequence
+GBXE01099158.1_6     -          LOTUS_CONSENSUS      -            3.2e-10   46.1   0.4   1.1e-09   44.4   0.0   2.2   2   0   0   2   2   1   1 TSA: Carcinus maenas comp85776_c10_seq4 transcribed RNA sequence
+GBXE01099160.1_6     -          LOTUS_CONSENSUS      -            3.3e-10   46.1   0.4   1.2e-09   44.3   0.0   2.2   2   0   0   2   2   1   1 TSA: Carcinus maenas comp85776_c10_seq6 transcribed RNA sequence
+GBXE01099173.1_6     -          LOTUS_CONSENSUS      -            4.2e-10   45.7   0.4   1.2e-09   44.3   0.0   2.0   2   0   0   2   2   1   1 TSA: Carcinus maenas comp85776_c10_seq19 transcribed RNA sequence
+GBXE01099172.1_4     -          LOTUS_CONSENSUS      -            4.5e-10   45.7   0.0   1.2e-09   44.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Carcinus maenas comp85776_c10_seq18 transcribed RNA sequence
+GBXE01099170.1_6     -          LOTUS_CONSENSUS      -            4.9e-10   45.5   0.4   1.3e-09   44.2   0.0   1.9   2   0   0   2   2   1   1 TSA: Carcinus maenas comp85776_c10_seq16 transcribed RNA sequence
+GBXE01099174.1_4     -          LOTUS_CONSENSUS      -            5.2e-10   45.5   0.0   1.3e-09   44.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Carcinus maenas comp85776_c10_seq20 transcribed RNA sequence
+GBXE01113873.1_2     -          LOTUS_CONSENSUS      -            1.4e-08   40.9   0.0   7.1e-08   38.6   0.0   2.3   2   0   0   2   2   1   1 TSA: Carcinus maenas comp87592_c0_seq1 transcribed RNA sequence
+GBXE01082792.1_5     -          LOTUS_CONSENSUS      -              0.033   20.5   0.0   1.1e+02    9.1   0.0   2.7   2   1   0   2   2   2   0 TSA: Carcinus maenas comp81978_c0_seq2 transcribed RNA sequence
+GBXE01141752.1_2     -          LOTUS_CONSENSUS      -              0.048   19.9   0.0   2.2e+03    5.0   0.0   5.3   5   1   1   6   6   5   0 TSA: Carcinus maenas comp90023_c6_seq21 transcribed RNA sequence
+GBXE01141735.1_1     -          LOTUS_CONSENSUS      -                0.3   17.4   0.0   3.6e+03    4.3   0.0   5.1   5   1   1   6   6   5   0 TSA: Carcinus maenas comp90023_c6_seq4 transcribed RNA sequence
+GBXE01141734.1_2     -          LOTUS_CONSENSUS      -               0.39   17.0   0.0   3.8e+03    4.2   0.0   5.1   5   1   1   6   6   5   0 TSA: Carcinus maenas comp90023_c6_seq3 transcribed RNA sequence
+GBXE01141750.1_2     -          LOTUS_CONSENSUS      -                0.4   17.0   0.0   3.8e+03    4.2   0.0   5.0   5   1   1   6   6   5   0 TSA: Carcinus maenas comp90023_c6_seq19 transcribed RNA sequence
+GBXE01141743.1_3     -          LOTUS_CONSENSUS      -                0.5   16.7   0.0     4e+03    4.2   0.0   5.0   5   1   1   6   6   5   0 TSA: Carcinus maenas comp90023_c6_seq12 transcribed RNA sequence
+GBXE01054174.1_1     -          LOTUS_CONSENSUS      -               0.69   16.2   0.1   4.2e+02    7.3   0.0   3.0   1   1   2   3   3   3   0 TSA: Carcinus maenas comp66296_c1_seq1 transcribed RNA sequence
+GBXE01141771.1_1     -          LOTUS_CONSENSUS      -                1.1   15.5   0.0     5e+03    3.9   0.0   4.9   4   1   1   5   5   5   0 TSA: Carcinus maenas comp90023_c6_seq40 transcribed RNA sequence
+GBXE01141744.1_1     -          LOTUS_CONSENSUS      -                1.1   15.5   0.0     5e+03    3.9   0.0   4.9   4   1   1   5   5   5   0 TSA: Carcinus maenas comp90023_c6_seq13 transcribed RNA sequence
+GBXE01141761.1_2     -          LOTUS_CONSENSUS      -                1.4   15.3   0.0   5.2e+03    3.8   0.0   4.8   4   1   1   5   5   5   0 TSA: Carcinus maenas comp90023_c6_seq30 transcribed RNA sequence
+GBXE01141765.1_2     -          LOTUS_CONSENSUS      -                1.4   15.3   0.0   5.2e+03    3.8   0.0   4.8   4   1   1   5   5   5   0 TSA: Carcinus maenas comp90023_c6_seq34 transcribed RNA sequence
+GBXE01141759.1_2     -          LOTUS_CONSENSUS      -                1.4   15.2   0.0   5.2e+03    3.8   0.0   4.8   4   1   1   5   5   5   0 TSA: Carcinus maenas comp90023_c6_seq28 transcribed RNA sequence
+GBXE01141753.1_2     -          LOTUS_CONSENSUS      -                1.4   15.2   0.0   5.2e+03    3.8   0.0   4.8   4   1   1   5   5   5   0 TSA: Carcinus maenas comp90023_c6_seq22 transcribed RNA sequence
+GBXE01141751.1_3     -          LOTUS_CONSENSUS      -                1.7   15.0   0.0   5.4e+03    3.8   0.0   4.7   4   1   1   5   5   4   0 TSA: Carcinus maenas comp90023_c6_seq20 transcribed RNA sequence
+GBXE01141768.1_3     -          LOTUS_CONSENSUS      -                1.7   15.0   0.0   5.4e+03    3.7   0.0   4.7   4   1   1   5   5   4   0 TSA: Carcinus maenas comp90023_c6_seq37 transcribed RNA sequence
+GBXE01023880.1_5     -          LOTUS_CONSENSUS      -                4.5   13.6   0.3        11   12.4   0.1   1.6   2   0   0   2   2   2   0 TSA: Carcinus maenas comp36729_c1_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBXE.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBXE.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBXE.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:09 2019
+# [ok]

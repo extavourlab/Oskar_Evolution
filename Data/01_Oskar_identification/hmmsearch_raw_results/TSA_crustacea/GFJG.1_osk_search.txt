@@ -1,0 +1,63 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFJG01046418.1_1     -          OSK_CONSENSUS        -            5.3e-06   31.4   0.0   6.1e-06   31.2   0.0   1.0   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR21313-c1_g1_i1 transcribed RNA sequence
+GFJG01119870.1_3     -          OSK_CONSENSUS        -            2.2e-05   29.4   0.2   2.7e-05   29.1   0.2   1.1   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR89845-c0_g1_i1 transcribed RNA sequence
+GFJG01055870.1_1     -          OSK_CONSENSUS        -            3.7e-05   28.7   0.2   4.5e-05   28.4   0.2   1.1   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR236214-c0_g1_i1 transcribed RNA sequence
+GFJG01013668.1_2     -          OSK_CONSENSUS        -            0.00059   24.8   0.0   0.00079   24.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR134033-c2_g5_i3 transcribed RNA sequence
+GFJG01074736.1_2     -          OSK_CONSENSUS        -            0.00096   24.1   0.0    0.0014   23.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR281850-c14_g1_i1 transcribed RNA sequence
+GFJG01050435.1_2     -          OSK_CONSENSUS        -             0.0014   23.5   0.6    0.0041   22.0   0.0   2.0   2   0   0   2   2   2   1 TSA: Eurypanopeus depressus TR223183-c2_g2_i2 transcribed RNA sequence
+GFJG01053611.1_3     -          OSK_CONSENSUS        -             0.0018   23.2   0.0    0.0043   22.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR230774-c1_g2_i1 transcribed RNA sequence
+GFJG01122682.1_2     -          OSK_CONSENSUS        -             0.0037   22.2   0.0    0.0069   21.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR96996-c15_g3_i5 transcribed RNA sequence
+GFJG01054525.1_3     -          OSK_CONSENSUS        -             0.0048   21.8   0.1    0.0084   21.0   0.1   1.4   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR233026-c1_g1_i5 transcribed RNA sequence
+GFJG01062180.1_1     -          OSK_CONSENSUS        -             0.0071   21.2   0.0     0.016   20.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR251358-c1_g3_i1 transcribed RNA sequence
+GFJG01062181.1_1     -          OSK_CONSENSUS        -             0.0084   21.0   0.1     0.017   20.1   0.1   1.4   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR251358-c1_g3_i2 transcribed RNA sequence
+GFJG01074737.1_1     -          OSK_CONSENSUS        -               0.01   20.7   0.0     0.015   20.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR281850-c14_g1_i2 transcribed RNA sequence
+GFJG01122680.1_1     -          OSK_CONSENSUS        -              0.013   20.4   0.3      0.04   18.8   0.0   1.8   2   0   0   2   2   2   0 TSA: Eurypanopeus depressus TR96996-c15_g3_i2 transcribed RNA sequence
+GFJG01122681.1_1     -          OSK_CONSENSUS        -              0.025   19.5   0.3     0.072   18.0   0.1   1.8   2   0   0   2   2   1   0 TSA: Eurypanopeus depressus TR96996-c15_g3_i3 transcribed RNA sequence
+GFJG01122679.1_2     -          OSK_CONSENSUS        -              0.025   19.5   0.1     0.072   18.0   0.1   1.7   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR96996-c15_g3_i1 transcribed RNA sequence
+GFJG01054526.1_1     -          OSK_CONSENSUS        -              0.033   19.1   0.1     0.056   18.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR233026-c1_g1_i6 transcribed RNA sequence
+GFJG01018744.1_2     -          OSK_CONSENSUS        -              0.049   18.5   0.0     0.072   18.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR146824-c0_g1_i8 transcribed RNA sequence
+GFJG01054521.1_3     -          OSK_CONSENSUS        -              0.053   18.4   0.2     0.092   17.6   0.2   1.4   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR233026-c1_g1_i10 transcribed RNA sequence
+GFJG01022717.1_2     -          OSK_CONSENSUS        -              0.069   18.0   0.4      0.21   16.5   0.2   1.9   2   0   0   2   2   1   0 TSA: Eurypanopeus depressus TR156370-c5_g3_i2 transcribed RNA sequence
+GFJG01060121.1_2     -          OSK_CONSENSUS        -               0.11   17.4   2.1      0.11   17.4   0.2   2.1   2   1   0   2   2   1   0 TSA: Eurypanopeus depressus TR246543-c0_g1_i1 transcribed RNA sequence
+GFJG01018743.1_2     -          OSK_CONSENSUS        -               0.11   17.3   0.1      0.12   17.2   0.1   1.0   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR146824-c0_g1_i7 transcribed RNA sequence
+GFJG01083860.1_3     -          OSK_CONSENSUS        -               0.22   16.4   0.0      0.32   15.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR303816-c0_g1_i1 transcribed RNA sequence
+GFJG01009691.1_3     -          OSK_CONSENSUS        -               0.25   16.2   0.8      0.25   16.2   0.8   3.2   3   0   0   3   3   2   0 TSA: Eurypanopeus depressus TR123989-c0_g1_i1 transcribed RNA sequence
+GFJG01058768.1_2     -          OSK_CONSENSUS        -               0.48   15.3   0.0      0.58   15.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR243446-c1_g1_i2 transcribed RNA sequence
+GFJG01035768.1_1     -          OSK_CONSENSUS        -                0.5   15.3   0.0      0.75   14.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR187615-c3_g1_i2 transcribed RNA sequence
+GFJG01104087.1_2     -          OSK_CONSENSUS        -               0.51   15.2   0.1      0.59   15.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR51437-c1_g2_i1 transcribed RNA sequence
+GFJG01035767.1_1     -          OSK_CONSENSUS        -               0.57   15.1   0.0      0.87   14.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR187615-c3_g1_i1 transcribed RNA sequence
+GFJG01058767.1_1     -          OSK_CONSENSUS        -               0.83   14.5   0.0       1.1   14.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR243446-c1_g1_i1 transcribed RNA sequence
+GFJG01075644.1_3     -          OSK_CONSENSUS        -                0.9   14.4   0.0         2   13.3   0.0   1.6   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR283949-c2_g1_i1 transcribed RNA sequence
+GFJG01047478.1_2     -          OSK_CONSENSUS        -               0.92   14.4   0.0       1.8   13.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR21576-c0_g1_i1 transcribed RNA sequence
+GFJG01122479.1_2     -          OSK_CONSENSUS        -               0.95   14.3   0.1        29    9.5   0.0   2.1   2   0   0   2   2   2   0 TSA: Eurypanopeus depressus TR96470-c0_g1_i1 transcribed RNA sequence
+GFJG01042471.1_3     -          OSK_CONSENSUS        -                  1   14.2   3.7       1.9   13.4   0.2   3.1   2   1   0   2   2   2   0 TSA: Eurypanopeus depressus TR203837-c4_g1_i1 transcribed RNA sequence
+GFJG01021834.1_2     -          OSK_CONSENSUS        -                  1   14.2   0.2       1.4   13.8   0.2   1.2   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR15431-c0_g1_i1 transcribed RNA sequence
+GFJG01113625.1_3     -          OSK_CONSENSUS        -                1.1   14.1   0.0       2.1   13.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR74624-c1_g1_i1 transcribed RNA sequence
+GFJG01089281.1_3     -          OSK_CONSENSUS        -                1.2   14.1   0.0       1.9   13.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR317876-c0_g1_i1 transcribed RNA sequence
+GFJG01101577.1_2     -          OSK_CONSENSUS        -                1.7   13.5   0.0       1.8   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR45245-c0_g1_i1 transcribed RNA sequence
+GFJG01101578.1_2     -          OSK_CONSENSUS        -                1.7   13.5   0.0       1.8   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR45245-c0_g1_i3 transcribed RNA sequence
+GFJG01035107.1_1     -          OSK_CONSENSUS        -                2.6   12.9   0.4       3.3   12.6   0.4   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR186096-c1_g1_i1 transcribed RNA sequence
+GFJG01040562.1_1     -          OSK_CONSENSUS        -                2.6   12.9   0.6        40    9.1   0.0   2.4   2   1   0   2   2   2   0 TSA: Eurypanopeus depressus TR199354-c0_g1_i1 transcribed RNA sequence
+GFJG01089284.1_2     -          OSK_CONSENSUS        -                2.7   12.9   0.0       6.4   11.6   0.0   1.6   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR317876-c0_g1_i13 transcribed RNA sequence
+GFJG01089292.1_3     -          OSK_CONSENSUS        -                2.8   12.8   0.0       6.4   11.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR317876-c0_g1_i5 transcribed RNA sequence
+GFJG01110310.1_3     -          OSK_CONSENSUS        -                2.9   12.8   0.5       5.1   12.0   0.2   1.5   2   0   0   2   2   1   0 TSA: Eurypanopeus depressus TR66489-c0_g1_i1 transcribed RNA sequence
+GFJG01123411.1_2     -          OSK_CONSENSUS        -                2.9   12.7   1.8       4.1   12.3   0.6   1.7   1   1   0   1   1   1   0 TSA: Eurypanopeus depressus TR99000-c0_g1_i1 transcribed RNA sequence
+GFJG01097688.1_2     -          OSK_CONSENSUS        -                3.2   12.6   0.4        10   11.0   0.0   1.9   2   0   0   2   2   2   0 TSA: Eurypanopeus depressus TR35779-c0_g2_i1 transcribed RNA sequence
+GFJG01097687.1_1     -          OSK_CONSENSUS        -                3.5   12.5   0.6       8.8   11.2   0.0   1.9   2   1   0   2   2   2   0 TSA: Eurypanopeus depressus TR35779-c0_g1_i1 transcribed RNA sequence
+GFJG01108186.1_1     -          OSK_CONSENSUS        -                3.5   12.5   0.0       3.9   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR61372-c1_g1_i1 transcribed RNA sequence
+GFJG01018603.1_2     -          OSK_CONSENSUS        -                3.8   12.4   0.8        24    9.8   0.1   2.5   3   0   0   3   3   2   0 TSA: Eurypanopeus depressus TR146374-c1_g1_i2 transcribed RNA sequence
+GFJG01018602.1_1     -          OSK_CONSENSUS        -                4.2   12.2   0.8        24    9.8   0.1   2.4   3   0   0   3   3   2   0 TSA: Eurypanopeus depressus TR146374-c1_g1_i1 transcribed RNA sequence
+GFJG01035617.1_1     -          OSK_CONSENSUS        -                4.6   12.1   0.0         5   12.0   0.0   1.0   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR187286-c1_g2_i2 transcribed RNA sequence
+GFJG01085720.1_3     -          OSK_CONSENSUS        -                5.8   11.8   6.3   1.4e+02    7.3   0.3   2.9   1   1   1   3   3   3   0 TSA: Eurypanopeus depressus TR30884-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFJG.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GFJG.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFJG.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:22 2019
+# [ok]

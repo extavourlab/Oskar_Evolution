@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENJ01066373.1_2     -          LOTUS_CONSENSUS      -            1.9e-17   68.8   0.0   2.2e-15   62.2   0.0   2.4   2   0   0   2   2   2   1 TSA: Phymatopus californicus k66_446922 transcribed RNA sequence
+GENJ01067685.1_2     -          LOTUS_CONSENSUS      -            1.9e-17   68.8   0.0   2.2e-15   62.2   0.0   2.4   2   0   0   2   2   2   1 TSA: Phymatopus californicus k66_459045 transcribed RNA sequence
+GENJ01111387.1_3     -          LOTUS_CONSENSUS      -            6.7e-17   67.0   0.0   5.6e-15   60.9   0.0   2.8   3   0   0   3   3   2   1 TSA: Phymatopus californicus k80_539439 transcribed RNA sequence
+GENJ01112507.1_6     -          LOTUS_CONSENSUS      -            2.1e-16   65.4   0.0   4.2e-16   64.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Phymatopus californicus k82_152904 transcribed RNA sequence
+GENJ01006765.1_2     -          LOTUS_CONSENSUS      -            0.00071   25.3   0.0    0.0011   24.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Phymatopus californicus k52_250964 transcribed RNA sequence
+GENJ01052241.1_2     -          LOTUS_CONSENSUS      -                1.9   14.3   0.8   2.4e+02    7.5   0.1   2.6   2   0   0   2   2   2   0 TSA: Phymatopus californicus k60_550451 transcribed RNA sequence
+GENJ01110388.1_4     -          LOTUS_CONSENSUS      -                2.9   13.7   1.9   2.3e+02    7.6   0.1   2.8   3   0   0   3   3   3   0 TSA: Phymatopus californicus k80_537090 transcribed RNA sequence
+GENJ01053733.1_5     -          LOTUS_CONSENSUS      -                3.1   13.6   1.9   2.4e+02    7.5   0.1   2.8   3   0   0   3   3   3   0 TSA: Phymatopus californicus k60_566311 transcribed RNA sequence
+GENJ01031455.1_5     -          LOTUS_CONSENSUS      -                3.3   13.5   1.9   2.4e+02    7.5   0.1   2.8   3   0   0   3   3   3   0 TSA: Phymatopus californicus k52_697715 transcribed RNA sequence
+GENJ01128886.1_4     -          LOTUS_CONSENSUS      -                3.8   13.3   0.8        43    9.9   0.1   1.9   1   1   1   2   2   2   0 TSA: Phymatopus californicus k88_246238 transcribed RNA sequence
+GENJ01046181.1_4     -          LOTUS_CONSENSUS      -                3.9   13.3   0.7   1.4e+02    8.3   0.1   2.2   2   0   0   2   2   2   0 TSA: Phymatopus californicus k58_231498 transcribed RNA sequence
+GENJ01020993.1_4     -          LOTUS_CONSENSUS      -                6.8   12.5   1.0   4.6e+02    6.6   0.1   2.7   2   0   0   2   2   2   0 TSA: Phymatopus californicus k52_677017 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:57 2019
+# [ok]

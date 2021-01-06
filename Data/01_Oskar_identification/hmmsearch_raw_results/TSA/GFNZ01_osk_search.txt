@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNZ01039032.1_6     -          OSK_CONSENSUS        -            4.7e-25   92.4   1.2   5.4e-25   92.2   1.2   1.0   1   0   0   1   1   1   1 TSA: Bactrocera musae TR17105_c0_g1_i1 transcribed RNA sequence
+GFNZ01062281.1_5     -          OSK_CONSENSUS        -               0.11   16.5   0.2      0.14   16.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Bactrocera musae TR39784_c0_g1_i1 transcribed RNA sequence
+GFNZ01055537.1_4     -          OSK_CONSENSUS        -                0.2   15.6   0.1      0.25   15.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Bactrocera musae TR33212_c0_g1_i1 transcribed RNA sequence
+GFNZ01050503.1_1     -          OSK_CONSENSUS        -               0.81   13.6   0.0        16    9.4   0.0   2.0   2   0   0   2   2   2   0 TSA: Bactrocera musae TR28294_c0_g1_i1 transcribed RNA sequence
+GFNZ01058836.1_4     -          OSK_CONSENSUS        -               0.95   13.4   0.0       1.7   12.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Bactrocera musae TR36408_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:57 2019
+# [ok]

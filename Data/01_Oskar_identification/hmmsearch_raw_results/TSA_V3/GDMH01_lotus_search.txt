@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDMH01025580.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-20   76.1   0.6   8.8e-20   73.9   0.1   2.3   2   1   0   2   2   2   1 TSA: Cicindela hybrida breed wildtype s8213_L_21490_0_a_47_4_l_1424, transcribed RNA sequence
+GDMH01019262.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-13   53.3   0.8   3.6e-13   52.7   0.0   1.7   2   0   0   2   2   2   1 TSA: Cicindela hybrida breed wildtype s2509_L_2555_1_a_55_0_l_2632, transcribed RNA sequence
+GDMH01025006.1_1     -          oskar_filtered.aligned.LOTUS_domain -              5e-06   29.7   0.0         4   10.8   0.0   4.4   4   1   1   5   5   5   2 TSA: Cicindela hybrida breed wildtype s7697_L_18541_0_a_23_1_l_2475, transcribed RNA sequence
+GDMH01008192.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.023   18.0   1.8     0.031   17.6   1.8   1.2   1   0   0   1   1   1   0 TSA: Cicindela hybrida breed wildtype C65720_a_3_0_l_257, transcribed RNA sequence
+GDMH01000624.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.4   12.3   0.3   1.2e+02    6.1   0.0   2.3   2   0   0   2   2   2   0 TSA: Cicindela hybrida breed wildtype C102332_a_9_0_l_1036, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDMH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDMH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDMH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:07 2019
+# [ok]

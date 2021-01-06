@@ -1,0 +1,43 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOP01067241.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-19   75.7   0.2     8e-19   73.1   0.2   2.5   1   0   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN26684_c0_g1_i1 transcribed RNA sequence
+GFOP01067242.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-19   75.4   0.2   8.3e-19   73.1   0.2   2.3   1   0   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN26684_c0_g1_i2 transcribed RNA sequence
+GFOP01067243.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-19   74.9   1.8   3.6e-19   74.2   0.2   2.3   2   0   0   2   2   1   1 TSA: Lepidotrigona ventralis TRINITY_DN26684_c0_g1_i3 transcribed RNA sequence
+GFOP01092282.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-15   61.1   3.6   1.4e-13   56.3   0.3   6.5   6   2   3   9   9   7   2 TSA: Lepidotrigona ventralis TRINITY_DN33641_c0_g2_i4 transcribed RNA sequence
+GFOP01092281.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-15   61.1   3.6   1.4e-13   56.3   0.3   6.5   6   2   3   9   9   6   2 TSA: Lepidotrigona ventralis TRINITY_DN33641_c0_g2_i3 transcribed RNA sequence
+GFOP01092279.1_2     -          oskar_filtered.aligned.LOTUS_domain -              5e-15   60.9   3.6   1.4e-13   56.3   0.3   5.7   5   1   0   5   5   4   2 TSA: Lepidotrigona ventralis TRINITY_DN33641_c0_g2_i1 transcribed RNA sequence
+GFOP01092284.1_2     -          oskar_filtered.aligned.LOTUS_domain -            8.6e-15   60.2   3.9   1.7e-13   56.0   0.4   5.7   5   1   0   5   5   4   2 TSA: Lepidotrigona ventralis TRINITY_DN33641_c0_g2_i6 transcribed RNA sequence
+GFOP01059052.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-11   49.0   0.0   3.7e-11   48.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN45143_c1_g1_i3 transcribed RNA sequence
+GFOP01059054.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-11   49.0   0.0     5e-11   48.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN45143_c1_g3_i1 transcribed RNA sequence
+GFOP01059050.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-11   48.9   0.0   1.9e-10   46.2   0.0   2.3   3   0   0   3   3   3   1 TSA: Lepidotrigona ventralis TRINITY_DN45143_c1_g1_i1 transcribed RNA sequence
+GFOP01059051.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-07   35.5   0.0   5.4e-07   35.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN45143_c1_g1_i2 transcribed RNA sequence
+GFOP01092531.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-06   31.1   0.0   2.8e-05   29.6   0.0   1.8   1   1   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN44948_c0_g1_i4 transcribed RNA sequence
+GFOP01092528.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-05   29.6   0.0   7.8e-05   28.2   0.0   1.8   1   1   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN44948_c0_g1_i1 transcribed RNA sequence
+GFOP01092530.1_1     -          oskar_filtered.aligned.LOTUS_domain -            0.00052   25.6   0.0    0.0029   23.2   0.0   2.3   2   0   0   2   2   2   1 TSA: Lepidotrigona ventralis TRINITY_DN44948_c0_g1_i3 transcribed RNA sequence
+GFOP01092529.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00077   25.0   0.0    0.0038   22.8   0.0   2.2   2   0   0   2   2   2   1 TSA: Lepidotrigona ventralis TRINITY_DN44948_c0_g1_i2 transcribed RNA sequence
+GFOP01034320.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0019   23.7   0.0    0.0043   22.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Lepidotrigona ventralis TRINITY_DN42578_c0_g1_i1 transcribed RNA sequence
+GFOP01095119.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0021   23.6   0.1      0.36   16.4   0.0   2.3   2   0   0   2   2   2   1 TSA: Lepidotrigona ventralis TRINITY_DN44045_c0_g1_i1 transcribed RNA sequence
+GFOP01095120.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.046   19.3   0.0       2.2   13.9   0.0   2.9   2   0   0   2   2   2   0 TSA: Lepidotrigona ventralis TRINITY_DN44045_c0_g1_i2 transcribed RNA sequence
+GFOP01091774.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.057   19.0   0.0       9.8   11.8   0.0   2.3   2   0   0   2   2   2   0 TSA: Lepidotrigona ventralis TRINITY_DN44773_c0_g2_i1 transcribed RNA sequence
+GFOP01091775.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.38   16.3   0.0        14   11.3   0.0   2.5   2   0   0   2   2   2   0 TSA: Lepidotrigona ventralis TRINITY_DN44773_c0_g2_i2 transcribed RNA sequence
+GFOP01059053.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.47   16.1   0.0      0.65   15.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN45143_c1_g2_i1 transcribed RNA sequence
+GFOP01105892.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.65   15.6   0.2      0.94   15.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN82026_c0_g1_i1 transcribed RNA sequence
+GFOP01117973.1_2     -          oskar_filtered.aligned.LOTUS_domain -                  1   15.0   0.0         1   15.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN52988_c0_g1_i1 transcribed RNA sequence
+GFOP01110001.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.3   14.7   0.4       1.6   14.4   0.4   1.1   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN57884_c0_g1_i1 transcribed RNA sequence
+GFOP01091776.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.4   0.0       3.2   13.4   0.0   1.6   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN44773_c0_g2_i3 transcribed RNA sequence
+GFOP01007587.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.6   14.4   0.1       2.1   14.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN49703_c0_g1_i1 transcribed RNA sequence
+GFOP01055881.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.4   13.8   0.0   5.7e+02    6.2   0.0   3.1   3   0   0   3   3   3   0 TSA: Lepidotrigona ventralis TRINITY_DN44299_c0_g1_i1 transcribed RNA sequence
+GFOP01055882.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.2   13.4   0.1     7e+02    5.9   0.0   3.2   3   0   0   3   3   3   0 TSA: Lepidotrigona ventralis TRINITY_DN44299_c0_g1_i2 transcribed RNA sequence
+GFOP01055884.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.5   13.3   0.0   3.5e+02    6.9   0.0   3.1   3   0   0   3   3   3   0 TSA: Lepidotrigona ventralis TRINITY_DN44299_c0_g1_i3 transcribed RNA sequence
+GFOP01017376.1_3     -          oskar_filtered.aligned.LOTUS_domain -                7.7   12.2   0.0        13   11.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Lepidotrigona ventralis TRINITY_DN44161_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:18 2019
+# [ok]

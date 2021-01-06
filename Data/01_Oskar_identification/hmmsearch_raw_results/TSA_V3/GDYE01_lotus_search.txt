@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYE01076282.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-24   89.7   0.0   1.1e-23   88.1   0.0   1.9   1   0   0   1   1   1   1 TSA: Ellipsidion sp. AD-2015 breed wildtype s20706_L_86058_0_a_23_8_l_1931, transcribed RNA sequence
+GDYE01016710.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-06   32.4   0.0   2.9e-06   32.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Ellipsidion sp. AD-2015 breed wildtype C249198_a_3_0_l_249, transcribed RNA sequence
+GDYE01077201.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-05   27.5   0.0        33    9.5   0.0   4.8   3   1   2   5   5   5   3 TSA: Ellipsidion sp. AD-2015 breed wildtype s21548_L_96237_0_a_34_0_l_3032, transcribed RNA sequence
+GDYE01061570.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.22   16.5   0.0      0.55   15.2   0.0   1.6   1   0   0   1   1   1   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C390303_a_72_0_l_1299, transcribed RNA sequence
+GDYE01037462.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.49   15.4   1.3       3.3   12.7   1.3   2.1   1   1   0   1   1   1   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C310028_a_3_0_l_369, transcribed RNA sequence
+GDYE01043293.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.69   14.9   0.1      0.89   14.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C328350_a_10_0_l_434, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:32 2019
+# [ok]

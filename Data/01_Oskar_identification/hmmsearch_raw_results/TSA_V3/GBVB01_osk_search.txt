@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVB01016779.1_5     -          oskar_filtered.aligned.OSK_domain -               0.12   15.6   1.7       1.7   11.8   0.7   2.1   1   1   0   2   2   2   0 TSA: Inostemma sp. AD-2014 C185299_a_3_0_l_710 transcribed RNA sequence
+GBVB01016584.1_1     -          oskar_filtered.aligned.OSK_domain -               0.15   15.2   2.2       0.2   14.8   2.2   1.3   1   0   0   1   1   1   0 TSA: Inostemma sp. AD-2014 C184250_a_4_0_l_681 transcribed RNA sequence
+GBVB01006972.1_5     -          oskar_filtered.aligned.OSK_domain -               0.27   14.4   1.8       0.3   14.3   1.8   1.1   1   0   0   1   1   1   0 TSA: Inostemma sp. AD-2014 C142223_a_10_0_l_276 transcribed RNA sequence
+GBVB01006751.1_3     -          oskar_filtered.aligned.OSK_domain -               0.76   12.9   0.0      0.95   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Inostemma sp. AD-2014 C141393_a_7_0_l_273 transcribed RNA sequence
+GBVB01006920.1_5     -          oskar_filtered.aligned.OSK_domain -                1.3   12.2   0.0       1.3   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Inostemma sp. AD-2014 C142053_a_3_0_l_275 transcribed RNA sequence
+GBVB01018312.1_6     -          oskar_filtered.aligned.OSK_domain -                6.6    9.9   6.3        18    8.5   0.2   2.2   2   0   0   2   2   2   0 TSA: Inostemma sp. AD-2014 C192736_a_9_0_l_993 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:44 2019
+# [ok]

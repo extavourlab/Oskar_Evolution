@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWN02043775.1_5     -          oskar_filtered.aligned.OSK_domain -            4.2e-28  102.3   0.9   4.9e-28  102.0   0.9   1.1   1   0   0   1   1   1   1 TSA: Galloisiana yuasai s4817_L_7397_1_a_25_0_l_906 transcribed RNA sequence
+GAWN02043774.1_5     -          oskar_filtered.aligned.OSK_domain -            5.6e-28  101.9   0.9   6.9e-28  101.6   0.9   1.2   1   0   0   1   1   1   1 TSA: Galloisiana yuasai s4816_L_7397_0_a_24_0_l_1017 transcribed RNA sequence
+GAWN02045992.1_1     -          oskar_filtered.aligned.OSK_domain -            6.4e-21   78.8   0.0   6.8e-21   78.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Galloisiana yuasai s6813_L_12214_1_a_6_4_l_917 transcribed RNA sequence
+GAWN02021695.1_5     -          oskar_filtered.aligned.OSK_domain -            4.6e-18   69.5   0.0   5.6e-18   69.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Galloisiana yuasai C164310_a_5_0_l_475 transcribed RNA sequence
+GAWN02011187.1_3     -          oskar_filtered.aligned.OSK_domain -              2e-06   31.5   0.1   2.4e-06   31.3   0.1   1.1   1   0   0   1   1   1   1 TSA: Galloisiana yuasai C131483_a_5_0_l_285 transcribed RNA sequence
+GAWN02047259.1_3     -          oskar_filtered.aligned.OSK_domain -               0.54   13.9   0.0      0.64   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Galloisiana yuasai s7959_L_16139_0_a_6_7_l_514 transcribed RNA sequence
+GAWN02048577.1_4     -          oskar_filtered.aligned.OSK_domain -                2.5   11.7   0.0         3   11.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Galloisiana yuasai s9147_L_24104_0_a_46_2_l_655 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWN02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWN02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWN02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:13 2019
+# [ok]

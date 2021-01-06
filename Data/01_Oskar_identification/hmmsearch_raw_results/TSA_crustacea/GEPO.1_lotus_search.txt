@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPO01019316.1_2     -          LOTUS_CONSENSUS      -               0.23   16.1   0.1      0.44   15.2   0.1   1.5   1   1   0   1   1   1   0 TSA: Eucarinogammarus wagii c40917_g1_i1 transcribed RNA sequence
+GEPO01036113.1_4     -          LOTUS_CONSENSUS      -               0.79   14.4   0.5       2.4   12.9   0.1   2.0   2   0   0   2   2   2   0 TSA: Eucarinogammarus wagii c53092_g3_i1 transcribed RNA sequence
+GEPO01021019.1_2     -          LOTUS_CONSENSUS      -               0.93   14.2   0.2       1.7   13.3   0.2   1.5   1   1   0   1   1   1   0 TSA: Eucarinogammarus wagii c42519_g1_i2 transcribed RNA sequence
+GEPO01021018.1_2     -          LOTUS_CONSENSUS      -                  1   14.0   0.6       2.3   12.9   0.6   1.7   1   1   0   1   1   1   0 TSA: Eucarinogammarus wagii c42519_g1_i1 transcribed RNA sequence
+GEPO01020951.1_2     -          LOTUS_CONSENSUS      -                2.6   12.8   0.0       5.3   11.7   0.0   1.5   1   1   1   2   2   2   0 TSA: Eucarinogammarus wagii c42460_g3_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPO.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPO.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPO.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:18 2019
+# [ok]

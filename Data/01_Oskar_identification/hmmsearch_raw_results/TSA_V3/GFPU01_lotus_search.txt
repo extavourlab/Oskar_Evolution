@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFPU01007920.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-19   73.8   0.3   1.4e-18   70.6   0.0   2.7   2   1   0   2   2   2   1 TSA: Timema douglasi Tdi_TRINITY_DN26613_c0_g1_i1 transcribed RNA sequence
+GFPU01014820.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.21   15.4   0.2       0.4   14.5   0.2   1.4   1   0   0   1   1   1   0 TSA: Timema douglasi Tdi_TRINITY_DN67090_c0_g1_i1 transcribed RNA sequence
+GFPU01029779.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.53   14.1   0.5       2.1   12.2   0.1   2.3   2   0   0   2   2   2   0 TSA: Timema douglasi Tdi_TRINITY_DN12909_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFPU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:32 2019
+# [ok]

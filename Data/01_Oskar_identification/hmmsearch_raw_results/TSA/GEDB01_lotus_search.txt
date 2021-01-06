@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEDB01027857.1_5     -          LOTUS_CONSENSUS      -            3.4e-27  100.1   0.1   9.8e-27   98.7   0.1   1.8   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028536 transcribed RNA sequence
+GEDB01017144.1_6     -          LOTUS_CONSENSUS      -            9.9e-21   79.4   2.4   1.4e-18   72.5   0.0   3.0   2   0   0   2   2   2   1 TSA: Polistes dominula PdomTSAr1.2-017164 transcribed RNA sequence
+GEDB01017143.1_4     -          LOTUS_CONSENSUS      -            4.7e-20   77.3   6.4   6.9e-19   73.5   0.0   2.8   3   0   0   3   3   2   1 TSA: Polistes dominula PdomTSAr1.2-017163 transcribed RNA sequence
+GEDB01027856.1_6     -          LOTUS_CONSENSUS      -            7.8e-16   63.7   0.0   2.4e-15   62.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028535 transcribed RNA sequence
+GEDB01027858.1_4     -          LOTUS_CONSENSUS      -              1e-15   63.4   0.0   2.9e-15   61.9   0.0   1.8   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028537 transcribed RNA sequence
+GEDB01021954.1_2     -          LOTUS_CONSENSUS      -            1.9e-07   36.9  21.0   2.5e-06   33.2   0.0   6.1   5   2   1   6   6   5   2 TSA: Polistes dominula PdomTSAr1.2-021974 transcribed RNA sequence
+GEDB01021955.1_2     -          LOTUS_CONSENSUS      -            2.5e-07   36.5  18.0   2.9e-06   33.1   0.0   5.4   6   0   0   6   6   4   2 TSA: Polistes dominula PdomTSAr1.2-021975 transcribed RNA sequence
+GEDB01014340.1_2     -          LOTUS_CONSENSUS      -            0.00015   27.5   0.4       1.1   15.1   0.0   5.8   2   1   3   5   5   4   1 TSA: Polistes dominula PdomTSAr1.2-014360 transcribed RNA sequence
+GEDB01027856.1_4     -          LOTUS_CONSENSUS      -            0.00022   27.0   0.1    0.0005   25.9   0.1   1.6   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028535 transcribed RNA sequence
+GEDB01027858.1_5     -          LOTUS_CONSENSUS      -            0.00028   26.7   0.1   0.00058   25.7   0.1   1.6   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028537 transcribed RNA sequence
+GEDB01014341.1_3     -          LOTUS_CONSENSUS      -            0.00034   26.4   0.1       1.4   14.8   0.0   5.6   1   1   4   5   5   5   1 TSA: Polistes dominula PdomTSAr1.2-014361 transcribed RNA sequence
+GEDB01014339.1_2     -          LOTUS_CONSENSUS      -            0.00034   26.4   0.0       1.4   14.8   0.0   5.6   1   1   4   5   5   5   1 TSA: Polistes dominula PdomTSAr1.2-014359 transcribed RNA sequence
+GEDB01014337.1_2     -          LOTUS_CONSENSUS      -            0.00037   26.3   0.0       1.5   14.8   0.0   5.6   1   1   4   5   5   5   1 TSA: Polistes dominula PdomTSAr1.2-014357 transcribed RNA sequence
+GEDB01014338.1_1     -          LOTUS_CONSENSUS      -            0.00049   25.9   0.0       1.5   14.7   0.0   5.4   1   1   5   6   6   6   1 TSA: Polistes dominula PdomTSAr1.2-014358 transcribed RNA sequence
+GEDB01014342.1_2     -          LOTUS_CONSENSUS      -            0.00056   25.7   0.1       1.6   14.7   0.0   5.5   1   1   5   6   6   6   1 TSA: Polistes dominula PdomTSAr1.2-014362 transcribed RNA sequence
+GEDB01094147.1_5     -          LOTUS_CONSENSUS      -                1.5   14.7   1.2       3.8   13.4   1.2   1.6   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-096239 transcribed RNA sequence
+GEDB01029739.1_2     -          LOTUS_CONSENSUS      -                2.7   13.9   0.2         3   13.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-030547 transcribed RNA sequence
+GEDB01083157.1_4     -          LOTUS_CONSENSUS      -                3.6   13.5   1.1       4.1   13.3   1.1   1.1   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-085195 transcribed RNA sequence
+GEDB01024982.1_6     -          LOTUS_CONSENSUS      -                5.4   12.9   1.5   3.8e+02    7.0   0.1   2.7   3   0   0   3   3   3   0 TSA: Polistes dominula PdomTSAr1.2-025188 transcribed RNA sequence
+GEDB01009154.1_6     -          LOTUS_CONSENSUS      -                  6   12.8   1.3   4.3e+02    6.9   0.1   2.8   3   0   0   3   3   3   0 TSA: Polistes dominula PdomTSAr1.2-009171 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEDB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:18 2019
+# [ok]

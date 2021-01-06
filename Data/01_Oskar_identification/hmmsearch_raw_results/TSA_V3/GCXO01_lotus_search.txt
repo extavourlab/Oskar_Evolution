@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXO01065084.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-20   77.4   0.0   1.3e-19   75.1   0.0   2.2   2   0   0   2   2   2   1 TSA: Ladella sp. AD-2014 breed wildtype C700244_4_0, transcribed RNA sequence
+GCXO01008150.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0066   21.5   0.0    0.0076   21.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Ladella sp. AD-2014 breed wildtype C497486_14_0, transcribed RNA sequence
+GCXO01053943.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.02   20.0   1.4       1.2   14.3   0.0   2.4   3   0   0   3   3   3   0 TSA: Ladella sp. AD-2014 breed wildtype C652856_3_0, transcribed RNA sequence
+GCXO01006484.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.067   18.3   0.0     0.081   18.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype C492352_2_0, transcribed RNA sequence
+GCXO01033730.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.26   16.4   0.3        81    8.4   0.1   2.0   2   0   0   2   2   2   0 TSA: Ladella sp. AD-2014 breed wildtype C580849_2_0, transcribed RNA sequence
+GCXO01073437.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.28   16.3   0.0      0.82   14.8   0.0   1.8   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype s1718_L_2448_1_40_5_COMPLEX, transcribed RNA sequence
+GCXO01014054.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.29   16.3   0.1      0.32   16.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype C516084_3_0, transcribed RNA sequence
+GCXO01073471.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.78   14.9   0.0       1.7   13.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype s1721_L_2448_4_29_4_COMPLEX, transcribed RNA sequence
+GCXO01000346.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.3   14.2   0.1       1.4   14.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype C473183_2_0, transcribed RNA sequence
+GCXO01073426.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.8   0.0       5.6   12.1   0.0   1.9   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype s1717_L_2448_0_44_3_COMPLEX, transcribed RNA sequence
+GCXO01073460.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.5   13.3   0.0       7.5   11.7   0.0   1.8   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype s1720_L_2448_3_45_9_COMPLEX, transcribed RNA sequence
+GCXO01021500.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.5   12.8   0.1       4.1   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype C540179_4_0, transcribed RNA sequence
+GCXO01042902.1_2     -          oskar_filtered.aligned.LOTUS_domain -                6.4   11.9   2.0        13   10.9   2.0   1.7   1   1   0   1   1   1   0 TSA: Ladella sp. AD-2014 breed wildtype C612410_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:51 2019
+# [ok]

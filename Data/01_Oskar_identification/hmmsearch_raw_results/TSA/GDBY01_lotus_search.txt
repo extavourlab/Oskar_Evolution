@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBY01002490.1_5     -          LOTUS_CONSENSUS      -            6.9e-21   78.2   0.0   7.7e-21   78.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Ptilocerembia catherinae breed breeding C106234_a_7_0_l_283, transcribed RNA sequence
+GDBY01023121.1_6     -          LOTUS_CONSENSUS      -              1e-13   55.3   0.3   1.9e-12   51.2   0.0   2.6   2   1   0   2   2   2   1 TSA: Ptilocerembia catherinae breed breeding C165897_a_5_0_l_1132, transcribed RNA sequence
+GDBY01025421.1_4     -          LOTUS_CONSENSUS      -            2.8e-10   44.2   0.1    0.0055   20.9   0.0   2.7   2   0   0   2   2   2   2 TSA: Ptilocerembia catherinae breed breeding C172736_a_8_0_l_1737, transcribed RNA sequence
+GDBY01023893.1_2     -          LOTUS_CONSENSUS      -            8.4e-09   39.5   0.3     2e-05   28.7   0.1   3.2   3   0   0   3   3   3   2 TSA: Ptilocerembia catherinae breed breeding C168199_a_6_0_l_1280, transcribed RNA sequence
+GDBY01026691.1_6     -          LOTUS_CONSENSUS      -               0.06   17.5   0.0   3.9e+02    5.3   0.0   5.0   2   1   2   5   5   5   0 TSA: Ptilocerembia catherinae breed breeding C176526_a_12_0_l_4342, transcribed RNA sequence
+GDBY01020638.1_5     -          LOTUS_CONSENSUS      -               0.11   16.6   0.2      0.35   15.1   0.0   1.8   2   0   0   2   2   2   0 TSA: Ptilocerembia catherinae breed breeding C158369_a_11_0_l_835, transcribed RNA sequence
+GDBY01028090.1_4     -          LOTUS_CONSENSUS      -               0.86   13.8   0.4         1   13.5   0.4   1.1   1   0   0   1   1   1   0 TSA: Ptilocerembia catherinae breed breeding C77627_a_3_0_l_215, transcribed RNA sequence
+GDBY01039129.1_6     -          LOTUS_CONSENSUS      -                1.3   13.2   0.0        20    9.5   0.0   2.4   2   0   0   2   2   2   0 TSA: Ptilocerembia catherinae breed breeding s3004_L_4223_1_a_8_7_l_2798, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:36 2019
+# [ok]

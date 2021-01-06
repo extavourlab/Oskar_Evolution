@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXQ01012141.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-20   75.7   0.0   4.9e-20   75.7   0.0   2.8   3   0   0   3   3   3   1 TSA: Pseudomasaris vespoides comp8581_c0_seq1 transcribed RNA sequence
+GAXQ01012143.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-20   75.6   0.0   5.3e-20   75.6   0.0   2.7   3   0   0   3   3   3   1 TSA: Pseudomasaris vespoides comp8581_c0_seq3 transcribed RNA sequence
+GAXQ01012142.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-20   75.6   0.0   5.3e-20   75.6   0.0   2.7   3   0   0   3   3   3   1 TSA: Pseudomasaris vespoides comp8581_c0_seq2 transcribed RNA sequence
+GAXQ01044501.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-12   51.8   0.0   1.6e-12   51.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Pseudomasaris vespoides comp81718_c0_seq1 transcribed RNA sequence
+GAXQ01010898.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-05   28.3   0.0        41    8.5   0.0   5.4   2   1   2   4   4   4   2 TSA: Pseudomasaris vespoides comp8202_c0_seq1 transcribed RNA sequence
+GAXQ01037592.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.091   17.0   0.1      0.32   15.3   0.0   2.0   2   0   0   2   2   2   0 TSA: Pseudomasaris vespoides comp30335_c0_seq1 transcribed RNA sequence
+GAXQ01041209.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.91   13.8   1.1       1.3   13.3   0.6   1.5   1   1   1   2   2   2   0 TSA: Pseudomasaris vespoides comp55519_c0_seq1 transcribed RNA sequence
+GAXQ01042507.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.1   0.2       1.8   12.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Pseudomasaris vespoides comp64916_c0_seq1 transcribed RNA sequence
+GAXQ01007797.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.9   12.8   2.3   2.1e+02    6.2   0.1   3.5   4   0   0   4   4   4   0 TSA: Pseudomasaris vespoides comp6795_c0_seq2 transcribed RNA sequence
+GAXQ01007796.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.3   12.0   1.2   3.1e+02    5.7   0.1   3.3   3   0   0   3   3   3   0 TSA: Pseudomasaris vespoides comp6795_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:41 2019
+# [ok]

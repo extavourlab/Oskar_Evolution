@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012229836.1       -          LOTUS_CONSENSUS      -            2.3e-26   92.2   0.5   7.9e-26   90.5   0.0   2.2   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC105676478 [Linepithema humile]
+XP_012231718.1       -          LOTUS_CONSENSUS      -            6.4e-22   78.0   0.0   3.1e-20   72.6   0.0   3.0   2   0   0   2   2   2   1 PREDICTED: LOW QUALITY PROTEIN: tudor domain-containing protein 7-like [Linepithema humile]
+XP_012228560.1       -          LOTUS_CONSENSUS      -            1.6e-16   60.7   0.1   1.5e-11   44.8   0.0   4.3   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC105675758 isoform X1 [Linepithema humile]
+XP_012228561.1       -          LOTUS_CONSENSUS      -            1.6e-16   60.7   0.1   1.5e-11   44.8   0.0   4.3   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC105675758 isoform X1 [Linepithema humile]
+XP_012228562.1       -          LOTUS_CONSENSUS      -            1.6e-16   60.7   0.1   1.5e-11   44.8   0.0   4.3   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC105675758 isoform X1 [Linepithema humile]
+XP_012228563.1       -          LOTUS_CONSENSUS      -            4.6e-13   49.6   0.1   1.4e-11   44.8   0.0   3.6   5   0   0   5   5   5   1 PREDICTED: uncharacterized protein LOC105675758 isoform X2 [Linepithema humile]
+XP_012234168.1       -          LOTUS_CONSENSUS      -             0.0002   21.9   0.0       1.5    9.4   0.0   5.1   3   1   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X2 [Linepithema humile]
+XP_012234167.1       -          LOTUS_CONSENSUS      -            0.00052   20.6   0.0       1.8    9.2   0.0   5.0   3   1   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Linepithema humile]
+XP_012229215.1       -          LOTUS_CONSENSUS      -              0.053   14.1   2.7      0.37   11.4   0.2   3.5   2   2   0   2   2   2   0 PREDICTED: uncharacterized protein LOC105676134 [Linepithema humile]
+XP_012235177.1       -          LOTUS_CONSENSUS      -              0.062   13.9   0.2        19    5.9   0.1   2.6   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC105679623 [Linepithema humile]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000217595.1_Lhum_UMD_V04_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000217595.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000217595.1_Lhum_UMD_V04_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:01 2019
+# [ok]

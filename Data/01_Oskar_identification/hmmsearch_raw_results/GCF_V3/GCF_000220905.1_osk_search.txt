@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012143765.1       -          oskar_filtered.aligned.OSK_domain -              0.057   13.6   0.5     0.068   13.4   0.5   1.2   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC100878228 [Megachile rotundata]
+XP_012146956.1       -          oskar_filtered.aligned.OSK_domain -               0.12   12.6   0.7      0.27   11.4   0.7   1.7   1   0   0   1   1   1   0 PREDICTED: regulator of G-protein signaling loco isoform X3 [Megachile rotundata]
+XP_012146955.1       -          oskar_filtered.aligned.OSK_domain -               0.12   12.6   0.7      0.29   11.3   0.7   1.7   1   0   0   1   1   1   0 PREDICTED: regulator of G-protein signaling loco isoform X2 [Megachile rotundata]
+XP_003705980.1       -          oskar_filtered.aligned.OSK_domain -               0.12   12.5   0.7      0.29   11.3   0.7   1.7   1   0   0   1   1   1   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Megachile rotundata]
+XP_012146958.1       -          oskar_filtered.aligned.OSK_domain -               0.41   10.8   2.7         1    9.5   2.6   1.8   1   1   0   1   1   1   0 PREDICTED: regulator of G-protein signaling loco isoform X4 [Megachile rotundata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000220905.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:04 2019
+# [ok]

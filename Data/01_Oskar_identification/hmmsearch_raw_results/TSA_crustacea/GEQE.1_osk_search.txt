@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQE01015277.1_3     -          OSK_CONSENSUS        -               0.13   16.8   0.3      0.17   16.4   0.3   1.3   1   0   0   1   1   1   0 TSA: Gmelinoides fasciatus c24366_g1_i1 transcribed RNA sequence
+GEQE01076147.1_2     -          OSK_CONSENSUS        -               0.25   15.8   0.4      0.25   15.8   0.4   1.0   1   0   0   1   1   1   0 TSA: Gmelinoides fasciatus c71601_g1_i1 transcribed RNA sequence
+GEQE01014028.1_4     -          OSK_CONSENSUS        -               0.61   14.5   0.1      0.69   14.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Gmelinoides fasciatus c22382_g1_i1 transcribed RNA sequence
+GEQE01053396.1_2     -          OSK_CONSENSUS        -               0.81   14.1   0.1       1.3   13.5   0.1   1.4   1   0   0   1   1   1   0 TSA: Gmelinoides fasciatus c54752_g1_i2 transcribed RNA sequence
+GEQE01077461.1_5     -          OSK_CONSENSUS        -               0.91   14.0   1.5         1   13.8   1.0   1.4   1   1   1   2   2   2   0 TSA: Gmelinoides fasciatus c73132_g1_i1 transcribed RNA sequence
+GEQE01053397.1_1     -          OSK_CONSENSUS        -               0.95   13.9   0.3         2   12.9   0.0   1.6   2   0   0   2   2   2   0 TSA: Gmelinoides fasciatus c54752_g1_i3 transcribed RNA sequence
+GEQE01032129.1_2     -          OSK_CONSENSUS        -               0.96   13.9   0.0       1.5   13.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Gmelinoides fasciatus c43858_g1_i1 transcribed RNA sequence
+GEQE01090766.1_4     -          OSK_CONSENSUS        -                1.8   13.0   0.3       2.1   12.8   0.3   1.0   1   0   0   1   1   1   0 TSA: Gmelinoides fasciatus c88708_g1_i1 transcribed RNA sequence
+GEQE01060539.1_2     -          OSK_CONSENSUS        -                4.7   11.7   0.0     2e+02    6.3   0.0   2.0   1   1   1   2   2   2   0 TSA: Gmelinoides fasciatus c57173_g3_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQE.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQE.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQE.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:06 2019
+# [ok]

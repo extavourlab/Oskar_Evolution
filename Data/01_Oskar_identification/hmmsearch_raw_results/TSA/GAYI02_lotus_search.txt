@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYI02052772.1_4     -          LOTUS_CONSENSUS      -             0.0031   22.3   0.0    0.0056   21.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Xenophysella greensladeae C284544_a_4_0_l_1039 transcribed RNA sequence
+GAYI02050174.1_6     -          LOTUS_CONSENSUS      -                1.2   14.0   0.0        89    8.0   0.0   2.3   2   0   0   2   2   2   0 TSA: Xenophysella greensladeae C275150_a_5_0_l_798 transcribed RNA sequence
+GAYI02028391.1_6     -          LOTUS_CONSENSUS      -                1.9   13.3   0.0        17   10.3   0.0   1.9   1   1   1   2   2   2   0 TSA: Xenophysella greensladeae C206745_a_8_0_l_290 transcribed RNA sequence
+GAYI02038039.1_2     -          LOTUS_CONSENSUS      -                7.3   11.5   1.8        36    9.3   0.1   2.1   2   0   0   2   2   2   0 TSA: Xenophysella greensladeae C235520_a_12_0_l_401 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYI02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYI02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYI02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:38 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_020295929.1       -          LOTUS_CONSENSUS      -            6.9e-22   78.0   0.2   2.7e-20   72.9   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7A isoform X1 [Pseudomyrmex gracilis]
+XP_020295930.1       -          LOTUS_CONSENSUS      -            2.9e-21   76.0   0.2   1.2e-19   70.8   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Pseudomyrmex gracilis]
+XP_020295931.1       -          LOTUS_CONSENSUS      -            2.9e-21   76.0   0.2   1.2e-19   70.8   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Pseudomyrmex gracilis]
+XP_020295932.1       -          LOTUS_CONSENSUS      -            2.9e-21   76.0   0.2   1.2e-19   70.8   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Pseudomyrmex gracilis]
+XP_020286926.1       -          LOTUS_CONSENSUS      -            2.7e-16   60.1   2.2   2.5e-09   37.7   0.0   3.6   3   0   0   3   3   3   2 uncharacterized protein LOC109856261 isoform X2 [Pseudomyrmex gracilis]
+XP_020286918.1       -          LOTUS_CONSENSUS      -              3e-14   53.5  10.0   2.6e-09   37.7   0.0   4.3   4   0   0   4   4   4   2 uncharacterized protein LOC109856261 isoform X1 [Pseudomyrmex gracilis]
+XP_020292240.1       -          LOTUS_CONSENSUS      -            4.9e-05   24.0   0.0      0.48   11.2   0.0   4.9   4   1   1   5   5   5   1 meiosis arrest female protein 1 isoform X4 [Pseudomyrmex gracilis]
+XP_020292239.1       -          LOTUS_CONSENSUS      -             0.0001   23.0   0.0      0.58   10.9   0.0   4.8   4   1   1   5   5   5   1 meiosis arrest female protein 1 isoform X3 [Pseudomyrmex gracilis]
+XP_020292238.1       -          LOTUS_CONSENSUS      -            0.00011   22.9   0.0      0.59   10.9   0.0   4.8   4   1   1   5   5   5   1 meiosis arrest female protein 1 isoform X2 [Pseudomyrmex gracilis]
+XP_020292237.1       -          LOTUS_CONSENSUS      -            0.00013   22.6   0.0      0.63   10.8   0.0   4.8   4   1   1   5   5   4   1 meiosis arrest female protein 1 isoform X1 [Pseudomyrmex gracilis]
+XP_020292121.1       -          LOTUS_CONSENSUS      -              0.084   13.6   0.1      0.25   12.1   0.1   1.8   2   0   0   2   2   1   0 succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial-like [Pseudomyrmex gracilis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002006095.1_ASM200609v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002006095.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002006095.1_ASM200609v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:46 2019
+# [ok]

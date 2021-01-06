@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVP01012796.1_2     -          OSK_CONSENSUS        -               0.28   14.1   0.4      0.29   14.1   0.4   1.1   1   0   0   1   1   1   0 TSA: Nomioides sp. AD-2014 C66946_a_5_0_l_252 transcribed RNA sequence
+GBVP01020125.1_3     -          OSK_CONSENSUS        -               0.46   13.4   0.9      0.46   13.4   0.9   1.8   1   1   1   2   2   2   0 TSA: Nomioides sp. AD-2014 C90038_a_7_0_l_424 transcribed RNA sequence
+GBVP01013644.1_2     -          OSK_CONSENSUS        -                0.5   13.3   1.0      0.54   13.2   1.0   1.1   1   0   0   1   1   1   0 TSA: Nomioides sp. AD-2014 C69108_a_13_0_l_259 transcribed RNA sequence
+GBVP01019516.1_1     -          OSK_CONSENSUS        -               0.78   12.7   0.0      0.96   12.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Nomioides sp. AD-2014 C87906_a_20_0_l_402 transcribed RNA sequence
+GBVP01022649.1_6     -          OSK_CONSENSUS        -                1.6   11.7   0.7        40    7.1   0.1   2.3   1   1   1   2   2   2   0 TSA: Nomioides sp. AD-2014 C99591_a_5_0_l_556 transcribed RNA sequence
+GBVP01013027.1_3     -          OSK_CONSENSUS        -                1.7   11.6   0.0        18    8.2   0.0   1.8   1   1   1   2   2   2   0 TSA: Nomioides sp. AD-2014 C67500_a_3_0_l_254 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:13 2019
+# [ok]

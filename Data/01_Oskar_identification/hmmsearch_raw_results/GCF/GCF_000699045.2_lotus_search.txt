@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018321654.1       -          LOTUS_CONSENSUS      -            1.8e-18   67.0   1.1   1.1e-15   58.0   0.1   3.1   3   0   0   3   3   3   2 tudor domain-containing protein 7 isoform X2 [Agrilus planipennis]
+XP_018333463.1       -          LOTUS_CONSENSUS      -            6.2e-18   65.2   2.8   4.1e-13   49.8   0.1   3.5   3   0   0   3   3   3   2 tudor domain-containing protein 5-like isoform X2 [Agrilus planipennis]
+XP_018321651.1       -          LOTUS_CONSENSUS      -            9.5e-18   64.6   0.9   1.1e-15   58.0   0.1   3.1   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Agrilus planipennis]
+XP_018321652.1       -          LOTUS_CONSENSUS      -            9.5e-18   64.6   0.9   1.1e-15   58.0   0.1   3.1   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Agrilus planipennis]
+XP_018333462.1       -          LOTUS_CONSENSUS      -            9.2e-17   61.5   5.5   7.1e-13   49.0   0.1   3.9   4   0   0   4   4   4   2 uncharacterized protein LOC108742670 isoform X1 [Agrilus planipennis]
+XP_025836485.1       -          LOTUS_CONSENSUS      -            2.1e-06   28.3   0.7      0.29   11.8   0.0   4.6   5   1   1   6   6   6   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Agrilus planipennis]
+XP_025836484.1       -          LOTUS_CONSENSUS      -            4.7e-06   27.1   0.5      0.38   11.4   0.0   4.6   4   1   0   4   4   4   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Agrilus planipennis]
+XP_018324839.1       -          LOTUS_CONSENSUS      -              0.022   15.4   0.0      0.41   11.3   0.1   2.5   2   0   0   2   2   2   0 uncharacterized protein LOC108736776 [Agrilus planipennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699045.2_Apla_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000699045.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699045.2_Apla_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:51 2019
+# [ok]

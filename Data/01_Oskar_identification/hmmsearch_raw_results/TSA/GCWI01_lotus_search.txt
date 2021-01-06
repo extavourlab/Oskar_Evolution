@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWI01064528.1_2     -          LOTUS_CONSENSUS      -            7.5e-17   65.9   0.1   5.6e-11   47.1   0.0   3.7   3   0   0   3   3   3   2 TSA: Campylenchia latipes breed wildtype s26390_L_90670_1_6_7_FORK, transcribed RNA sequence
+GCWI01064526.1_2     -          LOTUS_CONSENSUS      -            2.1e-16   64.5   0.1   9.6e-11   46.4   0.0   4.1   3   0   0   3   3   3   2 TSA: Campylenchia latipes breed wildtype s26389_L_90670_0_9_4_FORK, transcribed RNA sequence
+GCWI01064128.1_1     -          LOTUS_CONSENSUS      -            1.6e-13   55.3   0.1   7.5e-13   53.1   0.0   2.3   2   0   0   2   2   2   1 TSA: Campylenchia latipes breed wildtype s2602_L_3825_0_26_1_FORK, transcribed RNA sequence
+GCWI01064139.1_1     -          LOTUS_CONSENSUS      -            1.6e-13   55.2   0.1   7.6e-13   53.1   0.0   2.3   2   0   0   2   2   2   1 TSA: Campylenchia latipes breed wildtype s2603_L_3825_1_25_9_FORK, transcribed RNA sequence
+GCWI01063778.1_3     -          LOTUS_CONSENSUS      -                0.1   17.4   0.0      0.33   15.8   0.0   1.8   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype s25713_L_86034_0_5_1_FORK, transcribed RNA sequence
+GCWI01063779.1_3     -          LOTUS_CONSENSUS      -               0.11   17.3   0.0      0.26   16.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype s25714_L_86034_1_3_5_FORK, transcribed RNA sequence
+GCWI01011299.1_4     -          LOTUS_CONSENSUS      -                1.7   13.5   1.0       2.6   12.9   0.2   1.7   1   1   1   2   2   2   0 TSA: Campylenchia latipes breed wildtype C300461_3_0, transcribed RNA sequence
+GCWI01042453.1_1     -          LOTUS_CONSENSUS      -                1.8   13.4   0.2       4.2   12.2   0.2   1.6   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C421993_5_0, transcribed RNA sequence
+GCWI01066717.1_6     -          LOTUS_CONSENSUS      -                2.1   13.2   1.3   3.7e+02    6.0   0.0   3.8   2   1   0   3   3   3   0 TSA: Campylenchia latipes breed wildtype s3622_L_5775_0_26_8_COMPLEX, transcribed RNA sequence
+GCWI01007633.1_5     -          LOTUS_CONSENSUS      -                2.3   13.1   0.1         3   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C288505_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:34 2019
+# [ok]

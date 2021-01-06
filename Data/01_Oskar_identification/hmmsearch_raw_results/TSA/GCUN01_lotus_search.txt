@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCUN01014978.1_6     -          LOTUS_CONSENSUS      -            1.7e-11   47.1   0.0   5.6e-11   45.4   0.0   1.9   1   0   0   1   1   1   1 TSA: Eucharis adscendens C87071_a_54_0_l_3528 transcribed RNA sequence
+GCUN01009884.1_3     -          LOTUS_CONSENSUS      -            3.6e-09   39.6   1.2   7.3e-09   38.6   0.1   2.1   2   0   0   2   2   2   1 TSA: Eucharis adscendens C64954_a_7_0_l_741 transcribed RNA sequence
+GCUN01016062.1_3     -          LOTUS_CONSENSUS      -            4.9e-06   29.6   0.0      0.12   15.5   0.0   5.3   3   1   2   6   6   6   1 TSA: Eucharis adscendens s1606_L_2907_2_a_35_5_l_6312 transcribed RNA sequence
+GCUN01016061.1_3     -          LOTUS_CONSENSUS      -            5.2e-06   29.5   0.0      0.12   15.5   0.0   5.3   3   1   2   6   6   6   1 TSA: Eucharis adscendens s1605_L_2907_1_a_35_6_l_6357 transcribed RNA sequence
+GCUN01013187.1_1     -          LOTUS_CONSENSUS      -               0.39   13.9   0.2       1.8   11.7   0.0   2.3   2   0   0   2   2   2   0 TSA: Eucharis adscendens C79514_a_10_0_l_1724 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCUN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:52 2019
+# [ok]

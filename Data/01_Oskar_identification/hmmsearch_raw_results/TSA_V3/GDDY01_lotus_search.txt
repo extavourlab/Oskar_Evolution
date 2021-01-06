@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDDY01013232.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-11   47.1   0.1   4.3e-11   45.8   0.1   1.7   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype C87449_a_34_0_l_1307, transcribed RNA sequence
+GDDY01021274.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.6e-11   44.9   0.0   1.5e-10   44.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype s5772_L_12737_1_a_28_5_l_1984, transcribed RNA sequence
+GDDY01021273.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-10   44.2   0.0   2.3e-10   43.5   0.0   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype s5771_L_12737_0_a_24_4_l_2686, transcribed RNA sequence
+GDDY01012730.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-10   44.2   0.4   2.5e-10   43.4   0.4   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype C85559_a_55_0_l_1166, transcribed RNA sequence
+GDDY01010896.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.6e-09   38.3   0.0   1.7e-08   37.5   0.0   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype C78707_a_21_0_l_791, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDDY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:50 2019
+# [ok]

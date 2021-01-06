@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOH01019111.1_2     -          OSK_CONSENSUS        -            3.9e-60  204.9   0.1   8.8e-60  203.8   0.1   1.6   1   0   0   1   1   1   1 TSA: Masaris aegyptiacus aegyptiacus s4343_L_7815_1_a_58_7_l_3330 transcribed RNA sequence
+GBOH01019110.1_2     -          OSK_CONSENSUS        -            7.4e-60  204.0   0.1   1.4e-59  203.1   0.1   1.4   1   0   0   1   1   1   1 TSA: Masaris aegyptiacus aegyptiacus s4342_L_7815_0_a_58_0_l_4684 transcribed RNA sequence
+GBOH01012650.1_2     -          OSK_CONSENSUS        -               0.32   13.4   0.1      0.64   12.5   0.1   1.5   1   0   0   1   1   1   0 TSA: Masaris aegyptiacus aegyptiacus C74376_a_60_0_l_1410 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:16 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCVU01030300.1_4     -          OSK_CONSENSUS        -            1.1e-24   90.9   0.0   2.2e-24   89.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Chrysomphalus aonidum breed wildtype C224590_42_0, transcribed RNA sequence
+GCVU01003347.1_5     -          OSK_CONSENSUS        -            1.3e-06   32.2   0.0   1.5e-06   31.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Chrysomphalus aonidum breed wildtype C110653_2_0, transcribed RNA sequence
+GCVU01033385.1_1     -          OSK_CONSENSUS        -            1.1e-05   29.0   0.0   2.6e-05   27.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Chrysomphalus aonidum breed wildtype s11137_L_30785_1_6_6_BUBBLE, transcribed RNA sequence
+GCVU01033384.1_1     -          OSK_CONSENSUS        -            1.3e-05   28.9   0.0   2.6e-05   27.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Chrysomphalus aonidum breed wildtype s11136_L_30785_0_6_4_BUBBLE, transcribed RNA sequence
+GCVU01001503.1_2     -          OSK_CONSENSUS        -            1.4e-05   28.8   0.0   1.5e-05   28.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Chrysomphalus aonidum breed wildtype C104627_3_0, transcribed RNA sequence
+GCVU01046552.1_3     -          OSK_CONSENSUS        -               0.82   13.3   1.0        30    8.2   0.3   2.3   2   0   0   2   2   2   0 TSA: Chrysomphalus aonidum breed wildtype s6817_L_16284_0_7_6_LINEAR, transcribed RNA sequence
+GCVU01020507.1_1     -          OSK_CONSENSUS        -                  1   13.0   0.1       1.4   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Chrysomphalus aonidum breed wildtype C174178_3_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCVU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:10 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002017385.1       -          LOTUS_CONSENSUS      -            7.1e-26   90.6   1.7   1.4e-24   86.4   0.0   3.7   4   0   0   4   4   4   1 maternal effect protein oskar isoform X1 [Drosophila persimilis]
+XP_026849970.1       -          LOTUS_CONSENSUS      -            7.1e-26   90.6   1.7   1.4e-24   86.4   0.0   3.7   4   0   0   4   4   4   1 maternal effect protein oskar isoform X2 [Drosophila persimilis]
+XP_026849985.1       -          LOTUS_CONSENSUS      -            1.1e-25   90.0   1.4   5.6e-25   87.7   0.0   2.6   3   0   0   3   3   3   1 maternal effect protein oskar isoform X5 [Drosophila persimilis]
+XP_026849987.1       -          LOTUS_CONSENSUS      -            1.1e-25   90.0   1.4   5.6e-25   87.7   0.0   2.6   3   0   0   3   3   3   1 maternal effect protein oskar isoform X6 [Drosophila persimilis]
+XP_002018335.2       -          LOTUS_CONSENSUS      -            2.4e-13   50.4   0.0   2.4e-13   50.4   0.0   2.4   3   0   0   3   3   3   1 tudor domain-containing protein 7B isoform X1 [Drosophila persimilis]
+XP_026849975.1       -          LOTUS_CONSENSUS      -            4.3e-13   49.6   4.4   3.7e-06   27.4   0.0   4.7   4   1   1   5   5   5   2 maternal effect protein oskar isoform X3 [Drosophila persimilis]
+XP_026849980.1       -          LOTUS_CONSENSUS      -            4.3e-13   49.6   4.4   3.7e-06   27.4   0.0   4.7   4   1   1   5   5   5   2 maternal effect protein oskar isoform X4 [Drosophila persimilis]
+XP_002020507.1       -          LOTUS_CONSENSUS      -            5.3e-13   49.3   0.0   1.3e-12   48.1   0.0   1.6   1   0   0   1   1   1   1 uncharacterized protein LOC6594907 [Drosophila persimilis]
+XP_026842637.1       -          LOTUS_CONSENSUS      -            8.8e-13   48.6   0.0   1.8e-12   47.6   0.0   1.6   1   0   0   1   1   1   1 uncharacterized protein LOC6600881 [Drosophila persimilis]
+XP_026844563.1       -          LOTUS_CONSENSUS      -            0.00029   21.3   0.0   0.00034   21.1   0.0   1.1   1   0   0   1   1   1   1 uncharacterized protein LOC6589556 [Drosophila persimilis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003286085.1_DperRS2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003286085.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003286085.1_DperRS2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:07 2019
+# [ok]

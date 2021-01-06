@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWC01068728.1_3     -          OSK_CONSENSUS        -            9.3e-31  112.1   0.0   2.3e-30  110.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq2 transcribed RNA sequence
+GAWC01068729.1_3     -          OSK_CONSENSUS        -            1.3e-30  111.6   0.0     3e-30  110.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq3 transcribed RNA sequence
+GAWC01068734.1_3     -          OSK_CONSENSUS        -            1.8e-30  111.1   0.0   4.2e-30  109.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq8 transcribed RNA sequence
+GAWC01026426.1_4     -          OSK_CONSENSUS        -            1.1e-27  102.0   0.1   1.6e-27  101.5   0.1   1.2   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp43098_c0_seq2 transcribed RNA sequence
+GAWC01026425.1_4     -          OSK_CONSENSUS        -            5.2e-08   38.1   0.1   8.8e-08   37.4   0.1   1.3   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp43098_c0_seq1 transcribed RNA sequence
+GAWC01051454.1_6     -          OSK_CONSENSUS        -            9.4e-06   30.8   0.0   1.7e-05   30.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp55531_c2_seq3 transcribed RNA sequence
+GAWC01051459.1_6     -          OSK_CONSENSUS        -            1.1e-05   30.6   0.0   2.1e-05   29.7   0.0   1.5   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp55531_c2_seq8 transcribed RNA sequence
+GAWC01093620.1_2     -          OSK_CONSENSUS        -              0.052   18.6   0.0     0.054   18.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp536185_c0_seq1 transcribed RNA sequence
+GAWC01051456.1_5     -          OSK_CONSENSUS        -               0.49   15.5   0.0      0.93   14.6   0.0   1.4   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp55531_c2_seq5 transcribed RNA sequence
+GAWC01051458.1_5     -          OSK_CONSENSUS        -               0.58   15.2   0.0       1.2   14.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp55531_c2_seq7 transcribed RNA sequence
+GAWC01052788.1_4     -          OSK_CONSENSUS        -                2.7   13.1   1.7       3.3   12.8   1.7   1.0   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp55841_c0_seq1 transcribed RNA sequence
+GAWC01004202.1_4     -          OSK_CONSENSUS        -                2.8   13.0   0.0       3.1   12.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp4410_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:07 2019
+# [ok]

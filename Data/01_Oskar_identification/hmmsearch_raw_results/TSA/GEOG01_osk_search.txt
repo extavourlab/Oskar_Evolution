@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOG01081672.1_4     -          OSK_CONSENSUS        -            2.7e-08   39.0   0.1   3.5e-08   38.6   0.1   1.2   1   0   0   1   1   1   1 TSA: Heterobathmia pseuderiocrania TR79151-c0_g1_i1 transcribed RNA sequence
+GEOG01105896.1_1     -          OSK_CONSENSUS        -               0.24   16.4   0.2      0.27   16.2   0.2   1.0   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR110126-c0_g1_i1 transcribed RNA sequence
+GEOG01082216.1_6     -          OSK_CONSENSUS        -               0.52   15.3   1.1      0.65   15.0   1.1   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR79840-c0_g1_i1 transcribed RNA sequence
+GEOG01080766.1_2     -          OSK_CONSENSUS        -               0.95   14.5   0.0         1   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR77995-c0_g1_i1 transcribed RNA sequence
+GEOG01013881.1_6     -          OSK_CONSENSUS        -               0.95   14.5   0.8      0.94   14.5   0.8   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR13419-c0_g1_i1 transcribed RNA sequence
+GEOG01113574.1_5     -          OSK_CONSENSUS        -                1.8   13.6   0.0       2.4   13.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR120012-c0_g1_i1 transcribed RNA sequence
+GEOG01076448.1_3     -          OSK_CONSENSUS        -                  2   13.4   0.0       2.7   13.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR72464-c0_g1_i1 transcribed RNA sequence
+GEOG01030422.1_5     -          OSK_CONSENSUS        -                3.2   12.7   0.0       3.9   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR28368-c0_g2_i1 transcribed RNA sequence
+GEOG01026954.1_5     -          OSK_CONSENSUS        -                3.4   12.6   0.8       4.5   12.2   0.3   1.4   2   0   0   2   2   2   0 TSA: Heterobathmia pseuderiocrania TR24966-c0_g1_i3 transcribed RNA sequence
+GEOG01101325.1_4     -          OSK_CONSENSUS        -                4.6   12.2   1.9       5.7   11.9   1.9   1.1   1   0   0   1   1   1   0 TSA: Heterobathmia pseuderiocrania TR104264-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:46 2019
+# [ok]

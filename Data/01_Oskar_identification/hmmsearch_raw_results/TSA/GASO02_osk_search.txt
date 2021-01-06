@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASO02042650.1_3     -          OSK_CONSENSUS        -            4.7e-24   88.8   0.0     2e-23   86.8   0.0   2.1   2   0   0   2   2   2   1 TSA: Tricholepidion gertschi s3115_L_5381_0_a_8_6_l_5587 transcribed RNA sequence
+GASO02042651.1_3     -          OSK_CONSENSUS        -            4.9e-24   88.7   0.0   2.1e-23   86.7   0.0   2.1   2   0   0   2   2   2   1 TSA: Tricholepidion gertschi s3116_L_5381_1_a_8_6_l_5899 transcribed RNA sequence
+GASO02022174.1_3     -          OSK_CONSENSUS        -            2.3e-07   34.6   0.0     4e-07   33.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Tricholepidion gertschi C159668_a_4_0_l_469 transcribed RNA sequence
+GASO02030382.1_3     -          OSK_CONSENSUS        -            1.4e-05   28.8   0.3   3.3e-05   27.5   0.1   1.8   2   0   0   2   2   2   1 TSA: Tricholepidion gertschi C182165_a_5_0_l_802 transcribed RNA sequence
+GASO02041147.1_2     -          OSK_CONSENSUS        -              0.075   16.6   0.5       9.4    9.8   0.1   2.1   1   1   1   2   2   2   0 TSA: Tricholepidion gertschi s1761_L_2492_0_a_23_1_l_458 transcribed RNA sequence
+GASO02025181.1_3     -          OSK_CONSENSUS        -               0.37   14.4   0.1      0.62   13.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Tricholepidion gertschi C167838_a_5_0_l_556 transcribed RNA sequence
+GASO02024026.1_6     -          OSK_CONSENSUS        -               0.44   14.2   1.7      0.85   13.2   1.7   1.4   1   0   0   1   1   1   0 TSA: Tricholepidion gertschi C164622_a_9_0_l_517 transcribed RNA sequence
+GASO02048723.1_3     -          OSK_CONSENSUS        -                0.5   14.0   0.9       3.1   11.4   0.0   2.3   2   0   0   2   2   2   0 TSA: Tricholepidion gertschi s8590_L_36568_0_a_8_0_l_1072 transcribed RNA sequence
+GASO02041148.1_1     -          OSK_CONSENSUS        -                1.2   12.7   0.3       3.1   11.4   0.1   1.7   1   1   1   2   2   2   0 TSA: Tricholepidion gertschi s1762_L_2492_1_a_28_4_l_328 transcribed RNA sequence
+GASO02012588.1_4     -          OSK_CONSENSUS        -                2.8   11.5   0.0       3.2   11.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Tricholepidion gertschi C133506_a_5_0_l_293 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASO02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASO02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASO02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:14 2019
+# [ok]

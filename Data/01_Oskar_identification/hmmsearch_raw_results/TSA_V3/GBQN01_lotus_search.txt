@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQN01025273.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-15   59.6   0.0   8.6e-15   58.0   0.0   1.9   1   0   0   1   1   1   1 TSA: Megachile willughbiella s5662_L_9486_0_a_22_3_l_3677 transcribed RNA sequence
+GBQN01009967.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-12   50.4   0.0   2.4e-12   50.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Megachile willughbiella C63743_a_7_0_l_325 transcribed RNA sequence
+GBQN01026091.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-05   28.1   1.4       8.2    9.9   0.0   6.6   2   1   4   6   6   6   1 TSA: Megachile willughbiella s6403_L_13601_0_a_10_3_l_4265 transcribed RNA sequence
+GBQN01011444.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.18   15.3   0.5      0.36   14.3   0.4   1.6   1   1   1   2   2   2   0 TSA: Megachile willughbiella C68580_a_3_0_l_376 transcribed RNA sequence
+GBQN01001532.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.72   13.3   0.3       2.3   11.7   0.0   2.0   2   0   0   2   2   2   0 TSA: Megachile willughbiella C106221_a_6_0_l_1934 transcribed RNA sequence
+GBQN01015696.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.92   13.0   0.6       3.1   11.3   0.1   1.9   2   0   0   2   2   2   0 TSA: Megachile willughbiella C82860_a_3_0_l_604 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:33 2019
+# [ok]

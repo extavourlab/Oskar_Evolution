@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENY01173464.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-06   32.6   0.0   6.7e-06   32.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Agathiphaga queenslandensis TR225356-c0_g2_i1 transcribed RNA sequence
+GENY01179632.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.6   14.8   2.5   3.5e+02    7.3   0.2   2.3   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR239954-c0_g2_i1 transcribed RNA sequence
+GENY01160222.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.9   14.0   0.0       3.7   13.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR193823-c0_g1_i1 transcribed RNA sequence
+GENY01057660.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.1   13.9   0.1         4   13.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR74008-c0_g1_i1 transcribed RNA sequence
+GENY01166318.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.5   13.7   0.8        11   12.2   0.8   1.9   1   1   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR208617-c0_g1_i1 transcribed RNA sequence
+GENY01041999.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.6   0.2         5   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR60967-c2_g1_i1 transcribed RNA sequence
+GENY01090071.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.6   1.3         8   12.6   0.8   1.7   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR100789-c0_g3_i2 transcribed RNA sequence
+GENY01181720.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.8   13.6   1.9       4.5   13.4   1.9   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR244793-c0_g2_i1 transcribed RNA sequence
+GENY01090070.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.9   13.5   1.0       7.5   12.7   0.6   1.7   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR100789-c0_g3_i1 transcribed RNA sequence
+GENY01177105.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.1   13.5   0.2       5.7   13.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR234044-c0_g1_i1 transcribed RNA sequence
+GENY01011096.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.8   13.0   3.4   3.1e+02    7.5   3.3   2.1   1   1   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR17675-c0_g1_i1 transcribed RNA sequence
+GENY01147926.1_5     -          oskar_filtered.aligned.LOTUS_domain -                6.3   12.9   0.0       7.1   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR168655-c0_g1_i1 transcribed RNA sequence
+GENY01060417.1_5     -          oskar_filtered.aligned.LOTUS_domain -                6.8   12.8   0.1         8   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR76223-c0_g1_i1 transcribed RNA sequence
+GENY01021757.1_1     -          oskar_filtered.aligned.LOTUS_domain -                6.9   12.8   0.1        10   12.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR34724-c0_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:53 2019
+# [ok]

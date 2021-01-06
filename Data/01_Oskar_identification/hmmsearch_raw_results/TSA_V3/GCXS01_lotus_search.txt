@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXS01042221.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-14   57.8   0.0   4.1e-14   57.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Mesovelia mulsanti breed wildtype C610077_5_0, transcribed RNA sequence
+GCXS01008863.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.2e-14   56.5   0.0   7.5e-14   56.4   0.0   1.0   1   0   0   1   1   1   1 TSA: Mesovelia mulsanti breed wildtype C471265_3_0, transcribed RNA sequence
+GCXS01079797.1_3     -          oskar_filtered.aligned.LOTUS_domain -              1e-11   49.6   0.0   1.5e-11   49.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Mesovelia mulsanti breed wildtype s9897_L_14178_0_14_2_LINEAR, transcribed RNA sequence
+GCXS01044713.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-07   36.7   1.2     0.039   18.8   0.0   2.8   2   1   1   3   3   3   2 TSA: Mesovelia mulsanti breed wildtype C624218_5_0, transcribed RNA sequence
+GCXS01063777.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.024   19.5   0.0   5.1e+02    5.6   0.0   4.3   2   2   2   4   4   4   0 TSA: Mesovelia mulsanti breed wildtype s2521_L_2878_0_27_2_COMPLEX, transcribed RNA sequence
+GCXS01063799.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.024   19.5   0.0   5.1e+02    5.6   0.0   4.3   2   2   2   4   4   4   0 TSA: Mesovelia mulsanti breed wildtype s2523_L_2878_2_27_1_COMPLEX, transcribed RNA sequence
+GCXS01063810.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.03   19.2   0.0   5.2e+02    5.6   0.0   4.3   2   2   2   4   4   4   0 TSA: Mesovelia mulsanti breed wildtype s2524_L_2878_3_26_7_COMPLEX, transcribed RNA sequence
+GCXS01063788.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.034   19.0   0.0   5.6e+02    5.5   0.0   4.3   2   2   2   4   4   4   0 TSA: Mesovelia mulsanti breed wildtype s2522_L_2878_1_27_7_COMPLEX, transcribed RNA sequence
+GCXS01050948.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.25   16.2   1.1        23    9.9   0.1   3.6   2   1   1   3   3   3   0 TSA: Mesovelia mulsanti breed wildtype s13630_L_21792_1_27_7_COMPLEX, transcribed RNA sequence
+GCXS01013529.1_5     -          oskar_filtered.aligned.LOTUS_domain -                0.9   14.4   0.1       1.1   14.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Mesovelia mulsanti breed wildtype C488193_2_0, transcribed RNA sequence
+GCXS01063318.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.8   1.0        17   10.3   0.6   2.2   1   1   1   2   2   2   0 TSA: Mesovelia mulsanti breed wildtype s24807_L_56507_0_13_5_LINEAR, transcribed RNA sequence
+GCXS01050946.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.7   2.2        40    9.2   0.1   3.7   3   1   1   4   4   4   0 TSA: Mesovelia mulsanti breed wildtype s13629_L_21792_0_25_3_COMPLEX, transcribed RNA sequence
+GCXS01045868.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.5   12.5   1.4        31    9.5   0.2   2.4   2   0   0   2   2   2   0 TSA: Mesovelia mulsanti breed wildtype C631956_6_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:46 2019
+# [ok]

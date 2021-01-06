@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFN01028638.1_1     -          oskar_filtered.aligned.OSK_domain -            4.7e-05   26.3   0.0   7.4e-05   25.7   0.0   1.3   1   0   0   1   1   1   1 TSA: Diaphorina citri breed wildtype s9791_L_18448_0_a_65_4_l_1382, transcribed RNA sequence
+GDFN01016538.1_1     -          oskar_filtered.aligned.OSK_domain -              0.024   17.5   0.0     0.025   17.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Diaphorina citri breed wildtype s10037_L_19344_0_a_8_4_l_708, transcribed RNA sequence
+GDFN01014521.1_6     -          oskar_filtered.aligned.OSK_domain -               0.47   13.3   0.1       1.1   12.1   0.1   1.7   1   1   0   1   1   1   0 TSA: Diaphorina citri breed wildtype C206953_a_55_0_l_964, transcribed RNA sequence
+GDFN01017054.1_1     -          oskar_filtered.aligned.OSK_domain -                3.4   10.5   3.7       2.1   11.2   1.3   1.6   2   1   0   2   2   2   0 TSA: Diaphorina citri breed wildtype s10503_L_21119_0_a_10_0_l_1258, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:02 2019
+# [ok]

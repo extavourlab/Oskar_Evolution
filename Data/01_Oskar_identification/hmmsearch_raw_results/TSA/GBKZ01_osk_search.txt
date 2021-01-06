@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBKZ01024309.1_5     -          OSK_CONSENSUS        -             0.0018   21.3   0.5    0.0019   21.3   0.5   1.0   1   0   0   1   1   1   1 TSA: Sphecodes albilabris s1015_L_1104_0_a_10_6_l_293 transcribed RNA sequence
+GBKZ01000539.1_1     -          OSK_CONSENSUS        -               0.25   14.4   0.3      0.56   13.2   0.3   1.6   1   0   0   1   1   1   0 TSA: Sphecodes albilabris C101908_a_21_0_l_948 transcribed RNA sequence
+GBKZ01024482.1_6     -          OSK_CONSENSUS        -               0.61   13.1   0.9      0.74   12.8   0.4   1.4   1   1   0   1   1   1   0 TSA: Sphecodes albilabris s1176_L_1251_0_a_5_3_l_333 transcribed RNA sequence
+GBKZ01013787.1_6     -          OSK_CONSENSUS        -               0.64   13.0   0.0      0.74   12.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Sphecodes albilabris C65613_a_3_0_l_321 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBKZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBKZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBKZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:35 2019
+# [ok]

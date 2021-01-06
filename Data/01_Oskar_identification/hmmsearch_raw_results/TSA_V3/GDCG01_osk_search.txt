@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCG01051471.1_3     -          oskar_filtered.aligned.OSK_domain -              8e-29  105.1   0.5     8e-29  105.1   0.5   1.7   2   0   0   2   2   2   1 TSA: Symploce sp. AD-2014 breed breeding C270402_a_8_0_l_1851, transcribed RNA sequence
+GDCG01018763.1_5     -          oskar_filtered.aligned.OSK_domain -               0.49   14.5   0.4       0.5   14.5   0.4   1.1   1   0   0   1   1   1   0 TSA: Symploce sp. AD-2014 breed breeding C171857_a_4_0_l_299, transcribed RNA sequence
+GDCG01058492.1_4     -          oskar_filtered.aligned.OSK_domain -               0.49   14.5   0.1       1.7   12.7   0.1   1.9   1   1   0   1   1   1   0 TSA: Symploce sp. AD-2014 breed breeding s14173_L_41864_0_a_11_1_l_971, transcribed RNA sequence
+GDCG01015884.1_5     -          oskar_filtered.aligned.OSK_domain -               0.53   14.4   0.4      0.57   14.3   0.4   1.0   1   0   0   1   1   1   0 TSA: Symploce sp. AD-2014 breed breeding C163357_a_3_0_l_275, transcribed RNA sequence
+GDCG01007220.1_4     -          oskar_filtered.aligned.OSK_domain -                2.5   12.2   0.0       2.6   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Symploce sp. AD-2014 breed breeding C141239_a_5_0_l_239, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:20 2019
+# [ok]

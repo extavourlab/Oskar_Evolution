@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_008185199.1       -          LOTUS_CONSENSUS      -              2e-21   76.7  16.3   3.2e-14   53.7   0.1   5.8   5   1   0   5   5   5   3 uncharacterized protein LOC100158689 [Acyrthosiphon pisum]
+XP_016663178.1       -          LOTUS_CONSENSUS      -            2.8e-20   73.1   0.2   1.4e-19   70.8   0.2   2.3   1   0   0   1   1   1   1 uncharacterized protein LOC100569048 [Acyrthosiphon pisum]
+XP_029346403.1       -          LOTUS_CONSENSUS      -            2.6e-17   63.6   0.0   2.6e-17   63.6   0.0   3.0   3   1   0   3   3   3   1 GATA zinc finger domain-containing protein 14, partial [Acyrthosiphon pisum]
+XP_029346809.1       -          LOTUS_CONSENSUS      -            7.1e-13   49.4   0.0   7.1e-13   49.4   0.0   4.0   4   1   1   5   5   5   1 ras guanine nucleotide exchange factor P [Acyrthosiphon pisum]
+XP_029346810.1       -          LOTUS_CONSENSUS      -            7.1e-13   49.4   0.0   7.1e-13   49.4   0.0   4.0   4   1   1   5   5   5   1 ras guanine nucleotide exchange factor P [Acyrthosiphon pisum]
+XP_029346811.1       -          LOTUS_CONSENSUS      -            7.1e-13   49.4   0.0   7.1e-13   49.4   0.0   4.0   4   1   1   5   5   5   1 ras guanine nucleotide exchange factor P [Acyrthosiphon pisum]
+XP_008182537.1       -          LOTUS_CONSENSUS      -            1.4e-06   29.2   0.1        25    5.9   0.0   6.7   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X3 [Acyrthosiphon pisum]
+XP_029345010.1       -          LOTUS_CONSENSUS      -            1.4e-06   29.2   0.1        25    5.9   0.0   6.7   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Acyrthosiphon pisum]
+XP_029345011.1       -          LOTUS_CONSENSUS      -            1.4e-06   29.2   0.1        25    5.9   0.0   6.7   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Acyrthosiphon pisum]
+XP_029345012.1       -          LOTUS_CONSENSUS      -            1.4e-06   29.2   0.1        25    5.9   0.0   6.7   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X2 [Acyrthosiphon pisum]
+XP_029345014.1       -          LOTUS_CONSENSUS      -            0.00015   22.7   0.0        24    6.0   0.0   5.8   5   2   2   7   7   7   0 meiosis regulator and mRNA stability factor 1 isoform X5 [Acyrthosiphon pisum]
+XP_029345013.1       -          LOTUS_CONSENSUS      -            0.00015   22.6   0.0        24    6.0   0.0   5.8   5   2   2   7   7   7   0 meiosis regulator and mRNA stability factor 1 isoform X4 [Acyrthosiphon pisum]
+XP_029341092.1       -          LOTUS_CONSENSUS      -                1.7    9.7   5.8      0.29   12.1   0.5   2.3   3   0   0   3   3   3   0 dynein heavy chain 6, axonemal-like [Acyrthosiphon pisum]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_005508785.1_pea_aphid_22Mar2018_4r6ur_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_005508785.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_005508785.1_pea_aphid_22Mar2018_4r6ur_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:42 2019
+# [ok]

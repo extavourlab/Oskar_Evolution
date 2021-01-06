@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYW01053278.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-15   61.0   0.0     4e-15   60.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Psyllopsis fraxinicola breed wildtype s27031_L_59797_0_5_6_LINEAR, transcribed RNA sequence
+GCYW01039356.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-08   38.4   1.1      0.28   15.7   0.0   6.1   6   1   1   7   7   7   3 TSA: Psyllopsis fraxinicola breed wildtype s14475_L_19478_1_9_3_FORK, transcribed RNA sequence
+GCYW01059211.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.026   19.1   2.8      0.74   14.4   0.1   2.4   1   1   1   2   2   2   0 TSA: Psyllopsis fraxinicola breed wildtype s6110_L_6219_0_25_5_COMPLEX, transcribed RNA sequence
+GCYW01003412.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.54   14.8   1.4        26    9.5   0.3   2.0   1   1   1   2   2   2   0 TSA: Psyllopsis fraxinicola breed wildtype C347976_2_0, transcribed RNA sequence
+GCYW01049188.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.75   14.4   5.8        21    9.7   0.3   3.7   2   1   2   4   4   4   0 TSA: Psyllopsis fraxinicola breed wildtype s23344_L_43543_0_4_7_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:03 2019
+# [ok]

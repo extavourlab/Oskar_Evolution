@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GACY01036604.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-09   40.5   0.1   6.8e-09   40.1   0.1   1.1   1   0   0   1   1   1   1 TSA: Mengenilla moldrzyki contig36674 mRNA sequence
+GACY01005632.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.16   16.4   0.1      0.34   15.4   0.1   1.5   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig05640 mRNA sequence
+GACY01015906.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.8   2.1       1.9   13.0   2.1   1.4   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig15939 mRNA sequence
+GACY01012557.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.6   13.3   0.5       2.5   12.6   0.5   1.3   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig12581 mRNA sequence
+GACY01021962.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.1   1.3       4.5   11.8   1.1   1.9   1   1   0   1   1   1   0 TSA: Mengenilla moldrzyki contig21999 mRNA sequence
+GACY01007090.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.5   12.7   0.3       5.2   11.6   0.3   1.6   1   0   0   1   1   1   0 TSA: Mengenilla moldrzyki contig07101 mRNA sequence
+GACY01026051.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.4   11.8   0.2       4.4   11.8   0.2   1.8   2   0   0   2   2   2   0 TSA: Mengenilla moldrzyki contig26098 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GACY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:35 2019
+# [ok]

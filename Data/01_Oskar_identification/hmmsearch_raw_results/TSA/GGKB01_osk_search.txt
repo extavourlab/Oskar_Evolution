@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGKB01020809.1_6     -          OSK_CONSENSUS        -               0.56   14.4   0.4      0.77   13.9   0.4   1.3   1   0   0   1   1   1   0 TSA: Papilio polytes c26207_g1_i1 transcribed RNA sequence
+GGKB01005414.1_5     -          OSK_CONSENSUS        -               0.75   14.0   0.2      0.85   13.8   0.2   1.0   1   0   0   1   1   1   0 TSA: Papilio polytes c8027_g1_i1 transcribed RNA sequence
+GGKB01006201.1_5     -          OSK_CONSENSUS        -                1.4   13.1   0.1       1.4   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Papilio polytes c9123_g1_i1 transcribed RNA sequence
+GGKB01005001.1_2     -          OSK_CONSENSUS        -                1.5   12.9   0.1       1.8   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Papilio polytes c7452_g1_i1 transcribed RNA sequence
+GGKB01008917.1_5     -          OSK_CONSENSUS        -                1.7   12.8   0.0       1.9   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Papilio polytes c13282_g1_i1 transcribed RNA sequence
+GGKB01006421.1_3     -          OSK_CONSENSUS        -                2.2   12.5   0.2         3   12.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Papilio polytes c9467_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGKB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:41 2019
+# [ok]

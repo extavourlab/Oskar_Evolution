@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAAI01005844.1_1     -          OSK_CONSENSUS        -              0.012   17.9   0.0     0.017   17.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Hyas araneus, contig HaIso05844, transcribed RNA sequence
+HAAI01008845.1_5     -          OSK_CONSENSUS        -               0.02   17.1   0.0     0.027   16.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Hyas araneus, contig HaIso08845, transcribed RNA sequence
+HAAI01006680.1_4     -          OSK_CONSENSUS        -               0.13   14.5   0.0      0.16   14.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Hyas araneus, contig HaIso06680, transcribed RNA sequence
+HAAI01011660.1_5     -          OSK_CONSENSUS        -               0.26   13.5   0.1      0.44   12.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Hyas araneus, contig HaIso11660, transcribed RNA sequence
+HAAI01002044.1_4     -          OSK_CONSENSUS        -               0.35   13.1   0.2       3.2   10.0   0.2   2.0   2   0   0   2   2   2   0 TSA: Hyas araneus, contig HaIso02044, transcribed RNA sequence
+HAAI01002873.1_2     -          OSK_CONSENSUS        -               0.68   12.2   0.9       1.4   11.2   0.9   1.4   1   0   0   1   1   1   0 TSA: Hyas araneus, contig HaIso02873, transcribed RNA sequence
+HAAI01011983.1_5     -          OSK_CONSENSUS        -                3.3   10.0   4.7       7.9    8.7   0.4   2.2   1   1   0   2   2   2   0 TSA: Hyas araneus, contig HaIso11983, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAAI.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAAI.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAAI.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:24 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWL01011192.1_2     -          LOTUS_CONSENSUS      -             0.0021   21.5   0.0       0.7   13.4   0.0   2.0   1   1   1   2   2   2   2 TSA: Piezosternum calidum breed wildtype C68823_2_0, transcribed RNA sequence
+GCWL01007616.1_2     -          LOTUS_CONSENSUS      -              0.082   16.3   0.4      0.09   16.2   0.4   1.0   1   0   0   1   1   1   0 TSA: Piezosternum calidum breed wildtype C56955_2_0, transcribed RNA sequence
+GCWL01019204.1_1     -          LOTUS_CONSENSUS      -               0.71   13.3   0.3   1.2e+02    6.2   0.1   3.7   3   0   0   3   3   3   0 TSA: Piezosternum calidum breed wildtype s1237_L_3263_0_52_4_COMPLEX, transcribed RNA sequence
+GCWL01019205.1_1     -          LOTUS_CONSENSUS      -                1.7   12.1   3.3        77    6.8   0.2   3.4   2   1   1   3   3   3   0 TSA: Piezosternum calidum breed wildtype s1238_L_3263_1_57_3_COMPLEX, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:48 2019
+# [ok]

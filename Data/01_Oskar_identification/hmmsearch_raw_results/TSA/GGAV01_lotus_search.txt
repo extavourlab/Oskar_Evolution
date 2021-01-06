@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGAV01025392.1_2     -          LOTUS_CONSENSUS      -            1.6e-15   60.3   0.9   3.3e-15   59.2   0.5   1.7   2   0   0   2   2   2   1 TSA: Scatopsidae sp. GD3 Scatopsidae_contig_2045.1 transcribed RNA sequence
+GGAV01004363.1_1     -          LOTUS_CONSENSUS      -            1.7e-15   60.2   0.9   3.3e-15   59.2   0.5   1.7   2   0   0   2   2   2   1 TSA: Scatopsidae sp. GD3 Scatopsidae_contig_2044.1 transcribed RNA sequence
+GGAV01005446.1_4     -          LOTUS_CONSENSUS      -            5.1e-14   55.4   0.0   1.1e-13   54.3   0.0   1.5   1   0   0   1   1   1   1 TSA: Scatopsidae sp. GD3 Scatopsidae_contig_7994 transcribed RNA sequence
+GGAV01020089.1_6     -          LOTUS_CONSENSUS      -            2.5e-05   27.6   2.0        24    8.4   0.1   4.9   3   1   2   5   5   5   2 TSA: Scatopsidae sp. GD3 Scatopsidae_contig_1798 transcribed RNA sequence
+GGAV01020086.1_5     -          LOTUS_CONSENSUS      -             0.0005   23.4   4.5        50    7.4   0.1   5.9   4   1   2   6   6   6   1 TSA: Scatopsidae sp. GD3 Scatopsidae_contig_1797 transcribed RNA sequence
+GGAV01024578.1_6     -          LOTUS_CONSENSUS      -               0.36   14.2   0.1      0.45   13.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Scatopsidae sp. GD3 Scatopsidae_contig_26937 transcribed RNA sequence
+GGAV01017807.1_5     -          LOTUS_CONSENSUS      -                1.1   12.7   0.0       2.2   11.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Scatopsidae sp. GD3 Scatopsidae_contig_41743 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGAV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:28 2019
+# [ok]

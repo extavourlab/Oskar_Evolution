@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g65492.t1            -          LOTUS_CONSENSUS      -            2.6e-15   58.4  10.2   4.8e-13   51.1   0.0   4.1   4   0   0   4   4   4   2 -
+g4802.t1             -          LOTUS_CONSENSUS      -             0.0023   20.1   0.6        22    7.3   0.0   5.5   6   1   1   7   7   6   1 -
+g25897.t1            -          LOTUS_CONSENSUS      -              0.044   15.9   0.1      0.14   14.4   0.1   1.9   1   0   0   1   1   1   0 -
+g9858.t1             -          LOTUS_CONSENSUS      -              0.085   15.0   0.7      0.26   13.5   0.1   2.0   2   0   0   2   2   2   0 -
+g61743.t1            -          LOTUS_CONSENSUS      -               0.11   14.6   0.2      0.11   14.6   0.2   2.3   3   0   0   3   3   3   0 -
+g54083.t1            -          LOTUS_CONSENSUS      -               0.13   14.4   0.5      0.52   12.5   0.1   2.2   2   0   0   2   2   2   0 -
+g62895.t1            -          LOTUS_CONSENSUS      -               0.14   14.4   0.7      0.21   13.8   0.7   1.7   1   1   0   1   1   1   0 -
+g29196.t1            -          LOTUS_CONSENSUS      -                0.2   13.9   0.1      0.51   12.5   0.1   1.7   1   0   0   1   1   1   0 -
+g61952.t1            -          LOTUS_CONSENSUS      -               0.23   13.6   0.1       0.7   12.1   0.1   1.9   1   0   0   1   1   1   0 -
+g4943.t1             -          LOTUS_CONSENSUS      -               0.27   13.4   0.2      0.36   13.0   0.2   1.3   1   1   0   1   1   1   0 -
+g21678.t1            -          LOTUS_CONSENSUS      -               0.29   13.3   0.8      0.63   12.2   0.2   1.9   2   0   0   2   2   2   0 -
+g41002.t1            -          LOTUS_CONSENSUS      -               0.35   13.1   0.1      0.62   12.3   0.1   1.4   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_900490015.1_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_900490015.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_900490015.1_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:48:57 2019
+# [ok]

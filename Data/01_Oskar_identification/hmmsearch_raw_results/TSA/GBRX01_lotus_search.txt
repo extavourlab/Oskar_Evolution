@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBRX01007139.1_3     -          LOTUS_CONSENSUS      -              8e-21   76.6   0.0   2.1e-20   75.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Glossina palpalis gambiensis GLOS_LOC101450245.1.1_1716 transcribed RNA sequence
+GBRX01007379.1_6     -          LOTUS_CONSENSUS      -            2.9e-17   65.1   0.5     3e-16   61.9   0.1   2.6   2   0   0   2   2   2   1 TSA: Glossina palpalis gambiensis GLOS_LOC101454682.3.3_2769 transcribed RNA sequence
+GBRX01001059.1_5     -          LOTUS_CONSENSUS      -            1.7e-14   56.3   0.0   5.4e-14   54.7   0.0   1.9   1   1   0   1   1   1   1 TSA: Glossina palpalis gambiensis GLOS_LOC101454682.1.3_2071 transcribed RNA sequence
+GBRX01005468.1_4     -          LOTUS_CONSENSUS      -            1.7e-14   56.2   0.0   5.6e-14   54.6   0.0   1.9   1   1   0   1   1   1   1 TSA: Glossina palpalis gambiensis GLOS_LOC101454682.2.3_2120 transcribed RNA sequence
+GBRX01001635.1_2     -          LOTUS_CONSENSUS      -            1.5e-06   30.8   0.1   2.5e-05   26.9   0.0   2.9   3   0   0   3   3   3   1 TSA: Glossina palpalis gambiensis GLOS_LOC101453547.1.2_3801 transcribed RNA sequence
+GBRX01004524.1_3     -          LOTUS_CONSENSUS      -            1.6e-06   30.7   0.1   2.6e-05   26.8   0.0   2.9   3   0   0   3   3   3   1 TSA: Glossina palpalis gambiensis GLOS_LOC101453547.2.2_4485 transcribed RNA sequence
+GBRX01013723.1_1     -          LOTUS_CONSENSUS      -            0.00039   23.0   1.9     0.045   16.4   1.9   2.6   1   1   0   1   1   1   1 TSA: Glossina palpalis gambiensis GLOS_contig_014437_1405 transcribed RNA sequence
+GBRX01013160.1_2     -          LOTUS_CONSENSUS      -             0.0004   23.0   1.9     0.046   16.4   1.9   2.7   1   1   0   1   1   1   1 TSA: Glossina palpalis gambiensis GLOS_contig_013872_1428 transcribed RNA sequence
+GBRX01009370.1_1     -          LOTUS_CONSENSUS      -             0.0014   21.3   1.9       0.1   15.3   1.9   2.7   1   1   0   1   1   1   1 TSA: Glossina palpalis gambiensis GLOS_contig_010033_2477 transcribed RNA sequence
+GBRX01009947.1_5     -          LOTUS_CONSENSUS      -             0.0078   18.9   0.1     0.023   17.4   0.1   1.7   1   0   0   1   1   1   1 TSA: Glossina palpalis gambiensis GLOS_CG2082.1.2_6504 transcribed RNA sequence
+GBRX01001265.1_1     -          LOTUS_CONSENSUS      -              0.049   16.3   0.0      0.23   14.2   0.0   2.1   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_DYAK_GE24139.1.1_9617 transcribed RNA sequence
+GBRX01011027.1_2     -          LOTUS_CONSENSUS      -              0.089   15.5   0.0      0.23   14.2   0.0   1.7   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_LOC101461133.2.2_2108 transcribed RNA sequence
+GBRX01009433.1_1     -          LOTUS_CONSENSUS      -               0.13   15.0   0.0      0.37   13.5   0.0   1.7   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_LOC101448766.1.3_10396 transcribed RNA sequence
+GBRX01008267.1_6     -          LOTUS_CONSENSUS      -               0.17   14.6   0.0      0.43   13.3   0.0   1.6   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_LSM7.1.1_3261 transcribed RNA sequence
+GBRX01002517.1_3     -          LOTUS_CONSENSUS      -               0.26   14.0   0.0      0.74   12.5   0.0   1.7   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_LOC101453811.7.27_5999 transcribed RNA sequence
+GBRX01000520.1_1     -          LOTUS_CONSENSUS      -               0.27   13.9   0.0      0.85   12.4   0.0   1.8   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_LOC101453811.3.27_5673 transcribed RNA sequence
+GBRX01015453.1_5     -          LOTUS_CONSENSUS      -                0.3   13.8   0.0       1.1   12.0   0.0   1.9   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_LOC101448766.2.3_10300 transcribed RNA sequence
+GBRX01003552.1_6     -          LOTUS_CONSENSUS      -               0.32   13.7   0.0      0.97   12.2   0.0   1.8   1   0   0   1   1   1   0 TSA: Glossina palpalis gambiensis GLOS_DPER_GL16342.1.1_6344 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBRX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBRX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBRX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:26 2019
+# [ok]

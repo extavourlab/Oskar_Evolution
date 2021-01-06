@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCU01043611.1_6     -          LOTUS_CONSENSUS      -              3e-16   63.8   0.0   6.8e-16   62.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Hemimerus sp. AD-2014 breed wildtype C216810_a_40_0_l_964, transcribed RNA sequence
+GDCU01045050.1_4     -          LOTUS_CONSENSUS      -               0.15   16.6   0.2      0.59   14.7   0.3   2.0   2   0   0   2   2   2   0 TSA: Hemimerus sp. AD-2014 breed wildtype C220978_a_21_0_l_1463, transcribed RNA sequence
+GDCU01040454.1_1     -          LOTUS_CONSENSUS      -                1.3   13.6   0.1       2.7   12.6   0.1   1.5   1   0   0   1   1   1   0 TSA: Hemimerus sp. AD-2014 breed wildtype C207672_a_57_0_l_659, transcribed RNA sequence
+GDCU01030470.1_3     -          LOTUS_CONSENSUS      -                1.5   13.4   0.1       2.1   12.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Hemimerus sp. AD-2014 breed wildtype C180192_a_16_0_l_405, transcribed RNA sequence
+GDCU01034501.1_6     -          LOTUS_CONSENSUS      -                3.2   12.3   4.0        32    9.2   0.1   2.3   2   0   0   2   2   2   0 TSA: Hemimerus sp. AD-2014 breed wildtype C191122_a_10_0_l_468, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:44 2019
+# [ok]

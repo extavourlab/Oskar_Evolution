@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCVU01030439.1_6     -          LOTUS_CONSENSUS      -            2.3e-22   83.1   0.3   1.9e-15   60.9   0.0   3.7   2   1   1   3   3   3   2 TSA: Chrysomphalus aonidum breed wildtype C225214_40_0, transcribed RNA sequence
+GCVU01043694.1_3     -          LOTUS_CONSENSUS      -            2.9e-19   73.1   0.6   4.1e-05   27.8   0.0   4.0   3   0   0   3   3   3   3 TSA: Chrysomphalus aonidum breed wildtype s4232_L_9012_0_16_7_BUBBLE, transcribed RNA sequence
+GCVU01043695.1_2     -          LOTUS_CONSENSUS      -            3.3e-19   73.0   0.6   4.3e-05   27.7   0.0   4.0   3   0   0   3   3   3   3 TSA: Chrysomphalus aonidum breed wildtype s4233_L_9012_1_16_2_BUBBLE, transcribed RNA sequence
+GCVU01040291.1_1     -          LOTUS_CONSENSUS      -            1.3e-14   58.2   0.0   1.3e-14   58.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Chrysomphalus aonidum breed wildtype s17366_L_57421_1_53_5_FORK, transcribed RNA sequence
+GCVU01040290.1_1     -          LOTUS_CONSENSUS      -            3.5e-14   56.8   0.0   3.5e-14   56.8   0.0   2.3   2   0   0   2   2   1   1 TSA: Chrysomphalus aonidum breed wildtype s17365_L_57421_0_46_4_FORK, transcribed RNA sequence
+GCVU01038900.1_1     -          LOTUS_CONSENSUS      -            1.5e-13   54.8   0.7     1e-11   48.9   0.1   2.5   2   0   0   2   2   2   1 TSA: Chrysomphalus aonidum breed wildtype s16111_L_51542_0_8_5_LINEAR, transcribed RNA sequence
+GCVU01030489.1_2     -          LOTUS_CONSENSUS      -            5.7e-05   27.3   0.0     0.031   18.5   0.0   2.8   2   0   0   2   2   2   1 TSA: Chrysomphalus aonidum breed wildtype C225452_36_0, transcribed RNA sequence
+GCVU01024473.1_4     -          LOTUS_CONSENSUS      -            9.4e-05   26.6   0.1   0.00042   24.5   0.0   2.0   2   0   0   2   2   2   1 TSA: Chrysomphalus aonidum breed wildtype C193836_7_0, transcribed RNA sequence
+GCVU01043655.1_6     -          LOTUS_CONSENSUS      -              0.027   18.7   0.0   6.5e+02    4.7   0.0   4.7   3   1   1   4   4   4   0 TSA: Chrysomphalus aonidum breed wildtype s4198_L_8931_1_12_7_FORK, transcribed RNA sequence
+GCVU01043654.1_6     -          LOTUS_CONSENSUS      -              0.078   17.2   0.0   8.7e+02    4.3   0.0   4.6   3   1   1   4   4   4   0 TSA: Chrysomphalus aonidum breed wildtype s4197_L_8931_0_11_4_FORK, transcribed RNA sequence
+GCVU01015364.1_1     -          LOTUS_CONSENSUS      -                0.6   14.4   0.3      0.88   13.9   0.3   1.4   1   1   0   1   1   1   0 TSA: Chrysomphalus aonidum breed wildtype C152622_4_0, transcribed RNA sequence
+GCVU01040290.1_3     -          LOTUS_CONSENSUS      -                1.3   13.4   0.2       3.4   12.0   0.2   1.7   1   0   0   1   1   1   0 TSA: Chrysomphalus aonidum breed wildtype s17365_L_57421_0_46_4_FORK, transcribed RNA sequence
+GCVU01041497.1_4     -          LOTUS_CONSENSUS      -                1.7   12.9   0.6       5.1   11.4   0.6   1.8   1   0   0   1   1   1   0 TSA: Chrysomphalus aonidum breed wildtype s2247_L_4222_4_21_1_COMPLEX, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCVU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:11 2019
+# [ok]

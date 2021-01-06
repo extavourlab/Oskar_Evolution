@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXC01085630.1_2     -          OSK_CONSENSUS        -            4.4e-26   96.5   0.0     1e-25   95.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Acanalonia conica breed wildtype C507317_57_0, transcribed RNA sequence
+GCXC01088688.1_4     -          OSK_CONSENSUS        -            1.1e-17   69.3   2.1   1.1e-17   69.3   2.1   2.6   2   0   0   2   2   2   1 TSA: Acanalonia conica breed wildtype C519739_4_0, transcribed RNA sequence
+GCXC01076968.1_4     -          OSK_CONSENSUS        -             0.0027   22.5   0.5    0.0061   21.3   0.5   1.5   1   0   0   1   1   1   1 TSA: Acanalonia conica breed wildtype C474677_2_0, transcribed RNA sequence
+GCXC01001265.1_5     -          OSK_CONSENSUS        -                0.5   15.1   0.7      0.54   15.0   0.7   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C265296_2_0, transcribed RNA sequence
+GCXC01061910.1_5     -          OSK_CONSENSUS        -                1.1   14.0   1.2       1.4   13.7   0.5   1.5   1   1   1   2   2   2   0 TSA: Acanalonia conica breed wildtype C426972_21_0, transcribed RNA sequence
+GCXC01066788.1_4     -          OSK_CONSENSUS        -                1.5   13.6   0.1         2   13.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C441766_3_0, transcribed RNA sequence
+GCXC01003982.1_2     -          OSK_CONSENSUS        -                1.6   13.5   0.0       1.8   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C272177_2_0, transcribed RNA sequence
+GCXC01020665.1_5     -          OSK_CONSENSUS        -                1.9   13.2   0.1       2.2   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C314826_3_0, transcribed RNA sequence
+GCXC01108783.1_4     -          OSK_CONSENSUS        -                1.9   13.2   0.0       4.7   11.9   0.0   1.6   1   1   0   1   1   1   0 TSA: Acanalonia conica breed wildtype s8285_L_31706_0_3_8_FORK, transcribed RNA sequence
+GCXC01108784.1_5     -          OSK_CONSENSUS        -                2.7   12.7   0.0       6.5   11.5   0.0   1.5   1   1   0   1   1   1   0 TSA: Acanalonia conica breed wildtype s8286_L_31706_1_3_8_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:19 2019
+# [ok]

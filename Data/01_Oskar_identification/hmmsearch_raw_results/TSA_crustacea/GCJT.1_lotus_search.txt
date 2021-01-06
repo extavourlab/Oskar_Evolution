@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCJT01000667.1_1     -          LOTUS_CONSENSUS      -            6.4e-25   91.5   0.0   6.9e-12   49.7   0.0   4.7   4   0   0   4   4   4   3 TSA: Paracyclopina nana Pnana_mRNA_00716 transcribed RNA sequence
+GCJT01015733.1_1     -          LOTUS_CONSENSUS      -            7.2e-17   65.7   0.0   5.6e-16   62.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Paracyclopina nana Pnana_mRNA_17194 transcribed RNA sequence
+GCJT01019588.1_4     -          LOTUS_CONSENSUS      -             0.0022   22.5   0.0   1.6e+02    6.9   0.0   4.6   4   1   1   5   5   5   1 TSA: Paracyclopina nana Pnana_mRNA_21370 transcribed RNA sequence
+GCJT01015745.1_1     -          LOTUS_CONSENSUS      -              0.088   17.3   0.0   5.6e+02    5.2   0.0   4.6   3   1   1   4   4   4   0 TSA: Paracyclopina nana Pnana_mRNA_17206 transcribed RNA sequence
+GCJT01010873.1_1     -          LOTUS_CONSENSUS      -               0.11   17.1   0.0       0.3   15.6   0.0   1.7   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_11950 transcribed RNA sequence
+GCJT01010876.1_1     -          LOTUS_CONSENSUS      -                0.8   14.3   0.0       2.2   12.9   0.0   1.7   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_11955 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GCJT.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GCJT.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GCJT.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:25 2019
+# [ok]

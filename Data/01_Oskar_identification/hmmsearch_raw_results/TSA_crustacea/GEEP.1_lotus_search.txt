@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEEP01011387.1_4     -          LOTUS_CONSENSUS      -            4.4e-13   54.1   0.0   1.1e-12   52.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Penaeus monodon Control_10059 transcribed RNA sequence
+GEEP01017032.1_1     -          LOTUS_CONSENSUS      -            4.4e-13   54.1   0.0   1.1e-12   52.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Penaeus monodon Control_10902 transcribed RNA sequence
+GEEP01055364.1_3     -          LOTUS_CONSENSUS      -            1.3e-12   52.6   0.0   4.3e-12   50.9   0.0   1.9   1   0   0   1   1   1   1 TSA: Penaeus monodon WSV_7920 transcribed RNA sequence
+GEEP01076115.1_5     -          LOTUS_CONSENSUS      -            1.3e-12   52.6   0.0   4.3e-12   50.9   0.0   1.9   1   0   0   1   1   1   1 TSA: Penaeus monodon WSV_4163 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEEP.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEEP.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEEP.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:23 2019
+# [ok]

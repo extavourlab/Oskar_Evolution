@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGFJ01008542.1_1     -          LOTUS_CONSENSUS      -            3.7e-13   51.9   0.0   7.6e-13   50.9   0.0   1.5   1   0   0   1   1   1   1 TSA: hypothetical protein, partial cds, transcribed RNA sequence
+GGFJ01004112.1_1     -          LOTUS_CONSENSUS      -            1.4e-12   50.0   0.0   2.8e-12   49.0   0.0   1.5   1   0   0   1   1   1   1 TSA: putative cell wall protein rbr3, partial cds, transcribed RNA sequence
+GGFJ01005518.1_1     -          LOTUS_CONSENSUS      -            1.2e-11   47.1   0.0   2.4e-11   46.1   0.0   1.6   1   0   0   1   1   1   1 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+GGFJ01007520.1_1     -          LOTUS_CONSENSUS      -              0.028   17.0   0.6       2.6   10.7   0.1   3.1   3   0   0   3   3   3   0 TSA: putative annexin, partial cds, transcribed RNA sequence
+GGFJ01007690.1_1     -          LOTUS_CONSENSUS      -               0.31   13.6   0.4        12    8.6   0.1   2.7   3   0   0   3   3   3   0 TSA: putative annexin, partial cds, transcribed RNA sequence
+GGFJ01007562.1_1     -          LOTUS_CONSENSUS      -               0.34   13.5   0.6        11    8.6   0.1   2.7   3   0   0   3   3   3   0 TSA: putative annexin, partial cds, transcribed RNA sequence
+GGFJ01007561.1_1     -          LOTUS_CONSENSUS      -               0.34   13.5   0.5        12    8.5   0.1   2.7   3   0   0   3   3   3   0 TSA: putative annexin, partial cds, transcribed RNA sequence
+GGFJ01007569.1_1     -          LOTUS_CONSENSUS      -               0.35   13.5   0.3        14    8.3   0.0   2.7   3   0   0   3   3   3   0 TSA: putative annexin, partial cds, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGFJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:13 2019
+# [ok]

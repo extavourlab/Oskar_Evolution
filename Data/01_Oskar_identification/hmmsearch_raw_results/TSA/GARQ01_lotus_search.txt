@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARQ01030070.1_4     -          LOTUS_CONSENSUS      -            1.1e-18   71.1   0.4   3.9e-10   43.8   0.0   4.0   4   0   0   4   4   4   3 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp41171_c1 transcribed RNA sequence
+GARQ01029886.1_5     -          LOTUS_CONSENSUS      -            9.9e-11   45.7   0.0   3.6e-10   43.9   0.0   2.0   2   0   0   2   2   2   1 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp41019_c0 transcribed RNA sequence
+GARQ01014458.1_4     -          LOTUS_CONSENSUS      -             0.0013   22.8   0.0    0.0031   21.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp28592_c0 transcribed RNA sequence
+GARQ01022350.1_1     -          LOTUS_CONSENSUS      -               0.17   16.1   0.0      0.17   16.1   0.0   2.3   3   0   0   3   3   3   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp35498_c0 transcribed RNA sequence
+GARQ01006637.1_2     -          LOTUS_CONSENSUS      -                  2   12.6   0.0       4.4   11.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci BT_Q_WB_ZJU_comp18520_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:38 2019
+# [ok]

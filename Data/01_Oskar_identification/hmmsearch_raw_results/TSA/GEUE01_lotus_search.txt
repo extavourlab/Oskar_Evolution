@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEUE01068939.1_1     -          LOTUS_CONSENSUS      -            4.5e-21   79.5   0.2     3e-16   64.1   0.2   2.4   2   0   0   2   2   2   2 TSA: Callosobruchus maculatus c23845_g1_i3 transcribed RNA sequence
+GEUE01058277.1_3     -          LOTUS_CONSENSUS      -            7.1e-21   78.9   0.7   2.2e-20   77.3   0.7   1.9   1   0   0   1   1   1   1 TSA: Callosobruchus maculatus c5643_g1_i1 transcribed RNA sequence
+GEUE01060335.1_1     -          LOTUS_CONSENSUS      -            1.2e-20   78.2   0.2   6.8e-16   62.9   0.2   2.9   2   0   0   2   2   2   2 TSA: Callosobruchus maculatus c23845_g1_i1 transcribed RNA sequence
+GEUE01043662.1_1     -          LOTUS_CONSENSUS      -            1.2e-20   78.1   0.2     7e-16   62.9   0.2   2.9   2   0   0   2   2   2   2 TSA: Callosobruchus maculatus c23845_g1_i5 transcribed RNA sequence
+GEUE01026692.1_1     -          LOTUS_CONSENSUS      -            2.9e-18   70.5   0.1   9.6e-17   65.7   0.0   2.7   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus c28859_g1_i2 transcribed RNA sequence
+GEUE01061405.1_2     -          LOTUS_CONSENSUS      -              3e-18   70.5   0.1   9.6e-17   65.7   0.0   2.6   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus c28859_g1_i1 transcribed RNA sequence
+GEUE01055529.1_1     -          LOTUS_CONSENSUS      -              3e-06   32.1   0.4       4.9   12.1   0.4   5.0   3   1   1   4   4   4   2 TSA: Callosobruchus maculatus c22019_g1_i1 transcribed RNA sequence
+GEUE01051676.1_1     -          LOTUS_CONSENSUS      -            4.5e-06   31.5   0.5       5.7   11.9   0.4   5.2   4   1   1   5   5   4   2 TSA: Callosobruchus maculatus c22019_g1_i3 transcribed RNA sequence
+GEUE01075372.1_2     -          LOTUS_CONSENSUS      -            5.4e-06   31.2   0.5       6.2   11.8   0.4   5.3   4   1   1   5   5   4   2 TSA: Callosobruchus maculatus c22019_g1_i2 transcribed RNA sequence
+GEUE01000805.1_2     -          LOTUS_CONSENSUS      -               0.63   15.0   1.1      0.85   14.6   1.1   1.1   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus c20833_g1_i1 transcribed RNA sequence
+GEUE01042603.1_1     -          LOTUS_CONSENSUS      -                  1   14.3   5.0        29    9.6   0.3   2.2   2   0   0   2   2   2   0 TSA: Callosobruchus maculatus c14000_g3_i1 transcribed RNA sequence
+GEUE01023983.1_1     -          LOTUS_CONSENSUS      -                1.4   13.8   0.2       3.4   12.6   0.1   1.6   1   1   0   1   1   1   0 TSA: Callosobruchus maculatus c5624_g1_i1 transcribed RNA sequence
+GEUE01006681.1_6     -          LOTUS_CONSENSUS      -                4.1   12.3   3.4       6.1   11.8   1.5   2.3   2   0   0   2   2   1   0 TSA: Callosobruchus maculatus c27979_g1_i2 transcribed RNA sequence
+GEUE01033039.1_6     -          LOTUS_CONSENSUS      -                6.1   11.8   2.6        22   10.0   0.1   2.7   2   1   1   3   3   3   0 TSA: Callosobruchus maculatus c37081_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEUE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:13 2019
+# [ok]

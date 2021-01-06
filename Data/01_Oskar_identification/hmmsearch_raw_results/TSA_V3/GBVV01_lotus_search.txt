@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVV01025966.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-22   82.6   0.1   1.8e-22   82.6   0.1   2.4   2   1   0   2   2   2   1 TSA: Spalangia cameroni s4246_L_16011_0_a_43_0_l_1805 transcribed RNA sequence
+GBVV01016755.1_5     -          oskar_filtered.aligned.LOTUS_domain -              2e-17   66.4   0.1   3.6e-17   65.6   0.1   1.4   1   0   0   1   1   1   1 TSA: Spalangia cameroni C75853_a_8_0_l_913 transcribed RNA sequence
+GBVV01022202.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-15   58.8   0.0   2.1e-14   56.7   0.0   2.2   2   0   0   2   2   2   1 TSA: Spalangia cameroni C91670_a_49_0_l_3529 transcribed RNA sequence
+GBVV01023807.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00014   25.2   0.0       6.9   10.1   0.0   4.6   2   1   3   5   5   5   2 TSA: Spalangia cameroni s2274_L_4556_0_a_48_7_l_5543 transcribed RNA sequence
+GBVV01024445.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0041   20.5   0.3     0.017   18.5   0.3   2.1   1   0   0   1   1   1   1 TSA: Spalangia cameroni s2858_L_6400_1_a_11_6_l_2103 transcribed RNA sequence
+GBVV01024444.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.022   18.1   0.2     0.022   18.1   0.2   2.8   2   1   0   2   2   2   0 TSA: Spalangia cameroni s2857_L_6400_0_a_5_9_l_2608 transcribed RNA sequence
+GBVV01020190.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.8   11.4   1.9   2.1e+02    5.4   0.0   3.5   4   0   0   4   4   4   0 TSA: Spalangia cameroni C85915_a_59_0_l_1676 transcribed RNA sequence
+GBVV01023206.1_3     -          oskar_filtered.aligned.LOTUS_domain -                4.4   10.8   3.4       6.3   10.3   1.1   2.1   2   0   0   2   2   2   0 TSA: Spalangia cameroni s1726_L_3067_0_a_24_1_l_3042 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:13 2019
+# [ok]

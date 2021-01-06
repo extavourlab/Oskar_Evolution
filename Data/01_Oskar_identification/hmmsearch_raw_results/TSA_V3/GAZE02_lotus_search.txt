@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZE02055767.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-13   56.3   0.0     2e-13   56.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Mastotermes darwiniensis C307155_a_3_0_l_252 transcribed RNA sequence
+GAZE02157582.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00091   25.1   0.2      0.59   16.1   0.1   2.5   2   0   0   2   2   2   2 TSA: Mastotermes darwiniensis s20526_L_112875_0_a_13_4_l_744 transcribed RNA sequence
+GAZE02065522.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.3   17.0   0.0      0.32   16.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis C327638_a_3_0_l_256 transcribed RNA sequence
+GAZE02158189.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.3   17.0   0.4      0.52   16.3   0.4   1.3   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis s21072_L_118836_0_a_5_0_l_789 transcribed RNA sequence
+GAZE02133526.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.55   16.2   0.1     1e+02    8.9   0.0   2.5   2   1   0   2   2   2   0 TSA: Mastotermes darwiniensis C501059_a_14_0_l_787 transcribed RNA sequence
+GAZE02158277.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.1   15.3   0.0     4e+02    7.0   0.0   2.5   2   1   0   2   2   2   0 TSA: Mastotermes darwiniensis s21151_L_119652_0_a_9_2_l_1871 transcribed RNA sequence
+GAZE02047830.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.1   15.3   2.5       1.8   14.6   1.7   1.7   1   1   1   2   2   2   0 TSA: Mastotermes darwiniensis C290627_a_3_0_l_249 transcribed RNA sequence
+GAZE02025435.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.8   0.0       1.7   14.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis C244130_a_4_0_l_242 transcribed RNA sequence
+GAZE02140582.1_4     -          oskar_filtered.aligned.LOTUS_domain -                  4   13.4   1.5        71    9.4   0.2   2.3   2   0   0   2   2   2   0 TSA: Mastotermes darwiniensis C521615_a_5_0_l_1222 transcribed RNA sequence
+GAZE02059241.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  5   13.1   0.2         6   12.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis C314419_a_7_0_l_253 transcribed RNA sequence
+GAZE02044520.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.5   13.0   0.4       6.5   12.7   0.4   1.2   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis C283793_a_3_0_l_248 transcribed RNA sequence
+GAZE02059768.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.8   12.9   0.0       9.4   12.2   0.0   1.4   1   1   0   1   1   1   0 TSA: Mastotermes darwiniensis C315521_a_4_0_l_253 transcribed RNA sequence
+GAZE02153083.1_3     -          oskar_filtered.aligned.LOTUS_domain -                6.3   12.8   0.2        16   11.5   0.2   1.6   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis s16471_L_34255_0_a_6_4_l_951 transcribed RNA sequence
+GAZE02153084.1_3     -          oskar_filtered.aligned.LOTUS_domain -                6.4   12.8   0.2        16   11.5   0.2   1.6   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis s16472_L_34255_1_a_6_6_l_951 transcribed RNA sequence
+GAZE02055393.1_1     -          oskar_filtered.aligned.LOTUS_domain -                7.2   12.6   0.1       8.4   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Mastotermes darwiniensis C306367_a_5_0_l_252 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZE02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZE02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZE02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:37 2019
+# [ok]

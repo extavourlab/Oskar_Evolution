@@ -1,0 +1,34 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFWI01007709.1_4     -          oskar_filtered.aligned.OSK_domain -               0.13   18.8   3.8      0.15   18.5   3.8   1.3   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs5175_0_1_1 transcribed RNA sequence
+GFWI01346199.1_5     -          oskar_filtered.aligned.OSK_domain -               0.18   18.3   0.6      0.22   18.0   0.6   1.3   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs108144_0_1_1 transcribed RNA sequence
+GFWI01246235.1_1     -          oskar_filtered.aligned.OSK_domain -                2.7   14.4   0.7       4.5   13.7   0.7   1.3   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs58046_1_6_8 transcribed RNA sequence
+GFWI01216027.1_5     -          oskar_filtered.aligned.OSK_domain -                3.7   14.0   0.0       4.4   13.7   0.0   1.0   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs56631_0_3_1 transcribed RNA sequence
+GFWI01216038.1_5     -          oskar_filtered.aligned.OSK_domain -                4.2   13.8   0.1       5.4   13.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs56631_0_4_1 transcribed RNA sequence
+GFWI01302925.1_4     -          oskar_filtered.aligned.OSK_domain -                4.6   13.7   1.2         5   13.5   1.2   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs65284_0_1_1 transcribed RNA sequence
+GFWI01340069.1_5     -          oskar_filtered.aligned.OSK_domain -                5.2   13.5   0.4       6.1   13.3   0.4   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs102042_0_1_1 transcribed RNA sequence
+GFWI01246227.1_1     -          oskar_filtered.aligned.OSK_domain -                5.3   13.5   0.8       8.9   12.7   0.8   1.3   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs58046_1_6_1 transcribed RNA sequence
+GFWI01038254.1_6     -          oskar_filtered.aligned.OSK_domain -                5.7   13.4   0.0         7   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs22708_0_2_1 transcribed RNA sequence
+GFWI01213135.1_3     -          oskar_filtered.aligned.OSK_domain -                  6   13.3   0.1       7.4   13.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs56475_0_6_4 transcribed RNA sequence
+GFWI01009097.1_4     -          oskar_filtered.aligned.OSK_domain -                6.1   13.3   0.2       7.2   13.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs6092_0_1_1 transcribed RNA sequence
+GFWI01101081.1_6     -          oskar_filtered.aligned.OSK_domain -                6.5   13.2   0.2       7.9   12.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs44834_0_1_2 transcribed RNA sequence
+GFWI01347115.1_5     -          oskar_filtered.aligned.OSK_domain -                  7   13.1   0.0       8.6   12.8   0.0   1.0   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs109047_0_1_1 transcribed RNA sequence
+GFWI01098144.1_1     -          oskar_filtered.aligned.OSK_domain -                7.3   13.0   0.7       8.6   12.8   0.7   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs44123_0_2_2 transcribed RNA sequence
+GFWI01308659.1_6     -          oskar_filtered.aligned.OSK_domain -                7.6   13.0   0.0       9.8   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs70990_0_2_1 transcribed RNA sequence
+GFWI01213134.1_3     -          oskar_filtered.aligned.OSK_domain -                7.7   12.9   0.0       9.2   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs56475_0_6_3 transcribed RNA sequence
+GFWI01020045.1_3     -          oskar_filtered.aligned.OSK_domain -                8.2   12.8   0.3        13   12.2   0.1   1.6   2   0   0   2   2   2   0 TSA: Helicoverpa armigera HaMT_contigs13339_0_1_1 transcribed RNA sequence
+GFWI01020046.1_3     -          oskar_filtered.aligned.OSK_domain -                8.4   12.8   0.4        13   12.2   0.1   1.6   2   0   0   2   2   2   0 TSA: Helicoverpa armigera HaMT_contigs13339_0_2_1 transcribed RNA sequence
+GFWI01258658.1_4     -          oskar_filtered.aligned.OSK_domain -                8.7   12.8   0.4       9.5   12.6   0.4   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs58542_2_9_1 transcribed RNA sequence
+GFWI01039656.1_5     -          oskar_filtered.aligned.OSK_domain -                9.2   12.7   0.0        11   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs23414_1_1_1 transcribed RNA sequence
+GFWI01308658.1_5     -          oskar_filtered.aligned.OSK_domain -                9.3   12.7   0.0        13   12.2   0.0   1.4   1   1   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs70990_0_1_1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFWI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:53 2019
+# [ok]

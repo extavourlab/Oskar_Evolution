@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWQ01039240.1_6     -          OSK_CONSENSUS        -            1.4e-30  110.3   0.3   1.7e-30  110.0   0.3   1.1   1   0   0   1   1   1   1 TSA: Panchlora nivea breed wildtype C218714_a_3_0_l_624, transcribed RNA sequence
+GDWQ01011041.1_3     -          OSK_CONSENSUS        -              0.052   17.4   0.5     0.064   17.1   0.5   1.0   1   0   0   1   1   1   0 TSA: Panchlora nivea breed wildtype C142043_a_3_0_l_245, transcribed RNA sequence
+GDWQ01015617.1_4     -          OSK_CONSENSUS        -               0.66   13.8   0.1      0.99   13.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Panchlora nivea breed wildtype C153370_a_25_0_l_265, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:56 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFMC01006752.1_4     -          LOTUS_CONSENSUS      -               0.17   15.5   0.0      0.19   15.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Triatoma infestans TINF_IAZY42G01C6D5S transcribed RNA sequence
+GFMC01001837.1_2     -          LOTUS_CONSENSUS      -               0.28   14.8   0.0      0.68   13.6   0.0   1.6   1   0   0   1   1   1   0 TSA: Triatoma infestans TINF_isotig01876 transcribed RNA sequence
+GFMC01002289.1_6     -          LOTUS_CONSENSUS      -               0.41   14.3   0.4        20    8.9   0.0   2.7   2   0   0   2   2   2   0 TSA: Triatoma infestans TINF_isotig02346 transcribed RNA sequence
+GFMC01028421.1_6     -          LOTUS_CONSENSUS      -               0.47   14.1   0.6      0.77   13.4   0.6   1.3   1   0   0   1   1   1   0 TSA: Triatoma infestans TINF_H9TUR5Q02FIA9X transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFMC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFMC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFMC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:03 2019
+# [ok]

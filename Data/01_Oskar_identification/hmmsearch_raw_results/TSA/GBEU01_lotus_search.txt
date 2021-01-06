@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBEU01017582.1_1     -          LOTUS_CONSENSUS      -            1.7e-19   73.9   0.2     4e-19   72.7   0.0   1.7   2   0   0   2   2   2   1 TSA: Telenomus podisi Locus_2338_Transcript_3/6_Confidence_0.276_Length_770 transcribed RNA sequence
+GBEU01017581.1_4     -          LOTUS_CONSENSUS      -            1.7e-19   73.9   0.7   4.2e-19   72.6   0.0   2.0   3   0   0   3   3   2   1 TSA: Telenomus podisi Locus_2338_Transcript_2/6_Confidence_0.431_Length_792 transcribed RNA sequence
+GBEU01017583.1_6     -          LOTUS_CONSENSUS      -            1.8e-19   73.8   0.1     4e-19   72.7   0.0   1.6   2   0   0   2   2   1   1 TSA: Telenomus podisi Locus_2338_Transcript_4/6_Confidence_0.276_Length_770 transcribed RNA sequence
+GBEU01017580.1_1     -          LOTUS_CONSENSUS      -            1.9e-19   73.7   0.0   4.2e-19   72.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Telenomus podisi Locus_2338_Transcript_1/6_Confidence_0.431_Length_792 transcribed RNA sequence
+GBEU01017584.1_1     -          LOTUS_CONSENSUS      -            1.9e-19   73.7   0.2   4.7e-19   72.5   0.0   1.7   2   0   0   2   2   2   1 TSA: Telenomus podisi Locus_2338_Transcript_5/6_Confidence_0.397_Length_839 transcribed RNA sequence
+GBEU01017585.1_6     -          LOTUS_CONSENSUS      -              2e-19   73.6   0.1   4.7e-19   72.5   0.0   1.7   2   0   0   2   2   1   1 TSA: Telenomus podisi Locus_2338_Transcript_6/6_Confidence_0.397_Length_839 transcribed RNA sequence
+GBEU01015049.1_6     -          LOTUS_CONSENSUS      -            4.5e-18   69.3   0.2   9.9e-17   65.0   0.0   2.6   2   0   0   2   2   2   1 TSA: Telenomus podisi Locus_1652_Transcript_1/1_Confidence_1.000_Length_1700 transcribed RNA sequence
+GBEU01043479.1_5     -          LOTUS_CONSENSUS      -            5.7e-17   65.8   0.4   5.6e-16   62.6   0.0   2.1   2   0   0   2   2   2   1 TSA: Telenomus podisi Locus_16918_Transcript_2/2_Confidence_0.900_Length_696 transcribed RNA sequence
+GBEU01043601.1_6     -          LOTUS_CONSENSUS      -            6.8e-16   62.3   0.2   2.4e-15   60.6   0.2   1.9   1   0   0   1   1   1   1 TSA: Telenomus podisi Locus_17054_Transcript_1/1_Confidence_1.000_Length_1282 transcribed RNA sequence
+GBEU01043478.1_5     -          LOTUS_CONSENSUS      -            3.2e-11   47.4   0.5   3.5e-10   44.0   0.0   2.2   2   0   0   2   2   2   1 TSA: Telenomus podisi Locus_16918_Transcript_1/2_Confidence_0.900_Length_673 transcribed RNA sequence
+GBEU01016166.1_1     -          LOTUS_CONSENSUS      -            0.00015   26.0   0.0   0.00031   25.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Telenomus podisi Locus_1953_Transcript_1/2_Confidence_0.800_Length_1022 transcribed RNA sequence
+GBEU01002494.1_1     -          LOTUS_CONSENSUS      -                0.2   16.0   0.0      0.62   14.4   0.0   1.9   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_3_Transcript_2483/6084_Confidence_1.000_Length_536 transcribed RNA sequence
+GBEU01002486.1_6     -          LOTUS_CONSENSUS      -                0.2   16.0   0.0      0.62   14.4   0.0   1.9   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_3_Transcript_2475/6084_Confidence_1.000_Length_536 transcribed RNA sequence
+GBEU01038974.1_2     -          LOTUS_CONSENSUS      -               0.54   14.6   0.8      0.73   14.2   0.8   1.2   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_12610_Transcript_1/1_Confidence_1.000_Length_340 transcribed RNA sequence
+GBEU01004826.1_2     -          LOTUS_CONSENSUS      -                1.5   13.2   0.0        26    9.2   0.0   2.1   1   1   1   2   2   2   0 TSA: Telenomus podisi Locus_3_Transcript_4815/6084_Confidence_1.000_Length_544 transcribed RNA sequence
+GBEU01004829.1_4     -          LOTUS_CONSENSUS      -                1.5   13.2   0.0        26    9.2   0.0   2.1   1   1   1   2   2   2   0 TSA: Telenomus podisi Locus_3_Transcript_4818/6084_Confidence_1.000_Length_544 transcribed RNA sequence
+GBEU01040909.1_5     -          LOTUS_CONSENSUS      -                2.4   12.5   1.5       4.7   11.6   1.5   1.4   1   0   0   1   1   1   0 TSA: Telenomus podisi Locus_14361_Transcript_1/4_Confidence_0.357_Length_766 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBEU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:17 2019
+# [ok]

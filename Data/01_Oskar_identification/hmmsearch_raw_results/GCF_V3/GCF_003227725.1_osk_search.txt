@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011252874.1       -          oskar_filtered.aligned.OSK_domain -            8.6e-64  215.1   0.1   8.6e-64  215.1   0.1   1.8   2   0   0   2   2   2   1 uncharacterized protein LOC105249250 [Camponotus floridanus]
+XP_019882875.1       -          oskar_filtered.aligned.OSK_domain -              0.027   14.6   0.2     0.076   13.1   0.2   1.8   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X2 [Camponotus floridanus]
+XP_019882874.1       -          oskar_filtered.aligned.OSK_domain -              0.037   14.1   0.7     0.083   12.9   0.2   1.9   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X1 [Camponotus floridanus]
+XP_025261994.1       -          oskar_filtered.aligned.OSK_domain -              0.037   14.1   0.7     0.083   12.9   0.2   1.9   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X1 [Camponotus floridanus]
+XP_025265441.1       -          oskar_filtered.aligned.OSK_domain -               0.33   11.0   4.4         8    6.5   0.1   2.4   2   1   0   2   2   2   0 uncharacterized protein LOC105253545 isoform X2 [Camponotus floridanus]
+XP_025265562.1       -          oskar_filtered.aligned.OSK_domain -               0.33   11.0   4.4         8    6.5   0.1   2.4   2   1   0   2   2   2   0 uncharacterized protein LOC112638290 [Camponotus floridanus]
+XP_025265563.1       -          oskar_filtered.aligned.OSK_domain -               0.33   11.0   4.4         8    6.5   0.1   2.4   2   1   0   2   2   2   0 uncharacterized protein LOC112638290 [Camponotus floridanus]
+XP_025265564.1       -          oskar_filtered.aligned.OSK_domain -               0.33   11.0   4.4         8    6.5   0.1   2.4   2   1   0   2   2   2   0 uncharacterized protein LOC112638290 [Camponotus floridanus]
+XP_025266203.1       -          oskar_filtered.aligned.OSK_domain -               0.33   11.0   4.4         8    6.5   0.1   2.4   2   1   0   2   2   2   0 uncharacterized protein LOC112638528 isoform X2 [Camponotus floridanus]
+XP_025269749.1       -          oskar_filtered.aligned.OSK_domain -                2.3    8.3   8.3        16    5.5   4.4   2.1   1   1   1   2   2   2   0 juvenile hormone acid O-methyltransferase [Camponotus floridanus]
+XP_025269750.1       -          oskar_filtered.aligned.OSK_domain -                2.3    8.3   8.3        16    5.5   4.4   2.1   1   1   1   2   2   2   0 juvenile hormone acid O-methyltransferase [Camponotus floridanus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003227725.1_Cflo_v7.5_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003227725.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003227725.1_Cflo_v7.5_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:10 2019
+# [ok]

@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IACV01090059.1_2     -          OSK_CONSENSUS        -            6.4e-23   86.5   0.0   1.3e-22   85.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Nilaparvata lugens RNA, comp22010_c0_seq1, transcribed RNA sequence
+IACV01107591.1_6     -          OSK_CONSENSUS        -              0.042   18.8   0.5     0.065   18.2   0.5   1.3   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp12512_c0_seq2, transcribed RNA sequence
+IACV01107590.1_6     -          OSK_CONSENSUS        -              0.046   18.7   0.5     0.079   17.9   0.5   1.3   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp12512_c0_seq1, transcribed RNA sequence
+IACV01078880.1_6     -          OSK_CONSENSUS        -               0.23   16.4   0.7      0.27   16.2   0.7   1.0   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp7884_c0_seq6, transcribed RNA sequence
+IACV01068676.1_1     -          OSK_CONSENSUS        -               0.35   15.8   0.0      0.99   14.4   0.0   1.8   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp21544_c0_seq1, transcribed RNA sequence
+IACV01017798.1_2     -          OSK_CONSENSUS        -                0.4   15.7   0.1      0.47   15.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp47559_c0_seq1, transcribed RNA sequence
+IACV01081189.1_1     -          OSK_CONSENSUS        -               0.64   15.0   0.1      0.78   14.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp6039_c0_seq6, transcribed RNA sequence
+IACV01126637.1_2     -          OSK_CONSENSUS        -                1.2   14.1   0.8       1.5   13.8   0.8   1.0   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp1106_c0_seq6, transcribed RNA sequence
+IACV01132044.1_2     -          OSK_CONSENSUS        -                1.4   13.9   0.3         2   13.3   0.1   1.4   1   1   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp52150_c0_seq1, transcribed RNA sequence
+IACV01002355.1_6     -          OSK_CONSENSUS        -                1.9   13.4   3.2       2.2   13.2   3.2   1.0   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp40582_c0_seq1, transcribed RNA sequence
+IACV01064831.1_1     -          OSK_CONSENSUS        -                2.1   13.3   1.7       2.8   12.9   1.7   1.1   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp5493_c0_seq18, transcribed RNA sequence
+IACV01007860.1_5     -          OSK_CONSENSUS        -                2.6   13.0   0.3       2.8   12.9   0.3   1.1   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp3599_c0_seq11, transcribed RNA sequence
+IACV01115722.1_5     -          OSK_CONSENSUS        -                2.7   13.0   0.0       2.8   12.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp37920_c0_seq1, transcribed RNA sequence
+IACV01049215.1_6     -          OSK_CONSENSUS        -                3.1   12.8   0.1   3.3e+02    6.2   0.0   2.1   2   0   0   2   2   2   0 TSA: Nilaparvata lugens RNA, comp17886_c0_seq6, transcribed RNA sequence
+IACV01058951.1_1     -          OSK_CONSENSUS        -                3.5   12.6   0.2       3.9   12.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp5495_c0_seq38, transcribed RNA sequence
+IACV01081188.1_1     -          OSK_CONSENSUS        -                4.3   12.3   0.1       5.9   11.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp6039_c0_seq5, transcribed RNA sequence
+IACV01110539.1_4     -          OSK_CONSENSUS        -                5.1   12.1   0.1       7.2   11.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Nilaparvata lugens RNA, comp43083_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IACV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:54 2019
+# [ok]

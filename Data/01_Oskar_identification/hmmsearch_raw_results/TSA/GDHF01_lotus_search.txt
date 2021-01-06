@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDHF01029687.1_1     -          LOTUS_CONSENSUS      -              7e-25   90.6   5.2   4.4e-24   88.0   0.0   4.1   3   1   0   3   3   3   1 TSA: Bactrocera latifrons TR18413-c2_g1_i1 transcribed RNA sequence
+GDHF01014032.1_1     -          LOTUS_CONSENSUS      -            7.3e-25   90.5   5.2   4.5e-24   88.0   0.0   4.1   3   1   0   3   3   3   1 TSA: Bactrocera latifrons TR18413-c2_g1_i3 transcribed RNA sequence
+GDHF01018553.1_1     -          LOTUS_CONSENSUS      -            2.4e-24   88.9   0.0   2.4e-24   88.9   0.0   3.8   3   1   0   3   3   2   1 TSA: Bactrocera latifrons TR18413-c2_g1_i4 transcribed RNA sequence
+GDHF01007522.1_1     -          LOTUS_CONSENSUS      -              5e-24   87.8   0.0     5e-24   87.8   0.0   4.3   4   1   0   4   4   4   1 TSA: Bactrocera latifrons TR18413-c2_g1_i2 transcribed RNA sequence
+GDHF01022443.1_3     -          LOTUS_CONSENSUS      -            7.4e-16   61.7   0.8   2.5e-15   60.0   0.0   2.3   2   0   0   2   2   2   1 TSA: Bactrocera latifrons TR35431-c0_g2_i3 transcribed RNA sequence
+GDHF01030475.1_3     -          LOTUS_CONSENSUS      -            7.6e-16   61.6   0.8   2.6e-15   59.9   0.0   2.3   2   0   0   2   2   2   1 TSA: Bactrocera latifrons TR35431-c0_g2_i4 transcribed RNA sequence
+GDHF01000994.1_3     -          LOTUS_CONSENSUS      -            4.4e-10   43.2   0.0   9.6e-10   42.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Bactrocera latifrons TR18346-c0_g1_i1 transcribed RNA sequence
+GDHF01020225.1_5     -          LOTUS_CONSENSUS      -                1.6   12.5   1.2        39    8.1   0.2   2.4   2   0   0   2   2   2   0 TSA: Bactrocera latifrons TR60245-c2_g2_i6 transcribed RNA sequence
+GDHF01010602.1_5     -          LOTUS_CONSENSUS      -                2.2   12.0   1.2        47    7.8   0.2   2.4   2   0   0   2   2   2   0 TSA: Bactrocera latifrons TR60245-c2_g2_i3 transcribed RNA sequence
+GDHF01033825.1_5     -          LOTUS_CONSENSUS      -                2.6   11.8   1.2        64    7.4   0.2   2.8   2   0   0   2   2   2   0 TSA: Bactrocera latifrons TR60245-c2_g2_i1 transcribed RNA sequence
+GDHF01005745.1_5     -          LOTUS_CONSENSUS      -                2.9   11.7   1.2        54    7.6   0.2   2.4   2   0   0   2   2   2   0 TSA: Bactrocera latifrons TR60245-c2_g2_i8 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDHF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDHF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDHF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:59:23 2019
+# [ok]

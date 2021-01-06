@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNC01015782.1_6     -          oskar_filtered.aligned.LOTUS_domain -            7.6e-18   67.1   0.0   1.7e-15   59.5   0.0   3.0   2   0   0   2   2   2   1 TSA: Telenomus sp. AD-2014 s3334_L_11213_0_a_27_7_l_3983 transcribed RNA sequence
+GBNC01011137.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   63.0   0.3   3.5e-16   61.7   0.3   1.8   1   0   0   1   1   1   1 TSA: Telenomus sp. AD-2014 C46480_a_60_0_l_1898 transcribed RNA sequence
+GBNC01013883.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-16   61.0   6.2   3.6e-14   55.3   0.2   3.3   4   0   0   4   4   4   2 TSA: Telenomus sp. AD-2014 s1620_L_2597_0_a_10_1_l_1945 transcribed RNA sequence
+GBNC01013884.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-15   58.5   7.2   7.4e-14   54.3   0.2   3.6   4   0   0   4   4   4   2 TSA: Telenomus sp. AD-2014 s1621_L_2597_1_a_12_3_l_3332 transcribed RNA sequence
+GBNC01015860.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-06   30.2   0.0       6.7    9.5   0.0   4.9   2   1   2   4   4   4   3 TSA: Telenomus sp. AD-2014 s3404_L_11705_0_a_70_0_l_5369 transcribed RNA sequence
+GBNC01015051.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.066   15.9   0.1        47    6.7   0.0   4.3   2   1   2   4   4   4   0 TSA: Telenomus sp. AD-2014 s2674_L_7417_0_a_40_9_l_2957 transcribed RNA sequence
+GBNC01008083.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.76   12.5   3.9       2.6   10.8   1.9   2.4   1   1   1   2   2   2   0 TSA: Telenomus sp. AD-2014 C36632_a_53_0_l_921 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:03 2019
+# [ok]

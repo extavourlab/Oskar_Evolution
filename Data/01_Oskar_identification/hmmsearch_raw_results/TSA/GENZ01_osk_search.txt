@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENZ01069109.1_3     -          OSK_CONSENSUS        -             0.0072   22.0   0.3    0.0077   21.9   0.3   1.0   1   0   0   1   1   1   1 TSA: Agathiphaga queenslandensis TR118326-c0_g1_i1 transcribed RNA sequence
+GENZ01034727.1_4     -          OSK_CONSENSUS        -               0.92   15.1   0.5      0.92   15.1   0.5   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR66694-c1_g2_i1 transcribed RNA sequence
+GENZ01159255.1_6     -          OSK_CONSENSUS        -                  1   15.0   0.1       1.5   14.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR247405-c0_g1_i1 transcribed RNA sequence
+GENZ01183343.1_6     -          OSK_CONSENSUS        -                  1   15.0   1.1        28   10.3   0.1   2.1   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR271860-c0_g1_i1 transcribed RNA sequence
+GENZ01143073.1_6     -          OSK_CONSENSUS        -                1.2   14.7   0.3       4.5   12.9   0.0   1.8   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR236787-c0_g1_i1 transcribed RNA sequence
+GENZ01203502.1_5     -          OSK_CONSENSUS        -                1.4   14.5   0.2       1.7   14.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR290682-c9_g10_i1 transcribed RNA sequence
+GENZ01172314.1_3     -          OSK_CONSENSUS        -                1.9   14.1   0.5       2.1   14.0   0.5   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR262148-c5_g1_i2 transcribed RNA sequence
+GENZ01016126.1_1     -          OSK_CONSENSUS        -                2.1   14.0   0.0       2.5   13.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR32266-c0_g1_i1 transcribed RNA sequence
+GENZ01014592.1_1     -          OSK_CONSENSUS        -                2.7   13.6   0.5       3.8   13.1   0.5   1.3   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR29206-c0_g1_i1 transcribed RNA sequence
+GENZ01203505.1_5     -          OSK_CONSENSUS        -                2.8   13.5   0.3       3.1   13.4   0.3   1.0   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR290682-c9_g13_i1 transcribed RNA sequence
+GENZ01171631.1_3     -          OSK_CONSENSUS        -                3.5   13.2   0.0       6.2   12.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR262085-c0_g1_i1 transcribed RNA sequence
+GENZ01031708.1_2     -          OSK_CONSENSUS        -                3.6   13.2   0.0         4   13.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR62139-c1_g1_i1 transcribed RNA sequence
+GENZ01021575.1_5     -          OSK_CONSENSUS        -                4.3   13.0   0.1       5.6   12.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR43415-c0_g1_i1 transcribed RNA sequence
+GENZ01021576.1_6     -          OSK_CONSENSUS        -                4.8   12.8   0.1       6.3   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR43415-c0_g2_i1 transcribed RNA sequence
+GENZ01113751.1_6     -          OSK_CONSENSUS        -                  5   12.7   0.0       5.7   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR201561-c0_g1_i1 transcribed RNA sequence
+GENZ01163987.1_4     -          OSK_CONSENSUS        -                8.6   12.0   2.6   2.9e+02    7.0   0.2   2.0   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR253294-c1_g1_i2 transcribed RNA sequence
+GENZ01012357.1_5     -          OSK_CONSENSUS        -                9.9   11.8   0.0        11   11.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR24677-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:08 2019
+# [ok]

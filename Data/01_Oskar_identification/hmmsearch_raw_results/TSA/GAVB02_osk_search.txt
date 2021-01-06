@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAVB02006656.1_4     -          OSK_CONSENSUS        -               0.19   15.1   0.1      0.19   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Triodia sylvina C119818_a_3_0_l_273 transcribed RNA sequence
+GAVB02006385.1_4     -          OSK_CONSENSUS        -               0.22   14.9   0.2      0.24   14.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Triodia sylvina C118860_a_7_0_l_269 transcribed RNA sequence
+GAVB02018177.1_6     -          OSK_CONSENSUS        -               0.33   14.3   0.3         1   12.7   0.3   1.8   1   1   0   1   1   1   0 TSA: Triodia sylvina C159730_a_5_0_l_597 transcribed RNA sequence
+GAVB02038563.1_2     -          OSK_CONSENSUS        -               0.82   13.0   2.5       3.3   11.1   2.5   2.1   1   1   0   1   1   1   0 TSA: Triodia sylvina s6954_L_9788_1_a_27_4_l_1881 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAVB02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:44 2019
+# [ok]

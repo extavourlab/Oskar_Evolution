@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCJ01039934.1_4     -          LOTUS_CONSENSUS      -            5.8e-26   94.9   0.0   1.8e-25   93.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Sundablatta sexpunctata breed wildtype C209777_a_10_0_l_1592, transcribed RNA sequence
+GDCJ01042057.1_3     -          LOTUS_CONSENSUS      -            1.5e-20   77.6   0.0   3.3e-19   73.2   0.0   2.8   2   0   0   2   2   2   1 TSA: Sundablatta sexpunctata breed wildtype C216079_a_8_0_l_3221, transcribed RNA sequence
+GDCJ01040318.1_3     -          LOTUS_CONSENSUS      -            1.7e-14   58.1   0.0   3.1e-09   41.3   0.0   3.6   3   0   0   3   3   3   2 TSA: Sundablatta sexpunctata breed wildtype C210919_a_7_0_l_1712, transcribed RNA sequence
+GDCJ01042244.1_6     -          LOTUS_CONSENSUS      -              0.066   17.8   0.0   4.3e+02    5.5   0.0   4.9   3   1   2   5   5   5   0 TSA: Sundablatta sexpunctata breed wildtype C216627_a_25_0_l_4388, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:49 2019
+# [ok]

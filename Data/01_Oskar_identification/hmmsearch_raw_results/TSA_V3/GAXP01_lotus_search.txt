@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXP01004243.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-21   79.9   0.1     1e-18   71.4   0.0   3.0   2   0   0   2   2   2   2 TSA: Sphaeropthalma orestes comp4860_c0_seq1 transcribed RNA sequence
+GAXP01004244.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-21   79.8   0.1   1.1e-18   71.3   0.0   3.0   2   0   0   2   2   2   2 TSA: Sphaeropthalma orestes comp4860_c0_seq2 transcribed RNA sequence
+GAXP01018150.1_1     -          oskar_filtered.aligned.LOTUS_domain -              2e-20   76.9   0.2   2.3e-14   57.4   0.0   3.6   2   0   0   2   2   2   2 TSA: Sphaeropthalma orestes comp11780_c0_seq2 transcribed RNA sequence
+GAXP01018149.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-20   76.5   0.8   2.1e-14   57.6   0.0   3.5   3   0   0   3   3   3   2 TSA: Sphaeropthalma orestes comp11780_c0_seq1 transcribed RNA sequence
+GAXP01003205.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.2   4.4        77    7.6   0.6   2.6   2   0   0   2   2   2   0 TSA: Sphaeropthalma orestes comp3956_c0_seq1 transcribed RNA sequence
+GAXP01015242.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.7   12.9   0.9       3.5   11.9   0.2   1.9   2   0   0   2   2   2   0 TSA: Sphaeropthalma orestes comp10952_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:31 2019
+# [ok]

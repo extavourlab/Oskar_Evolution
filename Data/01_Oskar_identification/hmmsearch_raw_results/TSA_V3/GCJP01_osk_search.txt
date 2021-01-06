@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCJP01019045.1_2     -          oskar_filtered.aligned.OSK_domain -               0.27   15.3   0.3      0.28   15.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Biston suppressaria CL7705.Contig2_All transcribed RNA sequence
+GCJP01019046.1_6     -          oskar_filtered.aligned.OSK_domain -               0.27   15.3   0.3      0.29   15.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Biston suppressaria CL7705.Contig3_All transcribed RNA sequence
+GCJP01019047.1_4     -          oskar_filtered.aligned.OSK_domain -               0.91   13.6   0.2       1.1   13.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Biston suppressaria CL7705.Contig4_All transcribed RNA sequence
+GCJP01027022.1_1     -          oskar_filtered.aligned.OSK_domain -                1.2   13.2   0.0       1.5   12.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Biston suppressaria Unigene834_All transcribed RNA sequence
+GCJP01019044.1_6     -          oskar_filtered.aligned.OSK_domain -                2.1   12.4   0.3       2.2   12.4   0.3   1.1   1   0   0   1   1   1   0 TSA: Biston suppressaria CL7705.Contig1_All transcribed RNA sequence
+GCJP01069199.1_3     -          oskar_filtered.aligned.OSK_domain -                3.2   11.8   0.0       3.8   11.6   0.0   1.0   1   0   0   1   1   1   0 TSA: Biston suppressaria Unigene43061_All transcribed RNA sequence
+GCJP01054162.1_6     -          oskar_filtered.aligned.OSK_domain -                5.9   11.0   2.3       6.8   10.8   0.3   2.1   2   0   0   2   2   2   0 TSA: Biston suppressaria Unigene28006_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCJP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCJP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCJP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:22 2019
+# [ok]

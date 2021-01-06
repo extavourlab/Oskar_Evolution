@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUC01055026.1_2     -          oskar_filtered.aligned.OSK_domain -            5.7e-23   86.1   0.0   1.8e-22   84.4   0.0   1.9   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unitig_55342 transcribed RNA sequence
+GAUC01001611.1_1     -          oskar_filtered.aligned.OSK_domain -               0.25   15.5   0.1      0.31   15.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_1613 transcribed RNA sequence
+GAUC01005996.1_6     -          oskar_filtered.aligned.OSK_domain -                1.2   13.2   0.0       1.4   13.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_6008 transcribed RNA sequence
+GAUC01063033.1_6     -          oskar_filtered.aligned.OSK_domain -                2.6   12.2   0.6       3.8   11.6   0.6   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_63366 transcribed RNA sequence
+GAUC01035991.1_2     -          oskar_filtered.aligned.OSK_domain -                4.1   11.6   0.1       4.1   11.6   0.1   2.3   3   0   0   3   3   3   0 TSA: Bemisia tabaci Unitig_36229 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:46 2019
+# [ok]

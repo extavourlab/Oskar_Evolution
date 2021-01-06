@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHKU01083181.1_3     -          oskar_filtered.aligned.LOTUS_domain -              1e-13   56.5   0.0   9.3e-13   53.4   0.0   2.6   2   0   0   2   2   2   1 TSA: Spodoptera frugiperda isolate Sf9 c30913_g1, transcribed RNA sequence
+GHKU01048000.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-12   52.6   0.0   9.9e-10   43.7   0.0   2.4   2   0   0   2   2   2   2 TSA: Spodoptera frugiperda isolate Sf9 c32923_g5, transcribed RNA sequence
+GHKU01080799.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.7   14.1   0.4         3   13.3   0.4   1.6   1   1   0   1   1   1   0 TSA: Spodoptera frugiperda isolate Sf9 c95469_g1, transcribed RNA sequence
+GHKU01098723.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.4   0.0       3.7   13.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Spodoptera frugiperda isolate Sf9 c47174_g1, transcribed RNA sequence
+GHKU01008469.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.4   12.4   0.0        10   11.5   0.0   1.5   1   1   0   1   1   1   0 TSA: Spodoptera frugiperda isolate Sf9 c99318_g1, transcribed RNA sequence
+GHKU01051633.1_3     -          oskar_filtered.aligned.LOTUS_domain -                9.3   11.7   2.9        20   10.6   0.1   2.0   2   0   0   2   2   2   0 TSA: Spodoptera frugiperda isolate Sf9 c30254_g1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHKU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHKU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHKU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:55 2019
+# [ok]

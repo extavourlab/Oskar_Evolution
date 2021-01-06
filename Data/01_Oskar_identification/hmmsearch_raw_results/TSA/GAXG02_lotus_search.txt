@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXG02065140.1_3     -          LOTUS_CONSENSUS      -            1.2e-17   69.1   0.0   1.7e-17   68.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Gynaikothrips ficorum C270434_a_4_0_l_471 transcribed RNA sequence
+GAXG02090017.1_4     -          LOTUS_CONSENSUS      -            2.7e-14   58.3   0.0   5.3e-14   57.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Gynaikothrips ficorum C345177_a_14_0_l_1566 transcribed RNA sequence
+GAXG02102443.1_2     -          LOTUS_CONSENSUS      -            5.5e-13   54.1   0.0   1.1e-12   53.2   0.0   1.5   1   0   0   1   1   1   1 TSA: Gynaikothrips ficorum s2036_L_2801_0_a_3_8_l_758 transcribed RNA sequence
+GAXG02068543.1_4     -          LOTUS_CONSENSUS      -            9.3e-09   40.5   0.0   1.8e-08   39.7   0.0   1.5   1   0   0   1   1   1   1 TSA: Gynaikothrips ficorum C280340_a_3_0_l_516 transcribed RNA sequence
+GAXG02090990.1_3     -          LOTUS_CONSENSUS      -            4.3e-05   28.8   0.1    0.0029   23.0   0.0   2.6   2   0   0   2   2   2   1 TSA: Gynaikothrips ficorum C348263_a_7_0_l_1855 transcribed RNA sequence
+GAXG02077971.1_4     -          LOTUS_CONSENSUS      -                2.1   13.8   0.2       5.4   12.5   0.0   1.8   2   0   0   2   2   2   0 TSA: Gynaikothrips ficorum C307868_a_6_0_l_698 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXG02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:45 2019
+# [ok]

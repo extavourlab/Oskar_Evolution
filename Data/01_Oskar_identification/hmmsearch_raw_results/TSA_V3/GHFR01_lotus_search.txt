@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFR01002239.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-21   78.1   0.0   2.2e-20   76.2   0.0   2.1   1   0   0   1   1   1   1 TSA: Andrena fulva isolate aful1 contig2333, transcribed RNA sequence
+GHFR01007212.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.094   16.4   4.4      0.26   15.0   0.0   3.7   4   1   1   5   5   5   0 TSA: Andrena fulva isolate aful1 contig7589, transcribed RNA sequence
+GHFR01020057.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.57   13.9   0.1      0.68   13.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Andrena fulva isolate aful1 contig21653, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:38 2019
+# [ok]

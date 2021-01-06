@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDZJ01012479.1_2     -          oskar_filtered.aligned.OSK_domain -               0.41   13.7   0.6         2   11.5   0.0   2.0   2   0   0   2   2   2   0 TSA: Gyna lurida breed wildtype C138148_a_7_0_l_846, transcribed RNA sequence
+GDZJ01022908.1_5     -          oskar_filtered.aligned.OSK_domain -               0.43   13.7   0.3      0.49   13.5   0.3   1.1   1   0   0   1   1   1   0 TSA: Gyna lurida breed wildtype C91251_a_3_0_l_261, transcribed RNA sequence
+GDZJ01020369.1_1     -          oskar_filtered.aligned.OSK_domain -                1.4   12.0   0.0       1.5   11.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Gyna lurida breed wildtype C84988_a_3_0_l_247, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDZJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:54 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZC01021805.1_2     -          LOTUS_CONSENSUS      -            2.2e-18   69.8   0.2   2.2e-18   69.8   0.2   2.7   3   0   0   3   3   3   1 TSA: Uroleucon ambrosiae breed wildtype s11572_L_27304_0_4_6_LINEAR, transcribed RNA sequence
+GCZC01022958.1_1     -          LOTUS_CONSENSUS      -            7.1e-15   58.6  14.4   3.5e-10   43.5   0.0   5.5   6   0   0   6   6   6   3 TSA: Uroleucon ambrosiae breed wildtype s1260_L_2171_1_23_5_COMPLEX, transcribed RNA sequence
+GCZC01030373.1_6     -          LOTUS_CONSENSUS      -            4.6e-13   52.8   0.3   7.5e-11   45.7   0.0   3.0   2   0   0   2   2   2   1 TSA: Uroleucon ambrosiae breed wildtype s535_L_848_0_43_4_LINEAR, transcribed RNA sequence
+GCZC01022980.1_1     -          LOTUS_CONSENSUS      -            1.1e-11   48.4   0.2   2.3e-11   47.3   0.0   1.6   2   0   0   2   2   2   1 TSA: Uroleucon ambrosiae breed wildtype s1262_L_2171_3_18_8_COMPLEX, transcribed RNA sequence
+GCZC01022946.1_1     -          LOTUS_CONSENSUS      -            2.7e-11   47.1   0.0   5.9e-11   46.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Uroleucon ambrosiae breed wildtype s1259_L_2171_0_15_3_COMPLEX, transcribed RNA sequence
+GCZC01012300.1_1     -          LOTUS_CONSENSUS      -            5.2e-11   46.2  11.1   2.9e-10   43.8   0.0   4.0   4   0   0   4   4   4   2 TSA: Uroleucon ambrosiae breed wildtype C168268_17_0, transcribed RNA sequence
+GCZC01020720.1_6     -          LOTUS_CONSENSUS      -              3e-05   27.7   0.1   2.9e+02    5.3   0.0   6.7   5   2   2   7   7   7   0 TSA: Uroleucon ambrosiae breed wildtype s10594_L_24229_0_39_6_COMPLEX, transcribed RNA sequence
+GCZC01020721.1_4     -          LOTUS_CONSENSUS      -             0.0001   26.0   0.1   3.5e+02    5.1   0.0   6.5   5   2   2   7   7   6   0 TSA: Uroleucon ambrosiae breed wildtype s10595_L_24229_1_32_6_COMPLEX, transcribed RNA sequence
+GCZC01033412.1_4     -          LOTUS_CONSENSUS      -               0.17   15.7   0.2       5.3   10.9   0.0   2.7   2   1   0   2   2   2   0 TSA: Uroleucon ambrosiae breed wildtype s8096_L_17230_0_17_8_LINEAR, transcribed RNA sequence
+GCZC01000671.1_6     -          LOTUS_CONSENSUS      -               0.29   15.0   0.7      0.35   14.7   0.7   1.2   1   0   0   1   1   1   0 TSA: Uroleucon ambrosiae breed wildtype C102619_2_0, transcribed RNA sequence
+GCZC01013822.1_3     -          LOTUS_CONSENSUS      -               0.62   13.9   0.2      0.67   13.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Uroleucon ambrosiae breed wildtype C76708_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:11:04 2019
+# [ok]

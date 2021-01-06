@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUF02003364.1_1     -          OSK_CONSENSUS        -            4.9e-29  104.1   1.5   8.7e-29  103.3   1.5   1.4   1   0   0   1   1   1   1 TSA: Leuctra sp. AD-2013 C112763_a_38_0_l_3017 transcribed RNA sequence
+GAUF02021072.1_1     -          OSK_CONSENSUS        -            2.4e-14   56.4   0.3   4.1e-13   52.4   0.3   2.3   1   1   0   1   1   1   1 TSA: Leuctra sp. AD-2013 s3190_L_3645_0_a_23_2_l_1940 transcribed RNA sequence
+GAUF02001146.1_4     -          OSK_CONSENSUS        -               0.11   15.2   0.8      0.29   13.9   0.8   1.6   1   0   0   1   1   1   0 TSA: Leuctra sp. AD-2013 C104471_a_10_0_l_1580 transcribed RNA sequence
+GAUF02019836.1_4     -          OSK_CONSENSUS        -               0.72   12.6   0.0      0.82   12.4   0.0   1.0   1   0   0   1   1   1   0 TSA: Leuctra sp. AD-2013 s2072_L_1957_1_a_3_8_l_325 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUF02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUF02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUF02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:24 2019
+# [ok]

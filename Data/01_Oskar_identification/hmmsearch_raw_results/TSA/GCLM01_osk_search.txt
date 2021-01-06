@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCLM01061907.1_6     -          OSK_CONSENSUS        -            1.3e-52  182.5   0.1   1.4e-51  179.1   0.0   2.2   2   0   0   2   2   2   1 TSA: Aedes albopictus Unigene28145_All transcribed RNA sequence
+GCLM01035883.1_2     -          OSK_CONSENSUS        -               0.83   14.1   0.0         1   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Aedes albopictus Unigene1931_All transcribed RNA sequence
+GCLM01082713.1_1     -          OSK_CONSENSUS        -               0.97   13.9   0.0      0.99   13.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Aedes albopictus Unigene49127_All transcribed RNA sequence
+GCLM01062881.1_3     -          OSK_CONSENSUS        -                1.9   13.0   1.3       6.5   11.2   1.2   1.8   1   1   0   1   1   1   0 TSA: Aedes albopictus Unigene29130_All transcribed RNA sequence
+GCLM01077485.1_5     -          OSK_CONSENSUS        -                2.2   12.7   0.4       2.5   12.6   0.4   1.0   1   0   0   1   1   1   0 TSA: Aedes albopictus Unigene43866_All transcribed RNA sequence
+GCLM01071622.1_5     -          OSK_CONSENSUS        -                2.3   12.7   0.4       2.5   12.5   0.4   1.2   1   0   0   1   1   1   0 TSA: Aedes albopictus Unigene38002_All transcribed RNA sequence
+GCLM01084521.1_2     -          OSK_CONSENSUS        -                2.5   12.5   0.2       3.3   12.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Aedes albopictus Unigene50940_All transcribed RNA sequence
+GCLM01034530.1_3     -          OSK_CONSENSUS        -                4.8   11.6   0.2        43    8.5   0.0   2.1   2   0   0   2   2   2   0 TSA: Aedes albopictus Unigene567_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCLM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCLM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCLM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:38 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOX01148546.1_3     -          oskar_filtered.aligned.OSK_domain -                1.8   13.7   1.2       1.7   13.8   1.2   1.1   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN26803_c8_g1_i1 transcribed RNA sequence
+GFOX01005548.1_5     -          oskar_filtered.aligned.OSK_domain -                  2   13.7   0.3       2.7   13.2   0.3   1.2   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN55672_c0_g1_i1 transcribed RNA sequence
+GFOX01000726.1_6     -          oskar_filtered.aligned.OSK_domain -                  2   13.6   0.7       2.1   13.5   0.7   1.1   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN40437_c0_g1_i1 transcribed RNA sequence
+GFOX01038348.1_2     -          oskar_filtered.aligned.OSK_domain -                2.6   13.3   0.1       6.7   11.9   0.1   1.7   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN10954_c0_g1_i1 transcribed RNA sequence
+GFOX01028307.1_2     -          oskar_filtered.aligned.OSK_domain -                3.6   12.8   0.0       3.6   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN49500_c0_g1_i1 transcribed RNA sequence
+GFOX01128639.1_3     -          oskar_filtered.aligned.OSK_domain -                3.9   12.7   0.0       4.9   12.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN75417_c0_g1_i1 transcribed RNA sequence
+GFOX01064460.1_3     -          oskar_filtered.aligned.OSK_domain -                5.8   12.1   0.3        11   11.3   0.0   1.5   2   0   0   2   2   2   0 TSA: Pyrrhocoris apterus TRINITY_DN2082_c0_g1_i1 transcribed RNA sequence
+GFOX01064461.1_3     -          oskar_filtered.aligned.OSK_domain -                5.8   12.1   0.3        11   11.3   0.0   1.5   2   0   0   2   2   2   0 TSA: Pyrrhocoris apterus TRINITY_DN2082_c0_g2_i1 transcribed RNA sequence
+GFOX01098601.1_2     -          oskar_filtered.aligned.OSK_domain -                6.9   11.9   0.1       8.2   11.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN2187_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:22 2019
+# [ok]

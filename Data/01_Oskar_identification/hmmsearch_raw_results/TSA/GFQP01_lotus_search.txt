@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFQP01030517.1_6     -          LOTUS_CONSENSUS      -            0.00015   26.0   0.0   0.00024   25.4   0.0   1.3   1   0   0   1   1   1   1 TSA: Eriocrania semipurpurella Unigene33296_Esem-at transcribed RNA sequence
+GFQP01045613.1_1     -          LOTUS_CONSENSUS      -              0.046   18.1   0.0     0.059   17.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Eriocrania semipurpurella Unigene44344_Esem-at transcribed RNA sequence
+GFQP01031591.1_1     -          LOTUS_CONSENSUS      -               0.41   15.0   0.0      0.58   14.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Eriocrania semipurpurella Unigene18341_Esem-at transcribed RNA sequence
+GFQP01039002.1_4     -          LOTUS_CONSENSUS      -               0.49   14.8   0.1      0.67   14.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Eriocrania semipurpurella Unigene48604_Esem-at transcribed RNA sequence
+GFQP01022166.1_2     -          LOTUS_CONSENSUS      -               0.68   14.3   1.2       6.3   11.2   0.7   2.1   2   0   0   2   2   2   0 TSA: Eriocrania semipurpurella CL3932.Contig1_Esem-at transcribed RNA sequence
+GFQP01019738.1_5     -          LOTUS_CONSENSUS      -                1.5   13.2   1.4       3.4   12.1   0.7   1.9   1   1   1   2   2   2   0 TSA: Eriocrania semipurpurella CL2996.Contig3_Esem-at transcribed RNA sequence
+GFQP01027902.1_6     -          LOTUS_CONSENSUS      -                1.6   13.1   0.2         4   11.8   0.1   1.9   1   1   0   1   1   1   0 TSA: Eriocrania semipurpurella CL2363.Contig1_Esem-at transcribed RNA sequence
+GFQP01018687.1_5     -          LOTUS_CONSENSUS      -                1.7   13.1   1.4       3.8   11.9   0.7   1.9   1   1   1   2   2   2   0 TSA: Eriocrania semipurpurella CL2996.Contig1_Esem-at transcribed RNA sequence
+GFQP01018510.1_5     -          LOTUS_CONSENSUS      -                1.7   13.0   1.3       3.8   11.9   0.7   1.9   1   1   1   2   2   2   0 TSA: Eriocrania semipurpurella CL2996.Contig2_Esem-at transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFQP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFQP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFQP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:48 2019
+# [ok]

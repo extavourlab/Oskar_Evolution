@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEDC01007199.1_1     -          OSK_CONSENSUS        -            1.9e-25   92.7   0.6   6.2e-25   91.0   0.0   2.2   2   0   0   2   2   2   1 TSA: Clastoptera arizonana TR18379_c0_g2_i6 transcribed RNA sequence
+GEDC01024572.1_3     -          OSK_CONSENSUS        -              2e-25   92.6   0.7     6e-25   91.1   0.0   2.2   2   0   0   2   2   2   1 TSA: Clastoptera arizonana TR18379_c0_g2_i4 transcribed RNA sequence
+GEDC01025689.1_2     -          OSK_CONSENSUS        -            2.2e-25   92.5   0.6   7.3e-25   90.8   0.0   2.2   2   0   0   2   2   2   1 TSA: Clastoptera arizonana TR18379_c0_g2_i2 transcribed RNA sequence
+GEDC01030522.1_2     -          OSK_CONSENSUS        -            6.5e-25   91.0   0.9   1.9e-24   89.4   0.1   2.2   2   0   0   2   2   2   1 TSA: Clastoptera arizonana TR18379_c0_g2_i5 transcribed RNA sequence
+GEDC01003509.1_1     -          OSK_CONSENSUS        -                0.1   15.6   3.3       9.6    9.2   0.2   2.1   1   1   1   2   2   2   0 TSA: Clastoptera arizonana TR19688_c3_g1_i2 transcribed RNA sequence
+GEDC01022183.1_3     -          OSK_CONSENSUS        -                1.4   11.9   1.9   2.6e+02    4.5   0.0   4.5   5   1   0   6   6   6   0 TSA: Clastoptera arizonana TR18935_c2_g1_i5 transcribed RNA sequence
+GEDC01008182.1_2     -          OSK_CONSENSUS        -                1.9   11.4   0.4   2.7e+02    4.4   0.0   4.0   4   2   2   6   6   6   0 TSA: Clastoptera arizonana TR18935_c2_g1_i1 transcribed RNA sequence
+GEDC01007021.1_3     -          OSK_CONSENSUS        -                2.5   11.0   0.7   3.4e+02    4.1   0.0   4.2   4   2   1   6   6   6   0 TSA: Clastoptera arizonana TR18935_c2_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEDC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:15 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYE01076282.1_2     -          oskar_filtered.aligned.OSK_domain -            2.3e-46  162.6   0.0   1.2e-45  160.2   0.0   2.0   2   0   0   2   2   2   1 TSA: Ellipsidion sp. AD-2015 breed wildtype s20706_L_86058_0_a_23_8_l_1931, transcribed RNA sequence
+GDYE01081721.1_6     -          oskar_filtered.aligned.OSK_domain -            5.2e-29  106.0   0.8   2.1e-28  104.0   0.7   2.0   2   0   0   2   2   2   1 TSA: Ellipsidion sp. AD-2015 breed wildtype s5827_L_9858_0_a_24_6_l_1541, transcribed RNA sequence
+GDYE01033147.1_5     -          oskar_filtered.aligned.OSK_domain -               0.55   14.6   0.1      0.92   13.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C296863_a_3_0_l_333, transcribed RNA sequence
+GDYE01044805.1_5     -          oskar_filtered.aligned.OSK_domain -                  1   13.8   0.0       1.3   13.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C333170_a_3_0_l_455, transcribed RNA sequence
+GDYE01039710.1_4     -          oskar_filtered.aligned.OSK_domain -                1.7   13.0   1.7       4.5   11.7   1.5   1.6   1   1   1   2   2   2   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C317018_a_7_0_l_392, transcribed RNA sequence
+GDYE01016278.1_6     -          oskar_filtered.aligned.OSK_domain -                1.8   12.9   0.0         2   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C248070_a_3_0_l_247, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:31 2019
+# [ok]

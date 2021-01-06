@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYC01057210.1_2     -          OSK_CONSENSUS        -              0.011   19.6   0.7     0.016   19.1   0.7   1.2   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype s5123_L_8707_0_a_3_7_l_539, transcribed RNA sequence
+GDYC01004521.1_5     -          OSK_CONSENSUS        -              0.015   19.2   0.0     0.019   18.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype C123231_a_4_0_l_231, transcribed RNA sequence
+GDYC01035083.1_1     -          OSK_CONSENSUS        -              0.094   16.6   1.5      0.12   16.3   0.1   1.8   2   0   0   2   2   2   0 TSA: Episymploce sundaica breed wildtype C211639_a_3_0_l_590, transcribed RNA sequence
+GDYC01030345.1_3     -          OSK_CONSENSUS        -               0.64   13.9   0.3       2.4   12.1   0.1   1.9   2   1   0   2   2   2   0 TSA: Episymploce sundaica breed wildtype C197055_a_4_0_l_478, transcribed RNA sequence
+GDYC01052032.1_4     -          OSK_CONSENSUS        -               0.75   13.7   0.1       1.6   12.6   0.1   1.5   1   1   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype s13305_L_51979_0_a_6_6_l_2070, transcribed RNA sequence
+GDYC01022964.1_1     -          OSK_CONSENSUS        -                1.1   13.2   0.3       1.4   12.9   0.3   1.2   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype C174904_a_3_0_l_364, transcribed RNA sequence
+GDYC01049309.1_4     -          OSK_CONSENSUS        -                1.4   12.8   0.0       4.2   11.3   0.0   1.8   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype s107_L_105_0_a_19_5_l_2476, transcribed RNA sequence
+GDYC01029586.1_1     -          OSK_CONSENSUS        -                2.2   12.2   0.1       2.8   11.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Episymploce sundaica breed wildtype C194782_a_7_0_l_464, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:31 2019
+# [ok]

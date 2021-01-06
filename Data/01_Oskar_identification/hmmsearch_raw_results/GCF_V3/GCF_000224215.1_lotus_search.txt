@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017031605.1       -          oskar_filtered.aligned.LOTUS_domain -              6e-25   87.8   0.2   2.2e-24   85.9   0.2   2.0   2   0   0   2   2   2   1 PREDICTED: maternal effect protein oskar [Drosophila kikkawai]
+XP_017022372.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-12   46.6   1.0   7.9e-12   45.6   0.0   2.0   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108074727 isoform X2 [Drosophila kikkawai]
+XP_017022371.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-12   46.4   1.0   8.4e-12   45.6   0.0   2.0   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108074727 isoform X1 [Drosophila kikkawai]
+XP_017025171.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-11   43.8   0.9   2.3e-10   41.0   0.0   2.7   3   0   0   3   3   3   1 PREDICTED: uncharacterized protein LOC108076716 isoform X3 [Drosophila kikkawai]
+XP_017025168.1       -          oskar_filtered.aligned.LOTUS_domain -            3.6e-11   43.5   0.5     3e-10   40.6   0.0   2.7   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7B isoform X1 [Drosophila kikkawai]
+XP_017022085.1       -          oskar_filtered.aligned.LOTUS_domain -            5.1e-07   30.2   0.0   5.8e-07   30.0   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108074518 [Drosophila kikkawai]
+XP_017024169.1       -          oskar_filtered.aligned.LOTUS_domain -              0.099   13.2   0.0      0.12   13.0   0.0   1.2   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC108076022 [Drosophila kikkawai]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000224215.1_Dkik_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000224215.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000224215.1_Dkik_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:57 2019
+# [ok]

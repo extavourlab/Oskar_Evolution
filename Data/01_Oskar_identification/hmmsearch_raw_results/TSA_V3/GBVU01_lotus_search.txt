@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVU01008679.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-27   97.5   0.0   1.5e-26   96.1   0.0   1.8   1   0   0   1   1   1   1 TSA: Pelecinus polyturator C127900_a_30_0_l_2084 transcribed RNA sequence
+GBVU01006218.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.9e-22   80.9   1.7   1.8e-20   76.6   0.2   2.8   2   0   0   2   2   2   1 TSA: Pelecinus polyturator C119925_a_5_0_l_1179 transcribed RNA sequence
+GBVU01005683.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-20   74.7   0.3   6.6e-20   74.7   0.3   2.7   3   0   0   3   3   3   1 TSA: Pelecinus polyturator C118223_a_24_0_l_1078 transcribed RNA sequence
+GBVU01005711.1_1     -          oskar_filtered.aligned.LOTUS_domain -            0.00021   25.0   0.0       5.3   10.9   0.0   3.4   1   1   1   3   3   3   2 TSA: Pelecinus polyturator C118319_a_17_0_l_1084 transcribed RNA sequence
+GBVU01012719.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.59   13.9   0.0      0.63   13.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Pelecinus polyturator C58461_a_3_0_l_243 transcribed RNA sequence
+GBVU01026560.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.76   13.6   0.0      0.97   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Pelecinus polyturator C97082_a_67_0_l_501 transcribed RNA sequence
+GBVU01003382.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.1   3.4       4.5   11.1   0.9   2.4   1   1   1   2   2   2   0 TSA: Pelecinus polyturator C110775_a_16_0_l_780 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:46 2019
+# [ok]

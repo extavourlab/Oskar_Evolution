@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDDW01011907.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-16   63.4   0.0   1.4e-08   37.5   0.0   3.4   3   0   0   3   3   3   3 TSA: Corythucha ciliata breed wildtype C79681_a_28_0_l_4042, transcribed RNA sequence
+GDDW01012604.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-16   63.2   0.6     2e-13   53.0   0.0   3.4   3   0   0   3   3   3   1 TSA: Corythucha ciliata breed wildtype s1529_L_2125_0_a_48_9_l_3600, transcribed RNA sequence
+GDDW01011956.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-06   29.0   0.0       2.9   10.8   0.0   4.7   4   2   0   4   4   4   2 TSA: Corythucha ciliata breed wildtype C79861_a_31_0_l_4504, transcribed RNA sequence
+GDDW01013378.1_5     -          oskar_filtered.aligned.LOTUS_domain -            9.7e-06   28.3   0.0        12    8.8   0.0   4.8   3   1   1   4   4   4   3 TSA: Corythucha ciliata breed wildtype s2252_L_3412_0_a_68_4_l_3479, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDDW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:46 2019
+# [ok]

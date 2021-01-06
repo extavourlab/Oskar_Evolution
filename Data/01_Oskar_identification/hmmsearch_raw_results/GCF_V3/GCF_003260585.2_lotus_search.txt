@@ -1,0 +1,37 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012532829.1       -          oskar_filtered.aligned.LOTUS_domain -            4.2e-31  107.6   0.1   3.3e-30  104.7   0.0   2.4   2   1   0   2   2   2   1 uncharacterized protein LOC105834706 [Monomorium pharaonis]
+XP_012527691.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-23   83.2   0.2   2.3e-19   69.9   0.0   3.3   3   0   0   3   3   2   2 tudor domain-containing protein 7 isoform X2 [Monomorium pharaonis]
+XP_012527688.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-23   83.2   0.2   2.3e-19   69.9   0.0   3.3   3   0   0   3   3   2   2 tudor domain-containing protein 7 isoform X1 [Monomorium pharaonis]
+XP_012527690.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-23   83.2   0.2   2.3e-19   69.9   0.0   3.3   3   0   0   3   3   2   2 tudor domain-containing protein 7 isoform X1 [Monomorium pharaonis]
+XP_012540683.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   63.9   6.1   9.3e-14   51.9   0.1   4.1   4   0   0   4   4   4   2 uncharacterized protein LOC105839143 isoform X1 [Monomorium pharaonis]
+XP_012540684.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   63.9   6.1   9.3e-14   51.9   0.1   4.1   4   0   0   4   4   4   2 uncharacterized protein LOC105839143 isoform X1 [Monomorium pharaonis]
+XP_012540685.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   63.9   6.1   9.3e-14   51.9   0.1   4.1   4   0   0   4   4   4   2 uncharacterized protein LOC105839143 isoform X1 [Monomorium pharaonis]
+XP_012540686.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   63.9   6.1   9.3e-14   51.9   0.1   4.1   4   0   0   4   4   4   2 uncharacterized protein LOC105839143 isoform X1 [Monomorium pharaonis]
+XP_012540688.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   63.9   6.1   9.3e-14   51.9   0.1   4.1   4   0   0   4   4   4   2 uncharacterized protein LOC105839143 isoform X1 [Monomorium pharaonis]
+XP_012540690.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   63.9   6.1   9.3e-14   51.9   0.1   4.1   4   0   0   4   4   4   2 uncharacterized protein LOC105839143 isoform X2 [Monomorium pharaonis]
+XP_028046238.1       -          oskar_filtered.aligned.LOTUS_domain -            9.8e-07   29.4   0.0      0.28   11.8   0.0   5.4   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X7 [Monomorium pharaonis]
+XP_028046237.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-06   29.2   0.0      0.31   11.7   0.0   5.4   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X6 [Monomorium pharaonis]
+XP_012523334.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-06   28.7   0.0      0.33   11.6   0.0   5.3   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X5 [Monomorium pharaonis]
+XP_012523333.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-06   28.7   0.0      0.33   11.6   0.0   5.3   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X4 [Monomorium pharaonis]
+XP_028046236.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-06   28.6   0.0      0.33   11.6   0.0   5.3   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Monomorium pharaonis]
+XP_028046235.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-06   28.6   0.0      0.33   11.6   0.0   5.3   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Monomorium pharaonis]
+XP_028046234.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-06   28.5   0.0      0.33   11.6   0.0   5.3   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Monomorium pharaonis]
+XP_012525498.1       -          oskar_filtered.aligned.LOTUS_domain -               0.02   15.6   0.7      0.11   13.1   0.0   2.8   2   1   0   2   2   1   0 uncharacterized protein LOC105830594 [Monomorium pharaonis]
+XP_012532295.1       -          oskar_filtered.aligned.LOTUS_domain -              0.069   13.8   0.5        22    5.7   0.0   3.2   4   0   0   4   4   3   0 annexin B11 isoform X3 [Monomorium pharaonis]
+XP_028049338.1       -          oskar_filtered.aligned.LOTUS_domain -              0.073   13.7   0.4        20    5.9   0.0   3.2   4   0   0   4   4   3   0 annexin B11 isoform X4 [Monomorium pharaonis]
+XP_028049336.1       -          oskar_filtered.aligned.LOTUS_domain -               0.11   13.2   0.5        26    5.5   0.0   3.1   4   0   0   4   4   3   0 annexin B9 isoform X2 [Monomorium pharaonis]
+XP_012521290.1       -          oskar_filtered.aligned.LOTUS_domain -               0.12   13.1   0.0      0.28   11.8   0.0   1.6   1   0   0   1   1   1   0 uncharacterized protein LOC105827750 [Monomorium pharaonis]
+XP_028048109.1       -          oskar_filtered.aligned.LOTUS_domain -               0.44   11.2   1.6       3.8    8.2   0.7   2.7   1   1   1   2   2   2   0 spermine oxidase [Monomorium pharaonis]
+XP_028048110.1       -          oskar_filtered.aligned.LOTUS_domain -               0.44   11.2   1.6       3.8    8.2   0.7   2.7   1   1   1   2   2   2   0 spermine oxidase [Monomorium pharaonis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003260585.2_ASM326058v2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003260585.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003260585.2_ASM326058v2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:11 2019
+# [ok]

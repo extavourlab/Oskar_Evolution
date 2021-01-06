@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWR01033547.1_4     -          LOTUS_CONSENSUS      -              4e-27   97.8   0.1   2.3e-26   95.4   0.1   2.5   1   0   0   1   1   1   1 TSA: Polistes dominula s8093_L_12138_1_a_54_6_l_4598 transcribed RNA sequence
+GBWR01033546.1_6     -          LOTUS_CONSENSUS      -            4.2e-27   97.8   1.3   1.4e-26   96.1   0.1   2.7   2   0   0   2   2   2   1 TSA: Polistes dominula s8092_L_12138_0_a_58_1_l_3070 transcribed RNA sequence
+GBWR01005693.1_3     -          LOTUS_CONSENSUS      -            6.2e-21   78.0   0.0     1e-20   77.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Polistes dominula C122072_a_26_0_l_539 transcribed RNA sequence
+GBWR01011677.1_1     -          LOTUS_CONSENSUS      -            8.8e-11   45.5   2.6   0.00014   25.5   0.0   4.0   3   1   0   3   3   3   3 TSA: Polistes dominula C147483_a_4_0_l_1617 transcribed RNA sequence
+GBWR01024273.1_5     -          LOTUS_CONSENSUS      -            1.1e-05   29.1   0.2      0.13   16.1   0.0   5.4   2   1   4   6   6   6   1 TSA: Polistes dominula s10764_L_24137_0_a_29_0_l_2765 transcribed RNA sequence
+GBWR01020881.1_4     -          LOTUS_CONSENSUS      -               0.18   15.6   0.0      0.29   15.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Polistes dominula C90504_a_4_0_l_289 transcribed RNA sequence
+GBWR01013975.1_2     -          LOTUS_CONSENSUS      -               0.25   15.1   0.0      0.32   14.8   0.0   1.0   1   0   0   1   1   1   0 TSA: Polistes dominula C66762_a_3_0_l_207 transcribed RNA sequence
+GBWR01028484.1_2     -          LOTUS_CONSENSUS      -               0.96   13.3   1.1   1.1e+02    6.7   0.1   3.0   3   0   0   3   3   3   0 TSA: Polistes dominula s3522_L_4122_0_a_14_8_l_1203 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:43 2019
+# [ok]

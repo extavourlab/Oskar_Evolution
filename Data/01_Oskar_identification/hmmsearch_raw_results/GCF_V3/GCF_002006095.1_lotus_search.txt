@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_020295929.1       -          oskar_filtered.aligned.LOTUS_domain -              5e-24   84.9   0.2   7.7e-22   77.9   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7A isoform X1 [Pseudomyrmex gracilis]
+XP_020295930.1       -          oskar_filtered.aligned.LOTUS_domain -              5e-23   81.7   0.2   7.6e-21   74.7   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Pseudomyrmex gracilis]
+XP_020295931.1       -          oskar_filtered.aligned.LOTUS_domain -              5e-23   81.7   0.2   7.6e-21   74.7   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Pseudomyrmex gracilis]
+XP_020295932.1       -          oskar_filtered.aligned.LOTUS_domain -              5e-23   81.7   0.2   7.6e-21   74.7   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Pseudomyrmex gracilis]
+XP_020286918.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-17   62.6   4.5   5.4e-10   39.8   0.0   4.5   3   0   0   3   3   3   2 uncharacterized protein LOC109856261 isoform X1 [Pseudomyrmex gracilis]
+XP_020286926.1       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-16   61.1   4.3   5.3e-10   39.9   0.0   3.8   3   0   0   3   3   3   2 uncharacterized protein LOC109856261 isoform X2 [Pseudomyrmex gracilis]
+XP_020292240.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-05   25.5   0.0      0.44   11.2   0.0   4.6   3   1   1   4   4   4   1 meiosis arrest female protein 1 isoform X4 [Pseudomyrmex gracilis]
+XP_020292239.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-05   24.6   0.0      0.56   10.9   0.0   4.6   3   1   1   4   4   4   1 meiosis arrest female protein 1 isoform X3 [Pseudomyrmex gracilis]
+XP_020292238.1       -          oskar_filtered.aligned.LOTUS_domain -            3.2e-05   24.5   0.0      0.57   10.9   0.0   4.6   3   1   1   4   4   4   1 meiosis arrest female protein 1 isoform X2 [Pseudomyrmex gracilis]
+XP_020292237.1       -          oskar_filtered.aligned.LOTUS_domain -            3.9e-05   24.3   0.0       0.6   10.8   0.0   4.6   3   1   1   4   4   4   1 meiosis arrest female protein 1 isoform X1 [Pseudomyrmex gracilis]
+XP_020278672.1       -          oskar_filtered.aligned.LOTUS_domain -              0.036   14.7   1.1       7.9    7.2   0.0   3.6   4   0   0   4   4   4   0 annexin B9-like isoform X2 [Pseudomyrmex gracilis]
+XP_020278673.1       -          oskar_filtered.aligned.LOTUS_domain -              0.044   14.4   1.5       7.3    7.3   0.0   3.6   4   0   0   4   4   4   0 annexin B9-like isoform X3 [Pseudomyrmex gracilis]
+XP_020278671.1       -          oskar_filtered.aligned.LOTUS_domain -              0.051   14.2   1.7       7.4    7.3   0.1   3.6   4   0   0   4   4   4   0 annexin B9-like isoform X1 [Pseudomyrmex gracilis]
+XP_020278674.1       -          oskar_filtered.aligned.LOTUS_domain -              0.051   14.2   1.7       7.4    7.3   0.1   3.6   4   0   0   4   4   4   0 annexin B9-like isoform X1 [Pseudomyrmex gracilis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002006095.1_ASM200609v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002006095.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002006095.1_ASM200609v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:43 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARG01015882.1_4     -          oskar_filtered.aligned.OSK_domain -               0.73   12.9   0.4      0.85   12.7   0.4   1.1   1   0   0   1   1   1   0 TSA: Athetis lepigone T1_16615 transcribed RNA sequence
+GARG01020420.1_4     -          oskar_filtered.aligned.OSK_domain -                1.4   12.0   0.1       1.4   11.9   0.1   1.0   1   0   0   1   1   1   0 TSA: Athetis lepigone T1_21168 transcribed RNA sequence
+GARG01004780.1_1     -          oskar_filtered.aligned.OSK_domain -                1.5   11.9   0.6       3.5   10.7   0.4   1.6   1   1   1   2   2   2   0 TSA: Athetis lepigone T1_5093 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:23 2019
+# [ok]

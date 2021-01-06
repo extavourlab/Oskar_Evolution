@@ -1,0 +1,15 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPM01027060.1_3     -          oskar_filtered.aligned.OSK_domain -            2.6e-59  203.2   0.1   4.5e-59  202.4   0.1   1.4   1   0   0   1   1   1   1 TSA: Pimpla flavicoxis s8992_L_22784_0_a_48_5_l_1830 transcribed RNA sequence
+GBPM01027507.1_1     -          oskar_filtered.aligned.OSK_domain -               0.52   13.1   0.3      0.72   12.7   0.3   1.2   1   0   0   1   1   1   0 TSA: Pimpla flavicoxis s9394_L_24475_0_a_6_0_l_1459 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:10:58 2019
+# [ok]

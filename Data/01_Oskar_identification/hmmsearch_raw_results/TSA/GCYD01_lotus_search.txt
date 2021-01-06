@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYD01018698.1_4     -          LOTUS_CONSENSUS      -              0.058   16.9   1.6      0.22   15.0   0.2   2.4   2   0   0   2   2   2   0 TSA: Ptycta johnsoni breed wildtype s12913_L_31178_0_15_5_LINEAR, transcribed RNA sequence
+GCYD01017757.1_4     -          LOTUS_CONSENSUS      -               0.13   15.8   0.0        22    8.6   0.0   3.7   4   0   0   4   4   4   0 TSA: Ptycta johnsoni breed wildtype s12066_L_27448_0_46_9_LINEAR, transcribed RNA sequence
+GCYD01014665.1_2     -          LOTUS_CONSENSUS      -               0.18   15.3   0.0      0.39   14.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Ptycta johnsoni breed wildtype C190009_4_0, transcribed RNA sequence
+GCYD01027751.1_4     -          LOTUS_CONSENSUS      -                4.1   10.9   4.9       1.7   12.2   2.6   1.5   2   0   0   2   2   2   0 TSA: Ptycta johnsoni breed wildtype s9072_L_15938_0_13_0_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:39 2019
+# [ok]

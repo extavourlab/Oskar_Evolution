@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASX02039258.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0013   22.7   0.0    0.0024   21.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Folsomia candida s5527_L_17171_0_a_29_4_l_990 transcribed RNA sequence
+GASX02036599.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0042   21.0   0.0        39    8.3   0.0   3.7   3   1   0   3   3   3   2 TSA: Folsomia candida s3114_L_4324_1_a_39_9_l_3355 transcribed RNA sequence
+GASX02002330.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.055   17.4   0.0      0.12   16.3   0.0   1.6   1   0   0   1   1   1   0 TSA: Folsomia candida C106265_a_40_0_l_1234 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GASX02.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GASX02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GASX02.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:34 2019
+# [ok]

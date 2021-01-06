@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWX01036775.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.2e-16   62.3   0.0   1.4e-15   61.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s13145_L_57396_0_9_3_LINEAR, transcribed RNA sequence
+GCWX01005881.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-05   29.2   0.0   1.6e-05   29.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype C117657_4_0, transcribed RNA sequence
+GCWX01036239.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00022   25.3   0.7     0.058   17.5   0.5   3.0   2   0   0   2   2   2   1 TSA: Llanquihuea pilosa breed wildtype s12661_L_53463_0_17_6_LINEAR, transcribed RNA sequence
+GCWX01012754.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0021   22.1   0.0       3.1   12.0   0.0   2.0   1   1   1   2   2   2   2 TSA: Llanquihuea pilosa breed wildtype C139799_6_0, transcribed RNA sequence
+GCWX01035809.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.045   17.9   0.0     0.083   17.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Llanquihuea pilosa breed wildtype s12273_L_51064_0_5_2_LINEAR, transcribed RNA sequence
+GCWX01019706.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.85   13.8   0.0        14    9.9   0.0   2.5   3   0   0   3   3   3   0 TSA: Llanquihuea pilosa breed wildtype C165433_3_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:27 2019
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENN01054735.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-15   62.0   0.0   7.3e-13   53.7   0.0   2.5   2   0   0   2   2   2   1 TSA: Tineola bisselliella k70_212507 transcribed RNA sequence
+GENN01080611.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-15   62.0   0.0   7.3e-13   53.7   0.0   2.5   2   0   0   2   2   2   1 TSA: Tineola bisselliella k80_185916 transcribed RNA sequence
+GENN01015934.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-15   61.2   0.0   1.1e-12   53.2   0.0   2.6   2   0   0   2   2   2   1 TSA: Tineola bisselliella k52_300096 transcribed RNA sequence
+GENN01015935.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-15   61.1   0.0   1.1e-12   53.2   0.0   2.6   2   0   0   2   2   2   1 TSA: Tineola bisselliella k52_300097 transcribed RNA sequence
+GENN01109849.1_2     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-12   50.4   0.0   1.7e-07   36.5   0.0   2.1   2   0   0   2   2   2   2 TSA: Tineola bisselliella k94_190167 transcribed RNA sequence
+GENN01084470.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-11   47.7   0.0   7.2e-07   34.5   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k82_169927 transcribed RNA sequence
+GENN01084652.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-11   47.7   0.0   7.2e-07   34.5   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k82_171034 transcribed RNA sequence
+GENN01084573.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-11   47.6   0.0   7.4e-07   34.5   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k82_170536 transcribed RNA sequence
+GENN01017084.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-11   47.4   0.0   1.2e-06   33.8   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_302087 transcribed RNA sequence
+GENN01047884.1_5     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-11   47.4   0.0   1.2e-06   33.8   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k66_229035 transcribed RNA sequence
+GENN01011895.1_6     -          oskar_filtered.aligned.LOTUS_domain -              8e-11   47.2   0.0   9.8e-07   34.1   0.0   2.6   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_291745 transcribed RNA sequence
+GENN01014445.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-10   46.1   0.0   2.1e-06   33.0   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_297292 transcribed RNA sequence
+GENN01040127.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-10   46.1   0.0   2.1e-06   33.0   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k62_248632 transcribed RNA sequence
+GENN01007077.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-07   35.2   0.0       0.1   17.9   0.0   2.5   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_219117 transcribed RNA sequence
+GENN01090898.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.2e-05   28.3   0.0   6.9e-05   28.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Tineola bisselliella k86_79829 transcribed RNA sequence
+GENN01008868.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00021   26.6   0.0   0.00035   25.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Tineola bisselliella k52_276529 transcribed RNA sequence
+GENN01106385.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.035   19.5   0.0        14   11.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Tineola bisselliella k92_90551 transcribed RNA sequence
+GENN01106227.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.035   19.5   0.0        14   11.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Tineola bisselliella k92_90196 transcribed RNA sequence
+GENN01106352.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.035   19.5   0.0        14   11.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Tineola bisselliella k92_90482 transcribed RNA sequence
+GENN01109493.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.6   0.0       4.3   12.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Tineola bisselliella k94_188165 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:53 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GANM01009178.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-16   62.3   0.2   1.1e-13   54.1   0.0   3.7   3   0   0   3   3   3   1 TSA: Nilaparvata lugens Unigene16063_All transcribed RNA sequence
+GANM01016295.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-15   59.4   0.0   1.9e-14   56.6   0.0   2.0   2   0   0   2   2   2   1 TSA: Nilaparvata lugens Unigene28645_All transcribed RNA sequence
+GANM01007114.1_1     -          oskar_filtered.aligned.LOTUS_domain -            0.00018   24.6   0.0      0.39   13.9   0.0   4.5   2   1   3   5   5   5   1 TSA: Nilaparvata lugens Unigene12547_All transcribed RNA sequence
+GANM01018941.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.28   14.3   0.1      0.36   14.0   0.1   1.3   1   1   0   1   1   1   0 TSA: Nilaparvata lugens Unigene34591_All transcribed RNA sequence
+GANM01000524.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.44   13.7   0.0         1   12.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Nilaparvata lugens Unigene647_All transcribed RNA sequence
+GANM01012330.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.51   13.5   0.0       1.2   12.3   0.0   1.5   1   0   0   1   1   1   0 TSA: Nilaparvata lugens Unigene21880_All transcribed RNA sequence
+GANM01006896.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.62   13.2   0.0       1.6   11.9   0.0   1.7   1   0   0   1   1   1   0 TSA: Nilaparvata lugens Unigene12237_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GANM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:23 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXY02017799.1_3     -          LOTUS_CONSENSUS      -            7.6e-27   96.2   0.5   1.2e-25   92.3   0.2   2.7   2   0   0   2   2   2   1 TSA: Leptopilina clavipes s1792_L_2634_0_a_60_6_l_1352 transcribed RNA sequence
+GAXY02011821.1_2     -          LOTUS_CONSENSUS      -            6.1e-21   77.3   1.3   5.6e-16   61.4   0.2   2.5   2   0   0   2   2   2   2 TSA: Leptopilina clavipes C51420_a_13_0_l_926 transcribed RNA sequence
+GAXY02008248.1_2     -          LOTUS_CONSENSUS      -            2.4e-19   72.2   0.1   6.5e-19   70.8   0.0   1.7   1   1   0   1   1   1   1 TSA: Leptopilina clavipes C41062_a_6_0_l_493 transcribed RNA sequence
+GAXY02013477.1_3     -          LOTUS_CONSENSUS      -            5.3e-19   71.1   1.9   2.3e-18   69.1   0.7   2.4   2   0   0   2   2   2   1 TSA: Leptopilina clavipes C56198_a_56_0_l_1312 transcribed RNA sequence
+GAXY02016625.1_5     -          LOTUS_CONSENSUS      -            4.8e-18   68.0   0.2   4.8e-17   64.8   0.0   2.8   2   0   0   2   2   2   1 TSA: Leptopilina clavipes C65133_a_59_0_l_3656 transcribed RNA sequence
+GAXY02009954.1_4     -          LOTUS_CONSENSUS      -            4.4e-11   45.7   0.3   3.6e-10   42.8   0.0   2.1   2   0   0   2   2   2   1 TSA: Leptopilina clavipes C45934_a_7_0_l_647 transcribed RNA sequence
+GAXY02020743.1_5     -          LOTUS_CONSENSUS      -            1.4e-06   31.2   0.3       1.2   12.2   0.1   6.1   4   1   3   7   7   7   2 TSA: Leptopilina clavipes s592_L_669_0_a_46_8_l_6252 transcribed RNA sequence
+GAXY02018881.1_5     -          LOTUS_CONSENSUS      -               0.32   14.1   0.0      0.32   14.1   0.0   4.2   4   1   0   4   4   4   0 TSA: Leptopilina clavipes s2771_L_6631_0_a_27_8_l_2557 transcribed RNA sequence
+GAXY02015175.1_3     -          LOTUS_CONSENSUS      -               0.99   12.5   1.1       5.4   10.1   0.4   2.7   2   1   0   2   2   2   0 TSA: Leptopilina clavipes C61082_a_11_0_l_1985 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXY02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXY02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXY02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:05:59 2019
+# [ok]

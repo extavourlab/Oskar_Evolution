@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATD02033418.1_2     -          oskar_filtered.aligned.OSK_domain -                0.1   15.8   0.0      0.18   15.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Pogonognathellus sp. AD-2013 s6194_L_9890_0_a_48_9_l_977 transcribed RNA sequence
+GATD02023089.1_6     -          oskar_filtered.aligned.OSK_domain -                  1   12.5   0.1       1.4   12.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Pogonognathellus sp. AD-2013 C85629_a_44_0_l_589 transcribed RNA sequence
+GATD02022962.1_2     -          oskar_filtered.aligned.OSK_domain -                1.6   11.9   2.7        46    7.2   2.7   2.1   1   1   0   1   1   1   0 TSA: Pogonognathellus sp. AD-2013 C85241_a_3_0_l_581 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GATD02.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GATD02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GATD02.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:32 2019
+# [ok]

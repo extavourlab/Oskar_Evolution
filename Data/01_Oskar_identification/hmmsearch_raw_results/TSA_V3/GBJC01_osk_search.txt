@@ -1,0 +1,35 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBJC01108156.1_6     -          oskar_filtered.aligned.OSK_domain -            9.9e-52  180.6   0.8   1.6e-51  179.9   0.8   1.4   1   0   0   1   1   1   1 TSA: Periplaneta americana comp399742_c0_seq1 transcribed RNA sequence
+GBJC01108156.1_4     -          oskar_filtered.aligned.OSK_domain -            2.9e-50  175.8   0.0   5.3e-50  175.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Periplaneta americana comp399742_c0_seq1 transcribed RNA sequence
+GBJC01112896.1_2     -          oskar_filtered.aligned.OSK_domain -             0.0052   21.7   3.4    0.0065   21.4   3.4   1.2   1   0   0   1   1   1   1 TSA: Periplaneta americana comp95546_c0_seq1 transcribed RNA sequence
+GBJC01022313.1_5     -          oskar_filtered.aligned.OSK_domain -              0.093   17.6   0.3        78    8.1   0.0   2.6   2   1   0   2   2   2   0 TSA: Periplaneta americana comp638584_c0_seq1 transcribed RNA sequence
+GBJC01100718.1_6     -          oskar_filtered.aligned.OSK_domain -               0.15   17.0   0.0      0.18   16.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp287878_c0_seq1 transcribed RNA sequence
+GBJC01101167.1_2     -          oskar_filtered.aligned.OSK_domain -               0.17   16.8   0.0      0.22   16.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana comp103597_c0_seq2 transcribed RNA sequence
+GBJC01024861.1_6     -          oskar_filtered.aligned.OSK_domain -               0.98   14.3   0.5       6.2   11.7   0.2   2.5   2   0   0   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq3 transcribed RNA sequence
+GBJC01032325.1_4     -          oskar_filtered.aligned.OSK_domain -                1.1   14.2   0.6       6.6   11.6   0.3   2.4   2   0   0   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq2 transcribed RNA sequence
+GBJC01115866.1_6     -          oskar_filtered.aligned.OSK_domain -                1.2   14.0   0.6       7.5   11.4   0.2   2.5   2   0   0   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq1 transcribed RNA sequence
+GBJC01117859.1_6     -          oskar_filtered.aligned.OSK_domain -                1.8   13.5   1.5       3.4   12.6   0.5   1.9   1   1   1   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq9 transcribed RNA sequence
+GBJC01087367.1_4     -          oskar_filtered.aligned.OSK_domain -                  2   13.3   2.4       2.4   13.1   0.5   2.0   1   1   1   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq11 transcribed RNA sequence
+GBJC01091381.1_5     -          oskar_filtered.aligned.OSK_domain -                2.3   13.1   0.4       5.7   11.8   0.4   1.6   1   0   0   1   1   1   0 TSA: Periplaneta americana comp115188_c0_seq3 transcribed RNA sequence
+GBJC01079207.1_5     -          oskar_filtered.aligned.OSK_domain -                2.4   13.1   0.4       5.8   11.8   0.4   1.6   1   0   0   1   1   1   0 TSA: Periplaneta americana comp115188_c0_seq2 transcribed RNA sequence
+GBJC01009314.1_1     -          oskar_filtered.aligned.OSK_domain -                2.5   13.0   0.0       2.8   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana comp906953_c0_seq1 transcribed RNA sequence
+GBJC01071325.1_5     -          oskar_filtered.aligned.OSK_domain -                2.5   13.0   0.3       6.9   11.5   0.3   1.7   1   0   0   1   1   1   0 TSA: Periplaneta americana comp115188_c0_seq1 transcribed RNA sequence
+GBJC01072446.1_6     -          oskar_filtered.aligned.OSK_domain -                2.5   13.0   1.3       5.5   11.9   0.5   2.0   1   1   1   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq6 transcribed RNA sequence
+GBJC01057971.1_6     -          oskar_filtered.aligned.OSK_domain -                2.7   12.9   1.8       4.2   12.2   0.4   1.9   1   1   1   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq8 transcribed RNA sequence
+GBJC01040973.1_4     -          oskar_filtered.aligned.OSK_domain -                2.7   12.9   1.7         4   12.3   0.5   1.9   1   1   1   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq7 transcribed RNA sequence
+GBJC01116417.1_4     -          oskar_filtered.aligned.OSK_domain -                2.8   12.8   2.7       6.3   11.7   0.5   2.6   2   1   0   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq5 transcribed RNA sequence
+GBJC01017944.1_3     -          oskar_filtered.aligned.OSK_domain -                3.1   12.7   0.0       6.4   11.6   0.0   1.4   1   0   0   1   1   1   0 TSA: Periplaneta americana comp118627_c0_seq1 transcribed RNA sequence
+GBJC01007995.1_6     -          oskar_filtered.aligned.OSK_domain -                3.7   12.4   2.6       7.5   11.4   0.6   2.5   2   1   0   2   2   2   0 TSA: Periplaneta americana comp117891_c1_seq4 transcribed RNA sequence
+GBJC01028347.1_4     -          oskar_filtered.aligned.OSK_domain -                4.1   12.3   0.3       4.1   12.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana comp84103_c1_seq2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBJC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:31 2019
+# [ok]

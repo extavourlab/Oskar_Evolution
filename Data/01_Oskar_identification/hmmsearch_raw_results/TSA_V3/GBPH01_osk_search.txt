@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPH01015698.1_1     -          oskar_filtered.aligned.OSK_domain -              0.019   17.5   1.0     0.034   16.7   1.0   1.4   1   0   0   1   1   1   0 TSA: Arge berberidis s1205_L_1379_2_a_11_5_l_959 transcribed RNA sequence
+GBPH01015696.1_1     -          oskar_filtered.aligned.OSK_domain -               0.22   14.0   0.1      0.37   13.3   0.1   1.4   1   0   0   1   1   1   0 TSA: Arge berberidis s1203_L_1379_0_a_13_4_l_901 transcribed RNA sequence
+GBPH01016788.1_4     -          oskar_filtered.aligned.OSK_domain -               0.27   13.7   0.1      0.57   12.7   0.1   1.4   1   1   0   1   1   1   0 TSA: Arge berberidis s2213_L_3179_1_a_11_1_l_566 transcribed RNA sequence
+GBPH01014813.1_6     -          oskar_filtered.aligned.OSK_domain -               0.32   13.5   0.1      0.73   12.3   0.1   1.6   1   0   0   1   1   1   0 TSA: Arge berberidis C84023_a_9_0_l_3193 transcribed RNA sequence
+GBPH01015697.1_1     -          oskar_filtered.aligned.OSK_domain -               0.65   12.5   0.4       1.5   11.3   0.4   1.6   1   0   0   1   1   1   0 TSA: Arge berberidis s1204_L_1379_1_a_39_4_l_3442 transcribed RNA sequence
+GBPH01008558.1_4     -          oskar_filtered.aligned.OSK_domain -               0.73   12.3   0.0      0.88   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Arge berberidis C57905_a_7_0_l_565 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:52 2019
+# [ok]

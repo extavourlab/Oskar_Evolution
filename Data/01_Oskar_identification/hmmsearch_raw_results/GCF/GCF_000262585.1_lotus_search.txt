@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_030037257.1       -          LOTUS_CONSENSUS      -            1.8e-15   57.3   0.0   1.6e-08   35.0   0.0   2.5   2   0   0   2   2   2   2 tudor domain-containing protein 5, partial [Manduca sexta]
+XP_030040089.1       -          LOTUS_CONSENSUS      -            7.9e-15   55.3   3.7   5.7e-14   52.5   0.0   3.1   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Manduca sexta]
+XP_030040098.1       -          LOTUS_CONSENSUS      -            7.9e-15   55.3   3.7   5.7e-14   52.5   0.0   3.1   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Manduca sexta]
+XP_030039169.1       -          LOTUS_CONSENSUS      -              0.036   14.7   0.1     0.053   14.1   0.1   1.3   1   0   0   1   1   1   0 DPH4 homolog [Manduca sexta]
+XP_030020465.1       -          LOTUS_CONSENSUS      -               0.14   12.8   1.2      0.31   11.7   0.2   2.0   2   0   0   2   2   2   0 probable oligoribonuclease [Manduca sexta]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000262585.1_Msex_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000262585.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000262585.1_Msex_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:57 2019
+# [ok]

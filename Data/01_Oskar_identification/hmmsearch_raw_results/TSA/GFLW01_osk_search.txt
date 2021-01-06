@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFLW01123350.1_6     -          OSK_CONSENSUS        -                0.3   16.1   0.0      0.63   15.1   0.0   1.5   1   1   1   2   2   2   0 TSA: Aphidius ervi TR51023-c1_g1_i1 transcribed RNA sequence
+GFLW01102483.1_1     -          OSK_CONSENSUS        -                1.2   14.2   5.0        30    9.6   0.5   2.1   1   1   1   2   2   2   0 TSA: Aphidius ervi TR41842-c3_g1_i1 transcribed RNA sequence
+GFLW01085827.1_3     -          OSK_CONSENSUS        -                1.3   14.0   0.4       1.3   14.0   0.4   1.7   2   0   0   2   2   2   0 TSA: Aphidius ervi TR34836-c0_g1_i1 transcribed RNA sequence
+GFLW01085828.1_3     -          OSK_CONSENSUS        -                1.3   14.0   0.4       1.3   14.0   0.4   1.7   2   0   0   2   2   2   0 TSA: Aphidius ervi TR34836-c0_g2_i1 transcribed RNA sequence
+GFLW01079068.1_1     -          OSK_CONSENSUS        -                1.5   13.9   0.2       1.5   13.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Aphidius ervi TR32733-c5_g1_i1 transcribed RNA sequence
+GFLW01121385.1_5     -          OSK_CONSENSUS        -                  2   13.4   1.4         4   12.4   1.4   1.4   1   0   0   1   1   1   0 TSA: Aphidius ervi TR50274-c1_g3_i3 transcribed RNA sequence
+GFLW01082675.1_2     -          OSK_CONSENSUS        -                3.4   12.7   0.0       5.3   12.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Aphidius ervi TR33244-c3_g1_i2 transcribed RNA sequence
+GFLW01091948.1_1     -          OSK_CONSENSUS        -                4.1   12.4   1.2        14   10.7   1.2   1.7   1   1   0   1   1   1   0 TSA: Aphidius ervi TR37865-c2_g1_i5 transcribed RNA sequence
+GFLW01101379.1_3     -          OSK_CONSENSUS        -                7.9   11.5   3.5   1.1e+02    7.8   1.2   2.1   1   1   1   2   2   2   0 TSA: Aphidius ervi TR41480-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFLW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFLW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFLW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:29 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWN01021930.1_6     -          OSK_CONSENSUS        -            2.1e-57  196.2   0.2   5.3e-57  194.9   0.2   1.7   1   0   0   1   1   1   1 TSA: Tiphia femorata s5837_L_12009_0_a_66_5_l_2961 transcribed RNA sequence
+GBWN01014954.1_6     -          OSK_CONSENSUS        -               0.28   13.8   0.8      0.75   12.4   0.7   1.8   1   1   0   1   1   1   0 TSA: Tiphia femorata C90565_a_7_0_l_2192 transcribed RNA sequence
+GBWN01011315.1_6     -          OSK_CONSENSUS        -               0.59   12.7   0.9       1.6   11.3   0.1   1.8   1   1   1   2   2   2   0 TSA: Tiphia femorata C74408_a_7_0_l_791 transcribed RNA sequence
+GBWN01007007.1_2     -          OSK_CONSENSUS        -                1.1   11.8   0.0       2.5   10.7   0.1   1.5   2   0   0   2   2   2   0 TSA: Tiphia femorata C57687_a_7_0_l_379 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:30 2019
+# [ok]

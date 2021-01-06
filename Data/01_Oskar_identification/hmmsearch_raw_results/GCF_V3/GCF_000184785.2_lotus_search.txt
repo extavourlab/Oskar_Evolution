@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012342136.1       -          oskar_filtered.aligned.LOTUS_domain -            7.4e-21   74.3   3.2     1e-20   73.8   0.1   3.0   3   0   0   3   3   1   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Apis florea]
+XP_003693796.1       -          oskar_filtered.aligned.LOTUS_domain -            8.5e-21   74.1   1.8   2.8e-20   72.4   0.0   3.1   3   0   0   3   3   1   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Apis florea]
+XP_012349391.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-17   61.6   3.7   1.6e-14   54.0   0.6   5.2   4   1   0   4   4   3   2 PREDICTED: uncharacterized protein LOC100863595 [Apis florea]
+XP_012341339.1       -          oskar_filtered.aligned.LOTUS_domain -              0.021   15.1   2.2      0.29   11.4   0.1   3.2   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC105735299 isoform X2 [Apis florea]
+XP_012341338.1       -          oskar_filtered.aligned.LOTUS_domain -              0.023   15.0   2.1       0.3   11.4   0.1   3.2   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC105735299 isoform X1 [Apis florea]
+XP_003695933.2       -          oskar_filtered.aligned.LOTUS_domain -              0.065   13.5   0.4       4.4    7.6   0.0   2.7   2   0   0   2   2   2   0 PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC100865122 [Apis florea]
+XP_012341496.1       -          oskar_filtered.aligned.LOTUS_domain -              0.067   13.5   1.0       5.9    7.2   0.0   3.4   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X4 [Apis florea]
+XP_012341493.1       -          oskar_filtered.aligned.LOTUS_domain -                0.1   12.9   1.1       6.9    7.0   0.0   3.3   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Apis florea]
+XP_012341494.1       -          oskar_filtered.aligned.LOTUS_domain -               0.11   12.8   1.2       7.2    6.9   0.0   3.3   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X2 [Apis florea]
+XP_012341495.1       -          oskar_filtered.aligned.LOTUS_domain -               0.11   12.7   1.3       6.7    7.0   0.0   3.3   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X3 [Apis florea]
+XP_012339385.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.5   1.1       8.7    6.7   0.0   3.1   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Apis florea]
+XP_012339386.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.5   1.1       8.7    6.7   0.0   3.1   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Apis florea]
+XP_012341340.1       -          oskar_filtered.aligned.LOTUS_domain -               0.33   11.2   6.3      0.27   11.5   0.1   3.2   3   0   0   3   3   2   0 PREDICTED: uncharacterized protein LOC105735299 isoform X3 [Apis florea]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000184785.2_Aflo_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000184785.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000184785.2_Aflo_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:02 2019
+# [ok]

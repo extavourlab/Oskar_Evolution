@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBZL01023940.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-18   68.4   0.4   1.2e-14   58.2   0.0   3.2   3   0   0   3   3   3   2 TSA: Actias selene Unigene24368_Acsel transcribed RNA sequence
+GBZL01015026.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.024   18.7   0.0       6.1   11.0   0.0   2.5   2   0   0   2   2   2   0 TSA: Actias selene Unigene15323_Acsel transcribed RNA sequence
+GBZL01044447.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.36   15.0   0.1      0.46   14.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Actias selene Unigene46267_Acsel transcribed RNA sequence
+GBZL01012720.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.72   14.0   5.5        26    9.0   0.5   3.5   3   1   0   3   3   3   0 TSA: Actias selene Unigene12987_Acsel transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBZL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:49:06 2019
+# [ok]

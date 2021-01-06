@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWC01036972.1_5     -          LOTUS_CONSENSUS      -            2.9e-19   73.2   0.2   5.5e-18   69.1   0.0   2.9   3   0   0   3   3   3   1 TSA: Boisea trivittata breed wildtype C248177_27_0, transcribed RNA sequence
+GCWC01030517.1_2     -          LOTUS_CONSENSUS      -            7.5e-13   52.6   0.0   1.4e-12   51.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Boisea trivittata breed wildtype C214707_5_0, transcribed RNA sequence
+GCWC01042664.1_1     -          LOTUS_CONSENSUS      -            1.8e-06   32.2   0.0      0.73   14.2   0.0   4.9   2   1   3   5   5   5   2 TSA: Boisea trivittata breed wildtype s14994_L_65429_0_29_5_LINEAR, transcribed RNA sequence
+GCWC01024182.1_6     -          LOTUS_CONSENSUS      -             0.0053   21.1   0.0    0.0085   20.4   0.0   1.4   1   1   0   1   1   1   1 TSA: Boisea trivittata breed wildtype C188877_2_0, transcribed RNA sequence
+GCWC01028158.1_1     -          LOTUS_CONSENSUS      -              0.057   17.8   0.1      0.15   16.4   0.0   1.7   1   1   0   1   1   1   0 TSA: Boisea trivittata breed wildtype C204129_2_0, transcribed RNA sequence
+GCWC01001885.1_3     -          LOTUS_CONSENSUS      -               0.37   15.2   0.1      0.38   15.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Boisea trivittata breed wildtype C119113_2_0, transcribed RNA sequence
+GCWC01003717.1_4     -          LOTUS_CONSENSUS      -                1.1   13.6   0.0       1.3   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Boisea trivittata breed wildtype C124381_2_0, transcribed RNA sequence
+GCWC01046930.1_6     -          LOTUS_CONSENSUS      -                6.7   11.1   5.0       1.7   13.1   1.3   1.8   2   0   0   2   2   2   0 TSA: Boisea trivittata breed wildtype s414_L_963_0_4_3_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:50 2019
+# [ok]

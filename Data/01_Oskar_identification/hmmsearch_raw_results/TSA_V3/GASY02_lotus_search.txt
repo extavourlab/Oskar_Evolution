@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASY02010962.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0044   20.7   0.1    0.0081   19.8   0.1   1.5   1   0   0   1   1   1   1 TSA: Dyseriocrania subpurpurella C138723_a_4_0_l_383 transcribed RNA sequence
+GASY02017422.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.2   0.1        42    7.9   0.1   3.6   2   1   1   3   3   3   0 TSA: Dyseriocrania subpurpurella C164687_a_4_0_l_861 transcribed RNA sequence
+GASY02016939.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.3   12.7   0.1       2.3   11.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Dyseriocrania subpurpurella C162637_a_7_0_l_782 transcribed RNA sequence
+GASY02030858.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.6   12.5   1.7       6.7   10.4   0.8   2.0   2   0   0   2   2   2   0 TSA: Dyseriocrania subpurpurella s7284_L_8425_0_a_39_5_l_727 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASY02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASY02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASY02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:30 2019
+# [ok]

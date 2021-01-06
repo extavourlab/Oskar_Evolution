@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002000116.2       -          oskar_filtered.aligned.LOTUS_domain -            9.1e-28   96.7   4.2   3.7e-27   94.7   0.1   3.6   4   0   0   4   4   4   1 uncharacterized protein Dmoj_GI10055 [Drosophila mojavensis]
+XP_002005579.2       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-12   47.5   0.1   1.3e-11   44.8   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein Dmoj_GI18993 [Drosophila mojavensis]
+XP_015019609.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-11   44.2   0.0   1.1e-10   41.8   0.0   2.3   2   0   0   2   2   2   1 uncharacterized protein Dmoj_GI20795, isoform D [Drosophila mojavensis]
+XP_002006015.2       -          oskar_filtered.aligned.LOTUS_domain -            8.3e-11   42.2   0.0   8.3e-11   42.2   0.0   2.5   3   0   0   3   3   3   1 uncharacterized protein Dmoj_GI20795, isoform A [Drosophila mojavensis]
+XP_015019607.1       -          oskar_filtered.aligned.LOTUS_domain -            8.4e-11   42.2   0.0   8.4e-11   42.2   0.0   2.5   3   0   0   3   3   3   1 uncharacterized protein Dmoj_GI20795, isoform B [Drosophila mojavensis]
+XP_002003687.1       -          oskar_filtered.aligned.LOTUS_domain -            8.8e-07   29.3   0.0   1.1e-06   29.0   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein Dmoj_GI18049 [Drosophila mojavensis]
+XP_002004485.1       -          oskar_filtered.aligned.LOTUS_domain -              0.023   15.1   0.2      0.11   13.0   0.0   2.2   2   0   0   2   2   2   0 uncharacterized protein Dmoj_GI19959, isoform A [Drosophila mojavensis]
+XP_002011194.1       -          oskar_filtered.aligned.LOTUS_domain -                0.2   12.1   0.0      0.24   11.8   0.0   1.2   1   0   0   1   1   1   0 uncharacterized protein Dmoj_GI16144 [Drosophila mojavensis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005175.2_dmoj_caf1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005175.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005175.2_dmoj_caf1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:31 2019
+# [ok]

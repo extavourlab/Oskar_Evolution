@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_001953297.1       -          LOTUS_CONSENSUS      -            2.6e-23   82.4   2.2   1.1e-22   80.4   0.1   2.8   3   0   0   3   3   3   1 uncharacterized protein Dana_GF17692 [Drosophila ananassae]
+XP_001960715.2       -          LOTUS_CONSENSUS      -            1.2e-10   41.8   0.0   2.9e-10   40.6   0.0   1.6   1   0   0   1   1   1   1 uncharacterized protein Dana_GF11357, isoform B [Drosophila ananassae]
+XP_014762673.1       -          LOTUS_CONSENSUS      -            1.4e-10   41.6   0.0   3.5e-10   40.3   0.0   1.7   1   0   0   1   1   1   1 uncharacterized protein Dana_GF11357, isoform C [Drosophila ananassae]
+XP_001959024.2       -          LOTUS_CONSENSUS      -            1.8e-08   34.8   0.0   4.3e-08   33.6   0.0   1.7   1   0   0   1   1   1   1 uncharacterized protein Dana_GF12261 [Drosophila ananassae]
+XP_014761558.1       -          LOTUS_CONSENSUS      -                6.2    7.5   9.2        38    4.9   0.0   6.3   5   0   0   5   5   5   0 uncharacterized protein Dana_GF14378, isoform D [Drosophila ananassae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005115.1_dana_caf1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005115.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005115.1_dana_caf1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:38 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEZZ01040197.1_3     -          oskar_filtered.aligned.OSK_domain -            5.3e-56  193.2   0.0   1.3e-55  191.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Diadromus collaris Unigene26938_All transcribed RNA sequence
+GEZZ01005316.1_4     -          oskar_filtered.aligned.OSK_domain -                0.6   13.7   0.1      0.71   13.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Diadromus collaris CL1555.Contig2_All transcribed RNA sequence
+GEZZ01022115.1_4     -          oskar_filtered.aligned.OSK_domain -                  1   13.0   0.4       1.5   12.5   0.4   1.2   1   0   0   1   1   1   0 TSA: Diadromus collaris Unigene8740_All transcribed RNA sequence
+GEZZ01011871.1_4     -          oskar_filtered.aligned.OSK_domain -                1.6   12.4   0.2       1.6   12.4   0.2   1.9   2   1   0   2   2   2   0 TSA: Diadromus collaris CL4353.Contig2_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEZZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:04 2019
+# [ok]

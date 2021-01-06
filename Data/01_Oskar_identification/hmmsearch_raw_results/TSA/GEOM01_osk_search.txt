@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOM01041060.1_4     -          OSK_CONSENSUS        -              0.032   18.5   0.0     0.033   18.4   0.0   1.0   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR41869-c0_g1_i1 transcribed RNA sequence
+GEOM01009640.1_4     -          OSK_CONSENSUS        -               0.08   17.2   0.8     0.084   17.1   0.8   1.2   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR10534-c0_g1_i1 transcribed RNA sequence
+GEOM01014961.1_1     -          OSK_CONSENSUS        -              0.092   17.0   0.8        51    8.0   0.1   2.2   1   1   0   2   2   2   0 TSA: Metaphatus ochraceus TR15076-c0_g1_i1 transcribed RNA sequence
+GEOM01024137.1_5     -          OSK_CONSENSUS        -               0.89   13.8   0.1       1.1   13.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR24464-c0_g1_i1 transcribed RNA sequence
+GEOM01042274.1_6     -          OSK_CONSENSUS        -                1.2   13.4   0.3       1.3   13.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR43365-c0_g1_i1 transcribed RNA sequence
+GEOM01033237.1_4     -          OSK_CONSENSUS        -                1.3   13.3   0.1       1.3   13.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR34967-c0_g1_i1 transcribed RNA sequence
+GEOM01034098.1_3     -          OSK_CONSENSUS        -                1.6   12.9   0.1       2.1   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR35610-c0_g1_i1 transcribed RNA sequence
+GEOM01004819.1_2     -          OSK_CONSENSUS        -                1.7   12.9   0.1         2   12.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR5396-c0_g1_i1 transcribed RNA sequence
+GEOM01066161.1_3     -          OSK_CONSENSUS        -                1.8   12.8   0.1       2.6   12.2   0.1   1.3   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR68500-c0_g1_i1 transcribed RNA sequence
+GEOM01037350.1_3     -          OSK_CONSENSUS        -                3.6   11.8   0.1       3.9   11.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Metaphatus ochraceus TR38851-c9_g5_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:31 2019
+# [ok]

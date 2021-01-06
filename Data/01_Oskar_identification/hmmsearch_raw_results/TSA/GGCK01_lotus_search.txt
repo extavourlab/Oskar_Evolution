@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGCK01007400.1_1     -          LOTUS_CONSENSUS      -            9.8e-24   86.1   2.1   1.6e-23   85.4   0.0   2.5   3   0   0   3   3   3   1 TSA: Microplitis mediator MM_unigene_7400 transcribed RNA sequence
+GGCK01005627.1_1     -          LOTUS_CONSENSUS      -            3.1e-15   58.8   0.1   1.6e-14   56.5   0.0   2.4   2   0   0   2   2   2   1 TSA: Microplitis mediator MM_unigene_5627 transcribed RNA sequence
+GGCK01005345.1_5     -          LOTUS_CONSENSUS      -            3.9e-15   58.5   0.1   1.4e-13   53.5   0.0   2.4   2   0   0   2   2   2   1 TSA: Microplitis mediator MM_unigene_5345 transcribed RNA sequence
+GGCK01005626.1_1     -          LOTUS_CONSENSUS      -            3.9e-15   58.5   0.1   1.6e-14   56.6   0.0   2.1   2   0   0   2   2   2   1 TSA: Microplitis mediator MM_unigene_5626 transcribed RNA sequence
+GGCK01003741.1_5     -          LOTUS_CONSENSUS      -            7.6e-07   32.0   0.1      0.95   12.4   0.0   5.9   3   2   1   5   5   5   2 TSA: Microplitis mediator MM_unigene_3741 transcribed RNA sequence
+GGCK01014511.1_3     -          LOTUS_CONSENSUS      -              0.079   15.9   0.1      0.14   15.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Microplitis mediator MM_unigene_14515 transcribed RNA sequence
+GGCK01000606.1_6     -          LOTUS_CONSENSUS      -               0.23   14.4   0.5       1.3   12.0   0.5   2.3   1   0   0   1   1   1   0 TSA: Microplitis mediator MM_unigene_606 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGCK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGCK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGCK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:59 2019
+# [ok]

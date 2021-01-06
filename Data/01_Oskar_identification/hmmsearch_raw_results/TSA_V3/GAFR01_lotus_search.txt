@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAFR01040300.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-29  104.4   1.3   1.5e-28  102.9   0.1   2.6   2   0   0   2   2   2   1 TSA: Polistes canadensis Pcan_isotig40030_isogroup21533 mRNA sequence
+GAFR01026390.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-23   85.7   0.3   5.8e-23   84.9   0.3   1.4   1   0   0   1   1   1   1 TSA: Polistes canadensis Pcan_isotig25976_isogroup07479 mRNA sequence
+GAFR01032592.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.6e-12   49.0   5.7   2.6e-10   44.2   0.1   2.9   3   0   0   3   3   3   2 TSA: Polistes canadensis Pcan_isotig32293_isogroup13796 mRNA sequence
+GAFR01009207.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.6   0.4      0.51   14.4   0.4   1.6   1   0   0   1   1   1   0 TSA: Polistes canadensis Pcan_isotig08814_isogroup00604 mRNA sequence
+GAFR01026775.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.25   15.4   0.0       8.3   10.5   0.0   2.2   1   1   1   2   2   2   0 TSA: Polistes canadensis Pcan_isotig26364_isogroup07867 mRNA sequence
+GAFR01009206.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.3   0.3       1.1   13.3   0.3   2.6   3   0   0   3   3   3   0 TSA: Polistes canadensis Pcan_isotig08813_isogroup00604 mRNA sequence
+GAFR01008431.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.6   12.9   0.8        30    8.8   0.1   3.1   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08046_isogroup00506 mRNA sequence
+GAFR01008427.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.6   12.8   0.8        30    8.7   0.1   3.1   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08042_isogroup00506 mRNA sequence
+GAFR01008432.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.8   12.1   0.8        40    8.4   0.1   3.1   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08047_isogroup00506 mRNA sequence
+GAFR01008428.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.9   12.0   1.0        37    8.5   0.1   3.0   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08043_isogroup00506 mRNA sequence
+GAFR01008425.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.9   12.0   1.0        37    8.5   0.1   3.0   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08040_isogroup00506 mRNA sequence
+GAFR01008430.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.2   11.9   1.0        38    8.4   0.1   3.0   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08045_isogroup00506 mRNA sequence
+GAFR01008426.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.9   11.6   0.7        45    8.2   0.1   2.9   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08041_isogroup00506 mRNA sequence
+GAFR01008429.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  4   11.6   0.8        46    8.2   0.1   3.0   4   0   0   4   4   4   0 TSA: Polistes canadensis Pcan_isotig08044_isogroup00506 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAFR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAFR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAFR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:45 2019
+# [ok]

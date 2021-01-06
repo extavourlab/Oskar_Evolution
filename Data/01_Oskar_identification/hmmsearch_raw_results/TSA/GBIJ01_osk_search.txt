@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBIJ01024784.1_2     -          OSK_CONSENSUS        -            6.5e-15   59.5   0.1   7.2e-15   59.4   0.1   1.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL6723.Contig2_A transcribed RNA sequence
+GBIJ01001747.1_2     -          OSK_CONSENSUS        -            1.5e-11   48.6   0.1   1.7e-11   48.5   0.1   1.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL6723.Contig1_A transcribed RNA sequence
+GBIJ01064789.1_6     -          OSK_CONSENSUS        -             0.0067   20.5   0.0    0.0097   20.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unigene38397_A transcribed RNA sequence
+GBIJ01014040.1_2     -          OSK_CONSENSUS        -               0.44   14.6   0.1      0.61   14.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene5603_A transcribed RNA sequence
+GBIJ01029271.1_5     -          OSK_CONSENSUS        -               0.85   13.7   0.0      0.94   13.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene1117_A transcribed RNA sequence
+GBIJ01045381.1_1     -          OSK_CONSENSUS        -               0.89   13.6   0.1       1.2   13.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene40015_A transcribed RNA sequence
+GBIJ01007959.1_6     -          OSK_CONSENSUS        -               0.97   13.5   0.0       1.2   13.2   0.0   1.0   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene51146_A transcribed RNA sequence
+GBIJ01014442.1_3     -          OSK_CONSENSUS        -                1.5   12.9   0.1       1.7   12.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene29155_A transcribed RNA sequence
+GBIJ01008068.1_3     -          OSK_CONSENSUS        -                2.4   12.2   0.1       5.3   11.1   0.1   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL4063.Contig2_A transcribed RNA sequence
+GBIJ01000142.1_2     -          OSK_CONSENSUS        -                2.9   11.9   0.0       3.5   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL1378.Contig1_A transcribed RNA sequence
+GBIJ01018363.1_5     -          OSK_CONSENSUS        -                  3   11.9   2.1       5.8   11.0   0.1   2.0   2   0   0   2   2   2   0 TSA: Bemisia tabaci Unigene6957_A transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBIJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBIJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBIJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:11 2019
+# [ok]

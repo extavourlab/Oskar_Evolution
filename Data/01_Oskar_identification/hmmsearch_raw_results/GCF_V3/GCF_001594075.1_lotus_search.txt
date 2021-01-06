@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018376903.1       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-32  109.8   0.1   2.2e-31  108.4   0.1   1.8   1   0   0   1   1   1   1 PREDICTED: maternal effect protein oskar-like [Trachymyrmex cornetzi]
+XP_018370811.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-23   81.7   0.1   4.7e-20   72.0   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 [Trachymyrmex cornetzi]
+XP_018376315.1       -          oskar_filtered.aligned.LOTUS_domain -            7.5e-18   64.9   2.3   3.9e-12   46.6   0.0   4.1   4   0   0   4   4   4   2 PREDICTED: tudor domain-containing protein 5-like [Trachymyrmex cornetzi]
+XP_018366104.1       -          oskar_filtered.aligned.LOTUS_domain -               0.06   13.9   0.2        14    6.3   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X3 [Trachymyrmex cornetzi]
+XP_018366101.1       -          oskar_filtered.aligned.LOTUS_domain -              0.061   13.9   0.2        14    6.3   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Trachymyrmex cornetzi]
+XP_018366102.1       -          oskar_filtered.aligned.LOTUS_domain -              0.061   13.9   0.2        14    6.3   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Trachymyrmex cornetzi]
+XP_018366105.1       -          oskar_filtered.aligned.LOTUS_domain -              0.061   13.9   0.2        14    6.3   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Trachymyrmex cornetzi]
+XP_018366103.1       -          oskar_filtered.aligned.LOTUS_domain -               0.07   13.7   0.2        16    6.1   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Trachymyrmex cornetzi]
+XP_018376223.1       -          oskar_filtered.aligned.LOTUS_domain -              0.072   13.6   0.2        14    6.2   0.0   3.1   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Trachymyrmex cornetzi]
+XP_018376224.1       -          oskar_filtered.aligned.LOTUS_domain -              0.072   13.6   0.2        14    6.2   0.0   3.1   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Trachymyrmex cornetzi]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594075.1_Tcor1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594075.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594075.1_Tcor1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:55 2019
+# [ok]

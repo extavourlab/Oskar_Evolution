@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012148923.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-20   73.9   0.0   4.7e-20   72.3   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7-like isoform X2 [Megachile rotundata]
+XP_003706804.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-20   73.9   0.0   4.8e-20   72.3   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7-like isoform X1 [Megachile rotundata]
+XP_012152343.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-17   64.2   7.6   7.3e-13   49.2   0.2   5.0   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC100880736 isoform X4 [Megachile rotundata]
+XP_012152342.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-17   64.1   7.5   7.6e-13   49.1   0.2   5.0   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC100880736 isoform X3 [Megachile rotundata]
+XP_012152341.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-15   57.3  14.7   9.1e-13   48.9   0.2   5.6   5   1   1   6   6   5   2 PREDICTED: protein PF14_0175-like isoform X2 [Megachile rotundata]
+XP_012152340.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-15   56.5  15.4   9.2e-13   48.9   0.2   5.6   5   1   1   6   6   5   2 PREDICTED: protein PF14_0175-like isoform X1 [Megachile rotundata]
+XP_012145410.1       -          oskar_filtered.aligned.LOTUS_domain -              5e-07   30.5   2.1      0.57   11.0   0.0   6.8   2   1   4   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X5 [Megachile rotundata]
+XP_012145403.1       -          oskar_filtered.aligned.LOTUS_domain -            5.6e-07   30.3   1.9      0.61   10.9   0.0   6.9   2   1   4   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X4 [Megachile rotundata]
+XP_012145387.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-06   29.2   1.6      0.73   10.7   0.0   6.8   2   1   3   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X2 [Megachile rotundata]
+XP_012145369.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-06   28.6   2.1      0.74   10.7   0.0   6.8   2   1   3   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X1 [Megachile rotundata]
+XP_012145374.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-06   28.6   2.1      0.74   10.7   0.0   6.8   2   1   3   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X1 [Megachile rotundata]
+XP_012145395.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-06   28.4   0.2      0.79   10.6   0.0   6.0   1   1   4   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X3 [Megachile rotundata]
+XP_012154376.1       -          oskar_filtered.aligned.LOTUS_domain -               0.11   13.4   0.2        79    4.1   0.0   3.6   4   0   0   4   4   4   0 PREDICTED: annexin B11-like isoform X2 [Megachile rotundata]
+XP_012154377.1       -          oskar_filtered.aligned.LOTUS_domain -               0.11   13.4   0.2        79    4.1   0.0   3.6   4   0   0   4   4   4   0 PREDICTED: annexin B11-like isoform X2 [Megachile rotundata]
+XP_012154099.1       -          oskar_filtered.aligned.LOTUS_domain -               0.22   12.4   1.0         1   10.2   0.0   2.4   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC100883531 isoform X5 [Megachile rotundata]
+XP_012154083.1       -          oskar_filtered.aligned.LOTUS_domain -               0.22   12.3   1.0       1.1   10.1   0.0   2.5   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC100883531 isoform X3 [Megachile rotundata]
+XP_012154090.1       -          oskar_filtered.aligned.LOTUS_domain -               0.24   12.2   1.0       1.1   10.1   0.0   2.4   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC100883531 isoform X4 [Megachile rotundata]
+XP_012154077.1       -          oskar_filtered.aligned.LOTUS_domain -               0.25   12.2   1.0       1.1   10.1   0.0   2.4   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC100883531 isoform X2 [Megachile rotundata]
+XP_012154068.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   12.1   1.0       1.1   10.1   0.0   2.4   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC100883531 isoform X1 [Megachile rotundata]
+XP_003707846.2       -          oskar_filtered.aligned.LOTUS_domain -                4.3    8.2  12.2        12    6.8   0.6   4.4   3   2   2   5   5   5   0 PREDICTED: bifunctional glutamate/proline--tRNA ligase [Megachile rotundata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000220905.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:04 2019
+# [ok]

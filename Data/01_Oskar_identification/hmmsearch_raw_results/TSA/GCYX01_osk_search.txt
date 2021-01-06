@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYX01029982.1_2     -          OSK_CONSENSUS        -            6.3e-17   65.8   0.2     2e-16   64.2   0.0   1.8   2   0   0   2   2   2   1 TSA: Trioza urticae breed wildtype C682945_5_0, transcribed RNA sequence
+GCYX01022105.1_2     -          OSK_CONSENSUS        -             0.0093   19.8   0.0     0.011   19.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Trioza urticae breed wildtype C634981_4_0, transcribed RNA sequence
+GCYX01003891.1_2     -          OSK_CONSENSUS        -               0.58   13.9   0.0      0.64   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype C554723_2_0, transcribed RNA sequence
+GCYX01011592.1_3     -          OSK_CONSENSUS        -               0.93   13.3   0.1       1.2   12.9   0.1   1.2   1   1   0   1   1   1   0 TSA: Trioza urticae breed wildtype C586229_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:50 2019
+# [ok]

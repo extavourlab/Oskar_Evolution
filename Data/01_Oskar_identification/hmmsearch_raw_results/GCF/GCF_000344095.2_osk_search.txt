@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012267561.1       -          OSK_CONSENSUS        -            9.3e-56  188.2   0.3   1.7e-55  187.3   0.3   1.4   1   0   0   1   1   1   1 maternal effect protein oskar-like [Athalia rosae]
+XP_020707515.1       -          OSK_CONSENSUS        -               0.55   10.2   5.5      0.12   12.3   0.3   2.5   3   0   0   3   3   3   0 regulator of G-protein signaling loco isoform X6 [Athalia rosae]
+XP_020707514.1       -          OSK_CONSENSUS        -               0.58   10.1   4.3      0.13   12.2   0.3   2.0   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X5 [Athalia rosae]
+XP_020707513.1       -          OSK_CONSENSUS        -               0.65    9.9   5.5      0.13   12.1   0.3   2.5   3   0   0   3   3   3   0 regulator of G-protein signaling loco isoform X4 [Athalia rosae]
+XP_020707512.1       -          OSK_CONSENSUS        -               0.69    9.8   5.5      0.14   12.1   0.3   2.5   3   0   0   3   3   3   0 regulator of G-protein signaling loco isoform X3 [Athalia rosae]
+XP_020707511.1       -          OSK_CONSENSUS        -               0.71    9.8   5.5      0.14   12.1   0.3   2.5   3   0   0   3   3   3   0 regulator of G-protein signaling loco isoform X2 [Athalia rosae]
+XP_012254284.1       -          OSK_CONSENSUS        -               0.71    9.8   5.5      0.14   12.1   0.3   2.5   3   0   0   3   3   3   0 regulator of G-protein signaling loco isoform X1 [Athalia rosae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000344095.2_Aros_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000344095.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000344095.2_Aros_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:58 2019
+# [ok]

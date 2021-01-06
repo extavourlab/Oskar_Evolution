@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYH01034007.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-26   95.3   5.4   4.6e-14   56.5   0.0   4.3   2   1   1   3   3   3   3 TSA: Phylloscelis atra breed wildtype s10348_L_24501_0_5_2_FORK, transcribed RNA sequence
+GCYH01043170.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-20   77.5   0.0   3.9e-20   76.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Phylloscelis atra breed wildtype s18618_L_65842_0_28_9_LINEAR, transcribed RNA sequence
+GCYH01034008.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-14   57.4   0.0   5.2e-14   56.3   0.0   1.5   1   0   0   1   1   1   1 TSA: Phylloscelis atra breed wildtype s10349_L_24501_1_7_0_FORK, transcribed RNA sequence
+GCYH01045980.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-09   41.2   0.5       1.5   13.1   0.0   6.7   4   1   3   7   7   7   2 TSA: Phylloscelis atra breed wildtype s4093_L_7472_0_12_2_LINEAR, transcribed RNA sequence
+GCYH01034008.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.3e-08   37.3   4.3    0.0038   21.5   0.3   3.0   1   1   1   2   2   2   2 TSA: Phylloscelis atra breed wildtype s10349_L_24501_1_7_0_FORK, transcribed RNA sequence
+GCYH01037231.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.037   18.3   0.2     0.056   17.7   0.2   1.3   1   0   0   1   1   1   0 TSA: Phylloscelis atra breed wildtype s13253_L_36120_0_15_5_LINEAR, transcribed RNA sequence
+GCYH01005248.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.6   14.4   0.1       0.7   14.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Phylloscelis atra breed wildtype C169813_2_0, transcribed RNA sequence
+GCYH01042453.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.6   0.8   3.6e+02    5.5   0.0   3.0   3   0   0   3   3   3   0 TSA: Phylloscelis atra breed wildtype s17972_L_62002_0_75_1_LINEAR, transcribed RNA sequence
+GCYH01037330.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.6   2.5   2.8e+02    5.9   0.2   3.0   3   0   0   3   3   3   0 TSA: Phylloscelis atra breed wildtype s13342_L_36494_0_17_9_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:23 2019
+# [ok]

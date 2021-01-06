@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026818890.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-21   75.4   2.3   3.8e-21   75.4   2.3   2.2   2   1   1   3   3   2   1 uncharacterized protein LOC113557520 [Rhopalosiphum maidis]
+XP_026816462.1       -          oskar_filtered.aligned.LOTUS_domain -            4.3e-21   75.2  21.1   1.4e-13   51.1   0.2   6.1   6   1   1   7   7   7   3 uncharacterized protein LOC113555992 isoform X1 [Rhopalosiphum maidis]
+XP_026816463.1       -          oskar_filtered.aligned.LOTUS_domain -            4.3e-21   75.2  21.1   1.4e-13   51.1   0.2   6.1   6   1   1   7   7   7   3 uncharacterized protein LOC113555992 isoform X1 [Rhopalosiphum maidis]
+XP_026807673.1       -          oskar_filtered.aligned.LOTUS_domain -            3.6e-18   65.8   0.1   3.6e-18   65.8   0.1   4.2   5   0   0   5   5   5   1 tudor domain-containing protein 7-like isoform X2 [Rhopalosiphum maidis]
+XP_026807650.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-18   65.8   0.1   3.8e-18   65.8   0.1   4.2   4   0   0   4   4   4   1 tudor domain-containing protein 7-like isoform X1 [Rhopalosiphum maidis]
+XP_026807657.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-18   65.8   0.1   3.8e-18   65.8   0.1   4.2   4   0   0   4   4   4   1 tudor domain-containing protein 7-like isoform X1 [Rhopalosiphum maidis]
+XP_026807663.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-18   65.8   0.1   3.8e-18   65.8   0.1   4.2   4   0   0   4   4   4   1 tudor domain-containing protein 7-like isoform X1 [Rhopalosiphum maidis]
+XP_026809519.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-12   46.8   0.0     3e-12   46.8   0.0   4.5   3   1   0   3   3   2   1 LOW QUALITY PROTEIN: MATH and LRR domain-containing protein PFE0570w [Rhopalosiphum maidis]
+XP_026805178.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-09   37.4   0.2        15    6.0   0.0   7.7   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Rhopalosiphum maidis]
+XP_026805179.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-09   37.4   0.2        15    6.0   0.0   7.7   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Rhopalosiphum maidis]
+XP_026805181.1       -          oskar_filtered.aligned.LOTUS_domain -            5.6e-09   36.3   0.1        12    6.3   0.0   7.0   4   2   3   7   7   7   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Rhopalosiphum maidis]
+XP_026816464.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-08   33.2  18.5   0.00026   21.3   0.3   6.2   6   1   0   6   6   6   2 uncharacterized protein LOC113555992 isoform X2 [Rhopalosiphum maidis]
+XP_026805180.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-07   30.4   0.2        17    5.9   0.0   6.8   5   2   2   7   7   7   0 meiosis regulator and mRNA stability factor 1 isoform X2 [Rhopalosiphum maidis]
+XP_026816465.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-06   28.7  15.7   0.00024   21.4   0.3   5.3   5   1   0   5   5   5   2 uncharacterized protein LOC113555992 isoform X3 [Rhopalosiphum maidis]
+XP_026819827.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0051   17.2   8.0     0.095   13.1   0.4   3.1   3   0   0   3   3   3   2 uncharacterized protein LOC113558539 [Rhopalosiphum maidis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003676215.2_ASM367621v3_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003676215.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003676215.2_ASM367621v3_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:35 2019
+# [ok]

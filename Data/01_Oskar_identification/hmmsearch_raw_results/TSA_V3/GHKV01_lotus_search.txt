@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHKV01040517.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-23   87.6   0.0     3e-23   86.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_40702, transcribed RNA sequence
+GHKV01076141.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-19   74.0   0.0   3.9e-19   73.4   0.0   1.3   1   0   0   1   1   1   1 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_76497, transcribed RNA sequence
+GHKV01074756.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-14   56.5   0.0   9.8e-14   56.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_75107, transcribed RNA sequence
+GHKV01011026.1_6     -          oskar_filtered.aligned.LOTUS_domain -              1e-13   56.0   0.0   1.4e-13   55.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_11131, transcribed RNA sequence
+GHKV01060308.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00019   26.3   0.0      0.22   16.4   0.0   2.1   2   0   0   2   2   2   2 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_60610, transcribed RNA sequence
+GHKV01006311.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.11   17.4   0.8      0.83   14.6   0.1   2.4   1   1   1   2   2   2   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_6374, transcribed RNA sequence
+GHKV01047155.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.22   16.4   0.0      0.43   15.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_47391, transcribed RNA sequence
+GHKV01056014.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.28   16.1   0.0   1.2e+02    7.7   0.0   2.3   1   1   1   2   2   2   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_56292, transcribed RNA sequence
+GHKV01018573.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.4   12.6   0.9        15   10.5   0.6   2.0   2   0   0   2   2   2   0 TSA: Gomphocerus sibiricus breed Swiss alpine population Transcript_18692, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHKV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHKV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHKV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:40 2019
+# [ok]

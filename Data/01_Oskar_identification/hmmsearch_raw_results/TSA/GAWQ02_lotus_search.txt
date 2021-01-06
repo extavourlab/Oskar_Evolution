@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWQ02002649.1_4     -          LOTUS_CONSENSUS      -              4e-17   66.3   0.0   4.1e-17   66.3   0.0   1.0   1   0   0   1   1   1   1 TSA: Okanagana villosa C110179_a_3_0_l_225 transcribed RNA sequence
+GAWQ02035197.1_5     -          LOTUS_CONSENSUS      -            8.4e-07   33.2   0.0       1.5   13.1   0.0   4.2   1   1   2   3   3   3   3 TSA: Okanagana villosa C211369_a_4_0_l_1587 transcribed RNA sequence
+GAWQ02036789.1_1     -          LOTUS_CONSENSUS      -               0.71   14.2   0.3       4.7   11.6   0.1   2.5   2   0   0   2   2   2   0 TSA: Okanagana villosa C216501_a_41_0_l_2496 transcribed RNA sequence
+GAWQ02011250.1_3     -          LOTUS_CONSENSUS      -                1.1   13.6   0.0       1.4   13.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Okanagana villosa C133828_a_3_0_l_278 transcribed RNA sequence
+GAWQ02037737.1_5     -          LOTUS_CONSENSUS      -                1.4   13.3   0.0       3.1   12.2   0.0   1.6   1   0   0   1   1   1   0 TSA: Okanagana villosa s10225_L_20626_0_a_5_7_l_960 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWQ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWQ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWQ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:51 2019
+# [ok]

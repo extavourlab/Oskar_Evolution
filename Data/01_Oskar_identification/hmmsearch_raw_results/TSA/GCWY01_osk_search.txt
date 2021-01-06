@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWY01017914.1_2     -          OSK_CONSENSUS        -            4.1e-24   87.8   0.4   4.1e-24   87.8   0.4   1.9   2   0   0   2   2   2   1 TSA: Echmepteryx hageni breed wildtype i18232_g_ig11723_l_1683_nC_1, transcribed RNA sequence
+GCWY01009522.1_6     -          OSK_CONSENSUS        -            3.7e-15   58.7   0.2   5.4e-15   58.2   0.2   1.2   1   0   0   1   1   1   1 TSA: Echmepteryx hageni breed wildtype i09356_g_ig02847_l_712_nC_1, transcribed RNA sequence
+GCWY01012348.1_6     -          OSK_CONSENSUS        -              0.012   18.1   0.7     0.018   17.5   0.7   1.3   1   0   0   1   1   1   0 TSA: Echmepteryx hageni breed wildtype i12186_g_ig05677_l_581_nC_1, transcribed RNA sequence
+GCWY01005955.1_5     -          OSK_CONSENSUS        -               0.15   14.5   0.0      0.24   13.8   0.0   1.3   1   0   0   1   1   1   0 TSA: Echmepteryx hageni breed wildtype i05786_g_ig00903_l_934_nC_2, transcribed RNA sequence
+GCWY01005957.1_6     -          OSK_CONSENSUS        -               0.15   14.5   0.0      0.23   13.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Echmepteryx hageni breed wildtype i05788_g_ig00903_l_1139_nC_2, transcribed RNA sequence
+GCWY01005648.1_1     -          OSK_CONSENSUS        -               0.62   12.5   0.1       1.5   11.2   0.0   1.6   2   0   0   2   2   2   0 TSA: Echmepteryx hageni breed wildtype i05480_g_ig00750_l_618_nC_3, transcribed RNA sequence
+GCWY01011586.1_6     -          OSK_CONSENSUS        -                  3   10.2   5.6        13    8.2   0.4   2.1   1   1   1   2   2   2   0 TSA: Echmepteryx hageni breed wildtype i11423_g_ig04914_l_565_nC_1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:16 2019
+# [ok]

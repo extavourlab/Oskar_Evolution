@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGBL01006990.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-13   52.3   2.2   5.4e-12   48.5   0.1   2.8   2   0   0   2   2   2   1 TSA: Toxorhynchites sp. Toxo Toxorhynchites_contig_16058 transcribed RNA sequence
+GGBL01015613.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-12   49.8   0.0   4.2e-12   48.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Toxorhynchites sp. Toxo Toxorhynchites_contig_28466 transcribed RNA sequence
+GGBL01015614.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.2e-12   48.3   0.0   1.1e-11   47.5   0.0   1.4   1   0   0   1   1   1   1 TSA: Toxorhynchites sp. Toxo Toxorhynchites_contig_28467 transcribed RNA sequence
+GGBL01012385.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.13   15.2   0.0   1.2e+02    5.7   0.0   4.4   2   2   2   5   5   5   0 TSA: Toxorhynchites sp. Toxo Toxorhynchites_contig_3917.3 transcribed RNA sequence
+GGBL01007566.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.2   10.7   3.4        62    6.6   1.1   3.2   3   1   0   3   3   3   0 TSA: Toxorhynchites sp. Toxo Toxorhynchites_contig_1423 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGBL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:29 2019
+# [ok]

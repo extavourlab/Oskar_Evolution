@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXG01038267.1_2     -          LOTUS_CONSENSUS      -              6e-15   59.1   0.0   1.6e-13   54.5   0.0   2.9   3   0   0   3   3   3   1 TSA: Hespenedra chilensis breed wildtype s5914_L_21760_0_11_3_COMPLEX, transcribed RNA sequence
+GCXG01038269.1_2     -          LOTUS_CONSENSUS      -            6.4e-15   59.0   0.0   1.6e-13   54.5   0.0   2.9   3   0   0   3   3   3   1 TSA: Hespenedra chilensis breed wildtype s5916_L_21760_2_9_9_COMPLEX, transcribed RNA sequence
+GCXG01038268.1_2     -          LOTUS_CONSENSUS      -            1.6e-14   57.7   0.0   3.4e-14   56.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Hespenedra chilensis breed wildtype s5915_L_21760_1_9_3_COMPLEX, transcribed RNA sequence
+GCXG01006819.1_6     -          LOTUS_CONSENSUS      -            4.6e-05   27.4   0.0   8.3e-05   26.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Hespenedra chilensis breed wildtype C121626_4_0, transcribed RNA sequence
+GCXG01032254.1_4     -          LOTUS_CONSENSUS      -               0.26   15.3   4.1        16    9.6   0.1   3.9   3   0   0   3   3   3   0 TSA: Hespenedra chilensis breed wildtype s10470_L_47605_0_7_3_LINEAR, transcribed RNA sequence
+GCXG01024642.1_5     -          LOTUS_CONSENSUS      -                0.6   14.2   0.0      0.79   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Hespenedra chilensis breed wildtype C78949_2_0, transcribed RNA sequence
+GCXG01029770.1_6     -          LOTUS_CONSENSUS      -                1.7   12.7   0.0       2.2   12.4   0.0   1.3   1   1   0   1   1   1   0 TSA: Hespenedra chilensis breed wildtype C93975_4_0, transcribed RNA sequence
+GCXG01019399.1_5     -          LOTUS_CONSENSUS      -                3.3   11.8   1.2   1.6e+02    6.4   0.2   2.8   2   0   0   2   2   2   0 TSA: Hespenedra chilensis breed wildtype C166234_26_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:01 2019
+# [ok]

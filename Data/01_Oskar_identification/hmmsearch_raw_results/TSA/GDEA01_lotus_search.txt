@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEA01030272.1_3     -          LOTUS_CONSENSUS      -            3.5e-10   44.0   0.1        15    9.9   0.0   6.7   1   1   5   6   6   6   3 TSA: Cerobasis guestfalica breed wildtype s1362_L_916_4_a_99_0_l_3670, transcribed RNA sequence
+GDEA01030250.1_3     -          LOTUS_CONSENSUS      -              4e-10   43.9   0.1        19    9.6   0.0   6.6   1   1   4   6   6   6   3 TSA: Cerobasis guestfalica breed wildtype s1360_L_916_2_a_100_9_l_3683, transcribed RNA sequence
+GDEA01033442.1_4     -          LOTUS_CONSENSUS      -            9.6e-10   42.6   0.2   1.6e-09   41.9   0.2   1.3   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s16484_L_17425_0_a_5_6_l_632, transcribed RNA sequence
+GDEA01030238.1_3     -          LOTUS_CONSENSUS      -            9.9e-10   42.6   0.2        16    9.9   0.0   6.5   1   1   5   6   6   6   2 TSA: Cerobasis guestfalica breed wildtype s1359_L_916_1_a_101_6_l_3787, transcribed RNA sequence
+GDEA01030227.1_3     -          LOTUS_CONSENSUS      -              1e-09   42.5   0.2        16    9.9   0.0   6.5   1   1   5   6   6   6   2 TSA: Cerobasis guestfalica breed wildtype s1358_L_916_0_a_98_1_l_3814, transcribed RNA sequence
+GDEA01046454.1_4     -          LOTUS_CONSENSUS      -            4.7e-09   40.4   0.0   7.5e-09   39.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s6040_L_4612_0_a_24_2_l_718, transcribed RNA sequence
+GDEA01043731.1_3     -          LOTUS_CONSENSUS      -            5.4e-08   37.0   0.5   1.5e-07   35.6   0.5   1.9   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s3589_L_2539_0_a_28_1_l_3093, transcribed RNA sequence
+GDEA01043733.1_3     -          LOTUS_CONSENSUS      -            7.8e-08   36.5   0.5   1.5e-07   35.6   0.5   1.5   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s3590_L_2539_1_a_26_2_l_3088, transcribed RNA sequence
+GDEA01030261.1_3     -          LOTUS_CONSENSUS      -            2.8e-07   34.7   0.2        16    9.9   0.0   6.3   1   1   5   6   6   6   1 TSA: Cerobasis guestfalica breed wildtype s1361_L_916_3_a_98_6_l_3808, transcribed RNA sequence
+GDEA01016374.1_5     -          LOTUS_CONSENSUS      -            7.1e-05   27.0   0.0   8.6e-05   26.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype C317110_a_16_0_l_358, transcribed RNA sequence
+GDEA01005811.1_5     -          LOTUS_CONSENSUS      -            0.00046   24.4   0.0   0.00052   24.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype C278179_a_3_0_l_244, transcribed RNA sequence
+GDEA01039845.1_5     -          LOTUS_CONSENSUS      -             0.0027   21.9   0.7     0.005   21.1   0.7   1.4   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s22251_L_32222_0_a_102_3_l_735, transcribed RNA sequence
+GDEA01020745.1_6     -          LOTUS_CONSENSUS      -               0.71   14.2   0.0       1.3   13.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype C336575_a_7_0_l_512, transcribed RNA sequence
+GDEA01033155.1_2     -          LOTUS_CONSENSUS      -               0.79   14.0   3.1        25    9.3   0.1   3.0   3   1   0   3   3   3   0 TSA: Cerobasis guestfalica breed wildtype s16224_L_16983_1_a_6_8_l_1137, transcribed RNA sequence
+GDEA01021298.1_2     -          LOTUS_CONSENSUS      -                1.1   13.6   0.1       4.1   11.7   0.0   1.8   2   0   0   2   2   2   0 TSA: Cerobasis guestfalica breed wildtype C339123_a_6_0_l_545, transcribed RNA sequence
+GDEA01033667.1_1     -          LOTUS_CONSENSUS      -                1.4   13.3   0.0   4.8e+02    5.1   0.0   3.2   3   0   0   3   3   3   0 TSA: Cerobasis guestfalica breed wildtype s16687_L_17828_1_a_23_5_l_2187, transcribed RNA sequence
+GDEA01024597.1_5     -          LOTUS_CONSENSUS      -                1.4   13.2   0.0       2.6   12.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype C355769_a_26_0_l_980, transcribed RNA sequence
+GDEA01020626.1_6     -          LOTUS_CONSENSUS      -                3.1   12.1   3.4       8.7   10.7   0.3   2.6   1   1   2   3   3   3   0 TSA: Cerobasis guestfalica breed wildtype C336017_a_7_0_l_506, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:13 2019
+# [ok]

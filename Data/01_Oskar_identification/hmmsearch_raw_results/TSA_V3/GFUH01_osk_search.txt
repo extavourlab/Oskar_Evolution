@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUH01022777.1_4     -          oskar_filtered.aligned.OSK_domain -            1.3e-13   55.1   0.9   1.8e-13   54.7   0.9   1.2   1   0   0   1   1   1   1 TSA: Amphizoa lecontei breed wildtype T_DN5033_c0_g1_i1_l_801, transcribed RNA sequence
+GFUH01043187.1_5     -          oskar_filtered.aligned.OSK_domain -            3.5e-06   30.9   0.3   3.8e-06   30.8   0.3   1.2   1   0   0   1   1   1   1 TSA: Amphizoa lecontei breed wildtype T_DN7607_c1_g2_i2_l_678, transcribed RNA sequence
+GFUH01031540.1_4     -          oskar_filtered.aligned.OSK_domain -            7.4e-05   26.6   0.1   7.4e-05   26.6   0.1   1.2   1   0   0   1   1   1   1 TSA: Amphizoa lecontei breed wildtype T_DN7181_c5_g4_i3_l_630, transcribed RNA sequence
+GFUH01011199.1_6     -          oskar_filtered.aligned.OSK_domain -               0.18   15.5   0.8       0.2   15.4   0.8   1.2   1   0   0   1   1   1   0 TSA: Amphizoa lecontei breed wildtype T_DN20092_c0_g1_i1_l_428, transcribed RNA sequence
+GFUH01035066.1_2     -          oskar_filtered.aligned.OSK_domain -                2.7   11.7   2.6       3.2   11.5   2.6   1.1   1   0   0   1   1   1   0 TSA: Amphizoa lecontei breed wildtype T_DN7312_c1_g1_i2_l_310, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:57 2019
+# [ok]

@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEU01062117.1_4     -          OSK_CONSENSUS        -             0.0014   23.5   0.5     0.003   22.5   0.1   1.7   2   0   0   2   2   2   1 TSA: Proasellus coiffaiti, contig comp62074_c0_seq5, transcribed RNA sequence
+HAEU01061682.1_4     -          OSK_CONSENSUS        -              0.065   18.1   0.0      0.17   16.8   0.0   1.8   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq15, transcribed RNA sequence
+HAEU01061676.1_4     -          OSK_CONSENSUS        -              0.071   18.0   0.0      0.14   17.0   0.0   1.6   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq9, transcribed RNA sequence
+HAEU01061680.1_4     -          OSK_CONSENSUS        -              0.082   17.8   0.0      0.16   16.9   0.0   1.5   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq13, transcribed RNA sequence
+HAEU01061669.1_4     -          OSK_CONSENSUS        -                0.1   17.5   0.0       0.2   16.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq2, transcribed RNA sequence
+HAEU01061679.1_5     -          OSK_CONSENSUS        -                0.1   17.5   0.0      0.47   15.4   0.0   2.2   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq12, transcribed RNA sequence
+HAEU01061681.1_5     -          OSK_CONSENSUS        -               0.11   17.4   0.0      0.43   15.5   0.0   2.1   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq14, transcribed RNA sequence
+HAEU01061677.1_4     -          OSK_CONSENSUS        -               0.11   17.4   0.0      0.22   16.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq10, transcribed RNA sequence
+HAEU01061686.1_5     -          OSK_CONSENSUS        -               0.12   17.3   0.0      0.46   15.4   0.0   2.0   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq19, transcribed RNA sequence
+HAEU01061673.1_5     -          OSK_CONSENSUS        -               0.13   17.1   0.0      0.51   15.2   0.0   2.0   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq6, transcribed RNA sequence
+HAEU01061678.1_5     -          OSK_CONSENSUS        -               0.14   17.1   0.0      0.52   15.2   0.0   2.0   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62009_c0_seq11, transcribed RNA sequence
+HAEU01067480.1_3     -          OSK_CONSENSUS        -               0.22   16.4   0.3      0.22   16.4   0.3   3.0   3   0   0   3   3   3   0 TSA: Proasellus coiffaiti, contig comp62570_c1_seq1, transcribed RNA sequence
+HAEU01079570.1_3     -          OSK_CONSENSUS        -                0.4   15.6   0.7       0.5   15.3   0.7   1.1   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp361741_c0_seq1, transcribed RNA sequence
+HAEU01084845.1_2     -          OSK_CONSENSUS        -                1.9   13.4   0.3       2.1   13.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp470500_c0_seq1, transcribed RNA sequence
+HAEU01064324.1_3     -          OSK_CONSENSUS        -                  2   13.3   0.2       2.3   13.1   0.2   1.3   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62276_c0_seq5, transcribed RNA sequence
+HAEU01064321.1_2     -          OSK_CONSENSUS        -                  2   13.3   0.3       2.5   13.0   0.3   1.2   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62276_c0_seq2, transcribed RNA sequence
+HAEU01067177.1_2     -          OSK_CONSENSUS        -                2.4   13.0   0.2       2.6   12.9   0.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp62538_c0_seq3, transcribed RNA sequence
+HAEU01105153.1_1     -          OSK_CONSENSUS        -                3.4   12.6   0.2       3.6   12.5   0.2   1.3   1   1   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp932176_c0_seq1, transcribed RNA sequence
+HAEU01041796.1_6     -          OSK_CONSENSUS        -                3.4   12.6   0.1       7.9   11.4   0.1   1.6   1   1   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp56448_c1_seq11, transcribed RNA sequence
+HAEU01033890.1_5     -          OSK_CONSENSUS        -                3.7   12.4   0.0       4.5   12.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp51542_c0_seq1, transcribed RNA sequence
+HAEU01000886.1_3     -          OSK_CONSENSUS        -                4.3   12.2   0.1       7.5   11.4   0.1   1.4   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp981_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEU.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEU.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEU.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:54 2019
+# [ok]

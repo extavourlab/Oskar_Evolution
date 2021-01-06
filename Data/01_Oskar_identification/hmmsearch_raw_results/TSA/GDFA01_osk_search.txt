@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFA01019778.1_2     -          OSK_CONSENSUS        -            4.9e-07   32.4   0.2   8.7e-07   31.6   0.2   1.3   1   0   0   1   1   1   1 TSA: Metatropis rufescens breed wildtype s1787_L_2890_0_a_6_8_l_780, transcribed RNA sequence
+GDFA01019984.1_3     -          OSK_CONSENSUS        -            0.00031   23.3   0.1   0.00031   23.3   0.1   2.0   2   0   0   2   2   2   1 TSA: Metatropis rufescens breed wildtype s1974_L_3361_0_a_19_6_l_4465, transcribed RNA sequence
+GDFA01019779.1_2     -          OSK_CONSENSUS        -             0.0022   20.6   0.6    0.0038   19.8   0.6   1.3   1   0   0   1   1   1   1 TSA: Metatropis rufescens breed wildtype s1788_L_2890_1_a_6_2_l_873, transcribed RNA sequence
+GDFA01017388.1_5     -          OSK_CONSENSUS        -               0.24   14.0   2.0        35    6.9   0.1   2.3   1   1   1   2   2   2   0 TSA: Metatropis rufescens breed wildtype C79802_a_16_0_l_1374, transcribed RNA sequence
+GDFA01020199.1_5     -          OSK_CONSENSUS        -               0.76   12.3   0.1       1.1   11.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Metatropis rufescens breed wildtype s2167_L_3781_0_a_37_0_l_564, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:12 2019
+# [ok]

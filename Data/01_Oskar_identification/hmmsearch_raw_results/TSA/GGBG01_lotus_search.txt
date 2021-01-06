@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGBG01014901.1_6     -          LOTUS_CONSENSUS      -            8.6e-14   54.1   0.2   2.5e-13   52.6   0.2   1.8   1   0   0   1   1   1   1 TSA: cf. Paracnephia sp. Prosim 2 Paracnephia_contig_4496 transcribed RNA sequence
+GGBG01014623.1_2     -          LOTUS_CONSENSUS      -            5.8e-05   25.8   0.0   0.00024   23.8   0.0   2.1   1   0   0   1   1   1   1 TSA: cf. Paracnephia sp. Prosim 2 Paracnephia_contig_13685 transcribed RNA sequence
+GGBG01015028.1_3     -          LOTUS_CONSENSUS      -               0.27   14.0   4.5      0.34   13.7   4.5   1.1   1   0   0   1   1   1   0 TSA: cf. Paracnephia sp. Prosim 2 Paracnephia_contig_27802 transcribed RNA sequence
+GGBG01010389.1_5     -          LOTUS_CONSENSUS      -               0.89   12.3   2.7       1.1   12.0   0.3   2.3   2   0   0   2   2   2   0 TSA: cf. Paracnephia sp. Prosim 2 Paracnephia_contig_972.1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGBG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:43:55 2019
+# [ok]

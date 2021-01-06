@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGHB01004406.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-19   72.8   0.1   2.6e-18   68.6   0.0   2.8   2   0   0   2   2   2   1 TSA: Cylindromyia sp. CylindSp011 Cylindromyia_sp_contig_3305 transcribed RNA sequence
+GGHB01009362.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.9e-10   41.1   0.0   9.9e-10   41.1   0.0   1.8   2   0   0   2   2   2   1 TSA: Cylindromyia sp. CylindSp011 Cylindromyia_sp_contig_13037.2 transcribed RNA sequence
+GGHB01017438.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.6   12.9   0.6       1.4   11.7   0.0   1.7   2   0   0   2   2   2   0 TSA: Cylindromyia sp. CylindSp011 Cylindromyia_sp_contig_4637.1 transcribed RNA sequence
+GGHB01016531.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.72   12.6   3.9        25    7.7   1.0   2.9   2   0   0   2   2   2   0 TSA: Cylindromyia sp. CylindSp011 Cylindromyia_sp_contig_12652 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGHB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:37 2019
+# [ok]

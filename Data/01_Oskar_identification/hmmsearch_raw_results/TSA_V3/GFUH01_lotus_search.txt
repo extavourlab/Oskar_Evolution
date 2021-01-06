@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUH01041166.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-21   80.6   0.7   2.5e-17   67.0   0.0   3.1   3   0   0   3   3   3   2 TSA: Amphizoa lecontei breed wildtype T_DN7528_c4_g2_i9_l_2285, transcribed RNA sequence
+GFUH01041159.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-21   80.2   0.5   4.4e-17   66.2   0.0   3.7   3   0   0   3   3   3   2 TSA: Amphizoa lecontei breed wildtype T_DN7528_c4_g2_i2_l_3499, transcribed RNA sequence
+GFUH01052578.1_6     -          oskar_filtered.aligned.LOTUS_domain -              1e-19   74.7   0.0   1.4e-19   74.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Amphizoa lecontei breed wildtype T_DN9373_c0_g1_i1_l_512, transcribed RNA sequence
+GFUH01019532.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.58   14.5   0.4      0.58   14.5   0.4   1.5   2   0   0   2   2   2   0 TSA: Amphizoa lecontei breed wildtype T_DN3214_c0_g1_i2_l_410, transcribed RNA sequence
+GFUH01016419.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.78   14.1   0.0       1.5   13.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Amphizoa lecontei breed wildtype T_DN24718_c0_g1_i1_l_612, transcribed RNA sequence
+GFUH01037645.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.6   0.2         5   11.5   0.0   1.8   1   1   1   2   2   2   0 TSA: Amphizoa lecontei breed wildtype T_DN7408_c3_g1_i12_l_219, transcribed RNA sequence
+GFUH01044576.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.4   0.4   2.2e+02    6.2   0.1   2.1   2   0   0   2   2   2   0 TSA: Amphizoa lecontei breed wildtype T_DN7659_c2_g1_i17_l_267, transcribed RNA sequence
+GFUH01043126.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.2   11.7   5.9   1.9e+02    6.4   0.1   3.6   2   2   2   4   4   4   0 TSA: Amphizoa lecontei breed wildtype T_DN7604_c0_g1_i9_l_498, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:57 2019
+# [ok]

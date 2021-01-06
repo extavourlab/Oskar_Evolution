@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLR01018963.1_6     -          oskar_filtered.aligned.LOTUS_domain -            7.2e-22   80.6   0.0   2.4e-21   78.9   0.0   2.0   1   0   0   1   1   1   1 TSA: Thyreus orbatus s1568_L_1937_0_a_18_6_l_2904 transcribed RNA sequence
+GBLR01018964.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-21   79.5   0.0     5e-21   77.9   0.0   1.9   1   0   0   1   1   1   1 TSA: Thyreus orbatus s1569_L_1937_1_a_21_7_l_5131 transcribed RNA sequence
+GBLR01025497.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-21   79.3   3.7   2.3e-16   62.9   0.4   3.3   3   0   0   3   3   3   2 TSA: Thyreus orbatus s7471_L_20779_0_a_8_3_l_3601 transcribed RNA sequence
+GBLR01025498.1_3     -          oskar_filtered.aligned.LOTUS_domain -              4e-20   75.0   8.1   2.7e-16   62.7   0.4   3.6   3   1   0   3   3   3   2 TSA: Thyreus orbatus s7472_L_20779_1_a_5_9_l_4063 transcribed RNA sequence
+GBLR01024219.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00016   25.0   0.1         6   10.2   0.0   5.3   3   1   2   5   5   5   1 TSA: Thyreus orbatus s6315_L_13942_0_a_16_4_l_5553 transcribed RNA sequence
+GBLR01006316.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.61   13.4   0.6      0.82   13.0   0.6   1.2   1   0   0   1   1   1   0 TSA: Thyreus orbatus C48763_a_4_0_l_362 transcribed RNA sequence
+GBLR01020529.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.99   12.8   0.1       2.1   11.7   0.1   1.5   1   0   0   1   1   1   0 TSA: Thyreus orbatus s2986_L_3862_1_a_29_6_l_1271 transcribed RNA sequence
+GBLR01015446.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.4   11.5   2.7       7.1   10.0   0.2   2.7   2   1   1   3   3   3   0 TSA: Thyreus orbatus C81140_a_21_0_l_1598 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:07 2019
+# [ok]

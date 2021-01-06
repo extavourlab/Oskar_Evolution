@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWG01044279.1_4     -          LOTUS_CONSENSUS      -            7.5e-13   54.2   0.0   7.9e-10   44.5   0.0   3.6   4   0   0   4   4   4   1 TSA: Extatosoma tiaratum comp78637_c0_seq1 transcribed RNA sequence
+GAWG01044280.1_4     -          LOTUS_CONSENSUS      -              1e-12   53.8   0.0   9.4e-10   44.3   0.0   3.5   3   0   0   3   3   3   1 TSA: Extatosoma tiaratum comp78637_c0_seq2 transcribed RNA sequence
+GAWG01101648.1_5     -          LOTUS_CONSENSUS      -              3e-12   52.3   0.0   2.5e-07   36.5   0.0   3.0   3   0   0   3   3   3   2 TSA: Extatosoma tiaratum comp105179_c0_seq1 transcribed RNA sequence
+GAWG01046782.1_4     -          LOTUS_CONSENSUS      -                1.6   14.7   0.1   4.1e+02    7.0   0.0   2.5   2   1   0   2   2   2   0 TSA: Extatosoma tiaratum comp79921_c0_seq1 transcribed RNA sequence
+GAWG01139568.1_3     -          LOTUS_CONSENSUS      -                3.5   13.6   0.2        15   11.5   0.0   1.9   2   0   0   2   2   2   0 TSA: Extatosoma tiaratum comp1333680_c0_seq1 transcribed RNA sequence
+GAWG01144729.1_2     -          LOTUS_CONSENSUS      -                4.5   13.2   0.0       7.4   12.6   0.0   1.4   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp1523950_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:30 2019
+# [ok]

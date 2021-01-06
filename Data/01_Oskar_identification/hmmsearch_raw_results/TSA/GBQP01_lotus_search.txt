@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQP01023982.1_6     -          LOTUS_CONSENSUS      -            2.6e-18   69.0   0.2   7.4e-18   67.6   0.0   1.9   2   0   0   2   2   2   1 TSA: Halictus quadricinctus s924_L_979_1_a_13_7_l_2431 transcribed RNA sequence
+GBQP01023981.1_6     -          LOTUS_CONSENSUS      -              5e-18   68.1   0.0   1.2e-17   66.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Halictus quadricinctus s923_L_979_0_a_21_1_l_3583 transcribed RNA sequence
+GBQP01015783.1_1     -          LOTUS_CONSENSUS      -             0.0015   21.7   0.0        72    6.7   0.0   5.4   3   2   2   6   6   6   1 TSA: Halictus quadricinctus C97060_a_8_0_l_3324 transcribed RNA sequence
+GBQP01019553.1_4     -          LOTUS_CONSENSUS      -               0.52   13.6   0.1      0.86   12.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Halictus quadricinctus s4103_L_6270_0_a_9_6_l_435 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:29 2019
+# [ok]

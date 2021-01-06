@@ -1,0 +1,34 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGPH01056146.1_2     -          oskar_filtered.aligned.OSK_domain -            1.5e-24   92.8   0.0   3.3e-24   91.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Diceroprocta semicincta TRINITY_DN46376_c0_g1_i1 transcribed RNA sequence
+GGPH01056149.1_2     -          oskar_filtered.aligned.OSK_domain -            1.8e-24   92.5   1.2   4.7e-24   91.2   0.1   2.2   2   0   0   2   2   2   1 TSA: Diceroprocta semicincta TRINITY_DN46376_c0_g1_i3 transcribed RNA sequence
+GGPH01056154.1_2     -          oskar_filtered.aligned.OSK_domain -            1.9e-24   92.5   0.9   5.1e-24   91.1   0.1   2.1   2   0   0   2   2   2   1 TSA: Diceroprocta semicincta TRINITY_DN46376_c0_g1_i5 transcribed RNA sequence
+GGPH01056151.1_2     -          oskar_filtered.aligned.OSK_domain -            2.6e-24   92.0   0.5   8.7e-24   90.3   0.0   2.1   2   0   0   2   2   2   1 TSA: Diceroprocta semicincta TRINITY_DN46376_c0_g1_i4 transcribed RNA sequence
+GGPH01056147.1_2     -          oskar_filtered.aligned.OSK_domain -            2.6e-24   92.0   0.8   8.2e-24   90.4   0.0   2.1   2   0   0   2   2   2   1 TSA: Diceroprocta semicincta TRINITY_DN46376_c0_g1_i2 transcribed RNA sequence
+GGPH01053092.1_5     -          oskar_filtered.aligned.OSK_domain -                1.7   14.4   5.7       1.1   15.0   3.2   1.9   2   0   0   2   2   2   0 TSA: Diceroprocta semicincta TRINITY_DN47056_c6_g1_i1 transcribed RNA sequence
+GGPH01102345.1_4     -          oskar_filtered.aligned.OSK_domain -                  2   14.2   0.0       4.5   13.0   0.0   1.5   2   0   0   2   2   2   0 TSA: Diceroprocta semicincta TRINITY_DN44860_c1_g9_i3 transcribed RNA sequence
+GGPH01211941.1_1     -          oskar_filtered.aligned.OSK_domain -                2.1   14.1   2.3       1.9   14.3   2.3   1.1   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN120807_c0_g1_i1 transcribed RNA sequence
+GGPH01102347.1_4     -          oskar_filtered.aligned.OSK_domain -                3.2   13.5   0.0       3.2   13.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN44860_c1_g9_i1 transcribed RNA sequence
+GGPH01132781.1_5     -          oskar_filtered.aligned.OSK_domain -                3.3   13.4   3.5       3.6   13.3   3.5   1.0   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN52459_c11_g1_i1 transcribed RNA sequence
+GGPH01055941.1_2     -          oskar_filtered.aligned.OSK_domain -                4.1   13.1   0.2       4.3   13.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN46300_c0_g5_i1 transcribed RNA sequence
+GGPH01036344.1_6     -          oskar_filtered.aligned.OSK_domain -                4.3   13.1   0.0   9.3e+02    5.4   0.0   3.5   1   1   2   3   3   3   0 TSA: Diceroprocta semicincta TRINITY_DN49786_c0_g2_i2 transcribed RNA sequence
+GGPH01152834.1_4     -          oskar_filtered.aligned.OSK_domain -                4.4   13.0   0.9       5.7   12.7   0.6   1.3   1   1   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN10502_c0_g2_i1 transcribed RNA sequence
+GGPH01152833.1_4     -          oskar_filtered.aligned.OSK_domain -                5.1   12.8   0.9       7.3   12.3   0.5   1.3   1   1   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN10502_c0_g1_i1 transcribed RNA sequence
+GGPH01215345.1_4     -          oskar_filtered.aligned.OSK_domain -                5.2   12.8   0.5       5.7   12.7   0.5   1.1   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN102811_c0_g1_i1 transcribed RNA sequence
+GGPH01084061.1_4     -          oskar_filtered.aligned.OSK_domain -                5.4   12.7   0.2       6.7   12.4   0.2   1.2   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN17328_c0_g1_i1 transcribed RNA sequence
+GGPH01040271.1_4     -          oskar_filtered.aligned.OSK_domain -                6.8   12.4   0.1        46    9.7   0.0   2.2   2   0   0   2   2   2   0 TSA: Diceroprocta semicincta TRINITY_DN50949_c6_g2_i4 transcribed RNA sequence
+GGPH01058227.1_1     -          oskar_filtered.aligned.OSK_domain -                6.9   12.4   0.0       7.7   12.2   0.0   1.0   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN41057_c1_g1_i1 transcribed RNA sequence
+GGPH01117539.1_5     -          oskar_filtered.aligned.OSK_domain -                7.7   12.2   0.0       9.5   11.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN72019_c0_g1_i1 transcribed RNA sequence
+GGPH01106260.1_5     -          oskar_filtered.aligned.OSK_domain -                8.6   12.1   2.4        11   11.7   2.4   1.2   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN25252_c0_g1_i1 transcribed RNA sequence
+GGPH01058228.1_1     -          oskar_filtered.aligned.OSK_domain -                8.6   12.1   0.1       9.7   11.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Diceroprocta semicincta TRINITY_DN41057_c1_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGPH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGPH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGPH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:41 2019
+# [ok]

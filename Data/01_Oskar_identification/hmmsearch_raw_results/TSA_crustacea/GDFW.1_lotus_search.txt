@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFW01031643.1_1     -          LOTUS_CONSENSUS      -              9e-20   74.4   0.2   9.1e-17   64.7   0.2   2.4   2   0   0   2   2   2   2 TSA: Tigriopus sp. 1 SL-2012 Tk_CDS_27590-1 transcribed RNA sequence
+GDFW01001547.1_1     -          LOTUS_CONSENSUS      -            1.3e-19   73.8   0.0   5.4e-08   36.6   0.0   3.9   4   0   0   4   4   4   3 TSA: Tigriopus sp. 1 SL-2012 Tk_CDS_01316-1 transcribed RNA sequence
+GDFW01011880.1_1     -          LOTUS_CONSENSUS      -            3.5e-12   50.0   1.1    0.0096   19.8   0.1   6.3   3   1   1   5   5   5   3 TSA: Tigriopus sp. 1 SL-2012 Tk_CDS_10368-1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDFW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GDFW.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDFW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:31 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENP01106168.1_3     -          oskar_filtered.aligned.OSK_domain -            2.4e-13   55.9   0.0   2.7e-13   55.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Acanthopteroctetes unifascia TR108896-c0_g1_i1 transcribed RNA sequence
+GENP01071220.1_5     -          oskar_filtered.aligned.OSK_domain -                1.3   14.3   0.2       1.4   14.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR78348-c0_g2_i1 transcribed RNA sequence
+GENP01056728.1_2     -          oskar_filtered.aligned.OSK_domain -                1.4   14.2   0.4       1.5   14.1   0.4   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR65736-c19_g5_i3 transcribed RNA sequence
+GENP01079473.1_5     -          oskar_filtered.aligned.OSK_domain -                1.7   13.9   0.3       1.8   13.9   0.3   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR85653-c0_g1_i1 transcribed RNA sequence
+GENP01142853.1_5     -          oskar_filtered.aligned.OSK_domain -                1.8   13.8   0.1       2.7   13.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR156404-c0_g1_i1 transcribed RNA sequence
+GENP01049727.1_1     -          oskar_filtered.aligned.OSK_domain -                2.9   13.2   0.4       3.4   13.0   0.4   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR59476-c0_g1_i1 transcribed RNA sequence
+GENP01056727.1_2     -          oskar_filtered.aligned.OSK_domain -                3.8   12.8   0.4       3.9   12.8   0.4   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR65736-c19_g5_i2 transcribed RNA sequence
+GENP01121426.1_3     -          oskar_filtered.aligned.OSK_domain -                4.1   12.7   2.2       4.3   12.6   2.2   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR122265-c0_g1_i1 transcribed RNA sequence
+GENP01003110.1_3     -          oskar_filtered.aligned.OSK_domain -                4.8   12.5   0.4       8.8   11.6   0.4   1.4   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR4131-c0_g3_i1 transcribed RNA sequence
+GENP01155438.1_1     -          oskar_filtered.aligned.OSK_domain -                5.2   12.4   0.1       5.5   12.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Acanthopteroctetes unifascia TR176534-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:47 2019
+# [ok]

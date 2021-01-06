@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017796711.1       -          oskar_filtered.aligned.OSK_domain -              0.021   14.0   0.4     0.057   12.5   0.4   1.8   1   0   0   1   1   1   0 PREDICTED: regulator of G-protein signaling loco [Habropoda laboriosa]
+XP_017793522.1       -          oskar_filtered.aligned.OSK_domain -              0.037   13.1   0.0     0.066   12.3   0.0   1.4   1   0   0   1   1   1   0 PREDICTED: succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial-like [Habropoda laboriosa]
+XP_017795658.1       -          oskar_filtered.aligned.OSK_domain -               0.19   10.9   3.4       1.5    7.9   4.0   2.2   2   1   0   2   2   2   0 PREDICTED: protein VAC14 homolog [Habropoda laboriosa]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263275.1_ASM126327v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001263275.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263275.1_ASM126327v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:47 2019
+# [ok]

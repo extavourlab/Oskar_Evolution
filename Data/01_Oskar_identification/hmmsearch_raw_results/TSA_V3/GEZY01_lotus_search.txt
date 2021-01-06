@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEZY01039918.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-20   77.2   1.0   1.1e-14   58.2   0.0   3.3   3   0   0   3   3   3   2 TSA: Sitophilus oryzae c35959.graph_c0 transcribed RNA sequence
+GEZY01023300.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-19   72.9   0.1   6.9e-19   71.7   0.1   1.6   1   0   0   1   1   1   1 TSA: Sitophilus oryzae c10171.graph_c0 transcribed RNA sequence
+GEZY01023233.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-15   60.0   0.4     7e-15   58.8   0.0   1.8   2   0   0   2   2   2   1 TSA: Sitophilus oryzae c8522.graph_c0 transcribed RNA sequence
+GEZY01039739.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0038   21.2   1.4     2e+02    6.0   0.3   5.1   4   1   1   5   5   5   1 TSA: Sitophilus oryzae c37241.graph_c0 transcribed RNA sequence
+GEZY01025444.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.5   0.6      0.78   13.7   0.6   1.9   1   0   0   1   1   1   0 TSA: Sitophilus oryzae c15255.graph_c0 transcribed RNA sequence
+GEZY01025584.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.83   13.7   0.8       7.4   10.6   0.8   2.5   1   1   0   1   1   1   0 TSA: Sitophilus oryzae c36583.graph_c0 transcribed RNA sequence
+GEZY01036674.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.2   11.4   4.2        12   10.0   4.2   1.8   1   1   0   1   1   1   0 TSA: Sitophilus oryzae c22832.graph_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEZY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:09 2019
+# [ok]

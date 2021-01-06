@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUP01019539.1_3     -          LOTUS_CONSENSUS      -            3.8e-18   68.3   1.9   4.3e-13   52.1   0.0   4.0   3   0   0   3   3   3   2 TSA: Trissolcus semistriatus s4875_L_16736_0_a_28_7_l_3621 transcribed RNA sequence
+GBUP01019540.1_3     -          LOTUS_CONSENSUS      -            5.6e-18   67.7   1.5   3.9e-13   52.2   0.0   4.3   3   0   0   3   3   3   2 TSA: Trissolcus semistriatus s4876_L_16736_1_a_29_4_l_3381 transcribed RNA sequence
+GBUP01014917.1_1     -          LOTUS_CONSENSUS      -            4.2e-16   61.7   0.0   3.4e-15   58.8   0.0   2.6   2   0   0   2   2   2   1 TSA: Trissolcus semistriatus C62370_a_42_0_l_3834 transcribed RNA sequence
+GBUP01014254.1_6     -          LOTUS_CONSENSUS      -            4.9e-16   61.5   0.0   3.6e-15   58.7   0.0   2.5   2   0   0   2   2   2   1 TSA: Trissolcus semistriatus C60449_a_10_0_l_2850 transcribed RNA sequence
+GBUP01014822.1_1     -          LOTUS_CONSENSUS      -            1.5e-15   59.9   0.2   4.2e-15   58.5   0.2   1.7   1   0   0   1   1   1   1 TSA: Trissolcus semistriatus C62092_a_66_0_l_3595 transcribed RNA sequence
+GBUP01015185.1_1     -          LOTUS_CONSENSUS      -            1.2e-05   28.2   0.0        51    7.0   0.0   5.2   2   1   3   5   5   5   3 TSA: Trissolcus semistriatus C63138_a_49_0_l_5281 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:29 2019
+# [ok]

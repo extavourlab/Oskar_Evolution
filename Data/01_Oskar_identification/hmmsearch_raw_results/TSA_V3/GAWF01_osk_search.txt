@@ -1,0 +1,30 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWF01040175.1_5     -          oskar_filtered.aligned.OSK_domain -            7.6e-28  102.6   0.1   9.4e-28  102.3   0.1   1.1   1   0   0   1   1   1   1 TSA: Sipyloidea sipylus comp59979_c0_seq3 transcribed RNA sequence
+GAWF01040174.1_6     -          oskar_filtered.aligned.OSK_domain -            8.6e-28  102.4   0.1     1e-27  102.2   0.1   1.1   1   0   0   1   1   1   1 TSA: Sipyloidea sipylus comp59979_c0_seq2 transcribed RNA sequence
+GAWF01003851.1_1     -          oskar_filtered.aligned.OSK_domain -            3.4e-15   61.4   0.3     5e-15   60.8   0.3   1.1   1   0   0   1   1   1   1 TSA: Sipyloidea sipylus comp9113_c0_seq1 transcribed RNA sequence
+GAWF01100225.1_1     -          oskar_filtered.aligned.OSK_domain -            1.9e-05   29.6   0.0     2e-05   29.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Sipyloidea sipylus comp653419_c0_seq1 transcribed RNA sequence
+GAWF01008786.1_5     -          oskar_filtered.aligned.OSK_domain -             0.0034   22.2   0.0    0.0034   22.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Sipyloidea sipylus comp24628_c1_seq1 transcribed RNA sequence
+GAWF01071870.1_3     -          oskar_filtered.aligned.OSK_domain -              0.033   19.0   0.3     0.069   18.0   0.3   1.5   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp65430_c0_seq3 transcribed RNA sequence
+GAWF01008785.1_5     -          oskar_filtered.aligned.OSK_domain -              0.099   17.4   0.0      0.12   17.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp24628_c0_seq1 transcribed RNA sequence
+GAWF01071868.1_1     -          oskar_filtered.aligned.OSK_domain -               0.12   17.2   0.3      0.24   16.2   0.3   1.4   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp65430_c0_seq1 transcribed RNA sequence
+GAWF01033667.1_4     -          oskar_filtered.aligned.OSK_domain -               0.91   14.3   0.2      0.92   14.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp57542_c1_seq1 transcribed RNA sequence
+GAWF01082789.1_1     -          oskar_filtered.aligned.OSK_domain -                  1   14.2   0.0         1   14.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp226962_c0_seq1 transcribed RNA sequence
+GAWF01086099.1_4     -          oskar_filtered.aligned.OSK_domain -                1.5   13.6   0.7       1.7   13.5   0.7   1.1   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp348940_c0_seq1 transcribed RNA sequence
+GAWF01005127.1_4     -          oskar_filtered.aligned.OSK_domain -                1.5   13.6   0.0       1.5   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp15274_c0_seq1 transcribed RNA sequence
+GAWF01010750.1_2     -          oskar_filtered.aligned.OSK_domain -                  2   13.2   0.1       2.1   13.1   0.1   1.0   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp32267_c0_seq1 transcribed RNA sequence
+GAWF01080673.1_1     -          oskar_filtered.aligned.OSK_domain -                  3   12.6   0.0       4.8   12.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp66257_c0_seq1 transcribed RNA sequence
+GAWF01110754.1_1     -          oskar_filtered.aligned.OSK_domain -                3.4   12.4   0.0       3.4   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp1009566_c0_seq1 transcribed RNA sequence
+GAWF01080994.1_5     -          oskar_filtered.aligned.OSK_domain -                4.9   11.9   0.0       8.2   11.2   0.0   1.3   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp66294_c0_seq3 transcribed RNA sequence
+GAWF01100436.1_3     -          oskar_filtered.aligned.OSK_domain -                5.5   11.8   2.1       6.2   11.6   2.1   1.1   1   0   0   1   1   1   0 TSA: Sipyloidea sipylus comp659188_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:37 2019
+# [ok]

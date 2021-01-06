@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023034501.1       -          oskar_filtered.aligned.LOTUS_domain -            4.6e-27   94.3   0.4   4.6e-27   94.3   0.4   2.7   3   0   0   3   3   3   1 maternal effect protein oskar isoform X1 [Drosophila willistoni]
+XP_002070281.2       -          oskar_filtered.aligned.LOTUS_domain -              1e-26   93.2   0.4     1e-26   93.2   0.4   3.3   4   0   0   4   4   4   1 maternal effect protein oskar isoform X2 [Drosophila willistoni]
+XP_023033702.1       -          oskar_filtered.aligned.LOTUS_domain -              7e-13   48.8   0.0     7e-13   48.8   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC6646133 isoform X2 [Drosophila willistoni]
+XP_023033701.1       -          oskar_filtered.aligned.LOTUS_domain -            7.1e-13   48.8   0.0   7.1e-13   48.8   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC6646133 isoform X1 [Drosophila willistoni]
+XP_002061325.3       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-12   45.4   0.1   4.1e-11   43.1   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC6638246 [Drosophila willistoni]
+XP_023031763.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-07   31.5   0.0   1.9e-07   31.3   0.0   1.3   1   1   0   1   1   1   1 uncharacterized protein LOC111518632 [Drosophila willistoni]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005925.1_dwil_caf1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005925.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005925.1_dwil_caf1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:32 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022817079.1       -          LOTUS_CONSENSUS      -            6.6e-17   62.1   0.0     1e-09   39.0   0.0   2.4   2   0   0   2   2   2   2 LOW QUALITY PROTEIN: uncharacterized protein LOC111349946 [Spodoptera litura]
+XP_022821443.1       -          LOTUS_CONSENSUS      -            2.7e-14   53.7   0.0   2.7e-14   53.7   0.0   3.0   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X2 [Spodoptera litura]
+XP_022821442.1       -          LOTUS_CONSENSUS      -            2.9e-14   53.6   0.0   2.9e-14   53.6   0.0   3.0   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Spodoptera litura]
+XP_022821444.1       -          LOTUS_CONSENSUS      -            2.9e-14   53.6   0.0   2.9e-14   53.6   0.0   3.0   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X3 [Spodoptera litura]
+XP_022814902.1       -          LOTUS_CONSENSUS      -              0.042   14.6   0.1     0.042   14.6   0.1   2.5   2   1   0   2   2   2   0 uncharacterized protein LOC111348499 [Spodoptera litura]
+XP_022828909.1       -          LOTUS_CONSENSUS      -              0.042   14.6   0.1     0.042   14.6   0.1   2.5   2   1   0   2   2   2   0 uncharacterized protein LOC111358195 [Spodoptera litura]
+XP_022831152.1       -          LOTUS_CONSENSUS      -              0.042   14.6   0.1     0.042   14.6   0.1   2.5   2   1   0   2   2   2   0 uncharacterized protein LOC111359755 [Spodoptera litura]
+XP_022832983.1       -          LOTUS_CONSENSUS      -               0.13   13.0   0.0      0.29   11.9   0.0   1.6   1   0   0   1   1   1   0 peptidoglycan-recognition protein LC-like isoform X2 [Spodoptera litura]
+XP_022832982.1       -          LOTUS_CONSENSUS      -               0.16   12.8   0.0      0.38   11.6   0.0   1.7   1   0   0   1   1   1   0 peptidoglycan-recognition protein LC-like isoform X1 [Spodoptera litura]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002706865.1_ASM270686v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002706865.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002706865.1_ASM270686v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:48 2019
+# [ok]

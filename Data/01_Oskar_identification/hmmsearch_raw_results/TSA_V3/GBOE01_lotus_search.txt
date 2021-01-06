@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOE01014533.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-20   74.4   0.1   6.6e-19   70.9   0.0   2.5   2   0   0   2   2   2   1 TSA: Chlorion hirtum C80126_a_26_0_l_3926 transcribed RNA sequence
+GBOE01008415.1_5     -          oskar_filtered.aligned.LOTUS_domain -              5e-13   52.0   0.0   8.2e-13   51.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Chlorion hirtum C54140_a_3_0_l_596 transcribed RNA sequence
+GBOE01019121.1_6     -          oskar_filtered.aligned.LOTUS_domain -            7.9e-06   28.9   0.0      0.13   15.3   0.0   5.0   2   1   2   4   4   4   2 TSA: Chlorion hirtum s4672_L_9532_0_a_31_7_l_7731 transcribed RNA sequence
+GBOE01015179.1_4     -          oskar_filtered.aligned.LOTUS_domain -                0.3   14.2   0.0       1.6   11.8   0.0   2.3   1   0   0   1   1   1   0 TSA: Chlorion hirtum s1118_L_1361_0_a_25_6_l_5168 transcribed RNA sequence
+GBOE01015180.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.31   14.1   0.0       1.6   11.8   0.0   2.3   1   0   0   1   1   1   0 TSA: Chlorion hirtum s1119_L_1361_1_a_25_3_l_5247 transcribed RNA sequence
+GBOE01003021.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.55   13.3   0.1      0.72   13.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Chlorion hirtum C35971_a_11_0_l_276 transcribed RNA sequence
+GBOE01014519.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.74   12.9   0.1         2   11.5   0.1   1.7   1   0   0   1   1   1   0 TSA: Chlorion hirtum C80050_a_54_0_l_3893 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:06 2019
+# [ok]

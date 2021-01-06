@@ -1,0 +1,36 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022176927.1       -          LOTUS_CONSENSUS      -            3.7e-20   72.5   2.0   6.3e-20   71.7   0.3   2.4   2   0   0   2   2   2   1 uncharacterized protein LOC111038222 [Myzus persicae]
+XP_022169440.1       -          LOTUS_CONSENSUS      -            5.4e-20   71.9  19.5   1.5e-13   51.3   0.1   6.0   6   1   0   6   6   4   3 uncharacterized protein LOC111033146 isoform X1 [Myzus persicae]
+XP_022169441.1       -          LOTUS_CONSENSUS      -            5.4e-20   71.9  19.5   1.5e-13   51.3   0.1   6.0   6   1   0   6   6   4   3 uncharacterized protein LOC111033146 isoform X1 [Myzus persicae]
+XP_022169442.1       -          LOTUS_CONSENSUS      -            2.2e-19   70.0  21.5   1.5e-13   51.3   0.1   6.0   6   1   0   6   6   4   3 uncharacterized protein LOC111033146 isoform X2 [Myzus persicae]
+XP_022167500.1       -          LOTUS_CONSENSUS      -            4.4e-17   62.6   0.0   4.4e-17   62.6   0.0   2.6   3   0   0   3   3   2   1 tudor domain-containing protein 7-like isoform X3 [Myzus persicae]
+XP_022167499.1       -          LOTUS_CONSENSUS      -            4.8e-17   62.5   0.0   4.8e-17   62.5   0.0   2.8   3   0   0   3   3   1   1 uncharacterized protein LOC111031737 isoform X2 [Myzus persicae]
+XP_022167496.1       -          LOTUS_CONSENSUS      -            4.9e-17   62.5   0.0   4.9e-17   62.5   0.0   2.9   4   0   0   4   4   1   1 uncharacterized protein LOC111031737 isoform X1 [Myzus persicae]
+XP_022167497.1       -          LOTUS_CONSENSUS      -            4.9e-17   62.5   0.0   4.9e-17   62.5   0.0   2.9   4   0   0   4   4   1   1 uncharacterized protein LOC111031737 isoform X1 [Myzus persicae]
+XP_022167498.1       -          LOTUS_CONSENSUS      -            4.9e-17   62.5   0.0   4.9e-17   62.5   0.0   2.9   4   0   0   4   4   1   1 uncharacterized protein LOC111031737 isoform X1 [Myzus persicae]
+XP_022167875.1       -          LOTUS_CONSENSUS      -            1.1e-12   48.5   0.0   1.1e-12   48.5   0.0   5.2   5   1   1   6   6   5   1 putative uncharacterized protein DDB_G0277255 isoform X2 [Myzus persicae]
+XP_022167871.1       -          LOTUS_CONSENSUS      -            1.1e-12   48.5   0.0   1.1e-12   48.5   0.0   5.2   5   1   1   6   6   5   1 putative uncharacterized protein DDB_G0277255 isoform X1 [Myzus persicae]
+XP_022167873.1       -          LOTUS_CONSENSUS      -            1.1e-12   48.5   0.0   1.1e-12   48.5   0.0   5.2   5   1   1   6   6   5   1 putative uncharacterized protein DDB_G0277255 isoform X1 [Myzus persicae]
+XP_022167874.1       -          LOTUS_CONSENSUS      -            1.1e-12   48.5   0.0   1.1e-12   48.5   0.0   5.2   5   1   1   6   6   5   1 putative uncharacterized protein DDB_G0277255 isoform X1 [Myzus persicae]
+XP_022183609.1       -          LOTUS_CONSENSUS      -            2.4e-06   28.2   0.0        25    5.7   0.0   6.6   4   2   3   7   7   7   0 meiosis regulator and mRNA stability factor 1 isoform X4 [Myzus persicae]
+XP_022183607.1       -          LOTUS_CONSENSUS      -            4.7e-06   27.3   0.1        33    5.3   0.0   6.7   5   2   2   8   8   7   0 meiosis regulator and mRNA stability factor 1 isoform X2 [Myzus persicae]
+XP_022183606.1       -          LOTUS_CONSENSUS      -            4.8e-06   27.2   0.1        33    5.3   0.0   6.7   5   2   2   8   8   7   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Myzus persicae]
+XP_022183608.1       -          LOTUS_CONSENSUS      -            0.00057   20.6   0.1        46    4.8   0.0   5.8   5   2   2   7   7   6   0 meiosis regulator and mRNA stability factor 1 isoform X3 [Myzus persicae]
+XP_022182347.1       -          LOTUS_CONSENSUS      -             0.0017   19.0   0.0     0.022   15.5   0.0   2.6   2   1   0   2   2   2   1 uncharacterized protein LOC111042113 [Myzus persicae]
+XP_022161696.1       -          LOTUS_CONSENSUS      -              0.051   14.3   0.0      0.16   12.8   0.0   1.9   1   0   0   1   1   1   0 uncharacterized protein LOC111027606 [Myzus persicae]
+XP_022166879.1       -          LOTUS_CONSENSUS      -              0.054   14.2   5.8       1.8    9.3   0.3   3.1   3   0   0   3   3   3   0 uncharacterized protein LOC111031304 [Myzus persicae]
+XP_022169933.1       -          LOTUS_CONSENSUS      -               0.36   11.6   5.5      0.18   12.6   1.5   2.7   2   0   0   2   2   1   0 dynein heavy chain 6, axonemal [Myzus persicae]
+XP_022181248.1       -          LOTUS_CONSENSUS      -                0.4   11.5   2.3        44    4.9   0.0   3.0   2   0   0   2   2   2   0 zinc finger MYM-type protein 1-like [Myzus persicae]
+XP_022168913.1       -          LOTUS_CONSENSUS      -                4.9    8.0   8.8      0.62   10.8   0.6   3.3   3   0   0   3   3   2   0 dynein heavy chain 6, axonemal-like [Myzus persicae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001856785.1_MPER_G0061.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001856785.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001856785.1_MPER_G0061.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:46 2019
+# [ok]

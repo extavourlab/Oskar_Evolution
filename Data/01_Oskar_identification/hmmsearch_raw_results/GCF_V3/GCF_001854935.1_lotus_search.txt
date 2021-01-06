@@ -1,0 +1,31 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018912247.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-20   73.4   2.1   7.9e-12   45.7   0.0   4.5   3   1   1   4   4   4   3 PREDICTED: uncharacterized protein LOC109040698 [Bemisia tabaci]
+XP_018917767.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-12   46.8   0.0   9.5e-12   45.4   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 isoform X5 [Bemisia tabaci]
+XP_018917765.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-12   46.7   0.0     1e-11   45.3   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 isoform X3 [Bemisia tabaci]
+XP_018917766.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-12   46.7   0.0     1e-11   45.3   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X4 [Bemisia tabaci]
+XP_018917764.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-12   46.7   0.0   1.1e-11   45.3   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X2 [Bemisia tabaci]
+XP_018917760.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-12   46.7   0.0   1.1e-11   45.2   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X1 [Bemisia tabaci]
+XP_018917761.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-12   46.7   0.0   1.1e-11   45.2   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X1 [Bemisia tabaci]
+XP_018917763.1       -          oskar_filtered.aligned.LOTUS_domain -            3.8e-12   46.7   0.0   1.1e-11   45.2   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X1 [Bemisia tabaci]
+XP_018896127.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-09   38.5   0.1       1.3    9.6   0.0   7.4   4   1   2   7   7   7   2 PREDICTED: meiosis arrest female protein 1 homolog isoform X3 [Bemisia tabaci]
+XP_018896119.1       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-09   36.1   0.1       1.5    9.5   0.0   7.2   5   1   2   7   7   7   2 PREDICTED: meiosis arrest female protein 1 isoform X2 [Bemisia tabaci]
+XP_018896111.1       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-09   36.1   0.1       1.5    9.5   0.0   7.2   5   1   2   7   7   7   2 PREDICTED: meiosis arrest female protein 1 isoform X1 [Bemisia tabaci]
+XP_018917203.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-06   27.0   0.0   1.3e-05   25.7   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044116 isoform X2 [Bemisia tabaci]
+XP_018917201.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-06   27.0   0.0   1.4e-05   25.7   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044116 isoform X1 [Bemisia tabaci]
+XP_018917202.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-06   27.0   0.0   1.4e-05   25.7   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044116 isoform X1 [Bemisia tabaci]
+XP_018915361.1       -          oskar_filtered.aligned.LOTUS_domain -              0.013   16.1   0.2      0.04   14.5   0.0   1.8   2   0   0   2   2   2   0 PREDICTED: oligoribonuclease, mitochondrial isoform X4 [Bemisia tabaci]
+XP_018915353.1       -          oskar_filtered.aligned.LOTUS_domain -              0.015   15.9   0.2     0.045   14.4   0.0   1.8   2   0   0   2   2   2   0 PREDICTED: oligoribonuclease, mitochondrial isoform X3 [Bemisia tabaci]
+XP_018915329.1       -          oskar_filtered.aligned.LOTUS_domain -              0.021   15.4   0.2      0.06   14.0   0.0   1.8   2   0   0   2   2   2   0 PREDICTED: probable oligoribonuclease isoform X1 [Bemisia tabaci]
+XP_018915339.1       -          oskar_filtered.aligned.LOTUS_domain -              0.021   15.4   0.2      0.06   14.0   0.0   1.8   2   0   0   2   2   2   0 PREDICTED: probable oligoribonuclease isoform X1 [Bemisia tabaci]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001854935.1_ASM185493v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001854935.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001854935.1_ASM185493v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:42 2019
+# [ok]

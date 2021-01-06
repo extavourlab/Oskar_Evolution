@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGEG01027585.1_1     -          LOTUS_CONSENSUS      -            1.7e-13   55.1   1.3   5.1e-12   50.3   0.0   3.2   3   0   0   3   3   3   1 TSA: Papaipema speciosissima TR17864_c0_g1_i1 transcribed RNA sequence
+GGEG01041021.1_3     -          LOTUS_CONSENSUS      -            1.8e-13   55.0   0.0   4.1e-05   28.2   0.0   3.1   3   0   0   3   3   3   2 TSA: Papaipema speciosissima TR2229_c0_g1_i1 transcribed RNA sequence
+GGEG01027586.1_1     -          LOTUS_CONSENSUS      -            3.5e-13   54.1   0.0   4.9e-13   53.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Papaipema speciosissima TR17864_c0_g1_i2 transcribed RNA sequence
+GGEG01041022.1_3     -          LOTUS_CONSENSUS      -            5.8e-06   30.9   0.0   1.4e-05   29.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Papaipema speciosissima TR2229_c0_g2_i1 transcribed RNA sequence
+GGEG01029979.1_1     -          LOTUS_CONSENSUS      -              0.048   18.4   1.3   5.3e+02    5.4   0.0   3.3   3   0   0   3   3   3   0 TSA: Papaipema speciosissima TR18794_c3_g1_i3 transcribed RNA sequence
+GGEG01029977.1_1     -          LOTUS_CONSENSUS      -               0.17   16.6   3.5   5.1e+02    5.5   0.0   3.4   3   1   0   3   3   3   0 TSA: Papaipema speciosissima TR18794_c3_g1_i1 transcribed RNA sequence
+GGEG01036342.1_3     -          LOTUS_CONSENSUS      -               0.78   14.5   1.1       1.4   13.6   0.1   1.9   2   0   0   2   2   2   0 TSA: Papaipema speciosissima TR20584_c2_g1_i8 transcribed RNA sequence
+GGEG01036337.1_1     -          LOTUS_CONSENSUS      -               0.78   14.5   0.1       2.5   12.9   0.1   1.8   1   0   0   1   1   1   0 TSA: Papaipema speciosissima TR20584_c2_g1_i3 transcribed RNA sequence
+GGEG01036343.1_3     -          LOTUS_CONSENSUS      -               0.92   14.3   1.1       1.5   13.6   0.1   1.8   2   0   0   2   2   2   0 TSA: Papaipema speciosissima TR20584_c2_g1_i9 transcribed RNA sequence
+GGEG01028170.1_6     -          LOTUS_CONSENSUS      -                1.9   13.2   0.1       2.6   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Papaipema speciosissima TR18213_c0_g1_i1 transcribed RNA sequence
+GGEG01009284.1_3     -          LOTUS_CONSENSUS      -                2.8   12.7   0.1       3.9   12.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Papaipema speciosissima TR12765_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGEG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGEG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGEG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:17 2019
+# [ok]

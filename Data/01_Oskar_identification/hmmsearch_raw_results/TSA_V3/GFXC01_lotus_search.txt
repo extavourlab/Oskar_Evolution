@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFXC01022219.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-21   79.8   0.6   2.1e-15   60.9   0.0   3.2   3   0   0   3   3   3   2 TSA: Anoplophora chinensis c34935.graph_c0 transcribed RNA sequence
+GFXC01019949.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-07   35.8   1.4       6.4   11.2   0.0   6.4   3   1   2   6   6   6   3 TSA: Anoplophora chinensis c33016.graph_c0 transcribed RNA sequence
+GFXC01020590.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.18   16.2   0.0      0.34   15.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Anoplophora chinensis c33563.graph_c0 transcribed RNA sequence
+GFXC01036808.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.7   0.1       1.4   13.3   0.1   1.4   1   1   0   1   1   1   0 TSA: Anoplophora chinensis c48969.graph_c0 transcribed RNA sequence
+GFXC01023143.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.7   0.6       4.8   11.6   0.6   1.5   1   0   0   1   1   1   0 TSA: Anoplophora chinensis c35685.graph_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFXC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFXC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFXC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:28 2019
+# [ok]

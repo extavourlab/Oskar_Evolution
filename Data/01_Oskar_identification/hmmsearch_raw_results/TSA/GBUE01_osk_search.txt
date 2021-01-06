@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUE01008958.1_6     -          OSK_CONSENSUS        -            4.8e-43  149.9   1.8   8.6e-43  149.1   1.8   1.4   1   0   0   1   1   1   1 TSA: Brasema neomexicana C131929_a_24_0_l_1516 transcribed RNA sequence
+GBUE01029013.1_3     -          OSK_CONSENSUS        -            7.4e-43  149.3   2.3   1.6e-42  148.2   2.3   1.5   1   0   0   1   1   1   1 TSA: Brasema neomexicana s494_L_612_0_a_43_3_l_1430 transcribed RNA sequence
+GBUE01029726.1_1     -          OSK_CONSENSUS        -            1.8e-08   37.6   0.6   3.8e-08   36.5   0.6   1.6   1   0   0   1   1   1   1 TSA: Brasema neomexicana s5600_L_13671_0_a_14_1_l_928 transcribed RNA sequence
+GBUE01029726.1_2     -          OSK_CONSENSUS        -              0.003   20.6   0.0    0.0059   19.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Brasema neomexicana s5600_L_13671_0_a_14_1_l_928 transcribed RNA sequence
+GBUE01020156.1_5     -          OSK_CONSENSUS        -              0.033   17.2   0.9     0.038   17.0   0.9   1.0   1   0   0   1   1   1   0 TSA: Brasema neomexicana C85194_a_3_0_l_294 transcribed RNA sequence
+GBUE01022544.1_5     -          OSK_CONSENSUS        -              0.093   15.8   0.0      0.12   15.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Brasema neomexicana C93094_a_4_0_l_349 transcribed RNA sequence
+GBUE01018031.1_5     -          OSK_CONSENSUS        -               0.12   15.5   0.1      0.12   15.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Brasema neomexicana C78923_a_3_0_l_266 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:46 2019
+# [ok]

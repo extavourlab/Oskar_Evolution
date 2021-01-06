@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDLA01009331.1_1     -          LOTUS_CONSENSUS      -            7.7e-19   71.0   0.0   1.8e-18   69.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Larinus minutus C139769_a_8_0_l_1125 transcribed RNA sequence
+GDLA01029329.1_6     -          LOTUS_CONSENSUS      -            1.4e-12   50.9   0.1   4.9e-12   49.2   0.1   1.9   1   0   0   1   1   1   1 TSA: Larinus minutus s9648_L_20014_0_a_8_6_l_3941 transcribed RNA sequence
+GDLA01011309.1_4     -          LOTUS_CONSENSUS      -            5.1e-11   46.0   0.1   5.3e-05   26.7   0.0   2.6   2   0   0   2   2   2   2 TSA: Larinus minutus C147965_a_18_0_l_2050 transcribed RNA sequence
+GDLA01005471.1_6     -          LOTUS_CONSENSUS      -             0.0055   20.2   0.0     0.086   16.4   0.0   2.1   1   1   1   2   2   2   1 TSA: Larinus minutus C122394_a_5_0_l_548 transcribed RNA sequence
+GDLA01009951.1_4     -          LOTUS_CONSENSUS      -               0.14   15.7   2.1      0.25   14.9   0.3   2.2   3   0   0   3   3   3   0 TSA: Larinus minutus C142421_a_5_0_l_1310 transcribed RNA sequence
+GDLA01029122.1_1     -          LOTUS_CONSENSUS      -               0.17   15.5   0.1      0.67   13.5   0.0   2.0   2   0   0   2   2   2   0 TSA: Larinus minutus s9460_L_19282_0_a_11_3_l_876 transcribed RNA sequence
+GDLA01000783.1_4     -          LOTUS_CONSENSUS      -               0.65   13.6   0.6       0.8   13.3   0.6   1.2   1   0   0   1   1   1   0 TSA: Larinus minutus C102995_a_8_0_l_321 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDLA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:09 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWK02017433.1_3     -          LOTUS_CONSENSUS      -            2.5e-20   75.2   1.4   7.4e-15   57.7   0.0   3.6   4   0   0   4   4   4   2 TSA: Ceratophyllus gallinae s5213_L_10311_1_a_40_5_l_2123 transcribed RNA sequence
+GAWK02017432.1_3     -          LOTUS_CONSENSUS      -            4.1e-20   74.5   0.2   9.7e-15   57.3   0.0   3.2   3   0   0   3   3   3   2 TSA: Ceratophyllus gallinae s5212_L_10311_0_a_47_4_l_2577 transcribed RNA sequence
+GAWK02018583.1_4     -          LOTUS_CONSENSUS      -            8.8e-16   60.7   0.1   9.3e-15   57.4   0.0   2.9   3   0   0   3   3   3   1 TSA: Ceratophyllus gallinae s6249_L_14514_0_a_55_3_l_4000 transcribed RNA sequence
+GAWK02019123.1_4     -          LOTUS_CONSENSUS      -            1.7e-05   27.7   1.0       9.7    9.2   0.0   5.7   4   2   2   6   6   6   2 TSA: Ceratophyllus gallinae s6735_L_17385_0_a_90_0_l_4963 transcribed RNA sequence
+GAWK02005140.1_1     -          LOTUS_CONSENSUS      -               0.47   13.5   0.2         1   12.4   0.2   1.7   1   1   0   1   1   1   0 TSA: Ceratophyllus gallinae C58370_a_6_0_l_402 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWK02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWK02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWK02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:39 2019
+# [ok]

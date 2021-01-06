@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011057668.1       -          OSK_CONSENSUS        -            1.4e-61  207.0   0.2   2.8e-61  206.0   0.2   1.5   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC105147973 isoform X1 [Acromyrmex echinatior]
+XP_011057669.1       -          OSK_CONSENSUS        -            1.4e-61  206.9   0.2   2.5e-61  206.1   0.2   1.4   1   0   0   1   1   1   1 PREDICTED: maternal effect protein oskar isoform X2 [Acromyrmex echinatior]
+XP_011057670.1       -          OSK_CONSENSUS        -            3.2e-46  157.0   0.8   5.7e-46  156.2   0.8   1.3   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC105147973 isoform X3 [Acromyrmex echinatior]
+XP_011049121.1       -          OSK_CONSENSUS        -              0.078   12.8   1.0      0.38   10.6   0.3   2.3   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Acromyrmex echinatior]
+XP_011049122.1       -          OSK_CONSENSUS        -              0.078   12.8   1.0      0.38   10.6   0.3   2.3   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Acromyrmex echinatior]
+XP_011049123.1       -          OSK_CONSENSUS        -              0.078   12.8   1.0      0.38   10.6   0.3   2.3   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Acromyrmex echinatior]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000204515.1_Aech_3.9_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000204515.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000204515.1_Aech_3.9_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:00 2019
+# [ok]

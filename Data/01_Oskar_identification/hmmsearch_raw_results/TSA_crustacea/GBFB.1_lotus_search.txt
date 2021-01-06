@@ -1,0 +1,66 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBFB01146669.1_3     -          LOTUS_CONSENSUS      -            3.8e-22   84.6   0.1     8e-12   51.4   0.0   4.2   4   0   0   4   4   4   2 TSA: Calanus finmarchicus comp269847_c0_seq4 transcribed RNA sequence
+GBFB01146667.1_3     -          LOTUS_CONSENSUS      -            1.4e-21   82.7   0.1   1.2e-11   50.9   0.0   4.1   4   0   0   4   4   4   2 TSA: Calanus finmarchicus comp269847_c0_seq2 transcribed RNA sequence
+GBFB01149139.1_1     -          LOTUS_CONSENSUS      -            2.8e-19   75.3   0.0   1.1e-13   57.4   0.0   2.2   2   0   0   2   2   2   2 TSA: Calanus finmarchicus comp270203_c0_seq1 transcribed RNA sequence
+GBFB01119403.1_1     -          LOTUS_CONSENSUS      -            3.1e-19   75.2   0.0   5.2e-12   52.0   0.0   4.1   5   0   0   5   5   3   2 TSA: Calanus finmarchicus comp265609_c0_seq1 transcribed RNA sequence
+GBFB01149140.1_1     -          LOTUS_CONSENSUS      -            3.6e-18   71.8   0.0   5.1e-13   55.3   0.0   2.5   2   0   0   2   2   2   2 TSA: Calanus finmarchicus comp270203_c0_seq2 transcribed RNA sequence
+GBFB01182303.1_1     -          LOTUS_CONSENSUS      -            4.8e-17   68.2   0.0   1.7e-15   63.2   0.0   2.7   2   0   0   2   2   2   1 TSA: Calanus finmarchicus comp274603_c0_seq2 transcribed RNA sequence
+GBFB01182302.1_1     -          LOTUS_CONSENSUS      -            4.8e-17   68.2   0.0   1.7e-15   63.2   0.0   2.7   2   0   0   2   2   2   1 TSA: Calanus finmarchicus comp274603_c0_seq1 transcribed RNA sequence
+GBFB01146668.1_3     -          LOTUS_CONSENSUS      -            1.4e-16   66.7   0.1     6e-12   51.9   0.0   4.3   4   0   0   4   4   4   1 TSA: Calanus finmarchicus comp269847_c0_seq3 transcribed RNA sequence
+GBFB01113094.1_3     -          LOTUS_CONSENSUS      -            1.8e-15   63.2   0.0   8.8e-15   60.9   0.0   2.1   2   0   0   2   2   1   1 TSA: Calanus finmarchicus comp264508_c0_seq2 transcribed RNA sequence
+GBFB01153589.1_6     -          LOTUS_CONSENSUS      -            4.9e-15   61.8   0.0   7.7e-15   61.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp270803_c0_seq29 transcribed RNA sequence
+GBFB01153575.1_6     -          LOTUS_CONSENSUS      -            5.4e-15   61.6   0.0   8.1e-15   61.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp270803_c0_seq15 transcribed RNA sequence
+GBFB01133478.1_6     -          LOTUS_CONSENSUS      -            1.3e-14   60.4   0.0   6.1e-14   58.2   0.0   2.1   2   0   0   2   2   2   1 TSA: Calanus finmarchicus comp267876_c0_seq2 transcribed RNA sequence
+GBFB01133477.1_6     -          LOTUS_CONSENSUS      -            1.3e-14   60.4   0.0   6.2e-14   58.2   0.0   2.1   2   0   0   2   2   2   1 TSA: Calanus finmarchicus comp267876_c0_seq1 transcribed RNA sequence
+GBFB01049976.1_1     -          LOTUS_CONSENSUS      -              2e-14   59.8   0.0   2.4e-14   59.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp246919_c0_seq1 transcribed RNA sequence
+GBFB01153580.1_6     -          LOTUS_CONSENSUS      -            1.1e-13   57.4   0.0   1.7e-13   56.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp270803_c0_seq20 transcribed RNA sequence
+GBFB01150095.1_1     -          LOTUS_CONSENSUS      -              1e-12   54.3   0.1     6e-05   29.4   0.0   5.0   5   0   0   5   5   5   2 TSA: Calanus finmarchicus comp270336_c0_seq17 transcribed RNA sequence
+GBFB01119406.1_2     -          LOTUS_CONSENSUS      -            7.8e-12   51.5   0.0   8.9e-12   51.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp265609_c0_seq4 transcribed RNA sequence
+GBFB01150093.1_2     -          LOTUS_CONSENSUS      -            9.9e-12   51.2   0.3   5.8e-05   29.5   0.0   5.0   5   0   0   5   5   5   2 TSA: Calanus finmarchicus comp270336_c0_seq15 transcribed RNA sequence
+GBFB01119404.1_1     -          LOTUS_CONSENSUS      -            1.5e-11   50.6   0.0   2.1e-11   50.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp265609_c0_seq2 transcribed RNA sequence
+GBFB01150090.1_2     -          LOTUS_CONSENSUS      -            1.5e-10   47.4   0.3   5.1e-05   29.7   0.0   4.0   4   0   0   4   4   4   2 TSA: Calanus finmarchicus comp270336_c0_seq12 transcribed RNA sequence
+GBFB01150083.1_1     -          LOTUS_CONSENSUS      -            2.1e-10   46.9   0.1   5.4e-05   29.6   0.0   4.0   4   0   0   4   4   4   2 TSA: Calanus finmarchicus comp270336_c0_seq5 transcribed RNA sequence
+GBFB01186987.1_1     -          LOTUS_CONSENSUS      -            6.6e-09   42.1   0.0   1.2e-06   34.8   0.0   2.7   3   0   0   3   3   2   1 TSA: Calanus finmarchicus comp275455_c0_seq2 transcribed RNA sequence
+GBFB01186986.1_1     -          LOTUS_CONSENSUS      -            2.8e-08   40.1   0.0   2.9e-06   33.7   0.0   2.7   2   0   0   2   2   2   1 TSA: Calanus finmarchicus comp275455_c0_seq1 transcribed RNA sequence
+GBFB01150082.1_2     -          LOTUS_CONSENSUS      -            1.3e-07   37.9   0.0   2.7e-07   37.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp270336_c0_seq4 transcribed RNA sequence
+GBFB01150097.1_1     -          LOTUS_CONSENSUS      -            2.7e-07   37.0   0.0   9.4e-06   32.0   0.0   2.2   2   0   0   2   2   2   1 TSA: Calanus finmarchicus comp270336_c0_seq19 transcribed RNA sequence
+GBFB01150084.1_1     -          LOTUS_CONSENSUS      -            8.9e-06   32.1   0.0   1.1e-05   31.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp270336_c0_seq6 transcribed RNA sequence
+GBFB01162697.1_2     -          LOTUS_CONSENSUS      -            0.00039   26.8   0.0        71    9.9   0.0   4.9   4   2   1   5   5   5   1 TSA: Calanus finmarchicus comp271947_c0_seq2 transcribed RNA sequence
+GBFB01059484.1_1     -          LOTUS_CONSENSUS      -             0.0018   24.7   0.0    0.0028   24.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp251964_c0_seq2 transcribed RNA sequence
+GBFB01066173.1_3     -          LOTUS_CONSENSUS      -             0.0027   24.1   0.1    0.0033   23.8   0.1   1.2   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp254308_c0_seq4 transcribed RNA sequence
+GBFB01149141.1_3     -          LOTUS_CONSENSUS      -             0.0088   22.5   0.0       1.8   15.1   0.0   2.3   2   0   0   2   2   2   1 TSA: Calanus finmarchicus comp270203_c0_seq3 transcribed RNA sequence
+GBFB01150089.1_1     -          LOTUS_CONSENSUS      -             0.0092   22.4   0.0        87    9.7   0.0   3.5   3   0   0   3   3   3   1 TSA: Calanus finmarchicus comp270336_c0_seq11 transcribed RNA sequence
+GBFB01191062.1_1     -          LOTUS_CONSENSUS      -              0.017   21.6   0.1      0.02   21.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp1127602_c0_seq1 transcribed RNA sequence
+GBFB01150079.1_3     -          LOTUS_CONSENSUS      -               0.03   20.8   0.1     0.052   20.0   0.1   1.4   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp270336_c0_seq1 transcribed RNA sequence
+GBFB01059483.1_1     -          LOTUS_CONSENSUS      -              0.051   20.0   0.0       0.1   19.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp251964_c0_seq1 transcribed RNA sequence
+GBFB01150086.1_2     -          LOTUS_CONSENSUS      -              0.081   19.4   0.1        83    9.7   0.0   3.5   3   0   0   3   3   3   0 TSA: Calanus finmarchicus comp270336_c0_seq8 transcribed RNA sequence
+GBFB01088360.1_1     -          LOTUS_CONSENSUS      -               0.12   18.9   0.7       1.4   15.5   0.1   3.0   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp259867_c0_seq3 transcribed RNA sequence
+GBFB01149142.1_3     -          LOTUS_CONSENSUS      -               0.14   18.6   0.0        12   12.4   0.0   2.5   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp270203_c0_seq4 transcribed RNA sequence
+GBFB01088362.1_1     -          LOTUS_CONSENSUS      -               0.15   18.5   0.8       1.3   15.5   0.1   2.7   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp259867_c0_seq5 transcribed RNA sequence
+GBFB01162696.1_2     -          LOTUS_CONSENSUS      -               0.19   18.2   0.0   6.6e+02    6.9   0.0   4.3   3   2   1   4   4   4   0 TSA: Calanus finmarchicus comp271947_c0_seq1 transcribed RNA sequence
+GBFB01080420.1_4     -          LOTUS_CONSENSUS      -               0.29   17.6   0.0      0.42   17.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp258206_c0_seq8 transcribed RNA sequence
+GBFB01080422.1_6     -          LOTUS_CONSENSUS      -                0.4   17.2   0.0      0.73   16.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp258206_c0_seq10 transcribed RNA sequence
+GBFB01195349.1_4     -          LOTUS_CONSENSUS      -               0.48   16.9   0.0      0.63   16.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp1541573_c0_seq1 transcribed RNA sequence
+GBFB01080419.1_6     -          LOTUS_CONSENSUS      -                1.8   15.1   0.0         2   15.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp258206_c0_seq7 transcribed RNA sequence
+GBFB01069635.1_1     -          LOTUS_CONSENSUS      -                1.8   15.0   0.0       7.3   13.1   0.0   2.0   2   0   0   2   2   1   0 TSA: Calanus finmarchicus comp255378_c0_seq2 transcribed RNA sequence
+GBFB01150092.1_2     -          LOTUS_CONSENSUS      -                1.8   15.0   0.0        42   10.7   0.0   2.5   3   0   0   3   3   2   0 TSA: Calanus finmarchicus comp270336_c0_seq14 transcribed RNA sequence
+GBFB01150096.1_1     -          LOTUS_CONSENSUS      -                2.7   14.5   0.0        59   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp270336_c0_seq18 transcribed RNA sequence
+GBFB01114919.1_4     -          LOTUS_CONSENSUS      -                  3   14.4   0.2       6.7   13.2   0.2   1.9   1   1   0   1   1   1   0 TSA: Calanus finmarchicus comp264853_c0_seq5 transcribed RNA sequence
+GBFB01220900.1_4     -          LOTUS_CONSENSUS      -                3.3   14.2   0.0       4.1   13.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp3143404_c0_seq1 transcribed RNA sequence
+GBFB01125723.1_1     -          LOTUS_CONSENSUS      -                3.4   14.2   0.5        53   10.3   0.0   2.8   3   0   0   3   3   2   0 TSA: Calanus finmarchicus comp266650_c0_seq1 transcribed RNA sequence
+GBFB01069634.1_1     -          LOTUS_CONSENSUS      -                3.5   14.1   0.0        12   12.4   0.0   1.9   2   0   0   2   2   1   0 TSA: Calanus finmarchicus comp255378_c0_seq1 transcribed RNA sequence
+GBFB01206520.1_5     -          LOTUS_CONSENSUS      -                5.4   13.5   0.0       6.9   13.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp2279782_c0_seq1 transcribed RNA sequence
+GBFB01196380.1_2     -          LOTUS_CONSENSUS      -                7.9   13.0   0.0        14   12.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp1608959_c0_seq1 transcribed RNA sequence
+GBFB01023661.1_4     -          LOTUS_CONSENSUS      -                8.8   12.9   0.1        26   11.3   0.0   1.8   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp180726_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBFB.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBFB.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBFB.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:56 2019
+# [ok]

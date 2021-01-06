@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018566265.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-21   77.2   0.5   5.4e-21   75.0   0.1   2.5   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Anoplophora glabripennis]
+XP_018566258.1       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-21   77.0   0.6   5.4e-21   75.0   0.1   2.4   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X1 [Anoplophora glabripennis]
+XP_018575854.1       -          oskar_filtered.aligned.LOTUS_domain -            6.1e-21   74.8   0.1   8.9e-15   55.0   0.0   3.5   2   0   0   2   2   2   2 uncharacterized protein LOC108914515, partial [Anoplophora glabripennis]
+XP_018577487.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-08   34.5   3.7      0.16   12.4   0.0   6.5   4   1   2   7   7   7   3 meiosis regulator and mRNA stability factor 1 [Anoplophora glabripennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000390285.2_Agla_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000390285.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000390285.2_Agla_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:05 2019
+# [ok]

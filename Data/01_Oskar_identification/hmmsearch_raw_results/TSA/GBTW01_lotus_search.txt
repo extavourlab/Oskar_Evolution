@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTW01009116.1_5     -          LOTUS_CONSENSUS      -            1.1e-14   57.6   0.7   1.8e-14   56.8   0.7   1.3   1   0   0   1   1   1   1 TSA: Elisabethiella stueckenbergi C64452_a_4_0_l_446 transcribed RNA sequence
+GBTW01020097.1_6     -          LOTUS_CONSENSUS      -            1.3e-11   47.6   0.4   8.9e-11   45.0   0.0   2.8   2   0   0   2   2   2   1 TSA: Elisabethiella stueckenbergi s1699_L_3833_0_a_51_5_l_4214 transcribed RNA sequence
+GBTW01004078.1_2     -          LOTUS_CONSENSUS      -            5.7e-09   39.2   0.4   6.3e-09   39.1   0.4   1.2   1   0   0   1   1   1   1 TSA: Elisabethiella stueckenbergi C49428_a_4_0_l_275 transcribed RNA sequence
+GBTW01021412.1_3     -          LOTUS_CONSENSUS      -            5.7e-06   29.6   0.6        41    7.6   0.0   6.1   3   2   2   6   6   6   2 TSA: Elisabethiella stueckenbergi s2887_L_7730_0_a_47_8_l_6324 transcribed RNA sequence
+GBTW01021413.1_1     -          LOTUS_CONSENSUS      -            6.1e-06   29.5   0.6        41    7.6   0.0   6.1   3   2   2   6   6   6   2 TSA: Elisabethiella stueckenbergi s2888_L_7730_1_a_47_5_l_6400 transcribed RNA sequence
+GBTW01016753.1_1     -          LOTUS_CONSENSUS      -              0.073   16.4   0.0     0.073   16.4   0.0   3.4   4   0   0   4   4   4   0 TSA: Elisabethiella stueckenbergi C90386_a_10_0_l_1567 transcribed RNA sequence
+GBTW01016214.1_3     -          LOTUS_CONSENSUS      -               0.23   14.8   6.2       2.9   11.3   0.1   3.2   3   0   0   3   3   3   0 TSA: Elisabethiella stueckenbergi C88447_a_9_0_l_1396 transcribed RNA sequence
+GBTW01005333.1_3     -          LOTUS_CONSENSUS      -               0.27   14.6   0.1       0.4   14.0   0.1   1.3   1   0   0   1   1   1   0 TSA: Elisabethiella stueckenbergi C53155_a_6_0_l_308 transcribed RNA sequence
+GBTW01015588.1_3     -          LOTUS_CONSENSUS      -               0.44   13.9   4.0      0.84   13.0   0.2   2.9   3   1   0   3   3   3   0 TSA: Elisabethiella stueckenbergi C86165_a_52_0_l_1214 transcribed RNA sequence
+GBTW01015102.1_3     -          LOTUS_CONSENSUS      -                6.7   10.1   5.6        25    8.3   0.1   3.6   3   1   0   3   3   3   0 TSA: Elisabethiella stueckenbergi C84430_a_5_0_l_1101 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:15 2019
+# [ok]

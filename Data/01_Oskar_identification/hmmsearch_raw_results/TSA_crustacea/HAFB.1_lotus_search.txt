@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFB01023077.1_5     -          LOTUS_CONSENSUS      -            2.3e-11   48.8   6.7   2.7e-10   45.4   0.1   3.5   3   0   0   3   3   3   1 TSA: Proasellus jaloniacus, contig comp35770_c0_seq2, transcribed RNA sequence
+HAFB01023076.1_4     -          LOTUS_CONSENSUS      -            2.6e-11   48.7   6.7   2.7e-10   45.4   0.1   3.4   3   0   0   3   3   3   1 TSA: Proasellus jaloniacus, contig comp35770_c0_seq1, transcribed RNA sequence
+HAFB01017660.1_3     -          LOTUS_CONSENSUS      -            1.2e-08   40.2   9.3   3.6e-08   38.6   0.1   3.8   4   0   0   4   4   4   1 TSA: Proasellus jaloniacus, contig comp31347_c0_seq1, transcribed RNA sequence
+HAFB01030497.1_1     -          LOTUS_CONSENSUS      -               0.03   19.6   0.0   3.6e+02    6.5   0.0   5.1   2   1   2   4   4   4   0 TSA: Proasellus jaloniacus, contig comp39639_c0_seq5, transcribed RNA sequence
+HAFB01030493.1_1     -          LOTUS_CONSENSUS      -              0.042   19.2   0.0   3.8e+02    6.4   0.0   5.0   2   1   1   4   4   4   0 TSA: Proasellus jaloniacus, contig comp39639_c0_seq1, transcribed RNA sequence
+HAFB01058634.1_6     -          LOTUS_CONSENSUS      -               0.15   17.4   0.3      0.18   17.1   0.3   1.1   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp300380_c0_seq1, transcribed RNA sequence
+HAFB01058666.1_6     -          LOTUS_CONSENSUS      -               0.23   16.8   0.3       1.4   14.2   0.1   2.0   2   0   0   2   2   2   0 TSA: Proasellus jaloniacus, contig comp300639_c0_seq1, transcribed RNA sequence
+HAFB01064678.1_1     -          LOTUS_CONSENSUS      -                1.6   14.0   0.1       1.7   14.0   0.1   1.0   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp374839_c0_seq1, transcribed RNA sequence
+HAFB01073501.1_4     -          LOTUS_CONSENSUS      -                2.2   13.7   0.6   1.3e+02    7.9   0.1   2.5   2   0   0   2   2   2   0 TSA: Proasellus jaloniacus, contig comp494067_c0_seq1, transcribed RNA sequence
+HAFB01095786.1_1     -          LOTUS_CONSENSUS      -                2.8   13.3   0.2       3.4   13.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp954701_c0_seq1, transcribed RNA sequence
+HAFB01036696.1_6     -          LOTUS_CONSENSUS      -                3.4   13.0   0.1       4.2   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus jaloniacus, contig comp41158_c0_seq5, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFB.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFB.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFB.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:11 2019
+# [ok]

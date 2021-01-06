@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMF01015878.1_1     -          oskar_filtered.aligned.OSK_domain -            3.1e-63  215.7   0.1   9.1e-63  214.2   0.1   1.9   1   0   0   1   1   1   1 TSA: Discoelius zonalis C80180_a_57_0_l_3009 transcribed RNA sequence
+GBMF01014557.1_4     -          oskar_filtered.aligned.OSK_domain -              0.013   18.0   0.0     0.034   16.7   0.0   1.6   1   1   0   1   1   1   0 TSA: Discoelius zonalis C75478_a_11_0_l_1745 transcribed RNA sequence
+GBMF01007911.1_5     -          oskar_filtered.aligned.OSK_domain -               0.73   12.3   0.1      0.96   11.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Discoelius zonalis C50260_a_3_0_l_477 transcribed RNA sequence
+GBMF01010003.1_1     -          oskar_filtered.aligned.OSK_domain -               0.77   12.2   0.8       1.1   11.8   0.6   1.3   1   1   0   1   1   1   0 TSA: Discoelius zonalis C58000_a_9_0_l_647 transcribed RNA sequence
+GBMF01022097.1_4     -          oskar_filtered.aligned.OSK_domain -                1.7   11.1   5.8       7.5    9.0   5.8   2.0   1   1   0   1   1   1   0 TSA: Discoelius zonalis s701_L_857_0_a_19_4_l_1194 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:25 2019
+# [ok]

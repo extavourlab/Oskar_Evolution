@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBML01023133.1_1     -          OSK_CONSENSUS        -            4.8e-58  198.6   0.3   1.6e-57  196.9   0.3   1.9   1   0   0   1   1   1   1 TSA: Symmorphus murarius s2459_L_3183_1_a_32_9_l_3255 transcribed RNA sequence
+GBML01023132.1_1     -          OSK_CONSENSUS        -            2.7e-57  196.1   0.3   6.5e-57  194.9   0.3   1.7   1   0   0   1   1   1   1 TSA: Symmorphus murarius s2458_L_3183_0_a_48_2_l_9226 transcribed RNA sequence
+GBML01026265.1_6     -          OSK_CONSENSUS        -              0.086   15.7   0.0       0.1   15.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Symmorphus murarius s531_L_569_0_a_7_7_l_273 transcribed RNA sequence
+GBML01006144.1_3     -          OSK_CONSENSUS        -               0.19   14.6   0.1      0.22   14.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Symmorphus murarius C48063_a_4_0_l_233 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBML01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBML01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBML01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:56 2019
+# [ok]

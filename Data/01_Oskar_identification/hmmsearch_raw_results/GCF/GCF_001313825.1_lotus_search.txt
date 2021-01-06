@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014478649.1       -          LOTUS_CONSENSUS      -            3.3e-27   95.0   1.1   2.4e-26   92.2   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: uncharacterized protein LOC106746506 [Dinoponera quadriceps]
+XP_014473415.1       -          LOTUS_CONSENSUS      -            8.4e-23   80.9   0.2   6.1e-20   71.7   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Dinoponera quadriceps]
+XP_014473416.1       -          LOTUS_CONSENSUS      -            8.4e-23   80.9   0.2   6.1e-20   71.7   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Dinoponera quadriceps]
+XP_014473418.1       -          LOTUS_CONSENSUS      -            1.9e-22   79.7   0.1   1.4e-19   70.5   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Dinoponera quadriceps]
+XP_014473419.1       -          LOTUS_CONSENSUS      -            1.9e-22   79.7   0.1   1.4e-19   70.5   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Dinoponera quadriceps]
+XP_014473420.1       -          LOTUS_CONSENSUS      -            1.9e-22   79.7   0.1   1.4e-19   70.5   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Dinoponera quadriceps]
+XP_014473421.1       -          LOTUS_CONSENSUS      -            1.9e-22   79.7   0.1   1.4e-19   70.5   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Dinoponera quadriceps]
+XP_014473422.1       -          LOTUS_CONSENSUS      -            1.9e-22   79.7   0.1   1.4e-19   70.5   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Dinoponera quadriceps]
+XP_014485438.1       -          LOTUS_CONSENSUS      -            8.9e-14   51.9   0.0   8.1e-09   36.0   0.0   3.0   2   0   0   2   2   2   2 PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC106749960 [Dinoponera quadriceps]
+XP_014469364.1       -          LOTUS_CONSENSUS      -            1.3e-06   28.9   0.0      0.17   12.5   0.0   5.0   2   1   2   5   5   5   2 PREDICTED: meiosis arrest female protein 1 isoform X5 [Dinoponera quadriceps]
+XP_014469363.1       -          LOTUS_CONSENSUS      -            3.5e-06   27.6   0.0      0.22   12.2   0.0   4.9   2   1   2   4   4   4   2 PREDICTED: meiosis arrest female protein 1 isoform X4 [Dinoponera quadriceps]
+XP_014469362.1       -          LOTUS_CONSENSUS      -            3.6e-06   27.5   0.0      0.22   12.2   0.0   4.9   2   1   2   4   4   4   2 PREDICTED: meiosis arrest female protein 1 isoform X3 [Dinoponera quadriceps]
+XP_014469359.1       -          LOTUS_CONSENSUS      -            3.6e-06   27.5   0.0      0.22   12.2   0.0   4.9   2   1   2   4   4   4   2 PREDICTED: meiosis arrest female protein 1 isoform X1 [Dinoponera quadriceps]
+XP_014469360.1       -          LOTUS_CONSENSUS      -            3.6e-06   27.5   0.0      0.22   12.2   0.0   4.9   2   1   2   4   4   4   2 PREDICTED: meiosis arrest female protein 1 isoform X1 [Dinoponera quadriceps]
+XP_014469361.1       -          LOTUS_CONSENSUS      -            3.6e-06   27.5   0.0      0.22   12.2   0.0   4.9   2   1   2   4   4   4   2 PREDICTED: meiosis arrest female protein 1 isoform X2 [Dinoponera quadriceps]
+XP_014476543.1       -          LOTUS_CONSENSUS      -               0.09   13.4   0.6        12    6.6   0.2   2.7   1   1   1   2   2   2   0 PREDICTED: UPF0536 protein C12orf66 homolog [Dinoponera quadriceps]
+XP_014468583.1       -          LOTUS_CONSENSUS      -               0.12   13.0   0.1      0.35   11.5   0.1   1.8   1   0   0   1   1   1   0 PREDICTED: DNA mismatch repair protein Mlh3-like [Dinoponera quadriceps]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001313825.1_ASM131382v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001313825.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001313825.1_ASM131382v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:50 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGBQ01040828.1_4     -          LOTUS_CONSENSUS      -            4.1e-17   67.3   1.1   1.7e-08   39.6   0.0   3.8   3   0   0   3   3   3   3 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp38861_c0_seq1, transcribed RNA sequence
+GGBQ01058765.1_6     -          LOTUS_CONSENSUS      -            2.8e-16   64.6   0.0   5.4e-16   63.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp44670_c0_seq1, transcribed RNA sequence
+GGBQ01052233.1_2     -          LOTUS_CONSENSUS      -            1.1e-05   30.6   0.0   2.3e+02    7.1   0.0   5.6   5   1   0   5   5   5   2 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp42984_c0_seq1, transcribed RNA sequence
+GGBQ01052234.1_3     -          LOTUS_CONSENSUS      -            4.1e-05   28.8   0.0   3.1e+02    6.7   0.0   5.6   5   1   0   5   5   5   1 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp42984_c0_seq2, transcribed RNA sequence
+GGBQ01052236.1_2     -          LOTUS_CONSENSUS      -            0.00036   25.8   0.0   2.2e+02    7.2   0.0   4.8   5   0   0   5   5   5   2 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp42984_c0_seq4, transcribed RNA sequence
+GGBQ01052235.1_3     -          LOTUS_CONSENSUS      -             0.0011   24.2   0.0     3e+02    6.8   0.0   4.8   5   0   0   5   5   5   1 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp42984_c0_seq3, transcribed RNA sequence
+GGBQ01033955.1_5     -          LOTUS_CONSENSUS      -                3.7   12.9   0.0       4.9   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp360827_c0_seq1, transcribed RNA sequence
+GGBQ01042841.1_6     -          LOTUS_CONSENSUS      -                  4   12.8   0.7       6.7   12.1   0.7   1.3   1   0   0   1   1   1   0 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp39673_c0_seq1, transcribed RNA sequence
+GGBQ01053830.1_6     -          LOTUS_CONSENSUS      -                4.1   12.7   0.0       5.8   12.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Adelphocoris lineolatus isolate collected from a cotton field at the Langfang Experimental Station of the Chinese Academy of Agricultural Sciences (Hebei Province, China) in 2015. comp4345_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGBQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:11 2019
+# [ok]

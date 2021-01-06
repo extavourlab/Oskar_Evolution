@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLM01012162.1_5     -          LOTUS_CONSENSUS      -            1.1e-20   76.1   0.0   5.2e-20   74.0   0.0   2.2   1   0   0   1   1   1   1 TSA: Gonatocerus triguttatus C49938_a_63_0_l_2153 transcribed RNA sequence
+GBLM01015440.1_5     -          LOTUS_CONSENSUS      -            4.3e-20   74.2   4.8     5e-19   70.8   0.0   3.1   3   0   0   3   3   3   1 TSA: Gonatocerus triguttatus s2590_L_12656_0_a_33_7_l_2216 transcribed RNA sequence
+GBLM01009980.1_4     -          LOTUS_CONSENSUS      -            1.6e-13   53.2   0.1   4.7e-13   51.7   0.1   1.7   1   0   0   1   1   1   1 TSA: Gonatocerus triguttatus C44178_a_59_0_l_1362 transcribed RNA sequence
+GBLM01014098.1_4     -          LOTUS_CONSENSUS      -            7.8e-13   51.0   0.0   4.4e-12   48.5   0.0   2.2   2   0   0   2   2   2   1 TSA: Gonatocerus triguttatus s1379_L_5177_0_a_57_3_l_2691 transcribed RNA sequence
+GBLM01015523.1_5     -          LOTUS_CONSENSUS      -            2.6e-11   46.1   1.9   4.3e-11   45.4   0.0   2.5   2   0   0   2   2   1   1 TSA: Gonatocerus triguttatus s2665_L_13307_0_a_18_8_l_4004 transcribed RNA sequence
+GBLM01016212.1_3     -          LOTUS_CONSENSUS      -            9.6e-11   44.3   0.0   2.2e-10   43.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Gonatocerus triguttatus s689_L_1856_0_a_44_1_l_1246 transcribed RNA sequence
+GBLM01015207.1_6     -          LOTUS_CONSENSUS      -            2.1e-10   43.2   0.7   9.1e-10   41.1   0.1   2.3   2   0   0   2   2   2   1 TSA: Gonatocerus triguttatus s2380_L_11094_0_a_64_7_l_1974 transcribed RNA sequence
+GBLM01016363.1_6     -          LOTUS_CONSENSUS      -            1.7e-05   27.4   0.0   3.6e-05   26.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Gonatocerus triguttatus s827_L_2483_0_a_65_4_l_930 transcribed RNA sequence
+GBLM01015456.1_5     -          LOTUS_CONSENSUS      -              0.017   17.8   0.0        24    7.7   0.0   4.8   1   1   5   6   6   6   0 TSA: Gonatocerus triguttatus s2604_L_12815_0_a_47_1_l_5896 transcribed RNA sequence
+GBLM01003162.1_1     -          LOTUS_CONSENSUS      -               0.14   14.9   0.4      0.26   14.0   0.1   1.6   2   0   0   2   2   2   0 TSA: Gonatocerus triguttatus C25027_a_3_0_l_322 transcribed RNA sequence
+GBLM01003109.1_4     -          LOTUS_CONSENSUS      -                0.2   14.4   3.9       0.3   13.8   3.9   1.4   1   1   0   1   1   1   0 TSA: Gonatocerus triguttatus C24885_a_4_0_l_319 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:49 2019
+# [ok]

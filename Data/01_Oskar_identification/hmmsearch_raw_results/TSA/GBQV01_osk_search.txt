@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQV01013692.1_3     -          OSK_CONSENSUS        -               0.34   13.7   0.3      0.48   13.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Tetraloniella sp. AD-2014 C71842_a_3_0_l_406 transcribed RNA sequence
+GBQV01018588.1_3     -          OSK_CONSENSUS        -               0.59   12.9   0.0      0.89   12.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Tetraloniella sp. AD-2014 C90286_a_12_0_l_705 transcribed RNA sequence
+GBQV01015614.1_3     -          OSK_CONSENSUS        -               0.59   12.9   0.7      0.74   12.6   0.7   1.2   1   0   0   1   1   1   0 TSA: Tetraloniella sp. AD-2014 C78769_a_47_0_l_492 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:28 2019
+# [ok]

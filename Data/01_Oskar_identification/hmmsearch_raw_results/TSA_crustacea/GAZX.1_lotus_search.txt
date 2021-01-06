@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZX01014369.1_2     -          LOTUS_CONSENSUS      -            2.1e-25   92.6   2.2   6.7e-15   59.0   0.5   4.3   3   1   0   4   4   4   3 TSA: Caligus rogercresseyi tsa-crog-ngs-11097831 transcribed RNA sequence
+GAZX01038482.1_6     -          LOTUS_CONSENSUS      -            4.2e-18   69.2   0.0   2.1e-17   67.0   0.0   2.2   2   0   0   2   2   2   1 TSA: Caligus rogercresseyi tsa-crog-ngs-11122247 transcribed RNA sequence
+GAZX01038481.1_6     -          LOTUS_CONSENSUS      -            4.4e-18   69.2   0.0   2.2e-17   66.9   0.0   2.2   2   0   0   2   2   2   1 TSA: Caligus rogercresseyi tsa-crog-ngs-11122246 transcribed RNA sequence
+GAZX01038534.1_5     -          LOTUS_CONSENSUS      -            1.5e-05   29.0   0.0   4.3e+02    5.1   0.0   6.0   4   2   2   6   6   6   1 TSA: Caligus rogercresseyi tsa-crog-ngs-11122299 transcribed RNA sequence
+GAZX01025382.1_3     -          LOTUS_CONSENSUS      -             0.0091   20.1   0.0        25    9.0   0.0   4.7   5   0   0   5   5   5   1 TSA: Caligus rogercresseyi tsa-crog-ngs-11109042 transcribed RNA sequence
+GAZX01025381.1_1     -          LOTUS_CONSENSUS      -               0.01   19.9   0.0        26    9.0   0.0   4.6   5   0   0   5   5   5   0 TSA: Caligus rogercresseyi tsa-crog-ngs-11109041 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GAZX.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GAZX.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GAZX.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:34 2019
+# [ok]

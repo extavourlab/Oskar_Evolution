@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWX01035470.1_3     -          oskar_filtered.aligned.OSK_domain -            9.4e-24   88.0   0.1   1.8e-23   87.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s11969_L_49305_0_11_3_LINEAR, transcribed RNA sequence
+GCWX01033628.1_4     -          oskar_filtered.aligned.OSK_domain -            1.2e-11   48.5   2.2   1.6e-11   48.1   1.8   1.4   1   1   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s10301_L_39846_0_4_7_LINEAR, transcribed RNA sequence
+GCWX01033456.1_2     -          oskar_filtered.aligned.OSK_domain -            2.9e-10   44.0   0.5   4.1e-10   43.5   0.5   1.2   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s10146_L_38930_0_2_5_LINEAR, transcribed RNA sequence
+GCWX01033385.1_6     -          oskar_filtered.aligned.OSK_domain -            0.00046   23.8   0.0   0.00066   23.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s10082_L_38611_0_8_6_LINEAR, transcribed RNA sequence
+GCWX01020167.1_3     -          oskar_filtered.aligned.OSK_domain -              0.018   18.6   0.0     0.023   18.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Llanquihuea pilosa breed wildtype C167213_5_0, transcribed RNA sequence
+GCWX01007541.1_4     -          oskar_filtered.aligned.OSK_domain -               0.13   15.8   0.1      0.14   15.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Llanquihuea pilosa breed wildtype C122789_2_0, transcribed RNA sequence
+GCWX01031170.1_6     -          oskar_filtered.aligned.OSK_domain -               0.66   13.5   0.1      0.72   13.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Llanquihuea pilosa breed wildtype C93737_3_0, transcribed RNA sequence
+GCWX01016560.1_2     -          oskar_filtered.aligned.OSK_domain -                1.4   12.4   1.1       1.6   12.3   1.1   1.1   1   0   0   1   1   1   0 TSA: Llanquihuea pilosa breed wildtype C153209_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:26 2019
+# [ok]

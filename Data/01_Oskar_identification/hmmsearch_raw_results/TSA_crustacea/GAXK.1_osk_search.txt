@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXK01134627.1_3     -          OSK_CONSENSUS        -            0.00093   24.8   0.3    0.0017   24.0   0.1   1.7   1   1   0   1   1   1   1 TSA: Calanus finmarchicus comp92096_c0_seq1 transcribed RNA sequence
+GAXK01193327.1_6     -          OSK_CONSENSUS        -              0.082   18.5   0.0       0.1   18.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp4941229_c0_seq1 transcribed RNA sequence
+GAXK01084644.1_5     -          OSK_CONSENSUS        -               0.27   16.8   0.0      0.83   15.3   0.0   1.8   1   1   0   1   1   1   0 TSA: Calanus finmarchicus comp3814705_c0_seq1 transcribed RNA sequence
+GAXK01156765.1_4     -          OSK_CONSENSUS        -               0.34   16.5   0.0      0.42   16.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp5932299_c0_seq1 transcribed RNA sequence
+GAXK01056866.1_2     -          OSK_CONSENSUS        -               0.44   16.1   0.3       4.6   12.8   0.4   2.3   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp767712_c1_seq1 transcribed RNA sequence
+GAXK01173370.1_2     -          OSK_CONSENSUS        -               0.62   15.7   0.0        26   10.4   0.0   2.6   3   0   0   3   3   3   0 TSA: Calanus finmarchicus comp3034748_c0_seq2 transcribed RNA sequence
+GAXK01117995.1_1     -          OSK_CONSENSUS        -               0.64   15.6   0.1   3.5e+02    6.7   0.0   2.3   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp125636_c1_seq3 transcribed RNA sequence
+GAXK01173369.1_2     -          OSK_CONSENSUS        -               0.85   15.2   0.0        30   10.2   0.0   2.5   3   0   0   3   3   3   0 TSA: Calanus finmarchicus comp3034748_c0_seq1 transcribed RNA sequence
+GAXK01056867.1_2     -          OSK_CONSENSUS        -               0.97   15.0   0.4       1.7   14.2   0.4   1.4   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp767712_c1_seq2 transcribed RNA sequence
+GAXK01204351.1_4     -          OSK_CONSENSUS        -                1.8   14.2   0.0       2.1   14.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp5276721_c0_seq1 transcribed RNA sequence
+GAXK01112305.1_2     -          OSK_CONSENSUS        -                3.3   13.3   0.5       5.9   12.5   0.5   1.4   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp569181_c0_seq1 transcribed RNA sequence
+GAXK01152448.1_3     -          OSK_CONSENSUS        -                5.1   12.7   0.1        11   11.6   0.0   1.6   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp222958_c8_seq8 transcribed RNA sequence
+GAXK01080542.1_4     -          OSK_CONSENSUS        -                  7   12.2   0.0         8   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp6560951_c0_seq1 transcribed RNA sequence
+GAXK01123063.1_3     -          OSK_CONSENSUS        -                8.9   11.9   0.0        12   11.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp7067233_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GAXK.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GAXK.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GAXK.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:28 2019
+# [ok]

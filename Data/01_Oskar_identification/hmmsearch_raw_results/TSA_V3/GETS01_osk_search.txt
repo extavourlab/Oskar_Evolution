@@ -1,0 +1,26 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GETS01004781.1_2     -          oskar_filtered.aligned.OSK_domain -            5.4e-28  103.2   0.2   7.4e-28  102.7   0.2   1.3   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis CL1345.Contig1_ALL transcribed RNA sequence
+GETS01004782.1_3     -          oskar_filtered.aligned.OSK_domain -            8.5e-28  102.6   0.2   1.2e-27  102.1   0.2   1.3   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis CL1345.Contig2_ALL transcribed RNA sequence
+GETS01028875.1_6     -          oskar_filtered.aligned.OSK_domain -               0.71   14.8   1.0       1.3   14.0   0.2   1.8   2   0   0   2   2   2   0 TSA: Locusta migratoria manilensis CL12015.Contig2_ALL transcribed RNA sequence
+GETS01109620.1_6     -          oskar_filtered.aligned.OSK_domain -                  1   14.3   1.0       1.4   13.8   1.0   1.3   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene93805_ALL transcribed RNA sequence
+GETS01046796.1_3     -          oskar_filtered.aligned.OSK_domain -                  2   13.3   0.5       2.3   13.1   0.5   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene6640_ALL transcribed RNA sequence
+GETS01031914.1_3     -          oskar_filtered.aligned.OSK_domain -                2.5   13.0   0.5       4.2   12.3   0.5   1.3   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL13776.Contig1_ALL transcribed RNA sequence
+GETS01114428.1_4     -          oskar_filtered.aligned.OSK_domain -                2.6   12.9   0.1         3   12.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene99681_ALL transcribed RNA sequence
+GETS01076218.1_1     -          oskar_filtered.aligned.OSK_domain -                3.4   12.5   0.1       3.9   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene54159_ALL transcribed RNA sequence
+GETS01023313.1_3     -          oskar_filtered.aligned.OSK_domain -                4.8   12.1   6.7        12   10.7   6.7   1.7   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL9079.Contig1_ALL transcribed RNA sequence
+GETS01023317.1_3     -          oskar_filtered.aligned.OSK_domain -                  5   12.0   6.5        14   10.6   6.5   1.7   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL9079.Contig5_ALL transcribed RNA sequence
+GETS01023314.1_3     -          oskar_filtered.aligned.OSK_domain -                5.6   11.9   6.7        12   10.8   6.7   1.5   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL9079.Contig2_ALL transcribed RNA sequence
+GETS01023321.1_3     -          oskar_filtered.aligned.OSK_domain -                6.7   11.6   6.6        14   10.5   6.6   1.5   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL9079.Contig9_ALL transcribed RNA sequence
+GETS01015700.1_5     -          oskar_filtered.aligned.OSK_domain -                8.4   11.3   4.8        15   10.4   4.8   1.6   1   1   0   1   1   1   0 TSA: Locusta migratoria manilensis CL5475.Contig1_ALL transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GETS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:49:27 2019
+# [ok]

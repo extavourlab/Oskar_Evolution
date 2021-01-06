@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXL01011493.1_1     -          LOTUS_CONSENSUS      -            1.5e-25   93.4   0.5   2.3e-19   73.6   0.0   3.8   2   1   1   3   3   3   3 TSA: Chyphotes mellipes comp8653_c1_seq1 transcribed RNA sequence
+GAXL01013510.1_2     -          LOTUS_CONSENSUS      -            2.1e-15   60.8   1.0   1.3e-08   39.1   0.0   3.9   4   0   0   4   4   4   2 TSA: Chyphotes mellipes comp9283_c0_seq2 transcribed RNA sequence
+GAXL01013509.1_2     -          LOTUS_CONSENSUS      -              4e-15   60.0   0.0   2.4e-08   38.3   0.0   4.1   3   0   0   3   3   3   2 TSA: Chyphotes mellipes comp9283_c0_seq1 transcribed RNA sequence
+GAXL01006189.1_4     -          LOTUS_CONSENSUS      -            1.3e-14   58.4   0.0   1.9e-14   57.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Chyphotes mellipes comp6094_c1_seq1 transcribed RNA sequence
+GAXL01006188.1_1     -          LOTUS_CONSENSUS      -             0.0023   22.3   0.0    0.0045   21.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Chyphotes mellipes comp6094_c0_seq1 transcribed RNA sequence
+GAXL01010134.1_5     -          LOTUS_CONSENSUS      -             0.0029   21.9   0.0        52    8.3   0.0   3.5   2   1   1   3   3   3   2 TSA: Chyphotes mellipes comp8143_c0_seq1 transcribed RNA sequence
+GAXL01004088.1_6     -          LOTUS_CONSENSUS      -                0.3   15.5   0.1      0.63   14.5   0.1   1.6   1   1   0   1   1   1   0 TSA: Chyphotes mellipes comp4596_c0_seq1 transcribed RNA sequence
+GAXL01044857.1_1     -          LOTUS_CONSENSUS      -                0.9   14.0   0.5       1.1   13.7   0.5   1.2   1   0   0   1   1   1   0 TSA: Chyphotes mellipes comp32728_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:27 2019
+# [ok]

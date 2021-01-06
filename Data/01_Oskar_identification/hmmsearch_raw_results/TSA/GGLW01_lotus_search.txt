@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGLW01190229.1_6     -          LOTUS_CONSENSUS      -            4.5e-15   61.6   5.8   1.3e-13   56.9   0.0   3.4   3   0   0   3   3   3   1 TSA: Arctia plantaginis Col_TRINITY_DN40707_c0_g1_i1 transcribed RNA sequence
+GGLW01056387.1_4     -          LOTUS_CONSENSUS      -            4.8e-15   61.5   3.8   3.4e-14   58.8   0.0   2.5   2   0   0   2   2   2   1 TSA: Arctia plantaginis Al_TRINITY_DN42970_c0_g2_i1 transcribed RNA sequence
+GGLW01190230.1_6     -          LOTUS_CONSENSUS      -            4.9e-15   61.5   5.8   1.3e-13   56.9   0.0   3.4   3   0   0   3   3   3   1 TSA: Arctia plantaginis Col_TRINITY_DN40707_c0_g1_i2 transcribed RNA sequence
+GGLW01056388.1_4     -          LOTUS_CONSENSUS      -            6.4e-15   61.1   3.8   3.9e-14   58.6   0.0   2.4   2   0   0   2   2   2   1 TSA: Arctia plantaginis Al_TRINITY_DN42970_c0_g2_i3 transcribed RNA sequence
+GGLW01130338.1_6     -          LOTUS_CONSENSUS      -            0.00061   25.9   0.2    0.0027   23.8   0.0   2.2   2   0   0   2   2   2   1 TSA: Arctia plantaginis Col_TRINITY_DN61574_c0_g1_i1 transcribed RNA sequence
+GGLW01195113.1_4     -          LOTUS_CONSENSUS      -                0.1   18.8   0.7      0.11   18.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN34804_c6_g1_i1 transcribed RNA sequence
+GGLW01057850.1_5     -          LOTUS_CONSENSUS      -               0.11   18.7   0.0      0.26   17.5   0.0   1.6   2   0   0   2   2   2   0 TSA: Arctia plantaginis Al_TRINITY_DN57160_c0_g1_i1 transcribed RNA sequence
+GGLW01007111.1_4     -          LOTUS_CONSENSUS      -               0.75   16.0   0.2         3   14.1   0.1   2.0   2   0   0   2   2   2   0 TSA: Arctia plantaginis Al_TRINITY_DN39556_c0_g2_i1 transcribed RNA sequence
+GGLW01168900.1_5     -          LOTUS_CONSENSUS      -               0.83   15.9   0.2       2.9   14.1   0.1   1.9   2   0   0   2   2   2   0 TSA: Arctia plantaginis Col_TRINITY_DN38563_c0_g1_i2 transcribed RNA sequence
+GGLW01168899.1_5     -          LOTUS_CONSENSUS      -               0.84   15.9   0.2         3   14.1   0.1   1.9   2   0   0   2   2   2   0 TSA: Arctia plantaginis Col_TRINITY_DN38563_c0_g1_i1 transcribed RNA sequence
+GGLW01040706.1_2     -          LOTUS_CONSENSUS      -                1.5   15.0   0.2       1.9   14.7   0.2   1.2   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN43201_c0_g4_i2 transcribed RNA sequence
+GGLW01043975.1_6     -          LOTUS_CONSENSUS      -                2.4   14.4   0.6       2.7   14.2   0.6   1.3   1   1   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN3347_c0_g2_i1 transcribed RNA sequence
+GGLW01154989.1_5     -          LOTUS_CONSENSUS      -                4.3   13.6   0.0       5.6   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN51147_c0_g1_i1 transcribed RNA sequence
+GGLW01090267.1_5     -          LOTUS_CONSENSUS      -                4.5   13.5   0.2       5.6   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN48104_c10_g1_i1 transcribed RNA sequence
+GGLW01192480.1_6     -          LOTUS_CONSENSUS      -                9.2   12.5   0.0        12   12.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN50678_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGLW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:29 2019
+# [ok]

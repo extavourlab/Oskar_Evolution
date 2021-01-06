@@ -1,0 +1,95 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDKS01010417.1_1     -          OSK_CONSENSUS        -            1.1e-47  165.4   0.0   1.5e-47  165.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig03366 transcribed RNA sequence
+GDKS01007668.1_1     -          OSK_CONSENSUS        -            1.4e-47  165.2   0.0   2.2e-47  164.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig00564 transcribed RNA sequence
+GDKS01031624.1_4     -          OSK_CONSENSUS        -            1.7e-47  164.9   0.0   2.3e-47  164.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig02917 transcribed RNA sequence
+GDKS01008909.1_2     -          OSK_CONSENSUS        -            2.3e-47  164.4   0.0   3.6e-47  163.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig01857 transcribed RNA sequence
+GDKS01009005.1_2     -          OSK_CONSENSUS        -            2.5e-47  164.3   0.0   3.4e-47  163.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig01953 transcribed RNA sequence
+GDKS01030451.1_6     -          OSK_CONSENSUS        -            2.8e-47  164.1   0.0   4.3e-47  163.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01744 transcribed RNA sequence
+GDKS01030526.1_5     -          OSK_CONSENSUS        -              3e-47  164.1   0.0   4.1e-47  163.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01819 transcribed RNA sequence
+GDKS01028966.1_6     -          OSK_CONSENSUS        -            3.9e-47  163.7   0.0   6.5e-47  163.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00209 transcribed RNA sequence
+GDKS01029905.1_3     -          OSK_CONSENSUS        -            4.4e-47  163.5   0.0     7e-47  162.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01198 transcribed RNA sequence
+GDKS01009053.1_1     -          OSK_CONSENSUS        -            5.7e-47  163.1   0.0   8.2e-47  162.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig02002 transcribed RNA sequence
+GDKS01032283.1_6     -          OSK_CONSENSUS        -            1.6e-43  151.9   0.0     2e-43  151.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig03576 transcribed RNA sequence
+GDKS01012458.1_1     -          OSK_CONSENSUS        -            1.5e-42  148.8   0.0   1.8e-42  148.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig05417 transcribed RNA sequence
+GDKS01012337.1_1     -          OSK_CONSENSUS        -            1.5e-42  148.7   0.0   1.9e-42  148.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig05296 transcribed RNA sequence
+GDKS01015129.1_1     -          OSK_CONSENSUS        -            4.9e-42  147.1   0.0   5.7e-42  146.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig08093 transcribed RNA sequence
+GDKS01036534.1_6     -          OSK_CONSENSUS        -            1.5e-41  145.5   0.0   1.8e-41  145.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig07840 transcribed RNA sequence
+GDKS01032232.1_6     -          OSK_CONSENSUS        -            1.8e-40  142.0   0.0   2.4e-40  141.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig03525 transcribed RNA sequence
+GDKS01032256.1_5     -          OSK_CONSENSUS        -            1.6e-38  135.7   0.0   2.3e-38  135.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig03549 transcribed RNA sequence
+GDKS01031820.1_4     -          OSK_CONSENSUS        -              2e-38  135.4   0.0   2.8e-38  134.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig03113 transcribed RNA sequence
+GDKS01010687.1_1     -          OSK_CONSENSUS        -            2.8e-37  131.6   0.0   3.6e-37  131.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig03638 transcribed RNA sequence
+GDKS01039972.1_3     -          OSK_CONSENSUS        -            2.3e-33  118.9   0.0   2.7e-33  118.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig11280 transcribed RNA sequence
+GDKS01039158.1_1     -          OSK_CONSENSUS        -            5.1e-33  117.8   0.0   5.9e-33  117.6   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig10465 transcribed RNA sequence
+GDKS01033393.1_6     -          OSK_CONSENSUS        -            8.9e-33  117.0   0.0   1.2e-32  116.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig04691 transcribed RNA sequence
+GDKS01011540.1_1     -          OSK_CONSENSUS        -            1.2e-26   97.1   0.0   1.5e-26   96.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig04493 transcribed RNA sequence
+GDKS01033996.1_6     -          OSK_CONSENSUS        -            1.9e-25   93.2   0.0   2.7e-25   92.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig05295 transcribed RNA sequence
+GDKS01009343.1_3     -          OSK_CONSENSUS        -            2.3e-24   89.7   0.0   3.7e-24   89.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig02292 transcribed RNA sequence
+GDKS01015139.1_1     -          OSK_CONSENSUS        -            5.1e-24   88.5   0.0   6.4e-24   88.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig08103 transcribed RNA sequence
+GDKS01029112.1_6     -          OSK_CONSENSUS        -            1.1e-23   87.5   0.0   1.5e-23   87.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00365 transcribed RNA sequence
+GDKS01029218.1_4     -          OSK_CONSENSUS        -            1.1e-23   87.5   0.0   1.9e-23   86.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00483 transcribed RNA sequence
+GDKS01030325.1_2     -          OSK_CONSENSUS        -            3.2e-23   85.9   0.0   5.1e-23   85.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01618 transcribed RNA sequence
+GDKS01029199.1_6     -          OSK_CONSENSUS        -            2.4e-22   83.1   0.0     3e-22   82.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00458 transcribed RNA sequence
+GDKS01029198.1_6     -          OSK_CONSENSUS        -            4.6e-22   82.2   0.0   7.8e-22   81.4   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00457 transcribed RNA sequence
+GDKS01030245.1_2     -          OSK_CONSENSUS        -            1.9e-21   80.2   0.0   3.6e-21   79.3   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01538 transcribed RNA sequence
+GDKS01034827.1_3     -          OSK_CONSENSUS        -            9.3e-21   78.0   0.1   1.3e-20   77.5   0.1   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig06130 transcribed RNA sequence
+GDKS01009995.1_3     -          OSK_CONSENSUS        -            1.2e-20   77.6   0.0   1.6e-20   77.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig02944 transcribed RNA sequence
+GDKS01014808.1_2     -          OSK_CONSENSUS        -            1.4e-20   77.4   0.0   1.7e-20   77.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig07772 transcribed RNA sequence
+GDKS01007632.1_1     -          OSK_CONSENSUS        -              3e-20   76.3   0.0   4.7e-20   75.7   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig00522 transcribed RNA sequence
+GDKS01030734.1_6     -          OSK_CONSENSUS        -            5.7e-20   75.4   0.0   9.7e-20   74.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig02027 transcribed RNA sequence
+GDKS01032638.1_5     -          OSK_CONSENSUS        -              2e-19   73.6   0.0   2.7e-19   73.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig03931 transcribed RNA sequence
+GDKS01030544.1_5     -          OSK_CONSENSUS        -            1.2e-18   71.0   0.0     2e-18   70.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01837 transcribed RNA sequence
+GDKS01009621.1_1     -          OSK_CONSENSUS        -            3.9e-18   69.4   0.0   5.5e-18   68.9   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig02570 transcribed RNA sequence
+GDKS01018266.1_2     -          OSK_CONSENSUS        -            4.6e-17   66.0   0.0   5.9e-17   65.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig11234 transcribed RNA sequence
+GDKS01010878.1_4     -          OSK_CONSENSUS        -            6.1e-17   65.5   0.0   8.4e-17   65.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig03829 transcribed RNA sequence
+GDKS01030318.1_6     -          OSK_CONSENSUS        -            1.1e-16   64.7   0.0   1.9e-16   63.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01611 transcribed RNA sequence
+GDKS01019997.1_3     -          OSK_CONSENSUS        -            1.1e-16   64.7   0.0   1.3e-16   64.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig12969 transcribed RNA sequence
+GDKS01019364.1_5     -          OSK_CONSENSUS        -            1.2e-16   64.6   0.0   1.6e-16   64.2   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig12334 transcribed RNA sequence
+GDKS01008886.1_2     -          OSK_CONSENSUS        -            2.6e-16   63.5   0.0   4.1e-16   62.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig01834 transcribed RNA sequence
+GDKS01037425.1_4     -          OSK_CONSENSUS        -            4.2e-16   62.8   0.0   5.4e-16   62.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig08731 transcribed RNA sequence
+GDKS01007633.1_3     -          OSK_CONSENSUS        -            8.8e-16   61.8   0.0   1.4e-15   61.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig00523 transcribed RNA sequence
+GDKS01029113.1_2     -          OSK_CONSENSUS        -              1e-15   61.5   0.0   1.9e-15   60.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00366 transcribed RNA sequence
+GDKS01031100.1_4     -          OSK_CONSENSUS        -            1.6e-15   60.9   0.0   2.6e-15   60.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig02393 transcribed RNA sequence
+GDKS01030497.1_6     -          OSK_CONSENSUS        -            1.7e-15   60.8   0.0   3.3e-15   59.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01790 transcribed RNA sequence
+GDKS01008812.1_3     -          OSK_CONSENSUS        -            1.8e-15   60.8   0.0   3.1e-15   60.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig01760 transcribed RNA sequence
+GDKS01028967.1_2     -          OSK_CONSENSUS        -              2e-15   60.6   0.0   3.1e-15   60.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00210 transcribed RNA sequence
+GDKS01041837.1_3     -          OSK_CONSENSUS        -            3.4e-15   59.9   0.0   4.2e-15   59.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig13148 transcribed RNA sequence
+GDKS01012666.1_3     -          OSK_CONSENSUS        -            7.9e-15   58.7   0.0   1.4e-14   57.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig05625 transcribed RNA sequence
+GDKS01021155.1_4     -          OSK_CONSENSUS        -            1.9e-14   57.4   0.0   1.9e-14   57.4   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig14128 transcribed RNA sequence
+GDKS01021223.1_4     -          OSK_CONSENSUS        -              3e-14   56.8   0.0   3.1e-14   56.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig14196 transcribed RNA sequence
+GDKS01021229.1_4     -          OSK_CONSENSUS        -              3e-14   56.8   0.0   3.1e-14   56.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig14202 transcribed RNA sequence
+GDKS01015003.1_2     -          OSK_CONSENSUS        -            8.9e-14   55.3   0.0   1.2e-13   54.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig07967 transcribed RNA sequence
+GDKS01007669.1_1     -          OSK_CONSENSUS        -              1e-13   55.0   0.0   1.9e-13   54.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig00565 transcribed RNA sequence
+GDKS01013571.1_6     -          OSK_CONSENSUS        -            1.2e-13   54.9   0.0   1.6e-13   54.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig06531 transcribed RNA sequence
+GDKS01029219.1_2     -          OSK_CONSENSUS        -            4.5e-12   49.7   0.0   6.5e-12   49.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig00484 transcribed RNA sequence
+GDKS01030984.1_4     -          OSK_CONSENSUS        -              5e-12   49.6   0.0   8.4e-12   48.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig02277 transcribed RNA sequence
+GDKS01040988.1_3     -          OSK_CONSENSUS        -            7.3e-12   49.0   0.0   9.3e-12   48.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig12297 transcribed RNA sequence
+GDKS01030622.1_6     -          OSK_CONSENSUS        -            1.5e-10   44.8   0.0   2.3e-10   44.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01915 transcribed RNA sequence
+GDKS01020758.1_3     -          OSK_CONSENSUS        -              5e-10   43.1   0.0   5.7e-10   42.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Anopheles sinensis kangxing_isotig13730 transcribed RNA sequence
+GDKS01039378.1_3     -          OSK_CONSENSUS        -            3.6e-06   30.5   0.0     5e-06   30.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig10686 transcribed RNA sequence
+GDKS01032982.1_5     -          OSK_CONSENSUS        -            0.00017   25.1   0.0   0.00026   24.5   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig04277 transcribed RNA sequence
+GDKS01031567.1_6     -          OSK_CONSENSUS        -            0.00022   24.7   0.0   0.00034   24.1   0.0   1.2   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig02860 transcribed RNA sequence
+GDKS01030679.1_3     -          OSK_CONSENSUS        -             0.0005   23.6   0.0   0.00088   22.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig01972 transcribed RNA sequence
+GDKS01043462.1_2     -          OSK_CONSENSUS        -             0.0029   21.1   0.0    0.0039   20.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Anopheles sinensis mingan_isotig14774 transcribed RNA sequence
+GDKS01034623.1_5     -          OSK_CONSENSUS        -             0.0065   20.0   0.1     0.024   18.1   0.0   1.8   2   0   0   2   2   2   1 TSA: Anopheles sinensis mingan_isotig05924 transcribed RNA sequence
+GDKS01039378.1_1     -          OSK_CONSENSUS        -               0.11   15.9   0.0      0.15   15.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Anopheles sinensis mingan_isotig10686 transcribed RNA sequence
+GDKS01031820.1_6     -          OSK_CONSENSUS        -               0.28   14.6   0.0      0.41   14.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Anopheles sinensis mingan_isotig03113 transcribed RNA sequence
+GDKS01014677.1_4     -          OSK_CONSENSUS        -               0.45   14.0   0.0      0.67   13.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Anopheles sinensis kangxing_isotig07641 transcribed RNA sequence
+GDKS01032256.1_4     -          OSK_CONSENSUS        -               0.63   13.5   0.1       1.2   12.6   0.0   1.5   2   0   0   2   2   1   0 TSA: Anopheles sinensis mingan_isotig03549 transcribed RNA sequence
+GDKS01043462.1_3     -          OSK_CONSENSUS        -               0.81   13.1   0.0       1.1   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Anopheles sinensis mingan_isotig14774 transcribed RNA sequence
+GDKS01025982.1_5     -          OSK_CONSENSUS        -               0.93   12.9   0.0      0.93   12.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Anopheles sinensis mingan_G9XN94001CZY6G transcribed RNA sequence
+GDKS01026638.1_1     -          OSK_CONSENSUS        -                1.1   12.7   0.0         2   11.9   0.0   1.4   1   1   0   1   1   1   0 TSA: Anopheles sinensis mingan_G9XN94001DEWF4 transcribed RNA sequence
+GDKS01034930.1_4     -          OSK_CONSENSUS        -                1.7   12.1   2.4        20    8.6   0.4   2.4   2   1   0   2   2   2   0 TSA: Anopheles sinensis mingan_isotig06233 transcribed RNA sequence
+GDKS01004731.1_6     -          OSK_CONSENSUS        -                2.9   11.3   0.2         4   10.9   0.2   1.2   1   0   0   1   1   1   0 TSA: Anopheles sinensis kangxing_G9VUHJM02I711N transcribed RNA sequence
+GDKS01033767.1_1     -          OSK_CONSENSUS        -                3.5   11.1   1.5       5.8   10.4   0.1   1.9   2   0   0   2   2   2   0 TSA: Anopheles sinensis mingan_isotig05065 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDKS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:24 2019
+# [ok]

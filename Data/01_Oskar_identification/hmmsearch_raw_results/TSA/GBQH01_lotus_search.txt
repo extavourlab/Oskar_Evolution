@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQH01021687.1_3     -          LOTUS_CONSENSUS      -            8.2e-15   57.9   0.0   2.9e-14   56.1   0.0   2.0   1   0   0   1   1   1   1 TSA: Pemphredon lugens s4934_L_10576_0_a_36_3_l_3933 transcribed RNA sequence
+GBQH01010588.1_4     -          LOTUS_CONSENSUS      -            3.2e-14   56.0   0.0   5.4e-14   55.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Pemphredon lugens C59620_a_7_0_l_648 transcribed RNA sequence
+GBQH01020129.1_3     -          LOTUS_CONSENSUS      -            1.8e-07   34.3   0.0      0.11   15.8   0.0   5.5   3   2   2   5   5   5   2 TSA: Pemphredon lugens s3528_L_5139_0_a_27_2_l_6603 transcribed RNA sequence
+GBQH01020130.1_1     -          LOTUS_CONSENSUS      -            1.9e-07   34.3   0.0      0.11   15.8   0.0   5.5   3   2   1   4   4   4   2 TSA: Pemphredon lugens s3529_L_5139_1_a_27_0_l_6661 transcribed RNA sequence
+GBQH01023434.1_1     -          LOTUS_CONSENSUS      -              0.008   19.4   3.9     0.069   16.4   0.0   3.4   3   0   0   3   3   3   1 TSA: Pemphredon lugens s6511_L_18257_0_a_8_5_l_3107 transcribed RNA sequence
+GBQH01023435.1_1     -          LOTUS_CONSENSUS      -              0.013   18.8   0.0     0.046   17.0   0.0   2.0   1   0   0   1   1   1   0 TSA: Pemphredon lugens s6512_L_18257_1_a_8_5_l_2251 transcribed RNA sequence
+GBQH01014067.1_3     -          LOTUS_CONSENSUS      -               0.18   15.1   0.5   1.2e+02    6.1   0.1   3.0   3   0   0   3   3   3   0 TSA: Pemphredon lugens C73422_a_26_0_l_1453 transcribed RNA sequence
+GBQH01007389.1_1     -          LOTUS_CONSENSUS      -                  1   12.6   0.0       1.3   12.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Pemphredon lugens C48702_a_3_0_l_406 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:46 2019
+# [ok]

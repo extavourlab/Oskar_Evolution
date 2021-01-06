@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEMJ01021643.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.4e-19   71.7   1.0   9.4e-19   71.7   1.0   2.3   2   1   0   2   2   2   1 TSA: Rhipidia sejuga c29754.graph_c0_seq2 transcribed RNA sequence
+GEMJ01021642.1_5     -          oskar_filtered.aligned.LOTUS_domain -              3e-18   70.1   1.0     1e-17   68.3   1.0   2.0   1   0   0   1   1   1   1 TSA: Rhipidia sejuga c29754.graph_c0_seq1 transcribed RNA sequence
+GEMJ01028897.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-13   54.1   0.1   2.7e-13   54.1   0.1   2.4   2   0   0   2   2   2   1 TSA: Rhipidia sejuga c27493.graph_c0_seq2 transcribed RNA sequence
+GEMJ01028896.1_3     -          oskar_filtered.aligned.LOTUS_domain -              7e-13   52.8   0.1     7e-13   52.8   0.1   2.5   2   0   0   2   2   1   1 TSA: Rhipidia sejuga c27493.graph_c0_seq1 transcribed RNA sequence
+GEMJ01054210.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-13   52.6   0.3   7.1e-12   49.6   0.0   2.8   3   0   0   3   3   3   1 TSA: Rhipidia sejuga c31800.graph_c0_seq2 transcribed RNA sequence
+GEMJ01054212.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.4e-13   52.4   0.3     7e-12   49.6   0.0   2.7   3   0   0   3   3   3   1 TSA: Rhipidia sejuga c31800.graph_c0_seq4 transcribed RNA sequence
+GEMJ01054211.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-12   52.0   0.0   4.8e-12   50.1   0.0   2.0   1   0   0   1   1   1   1 TSA: Rhipidia sejuga c31800.graph_c0_seq3 transcribed RNA sequence
+GEMJ01054209.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-12   51.9   0.0   4.7e-12   50.2   0.0   1.9   1   0   0   1   1   1   1 TSA: Rhipidia sejuga c31800.graph_c0_seq1 transcribed RNA sequence
+GEMJ01028705.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.38   15.1   0.4      0.38   15.1   0.4   2.4   2   1   0   2   2   2   0 TSA: Rhipidia sejuga c27645.graph_c0_seq2 transcribed RNA sequence
+GEMJ01028704.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.57   14.6   0.3       1.1   13.7   0.2   1.4   1   1   0   1   1   1   0 TSA: Rhipidia sejuga c27645.graph_c0_seq1 transcribed RNA sequence
+GEMJ01053944.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.91   13.9   1.1        95    7.4   0.4   3.1   2   1   0   2   2   2   0 TSA: Rhipidia sejuga c31103.graph_c0_seq2 transcribed RNA sequence
+GEMJ01049241.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.3   2.5        38    8.7   0.5   2.9   2   0   0   2   2   2   0 TSA: Rhipidia sejuga c23715.graph_c0_seq1 transcribed RNA sequence
+GEMJ01028578.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  2   12.8   0.3       6.9   11.1   0.1   1.9   2   0   0   2   2   2   0 TSA: Rhipidia sejuga c27024.graph_c0_seq1 transcribed RNA sequence
+GEMJ01053943.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.7   4.7        37    8.7   0.5   3.2   1   1   1   3   3   3   0 TSA: Rhipidia sejuga c31103.graph_c0_seq1 transcribed RNA sequence
+GEMJ01001095.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.4   11.4  10.4        81    7.7   0.6   5.3   4   1   1   5   5   5   0 TSA: Rhipidia sejuga c32296.graph_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEMJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEMJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEMJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:43 2019
+# [ok]

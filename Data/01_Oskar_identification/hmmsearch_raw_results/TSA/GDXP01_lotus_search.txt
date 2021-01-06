@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDXP01052761.1_3     -          LOTUS_CONSENSUS      -            7.2e-12   50.0   0.0   1.3e-11   49.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Shelfordella lateralis breed wildtype C290021_a_12_0_l_921, transcribed RNA sequence
+GDXP01063061.1_3     -          LOTUS_CONSENSUS      -              2e-11   48.6   0.0   2.1e-10   45.4   0.0   2.3   2   0   0   2   2   2   1 TSA: Shelfordella lateralis breed wildtype s11326_L_27044_1_a_6_1_l_4219, transcribed RNA sequence
+GDXP01052761.1_1     -          LOTUS_CONSENSUS      -            7.3e-05   27.6   0.1   0.00015   26.6   0.1   1.6   1   0   0   1   1   1   1 TSA: Shelfordella lateralis breed wildtype C290021_a_12_0_l_921, transcribed RNA sequence
+GDXP01046494.1_4     -          LOTUS_CONSENSUS      -              0.021   19.7   0.0        44    9.0   0.0   3.0   1   1   2   3   3   3   0 TSA: Shelfordella lateralis breed wildtype C272055_a_4_0_l_651, transcribed RNA sequence
+GDXP01026307.1_2     -          LOTUS_CONSENSUS      -               0.47   15.4   0.1      0.75   14.7   0.1   1.4   1   1   0   1   1   1   0 TSA: Shelfordella lateralis breed wildtype C215477_a_13_0_l_332, transcribed RNA sequence
+GDXP01077815.1_1     -          LOTUS_CONSENSUS      -                1.2   14.0   0.1        61    8.6   0.0   2.1   2   0   0   2   2   2   0 TSA: Shelfordella lateralis breed wildtype s9908_L_21092_0_a_3_4_l_398, transcribed RNA sequence
+GDXP01039541.1_4     -          LOTUS_CONSENSUS      -                1.3   14.0   0.2         2   13.4   0.2   1.3   1   0   0   1   1   1   0 TSA: Shelfordella lateralis breed wildtype C252084_a_4_0_l_492, transcribed RNA sequence
+GDXP01057801.1_5     -          LOTUS_CONSENSUS      -                1.8   13.5   0.0       3.8   12.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Shelfordella lateralis breed wildtype C305078_a_6_0_l_1477, transcribed RNA sequence
+GDXP01041330.1_5     -          LOTUS_CONSENSUS      -                1.9   13.4   0.0       3.4   12.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Shelfordella lateralis breed wildtype C257242_a_7_0_l_526, transcribed RNA sequence
+GDXP01019969.1_3     -          LOTUS_CONSENSUS      -                2.6   13.0   0.1       3.8   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Shelfordella lateralis breed wildtype C197755_a_3_0_l_282, transcribed RNA sequence
+GDXP01059112.1_5     -          LOTUS_CONSENSUS      -                3.8   12.5   0.0       8.2   11.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Shelfordella lateralis breed wildtype C309024_a_7_0_l_1789, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDXP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDXP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDXP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:12 2019
+# [ok]

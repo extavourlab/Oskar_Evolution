@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDZY01053425.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.38   15.4   0.0       1.2   13.8   0.0   1.8   1   0   0   1   1   1   0 TSA: Euthlastoblatta diaphana breed wildtype s11508_L_30916_0_a_13_3_l_1723, transcribed RNA sequence
+GDZY01053426.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.72   14.5   0.0         2   13.1   0.0   1.7   1   0   0   1   1   1   0 TSA: Euthlastoblatta diaphana breed wildtype s11509_L_30916_1_a_10_5_l_2445, transcribed RNA sequence
+GDZY01042974.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.2   0.4       1.9   13.2   0.4   2.0   3   0   0   3   3   3   0 TSA: Euthlastoblatta diaphana breed wildtype C296602_a_3_0_l_722, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDZY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:38 2019
+# [ok]

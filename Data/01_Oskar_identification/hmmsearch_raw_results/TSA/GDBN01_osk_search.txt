@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBN01054457.1_5     -          OSK_CONSENSUS        -            1.2e-21   81.2   0.3   1.9e-21   80.5   0.3   1.3   1   0   0   1   1   1   1 TSA: Brachyptera vera breed wildtype s8997_L_39067_1_a_21_6_l_1153, transcribed RNA sequence
+GDBN01054456.1_4     -          OSK_CONSENSUS        -            2.1e-21   80.3   2.2   2.5e-21   80.1   0.3   2.0   2   0   0   2   2   2   1 TSA: Brachyptera vera breed wildtype s8996_L_39067_0_a_35_1_l_1335, transcribed RNA sequence
+GDBN01049880.1_2     -          OSK_CONSENSUS        -            1.2e-14   58.3   0.1   2.7e-14   57.3   0.1   1.6   1   0   0   1   1   1   1 TSA: Brachyptera vera breed wildtype s4846_L_9170_0_a_45_6_l_1842, transcribed RNA sequence
+GDBN01014420.1_1     -          OSK_CONSENSUS        -              0.009   19.8   0.1      0.01   19.6   0.1   1.1   1   0   0   1   1   1   1 TSA: Brachyptera vera breed wildtype C143225_a_4_0_l_241, transcribed RNA sequence
+GDBN01037167.1_2     -          OSK_CONSENSUS        -              0.061   17.1   0.3      0.85   13.4   0.1   2.1   2   0   0   2   2   2   0 TSA: Brachyptera vera breed wildtype C210774_a_3_0_l_612, transcribed RNA sequence
+GDBN01022976.1_4     -          OSK_CONSENSUS        -              0.084   16.6   0.0      0.13   16.0   0.0   1.3   1   1   0   1   1   1   0 TSA: Brachyptera vera breed wildtype C165463_a_6_0_l_283, transcribed RNA sequence
+GDBN01027694.1_2     -          OSK_CONSENSUS        -               0.21   15.3   0.1      0.26   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Brachyptera vera breed wildtype C179966_a_10_0_l_343, transcribed RNA sequence
+GDBN01014906.1_2     -          OSK_CONSENSUS        -               0.43   14.3   0.1      0.43   14.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Brachyptera vera breed wildtype C144343_a_3_0_l_242, transcribed RNA sequence
+GDBN01044932.1_3     -          OSK_CONSENSUS        -               0.55   14.0   0.2         1   13.1   0.2   1.5   1   0   0   1   1   1   0 TSA: Brachyptera vera breed wildtype s11120_L_54653_0_a_14_8_l_1043, transcribed RNA sequence
+GDBN01042666.1_4     -          OSK_CONSENSUS        -                0.8   13.4   0.0       1.7   12.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Brachyptera vera breed wildtype C230718_a_25_0_l_1517, transcribed RNA sequence
+GDBN01035945.1_2     -          OSK_CONSENSUS        -                1.2   12.9   0.1       8.7   10.1   0.2   1.9   2   0   0   2   2   2   0 TSA: Brachyptera vera breed wildtype C206415_a_14_0_l_546, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:10 2019
+# [ok]

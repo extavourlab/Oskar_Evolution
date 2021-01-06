@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERI01056221.1_1     -          OSK_CONSENSUS        -             0.0022   22.3   0.2     0.018   19.3   0.1   2.3   2   0   0   2   2   2   1 TSA: Pallasea cancellus c77119_g1_i4 transcribed RNA sequence
+GERI01056219.1_1     -          OSK_CONSENSUS        -             0.0067   20.7   2.0     0.026   18.8   0.1   2.8   4   0   0   4   4   4   1 TSA: Pallasea cancellus c77119_g1_i2 transcribed RNA sequence
+GERI01056218.1_1     -          OSK_CONSENSUS        -              0.018   19.3   2.5     0.032   18.5   0.1   2.6   4   0   0   4   4   4   0 TSA: Pallasea cancellus c77119_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERI.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERI.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERI.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:44 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWD01055678.1_4     -          oskar_filtered.aligned.OSK_domain -            1.1e-26   97.9   0.1     2e-26   97.1   0.1   1.8   1   1   0   1   1   1   1 TSA: Campanulotes compar breed wildtype C214438_3_0, transcribed RNA sequence
+GCWD01040856.1_4     -          oskar_filtered.aligned.OSK_domain -               0.22   15.4   0.3      0.26   15.2   0.3   1.2   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C184634_3_0, transcribed RNA sequence
+GCWD01018695.1_2     -          oskar_filtered.aligned.OSK_domain -               0.52   14.2   0.1      0.57   14.1   0.1   1.0   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C139850_4_0, transcribed RNA sequence
+GCWD01020953.1_6     -          oskar_filtered.aligned.OSK_domain -               0.67   13.9   0.6      0.76   13.7   0.6   1.1   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C144416_13_0, transcribed RNA sequence
+GCWD01057698.1_6     -          oskar_filtered.aligned.OSK_domain -                0.8   13.6   0.3       2.4   12.1   0.1   1.8   2   0   0   2   2   2   0 TSA: Campanulotes compar breed wildtype C218484_34_0, transcribed RNA sequence
+GCWD01003140.1_5     -          oskar_filtered.aligned.OSK_domain -                1.1   13.1   0.2       1.4   12.8   0.2   1.0   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C108372_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:55 2019
+# [ok]

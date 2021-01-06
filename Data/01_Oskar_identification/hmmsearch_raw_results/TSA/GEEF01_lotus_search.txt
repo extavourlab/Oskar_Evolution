@@ -1,0 +1,43 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEEF01095673.1_1     -          LOTUS_CONSENSUS      -            1.8e-19   75.7   1.7   1.1e-14   60.3   0.0   3.2   3   1   0   3   3   2   2 TSA: Leptinotarsa decemlineata comp110970_c0_seq3 transcribed RNA sequence
+GEEF01095677.1_1     -          LOTUS_CONSENSUS      -            2.2e-19   75.4   1.0   1.9e-14   59.6   0.0   3.5   3   0   0   3   3   2   2 TSA: Leptinotarsa decemlineata comp110970_c0_seq7 transcribed RNA sequence
+GEEF01074635.1_3     -          LOTUS_CONSENSUS      -            6.6e-16   64.3   0.2   1.6e-15   63.0   0.2   1.7   1   0   0   1   1   1   1 TSA: Leptinotarsa decemlineata comp107870_c0_seq1 transcribed RNA sequence
+GEEF01150334.1_1     -          LOTUS_CONSENSUS      -            1.4e-14   60.1   0.0   2.6e-14   59.2   0.0   1.5   1   0   0   1   1   1   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq3 transcribed RNA sequence
+GEEF01150335.1_2     -          LOTUS_CONSENSUS      -              5e-14   58.3   0.6   3.1e-13   55.7   0.0   2.7   3   0   0   3   3   2   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq4 transcribed RNA sequence
+GEEF01150337.1_1     -          LOTUS_CONSENSUS      -            9.8e-14   57.3   0.6   4.5e-13   55.2   0.0   2.5   3   0   0   3   3   2   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq6 transcribed RNA sequence
+GEEF01150333.1_1     -          LOTUS_CONSENSUS      -              1e-13   57.3   0.6   4.6e-13   55.2   0.0   2.5   3   0   0   3   3   2   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq2 transcribed RNA sequence
+GEEF01050812.1_6     -          LOTUS_CONSENSUS      -              1e-12   54.0   0.0   1.6e-12   53.4   0.0   1.3   1   0   0   1   1   1   1 TSA: Leptinotarsa decemlineata comp102152_c0_seq1 transcribed RNA sequence
+GEEF01151701.1_5     -          LOTUS_CONSENSUS      -            2.3e-06   33.7   1.9       5.1   13.3   0.1   5.5   3   2   2   5   5   5   1 TSA: Leptinotarsa decemlineata comp117583_c0_seq3 transcribed RNA sequence
+GEEF01151703.1_5     -          LOTUS_CONSENSUS      -            2.3e-06   33.7   1.8       5.2   13.3   0.1   5.5   3   2   2   5   5   5   1 TSA: Leptinotarsa decemlineata comp117583_c0_seq5 transcribed RNA sequence
+GEEF01151702.1_5     -          LOTUS_CONSENSUS      -            4.7e-06   32.7   1.7       6.1   13.1   0.1   5.5   3   2   2   5   5   5   1 TSA: Leptinotarsa decemlineata comp117583_c0_seq4 transcribed RNA sequence
+GEEF01151699.1_5     -          LOTUS_CONSENSUS      -            4.8e-06   32.7   1.7       6.2   13.1   0.1   5.5   3   2   2   5   5   5   1 TSA: Leptinotarsa decemlineata comp117583_c0_seq1 transcribed RNA sequence
+GEEF01067697.1_1     -          LOTUS_CONSENSUS      -               0.57   16.4   3.2       8.6   12.6   0.1   2.4   1   1   1   2   2   2   0 TSA: Leptinotarsa decemlineata comp106628_c0_seq8 transcribed RNA sequence
+GEEF01067695.1_3     -          LOTUS_CONSENSUS      -               0.59   16.3   3.2       8.8   12.6   0.2   2.5   1   1   1   2   2   2   0 TSA: Leptinotarsa decemlineata comp106628_c0_seq6 transcribed RNA sequence
+GEEF01041364.1_3     -          LOTUS_CONSENSUS      -               0.63   16.3   1.7        27   11.0   0.0   2.7   2   1   0   2   2   2   0 TSA: Leptinotarsa decemlineata comp97160_c0_seq3 transcribed RNA sequence
+GEEF01041366.1_2     -          LOTUS_CONSENSUS      -               0.92   15.7   2.8        18   11.6   0.1   2.7   2   1   0   2   2   2   0 TSA: Leptinotarsa decemlineata comp97160_c0_seq5 transcribed RNA sequence
+GEEF01154290.1_1     -          LOTUS_CONSENSUS      -               0.94   15.7   0.3        49   10.2   0.0   3.7   4   1   0   4   4   2   0 TSA: Leptinotarsa decemlineata comp117882_c0_seq5 transcribed RNA sequence
+GEEF01069892.1_6     -          LOTUS_CONSENSUS      -                1.6   15.0   1.7   1.5e+02    8.6   1.7   2.3   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp107032_c0_seq1 transcribed RNA sequence
+GEEF01086069.1_1     -          LOTUS_CONSENSUS      -                2.5   14.3   0.8        13   12.0   0.2   2.5   1   1   2   3   3   3   0 TSA: Leptinotarsa decemlineata comp109627_c0_seq4 transcribed RNA sequence
+GEEF01100094.1_1     -          LOTUS_CONSENSUS      -                2.7   14.2   3.1       9.6   12.5   0.2   2.5   2   1   0   2   2   2   0 TSA: Leptinotarsa decemlineata comp111524_c0_seq4 transcribed RNA sequence
+GEEF01132922.1_2     -          LOTUS_CONSENSUS      -                2.8   14.2   0.1       3.7   13.8   0.1   1.3   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp115502_c2_seq31 transcribed RNA sequence
+GEEF01100096.1_1     -          LOTUS_CONSENSUS      -                2.9   14.1   0.2       5.4   13.2   0.2   1.4   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp111524_c0_seq6 transcribed RNA sequence
+GEEF01170951.1_5     -          LOTUS_CONSENSUS      -                5.1   13.3   0.1       7.5   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp120626_c0_seq1 transcribed RNA sequence
+GEEF01132904.1_3     -          LOTUS_CONSENSUS      -                5.8   13.2   0.0       8.4   12.7   0.0   1.5   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp115502_c2_seq13 transcribed RNA sequence
+GEEF01132923.1_1     -          LOTUS_CONSENSUS      -                5.9   13.1   0.0       9.6   12.5   0.0   1.5   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp115502_c2_seq32 transcribed RNA sequence
+GEEF01132903.1_1     -          LOTUS_CONSENSUS      -                7.8   12.7   0.1        11   12.2   0.1   1.3   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp115502_c2_seq12 transcribed RNA sequence
+GEEF01067692.1_2     -          LOTUS_CONSENSUS      -                8.4   12.6   0.3       8.4   12.6   0.3   3.4   2   2   1   3   3   2   0 TSA: Leptinotarsa decemlineata comp106628_c0_seq3 transcribed RNA sequence
+GEEF01127953.1_2     -          LOTUS_CONSENSUS      -                8.5   12.6   0.5       8.8   12.6   0.5   1.1   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp114971_c0_seq4 transcribed RNA sequence
+GEEF01041362.1_1     -          LOTUS_CONSENSUS      -                8.8   12.6   0.1        18   11.6   0.1   1.6   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp97160_c0_seq1 transcribed RNA sequence
+GEEF01030584.1_1     -          LOTUS_CONSENSUS      -                9.1   12.5   0.6   2.2e+02    8.1   0.1   2.6   1   1   1   2   2   2   0 TSA: Leptinotarsa decemlineata comp86767_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEEF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:48 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTS01019459.1_4     -          OSK_CONSENSUS        -            1.6e-24   89.2   1.0   2.8e-16   62.4   0.2   2.8   2   0   0   2   2   2   2 TSA: Orussus unicolor s4568_L_10617_0_a_46_4_l_5986 transcribed RNA sequence
+GBTS01019460.1_6     -          OSK_CONSENSUS        -              2e-24   88.8   1.0   3.2e-16   62.2   0.2   2.8   2   0   0   2   2   2   2 TSA: Orussus unicolor s4569_L_10617_1_a_42_8_l_6777 transcribed RNA sequence
+GBTS01019459.1_6     -          OSK_CONSENSUS        -            3.8e-11   45.7   0.2   8.5e-11   44.5   0.2   1.5   1   0   0   1   1   1   1 TSA: Orussus unicolor s4568_L_10617_0_a_46_4_l_5986 transcribed RNA sequence
+GBTS01019460.1_5     -          OSK_CONSENSUS        -            4.2e-11   45.5   0.2   9.8e-11   44.3   0.2   1.5   1   0   0   1   1   1   1 TSA: Orussus unicolor s4569_L_10617_1_a_42_8_l_6777 transcribed RNA sequence
+GBTS01016987.1_1     -          OSK_CONSENSUS        -                1.4   11.3   0.1       1.8   10.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Orussus unicolor s2334_L_3464_0_a_3_0_l_509 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:48 2019
+# [ok]

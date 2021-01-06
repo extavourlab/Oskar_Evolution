@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEIF01071249.1_5     -          OSK_CONSENSUS        -               0.24   15.7   0.1      0.25   15.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene60487_All transcribed RNA sequence
+GEIF01042187.1_5     -          OSK_CONSENSUS        -               0.46   14.7   0.0      0.74   14.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene3425_All transcribed RNA sequence
+GEIF01070814.1_5     -          OSK_CONSENSUS        -                0.5   14.6   0.1      0.56   14.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene60095_All transcribed RNA sequence
+GEIF01024610.1_4     -          OSK_CONSENSUS        -                1.2   13.4   0.5       1.4   13.2   0.5   1.0   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene18419_All transcribed RNA sequence
+GEIF01075591.1_3     -          OSK_CONSENSUS        -                1.8   12.8   0.0       1.9   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana Unigene7107_All transcribed RNA sequence
+GEIF01010052.1_1     -          OSK_CONSENSUS        -                2.9   12.1   0.5        25    9.1   0.5   2.3   1   1   0   1   1   1   0 TSA: Periplaneta americana CL4959.Contig1_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEIF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEIF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEIF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:14 2019
+# [ok]

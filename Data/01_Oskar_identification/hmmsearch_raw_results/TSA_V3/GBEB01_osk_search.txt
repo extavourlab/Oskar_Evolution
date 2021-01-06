@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBEB01011572.1_2     -          oskar_filtered.aligned.OSK_domain -            1.4e-55  191.2   1.8   3.3e-55  189.9   1.8   1.7   1   0   0   1   1   1   1 TSA: Nasonia vitripennis comp35721_c0_seq2 transcribed RNA sequence
+GBEB01001431.1_2     -          oskar_filtered.aligned.OSK_domain -            6.1e-08   35.8   0.0     2e-07   34.2   0.0   2.0   1   1   0   1   1   1   1 TSA: Nasonia vitripennis comp14377_c0_seq2 transcribed RNA sequence
+GBEB01001430.1_2     -          oskar_filtered.aligned.OSK_domain -            6.7e-08   35.7   0.1   3.3e-07   33.4   0.0   2.0   1   1   0   2   2   2   1 TSA: Nasonia vitripennis comp14377_c0_seq1 transcribed RNA sequence
+GBEB01014084.1_4     -          oskar_filtered.aligned.OSK_domain -               0.39   13.6   0.3      0.72   12.8   0.3   1.4   1   0   0   1   1   1   0 TSA: Nasonia vitripennis comp36931_c1_seq5 transcribed RNA sequence
+GBEB01028074.1_6     -          oskar_filtered.aligned.OSK_domain -                1.1   12.1   0.7       2.5   11.0   0.7   1.6   1   1   0   1   1   1   0 TSA: Nasonia vitripennis comp44075_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBEB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:20 2019
+# [ok]

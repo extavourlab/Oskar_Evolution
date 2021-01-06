@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAPP01032288.1_1     -          LOTUS_CONSENSUS      -            3.9e-08   36.9   0.0   4.3e-08   36.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci BT_B_G_ZJU_Unigene27349 transcribed RNA sequence
+GAPP01020997.1_5     -          LOTUS_CONSENSUS      -              0.007   20.0   0.0        27    8.5   0.0   3.5   1   1   2   3   3   3   1 TSA: Bemisia tabaci BT_B_G_ZJU_Unigene15984 transcribed RNA sequence
+GAPP01002340.1_2     -          LOTUS_CONSENSUS      -              0.029   18.1   0.5     0.078   16.7   0.0   1.8   2   0   0   2   2   2   0 TSA: Bemisia tabaci BT_B_G_ZJU_CL1165.Contig4 transcribed RNA sequence
+GAPP01002338.1_3     -          LOTUS_CONSENSUS      -              0.032   17.9   0.5      0.12   16.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Bemisia tabaci BT_B_G_ZJU_CL1165.Contig2 transcribed RNA sequence
+GAPP01002339.1_2     -          LOTUS_CONSENSUS      -              0.033   17.9   0.5     0.093   16.4   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci BT_B_G_ZJU_CL1165.Contig3 transcribed RNA sequence
+GAPP01002342.1_2     -          LOTUS_CONSENSUS      -              0.037   17.7   1.7     0.067   16.9   0.0   2.2   3   0   0   3   3   3   0 TSA: Bemisia tabaci BT_B_G_ZJU_CL1165.Contig6 transcribed RNA sequence
+GAPP01002341.1_2     -          LOTUS_CONSENSUS      -              0.046   17.4   1.7     0.076   16.7   0.0   2.1   3   0   0   3   3   3   0 TSA: Bemisia tabaci BT_B_G_ZJU_CL1165.Contig5 transcribed RNA sequence
+GAPP01002337.1_3     -          LOTUS_CONSENSUS      -              0.051   17.3   0.6      0.14   15.9   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci BT_B_G_ZJU_CL1165.Contig1 transcribed RNA sequence
+GAPP01026579.1_4     -          LOTUS_CONSENSUS      -               0.69   13.6   0.1      0.95   13.2   0.1   1.4   1   1   0   1   1   1   0 TSA: Bemisia tabaci BT_B_G_ZJU_Unigene21602 transcribed RNA sequence
+GAPP01022942.1_2     -          LOTUS_CONSENSUS      -                0.8   13.4   0.0   1.5e+02    6.1   0.0   2.3   1   1   1   2   2   2   0 TSA: Bemisia tabaci BT_B_G_ZJU_Unigene17946 transcribed RNA sequence
+GAPP01013631.1_5     -          LOTUS_CONSENSUS      -               0.88   13.3   0.0       1.3   12.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Bemisia tabaci BT_B_G_ZJU_Unigene8566 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAPP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:48 2019
+# [ok]

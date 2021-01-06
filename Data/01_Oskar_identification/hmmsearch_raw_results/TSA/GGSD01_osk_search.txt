@@ -1,0 +1,42 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGSD01121392.1_2     -          OSK_CONSENSUS        -            2.4e-28  104.2   0.0     1e-27  102.2   0.0   2.1   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_78999_c0_g1_i3 transcribed RNA sequence
+GGSD01027234.1_6     -          OSK_CONSENSUS        -            3.3e-25   93.9   0.5   6.8e-25   93.0   0.5   1.4   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_19468_c0_g1_i1 transcribed RNA sequence
+GGSD01070856.1_4     -          OSK_CONSENSUS        -              1e-10   46.8   1.1   1.3e-10   46.5   1.1   1.0   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_47095_c0_g1_i2 transcribed RNA sequence
+GGSD01070855.1_6     -          OSK_CONSENSUS        -            1.9e-10   46.0   0.9   3.2e-10   45.3   0.9   1.3   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_47095_c0_g1_i1 transcribed RNA sequence
+GGSD01129716.1_4     -          OSK_CONSENSUS        -            1.1e-09   43.5   0.0   1.8e-09   42.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_83674_c0_g1_i1 transcribed RNA sequence
+GGSD01082534.1_4     -          OSK_CONSENSUS        -              0.012   20.7   0.1     0.022   19.8   0.1   1.4   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i19 transcribed RNA sequence
+GGSD01082533.1_4     -          OSK_CONSENSUS        -              0.017   20.1   0.1      0.03   19.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i18 transcribed RNA sequence
+GGSD01027234.1_4     -          OSK_CONSENSUS        -               0.13   17.2   0.8      0.22   16.6   0.1   1.7   2   0   0   2   2   2   0 TSA: Gryllus veletis Gvel_19468_c0_g1_i1 transcribed RNA sequence
+GGSD01082532.1_6     -          OSK_CONSENSUS        -               0.25   16.4   0.3      0.55   15.3   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i17 transcribed RNA sequence
+GGSD01082519.1_6     -          OSK_CONSENSUS        -               0.26   16.3   0.3      0.56   15.2   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i4 transcribed RNA sequence
+GGSD01082521.1_6     -          OSK_CONSENSUS        -               0.26   16.3   0.3      0.58   15.2   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i6 transcribed RNA sequence
+GGSD01082531.1_4     -          OSK_CONSENSUS        -               0.31   16.1   0.3      0.68   15.0   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i16 transcribed RNA sequence
+GGSD01082516.1_4     -          OSK_CONSENSUS        -               0.33   16.0   0.3      0.68   14.9   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i1 transcribed RNA sequence
+GGSD01082518.1_4     -          OSK_CONSENSUS        -               0.35   15.9   0.3      0.82   14.7   0.3   1.6   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i3 transcribed RNA sequence
+GGSD01082525.1_6     -          OSK_CONSENSUS        -               0.36   15.9   0.3      0.83   14.7   0.3   1.6   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i10 transcribed RNA sequence
+GGSD01082535.1_6     -          OSK_CONSENSUS        -                0.4   15.7   0.3      0.83   14.7   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i20 transcribed RNA sequence
+GGSD01082520.1_4     -          OSK_CONSENSUS        -               0.41   15.7   0.3      0.84   14.6   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i5 transcribed RNA sequence
+GGSD01113786.1_1     -          OSK_CONSENSUS        -               0.51   15.4   3.3        18   10.3   0.1   2.5   2   0   0   2   2   2   0 TSA: Gryllus veletis Gvel_74041_c0_g1_i1 transcribed RNA sequence
+GGSD01079100.1_6     -          OSK_CONSENSUS        -               0.54   15.3   0.1   1.2e+02    7.7   0.0   2.1   2   0   0   2   2   2   0 TSA: Gryllus veletis Gvel_52444_c2_g1_i1 transcribed RNA sequence
+GGSD01082517.1_4     -          OSK_CONSENSUS        -               0.59   15.1   0.3       1.4   13.9   0.3   1.6   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i2 transcribed RNA sequence
+GGSD01082530.1_4     -          OSK_CONSENSUS        -               0.63   15.1   0.3       1.4   13.9   0.3   1.6   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i15 transcribed RNA sequence
+GGSD01082522.1_4     -          OSK_CONSENSUS        -               0.63   15.1   0.3       1.3   14.0   0.3   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i7 transcribed RNA sequence
+GGSD01082523.1_4     -          OSK_CONSENSUS        -               0.93   14.5   0.6         2   13.4   0.6   1.5   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_53889_c2_g4_i8 transcribed RNA sequence
+GGSD01089524.1_3     -          OSK_CONSENSUS        -                1.1   14.2   0.8       1.4   13.9   0.8   1.1   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_58007_c1_g1_i1 transcribed RNA sequence
+GGSD01102901.1_2     -          OSK_CONSENSUS        -                1.1   14.2   0.5       1.2   14.1   0.5   1.0   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_66572_c0_g1_i3 transcribed RNA sequence
+GGSD01098373.1_6     -          OSK_CONSENSUS        -                1.4   14.0   0.2   3.6e+02    6.1   0.0   2.7   2   0   0   2   2   2   0 TSA: Gryllus veletis Gvel_63929_c0_g1_i1 transcribed RNA sequence
+GGSD01059624.1_1     -          OSK_CONSENSUS        -                  3   12.8   0.0       3.9   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_39813_c2_g1_i1 transcribed RNA sequence
+GGSD01014381.1_3     -          OSK_CONSENSUS        -                3.2   12.8   0.1       3.7   12.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_10400_c0_g1_i1 transcribed RNA sequence
+GGSD01110543.1_3     -          OSK_CONSENSUS        -                3.4   12.7   0.1   1.2e+02    7.7   0.1   2.1   1   1   0   1   1   1   0 TSA: Gryllus veletis Gvel_71345_c0_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGSD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGSD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGSD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:24 2019
+# [ok]

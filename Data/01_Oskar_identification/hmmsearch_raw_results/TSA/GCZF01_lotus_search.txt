@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZF01056317.1_6     -          LOTUS_CONSENSUS      -            1.9e-16   64.8   0.0   7.1e-16   62.9   0.0   1.9   2   0   0   2   2   2   1 TSA: Ponana quadralaba breed wildtype C455303_22_0, transcribed RNA sequence
+GCZF01071714.1_3     -          LOTUS_CONSENSUS      -            1.5e-15   61.9   1.2   2.5e-08   38.7   0.0   4.3   4   0   0   4   4   4   3 TSA: Ponana quadralaba breed wildtype s19851_L_107328_0_17_4_LINEAR, transcribed RNA sequence
+GCZF01051087.1_1     -          LOTUS_CONSENSUS      -            3.3e-05   28.7   0.0     0.051   18.5   0.0   2.4   1   1   1   2   2   2   2 TSA: Ponana quadralaba breed wildtype C433477_4_0, transcribed RNA sequence
+GCZF01054663.1_3     -          LOTUS_CONSENSUS      -               0.16   16.9   0.0      0.34   15.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C448021_4_0, transcribed RNA sequence
+GCZF01068131.1_1     -          LOTUS_CONSENSUS      -               0.39   15.7   2.0   1.1e+03    4.6   0.0   5.1   4   2   0   5   5   5   0 TSA: Ponana quadralaba breed wildtype s16618_L_80165_0_29_1_LINEAR, transcribed RNA sequence
+GCZF01047857.1_3     -          LOTUS_CONSENSUS      -                4.5   12.3   0.0        19   10.3   0.0   1.9   2   0   0   2   2   2   0 TSA: Ponana quadralaba breed wildtype C421679_2_0, transcribed RNA sequence
+GCZF01058519.1_6     -          LOTUS_CONSENSUS      -                4.6   12.2   0.3       9.1   11.3   0.3   1.4   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C464787_7_0, transcribed RNA sequence
+GCZF01078090.1_1     -          LOTUS_CONSENSUS      -                6.2   11.8   0.3        13   10.8   0.1   1.6   2   0   0   2   2   2   0 TSA: Ponana quadralaba breed wildtype s7602_L_23695_0_2_0_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:55 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXH02029956.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-15   61.0   0.0   1.5e-08   38.0   0.0   3.3   3   0   0   3   3   3   2 TSA: Parides eurimedes s9389_L_22699_0_a_42_8_l_1689 transcribed RNA sequence
+GAXH02021798.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-15   59.5   0.0     3e-13   53.2   0.0   2.7   2   0   0   2   2   2   1 TSA: Parides eurimedes s2035_L_1924_1_a_56_2_l_4076 transcribed RNA sequence
+GAXH02019667.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.78   13.3   0.7      0.78   13.3   0.7   1.9   2   0   0   2   2   2   0 TSA: Parides eurimedes C97792_a_5_0_l_706 transcribed RNA sequence
+GAXH02002901.1_4     -          oskar_filtered.aligned.LOTUS_domain -                  2   12.0   3.0        35    8.0   0.2   2.9   2   0   0   2   2   2   0 TSA: Parides eurimedes C112442_a_4_0_l_1397 transcribed RNA sequence
+GAXH02029061.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.2   11.3   2.3       8.7    9.9   0.5   2.1   2   0   0   2   2   2   0 TSA: Parides eurimedes s8583_L_18799_0_a_25_9_l_1103 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXH02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXH02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXH02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:09 2019
+# [ok]

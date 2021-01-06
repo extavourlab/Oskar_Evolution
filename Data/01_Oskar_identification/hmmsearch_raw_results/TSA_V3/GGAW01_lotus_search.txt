@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGAW01011584.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-15   58.3   0.4   7.2e-15   57.8   0.4   1.2   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_563 transcribed RNA sequence
+GGAW01005790.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-13   52.0   0.2   7.2e-13   51.4   0.2   1.3   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_20519 transcribed RNA sequence
+GGAW01019355.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-09   40.9   0.0   5.3e-09   39.0   0.0   2.0   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_2615.2 transcribed RNA sequence
+GGAW01017236.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-08   38.0   1.9   5.2e-08   35.8   0.0   3.2   3   0   0   3   3   3   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_4260 transcribed RNA sequence
+GGAW01004110.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.067   16.2   3.7      0.28   14.2   3.7   2.1   1   0   0   1   1   1   0 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_10457 transcribed RNA sequence
+GGAW01004435.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.99   12.4   0.8         7    9.7   0.1   2.1   2   0   0   2   2   2   0 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_303.1 transcribed RNA sequence
+GGAW01016917.1_2     -          oskar_filtered.aligned.LOTUS_domain -                7.5    9.6   4.7       4.7   10.3   0.6   1.9   1   1   1   2   2   2   0 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_13112.2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGAW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:57 2019
+# [ok]

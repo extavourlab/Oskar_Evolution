@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVD01033707.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-21   80.5   1.4   1.4e-20   76.9   0.4   2.7   2   0   0   2   2   2   1 TSA: Ceraphron sp. AD-2014 s7515_L_13954_0_a_29_7_l_2783 transcribed RNA sequence
+GBVD01023175.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-21   80.4   1.0   3.1e-21   79.0   0.2   2.1   2   0   0   2   2   2   1 TSA: Ceraphron sp. AD-2014 s11912_L_27739_1_a_78_5_l_2819 transcribed RNA sequence
+GBVD01023174.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-21   80.4   1.0   3.1e-21   79.0   0.2   2.1   2   0   0   2   2   2   1 TSA: Ceraphron sp. AD-2014 s11911_L_27739_0_a_79_6_l_2818 transcribed RNA sequence
+GBVD01029366.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-21   79.0   0.0   3.8e-19   72.3   0.0   3.3   3   1   0   3   3   3   1 TSA: Ceraphron sp. AD-2014 s3587_L_5733_1_a_19_5_l_3427 transcribed RNA sequence
+GBVD01029368.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-21   78.5   0.0   4.6e-19   72.1   0.0   3.2   3   1   0   3   3   3   1 TSA: Ceraphron sp. AD-2014 s3589_L_5733_3_a_30_2_l_3970 transcribed RNA sequence
+GBVD01029365.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-21   78.5   0.0   4.6e-19   72.1   0.0   3.2   3   1   0   3   3   3   1 TSA: Ceraphron sp. AD-2014 s3586_L_5733_0_a_30_4_l_3970 transcribed RNA sequence
+GBVD01029367.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-20   76.9   0.0   1.2e-19   74.0   0.0   2.3   2   1   0   2   2   2   1 TSA: Ceraphron sp. AD-2014 s3588_L_5733_2_a_13_0_l_1553 transcribed RNA sequence
+GBVD01026661.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-16   63.8   0.0   1.2e-10   45.0   0.0   3.3   3   0   0   3   3   3   2 TSA: Ceraphron sp. AD-2014 s15057_L_44985_0_a_4_9_l_2250 transcribed RNA sequence
+GBVD01026121.1_4     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-13   52.1   0.2     0.099   16.4   0.0   6.1   2   1   4   6   6   6   3 TSA: Ceraphron sp. AD-2014 s14571_L_41149_0_a_16_3_l_3651 transcribed RNA sequence
+GBVD01023363.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.11   16.2   0.7      0.62   13.9   0.1   2.4   2   0   0   2   2   2   0 TSA: Ceraphron sp. AD-2014 s12082_L_28294_1_a_16_1_l_1170 transcribed RNA sequence
+GBVD01012647.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.35   14.7   0.5       0.6   13.9   0.3   1.5   1   1   0   1   1   1   0 TSA: Ceraphron sp. AD-2014 C196388_a_4_0_l_377 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:11 2019
+# [ok]

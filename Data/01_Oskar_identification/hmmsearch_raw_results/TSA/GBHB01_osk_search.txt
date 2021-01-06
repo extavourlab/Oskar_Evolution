@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBHB01037746.1_1     -          OSK_CONSENSUS        -            4.8e-25   92.7   0.0   6.5e-25   92.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Teleogryllus commodus MblContig37747 transcribed RNA sequence
+GBHB01071118.1_5     -          OSK_CONSENSUS        -            1.2e-20   78.4   0.0   1.7e-20   78.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Teleogryllus commodus Locus_3566_Transcript_3/3_Confidence_0.000_Length_1282 transcribed RNA sequence
+GBHB01050627.1_6     -          OSK_CONSENSUS        -              3e-08   38.1   0.1   4.9e-08   37.4   0.1   1.3   1   0   0   1   1   1   1 TSA: Teleogryllus commodus MblContig50777 transcribed RNA sequence
+GBHB01041695.1_2     -          OSK_CONSENSUS        -                3.8   11.8   0.0       4.8   11.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Teleogryllus commodus MblContig41696 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBHB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBHB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBHB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:13 2019
+# [ok]

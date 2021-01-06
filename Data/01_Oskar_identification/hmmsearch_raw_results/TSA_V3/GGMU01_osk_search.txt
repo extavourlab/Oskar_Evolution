@@ -1,0 +1,25 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGMU01146895.1_5     -          oskar_filtered.aligned.OSK_domain -            2.8e-34  124.0   2.7   2.8e-34  124.0   2.7   1.9   2   0   0   2   2   2   1 TSA: Serangium japonicum TRINITY_DN63263_c0_g1 transcribed RNA sequence
+GGMU01005923.1_3     -          oskar_filtered.aligned.OSK_domain -            1.4e-32  118.5   0.8   1.4e-32  118.5   0.8   2.3   3   0   0   3   3   3   1 TSA: Serangium japonicum TRINITY_DN63286_c0_g1 transcribed RNA sequence
+GGMU01124058.1_6     -          oskar_filtered.aligned.OSK_domain -               0.21   16.8   3.7         6   12.1   0.3   2.4   1   1   1   2   2   2   0 TSA: Serangium japonicum TRINITY_DN73184_c2_g3 transcribed RNA sequence
+GGMU01088963.1_2     -          oskar_filtered.aligned.OSK_domain -               0.65   15.2   0.1      0.79   15.0   0.1   1.3   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN49729_c0_g1 transcribed RNA sequence
+GGMU01087166.1_6     -          oskar_filtered.aligned.OSK_domain -                1.8   13.8   0.7       2.5   13.3   0.7   1.2   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN142733_c0_g1 transcribed RNA sequence
+GGMU01106441.1_5     -          oskar_filtered.aligned.OSK_domain -                2.2   13.5   0.3       3.4   12.9   0.1   1.4   2   0   0   2   2   2   0 TSA: Serangium japonicum TRINITY_DN104476_c0_g1 transcribed RNA sequence
+GGMU01060040.1_5     -          oskar_filtered.aligned.OSK_domain -                2.3   13.5   0.6       2.5   13.3   0.6   1.1   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN77088_c0_g3 transcribed RNA sequence
+GGMU01046695.1_6     -          oskar_filtered.aligned.OSK_domain -                2.5   13.4   0.0       3.5   12.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN39038_c0_g1 transcribed RNA sequence
+GGMU01112625.1_4     -          oskar_filtered.aligned.OSK_domain -                3.4   12.9   0.3       4.8   12.4   0.3   1.3   1   1   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN50424_c0_g1 transcribed RNA sequence
+GGMU01044174.1_2     -          oskar_filtered.aligned.OSK_domain -                  4   12.7   0.4       4.5   12.5   0.4   1.0   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN78060_c0_g3 transcribed RNA sequence
+GGMU01090725.1_5     -          oskar_filtered.aligned.OSK_domain -                5.3   12.3   1.8       7.4   11.8   1.8   1.3   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN45345_c0_g1 transcribed RNA sequence
+GGMU01032996.1_4     -          oskar_filtered.aligned.OSK_domain -                6.3   12.0   0.2       8.3   11.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Serangium japonicum TRINITY_DN80894_c3_g4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGMU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:42 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_024935673.1       -          OSK_CONSENSUS        -              0.012   16.0   0.6      0.12   12.8   0.3   2.4   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X1 [Cephus cinctus]
+XP_024935674.1       -          OSK_CONSENSUS        -              0.044   14.2   0.3      0.12   12.9   0.3   1.7   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X3 [Cephus cinctus]
+XP_015610266.1       -          OSK_CONSENSUS        -               0.14   12.6   4.6      0.12   12.8   0.3   2.7   3   0   0   3   3   3   0 regulator of G-protein signaling loco isoform X2 [Cephus cinctus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000341935.1_Ccin1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000341935.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000341935.1_Ccin1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:58 2019
+# [ok]

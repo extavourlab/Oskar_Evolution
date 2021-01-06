@@ -1,0 +1,35 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEEF01095673.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-21   81.1   3.8   6.8e-17   67.5   0.0   3.1   3   0   0   3   3   3   2 TSA: Leptinotarsa decemlineata comp110970_c0_seq3 transcribed RNA sequence
+GEEF01095677.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.9e-20   76.9   8.0   1.1e-16   66.7   0.0   3.7   4   0   0   4   4   3   2 TSA: Leptinotarsa decemlineata comp110970_c0_seq7 transcribed RNA sequence
+GEEF01150335.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.3e-17   67.6   0.6   3.6e-15   61.9   0.0   3.3   3   0   0   3   3   3   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq4 transcribed RNA sequence
+GEEF01074635.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.1e-17   67.0   0.2     2e-16   65.9   0.2   1.6   1   0   0   1   1   1   1 TSA: Leptinotarsa decemlineata comp107870_c0_seq1 transcribed RNA sequence
+GEEF01150337.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   66.5   0.4   5.4e-15   61.4   0.0   3.1   3   0   0   3   3   2   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq6 transcribed RNA sequence
+GEEF01150333.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   66.4   0.4   5.4e-15   61.3   0.0   3.1   3   0   0   3   3   2   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq2 transcribed RNA sequence
+GEEF01150334.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-16   66.2   0.0     3e-16   65.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Leptinotarsa decemlineata comp117433_c0_seq3 transcribed RNA sequence
+GEEF01050812.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   57.2   0.0   1.6e-13   56.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Leptinotarsa decemlineata comp102152_c0_seq1 transcribed RNA sequence
+GEEF01151701.1_5     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-08   38.6   1.3       1.4   15.1   0.1   5.5   3   2   2   5   5   5   2 TSA: Leptinotarsa decemlineata comp117583_c0_seq3 transcribed RNA sequence
+GEEF01151703.1_5     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-08   38.6   1.3       1.4   15.1   0.1   5.5   3   2   2   5   5   5   2 TSA: Leptinotarsa decemlineata comp117583_c0_seq5 transcribed RNA sequence
+GEEF01151702.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-07   37.5   1.3       1.6   14.9   0.1   5.5   3   2   2   5   5   5   2 TSA: Leptinotarsa decemlineata comp117583_c0_seq4 transcribed RNA sequence
+GEEF01151699.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-07   37.5   1.3       1.6   14.9   0.1   5.5   3   2   2   5   5   5   2 TSA: Leptinotarsa decemlineata comp117583_c0_seq1 transcribed RNA sequence
+GEEF01044320.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.8   14.7   0.6       3.5   13.8   0.1   1.7   2   0   0   2   2   2   0 TSA: Leptinotarsa decemlineata comp98987_c0_seq1 transcribed RNA sequence
+GEEF01041149.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.3   14.4   1.5        95    9.2   0.1   2.9   3   0   0   3   3   3   0 TSA: Leptinotarsa decemlineata comp97017_c0_seq1 transcribed RNA sequence
+GEEF01100096.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.4   14.3   0.2       4.6   13.4   0.2   1.5   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp111524_c0_seq6 transcribed RNA sequence
+GEEF01100094.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.7   14.2   1.6       5.6   13.1   0.2   2.1   2   0   0   2   2   2   0 TSA: Leptinotarsa decemlineata comp111524_c0_seq4 transcribed RNA sequence
+GEEF01044321.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  3   14.0   0.6       6.4   13.0   0.1   1.8   2   0   0   2   2   1   0 TSA: Leptinotarsa decemlineata comp98987_c0_seq2 transcribed RNA sequence
+GEEF01124245.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.3   13.9   1.7         5   13.3   1.7   1.3   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp114560_c0_seq6 transcribed RNA sequence
+GEEF01132922.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.5   13.5   0.1       6.5   13.0   0.1   1.3   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp115502_c2_seq31 transcribed RNA sequence
+GEEF01025826.1_4     -          oskar_filtered.aligned.LOTUS_domain -                6.3   13.0   0.2        18   11.5   0.1   1.7   1   1   1   2   2   2   0 TSA: Leptinotarsa decemlineata comp80619_c0_seq1 transcribed RNA sequence
+GEEF01132923.1_1     -          oskar_filtered.aligned.LOTUS_domain -                6.5   12.9   0.0        11   12.2   0.0   1.5   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp115502_c2_seq32 transcribed RNA sequence
+GEEF01132904.1_3     -          oskar_filtered.aligned.LOTUS_domain -                6.7   12.9   0.0        13   12.0   0.0   1.7   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata comp115502_c2_seq13 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEEF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:27 2019
+# [ok]

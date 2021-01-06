@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCFT01008624.1_2     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-16   60.9   0.0   1.9e-15   59.8   0.0   1.5   1   0   0   1   1   1   1 TSA: Lenophila dentipes C51779_a_3_0_l_555 transcribed RNA sequence
+GCFT01007625.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-08   35.4   0.0   2.3e-07   33.8   0.0   1.7   2   0   0   2   2   2   1 TSA: Lenophila dentipes C48396_a_5_0_l_481 transcribed RNA sequence
+GCFT01002382.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.086   15.9   0.5     0.097   15.8   0.5   1.1   1   0   0   1   1   1   0 TSA: Lenophila dentipes C31627_a_3_0_l_254 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCFT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:15 2019
+# [ok]

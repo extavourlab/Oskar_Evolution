@@ -1,0 +1,850 @@
+TSA,tsa_id,order,family,species,bioproject,biosample,clean_stage,clean_sex,oskar
+GEOJ00000000.1,GEOJ,Lepidoptera,Lophocoronidae,lophocorona_astiptica,PRJNA298054,SAMN04329921,larvae,None,not found
+GBGB00000000.1,GBGB,Hemiptera,Anthocoridae,orius_laevigatus,PRJNA191591,SAMN02767604,undetermined stage,undetermined sex,not found
+GBAS00000000.1,GBAS,Lepidoptera,Castniidae,telchin_licus,PRJNA241452,SAMN02687895,undetermined stage,female,not found
+GAZA00000000.2,GAZA,Embioptera,Oligotomidae,haploembia_palaui,PRJNA219565,SAMN02047140,adult,None,not found
+GBLE00000000.1,GBLE,Hymenoptera,Chalcididae,brachymeria_minuta,PRJNA252236,SAMN02870225,adult,undetermined sex,found
+GBMX00000000.1,GBMX,Hymenoptera,Apidae,ammobates_syriacus,PRJNA252137,SAMN02870204,adult,male,not found
+GFMC00000000.1,GFMC,Hemiptera,Reduviidae,triatoma_infestans,PRJNA304741,SAMN04317638,all stages,pooled sex,not found
+GEOF00000000.1,GEOF,Lepidoptera,Tineidae,eudarcia_simulatricella,PRJNA298054,SAMN04155512,larvae,None,not found
+GBNO00000000.1,GBNO,Hymenoptera,Ampulicidae,dolichurus_corniculus,PRJNA252204,SAMN02870285,adult,male,found
+GBOQ00000000.1,GBOQ,Hymenoptera,Mutillidae,dasymutilla_gloriosa,PRJNA252348,SAMN02870273,adult,female,found
+GENM00000000.1,GENM,Lepidoptera,Psychidae,thyridopteryx_ephemeraeformis,PRJNA298054,SAMN04155515,adult,None,not found
+GBQB00000000.1,GBQB,Hymenoptera,Tenthredinidae,nematus_ribesii,PRJNA252314,SAMN02870345,adult,undetermined sex,found
+GBNG00000000.1,GBNG,Hymenoptera,Vespidae,vespula_germanica,PRJNA252254,SAMN02870439,adult,female,found
+GAUW00000000.2,GAUW,Dermaptera,Apachyidae,apachyus_charteceus,PRJNA219524,SAMN02047175,undetermined stage,female,not found
+GBQN00000000.1,GBQN,Hymenoptera,Megachilidae,megachile_willughbiella,PRJNA252282,SAMN02870335,adult,undetermined sex,not found
+GEVJ00000000.1,GEVJ,Diptera,Calliphoridae,cochliomyia_hominivorax,PRJNA324578,SAMN02776973,all stages,undetermined sex,not found
+GBQA00000000.1,GBQA,Hymenoptera,Torymidae,torymus_bedeguaris,PRJNA252313,SAMN02870430,adult,undetermined sex,found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628822,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628823,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628824,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628825,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628826,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628827,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628828,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628829,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628830,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628831,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628832,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628833,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628834,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628835,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628836,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628837,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628838,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628839,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628840,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628841,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628842,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628843,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628844,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628845,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628846,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628847,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628848,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628849,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628850,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628851,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628852,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628853,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628854,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628855,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628856,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628857,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628858,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628859,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628860,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628861,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628862,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628863,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628864,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628865,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628866,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628867,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628868,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628869,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628870,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628871,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628872,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628873,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628874,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628875,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628876,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628877,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628878,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628879,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628880,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628881,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628882,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628883,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628884,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628885,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628886,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628887,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628888,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628889,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628890,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628891,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628892,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628893,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628894,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628895,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628896,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628897,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628898,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628899,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628900,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628901,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628902,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628903,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628904,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628905,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628906,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628907,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628908,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628909,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628910,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628911,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628912,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628913,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628914,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628915,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628916,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628917,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628918,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628919,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628920,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628921,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628922,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628923,adult,female,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628924,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628925,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628926,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628927,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628928,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628929,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628930,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628931,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628932,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628933,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628934,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628935,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628936,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628937,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628938,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628939,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628940,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628941,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628942,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628943,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628944,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628945,adult,male,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628946,adult,male,not found
+GATU00000000.2,GATU,Ephemeroptera,Baetidae,baetis,PRJNA219528,SAMN02047149,adult,None,found
+GEOL00000000.1,GEOL,Lepidoptera,Palaephatidae,metaphatus_ochraceus,PRJNA298054,SAMN04155516,adult,None,not found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869673,adult,female,found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869674,adult,female,found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869675,adult,female,found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869676,adult,female,found
+GBPQ00000000.1,GBPQ,Hymenoptera,Sapygidae,sapygina_decemguttata,PRJNA252248,SAMN02870395,adult,undetermined sex,found
+GAYO00000000.2,GAYO,Odonata,Cordulegastridae,cordulegaster_boltonii,PRJNA219542,SAMN02047156,adult,male,not found
+GBNT00000000.1,GBNT,Hymenoptera,Ampulicidae,ampulex_compressa,PRJNA252218,SAMN02870206,adult,male,not found
+GAYK00000000.2,GAYK,Mecoptera,Boreidae,boreus_hyemalis,PRJNA219533,SAMN02047129,juvenil,None,found
+GCEQ00000000.1,GCEQ,Hymenoptera,Braconidae,psyttalia_lounsburyi,PRJNA262711,SAMN03085503,undetermined stage,female,not found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02672503,adult,male,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673369,adult,female,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673370,adult,female,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673371,adult,male,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673372,adult,male,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673373,adult,male,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673374,adult,male,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673377,adult,male,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673378,larvae,undetermined sex,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673379,larvae,undetermined sex,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673380,adult,male,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673381,adult,female,found
+GBOE00000000.1,GBOE,Hymenoptera,Sphecidae,chlorion_hirtum,PRJNA252145,SAMN02870238,adult,female,not found
+GBTS00000000.1,GBTS,Hymenoptera,Orussidae,orussus_unicolor,PRJNA252209,SAMN02870359,adult,undetermined sex,not found
+GBWD00000000.1,GBWD,Hymenoptera,Braconidae,macrocentrus_marginator,PRJNA252187,SAMN02870332,adult,undetermined sex,found
+GBVJ00000000.1,GBVJ,Hymenoptera,Apidae,tetraloniella_nigriceps,PRJNA252116,SAMN02870425,adult,female,not found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03120571,undetermined stage,undetermined sex,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144199,undetermined stage,undetermined sex,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144200,undetermined stage,undetermined sex,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144201,undetermined stage,undetermined sex,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144202,undetermined stage,undetermined sex,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144203,undetermined stage,undetermined sex,found
+GBUJ00000000.1,GBUJ,Hymenoptera,Colletidae,colletes_cunicularius,PRJNA252324,SAMN02870267,adult,female,not found
+GBMJ00000000.1,GBMJ,Hymenoptera,Megachilidae,lithurgus_chrysurus,PRJNA252207,SAMN02870331,adult,undetermined sex,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776850,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776851,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776852,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776853,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776854,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776855,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776856,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776857,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776858,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776859,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776860,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776861,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776862,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776863,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776864,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776865,adult,female,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776866,adult,female,not found
+GEDO00000000.1,GEDO,Lepidoptera,Crambidae,conogethes_punctiferalis,PRJNA304355,SAMN03018469,undetermined stage,undetermined sex,not found
+GEDO00000000.1,GEDO,Lepidoptera,Crambidae,conogethes_punctiferalis,PRJNA304355,SAMN03018470,undetermined stage,undetermined sex,not found
+GAWY00000000.1,GAWY,Siphonaptera,Ceratophyllidae,oropsylla_silantiewi,PRJNA237990,SAMN02058509,undetermined stage,female,not found
+GAYH00000000.2,GAYH,Neuroptera,Coniopterygidae,conwentzia_psociformis,PRJNA219541,SAMN02047107,adult,None,not found
+GBEY00000000.1,GBEY,Diptera,Tephritidae,bactrocera_minax,PRJNA246133,SAMN02687583,adult,female,not found
+GBQL00000000.1,GBQL,Hymenoptera,Pompilidae,episyron_rufipes,PRJNA252283,SAMN02870292,adult,undetermined sex,found
+GENH00000000.1,GENH,Lepidoptera,Tineidae,dryadaula_visaliella,PRJNA298054,SAMN04155510,adult,None,not found
+GEON00000000.1,GEON,Lepidoptera,Palaephatidae,palaephatus_luteolus,PRJNA298054,SAMN02370283,adult,None,found
+GBOS00000000.1,GBOS,Hymenoptera,Megaspilidae,dendrocerus_carpenteri,PRJNA252710,SAMN02870277,adult,undetermined sex,found
+GBQD00000000.1,GBQD,Hymenoptera,Sphecidae,sphex_funerarius,PRJNA252279,SAMN02870403,adult,undetermined sex,not found
+GBPM00000000.1,GBPM,Hymenoptera,Ichneumonidae,pimpla_flavicoxis,PRJNA252191,SAMN02870378,adult,undetermined sex,found
+GEWY00000000.1,GEWY,Blattodea,Rhinotermitidae,reticulitermes_flavipes,PRJNA336029,SAMN03019587,undetermined stage,female,not found
+GBVP00000000.1,GBVP,Hymenoptera,Halictidae,nomioides,PRJNA252170,SAMN02870350,adult,female,not found
+GENS00000000.1,GENS,Lepidoptera,Palaephatidae,ptyssoptera,PRJNA298054,SAMN04155508,larvae,None,found
+GENS00000000.1,GENS,Lepidoptera,Palaephatidae,ptyssoptera,PRJNA298054,SAMN04155509,larvae,None,found
+GAXC00000000.2,GAXC,Thysanoptera,Thripidae,thrips_palmi,PRJNA219609,SAMN02047112,adult,female,found
+GBLV00000000.1,GBLV,Hymenoptera,Bradynobaenidae,chyphotes,PRJNA252353,SAMN02870263,adult,male,not found
+GECL00000000.1,GECL,Hemiptera,Reduviidae,triatoma_dimidiata,PRJNA300554,SAMN04240765,5th instar nymph,pooled sex,not found
+GBLX00000000.1,GBLX,Hymenoptera,Siricidae,tremex_magus,PRJNA252117,SAMN02870431,adult,female,found
+GBVG00000000.1,GBVG,Hymenoptera,Gasteruptiidae,gasteruption_tournieri,PRJNA252337,SAMN02870301,adult,undetermined sex,found
+GBQO00000000.1,GBQO,Hymenoptera,Crabronidae,stizoides_tridentatus,PRJNA252284,SAMN02870412,adult,female,not found
+GBVI00000000.1,GBVI,Hymenoptera,Cephidae,cephus_spinipes,PRJNA252244,SAMN02870232,adult,female,not found
+GBPT00000000.1,GBPT,Hymenoptera,Halictidae,lasioglossum_xanthopus,PRJNA252253,SAMN02870325,adult,female,not found
+GBOG00000000.1,GBOG,Hymenoptera,Siricidae,sirex_noctilio,PRJNA252354,SAMN02870398,adult,male,not found
+GBWH00000000.1,GBWH,Hymenoptera,Crabronidae,crossocerus_quadrimaculatus,PRJNA252271,SAMN02870271,adult,female,not found
+GAYC00000000.2,GAYC,Neuroptera,Osmylidae,osmylus_fulvicephalus,PRJNA219587,SAMN02047166,adult,None,not found
+GATA00000000.2,GATA,Coleoptera,Meloidae,meloe_violaceus,PRJNA219578,SAMN02047136,adult,None,not found
+GEOW00000000.1,GEOW,Coleoptera,Lampyridae,photinus_pyralis,PRJNA321737,SAMN04868322,adult,male,not found
+GABK00000000.1,GABK,Megaloptera,Sialidae,sialis_lutaria,PRJNA181034,SAMN02230077,3rd instar larvae & 4th instar larvae,None,not found
+GABK00000000.1,GABK,Megaloptera,Sialidae,sialis_lutaria,PRJNA181034,SAMN02230078,adult,female,not found
+GBNL00000000.1,GBNL,Hymenoptera,Sphecidae,sceliphron_curvatum,PRJNA252261,SAMN02870396,adult,undetermined sex,not found
+GBTL00000000.1,GBTL,Hymenoptera,Apidae,tetragonula_carbonaria,PRJNA252240,SAMN02870423,adult,undetermined sex,not found
+GAVA00000000.2,GAVA,Diptera,Tachinidae,triarthria_setipennis,PRJNA219612,SAMN02047177,adult,None,found
+GAZH00000000.2,GAZH,Raphidioptera,Inocelliidae,inocellia_crassicornis,PRJNA219567,SAMN02047103,larvae,None,not found
+GECM00000000.1,GECM,Diptera,Drosophilidae,drosophila_montana,PRJNA300939,SAMN03078468,undetermined stage,undetermined sex,found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709492,undetermined stage,undetermined sex,not found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709493,undetermined stage,undetermined sex,not found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709494,undetermined stage,male,not found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709495,undetermined stage,female,not found
+GBQV00000000.1,GBQV,Hymenoptera,Apidae,tetraloniella,PRJNA252136,SAMN02870426,adult,female,not found
+GBNS00000000.1,GBNS,Hymenoptera,Crabronidae,cerceris_arenaria,PRJNA252291,SAMN02870235,adult,undetermined sex,not found
+GBVO00000000.1,GBVO,Hymenoptera,Ampulicidae,ampulex_fasciata,PRJNA252168,SAMN02870207,adult,male,not found
+GARD00000000.1,GARD,Lepidoptera,Noctuidae,athetis_lepigone,PRJNA193566,SAMN02263985,adult,female,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302192,adult,female,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302193,adult,female,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302194,adult,male,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302195,adult,male,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302196,larvae,None,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302197,larvae,None,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302198,larvae,None,not found
+GAWF00000000.1,GAWF,Phasmatodea,Diapheromeridae,sipyloidea_sipylus,PRJNA238833,SAMN02646414,undetermined stage,undetermined sex,not found
+GAYJ00000000.2,GAYJ,Zygentoma,Nicoletiidae,atelura_formicaria,PRJNA219527,SAMN02047144,adult,male,found
+GBNZ00000000.1,GBNZ,Hymenoptera,Pompilidae,heterodontonyx,PRJNA252300,SAMN02870313,adult,undetermined sex,found
+GETQ00000000.1,GETQ,Diptera,Tephritidae,rhagoletis_pomonella,PRJNA324814,SAMN04005136,undetermined stage,undetermined sex,not found
+GENN00000000.1,GENN,Lepidoptera,Tineidae,tineola_bisselliella,PRJNA298054,SAMN02370288,larvae,None,not found
+GASQ00000000.2,GASQ,Orthoptera,Tetrigidae,tetrix_subulata,PRJNA219606,SAMN02047150,adult,None,not found
+GATB00000000.2,GATB,Mantodea,Metallyticidae,metallyticus_splendidus,PRJNA219580,SAMN02047174,juvenil,female,not found
+GBKM00000000.1,GBKM,Hymenoptera,Pamphiliidae,acantholyda_hieroglyphica,PRJNA252315,SAMN02870200,adult,male,found
+GBLZ00000000.1,GBLZ,Hymenoptera,Apidae,eucera_syriaca,PRJNA252121,SAMN02870295,adult,female,not found
+GBCX00000000.1,GBCX,Coleoptera,Bothrideridae,dastarcus_helophoroides,PRJNA242452,SAMN02351150,larvae,None,found
+GBWJ00000000.1,GBWJ,Hymenoptera,Xiphydriidae,xiphydria_camelus,PRJNA252309,SAMN02870440,adult,female,not found
+GBPR00000000.1,GBPR,Hymenoptera,Crabronidae,tachysphex_fulvitarsis,PRJNA252251,SAMN02870419,adult,undetermined sex,not found
+GBNR00000000.1,GBNR,Hymenoptera,Crabronidae,gorytes_laticinctus,PRJNA252290,SAMN02870305,adult,female,not found
+GAMC00000000.1,GAMC,Diptera,Tephritidae,ceratitis_capitata,PRJNA208956,SAMN02047195,adult,None,found
+GBLS00000000.1,GBLS,Hymenoptera,Crabronidae,dinetus_pictus,PRJNA252320,SAMN02870280,adult,male,not found
+GASN00000000.2,GASN,Zygentoma,Lepismatidae,thermobia_domestica,PRJNA219608,SAMN02047139,adult,male,not found
+GEOB00000000.1,GEOB,Lepidoptera,Palaephatidae,azaleodes_micronipha,PRJNA298054,SAMN04155514,larvae,None,not found
+GBOC00000000.1,GBOC,Hymenoptera,Crabronidae,palarus_histrio,PRJNA252142,SAMN02870364,adult,female,not found
+GBWO00000000.1,GBWO,Hymenoptera,Crabronidae,trypoxylon_figulus,PRJNA252286,SAMN02870436,adult,female,not found
+GFAF00000000.1,GFAF,Hymenoptera,Braconidae,cotesia_vestalis,PRJNA227317,SAMN02401328,adult,None,found
+GFAF00000000.1,GFAF,Hymenoptera,Braconidae,cotesia_vestalis,PRJNA227317,SAMN05437583,adult,female,found
+GAUN00000000.2,GAUN,Hemiptera,Cercopidae,cercopis_vulnerata,PRJNA219537,SAMN02047155,adult,None,not found
+GBLP00000000.1,GBLP,Hymenoptera,Eulophidae,diglyphus_isaea,PRJNA252350,SAMN02870279,adult,undetermined sex,not found
+GBWX00000000.1,GBWX,Hymenoptera,Chrysididae,elampus_spina,PRJNA252148,SAMN02870288,adult,male,not found
+GBQR00000000.1,GBQR,Hymenoptera,Crabronidae,bembix_rostrata,PRJNA252270,SAMN02870220,adult,undetermined sex,not found
+GFME00000000.1,GFME,Hymenoptera,Trichogrammatidae,megaphragma_amalphitanum,PRJNA344956,SAMN05853688,undetermined stage,pooled sex,not found
+GAWX00000000.2,GAWX,Hemiptera,Aleyrodidae,trialeurodes_vaporariorum,PRJNA219611,SAMN02047126,adult,None,not found
+GBUM00000000.1,GBUM,Hymenoptera,Apidae,xylocopa_violacea,PRJNA252333,SAMN02870442,adult,male,not found
+GAST00000000.2,GAST,Lepidoptera,Lycaenidae,polyommatus_icarus,PRJNA219596,SAMN02047196,adult,None,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009840,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009841,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009842,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009843,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009844,pupae,male,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009845,pupae,male,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009846,adult,male,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009847,pupae,female,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009848,adult,female,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009849,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009850,pupae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009851,pupae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009852,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009853,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009854,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009855,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009856,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009857,pupae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009858,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009859,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009860,2nd instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009861,3rd instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009862,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009863,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009864,pupae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009865,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009866,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009867,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009868,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009869,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009870,adult,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009871,2nd instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009872,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009873,egg,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009874,egg,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009875,1st instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009876,2nd instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009877,3rd instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009878,pupae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009879,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009880,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009881,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009882,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009883,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009884,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009885,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009886,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009887,4th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009888,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009889,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009890,5th instar larvae,undetermined sex,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009891,5th instar larvae,undetermined sex,not found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010448,adult,pooled sex,found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010449,pupae,pooled sex,found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010450,larvae,pooled sex,found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010451,egg,pooled sex,found
+GAXB00000000.2,GAXB,Mantophasmatodea,Tanzaniophasmatidae,tanzaniophasma,PRJNA219604,SAMN02047176,undetermined stage,male,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704890,adult,male,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704948,adult,male,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704952,adult,male,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704957,adult,male,not found
+GBZD00000000.1,GBZD,Lepidoptera,Saturniidae,samia_ricini,PRJNA269319,SAMN03252612,undetermined stage,undetermined sex,not found
+GBNN00000000.1,GBNN,Hymenoptera,Crabronidae,nysson_niger,PRJNA252266,SAMN02870351,adult,male,not found
+GAXO00000000.1,GAXO,Hymenoptera,Chrysididae,argochrysis_armilla,PRJNA195615,SAMN02444020,undetermined stage,male,found
+GAXO00000000.1,GAXO,Hymenoptera,Chrysididae,argochrysis_armilla,PRJNA195615,SAMN02444021,undetermined stage,female,found
+GAXO00000000.1,GAXO,Hymenoptera,Chrysididae,argochrysis_armilla,PRJNA195615,SAMN02444022,undetermined stage,male,found
+GAXO00000000.1,GAXO,Hymenoptera,Chrysididae,argochrysis_armilla,PRJNA195615,SAMN02444023,undetermined stage,female,found
+GBPZ00000000.1,GBPZ,Hymenoptera,Megachilidae,coelioxys_conoidea,PRJNA252269,SAMN02870266,adult,undetermined sex,not found
+GAWK00000000.2,GAWK,Siphonaptera,Ceratophyllidae,ceratophyllus_gallinae,PRJNA219536,SAMN02047147,adult,None,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712421,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712422,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712423,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712424,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712425,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712426,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712427,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712428,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712429,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712430,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712431,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712432,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712433,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712434,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712435,5th instar larvae,female,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712436,5th instar larvae,female,not found
+GBQF00000000.1,GBQF,Hymenoptera,Apidae,bombus_rupestris,PRJNA252285,SAMN02870222,adult,female,not found
+GBNQ00000000.1,GBNQ,Hymenoptera,Mutillidae,smicromyrme_rufipes,PRJNA252275,SAMN02870399,adult,undetermined sex,found
+GBPY00000000.1,GBPY,Hymenoptera,Sphecidae,isodontia_mexicana,PRJNA252264,SAMN02870321,adult,undetermined sex,not found
+GFDL00000000.1,GFDL,Diptera,Culicidae,culex_tarsalis,PRJNA360148,SAMN06204222,adult,None,found
+GDAW00000000.1,GDAW,Hemiptera,Miridae,lygus_lineolaris,PRJNA280549,SAMN02743534,undetermined stage,undetermined sex,not found
+GBWI00000000.1,GBWI,Hymenoptera,Crabronidae,philanthus_triangulum,PRJNA252273,SAMN02870374,adult,undetermined sex,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435271,undetermined stage,undetermined sex,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435272,undetermined stage,undetermined sex,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435273,undetermined stage,undetermined sex,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435274,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435275,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435276,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435277,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435278,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435279,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435280,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435281,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435282,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435283,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435284,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435285,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435286,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435287,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435288,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435289,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435290,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435291,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435292,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435293,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435294,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435295,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435296,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435297,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435298,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435299,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435300,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435301,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435302,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435303,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435304,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435305,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435306,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435307,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435308,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435309,undetermined stage,male,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435310,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435311,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435312,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435313,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435314,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435315,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435316,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435317,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435318,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435319,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435320,undetermined stage,female,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435321,undetermined stage,female,not found
+GBXI00000000.1,GBXI,Diptera,Tephritidae,bactrocera_cucurbitae,PRJNA259566,SAMN03252614,undetermined stage,undetermined sex,found
+GBZE00000000.1,GBZE,Lepidoptera,Saturniidae,rhodinia_newara,PRJNA269319,SAMN02940944,all stages,female,not found
+GBOB00000000.1,GBOB,Hymenoptera,Crabronidae,sphecius_convallis,PRJNA252349,SAMN02870401,adult,male,not found
+GCRH00000000.1,GCRH,Hymenoptera,Plumariidae,plumarius_gradifrons,PRJNA272310,SAMN03287655,adult,male,not found
+GAWG00000000.1,GAWG,Phasmatodea,Phasmatidae,extatosoma_tiaratum,PRJNA238833,SAMN02646411,undetermined stage,female,not found
+GBQH00000000.1,GBQH,Hymenoptera,Crabronidae,pemphredon_lugens,PRJNA252288,SAMN02870371,adult,undetermined sex,not found
+GBTU00000000.1,GBTU,Hymenoptera,Eucharitidae,orasema_simulatrix,PRJNA252165,SAMN02870357,adult,undetermined sex,not found
+GBWF00000000.1,GBWF,Hymenoptera,Halictidae,systropha_curvicornis,PRJNA252259,SAMN02870418,adult,female,not found
+GCKB00000000.1,GCKB,Coleoptera,Nitidulidae,aethina_tumida,PRJNA256171,SAMN02617556,undetermined stage,undetermined sex,not found
+GENX00000000.1,GENX,Lepidoptera,Agathiphagidae,agathiphaga_queenslandensis,PRJNA298054,SAMN04155511,adult,None,not found
+GBNW00000000.1,GBNW,Hymenoptera,Crabronidae,pseudoscolia_sinaitica,PRJNA252146,SAMN02870389,adult,male,not found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863001,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863002,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863003,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863004,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863005,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863006,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863007,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863008,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863009,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863010,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863011,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863012,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863013,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863014,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863015,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863016,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863017,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863018,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863019,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863020,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863021,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863022,undetermined stage,female,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863023,undetermined stage,male,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863024,undetermined stage,male,found
+GBTF00000000.1,GBTF,Hymenoptera,Braconidae,dacnusa_sibirica,PRJNA252198,SAMN02870272,adult,undetermined sex,found
+GBWC00000000.1,GBWC,Hymenoptera,Ichneumonidae,ichneumon_albiger,PRJNA252186,SAMN02870319,adult,undetermined sex,not found
+GAMD00000000.1,GAMD,Diptera,Culicidae,anopheles_aquasalis,PRJNA210899,SAMN02206474,adult,female,found
+GBLF00000000.1,GBLF,Hymenoptera,Andrenidae,andrena_vaga,PRJNA252325,SAMN02870209,adult,undetermined sex,not found
+GBTQ00000000.1,GBTQ,Hymenoptera,Crabronidae,lestica_clypeata,PRJNA252220,SAMN02870328,adult,male,not found
+GDAI00000000.1,GDAI,Diptera,Tabanidae,tabanus_bromius,PRJNA283639,SAMN02378353,adult,female,not found
+GBUY00000000.1,GBUY,Hymenoptera,Braconidae,aleiodes_testaceus,PRJNA252222,SAMN02870202,adult,undetermined sex,found
+GAYB00000000.2,GAYB,Lepidoptera,Zygaenidae,zygaena_fausta,PRJNA219621,SAMN02047168,juvenil,None,not found
+GBZC00000000.1,GBZC,Lepidoptera,Saturniidae,antheraea_assama,PRJNA269319,SAMN03252611,undetermined stage,undetermined sex,not found
+GFMK00000000.1,GFMK,Hemiptera,Reduviidae,meccus_pallidipennis,PRJNA304741,SAMN04317640,all stages,pooled sex,not found
+GBWG00000000.1,GBWG,Hymenoptera,Crabronidae,crabro_peltarius,PRJNA252268,SAMN02870270,adult,undetermined sex,not found
+GECU00000000.1,GECU,Hemiptera,Cicadellidae,homalodisca_liturata,PRJNA303151,SAMN04292971,adult,None,not found
+GECU00000000.1,GECU,Hemiptera,Cicadellidae,homalodisca_liturata,PRJNA303151,SAMN04292972,adult,None,not found
+GECU00000000.1,GECU,Hemiptera,Cicadellidae,homalodisca_liturata,PRJNA303151,SAMN04292973,adult,None,not found
+GBVT00000000.1,GBVT,Hymenoptera,Ichneumonidae,netelia_testacea,PRJNA252199,SAMN02870346,adult,undetermined sex,found
+GBER00000000.1,GBER,Hemiptera,Pentatomidae,euschistus_heros,PRJNA246125,SAMN02903331,undetermined stage,female,not found
+GBQU00000000.1,GBQU,Hymenoptera,Crabronidae,nitela,PRJNA252134,SAMN02870347,adult,undetermined sex,not found
+GEDC00000000.1,GEDC,Hemiptera,Clastopteridae,clastoptera_arizonana,PRJNA303152,SAMN04607348,adult,female,not found
+GEDC00000000.1,GEDC,Hemiptera,Clastopteridae,clastoptera_arizonana,PRJNA303152,SAMN04607357,undetermined stage,male,not found
+GEDC00000000.1,GEDC,Hemiptera,Clastopteridae,clastoptera_arizonana,PRJNA303152,SAMN04607362,undetermined stage,male,not found
+GBWV00000000.1,GBWV,Hymenoptera,Megachilidae,stelis_punctulatissima,PRJNA252295,SAMN02870408,adult,undetermined sex,not found
+GBPU00000000.1,GBPU,Hymenoptera,Apidae,ceratina_chalybea,PRJNA252255,SAMN02870234,adult,female,not found
+GEDB00000000.1,GEDB,Hymenoptera,Vespidae,polistes_dominula,PRJNA291219,SAMN02934455,undetermined stage,female,not found
+GBTZ00000000.1,GBTZ,Hymenoptera,Tiphiidae,methocha_articulata,PRJNA252277,SAMN02870341,adult,female,found
+GBWY00000000.1,GBWY,Hymenoptera,Sapygidae,sapyga_quinquepunctata,PRJNA252302,SAMN02870394,adult,female,found
+GBWU00000000.1,GBWU,Hymenoptera,Cynipidae,pediaspis_aceris,PRJNA252312,SAMN02870369,adult,undetermined sex,found
+GBMY00000000.1,GBMY,Hymenoptera,Ichneumonidae,ophion,PRJNA252150,SAMN02870356,adult,undetermined sex,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029109,larvae,None,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029110,larvae,None,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029111,larvae,None,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029112,larvae,None,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029113,larvae,None,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029114,larvae,None,not found
+GEOC00000000.1,GEOC,Lepidoptera,Eriocraniidae,dyseriocrania_griseocapitella,PRJNA298054,SAMN04155506,larvae,None,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256981,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256982,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256983,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256984,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256985,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256986,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256987,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256988,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256989,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256990,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256991,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256992,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256993,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256994,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256995,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256996,adult,female,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256997,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256998,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256999,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257000,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257001,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257002,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257003,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257004,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257005,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257006,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257007,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257008,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257009,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257010,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257011,adult,male,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257012,adult,male,not found
+GBNF00000000.1,GBNF,Hymenoptera,Crabronidae,harpactus_elegans,PRJNA252247,SAMN02870308,adult,male,not found
+GBWM00000000.1,GBWM,Hymenoptera,Braconidae,diaeretus_essigellae,PRJNA252278,SAMN02870278,adult,undetermined sex,not found
+GBTM00000000.1,GBTM,Hymenoptera,Apidae,anthophora_plumipes,PRJNA252326,SAMN02870212,adult,male,not found
+GBWS00000000.1,GBWS,Hymenoptera,Aulacidae,aulacus_burquei,PRJNA252132,SAMN02870218,adult,undetermined sex,found
+GECK00000000.1,GECK,Hemiptera,Reduviidae,rhodnius_prolixus,PRJNA281760,SAMN03496284,nymph,pooled sex,not found
+GECK00000000.1,GECK,Hemiptera,Reduviidae,rhodnius_prolixus,PRJNA281760,SAMN03496285,adult,male,not found
+GECK00000000.1,GECK,Hemiptera,Reduviidae,rhodnius_prolixus,PRJNA281760,SAMN03496286,adult,female,not found
+GEBQ00000000.1,GEBQ,Hemiptera,Cicadellidae,graphocephala_atropunctata,PRJNA299492,SAMN04293489,adult,None,not found
+GEBQ00000000.1,GEBQ,Hemiptera,Cicadellidae,graphocephala_atropunctata,PRJNA299492,SAMN04293490,adult,None,not found
+GEBQ00000000.1,GEBQ,Hemiptera,Cicadellidae,graphocephala_atropunctata,PRJNA299492,SAMN04293491,adult,None,not found
+GBUP00000000.1,GBUP,Hymenoptera,Scelionidae,trissolcus_semistriatus,PRJNA252237,SAMN02870435,adult,undetermined sex,found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444008,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444009,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444010,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444011,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444012,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444013,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444014,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444015,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444016,undetermined stage,male,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444017,undetermined stage,female,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444018,undetermined stage,female,not found
+GAXN00000000.1,GAXN,Hymenoptera,Sphecidae,sceliphron_caementarium,PRJNA195615,SAMN02444019,undetermined stage,pooled sex,not found
+GENP00000000.1,GENP,Lepidoptera,Acanthopteroctetidae,acanthopteroctetes_unifascia,PRJNA298054,SAMN04155521,adult,None,not found
+GBUO00000000.1,GBUO,Hymenoptera,Diprionidae,diprion_pini,PRJNA252226,SAMN02870283,adult,undetermined sex,found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932798,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932799,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932800,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932801,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932802,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932803,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932804,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932805,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932806,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932807,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932808,adult & 3rd instar larvae,undetermined sex,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932809,adult & 3rd instar larvae,undetermined sex,not found
+GAYD00000000.2,GAYD,Blattodea,Blaberidae,blaberus_atropos,PRJNA219531,SAMN02047121,undetermined stage,male,not found
+GAVW00000000.2,GAVW,Odonata,Epiophlebiidae,epiophlebia_superstes,PRJNA219553,SAMN02047171,adult,male,not found
+GBOM00000000.1,GBOM,Hymenoptera,Sphecidae,chalybion_californicum,PRJNA252298,SAMN02870236,adult,male,not found
+GBXA00000000.1,GBXA,Hymenoptera,Chrysididae,parnopes_grandior,PRJNA252317,SAMN02870367,adult,undetermined sex,found
+GECN00000000.1,GECN,Hymenoptera,Braconidae,diachasma_alloeum,PRJNA283787,SAMN04302192,adult,female,found
+GBLR00000000.1,GBLR,Hymenoptera,Apidae,thyreus_orbatus,PRJNA252319,SAMN02870428,adult,male,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464013,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464014,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464015,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464016,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464017,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464018,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464019,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464020,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464021,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464022,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464023,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464024,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464115,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464116,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464117,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464118,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464119,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464120,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464121,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464122,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464123,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464124,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464125,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464126,adult,female,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464127,adult,female,not found
+GBNY00000000.1,GBNY,Hymenoptera,Cynipidae,andricus_quercuscalicis,PRJNA252297,SAMN02870210,adult,female,not found
+GAWW00000000.2,GAWW,Hymenoptera,Tenthredinidae,tenthredo_koehleri,PRJNA219605,SAMN02047159,adult,None,found
+GATX00000000.1,GATX,Trichoptera,None,annulipalpia,PRJNA219539,SAMN03024153,undetermined stage,undetermined sex,not found
+GEZY00000000.1,GEZY,Coleoptera,Curculionidae,sitophilus_oryzae,PRJNA341819,SAMN04012687,4th instar larvae,None,found
+GEZY00000000.1,GEZY,Coleoptera,Curculionidae,sitophilus_oryzae,PRJNA341819,SAMN04012688,4th instar larvae,None,found
+GEZY00000000.1,GEZY,Coleoptera,Curculionidae,sitophilus_oryzae,PRJNA341819,SAMN04012689,4th instar larvae,None,found
+GBQI00000000.1,GBQI,Hymenoptera,Sphecidae,prionyx_kirbii,PRJNA252299,SAMN02870385,adult,undetermined sex,not found
+GDQN00000000.1,GDQN,Lepidoptera,Gelechiidae,pectinophora_gossypiella,PRJNA293973,SAMN03658569,undetermined stage,undetermined sex,not found
+GBQS00000000.1,GBQS,Hymenoptera,Vespidae,vespa_crabro,PRJNA252305,SAMN02870438,adult,female,found
+GBNI00000000.1,GBNI,Hymenoptera,Apidae,tetralonia_malvae,PRJNA252260,SAMN02870424,adult,female,not found
+GCDX00000000.1,GCDX,Hymenoptera,Braconidae,psyttalia_concolor,PRJNA262710,SAMN03447158,undetermined stage,female,not found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535804,adult,female,not found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535805,adult,female,not found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535806,adult,female,not found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535807,adult,male,not found
+GBWA00000000.1,GBWA,Hymenoptera,Cynipidae,synergus_umbraculus,PRJNA252181,SAMN02870416,adult,undetermined sex,not found
+GAXW00000000.2,GAXW,Neuroptera,Myrmeleontidae,euroleon_nostras,PRJNA219555,SAMN02047165,adult,None,not found
+GASW00000000.2,GASW,Mantodea,Mantidae,mantis_religiosa,PRJNA219575,SAMN02047157,adult,None,not found
+GATC00000000.2,GATC,Lepidoptera,Adelidae,nemophora_degeerella,PRJNA219581,SAMN02047142,adult,None,found
+GEOP00000000.1,GEOP,Lepidoptera,Palaephatidae,palaephatus_nielseni,PRJNA298054,SAMN04155519,adult,None,not found
+GBCU00000000.1,GBCU,Hymenoptera,Braconidae,aphidius_ervi,PRJNA235942,SAMN02640258,undetermined stage,undetermined sex,not found
+GFDG00000000.1,GFDG,Diptera,Muscidae,haematobia_irritans,PRJNA359481,SAMN06192181,adult,None,not found
+GFDG00000000.1,GFDG,Diptera,Muscidae,haematobia_irritans,PRJNA359481,SAMN06192182,adult,None,not found
+GEOA00000000.1,GEOA,Lepidoptera,Andesianidae,andesiana_lamellata,PRJNA298054,SAMN04155513,adult,None,not found
+GBPI00000000.1,GBPI,Hymenoptera,Siricidae,urocerus_augur,PRJNA252157,SAMN02870437,adult,male,found
+GAZD00000000.2,GAZD,Diptera,Chloropidae,lipara_lucens,PRJNA219572,SAMN02047163,adult,None,found
+GBNH00000000.1,GBNH,Hymenoptera,Crabronidae,psenulus_fuscipennis,PRJNA252256,SAMN02870386,adult,undetermined sex,not found
+GDDM00000000.1,GDDM,Lepidoptera,Lymantriidae,lymantria_dispar,PRJNA80181,SAMN03464333,adult,pooled sex,not found
+GBQK00000000.1,GBQK,Hymenoptera,Megachilidae,heriades_truncorum,PRJNA252294,SAMN02870312,adult,undetermined sex,not found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349349,5th instar larvae,undetermined sex,found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349350,adult,female,found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349351,adult,male,found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349352,adult,female,found
+GATH00000000.2,GATH,Mecoptera,Bittacidae,bittacus_pilicornis,PRJNA219530,SAMN03344737,adult,pooled sex,not found
+GAWD00000000.1,GAWD,Phasmatodea,Phasmatidae,medauroidea_extradentata,PRJNA238833,SAMN02646412,undetermined stage,female,not found
+GBVH00000000.1,GBVH,Hymenoptera,Xyelidae,xyela_alpigena,PRJNA252242,SAMN02870441,adult,undetermined sex,found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058407,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058408,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058409,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058410,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058411,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058412,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058413,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058414,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058415,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058416,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058417,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058418,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058419,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058420,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058421,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058422,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058423,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058424,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058425,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058426,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058427,adult,female,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058428,adult,female,not found
+GBPO00000000.1,GBPO,Hymenoptera,Crabronidae,pison_atrum,PRJNA252200,SAMN02870379,adult,undetermined sex,not found
+GAUF00000000.2,GAUF,Plecoptera,Leuctridae,leuctra,PRJNA219571,SAMN02047153,adult,None,found
+GBVM00000000.1,GBVM,Hymenoptera,Ibaliidae,ibalia_leucospoides,PRJNA252355,SAMN02870318,adult,female,not found
+GBUQ00000000.1,GBUQ,Hymenoptera,Diapriidae,trichopria_drosophilae,PRJNA252238,SAMN02870433,adult,undetermined sex,found
+GBVK00000000.1,GBVK,Hymenoptera,Melittidae,melitta_haemorrhoidalis,PRJNA252208,SAMN02870337,adult,undetermined sex,not found
+GATV00000000.2,GATV,Plecoptera,Perlidae,perla_marginata,PRJNA219591,SAMN02047115,adult,female,not found
+GBUK00000000.1,GBUK,Hymenoptera,Megachilidae,osmia_cornuta,PRJNA252331,SAMN02870360,adult,undetermined sex,not found
+GAYP00000000.2,GAYP,Siphonaptera,Pulicidae,ctenocephalides_felis,PRJNA219547,SAMN02047158,adult,None,not found
+GBTY00000000.1,GBTY,Hymenoptera,Halictidae,dufourea_dentiventris,PRJNA252203,SAMN02870287,adult,male,not found
+GBUH00000000.1,GBUH,Coleoptera,Chrysomelidae,chrysomela_populi,PRJNA212154,SAMN03857491,undetermined stage,female,not found
+GBVE00000000.1,GBVE,Hymenoptera,Braconidae,aphidius_colemani,PRJNA252352,SAMN02870214,adult,undetermined sex,not found
+GBNX00000000.1,GBNX,Hymenoptera,Melittidae,macropis_fulvipes,PRJNA252296,SAMN02870333,adult,undetermined sex,not found
+GBHB00000000.1,GBHB,Orthoptera,Gryllidae,teleogryllus_commodus,PRJNA252786,SAMN02727808,undetermined stage,undetermined sex,not found
+GBQJ00000000.1,GBQJ,Hymenoptera,Scoliidae,scolia_hirta,PRJNA252276,SAMN02870397,adult,female,not found
+GBME00000000.1,GBME,Hymenoptera,Andrenidae,panurgus_dentipes,PRJNA252205,SAMN02870365,adult,undetermined sex,not found
+GBMA00000000.1,GBMA,Hymenoptera,Crabronidae,diodontus_minutus,PRJNA252322,SAMN02870281,adult,undetermined sex,not found
+GEOG00000000.1,GEOG,Lepidoptera,Heterobathmiidae,heterobathmia_pseuderiocrania,PRJNA298054,SAMN04155520,adult,None,not found
+GDLS00000000.1,GDLS,Coleoptera,Curculionidae,hypothenemus_hampei,PRJNA279497,SAMN04002516,undetermined stage,pooled sex,found
+GEOU00000000.1,GEOU,Lepidoptera,Tischeriidae,tischeria_quercitella,PRJNA298054,SAMN04155522,adult,None,not found
+GAZE00000000.2,GAZE,Blattodea,Mastotermitidae,mastotermes_darwiniensis,PRJNA219576,SAMN02047182,adult,None,not found
+GBVD00000000.1,GBVD,Hymenoptera,Ceraphronidae,ceraphron,PRJNA252127,SAMN02870233,adult,female,found
+GBUN00000000.1,GBUN,Hymenoptera,Chrysididae,cleptes_nitidulus,PRJNA252328,SAMN02870265,adult,male,not found
+GASG00000000.2,GASG,Lepidoptera,Yponomeutidae,yponomeuta_evonymellus,PRJNA219619,SAMN02047113,adult,None,not found
+GBVU00000000.1,GBVU,Hymenoptera,Pelecinidae,pelecinus_polyturator,PRJNA252202,SAMN02870370,adult,male,found
+GEOT00000000.1,GEOT,Lepidoptera,Opostegidae,pseudopostega_quadristrigella,PRJNA298054,SAMN04155518,adult,None,not found
+GBEB00000000.1,GBEB,Hymenoptera,Pteromalidae,nasonia_vitripennis,PRJNA240970,SAMN02689937,undetermined stage,neuter,found
+GBON00000000.1,GBON,Hymenoptera,Crabronidae,dryudella_pinguis,PRJNA252123,SAMN02870286,adult,male,not found
+GASE00000000.2,GASE,Blattodea,Rhinotermitidae,prorhinotermes_simplex,PRJNA219597,SAMN02047105,adult,None,not found
+GFCQ00000000.1,GFCQ,Blattodea,Blattidae,periplaneta_americana,PRJNA356979,SAMN06130820,adult,male,found
+GBOY00000000.1,GBOY,Hymenoptera,Crabronidae,mellinus_arvensis,PRJNA252206,SAMN02870338,adult,undetermined sex,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727541,5th instar larvae,undetermined sex,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727571,5th instar larvae,undetermined sex,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727611,adult,male,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727612,adult,female,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727613,5th instar larvae,undetermined sex,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727614,adult,female,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727615,adult,female,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727616,adult,female,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727617,adult,male,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727618,adult,male,not found
+GBPE00000000.1,GBPE,Hymenoptera,Ichneumonidae,hyposoter_didymator,PRJNA252197,SAMN02870317,adult,male,not found
+GBVF00000000.1,GBVF,Hymenoptera,Blasticotomidae,blasticotoma_filiceti,PRJNA252334,SAMN02870221,larvae,undetermined sex,not found
+GAUV00000000.2,GAUV,Hemiptera,Acanthosomatidae,acanthosoma_haemorrhoidale,PRJNA219520,SAMN02047154,adult,None,not found
+GAXD00000000.1,GAXD,Thysanoptera,Thripidae,frankliniella_occidentalis,PRJNA234733,SAMN02208942,all stages,None,not found
+GBOK00000000.1,GBOK,Hymenoptera,Tiphiidae,meria_tripunctata,PRJNA252267,SAMN02870339,adult,undetermined sex,found
+GBPW00000000.1,GBPW,Hymenoptera,Apidae,epeolus_variegatus,PRJNA252262,SAMN02870291,adult,undetermined sex,not found
+GBWN00000000.1,GBWN,Hymenoptera,Tiphiidae,tiphia_femorata,PRJNA252281,SAMN02870429,adult,undetermined sex,found
+GAVV00000000.2,GAVV,Neuroptera,Chrysopidae,pseudomallada_prasinus,PRJNA219548,SAMN02047125,juvenil,None,not found
+GBOA00000000.1,GBOA,Hymenoptera,Crabronidae,spilomena_beata,PRJNA252217,SAMN02870404,adult,undetermined sex,not found
+GAUJ00000000.2,GAUJ,Hymenoptera,Orussidae,orussus_abietinus,PRJNA219586,SAMN02047118,adult,None,not found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776881,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776882,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776883,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776884,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776885,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776886,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776887,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776888,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776889,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776890,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776891,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776892,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776893,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776894,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776895,adult,female,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776896,adult,female,found
+GFCX00000000.1,GFCX,Lepidoptera,Saturniidae,antheraea_pernyi,PRJNA357974,SAMN06163070,undetermined stage,pooled sex,not found
+GAVM00000000.2,GAVM,Trichoptera,Hydroptilidae,hydroptila,PRJNA219566,SAMN03656147,adult,female,found
+GAVM00000000.2,GAVM,Trichoptera,Hydroptilidae,hydroptila,PRJNA219566,SAMN03656148,adult,male,found
+GBNJ00000000.1,GBNJ,Hymenoptera,Trigonalidae,pseudogonalos_hahnii,PRJNA252341,SAMN02870387,adult,male,not found
+GEOO00000000.1,GEOO,Lepidoptera,Hepialidae,phymatopus_californicus,PRJNA298054,SAMN02370274,adult,None,not found
+GEYN00000000.1,GEYN,Lepidoptera,Plutellidae,plutella_xylostella,PRJNA335320,SAMN05440352,adult,None,not found
+GFBD00000000.1,GFBD,Hymenoptera,Formicidae,camponotus_fellah,PRJNA339034,SAMN05578870,adult,female,not found
+GFBD00000000.1,GFBD,Hymenoptera,Formicidae,camponotus_fellah,PRJNA339034,SAMN05578871,adult,female,not found
+GAWT00000000.2,GAWT,Mantodea,Empusidae,empusa_pennata,PRJNA219551,SAMN02047152,adult,None,not found
+GBTP00000000.1,GBTP,Hymenoptera,Argidae,aproceros_leucopoda,PRJNA252225,SAMN02870215,adult,female,not found
+GBMP00000000.1,GBMP,Hymenoptera,Melittidae,dasypoda_hirtipes,PRJNA252212,SAMN02870274,adult,female,not found
+GBPN00000000.1,GBPN,Hymenoptera,Megachilidae,chelostoma_florisomne,PRJNA252249,SAMN02870237,adult,undetermined sex,not found
+GBRX00000000.1,GBRX,Diptera,Glossinidae,glossina_palpalis,PRJNA260242,SAMN04208332,adult,None,found
+GBRX00000000.1,GBRX,Diptera,Glossinidae,glossina_palpalis,PRJNA260242,SAMN04208333,adult,None,found
+GBRX00000000.1,GBRX,Diptera,Glossinidae,glossina_palpalis,PRJNA260242,SAMN04208334,adult,None,found
+GBLN00000000.1,GBLN,Hymenoptera,Mymaridae,gonatocerus_morrilli,PRJNA252129,SAMN02870303,adult,undetermined sex,found
+GDKB00000000.1,GDKB,Lepidoptera,Tortricidae,cydia_pomonella,PRJNA289066,SAMN04168647,adult,pooled sex,not found
+GEZZ00000000.1,GEZZ,Hymenoptera,Ichneumonidae,diadromus_collaris,PRJNA225661,SAMN02388840,undetermined stage,female,found
+GEZZ00000000.1,GEZZ,Hymenoptera,Ichneumonidae,diadromus_collaris,PRJNA225661,SAMN05824024,adult,female,found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447928,adult,female,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447934,adult,female,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447940,adult,female,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447946,adult,female,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447948,adult,female,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447954,adult,female,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447960,adult,female,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447964,adult,female,not found
+GBKZ00000000.1,GBKZ,Hymenoptera,Halictidae,sphecodes_albilabris,PRJNA252332,SAMN02870402,adult,female,not found
+GAWJ00000000.2,GAWJ,Phasmatodea,Pseudophasmatidae,peruphasma_schultei,PRJNA219592,SAMN02047114,adult,None,not found
+GBPG00000000.1,GBPG,Hymenoptera,Apidae,eucera_nigrescens,PRJNA252141,SAMN02870293,adult,male,not found
+GEOV00000000.1,GEOV,Lepidoptera,Prodoxidae,tegeticula_yuccasella,PRJNA298054,SAMN04155523,adult,None,not found
+GBOR00000000.1,GBOR,Hymenoptera,Ichneumonidae,syrphophilus_tricinctorius,PRJNA252166,SAMN02870417,adult,undetermined sex,found
+GBQG00000000.1,GBQG,Hymenoptera,Megalodontesidae,megalodontes_cephalotes,PRJNA252287,SAMN02870336,adult,undetermined sex,found
+GBNC00000000.1,GBNC,Hymenoptera,Scelionidae,telenomus,PRJNA252183,SAMN02870422,adult,undetermined sex,found
+GBND00000000.1,GBND,Hymenoptera,Ichneumonidae,buathra_laborator,PRJNA252196,SAMN02870227,adult,female,found
+GBLA00000000.1,GBLA,Hymenoptera,Apidae,nomada_lathburiana,PRJNA252330,SAMN02870348,adult,female,not found
+GBPV00000000.1,GBPV,Hymenoptera,Pompilidae,auplopus_albifrons,PRJNA252258,SAMN02870219,adult,undetermined sex,found
+GBMT00000000.1,GBMT,Hymenoptera,Sphecidae,ammophila_sabulosa,PRJNA252224,SAMN02870205,adult,female,not found
+GBLU00000000.1,GBLU,Hymenoptera,Crabronidae,oxybelus_bipunctatus,PRJNA252321,SAMN02870362,adult,undetermined sex,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679940,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679941,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679942,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679943,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679944,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679945,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679946,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679947,undetermined stage,female,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679948,undetermined stage,female,not found
+GAYM00000000.2,GAYM,Odonata,Calopterygidae,calopteryx_splendens,PRJNA219534,SAMN02047184,adult,None,not found
+GAKB00000000.1,GAKB,Diptera,Tephritidae,bactrocera_oleae,PRJNA195424,SAMN02222160,adult,female,not found
+GAKB00000000.1,GAKB,Diptera,Tephritidae,bactrocera_oleae,PRJNA195424,SAMN02222161,adult,female,not found
+GAKB00000000.1,GAKB,Diptera,Tephritidae,bactrocera_oleae,PRJNA195424,SAMN02222162,adult,male,not found
+GAKB00000000.1,GAKB,Diptera,Tephritidae,bactrocera_oleae,PRJNA195424,SAMN02222163,adult,male,not found
+GBJX00000000.1,GBJX,Hemiptera,Adelgidae,adelges_tsugae,PRJNA242203,SAMN02776975,all stages,undetermined sex,not found
+GBZJ00000000.1,GBZJ,Lepidoptera,Saturniidae,antheraea_yamamai,PRJNA269319,SAMN03252610,undetermined stage,undetermined sex,not found
+GBBQ00000000.1,GBBQ,Diptera,Diopsidae,teleopsis_whitei,PRJNA241109,SAMN02427181,all stages,None,not found
+GBOI00000000.1,GBOI,Hymenoptera,Andrenidae,camptopoeum_sacrum,PRJNA252153,SAMN02870228,adult,undetermined sex,not found
+GBOU00000000.1,GBOU,Hymenoptera,Crabronidae,liris,PRJNA252147,SAMN02870330,adult,undetermined sex,not found
+GAUI00000000.2,GAUI,Raphidioptera,Raphidiidae,xanthostigma_xanthostigma,PRJNA219617,SAMN02047106,adult,female,not found
+GBPS00000000.1,GBPS,Hymenoptera,Colletidae,hylaeus_variegatus,PRJNA252252,SAMN02870316,adult,undetermined sex,not found
+GCJP00000000.1,GCJP,Lepidoptera,Geometridae,biston_suppressaria,PRJNA273898,SAMN03982873,undetermined stage,female,not found
+GBQM00000000.1,GBQM,Hymenoptera,Scoliidae,colpa_sexmaculata,PRJNA252303,SAMN02870268,adult,male,not found
+GAWE00000000.1,GAWE,Phasmatodea,Phasmatidae,ramulus_artemis,PRJNA238833,SAMN02646413,undetermined stage,female,not found
+GBVL00000000.1,GBVL,Hymenoptera,Crabronidae,passaloecus_eremita,PRJNA252213,SAMN02870368,adult,female,not found
+GATJ00000000.2,GATJ,Diptera,Bibionidae,bibio_marci,PRJNA219529,SAMN02047145,adult,None,not found
+GBWP00000000.1,GBWP,Hymenoptera,Halictidae,nomia_diversipes,PRJNA252293,SAMN02870349,adult,male,not found
+GBLY00000000.1,GBLY,Hymenoptera,Apidae,eucera_plumigera,PRJNA252119,SAMN02870294,adult,male,not found
+GBNB00000000.1,GBNB,Hymenoptera,Crabronidae,stizus_continuus,PRJNA252182,SAMN02870413,adult,male,not found
+GBQP00000000.1,GBQP,Hymenoptera,Halictidae,halictus_quadricinctus,PRJNA252292,SAMN02870307,adult,female,not found
+GBQE00000000.1,GBQE,Hymenoptera,Bethylidae,cephalonomia_tarsalis,PRJNA252280,SAMN02870230,adult,undetermined sex,found
+GAUO00000000.2,GAUO,Hemiptera,Veliidae,velia_caprai,PRJNA219616,SAMN02047131,adult,None,not found
+GEEF00000000.1,GEEF,Coleoptera,Chrysomelidae,leptinotarsa_decemlineata,PRJNA297027,SAMN03653681,adult,female,found
+GDVG00000000.1,GDVG,Phasmatodea,Phasmatidae,clitarchus_hookeri,PRJNA286351,SAMN05001774,adult,male,not found
+GBLB00000000.1,GBLB,Hymenoptera,Crabronidae,astata_minor,PRJNA252227,SAMN02870217,adult,undetermined sex,not found
+GASV00000000.2,GASV,Hemiptera,Miridae,notostira_elongata,PRJNA219583,SAMN02047151,adult,None,not found
+GAYE00000000.2,GAYE,Thysanoptera,Thripidae,frankliniella_cephalica,PRJNA219559,SAMN02047110,adult,female,found
+GAYI00000000.2,GAYI,Hemiptera,Peloridiidae,xenophysella_greensladeae,PRJNA219618,SAMN02047181,adult,None,not found
+GAXZ00000000.2,GAXZ,Diptera,Trichoceridae,trichocera_saltator,PRJNA219613,SAMN02047117,adult,None,not found
+GDJO00000000.1,GDJO,Hymenoptera,Braconidae,cotesia_glomerata,PRJNA289655,SAMN03856543,adult,female,not found
+GAXG00000000.2,GAXG,Thysanoptera,Phlaeothripidae,gynaikothrips_ficorum,PRJNA219563,SAMN02047111,adult,female,found
+GBMU00000000.1,GBMU,Hymenoptera,Stephanidae,stephanus_serrator,PRJNA252323,SAMN02870410,adult,undetermined sex,found
+GBPH00000000.1,GBPH,Hymenoptera,Argidae,arge_berberidis,PRJNA252154,SAMN02870216,adult,female,not found
+GDIM00000000.1,GDIM,Diptera,Muscidae,stomoxys_calcitrans,PRJNA188117,SAMN03840662,all stages,pooled sex,found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267204,undetermined stage,undetermined sex,not found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267205,undetermined stage,undetermined sex,not found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267206,undetermined stage,male,not found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267207,undetermined stage,female,not found
+GEOS00000000.1,GEOS,Lepidoptera,Neopseustidae,neopseustis_meyricki,PRJNA298054,SAMN04155517,adult,None,not found
+GAZU00000000.1,GAZU,Hymenoptera,Tiphiidae,brachycistis_timberlakei,PRJNA195615,SAMN02343703,adult,female,not found
+GBVB00000000.1,GBVB,Hymenoptera,Platygastridae,inostemma,PRJNA252125,SAMN02870320,adult,female,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214487,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214488,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214489,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214490,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214491,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214492,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214493,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214522,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214655,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214656,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214657,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214658,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214659,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214660,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214661,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214662,pupae,undetermined sex,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214684,pupae,undetermined sex,not found
+GBWZ00000000.1,GBWZ,Hymenoptera,Pergidae,pergagrapta_polita,PRJNA252274,SAMN02870372,adult,undetermined sex,not found
+GAXH00000000.2,GAXH,Lepidoptera,Papilionidae,parides_eurimedes,PRJNA219589,SAMN02047109,adult,None,not found
+GBOL00000000.1,GBOL,Hymenoptera,Cimbicidae,cimbex_rubida,PRJNA252347,SAMN02870264,adult,undetermined sex,not found
+GBXD00000000.1,GBXD,Lepidoptera,Noctuidae,helicoverpa_armigera,PRJNA264881,SAMN02374897,all stages,None,not found
+GCVB00000000.1,GCVB,Hymenoptera,Proctotrupidae,brachyserphus_parvulus,PRJNA272309,SAMN03287654,undetermined stage,pooled sex,found
+GBJR00000000.1,GBJR,Lepidoptera,Bombycidae,bombyx_mori,PRJNA257362,SAMN02796058,undetermined stage,pooled sex,not found
+GBJR00000000.1,GBJR,Lepidoptera,Bombycidae,bombyx_mori,PRJNA257362,SAMN02796059,undetermined stage,pooled sex,not found
+GATW00000000.2,GATW,Coleoptera,Staphylinidae,aleochara_curtula,PRJNA219522,SAMN02047128,adult,None,not found
+GBPP00000000.1,GBPP,Hymenoptera,Megachilidae,dioxys_cincta,PRJNA252246,SAMN02870282,adult,male,not found
+GBMW00000000.1,GBMW,Hymenoptera,Vespidae,parischnogaster_nigricans,PRJNA252175,SAMN02870366,adult,undetermined sex,not found
+GBWQ00000000.1,GBWQ,Hymenoptera,Sapygidae,monosapyga_clavicornis,PRJNA252301,SAMN02870344,adult,undetermined sex,found
+GBMS00000000.1,GBMS,Hymenoptera,Evaniidae,brachygaster_minutus,PRJNA252340,SAMN02870224,adult,undetermined sex,found
+GBPJ00000000.1,GBPJ,Hymenoptera,Ichneumonidae,heteropelma_amictum,PRJNA252184,SAMN02870314,adult,undetermined sex,found
+GAZQ00000000.2,GAZQ,Phasmatodea,Heteropterygidae,aretaon_asperrimus,PRJNA219526,SAMN02047197,adult,None,not found
+GBWE00000000.1,GBWE,Hymenoptera,Pompilidae,pompilus_cinereus,PRJNA252245,SAMN02870383,adult,undetermined sex,found
+GECT00000000.1,GECT,Hymenoptera,Pteromalidae,pteromalus_puparum,PRJNA276955,SAMN02047161,larvae,None,found
+GBZL00000000.1,GBZL,Lepidoptera,Saturniidae,actias_selene,PRJNA269319,SAMN03252613,undetermined stage,undetermined sex,not found
+GBUA00000000.1,GBUA,Hymenoptera,Crabronidae,alysson_spinosus,PRJNA252289,SAMN02870203,adult,undetermined sex,not found
+GEBL00000000.1,GEBL,Lepidoptera,Noctuidae,heliothis_virescens,PRJNA301587,SAMN05213682,adult,male,not found
+GEES00000000.1,GEES,Hymenoptera,Diprionidae,neodiprion_lecontei,PRJNA280451,SAMN02047124,adult,None,not found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010495,adult,male,found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010496,pupae,pooled sex,found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010497,larvae,pooled sex,found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010498,adult,female,found
+GBOJ00000000.1,GBOJ,Hymenoptera,Megachilidae,anthidium_manicatum,PRJNA252257,SAMN02870211,adult,undetermined sex,not found
+GBNP00000000.1,GBNP,Hymenoptera,Apidae,euglossa_dilemma,PRJNA252310,SAMN02870296,adult,undetermined sex,not found
+GBMG00000000.1,GBMG,Hymenoptera,Vespidae,eumenes_papillarius,PRJNA252215,SAMN02870297,adult,female,not found
+GECZ00000000.1,GECZ,Hemiptera,Cicadellidae,cuerna_arida,PRJNA303150,SAMN04293493,adult,None,not found
+GECZ00000000.1,GECZ,Hemiptera,Cicadellidae,cuerna_arida,PRJNA303150,SAMN04293494,adult,None,not found
+GECZ00000000.1,GECZ,Hemiptera,Cicadellidae,cuerna_arida,PRJNA303150,SAMN04293495,adult,None,not found
+GBPX00000000.1,GBPX,Hymenoptera,Sphecidae,podalonia_hirsuta,PRJNA252272,SAMN02870381,adult,female,not found
+GBCW00000000.1,GBCW,Lepidoptera,Noctuidae,agrotis_segetum,PRJNA244025,SAMN03438122,all stages,pooled sex,not found
+GBOH00000000.1,GBOH,Hymenoptera,Vespidae,masaris_aegyptiacus,PRJNA252149,SAMN02870334,adult,female,found
+GEYS00000000.1,GEYS,Diptera,Tephritidae,bactrocera_dorsalis,PRJNA341478,SAMN05589108,adult,female,not found

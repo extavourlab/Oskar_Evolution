@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFME01044331.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-16   64.2   0.0   2.5e-16   63.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript44659 transcribed RNA sequence
+GFME01041149.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-16   63.5   0.3   3.6e-16   63.1   0.3   1.2   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript41454 transcribed RNA sequence
+GFME01003248.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.7e-12   49.0   0.0   1.1e-11   48.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript3278 transcribed RNA sequence
+GFME01021028.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-10   43.9   0.0   4.3e-10   43.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Megaphragma amalphitanum transcript21186 transcribed RNA sequence
+GFME01023145.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.4e-05   27.0   0.0        12   10.1   0.0   4.4   2   1   2   4   4   4   2 TSA: Megaphragma amalphitanum transcript23323 transcribed RNA sequence
+GFME01010089.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.19   15.9   0.0      0.23   15.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript10173 transcribed RNA sequence
+GFME01015894.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.23   15.6   0.1      0.37   14.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript16019 transcribed RNA sequence
+GFME01015600.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.3   15.2   0.5      0.75   13.9   0.5   1.8   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript15721 transcribed RNA sequence
+GFME01019366.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.77   13.9   1.1   1.6e+02    6.5   0.1   2.7   2   1   1   3   3   3   0 TSA: Megaphragma amalphitanum transcript19514 transcribed RNA sequence
+GFME01046077.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.89   13.7   0.0       2.8   12.1   0.0   1.9   1   0   0   1   1   1   0 TSA: Megaphragma amalphitanum transcript46426 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFME01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFME01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFME01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:01 2019
+# [ok]

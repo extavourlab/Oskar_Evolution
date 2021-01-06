@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECQ01188679.1_4     -          OSK_CONSENSUS        -               0.24   18.3   1.7      0.76   16.7   0.7   2.4   2   0   0   2   2   2   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.188679 transcribed RNA sequence
+GECQ01343452.1_3     -          OSK_CONSENSUS        -               0.25   18.3   4.3       7.3   13.5   1.1   2.1   1   1   0   2   2   2   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.343452 transcribed RNA sequence
+GECQ01048827.1_1     -          OSK_CONSENSUS        -               0.49   17.3   0.2      0.54   17.2   0.2   1.0   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.48827 transcribed RNA sequence
+GECQ01222544.1_1     -          OSK_CONSENSUS        -               0.89   16.5   1.1      0.94   16.4   1.1   1.0   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.222544 transcribed RNA sequence
+GECQ01344555.1_1     -          OSK_CONSENSUS        -                1.6   15.6   3.0        86   10.0   0.5   2.1   1   1   0   2   2   2   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.344555 transcribed RNA sequence
+GECQ01437302.1_1     -          OSK_CONSENSUS        -                2.7   14.9   0.2       2.8   14.9   0.2   1.0   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.437302 transcribed RNA sequence
+GECQ01344556.1_1     -          OSK_CONSENSUS        -                3.1   14.7   3.6     1e+02    9.8   0.3   2.1   1   1   0   2   2   2   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.344556 transcribed RNA sequence
+GECQ01173012.1_2     -          OSK_CONSENSUS        -                3.1   14.7   1.9   1.1e+02    9.7   1.9   2.0   1   1   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.173012 transcribed RNA sequence
+GECQ01178921.1_6     -          OSK_CONSENSUS        -                3.2   14.7   0.0       3.6   14.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.178921 transcribed RNA sequence
+GECQ01480463.1_6     -          OSK_CONSENSUS        -                4.4   14.2   0.1       4.9   14.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.480463 transcribed RNA sequence
+GECQ01173013.1_2     -          OSK_CONSENSUS        -                  6   13.8   0.9        68   10.3   0.9   1.9   1   1   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.173013 transcribed RNA sequence
+GECQ01173015.1_2     -          OSK_CONSENSUS        -                  6   13.8   0.9        68   10.3   0.9   1.9   1   1   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.173015 transcribed RNA sequence
+GECQ01287393.1_5     -          OSK_CONSENSUS        -                  7   13.6   0.1       9.7   13.1   0.1   1.3   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.287393 transcribed RNA sequence
+GECQ01156807.1_2     -          OSK_CONSENSUS        -                7.2   13.5   0.2       8.4   13.3   0.2   1.2   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.156807 transcribed RNA sequence
+GECQ01113174.1_2     -          OSK_CONSENSUS        -                7.2   13.5   0.4        10   13.0   0.4   1.2   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.113174 transcribed RNA sequence
+GECQ01501028.1_4     -          OSK_CONSENSUS        -                7.9   13.4   0.1        11   12.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.501028 transcribed RNA sequence
+GECQ01501029.1_4     -          OSK_CONSENSUS        -                7.9   13.4   0.3        12   12.8   0.1   1.4   1   1   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.501029 transcribed RNA sequence
+GECQ01231242.1_2     -          OSK_CONSENSUS        -                8.1   13.3   0.2       8.8   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.231242 transcribed RNA sequence
+GECQ01437303.1_1     -          OSK_CONSENSUS        -                8.4   13.3   0.2       9.1   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.437303 transcribed RNA sequence
+GECQ01278153.1_5     -          OSK_CONSENSUS        -                9.5   13.1   0.1       9.8   13.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.278153 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:26 2019
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOS01143200.1_1     -          oskar_filtered.aligned.OSK_domain -                  1   15.9   0.0       1.4   15.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR88268-c1_g1_i1 transcribed RNA sequence
+GEOS01300172.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   15.8   2.6       1.9   15.0   2.6   1.5   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR184898-c0_g1_i2 transcribed RNA sequence
+GEOS01143203.1_1     -          oskar_filtered.aligned.OSK_domain -                1.2   15.6   0.0       1.7   15.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR88268-c1_g1_i6 transcribed RNA sequence
+GEOS01102002.1_3     -          oskar_filtered.aligned.OSK_domain -                3.2   14.3   1.5       3.6   14.1   1.5   1.0   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR71084-c15_g2_i1 transcribed RNA sequence
+GEOS01162847.1_3     -          oskar_filtered.aligned.OSK_domain -                3.7   14.0   0.3       5.2   13.6   0.3   1.2   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR96119-c0_g1_i1 transcribed RNA sequence
+GEOS01102003.1_3     -          oskar_filtered.aligned.OSK_domain -                  5   13.6   2.4       5.9   13.4   2.4   1.1   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR71084-c15_g2_i2 transcribed RNA sequence
+GEOS01319829.1_4     -          oskar_filtered.aligned.OSK_domain -                5.9   13.4   0.3       6.9   13.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR201101-c0_g1_i1 transcribed RNA sequence
+GEOS01178356.1_4     -          oskar_filtered.aligned.OSK_domain -                6.3   13.3   0.0       6.5   13.2   0.0   1.0   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR103285-c0_g1_i1 transcribed RNA sequence
+GEOS01157996.1_1     -          oskar_filtered.aligned.OSK_domain -                6.9   13.2   1.8       7.2   13.1   1.8   1.0   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR94603-c0_g1_i1 transcribed RNA sequence
+GEOS01343083.1_6     -          oskar_filtered.aligned.OSK_domain -                7.9   13.0   1.1        12   12.4   1.0   1.3   1   1   0   1   1   1   0 TSA: Neopseustis meyricki TR220195-c0_g1_i2 transcribed RNA sequence
+GEOS01334275.1_1     -          oskar_filtered.aligned.OSK_domain -                8.4   12.9   1.4        18   11.8   1.4   1.6   1   1   0   1   1   1   0 TSA: Neopseustis meyricki TR212961-c0_g1_i1 transcribed RNA sequence
+GEOS01075518.1_6     -          oskar_filtered.aligned.OSK_domain -                9.7   12.7   2.4        12   12.4   2.4   1.3   1   1   0   1   1   1   0 TSA: Neopseustis meyricki TR59704-c1_g7_i4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:24 2019
+# [ok]

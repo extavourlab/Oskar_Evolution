@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPI01002569.1_1     -          LOTUS_CONSENSUS      -            5.6e-21   78.0   0.1   4.1e-20   75.2   0.2   2.5   3   0   0   3   3   3   1 TSA: Gonolabis marginalis breed wildtype C107118_a_10_0_l_3398, transcribed RNA sequence
+GCPI01019594.1_3     -          LOTUS_CONSENSUS      -              9e-10   42.1   1.1   9.8e-09   38.7   0.1   2.3   2   1   0   2   2   2   1 TSA: Gonolabis marginalis breed wildtype C82805_a_3_0_l_520, transcribed RNA sequence
+GCPI01012794.1_2     -          LOTUS_CONSENSUS      -               0.13   15.9   0.1      0.42   14.3   0.0   1.9   1   1   1   2   2   2   0 TSA: Gonolabis marginalis breed wildtype C64642_a_4_0_l_326, transcribed RNA sequence
+GCPI01008806.1_1     -          LOTUS_CONSENSUS      -               0.29   14.8   0.0      0.49   14.0   0.0   1.4   1   1   0   1   1   1   0 TSA: Gonolabis marginalis breed wildtype C53958_a_10_0_l_257, transcribed RNA sequence
+GCPI01027903.1_6     -          LOTUS_CONSENSUS      -                0.5   14.0   0.1        84    6.9   0.0   3.3   3   0   0   3   3   3   0 TSA: Gonolabis marginalis breed wildtype s2873_L_5564_3_a_37_4_l_2067, transcribed RNA sequence
+GCPI01027635.1_2     -          LOTUS_CONSENSUS      -               0.83   13.3   0.7       1.6   12.4   0.7   1.4   1   0   0   1   1   1   0 TSA: Gonolabis marginalis breed wildtype s2627_L_4850_1_a_5_2_l_518, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:10 2019
+# [ok]

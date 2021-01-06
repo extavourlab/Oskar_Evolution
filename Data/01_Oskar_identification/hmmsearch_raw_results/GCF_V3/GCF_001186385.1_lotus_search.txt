@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015370447.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-19   68.7   4.1   7.1e-19   67.9   0.2   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 isoform X6 [Diuraphis noxia]
+XP_015370446.1       -          oskar_filtered.aligned.LOTUS_domain -            7.7e-19   67.8   0.2   7.7e-19   67.8   0.2   3.6   3   1   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X5 [Diuraphis noxia]
+XP_015370444.1       -          oskar_filtered.aligned.LOTUS_domain -            8.4e-19   67.7   0.2   8.4e-19   67.7   0.2   3.4   2   1   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 isoform X4 [Diuraphis noxia]
+XP_015370443.1       -          oskar_filtered.aligned.LOTUS_domain -            8.6e-19   67.7   0.2   8.6e-19   67.7   0.2   3.6   3   1   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X3 [Diuraphis noxia]
+XP_015370442.1       -          oskar_filtered.aligned.LOTUS_domain -            8.8e-19   67.6   0.2   8.8e-19   67.6   0.2   3.6   3   1   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Diuraphis noxia]
+XP_015370439.1       -          oskar_filtered.aligned.LOTUS_domain -            9.1e-19   67.6   0.2   9.1e-19   67.6   0.2   3.6   3   1   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Diuraphis noxia]
+XP_015370440.1       -          oskar_filtered.aligned.LOTUS_domain -            9.1e-19   67.6   0.2   9.1e-19   67.6   0.2   3.6   3   1   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Diuraphis noxia]
+XP_015370441.1       -          oskar_filtered.aligned.LOTUS_domain -            9.1e-19   67.6   0.2   9.1e-19   67.6   0.2   3.6   3   1   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Diuraphis noxia]
+XP_015370255.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-16   59.6  13.0   3.4e-14   52.9   0.2   4.8   4   1   0   4   4   4   2 PREDICTED: uncharacterized protein LOC107166201 [Diuraphis noxia]
+XP_015372248.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-15   56.5   0.2   2.6e-15   56.5   0.2   5.3   3   1   1   5   5   4   2 PREDICTED: putative uncharacterized protein DDB_G0282133 [Diuraphis noxia]
+XP_015372249.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-15   56.5   0.2   2.6e-15   56.5   0.2   5.3   3   1   1   5   5   4   2 PREDICTED: putative uncharacterized protein DDB_G0282133 [Diuraphis noxia]
+XP_015366287.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-10   41.2   0.0      0.95    9.7   0.0   7.7   5   2   3   8   8   8   2 PREDICTED: LOW QUALITY PROTEIN: meiosis arrest female protein 1 homolog [Diuraphis noxia]
+XP_015378491.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0048   17.1   0.6     0.066   13.5   0.0   2.6   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC107172708, partial [Diuraphis noxia]
+XP_015368166.1       -          oskar_filtered.aligned.LOTUS_domain -              0.006   16.8   0.7     0.042   14.1   0.7   2.5   1   0   0   1   1   1   1 PREDICTED: zinc finger protein 286A-like [Diuraphis noxia]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001186385.1_Dnoxia_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001186385.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001186385.1_Dnoxia_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:46 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGFM01003878.1_1     -          LOTUS_CONSENSUS      -            2.6e-13   52.1   0.1     6e-13   51.0   0.1   1.6   1   0   0   1   1   1   1 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+GGFM01003803.1_1     -          LOTUS_CONSENSUS      -            2.7e-13   52.1   0.1     6e-13   51.0   0.1   1.6   1   0   0   1   1   1   1 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+GGFM01007421.1_1     -          LOTUS_CONSENSUS      -            9.2e-13   50.3   0.0   2.1e-12   49.2   0.0   1.6   1   0   0   1   1   1   1 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+GGFM01003204.1_1     -          LOTUS_CONSENSUS      -            9.6e-13   50.3   0.0     2e-12   49.3   0.0   1.5   1   0   0   1   1   1   1 TSA: hypothetical protein, partial cds, transcribed RNA sequence
+GGFM01007155.1_1     -          LOTUS_CONSENSUS      -            9.7e-13   50.3   0.0     2e-12   49.3   0.0   1.5   1   0   0   1   1   1   1 TSA: hypothetical protein, partial cds, transcribed RNA sequence
+GGFM01002847.1_1     -          LOTUS_CONSENSUS      -               0.09   15.1   0.6         6    9.3   0.1   3.0   3   0   0   3   3   3   0 TSA: putative annexin, partial cds, transcribed RNA sequence
+GGFM01006562.1_1     -          LOTUS_CONSENSUS      -                0.3   13.4   0.4        11    8.4   0.1   2.7   3   0   0   3   3   3   0 TSA: putative annexin, complete cds, transcribed RNA sequence
+GGFM01006622.1_1     -          LOTUS_CONSENSUS      -               0.32   13.4   0.2        12    8.3   0.0   2.7   3   0   0   3   3   3   0 TSA: putative annexin, complete cds, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGFM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:47 2019
+# [ok]

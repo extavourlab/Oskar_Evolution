@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFL01032649.1_2     -          LOTUS_CONSENSUS      -            1.7e-09   41.7   0.0   3.2e-09   40.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Elipsocus kuriliensis breed wildtype s11702_L_24255_0_a_10_0_l_605, transcribed RNA sequence
+GDFL01032527.1_2     -          LOTUS_CONSENSUS      -            0.00014   26.0   0.2   0.00062   23.9   0.0   2.0   2   0   0   2   2   2   1 TSA: Elipsocus kuriliensis breed wildtype s11593_L_23693_0_a_25_2_l_1045, transcribed RNA sequence
+GDFL01024493.1_2     -          LOTUS_CONSENSUS      -              0.086   17.0   0.1      0.15   16.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Elipsocus kuriliensis breed wildtype C190591_a_28_0_l_947, transcribed RNA sequence
+GDFL01038545.1_2     -          LOTUS_CONSENSUS      -                1.4   13.1   0.1       3.3   12.0   0.1   1.5   1   0   0   1   1   1   0 TSA: Elipsocus kuriliensis breed wildtype s2472_L_2218_1_a_33_7_l_2659, transcribed RNA sequence
+GDFL01007155.1_6     -          LOTUS_CONSENSUS      -                1.6   12.9   0.0       2.1   12.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Elipsocus kuriliensis breed wildtype C121175_a_7_0_l_269, transcribed RNA sequence
+GDFL01010805.1_6     -          LOTUS_CONSENSUS      -                1.7   12.9   0.0       2.2   12.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Elipsocus kuriliensis breed wildtype C133872_a_3_0_l_318, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:03 2019
+# [ok]

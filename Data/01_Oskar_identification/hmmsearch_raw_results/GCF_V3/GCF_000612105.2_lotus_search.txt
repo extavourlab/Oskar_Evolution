@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023290582.1       -          oskar_filtered.aligned.LOTUS_domain -            3.2e-30  104.5   0.2   2.3e-29  101.8   0.0   2.6   3   1   0   3   3   2   1 maternal effect protein oskar [Orussus abietinus]
+XP_012284701.1       -          oskar_filtered.aligned.LOTUS_domain -              7e-22   77.7   0.0     3e-21   75.7   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7A [Orussus abietinus]
+XP_012284703.1       -          oskar_filtered.aligned.LOTUS_domain -              7e-22   77.7   0.0     3e-21   75.7   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7A [Orussus abietinus]
+XP_012284704.1       -          oskar_filtered.aligned.LOTUS_domain -              7e-22   77.7   0.0     3e-21   75.7   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7A [Orussus abietinus]
+XP_012284705.1       -          oskar_filtered.aligned.LOTUS_domain -              7e-22   77.7   0.0     3e-21   75.7   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7A [Orussus abietinus]
+XP_012283436.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-19   70.4   1.6     2e-15   57.0   0.1   3.7   3   0   0   3   3   3   2 uncharacterized protein LOC105701330 isoform X2 [Orussus abietinus]
+XP_012283419.1       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-19   68.0   3.1   2.5e-15   56.7   0.1   3.6   3   0   0   3   3   3   2 uncharacterized protein LOC105701330 isoform X1 [Orussus abietinus]
+XP_012283429.1       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-19   68.0   3.1   2.5e-15   56.7   0.1   3.6   3   0   0   3   3   3   2 uncharacterized protein LOC105701330 isoform X1 [Orussus abietinus]
+XP_023288243.1       -          oskar_filtered.aligned.LOTUS_domain -              8e-11   42.3   0.0     0.001   19.5   0.0   4.9   2   1   3   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X5 [Orussus abietinus]
+XP_023288242.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-10   41.3   0.0    0.0012   19.2   0.0   4.9   2   1   3   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X4 [Orussus abietinus]
+XP_023288241.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-10   41.3   0.0    0.0012   19.2   0.0   4.9   2   1   3   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X3 [Orussus abietinus]
+XP_012273569.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-10   41.3   0.0    0.0012   19.2   0.0   4.9   2   1   3   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Orussus abietinus]
+XP_012273568.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-10   41.3   0.0    0.0012   19.2   0.0   4.9   2   1   3   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Orussus abietinus]
+XP_023288347.1       -          oskar_filtered.aligned.LOTUS_domain -              0.012   16.0   2.0      0.84   10.1   0.0   4.3   2   1   1   3   3   3   0 centromere-associated protein E isoform X1 [Orussus abietinus]
+XP_012282864.1       -          oskar_filtered.aligned.LOTUS_domain -              0.012   16.0   1.6        18    5.8   0.1   3.8   4   0   0   4   4   4   0 annexin B9 isoform X2 [Orussus abietinus]
+XP_012282865.1       -          oskar_filtered.aligned.LOTUS_domain -              0.012   16.0   1.6        18    5.8   0.1   3.8   4   0   0   4   4   4   0 annexin B9 isoform X2 [Orussus abietinus]
+XP_012282866.1       -          oskar_filtered.aligned.LOTUS_domain -              0.012   16.0   1.6        18    5.8   0.1   3.8   4   0   0   4   4   4   0 annexin B9 isoform X2 [Orussus abietinus]
+XP_012282867.1       -          oskar_filtered.aligned.LOTUS_domain -              0.012   16.0   1.6        18    5.8   0.1   3.8   4   0   0   4   4   4   0 annexin B9 isoform X2 [Orussus abietinus]
+XP_023288348.1       -          oskar_filtered.aligned.LOTUS_domain -              0.021   15.3   0.4      0.77   10.2   0.0   3.7   2   1   1   3   3   3   0 WEB family protein At4g27595, chloroplastic isoform X2 [Orussus abietinus]
+XP_023287874.1       -          oskar_filtered.aligned.LOTUS_domain -              0.094   13.1   2.7      0.28   11.6   0.3   3.1   3   1   0   3   3   3   0 coiled-coil domain-containing protein 63 [Orussus abietinus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000612105.2_Oabi_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000612105.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000612105.2_Oabi_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:08 2019
+# [ok]

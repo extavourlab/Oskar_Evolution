@@ -1,0 +1,39 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBYD01042125.1_1     -          LOTUS_CONSENSUS      -            6.6e-20   76.0   0.1   9.4e-14   56.3   0.0   2.9   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq7 transcribed RNA sequence
+GBYD01042126.1_1     -          LOTUS_CONSENSUS      -            1.2e-19   75.3   0.1   1.4e-13   55.8   0.0   3.0   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq12 transcribed RNA sequence
+GBYD01042123.1_1     -          LOTUS_CONSENSUS      -            1.5e-19   74.9   0.1   1.5e-13   55.7   0.0   2.9   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq3 transcribed RNA sequence
+GBYD01042128.1_3     -          LOTUS_CONSENSUS      -            1.6e-19   74.9   0.1   1.7e-13   55.5   0.1   3.0   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq18 transcribed RNA sequence
+GBYD01042127.1_1     -          LOTUS_CONSENSUS      -            1.6e-19   74.8   0.1   1.4e-13   55.7   0.0   2.8   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq17 transcribed RNA sequence
+GBYD01042124.1_1     -          LOTUS_CONSENSUS      -            1.7e-19   74.7   0.1   1.5e-13   55.6   0.0   2.9   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq6 transcribed RNA sequence
+GBYD01042131.1_1     -          LOTUS_CONSENSUS      -            1.7e-19   74.7   0.1   1.4e-13   55.7   0.0   2.8   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq29 transcribed RNA sequence
+GBYD01042129.1_1     -          LOTUS_CONSENSUS      -            1.8e-19   74.7   0.1   1.9e-13   55.3   0.1   2.9   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq22 transcribed RNA sequence
+GBYD01042130.1_3     -          LOTUS_CONSENSUS      -            1.8e-19   74.6   0.1   1.8e-13   55.4   0.1   2.9   2   0   0   2   2   2   2 TSA: Euwallacea fornicatus comp36082_c0_seq28 transcribed RNA sequence
+GBYD01074583.1_1     -          LOTUS_CONSENSUS      -            6.5e-18   69.7   0.0   1.8e-17   68.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq18 transcribed RNA sequence
+GBYD01074578.1_2     -          LOTUS_CONSENSUS      -            7.4e-18   69.5   0.0   1.8e-17   68.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq9 transcribed RNA sequence
+GBYD01074580.1_3     -          LOTUS_CONSENSUS      -            7.7e-18   69.4   0.0   1.8e-17   68.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq13 transcribed RNA sequence
+GBYD01074587.1_3     -          LOTUS_CONSENSUS      -            7.9e-18   69.4   0.0   1.9e-17   68.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq29 transcribed RNA sequence
+GBYD01074577.1_3     -          LOTUS_CONSENSUS      -            9.2e-18   69.2   0.0   2.2e-17   67.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq7 transcribed RNA sequence
+GBYD01082029.1_1     -          LOTUS_CONSENSUS      -            1.3e-16   65.5   0.4   6.9e-16   63.2   0.2   2.4   2   0   0   2   2   2   1 TSA: Euwallacea fornicatus comp38941_c2_seq1 transcribed RNA sequence
+GBYD01074582.1_1     -          LOTUS_CONSENSUS      -            7.9e-12   50.1   0.0   2.4e-11   48.6   0.0   1.8   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq17 transcribed RNA sequence
+GBYD01074575.1_2     -          LOTUS_CONSENSUS      -            9.1e-12   50.0   0.0   2.4e-11   48.6   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq4 transcribed RNA sequence
+GBYD01074579.1_3     -          LOTUS_CONSENSUS      -            9.4e-12   49.9   0.0   2.4e-11   48.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq11 transcribed RNA sequence
+GBYD01074586.1_3     -          LOTUS_CONSENSUS      -            9.6e-12   49.9   0.0   2.5e-11   48.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq28 transcribed RNA sequence
+GBYD01074585.1_1     -          LOTUS_CONSENSUS      -              1e-11   49.8   0.0   2.9e-11   48.3   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq27 transcribed RNA sequence
+GBYD01074581.1_2     -          LOTUS_CONSENSUS      -            1.1e-11   49.7   0.0   2.9e-11   48.3   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq14 transcribed RNA sequence
+GBYD01074576.1_1     -          LOTUS_CONSENSUS      -            1.1e-11   49.7   0.0     3e-11   48.3   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq6 transcribed RNA sequence
+GBYD01074584.1_3     -          LOTUS_CONSENSUS      -            1.2e-11   49.6   0.0     3e-11   48.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq19 transcribed RNA sequence
+GBYD01074574.1_2     -          LOTUS_CONSENSUS      -            6.1e-11   47.3   0.0   1.6e-10   46.0   0.0   1.7   1   0   0   1   1   1   1 TSA: Euwallacea fornicatus comp38072_c0_seq3 transcribed RNA sequence
+GBYD01033335.1_1     -          LOTUS_CONSENSUS      -            2.5e-06   32.5   1.0        25   10.1   0.0   5.9   3   1   3   6   6   6   2 TSA: Euwallacea fornicatus comp32985_c0_seq2 transcribed RNA sequence
+GBYD01088905.1_3     -          LOTUS_CONSENSUS      -                  3   13.0   1.6       8.4   11.6   0.4   2.4   2   0   0   2   2   1   0 TSA: Euwallacea fornicatus comp19378_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBYD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBYD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBYD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:25 2019
+# [ok]

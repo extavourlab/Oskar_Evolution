@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYR01017115.1_3     -          OSK_CONSENSUS        -            8.2e-26   93.8   0.1   8.2e-26   93.8   0.1   2.3   3   0   0   3   3   3   1 TSA: Frankliniella occidentalis breed wildtype s11986_L_25150_0_51_6_LINEAR, transcribed RNA sequence
+GCYR01024990.1_5     -          OSK_CONSENSUS        -            9.4e-25   90.3   0.0   3.2e-24   88.6   0.0   1.8   2   0   0   2   2   2   1 TSA: Frankliniella occidentalis breed wildtype s5868_L_8983_0_71_0_BUBBLE, transcribed RNA sequence
+GCYR01024991.1_5     -          OSK_CONSENSUS        -            1.1e-23   86.9   0.1   1.5e-22   83.1   0.0   2.5   3   0   0   3   3   3   1 TSA: Frankliniella occidentalis breed wildtype s5869_L_8983_1_68_5_BUBBLE, transcribed RNA sequence
+GCYR01017229.1_1     -          OSK_CONSENSUS        -            9.5e-05   25.3   0.2   0.00017   24.5   0.2   1.4   1   0   0   1   1   1   1 TSA: Frankliniella occidentalis breed wildtype s1208_L_1409_0_9_2_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:23 2019
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022169442.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-22   80.1  22.6   1.5e-15   57.7   0.1   6.0   5   1   0   5   5   5   3 uncharacterized protein LOC111033146 isoform X2 [Myzus persicae]
+XP_022169440.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-22   79.9  22.6   1.5e-15   57.7   0.1   5.9   5   1   0   5   5   5   3 uncharacterized protein LOC111033146 isoform X1 [Myzus persicae]
+XP_022169441.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-22   79.9  22.6   1.5e-15   57.7   0.1   5.9   5   1   0   5   5   5   3 uncharacterized protein LOC111033146 isoform X1 [Myzus persicae]
+XP_022176927.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-22   79.6   0.5   2.3e-22   79.6   0.5   2.5   2   1   0   2   2   2   1 uncharacterized protein LOC111038222 [Myzus persicae]
+XP_022167496.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-20   72.3   0.1   3.1e-19   69.5   0.1   2.6   1   0   0   1   1   1   1 uncharacterized protein LOC111031737 isoform X1 [Myzus persicae]
+XP_022167497.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-20   72.3   0.1   3.1e-19   69.5   0.1   2.6   1   0   0   1   1   1   1 uncharacterized protein LOC111031737 isoform X1 [Myzus persicae]
+XP_022167498.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-20   72.3   0.1   3.1e-19   69.5   0.1   2.6   1   0   0   1   1   1   1 uncharacterized protein LOC111031737 isoform X1 [Myzus persicae]
+XP_022167499.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-20   72.2   0.1   3.1e-19   69.5   0.1   2.6   1   0   0   1   1   1   1 uncharacterized protein LOC111031737 isoform X2 [Myzus persicae]
+XP_022167500.1       -          oskar_filtered.aligned.LOTUS_domain -            6.8e-20   71.6   0.5   2.8e-19   69.6   0.1   2.5   2   0   0   2   2   1   1 tudor domain-containing protein 7-like isoform X3 [Myzus persicae]
+XP_022167875.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-13   50.4   0.0   2.7e-13   50.4   0.0   4.8   4   1   1   5   5   5   2 putative uncharacterized protein DDB_G0277255 isoform X2 [Myzus persicae]
+XP_022167871.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-13   50.4   0.0   2.8e-13   50.4   0.0   4.8   4   1   1   5   5   5   2 putative uncharacterized protein DDB_G0277255 isoform X1 [Myzus persicae]
+XP_022167873.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-13   50.4   0.0   2.8e-13   50.4   0.0   4.8   4   1   1   5   5   5   2 putative uncharacterized protein DDB_G0277255 isoform X1 [Myzus persicae]
+XP_022167874.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-13   50.4   0.0   2.8e-13   50.4   0.0   4.8   4   1   1   5   5   5   2 putative uncharacterized protein DDB_G0277255 isoform X1 [Myzus persicae]
+XP_022183607.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-10   41.1   0.1        12    6.6   0.0   8.2   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X2 [Myzus persicae]
+XP_022183606.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-10   41.0   0.1        12    6.6   0.0   8.2   5   2   3   8   8   8   0 meiosis regulator and mRNA stability factor 1 isoform X1 [Myzus persicae]
+XP_022183609.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-10   40.4   0.0        10    6.9   0.0   7.5   4   2   3   7   7   7   1 meiosis regulator and mRNA stability factor 1 isoform X4 [Myzus persicae]
+XP_022183608.1       -          oskar_filtered.aligned.LOTUS_domain -            5.8e-08   33.3   0.0        16    6.2   0.0   7.2   5   2   2   7   7   7   0 meiosis regulator and mRNA stability factor 1 isoform X3 [Myzus persicae]
+XP_022182347.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0008   20.1   0.1      0.02   15.5   0.0   2.8   2   1   0   2   2   2   1 uncharacterized protein LOC111042113 [Myzus persicae]
+XP_022166879.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0078   16.9   4.4      0.27   11.9   0.2   3.1   3   0   0   3   3   2   1 uncharacterized protein LOC111031304 [Myzus persicae]
+XP_022169933.1       -          oskar_filtered.aligned.LOTUS_domain -               0.69   10.6   4.6       1.7    9.4   0.7   3.3   2   0   0   2   2   2   0 dynein heavy chain 6, axonemal [Myzus persicae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001856785.1_MPER_G0061.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001856785.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001856785.1_MPER_G0061.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:42 2019
+# [ok]

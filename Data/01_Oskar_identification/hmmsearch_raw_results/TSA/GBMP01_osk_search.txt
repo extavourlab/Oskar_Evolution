@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMP01014026.1_1     -          OSK_CONSENSUS        -               0.22   14.0   0.2       0.6   12.6   0.0   1.7   2   0   0   2   2   2   0 TSA: Dasypoda hirtipes C70407_a_26_0_l_1625 transcribed RNA sequence
+GBMP01006615.1_1     -          OSK_CONSENSUS        -               0.36   13.3   1.0      0.59   12.6   0.9   1.3   1   1   0   1   1   1   0 TSA: Dasypoda hirtipes C44619_a_32_0_l_417 transcribed RNA sequence
+GBMP01011210.1_1     -          OSK_CONSENSUS        -               0.62   12.6   2.3        14    8.2   0.1   2.2   1   1   1   2   2   2   0 TSA: Dasypoda hirtipes C59889_a_6_0_l_844 transcribed RNA sequence
+GBMP01016794.1_1     -          OSK_CONSENSUS        -                  1   11.8   1.5       1.7   11.1   0.8   1.6   2   0   0   2   2   2   0 TSA: Dasypoda hirtipes s1379_L_1826_0_a_4_6_l_615 transcribed RNA sequence
+GBMP01014686.1_5     -          OSK_CONSENSUS        -                  8    8.9   4.5        10    8.6   1.8   2.5   2   1   0   2   2   2   0 TSA: Dasypoda hirtipes C72862_a_6_0_l_1961 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:54 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDUJ01031009.1_4     -          LOTUS_CONSENSUS      -            1.7e-09   43.4   0.0   2.2e-09   43.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Talitrus saltator comp75092_c0_seq1 transcribed RNA sequence
+GDUJ01031573.1_1     -          LOTUS_CONSENSUS      -                1.1   15.1   0.2       1.9   14.4   0.2   1.3   1   0   0   1   1   1   0 TSA: Talitrus saltator comp75789_c0_seq1 transcribed RNA sequence
+GDUJ01083186.1_1     -          LOTUS_CONSENSUS      -                1.1   15.1   1.3       4.6   13.2   0.3   2.4   2   0   0   2   2   2   0 TSA: Talitrus saltator comp102534_c0_seq10 transcribed RNA sequence
+GDUJ01083187.1_1     -          LOTUS_CONSENSUS      -                1.3   14.9   1.3       4.6   13.2   0.3   2.3   2   0   0   2   2   2   0 TSA: Talitrus saltator comp102534_c0_seq11 transcribed RNA sequence
+GDUJ01088971.1_6     -          LOTUS_CONSENSUS      -                1.8   14.4   0.1       2.7   13.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Talitrus saltator comp541550_c0_seq1 transcribed RNA sequence
+GDUJ01013719.1_1     -          LOTUS_CONSENSUS      -                4.1   13.3   1.2       7.8   12.4   1.2   1.4   1   0   0   1   1   1   0 TSA: Talitrus saltator comp38219_c0_seq1 transcribed RNA sequence
+GDUJ01003665.1_5     -          LOTUS_CONSENSUS      -                4.4   13.2   0.2       8.5   12.3   0.2   1.4   1   0   0   1   1   1   0 TSA: Talitrus saltator comp6922_c0_seq1 transcribed RNA sequence
+GDUJ01132527.1_5     -          LOTUS_CONSENSUS      -                5.9   12.8   0.1        11   11.9   0.1   1.6   2   1   0   2   2   2   0 TSA: Talitrus saltator comp1810949_c0_seq1 transcribed RNA sequence
+GDUJ01043176.1_5     -          LOTUS_CONSENSUS      -                7.2   12.5   0.0       7.9   12.4   0.0   1.4   1   1   0   1   1   1   0 TSA: Talitrus saltator comp86549_c1_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDUJ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GDUJ.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDUJ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:04 2019
+# [ok]

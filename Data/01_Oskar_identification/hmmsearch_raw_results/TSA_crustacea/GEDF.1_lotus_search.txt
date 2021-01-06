@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEDF01027217.1_5     -          LOTUS_CONSENSUS      -            4.1e-12   50.1   1.4     0.019   19.1   0.0   4.6   3   1   1   4   4   4   3 TSA: Astacus astacus TR35068_c0_g1_i3 transcribed RNA sequence
+GEDF01030555.1_1     -          LOTUS_CONSENSUS      -            2.1e-10   44.6   0.1     5e-10   43.4   0.1   1.6   1   0   0   1   1   1   1 TSA: Astacus astacus TR35845_c3_g1_i1 transcribed RNA sequence
+GEDF01027215.1_6     -          LOTUS_CONSENSUS      -              0.012   19.7   0.0     0.023   18.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Astacus astacus TR35068_c0_g1_i1 transcribed RNA sequence
+GEDF01044081.1_5     -          LOTUS_CONSENSUS      -               0.58   14.3   0.4         2   12.6   0.0   2.0   2   0   0   2   2   2   0 TSA: Astacus astacus TR63282_c0_g4_i1 transcribed RNA sequence
+GEDF01044080.1_5     -          LOTUS_CONSENSUS      -                0.6   14.3   0.4         2   12.6   0.0   1.9   2   0   0   2   2   2   0 TSA: Astacus astacus TR63282_c0_g3_i1 transcribed RNA sequence
+GEDF01044079.1_5     -          LOTUS_CONSENSUS      -                0.6   14.3   0.4         2   12.6   0.0   1.9   2   0   0   2   2   2   0 TSA: Astacus astacus TR63282_c0_g2_i1 transcribed RNA sequence
+GEDF01044078.1_5     -          LOTUS_CONSENSUS      -               0.61   14.2   0.4         2   12.6   0.0   1.9   2   0   0   2   2   2   0 TSA: Astacus astacus TR63282_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEDF.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEDF.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEDF.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:20 2019
+# [ok]

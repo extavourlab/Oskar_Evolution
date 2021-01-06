@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGAA01013399.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.6e-19   71.0   0.5   2.4e-11   46.5   0.0   2.7   2   0   0   2   2   2   2 TSA: Nicrophorus orbicollis NORBI01_41939 transcribed RNA sequence
+GGAA01013398.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.3e-18   68.2   4.0   2.6e-11   46.4   0.0   3.1   3   0   0   3   3   3   2 TSA: Nicrophorus orbicollis NORBI01_41937 transcribed RNA sequence
+GGAA01006036.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-15   58.0   0.0   3.9e-14   55.5   0.0   2.4   2   0   0   2   2   2   1 TSA: Nicrophorus orbicollis NORBI01_19202 transcribed RNA sequence
+GGAA01013400.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-14   56.6   0.3   2.3e-11   46.6   0.0   2.8   2   0   0   2   2   2   2 TSA: Nicrophorus orbicollis NORBI01_41941 transcribed RNA sequence
+GGAA01013401.1_2     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-14   54.4   3.1   2.4e-11   46.5   0.0   3.2   3   0   0   3   3   3   2 TSA: Nicrophorus orbicollis NORBI01_41942 transcribed RNA sequence
+GGAA01017807.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-08   35.3   1.1     1e-07   34.9   0.1   1.9   2   0   0   2   2   2   1 TSA: Nicrophorus orbicollis NORBI01_55037 transcribed RNA sequence
+GGAA01009035.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.013   18.5   6.0       9.8    9.3   0.0   5.7   4   1   2   6   6   6   0 TSA: Nicrophorus orbicollis NORBI01_28208 transcribed RNA sequence
+GGAA01018957.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.38   13.8   6.2        36    7.5   0.2   3.1   2   1   1   3   3   3   0 TSA: Nicrophorus orbicollis NORBI01_58748 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGAA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:05 2019
+# [ok]

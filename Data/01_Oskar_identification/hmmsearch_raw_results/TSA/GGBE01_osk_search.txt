@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGBE01028284.1_4     -          OSK_CONSENSUS        -               0.08   16.1   2.4      0.14   15.3   0.2   2.4   3   1   0   3   3   3   0 TSA: Kiefferophyes invenustulus Kiefferophyes_invenustulus_contig_17354 transcribed RNA sequence
+GGBE01020553.1_1     -          OSK_CONSENSUS        -               0.42   13.8   1.4      0.61   13.2   1.2   1.3   1   1   0   1   1   1   0 TSA: Kiefferophyes invenustulus Kiefferophyes_invenustulus_contig_22828 transcribed RNA sequence
+GGBE01027690.1_2     -          OSK_CONSENSUS        -                1.2   12.3   0.2       1.3   12.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Kiefferophyes invenustulus Kiefferophyes_invenustulus_contig_69316 transcribed RNA sequence
+GGBE01031702.1_5     -          OSK_CONSENSUS        -                1.4   12.1   6.0      0.76   12.9   0.8   2.5   2   1   1   3   3   3   0 TSA: Kiefferophyes invenustulus Kiefferophyes_invenustulus_contig_30989 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGBE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGBE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:10 2019
+# [ok]

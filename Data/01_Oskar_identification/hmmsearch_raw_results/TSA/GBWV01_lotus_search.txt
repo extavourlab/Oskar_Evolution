@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWV01018348.1_1     -          LOTUS_CONSENSUS      -            7.6e-21   77.4   0.0   4.4e-20   74.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Stelis punctulatissima s10808_L_27268_0_a_52_6_l_3800 transcribed RNA sequence
+GBWV01018467.1_4     -          LOTUS_CONSENSUS      -            1.4e-16   63.7   2.3   1.6e-11   47.5   0.6   3.2   2   0   0   2   2   2   2 TSA: Stelis punctulatissima s10915_L_28326_0_a_13_5_l_4597 transcribed RNA sequence
+GBWV01023240.1_1     -          LOTUS_CONSENSUS      -              0.003   21.0   0.0        28    8.3   0.0   5.7   3   1   3   6   6   6   1 TSA: Stelis punctulatissima s5361_L_7272_0_a_45_3_l_5531 transcribed RNA sequence
+GBWV01023241.1_3     -          LOTUS_CONSENSUS      -             0.0067   19.9   0.0        37    7.9   0.0   5.6   3   1   3   6   6   6   1 TSA: Stelis punctulatissima s5362_L_7272_1_a_39_7_l_6520 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:09 2019
+# [ok]

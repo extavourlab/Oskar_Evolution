@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GACZ01012335.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-07   34.2   0.1   4.3e-07   33.1   0.0   1.6   2   0   0   2   2   2   1 TSA: Tipula maxima contig12359 mRNA sequence
+GACZ01002461.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.52   13.6   2.7        58    7.0   0.0   3.0   2   1   1   3   3   3   0 TSA: Tipula maxima contig02465 mRNA sequence
+GACZ01008819.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.2   12.4   1.6       1.2   12.4   0.4   1.7   2   0   0   2   2   2   0 TSA: Tipula maxima contig08835 mRNA sequence
+GACZ01007143.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.6   11.3   6.6       2.1   11.6   0.6   2.8   1   1   1   2   2   2   0 TSA: Tipula maxima contig07154 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GACZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GACZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:20 2019
+# [ok]

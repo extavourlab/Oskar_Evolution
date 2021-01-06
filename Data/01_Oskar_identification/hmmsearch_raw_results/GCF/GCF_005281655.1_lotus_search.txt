@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_029168595.1       -          LOTUS_CONSENSUS      -            4.1e-27   94.8   1.3   6.1e-26   91.0   0.0   3.0   3   1   0   3   3   3   1 LOW QUALITY PROTEIN: uncharacterized protein LOC114938710 [Nylanderia fulva]
+XP_029161263.1       -          LOTUS_CONSENSUS      -            1.5e-22   80.2   1.7   4.8e-21   75.3   0.0   3.7   4   0   0   4   4   4   1 tudor domain-containing protein 7 [Nylanderia fulva]
+XP_029161264.1       -          LOTUS_CONSENSUS      -            1.5e-22   80.2   1.7   4.8e-21   75.3   0.0   3.7   4   0   0   4   4   4   1 tudor domain-containing protein 7 [Nylanderia fulva]
+XP_029161265.1       -          LOTUS_CONSENSUS      -            1.5e-22   80.2   1.7   4.8e-21   75.3   0.0   3.7   4   0   0   4   4   4   1 tudor domain-containing protein 7 [Nylanderia fulva]
+XP_029160285.1       -          LOTUS_CONSENSUS      -            3.1e-18   66.3   3.4   4.4e-11   43.4   0.0   5.1   4   0   0   4   4   4   2 uncharacterized protein LOC114932280 [Nylanderia fulva]
+XP_029169871.1       -          LOTUS_CONSENSUS      -            3.7e-05   24.4   0.2      0.33   11.7   0.0   5.6   3   1   3   6   6   6   1 LOW QUALITY PROTEIN: meiosis regulator and mRNA stability factor 1 [Nylanderia fulva]
+XP_029166647.1       -          LOTUS_CONSENSUS      -              0.019   15.7   5.6       1.1   10.1   0.3   3.4   2   0   0   2   2   2   0 zinc finger BED domain-containing protein 6-like [Nylanderia fulva]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_005281655.1_TAMU_Nfulva_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_005281655.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_005281655.1_TAMU_Nfulva_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:42 2019
+# [ok]

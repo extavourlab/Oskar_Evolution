@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNU01023430.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-28  101.8   0.1   1.8e-28  101.8   0.1   2.6   3   0   0   3   3   3   1 TSA: Euodynerus quadrifasciatus s536_L_657_0_a_44_4_l_1611 transcribed RNA sequence
+GBNU01014087.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-13   52.2   3.2   7.9e-13   51.5   0.0   2.6   3   0   0   3   3   3   1 TSA: Euodynerus quadrifasciatus C73908_a_3_0_l_922 transcribed RNA sequence
+GBNU01023330.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-12   49.9   0.2   4.3e-11   45.9   0.0   2.5   2   0   0   2   2   2   1 TSA: Euodynerus quadrifasciatus s5277_L_16411_0_a_7_0_l_1699 transcribed RNA sequence
+GBNU01017784.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00084   22.5   0.0      0.14   15.4   0.0   3.1   2   1   0   2   2   2   1 TSA: Euodynerus quadrifasciatus C88177_a_20_0_l_2335 transcribed RNA sequence
+GBNU01012644.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.24   14.7   0.4      0.54   13.5   0.4   1.5   1   0   0   1   1   1   0 TSA: Euodynerus quadrifasciatus C68530_a_14_0_l_720 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:49 2019
+# [ok]

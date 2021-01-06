@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBJR01003887.1_1     -          LOTUS_CONSENSUS      -            1.5e-12   50.0   0.1   2.6e-11   46.0   0.0   2.7   3   0   0   3   3   3   1 TSA: Bombyx mori Bm_nscaf2674_283_1 transcribed RNA sequence
+GBJR01015524.1_1     -          LOTUS_CONSENSUS      -            1.1e-10   44.1   0.0   8.1e-08   34.8   0.0   2.6   2   0   0   2   2   2   2 TSA: Bombyx mori Bm_scaffold715_4_1 transcribed RNA sequence
+GBJR01012917.1_1     -          LOTUS_CONSENSUS      -               0.23   14.1   0.1      0.55   12.9   0.1   1.6   1   0   0   1   1   1   0 TSA: Bombyx mori Bm_nscaf3034_090_1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBJR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:02 2019
+# [ok]

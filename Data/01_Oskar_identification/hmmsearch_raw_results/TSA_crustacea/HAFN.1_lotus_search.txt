@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFN01005158.1_3     -          LOTUS_CONSENSUS      -            4.4e-12   49.5   0.0   1.6e-11   47.7   0.0   1.8   2   0   0   2   2   2   1 TSA: Daphnia galeata, contig Dgal_o2652t3, transcribed RNA sequence
+HAFN01005157.1_1     -          LOTUS_CONSENSUS      -            3.8e-11   46.5   0.0   7.7e-11   45.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Daphnia galeata, contig Dgal_o2652t2, transcribed RNA sequence
+HAFN01005156.1_1     -          LOTUS_CONSENSUS      -            6.9e-11   45.7   0.0   2.3e-10   44.0   0.0   1.8   2   0   0   2   2   2   1 TSA: Daphnia galeata, contig Dgal_o2652t1, transcribed RNA sequence
+HAFN01008683.1_5     -          LOTUS_CONSENSUS      -            8.8e-11   45.3   0.0   3.7e-10   43.4   0.0   2.1   2   0   0   2   2   2   1 TSA: Daphnia galeata, contig Dgal_o4358t3, transcribed RNA sequence
+HAFN01022170.1_6     -          LOTUS_CONSENSUS      -            5.3e-10   42.9   0.0   1.1e-09   41.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia galeata, contig Dgal_s382719, transcribed RNA sequence
+HAFN01027166.1_1     -          LOTUS_CONSENSUS      -            6.5e-10   42.6   0.0   1.4e-09   41.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Daphnia galeata, contig Dgal_t23478c0t2, transcribed RNA sequence
+HAFN01001958.1_3     -          LOTUS_CONSENSUS      -            7.6e-10   42.3   0.0   1.9e-09   41.0   0.0   1.7   1   0   0   1   1   1   1 TSA: Daphnia galeata, contig Dgal_a64_f_516123, transcribed RNA sequence
+HAFN01004395.1_5     -          LOTUS_CONSENSUS      -              0.016   18.8   0.1     0.043   17.5   0.0   1.7   2   0   0   2   2   2   0 TSA: Daphnia galeata, contig Dgal_a8584, transcribed RNA sequence
+HAFN01022393.1_6     -          LOTUS_CONSENSUS      -              0.041   17.5   0.0     0.063   17.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Daphnia galeata, contig Dgal_sd43111348645, transcribed RNA sequence
+HAFN01013703.1_3     -          LOTUS_CONSENSUS      -              0.069   16.8   0.0      0.16   15.6   0.0   1.7   2   0   0   2   2   2   0 TSA: Daphnia galeata, contig Dgal_o12920d39654t1, transcribed RNA sequence
+HAFN01018028.1_1     -          LOTUS_CONSENSUS      -               0.17   15.6   0.0      0.23   15.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Daphnia galeata, contig Dgal_s275347, transcribed RNA sequence
+HAFN01026804.1_4     -          LOTUS_CONSENSUS      -               0.29   14.8   0.6        11    9.7   0.0   2.7   2   0   0   2   2   2   0 TSA: Daphnia galeata, contig Dgal_t22747c0t1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFN.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFN.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFN.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:39 2019
+# [ok]

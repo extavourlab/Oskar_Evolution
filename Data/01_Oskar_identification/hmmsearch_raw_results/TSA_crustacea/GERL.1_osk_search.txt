@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERL01055476.1_6     -          OSK_CONSENSUS        -            0.00018   25.8   0.0   0.00027   25.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Poekilogammarus pictoides c82283_g1_i1 transcribed RNA sequence
+GERL01043749.1_2     -          OSK_CONSENSUS        -               0.43   14.9   0.4       0.5   14.7   0.4   1.0   1   0   0   1   1   1   0 TSA: Poekilogammarus pictoides c77504_g2_i1 transcribed RNA sequence
+GERL01001341.1_6     -          OSK_CONSENSUS        -                3.4   11.9   0.1       4.7   11.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Poekilogammarus pictoides c5527_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERL.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERL.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERL.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:48 2019
+# [ok]

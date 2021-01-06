@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWX02045599.1_1     -          oskar_filtered.aligned.OSK_domain -            3.3e-21   79.8   0.0   8.4e-21   78.5   0.0   1.7   1   0   0   1   1   1   1 TSA: Trialeurodes vaporariorum s6126_L_9810_0_a_33_1_l_5771 transcribed RNA sequence
+GAWX02013856.1_1     -          oskar_filtered.aligned.OSK_domain -             0.0027   21.4   0.1    0.0031   21.2   0.1   1.2   1   0   0   1   1   1   1 TSA: Trialeurodes vaporariorum C142792_a_3_0_l_560 transcribed RNA sequence
+GAWX02039330.1_1     -          oskar_filtered.aligned.OSK_domain -              0.098   16.3   0.1       0.2   15.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Trialeurodes vaporariorum s11416_L_42342_0_a_27_3_l_2514 transcribed RNA sequence
+GAWX02023039.1_4     -          oskar_filtered.aligned.OSK_domain -               0.93   13.1   0.0       1.5   12.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Trialeurodes vaporariorum C173504_a_19_0_l_1458 transcribed RNA sequence
+GAWX02025939.1_1     -          oskar_filtered.aligned.OSK_domain -                2.2   11.9   0.2       5.2   10.7   0.2   1.5   1   0   0   1   1   1   0 TSA: Trialeurodes vaporariorum C183236_a_7_0_l_3872 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWX02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWX02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWX02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:10 2019
+# [ok]

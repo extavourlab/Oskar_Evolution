@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYC01071346.1_4     -          LOTUS_CONSENSUS      -            1.5e-12   52.3   0.0   6.9e-12   50.2   0.0   2.2   1   0   0   1   1   1   1 TSA: Pachypsylla celtidismamma breed wildtype s34724_L_71078_0_13_1_LINEAR, transcribed RNA sequence
+GCYC01074799.1_3     -          LOTUS_CONSENSUS      -              6e-05   28.0   2.1    0.0037   22.2   0.2   2.9   2   0   0   2   2   2   1 TSA: Pachypsylla celtidismamma breed wildtype s37832_L_87853_0_23_0_LINEAR, transcribed RNA sequence
+GCYC01048028.1_6     -          LOTUS_CONSENSUS      -             0.0039   22.1   0.1        16   10.6   0.0   3.6   3   1   1   4   4   4   2 TSA: Pachypsylla celtidismamma breed wildtype s13724_L_15207_1_7_8_COMPLEX, transcribed RNA sequence
+GCYC01031654.1_2     -          LOTUS_CONSENSUS      -             0.0053   21.7   3.8     0.013   20.5   3.8   1.8   1   1   0   1   1   1   1 TSA: Pachypsylla celtidismamma breed wildtype C832382_7_0, transcribed RNA sequence
+GCYC01041119.1_3     -          LOTUS_CONSENSUS      -              0.015   20.3   0.1        51    9.0   0.0   3.0   1   1   2   3   3   3   0 TSA: Pachypsylla celtidismamma breed wildtype C884282_6_0, transcribed RNA sequence
+GCYC01075628.1_3     -          LOTUS_CONSENSUS      -              0.056   18.4   0.0        93    8.1   0.0   2.7   2   1   0   2   2   2   0 TSA: Pachypsylla celtidismamma breed wildtype s38579_L_93233_0_7_2_LINEAR, transcribed RNA sequence
+GCYC01064583.1_5     -          LOTUS_CONSENSUS      -               0.09   17.8   1.4       0.2   16.6   1.4   1.6   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype s28634_L_47049_0_7_6_COMPLEX, transcribed RNA sequence
+GCYC01064584.1_5     -          LOTUS_CONSENSUS      -              0.095   17.7   1.4      0.25   16.4   1.4   1.7   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype s28635_L_47049_1_7_5_COMPLEX, transcribed RNA sequence
+GCYC01064585.1_4     -          LOTUS_CONSENSUS      -                0.1   17.6   1.4      0.23   16.5   1.4   1.6   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype s28636_L_47049_2_6_9_COMPLEX, transcribed RNA sequence
+GCYC01024457.1_3     -          LOTUS_CONSENSUS      -               0.11   17.5   0.0      0.15   17.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C798986_5_0, transcribed RNA sequence
+GCYC01044789.1_4     -          LOTUS_CONSENSUS      -               0.55   15.2   0.1       1.1   14.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype s10808_L_11276_0_10_6_LINEAR, transcribed RNA sequence
+GCYC01031818.1_2     -          LOTUS_CONSENSUS      -               0.99   14.4   2.8       1.4   13.9   2.8   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C833170_2_0, transcribed RNA sequence
+GCYC01050642.1_3     -          LOTUS_CONSENSUS      -                1.9   13.5   0.3       2.6   13.1   0.3   1.2   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype s16078_L_18866_2_6_1_COMPLEX, transcribed RNA sequence
+GCYC01033981.1_1     -          LOTUS_CONSENSUS      -                2.2   13.3   0.0       3.1   12.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C844010_7_0, transcribed RNA sequence
+GCYC01077244.1_4     -          LOTUS_CONSENSUS      -                4.9   12.2   0.1       4.9   12.2   0.1   3.2   4   0   0   4   4   4   0 TSA: Pachypsylla celtidismamma breed wildtype s40034_L_104599_0_4_5_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:57 2019
+# [ok]

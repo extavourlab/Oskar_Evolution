@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZB02088100.1_6     -          LOTUS_CONSENSUS      -            9.6e-23   85.2   0.9   1.2e-15   62.4   0.1   3.2   2   0   0   2   2   2   2 TSA: Lepicerus sp. AD-2013 s28553_L_101277_0_a_23_3_l_2888 transcribed RNA sequence
+GAZB02067363.1_6     -          LOTUS_CONSENSUS      -            2.4e-13   55.0   9.5   2.9e-13   54.8   0.0   3.9   4   1   0   4   4   3   1 TSA: Lepicerus sp. AD-2013 C449646_a_21_0_l_2387 transcribed RNA sequence
+GAZB02002752.1_3     -          LOTUS_CONSENSUS      -              0.046   18.9   0.5     0.067   18.4   0.5   1.4   1   1   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C237475_a_3_0_l_213 transcribed RNA sequence
+GAZB02087353.1_1     -          LOTUS_CONSENSUS      -              0.081   18.1   0.1      0.18   17.0   0.1   1.6   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 s27881_L_93423_0_a_32_0_l_1236 transcribed RNA sequence
+GAZB02011556.1_5     -          LOTUS_CONSENSUS      -               0.17   17.1   0.1      0.74   15.0   0.0   1.8   2   0   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 C263833_a_6_0_l_237 transcribed RNA sequence
+GAZB02052786.1_4     -          LOTUS_CONSENSUS      -               0.27   16.4   0.0      0.58   15.4   0.0   1.5   2   0   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 C383143_a_3_0_l_411 transcribed RNA sequence
+GAZB02063668.1_4     -          LOTUS_CONSENSUS      -               0.28   16.4   1.1        14   10.9   0.0   3.2   1   1   3   4   4   4   0 TSA: Lepicerus sp. AD-2013 C431148_a_9_0_l_845 transcribed RNA sequence
+GAZB02091483.1_2     -          LOTUS_CONSENSUS      -                  1   14.6   1.4   1.3e+02    7.8   0.0   2.4   2   0   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 s5902_L_5555_0_a_56_3_l_715 transcribed RNA sequence
+GAZB02061581.1_6     -          LOTUS_CONSENSUS      -                1.6   13.9   2.5        36    9.6   1.7   2.6   2   1   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 C421075_a_7_0_l_677 transcribed RNA sequence
+GAZB02025058.1_2     -          LOTUS_CONSENSUS      -                1.7   13.8   0.0       2.1   13.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C294658_a_6_0_l_247 transcribed RNA sequence
+GAZB02041856.1_2     -          LOTUS_CONSENSUS      -                1.8   13.8   0.0       4.4   12.6   0.0   1.6   1   1   1   2   2   2   0 TSA: Lepicerus sp. AD-2013 C340394_a_9_0_l_290 transcribed RNA sequence
+GAZB02046480.1_2     -          LOTUS_CONSENSUS      -                3.3   13.0   0.1       4.1   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C358741_a_6_0_l_334 transcribed RNA sequence
+GAZB02065777.1_1     -          LOTUS_CONSENSUS      -                6.3   12.0   0.5   6.5e+02    5.6   0.1   3.0   2   1   1   3   3   3   0 TSA: Lepicerus sp. AD-2013 C441583_a_59_0_l_1207 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZB02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:07 2019
+# [ok]

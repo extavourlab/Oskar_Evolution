@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDDY01013232.1_3     -          LOTUS_CONSENSUS      -            8.8e-11   44.8   0.1   1.9e-10   43.8   0.1   1.5   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype C87449_a_34_0_l_1307, transcribed RNA sequence
+GDDY01012730.1_1     -          LOTUS_CONSENSUS      -            1.8e-09   40.7   0.2   3.2e-09   39.8   0.2   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype C85559_a_55_0_l_1166, transcribed RNA sequence
+GDDY01021274.1_4     -          LOTUS_CONSENSUS      -              2e-09   40.5   0.0   3.8e-09   39.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype s5772_L_12737_1_a_28_5_l_1984, transcribed RNA sequence
+GDDY01021273.1_4     -          LOTUS_CONSENSUS      -              3e-09   39.9   0.0   5.8e-09   39.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype s5771_L_12737_0_a_24_4_l_2686, transcribed RNA sequence
+GDDY01010896.1_3     -          LOTUS_CONSENSUS      -            6.4e-07   32.4   0.0   1.2e-06   31.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Graphopsocus cruciatus breed wildtype C78707_a_21_0_l_791, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDDY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:37 2019
+# [ok]

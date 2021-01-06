@@ -1,0 +1,41 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBII01017052.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.1e-19   71.9   3.9   3.2e-11   47.3   0.1   4.4   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig5_AB transcribed RNA sequence
+GBII01001285.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-19   71.9   3.9   3.3e-11   47.3   0.1   4.4   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig3_AB transcribed RNA sequence
+GBII01024342.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-18   70.2   3.6     5e-11   46.7   0.1   4.3   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig10_AB transcribed RNA sequence
+GBII01035909.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-18   70.1   3.6     5e-11   46.7   0.1   4.3   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig7_AB transcribed RNA sequence
+GBII01019764.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-18   70.1   3.6   5.1e-11   46.7   0.1   4.3   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig2_AB transcribed RNA sequence
+GBII01004214.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-18   70.1   3.6   5.1e-11   46.7   0.1   4.3   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig6_AB transcribed RNA sequence
+GBII01035328.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-18   70.0   3.6   5.1e-11   46.7   0.1   4.3   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig8_AB transcribed RNA sequence
+GBII01034527.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-18   70.0   3.6   5.1e-11   46.7   0.1   4.3   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig4_AB transcribed RNA sequence
+GBII01015116.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-18   70.0   3.6   5.1e-11   46.7   0.1   4.3   3   1   1   4   4   4   3 TSA: Bemisia tabaci CL64.Contig9_AB transcribed RNA sequence
+GBII01033790.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-18   70.0   3.6   5.2e-11   46.7   0.1   4.3   3   1   1   4   4   3   3 TSA: Bemisia tabaci CL64.Contig1_AB transcribed RNA sequence
+GBII01040598.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-12   51.4   0.0   2.2e-12   51.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL1956.Contig1_AB transcribed RNA sequence
+GBII01032005.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-12   51.3   0.0   2.3e-12   51.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL1956.Contig2_AB transcribed RNA sequence
+GBII01028865.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-12   50.2   0.0   5.8e-12   49.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL1956.Contig3_AB transcribed RNA sequence
+GBII01037526.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-06   32.5   0.1        32    8.9   0.0   6.8   5   1   2   7   7   6   1 TSA: Bemisia tabaci Unigene20184_AB transcribed RNA sequence
+GBII01022644.1_1     -          oskar_filtered.aligned.LOTUS_domain -            0.00011   26.4   0.0    0.0004   24.6   0.0   1.9   2   0   0   2   2   1   1 TSA: Bemisia tabaci Unigene1043_AB transcribed RNA sequence
+GBII01017698.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.3   0.4       9.4   10.5   0.1   2.3   2   0   0   2   2   2   0 TSA: Bemisia tabaci Unigene26952_AB transcribed RNA sequence
+GBII01027967.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.46   14.8   0.2       1.3   13.4   0.0   1.8   2   0   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig8_AB transcribed RNA sequence
+GBII01034577.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.47   14.7   1.0       1.1   13.5   0.0   2.0   3   0   0   3   3   2   0 TSA: Bemisia tabaci CL723.Contig1_AB transcribed RNA sequence
+GBII01021173.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.49   14.7   0.3       1.7   13.0   0.0   2.0   2   1   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig9_AB transcribed RNA sequence
+GBII01038701.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.52   14.6   0.8       1.3   13.3   0.0   2.0   3   0   0   3   3   1   0 TSA: Bemisia tabaci Unigene19540_AB transcribed RNA sequence
+GBII01043540.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.53   14.6   0.2       1.4   13.2   0.0   1.8   2   0   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig7_AB transcribed RNA sequence
+GBII01014790.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.53   14.5   0.2       1.3   13.3   0.0   1.7   2   0   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig2_AB transcribed RNA sequence
+GBII01020674.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.58   14.4   0.4       1.8   12.8   0.0   2.0   2   1   1   3   3   1   0 TSA: Bemisia tabaci CL723.Contig6_AB transcribed RNA sequence
+GBII01009189.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.58   14.4   0.7       1.6   13.0   0.0   2.0   3   0   0   3   3   1   0 TSA: Bemisia tabaci Unigene19539_AB transcribed RNA sequence
+GBII01014872.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.6   14.4   0.2       1.5   13.1   0.0   1.7   2   0   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig10_AB transcribed RNA sequence
+GBII01027273.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.61   14.4   0.2       1.7   13.0   0.0   1.8   2   0   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig4_AB transcribed RNA sequence
+GBII01042068.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.67   14.2   0.4       2.1   12.6   0.0   2.0   2   1   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig5_AB transcribed RNA sequence
+GBII01048204.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.69   14.2   0.2       1.8   12.9   0.0   1.7   2   0   0   2   2   1   0 TSA: Bemisia tabaci CL723.Contig3_AB transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBII01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBII01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBII01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:30 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPO01015489.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.11   17.0   0.0      0.13   16.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Popa spurca breed breeding C154514_a_3_0_l_263, transcribed RNA sequence
+GCPO01041292.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.56   14.7   0.0       1.7   13.2   0.0   1.7   2   0   0   2   2   2   0 TSA: Popa spurca breed breeding C221208_a_38_0_l_651, transcribed RNA sequence
+GCPO01046164.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.69   14.4   2.4       0.9   14.0   0.9   1.9   2   0   0   2   2   2   0 TSA: Popa spurca breed breeding C234974_a_8_0_l_1122, transcribed RNA sequence
+GCPO01048364.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.2   0.1       6.8   11.2   0.0   2.0   2   0   0   2   2   2   0 TSA: Popa spurca breed breeding C241332_a_28_0_l_2091, transcribed RNA sequence
+GCPO01058045.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.0   0.1   4.2e+02    5.5   0.0   2.5   1   1   1   2   2   2   0 TSA: Popa spurca breed breeding s8345_L_23899_0_a_3_6_l_508, transcribed RNA sequence
+GCPO01015743.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.6   12.6   0.0       2.9   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Popa spurca breed breeding C155082_a_4_0_l_264, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:21 2019
+# [ok]

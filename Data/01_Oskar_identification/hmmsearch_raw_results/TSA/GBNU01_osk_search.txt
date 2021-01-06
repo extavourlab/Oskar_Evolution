@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNU01023430.1_2     -          OSK_CONSENSUS        -            2.3e-58  199.3   0.3   5.1e-58  198.2   0.3   1.5   1   0   0   1   1   1   1 TSA: Euodynerus quadrifasciatus s536_L_657_0_a_44_4_l_1611 transcribed RNA sequence
+GBNU01020583.1_3     -          OSK_CONSENSUS        -              0.074   15.7   0.6       0.1   15.3   0.6   1.3   1   0   0   1   1   1   0 TSA: Euodynerus quadrifasciatus s274_L_335_1_a_17_5_l_439 transcribed RNA sequence
+GBNU01020572.1_3     -          OSK_CONSENSUS        -              0.082   15.5   4.8      0.31   13.6   0.8   2.4   1   1   1   2   2   2   0 TSA: Euodynerus quadrifasciatus s273_L_335_0_a_17_7_l_685 transcribed RNA sequence
+GBNU01000084.1_1     -          OSK_CONSENSUS        -               0.11   15.1   0.0      0.12   15.0   0.0   1.0   1   0   0   1   1   1   0 TSA: Euodynerus quadrifasciatus C29920_a_3_0_l_202 transcribed RNA sequence
+GBNU01009075.1_4     -          OSK_CONSENSUS        -               0.54   12.9   0.8       9.1    8.9   0.8   2.0   1   1   1   2   2   2   0 TSA: Euodynerus quadrifasciatus C56271_a_15_0_l_450 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:50 2019
+# [ok]

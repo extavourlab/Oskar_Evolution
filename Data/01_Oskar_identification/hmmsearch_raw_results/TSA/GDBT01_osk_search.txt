@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBT01023032.1_6     -          OSK_CONSENSUS        -             0.0048   20.9   0.2    0.0053   20.7   0.2   1.1   1   0   0   1   1   1   1 TSA: Stagmatoptera biocellata breed breeding C156846_a_7_0_l_343, transcribed RNA sequence
+GDBT01055256.1_2     -          OSK_CONSENSUS        -              0.023   18.7   0.2     0.055   17.4   0.2   1.7   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding s1899_L_2621_0_a_5_5_l_1129, transcribed RNA sequence
+GDBT01055259.1_2     -          OSK_CONSENSUS        -              0.028   18.4   0.1      0.07   17.1   0.1   1.7   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding s1900_L_2621_1_a_5_9_l_1126, transcribed RNA sequence
+GDBT01027832.1_1     -          OSK_CONSENSUS        -              0.037   18.0   0.5     0.042   17.8   0.5   1.2   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding C169276_a_6_0_l_401, transcribed RNA sequence
+GDBT01048014.1_5     -          OSK_CONSENSUS        -              0.038   17.9   0.2        13    9.7   0.0   3.2   3   1   0   3   3   3   0 TSA: Stagmatoptera biocellata breed breeding C223437_a_61_0_l_1395, transcribed RNA sequence
+GDBT01042801.1_3     -          OSK_CONSENSUS        -               0.57   14.1   0.1       1.1   13.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding C208935_a_36_0_l_829, transcribed RNA sequence
+GDBT01011497.1_4     -          OSK_CONSENSUS        -                1.1   13.2   0.0       1.2   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding C127553_a_5_0_l_256, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:56 2019
+# [ok]

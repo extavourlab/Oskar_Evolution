@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARW01012303.1_1     -          OSK_CONSENSUS        -              0.048   17.3   0.2      0.12   16.1   0.1   1.7   2   0   0   2   2   2   0 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_10816_2 transcribed RNA sequence
+GARW01036498.1_6     -          OSK_CONSENSUS        -               0.64   13.7   0.4       0.7   13.5   0.4   1.1   1   0   0   1   1   1   0 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_32402_2 transcribed RNA sequence
+GARW01005172.1_1     -          OSK_CONSENSUS        -                1.9   12.1   2.2       2.7   11.6   2.1   1.4   1   1   0   1   1   1   0 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_4653_1 transcribed RNA sequence
+GARW01005688.1_2     -          OSK_CONSENSUS        -                1.9   12.1   0.2        13    9.4   0.0   2.3   3   0   0   3   3   3   0 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_5106_1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GARW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GARW.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GARW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:21 2019
+# [ok]

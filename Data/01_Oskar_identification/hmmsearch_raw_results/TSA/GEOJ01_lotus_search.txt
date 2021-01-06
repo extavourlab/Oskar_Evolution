@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOJ01077755.1_5     -          LOTUS_CONSENSUS      -            5.1e-14   59.6   0.1   2.1e-13   57.6   0.1   1.8   1   1   0   1   1   1   1 TSA: Lophocorona astiptica TR44528-c0_g1_i1 transcribed RNA sequence
+GEOJ01210279.1_4     -          LOTUS_CONSENSUS      -             0.0029   25.1   0.0    0.0032   25.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Lophocorona astiptica TR157290-c0_g1_i1 transcribed RNA sequence
+GEOJ01200378.1_1     -          LOTUS_CONSENSUS      -                1.4   16.5   0.3       1.9   16.1   0.3   1.2   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR144826-c0_g1_i1 transcribed RNA sequence
+GEOJ01002657.1_3     -          LOTUS_CONSENSUS      -                  5   14.7   0.1       5.7   14.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR747-c1_g1_i2 transcribed RNA sequence
+GEOJ01491671.1_2     -          LOTUS_CONSENSUS      -                6.2   14.4   0.1       8.1   14.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR442419-c0_g2_i1 transcribed RNA sequence
+GEOJ01273334.1_4     -          LOTUS_CONSENSUS      -                6.8   14.3   0.1        20   12.8   0.0   1.8   2   0   0   2   2   2   0 TSA: Lophocorona astiptica TR207234-c0_g1_i1 transcribed RNA sequence
+GEOJ01284935.1_3     -          LOTUS_CONSENSUS      -                7.2   14.2   0.5       9.9   13.8   0.5   1.7   1   1   0   1   1   1   0 TSA: Lophocorona astiptica TR215668-c0_g1_i1 transcribed RNA sequence
+GEOJ01207901.1_5     -          LOTUS_CONSENSUS      -                7.2   14.2   0.2       8.5   14.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR154321-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:13 2019
+# [ok]

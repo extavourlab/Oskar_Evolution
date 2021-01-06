@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWS02046673.1_1     -          oskar_filtered.aligned.LOTUS_domain -              4e-14   56.8   0.0   6.2e-14   56.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Periplaneta americana s2537_L_2829_1_a_4_4_l_862 transcribed RNA sequence
+GAWS02044319.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00015   26.1   0.0       2.8   12.3   0.0   2.4   2   0   0   2   2   2   2 TSA: Periplaneta americana s12320_L_45317_0_a_4_7_l_1462 transcribed RNA sequence
+GAWS02005385.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.35   15.2   0.5      0.39   15.1   0.5   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana C122926_a_3_0_l_236 transcribed RNA sequence
+GAWS02049467.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.42   15.0   0.0       0.8   14.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Periplaneta americana s5062_L_6874_1_a_14_3_l_609 transcribed RNA sequence
+GAWS02007223.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.74   14.2   0.0      0.76   14.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Periplaneta americana C127448_a_3_0_l_243 transcribed RNA sequence
+GAWS02003822.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.94   13.8   0.0      0.96   13.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana C118733_a_4_0_l_227 transcribed RNA sequence
+GAWS02049466.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.5   0.0       2.9   12.3   0.0   1.6   1   0   0   1   1   1   0 TSA: Periplaneta americana s5061_L_6874_0_a_16_4_l_1246 transcribed RNA sequence
+GAWS02043338.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.5   0.4         5   11.5   0.0   2.1   2   0   0   2   2   2   0 TSA: Periplaneta americana s11436_L_36796_0_a_23_6_l_833 transcribed RNA sequence
+GAWS02029235.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.4   0.8       2.7   12.4   0.8   1.5   1   0   0   1   1   1   0 TSA: Periplaneta americana C189999_a_7_0_l_563 transcribed RNA sequence
+GAWS02032446.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.3   12.6   1.7        48    8.4   0.2   2.2   2   0   0   2   2   2   0 TSA: Periplaneta americana C199890_a_4_0_l_699 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWS02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWS02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWS02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:46 2019
+# [ok]

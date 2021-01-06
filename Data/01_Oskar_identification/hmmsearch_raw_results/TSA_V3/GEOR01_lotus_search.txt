@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOR01018760.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-15   61.0   0.0     4e-13   53.1   0.0   2.6   2   0   0   2   2   2   1 TSA: Tineola bisselliella c14179_g1_i1 transcribed RNA sequence
+GEOR01018761.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-15   60.9   0.0   3.9e-13   53.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Tineola bisselliella c14179_g1_i2 transcribed RNA sequence
+GEOR01021077.1_6     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-11   45.9   0.0   8.3e-07   32.9   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella c15125_g1_i1 transcribed RNA sequence
+GEOR01021078.1_6     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-11   45.8   0.0   9.1e-07   32.7   0.0   2.6   2   0   0   2   2   2   2 TSA: Tineola bisselliella c15125_g1_i2 transcribed RNA sequence
+GEOR01033690.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-07   34.9   0.0     0.041   17.8   0.0   2.5   2   0   0   2   2   2   2 TSA: Tineola bisselliella c23886_g1_i1 transcribed RNA sequence
+GEOR01005320.1_2     -          oskar_filtered.aligned.LOTUS_domain -              9e-05   26.3   0.0   0.00015   25.6   0.0   1.4   1   0   0   1   1   1   1 TSA: Tineola bisselliella c5473_g1_i1 transcribed RNA sequence
+GEOR01010884.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.71   13.8   0.6       1.8   12.5   0.2   1.9   2   0   0   2   2   2   0 TSA: Tineola bisselliella c9720_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:20 2019
+# [ok]

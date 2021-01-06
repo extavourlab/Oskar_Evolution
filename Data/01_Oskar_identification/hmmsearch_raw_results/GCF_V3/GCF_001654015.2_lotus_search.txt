@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_030246782.1       -          oskar_filtered.aligned.LOTUS_domain -            2.4e-28   98.5   3.3   7.8e-28   96.9   0.1   3.1   3   0   0   3   3   3   1 maternal effect protein oskar isoform X2 [Drosophila navojoa]
+XP_017968973.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-27   96.5   0.1     1e-27   96.5   0.1   3.4   4   0   0   4   4   4   1 maternal effect protein oskar isoform X1 [Drosophila navojoa]
+XP_030246928.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-12   47.0   1.9   1.8e-11   44.4   0.0   2.9   3   0   0   3   3   3   1 uncharacterized protein LOC108652777 [Drosophila navojoa]
+XP_030245003.1       -          oskar_filtered.aligned.LOTUS_domain -            3.1e-12   46.8   0.0     1e-11   45.1   0.0   1.9   1   0   0   1   1   1   1 tudor domain-containing protein 7 isoform X1 [Drosophila navojoa]
+XP_017959463.1       -          oskar_filtered.aligned.LOTUS_domain -              0.023   15.2   0.2      0.11   13.0   0.0   2.3   2   0   0   2   2   2   0 uncharacterized protein LOC108653473 [Drosophila navojoa]
+XP_030244199.1       -          oskar_filtered.aligned.LOTUS_domain -               0.19   12.2   0.0      0.41   11.1   0.0   1.5   1   0   0   1   1   1   0 uncharacterized protein LOC108655839 [Drosophila navojoa]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001654015.2_UFRJ_Dnav_4.2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001654015.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001654015.2_UFRJ_Dnav_4.2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:56 2019
+# [ok]

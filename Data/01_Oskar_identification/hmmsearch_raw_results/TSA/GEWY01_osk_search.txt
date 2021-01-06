@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEWY01000360.1_4     -          OSK_CONSENSUS        -             0.0014   21.6   0.0    0.0015   21.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Reticulitermes flavipes TR20760_c0_g1_i1 transcribed RNA sequence
+GEWY01008273.1_6     -          OSK_CONSENSUS        -               0.46   13.4   0.0       0.6   13.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Reticulitermes flavipes TR433652_c0_g1_i1 transcribed RNA sequence
+GEWY01026655.1_4     -          OSK_CONSENSUS        -               0.55   13.2   0.0      0.61   13.0   0.0   1.0   1   0   0   1   1   1   0 TSA: Reticulitermes flavipes TR1388805_c0_g1_i1 transcribed RNA sequence
+GEWY01014806.1_4     -          OSK_CONSENSUS        -               0.74   12.7   0.1      0.75   12.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Reticulitermes flavipes TR843832_c0_g1_i1 transcribed RNA sequence
+GEWY01013486.1_5     -          OSK_CONSENSUS        -                1.7   11.6   0.0       2.2   11.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Reticulitermes flavipes TR761229_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEWY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEWY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEWY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:41 2019
+# [ok]

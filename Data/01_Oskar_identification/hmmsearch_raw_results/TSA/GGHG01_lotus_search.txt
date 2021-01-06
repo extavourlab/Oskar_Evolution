@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGHG01022583.1_4     -          LOTUS_CONSENSUS      -              2e-17   66.7   0.3   1.1e-16   64.3   0.1   1.9   2   0   0   2   2   2   1 TSA: Mydaea urbana Mydaea_urbana_contig_27519 transcribed RNA sequence
+GGHG01014442.1_4     -          LOTUS_CONSENSUS      -            7.7e-08   35.9   0.0   4.5e-07   33.5   0.0   2.4   1   0   0   1   1   1   1 TSA: Mydaea urbana Mydaea_urbana_contig_3956.2 transcribed RNA sequence
+GGHG01006562.1_6     -          LOTUS_CONSENSUS      -               0.33   14.7   0.5      0.42   14.3   0.5   1.1   1   0   0   1   1   1   0 TSA: Mydaea urbana Mydaea_urbana_contig_13985 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGHG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:59 2019
+# [ok]

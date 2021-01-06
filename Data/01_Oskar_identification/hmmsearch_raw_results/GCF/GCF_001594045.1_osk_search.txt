@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018043713.1       -          OSK_CONSENSUS        -            9.7e-62  207.2   0.2   1.8e-61  206.3   0.2   1.4   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108684124 isoform X2 [Atta colombica]
+XP_018043712.1       -          OSK_CONSENSUS        -            8.4e-46  155.4   0.3   1.5e-45  154.6   0.3   1.3   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108684124 isoform X1 [Atta colombica]
+XP_018059250.1       -          OSK_CONSENSUS        -             0.0078   15.8   0.1      0.02   14.5   0.0   1.7   1   1   1   2   2   2   1 PREDICTED: epidermal retinol dehydrogenase 2-like [Atta colombica]
+XP_018059251.1       -          OSK_CONSENSUS        -             0.0078   15.8   0.1      0.02   14.5   0.0   1.7   1   1   1   2   2   2   1 PREDICTED: epidermal retinol dehydrogenase 2-like [Atta colombica]
+XP_018050963.1       -          OSK_CONSENSUS        -              0.084   12.4   1.1      0.31   10.6   0.3   2.3   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco [Atta colombica]
+XP_018050964.1       -          OSK_CONSENSUS        -              0.084   12.4   1.1      0.31   10.6   0.3   2.3   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco [Atta colombica]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594045.1_Acol1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594045.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594045.1_Acol1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:54 2019
+# [ok]

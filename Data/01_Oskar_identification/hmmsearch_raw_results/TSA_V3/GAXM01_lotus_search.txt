@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXM01030263.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-28  102.4   0.2   2.6e-28  102.4   0.2   2.4   3   0   0   3   3   2   1 TSA: Mischocyttarus flavitarsis comp13632_c20_seq3 transcribed RNA sequence
+GAXM01014036.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-21   81.2   9.4     7e-21   78.6   0.2   3.8   3   0   0   3   3   3   1 TSA: Mischocyttarus flavitarsis comp11059_c0_seq1 transcribed RNA sequence
+GAXM01044940.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-15   61.5   2.4   1.5e-15   61.5   2.4   1.8   2   0   0   2   2   2   1 TSA: Mischocyttarus flavitarsis comp52755_c0_seq1 transcribed RNA sequence
+GAXM01005348.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.3e-06   31.1   0.0        34    8.9   0.0   6.2   2   1   4   6   6   6   1 TSA: Mischocyttarus flavitarsis comp5576_c0_seq1 transcribed RNA sequence
+GAXM01012377.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.47   14.9   0.2      0.47   14.9   0.2   2.8   3   0   0   3   3   3   0 TSA: Mischocyttarus flavitarsis comp10383_c1_seq1 transcribed RNA sequence
+GAXM01006060.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.55   14.7   0.4      0.78   14.2   0.4   1.3   1   0   0   1   1   1   0 TSA: Mischocyttarus flavitarsis comp6253_c0_seq1 transcribed RNA sequence
+GAXM01057960.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.6   0.0       1.5   13.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Mischocyttarus flavitarsis comp215113_c0_seq1 transcribed RNA sequence
+GAXM01027186.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.4   0.6        17    9.9   0.1   2.7   3   0   0   3   3   3   0 TSA: Mischocyttarus flavitarsis comp13520_c32_seq1 transcribed RNA sequence
+GAXM01040729.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.3   1.3        13   10.3   0.4   2.1   2   0   0   2   2   2   0 TSA: Mischocyttarus flavitarsis comp25332_c0_seq1 transcribed RNA sequence
+GAXM01054721.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.1   0.4         2   12.9   0.4   1.2   1   0   0   1   1   1   0 TSA: Mischocyttarus flavitarsis comp138897_c0_seq1 transcribed RNA sequence
+GAXM01027189.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.1   0.7        17    9.9   0.1   2.7   3   0   0   3   3   3   0 TSA: Mischocyttarus flavitarsis comp13520_c32_seq4 transcribed RNA sequence
+GAXM01027191.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.8   0.6        20    9.7   0.0   2.7   3   0   0   3   3   3   0 TSA: Mischocyttarus flavitarsis comp13520_c32_seq6 transcribed RNA sequence
+GAXM01032034.1_3     -          oskar_filtered.aligned.LOTUS_domain -                5.1   11.6   0.1       5.1   11.6   0.1   2.6   4   0   0   4   4   1   0 TSA: Mischocyttarus flavitarsis comp13694_c14_seq22 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:36 2019
+# [ok]

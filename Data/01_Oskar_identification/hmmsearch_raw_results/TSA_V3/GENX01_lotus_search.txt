@@ -1,0 +1,38 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENX01330857.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.1e-06   32.5   0.0   1.3e-05   32.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Agathiphaga queenslandensis TR391600-c0_g1_i1 transcribed RNA sequence
+GENX01123937.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.13   19.1   0.2      0.14   19.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR186330-c0_g1_i1 transcribed RNA sequence
+GENX01210005.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.17   18.8   1.0      0.22   18.5   1.0   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR287471-c2_g1_i5 transcribed RNA sequence
+GENX01210003.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.31   18.0   1.0      0.41   17.6   1.0   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR287471-c2_g1_i3 transcribed RNA sequence
+GENX01150184.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.41   17.6   2.4     1e+02    9.9   0.2   2.1   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR240639-c0_g1_i1 transcribed RNA sequence
+GENX01194479.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.51   17.3   0.8      0.59   17.1   0.8   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR278091-c0_g2_i1 transcribed RNA sequence
+GENX01309417.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.63   17.0   0.1      0.86   16.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR355281-c0_g1_i1 transcribed RNA sequence
+GENX01192180.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.1   16.1   0.2     2e+02    8.9   0.1   2.1   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR276199-c5_g6_i1 transcribed RNA sequence
+GENX01166497.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.3   16.0   1.8       1.9   15.5   1.8   1.3   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR261136-c3_g2_i1 transcribed RNA sequence
+GENX01210004.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.4   15.8   0.6       1.7   15.5   0.6   1.3   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR287471-c2_g1_i4 transcribed RNA sequence
+GENX01267728.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  2   15.3   0.9         4   14.4   0.9   1.6   1   1   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR323168-c0_g1_i3 transcribed RNA sequence
+GENX01192175.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  2   15.3   0.2   2.2e+02    8.8   0.1   2.1   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR276199-c5_g2_i1 transcribed RNA sequence
+GENX01300289.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.9   14.8   2.1        13   12.7   0.5   2.0   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR342328-c0_g1_i1 transcribed RNA sequence
+GENX01192183.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  3   14.8   0.2   2.8e+02    8.5   0.1   2.1   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR276199-c5_g12_i1 transcribed RNA sequence
+GENX01135857.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  3   14.8   2.5   6.5e+02    7.3   0.2   2.3   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR210843-c0_g1_i1 transcribed RNA sequence
+GENX01045854.1_3     -          oskar_filtered.aligned.LOTUS_domain -                  4   14.4   0.2       5.1   14.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR57050-c0_g2_i1 transcribed RNA sequence
+GENX01218000.1_3     -          oskar_filtered.aligned.LOTUS_domain -                4.3   14.3   0.3        19   12.2   0.1   1.9   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR292576-c1_g3_i1 transcribed RNA sequence
+GENX01013182.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.9   14.1   0.3         7   13.6   0.3   1.3   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR16472-c0_g1_i2 transcribed RNA sequence
+GENX01091398.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.6   13.9   0.1        13   12.8   0.0   1.6   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR134252-c0_g3_i1 transcribed RNA sequence
+GENX01192182.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.7   13.9   0.4     2e+02    8.9   0.1   2.1   2   0   0   2   2   2   0 TSA: Agathiphaga queenslandensis TR276199-c5_g11_i1 transcribed RNA sequence
+GENX01309059.1_4     -          oskar_filtered.aligned.LOTUS_domain -                7.1   13.6   0.2       9.4   13.2   0.2   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR354707-c0_g1_i1 transcribed RNA sequence
+GENX01214507.1_3     -          oskar_filtered.aligned.LOTUS_domain -                7.1   13.6   0.0       8.1   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR290886-c0_g1_i1 transcribed RNA sequence
+GENX01325957.1_6     -          oskar_filtered.aligned.LOTUS_domain -                7.3   13.6   0.0         8   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR383383-c0_g2_i1 transcribed RNA sequence
+GENX01053453.1_1     -          oskar_filtered.aligned.LOTUS_domain -                7.3   13.5   0.1        13   12.7   0.1   1.4   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR66562-c0_g1_i2 transcribed RNA sequence
+GENX01045855.1_3     -          oskar_filtered.aligned.LOTUS_domain -                9.9   13.1   0.3        15   12.5   0.3   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR57050-c0_g3_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:24 2019
+# [ok]

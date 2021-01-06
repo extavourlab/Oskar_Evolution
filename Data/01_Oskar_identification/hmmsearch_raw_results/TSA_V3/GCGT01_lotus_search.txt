@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCGT01016524.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-25   90.4   0.9   3.3e-24   87.8   0.0   2.6   3   0   0   3   3   3   1 TSA: Melanostoma scalare s2135_L_2823_0_a_40_3_l_1654 transcribed RNA sequence
+GCGT01019315.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-19   71.1   0.0   2.5e-18   68.9   0.0   2.2   2   0   0   2   2   2   1 TSA: Melanostoma scalare s4681_L_12253_0_a_7_1_l_2392 transcribed RNA sequence
+GCGT01014480.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   26.4   0.0   4.5e-05   26.4   0.0   3.6   3   1   0   3   3   3   1 TSA: Melanostoma scalare C80346_a_9_0_l_1835 transcribed RNA sequence
+GCGT01015134.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.37   13.8   0.0   9.8e+02    2.8   0.0   5.1   6   0   0   6   6   6   0 TSA: Melanostoma scalare C82492_a_20_0_l_2948 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCGT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:34 2019
+# [ok]

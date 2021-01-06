@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCR01083422.1_1     -          OSK_CONSENSUS        -            2.5e-27  100.5   0.1   4.2e-27   99.7   0.1   1.4   1   0   0   1   1   1   1 TSA: Blattella germanica breed breeding C376939_a_21_0_l_1586, transcribed RNA sequence
+GDCR01047588.1_6     -          OSK_CONSENSUS        -               0.66   14.6   0.1      0.68   14.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C281520_a_3_0_l_319, transcribed RNA sequence
+GDCR01002542.1_5     -          OSK_CONSENSUS        -               0.77   14.4   0.0      0.79   14.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C175154_a_3_0_l_210, transcribed RNA sequence
+GDCR01072055.1_2     -          OSK_CONSENSUS        -               0.89   14.2   0.0       1.2   13.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C345127_a_3_0_l_602, transcribed RNA sequence
+GDCR01091938.1_4     -          OSK_CONSENSUS        -                3.8   12.1   0.0   2.7e+02    6.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Blattella germanica breed breeding s16248_L_101349_0_a_13_0_l_1750, transcribed RNA sequence
+GDCR01054094.1_5     -          OSK_CONSENSUS        -                4.2   12.0   0.0       5.8   11.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C298213_a_3_0_l_364, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:18 2019
+# [ok]

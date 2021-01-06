@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWK01010434.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-17   66.9   0.0   2.8e-17   66.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Belostoma flumineum breed wildtype C145703_5_0, transcribed RNA sequence
+GCWK01032117.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-06   30.3   0.0      0.15   15.8   0.0   2.9   1   1   2   3   3   3   2 TSA: Belostoma flumineum breed wildtype s7929_L_17780_0_3_4_LINEAR, transcribed RNA sequence
+GCWK01018170.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.54   14.0   0.0      0.61   13.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Belostoma flumineum breed wildtype C89081_3_0, transcribed RNA sequence
+GCWK01031700.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.66   13.7   0.5   2.8e+02    5.2   0.0   3.1   3   0   0   3   3   3   0 TSA: Belostoma flumineum breed wildtype s7553_L_16476_3_46_4_COMPLEX, transcribed RNA sequence
+GCWK01005643.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.76   13.5   0.2       1.3   12.7   0.2   1.4   1   0   0   1   1   1   0 TSA: Belostoma flumineum breed wildtype C121671_2_0, transcribed RNA sequence
+GCWK01031109.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  1   13.1   0.1       3.1   11.6   0.1   1.9   1   0   0   1   1   1   0 TSA: Belostoma flumineum breed wildtype s7020_L_14627_0_5_0_LINEAR, transcribed RNA sequence
+GCWK01029254.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.7   12.4   0.1       2.6   11.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Belostoma flumineum breed wildtype s534_L_695_3_50_9_COMPLEX, transcribed RNA sequence
+GCWK01000136.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.0   0.0       6.8   10.4   0.0   1.7   1   1   1   2   2   2   0 TSA: Belostoma flumineum breed wildtype C100499_3_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:59 2019
+# [ok]

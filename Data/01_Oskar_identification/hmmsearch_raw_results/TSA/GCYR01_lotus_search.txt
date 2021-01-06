@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYR01018944.1_5     -          LOTUS_CONSENSUS      -            1.5e-15   60.5   0.0   3.8e-09   40.0   0.0   3.6   3   0   0   3   3   3   3 TSA: Frankliniella occidentalis breed wildtype s13637_L_30543_0_29_2_LINEAR, transcribed RNA sequence
+GCYR01017115.1_2     -          LOTUS_CONSENSUS      -            2.7e-13   53.2   0.0   6.4e-13   52.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Frankliniella occidentalis breed wildtype s11986_L_25150_0_51_6_LINEAR, transcribed RNA sequence
+GCYR01024267.1_1     -          LOTUS_CONSENSUS      -              4e-09   39.9   0.1   5.8e-08   36.2   0.0   2.6   2   0   0   2   2   2   1 TSA: Frankliniella occidentalis breed wildtype s5212_L_7717_1_52_1_FORK, transcribed RNA sequence
+GCYR01021216.1_5     -          LOTUS_CONSENSUS      -            5.2e-06   29.9   0.0       7.2   10.2   0.0   5.7   3   2   3   6   6   6   1 TSA: Frankliniella occidentalis breed wildtype s2453_L_3111_0_31_4_FORK, transcribed RNA sequence
+GCYR01021217.1_6     -          LOTUS_CONSENSUS      -            9.3e-06   29.1   0.0         8   10.1   0.0   5.6   3   2   3   6   6   6   1 TSA: Frankliniella occidentalis breed wildtype s2454_L_3111_1_30_8_FORK, transcribed RNA sequence
+GCYR01017639.1_6     -          LOTUS_CONSENSUS      -              0.062   16.8   2.4        19    8.8   0.1   2.5   2   0   0   2   2   2   0 TSA: Frankliniella occidentalis breed wildtype s1245_L_1447_1_14_6_FORK, transcribed RNA sequence
+GCYR01017628.1_6     -          LOTUS_CONSENSUS      -              0.099   16.2   2.4        25    8.5   0.1   2.5   2   0   0   2   2   2   0 TSA: Frankliniella occidentalis breed wildtype s1244_L_1447_0_14_8_FORK, transcribed RNA sequence
+GCYR01010899.1_4     -          LOTUS_CONSENSUS      -               0.64   13.6   2.8       2.7   11.6   2.8   1.9   1   1   0   1   1   1   0 TSA: Frankliniella occidentalis breed wildtype C206855_4_0, transcribed RNA sequence
+GCYR01011840.1_3     -          LOTUS_CONSENSUS      -               0.72   13.4   0.0       1.5   12.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Frankliniella occidentalis breed wildtype C213699_35_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:23 2019
+# [ok]

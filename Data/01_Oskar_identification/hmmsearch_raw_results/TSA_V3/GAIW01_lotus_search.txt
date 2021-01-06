@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAIW01011550.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-25   92.3   6.6   9.2e-25   89.9   3.5   2.8   2   0   0   2   2   2   1 TSA: Ganaspis sp. G1 comp580_c0_seq1 transcribed RNA sequence
+GAIW01011551.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-25   91.4   3.5     7e-25   90.3   3.5   1.6   1   0   0   1   1   1   1 TSA: Ganaspis sp. G1 comp580_c0_seq2 transcribed RNA sequence
+GAIW01001968.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-20   76.7   0.0   9.2e-17   64.3   0.1   2.9   2   0   0   2   2   2   2 TSA: Ganaspis sp. G1 comp8364_c0_seq1 transcribed RNA sequence
+GAIW01012472.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-20   75.2   0.0   1.3e-19   73.4   0.0   2.0   1   0   0   1   1   1   1 TSA: Ganaspis sp. G1 comp1411_c0_seq1 transcribed RNA sequence
+GAIW01022470.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-18   70.1   1.8   4.5e-11   46.0   0.0   4.9   4   0   0   4   4   4   3 TSA: Ganaspis sp. G1 comp2952_c0_seq1 transcribed RNA sequence
+GAIW01009539.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-18   68.7   0.7     2e-17   66.4   0.7   2.3   1   0   0   1   1   1   1 TSA: Ganaspis sp. G1 comp454_c0_seq1 transcribed RNA sequence
+GAIW01026026.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-13   52.2   3.7   6.7e-13   51.9   0.1   3.2   3   0   0   3   3   3   1 TSA: Ganaspis sp. G1 comp12636_c0_seq1 transcribed RNA sequence
+GAIW01018543.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.3   12.4   1.6       1.5   12.3   0.6   1.6   2   0   0   2   2   2   0 TSA: Ganaspis sp. G1 comp11792_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAIW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAIW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAIW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:01 2019
+# [ok]

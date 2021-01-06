@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOV01016742.1_6     -          LOTUS_CONSENSUS      -            1.9e-18   69.5   0.0     4e-18   68.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Philotrypesis parca s1917_L_2450_1_a_64_7_l_1523 transcribed RNA sequence
+GBOV01016741.1_6     -          LOTUS_CONSENSUS      -            2.2e-18   69.3   0.0   4.6e-18   68.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Philotrypesis parca s1916_L_2450_0_a_66_6_l_1674 transcribed RNA sequence
+GBOV01003431.1_1     -          LOTUS_CONSENSUS      -            2.3e-14   56.4   0.2   1.3e-13   54.1   0.0   2.4   2   0   0   2   2   2   1 TSA: Philotrypesis parca C115860_a_61_0_l_3645 transcribed RNA sequence
+GBOV01023154.1_2     -          LOTUS_CONSENSUS      -            4.4e-13   52.3   2.2   2.7e-07   33.8   0.0   4.0   3   0   0   3   3   3   2 TSA: Philotrypesis parca s7699_L_19513_1_a_24_1_l_3560 transcribed RNA sequence
+GBOV01023153.1_2     -          LOTUS_CONSENSUS      -            8.9e-13   51.3  10.2   2.1e-07   34.1   0.0   4.1   3   1   0   3   3   3   2 TSA: Philotrypesis parca s7698_L_19513_0_a_7_0_l_2888 transcribed RNA sequence
+GBOV01002189.1_3     -          LOTUS_CONSENSUS      -            8.5e-09   38.6   9.3   1.6e-07   34.5   0.8   3.7   3   1   0   4   4   4   2 TSA: Philotrypesis parca C110690_a_10_0_l_2036 transcribed RNA sequence
+GBOV01021609.1_6     -          LOTUS_CONSENSUS      -            1.2e-06   31.7   0.0        18    8.7   0.0   5.9   4   2   2   6   6   6   3 TSA: Philotrypesis parca s6306_L_14138_0_a_50_3_l_5957 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:35 2019
+# [ok]

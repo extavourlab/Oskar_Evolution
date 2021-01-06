@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYA01083691.1_4     -          oskar_filtered.aligned.LOTUS_domain -              4e-22   83.3   0.0   1.1e-10   46.6   0.0   4.0   3   0   0   3   3   3   3 TSA: Limnoporus canaliculatus breed wildtype s28609_L_70962_0_10_3_FORK, transcribed RNA sequence
+GCYA01083693.1_5     -          oskar_filtered.aligned.LOTUS_domain -              5e-22   82.9   0.0   1.1e-10   46.5   0.0   3.9   3   0   0   3   3   3   3 TSA: Limnoporus canaliculatus breed wildtype s28610_L_70962_1_9_9_FORK, transcribed RNA sequence
+GCYA01043608.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-11   48.6   0.0   3.4e-11   48.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Limnoporus canaliculatus breed wildtype C618300_2_0, transcribed RNA sequence
+GCYA01084274.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00015   26.8   0.0        38    9.5   0.0   4.0   3   1   1   4   4   4   2 TSA: Limnoporus canaliculatus breed wildtype s29137_L_74142_1_4_8_FORK, transcribed RNA sequence
+GCYA01001707.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.75   15.0   0.0      0.84   14.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Limnoporus canaliculatus breed wildtype C472759_2_0, transcribed RNA sequence
+GCYA01055851.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.0   0.7       2.4   13.4   0.7   1.4   1   0   0   1   1   1   0 TSA: Limnoporus canaliculatus breed wildtype C665742_3_0, transcribed RNA sequence
+GCYA01015987.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.6   13.9   0.2         2   13.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Limnoporus canaliculatus breed wildtype C521015_2_0, transcribed RNA sequence
+GCYA01050967.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.5   12.8   0.0       5.2   12.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Limnoporus canaliculatus breed wildtype C646144_2_0, transcribed RNA sequence
+GCYA01024663.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.9   12.7   0.0       7.7   11.7   0.0   1.5   2   0   0   2   2   2   0 TSA: Limnoporus canaliculatus breed wildtype C551055_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:11 2019
+# [ok]

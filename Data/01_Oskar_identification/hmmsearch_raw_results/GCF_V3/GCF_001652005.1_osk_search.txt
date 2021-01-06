@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017886381.1       -          oskar_filtered.aligned.OSK_domain -              0.053   13.6   0.1      0.12   12.4   0.1   1.7   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X4 [Ceratina calcarata]
+XP_026672492.1       -          oskar_filtered.aligned.OSK_domain -              0.065   13.3   0.1      0.14   12.1   0.1   1.6   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X3 [Ceratina calcarata]
+XP_017886379.1       -          oskar_filtered.aligned.OSK_domain -              0.078   13.0   0.1      0.17   11.9   0.1   1.6   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X2 [Ceratina calcarata]
+XP_017886378.1       -          oskar_filtered.aligned.OSK_domain -               0.08   13.0   0.1      0.18   11.9   0.1   1.6   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X1 [Ceratina calcarata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001652005.1_ASM165200v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001652005.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001652005.1_ASM165200v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:56 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVI01021734.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-20   76.5   0.3   1.2e-19   73.3   0.0   2.6   3   0   0   3   3   3   1 TSA: Cephus spinipes s5576_L_19385_0_a_19_8_l_5519 transcribed RNA sequence
+GBVI01021665.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-14   56.2   0.9   6.6e-10   42.0   0.0   4.1   4   0   0   4   4   4   2 TSA: Cephus spinipes s5512_L_18876_0_a_20_4_l_3315 transcribed RNA sequence
+GBVI01021666.1_6     -          oskar_filtered.aligned.LOTUS_domain -              3e-14   55.9   0.1   9.2e-10   41.5   0.0   4.2   4   0   0   4   4   4   2 TSA: Cephus spinipes s5513_L_18876_1_a_20_8_l_4354 transcribed RNA sequence
+GBVI01021567.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-05   27.2   0.0        15    8.8   0.0   4.8   2   1   2   4   4   4   2 TSA: Cephus spinipes s5423_L_18045_0_a_38_6_l_6645 transcribed RNA sequence
+GBVI01018405.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.75   12.9   0.8        82    6.4   0.0   3.6   4   0   0   4   4   4   0 TSA: Cephus spinipes s2527_L_3699_2_a_50_8_l_1417 transcribed RNA sequence
+GBVI01014381.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.3   12.2   3.2         5   10.3   0.1   2.7   2   1   0   2   2   2   0 TSA: Cephus spinipes C67740_a_18_0_l_1922 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:53 2019
+# [ok]

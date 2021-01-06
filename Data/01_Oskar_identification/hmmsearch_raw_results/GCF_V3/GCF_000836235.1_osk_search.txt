@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_013161335.1       -          oskar_filtered.aligned.OSK_domain -               0.13   12.1  11.6       3.8    7.4   5.4   2.8   1   1   1   2   2   2   0 PREDICTED: serine/threonine-protein kinase rio2-like [Papilio xuthus]
+XP_013175610.1       -          oskar_filtered.aligned.OSK_domain -               0.19   11.7   9.1   1.9e+02    1.8   9.1   2.9   1   1   0   1   1   1   0 PREDICTED: serine/threonine-protein kinase rio2-like [Papilio xuthus]
+XP_013170773.1       -          oskar_filtered.aligned.OSK_domain -               0.19   11.6   1.0        20    5.0   0.0   2.7   3   0   0   3   3   3   0 PREDICTED: collagenase-like [Papilio xuthus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836235.1_Pxut_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000836235.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836235.1_Pxut_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:53 2019
+# [ok]

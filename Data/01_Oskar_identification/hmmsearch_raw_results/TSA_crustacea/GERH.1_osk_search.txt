@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERH01041188.1_5     -          OSK_CONSENSUS        -               0.18   16.3   0.4      0.33   15.5   0.2   1.5   1   1   0   1   1   1   0 TSA: Linevichella vortex c59583_g1_i1 transcribed RNA sequence
+GERH01019280.1_5     -          OSK_CONSENSUS        -                0.6   14.6   0.0      0.74   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Linevichella vortex c39505_g1_i1 transcribed RNA sequence
+GERH01087320.1_5     -          OSK_CONSENSUS        -               0.64   14.5   0.0      0.67   14.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Linevichella vortex c86912_g1_i1 transcribed RNA sequence
+GERH01013427.1_5     -          OSK_CONSENSUS        -                1.1   13.8   0.3       1.4   13.4   0.3   1.2   1   0   0   1   1   1   0 TSA: Linevichella vortex c29456_g1_i1 transcribed RNA sequence
+GERH01012541.1_1     -          OSK_CONSENSUS        -                2.4   12.7   0.0       2.4   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Linevichella vortex c27728_g1_i1 transcribed RNA sequence
+GERH01086429.1_2     -          OSK_CONSENSUS        -                  3   12.4   0.2         4   12.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Linevichella vortex c85837_g1_i1 transcribed RNA sequence
+GERH01051239.1_5     -          OSK_CONSENSUS        -                4.2   11.9   1.7   1.3e+02    7.1   0.1   2.2   2   0   0   2   2   2   0 TSA: Linevichella vortex c64829_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERH.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERH.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERH.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:41 2019
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_019558301.2       -          oskar_filtered.aligned.LOTUS_domain -              6e-25   88.6   0.1   2.6e-24   86.6   0.0   2.1   2   0   0   2   2   2   1 maternal effect protein oskar [Aedes albopictus]
+XP_019540707.2       -          oskar_filtered.aligned.LOTUS_domain -              6e-25   88.6   0.1   2.6e-24   86.6   0.0   2.1   2   0   0   2   2   2   1 maternal effect protein oskar [Aedes albopictus]
+XP_029720467.1       -          oskar_filtered.aligned.LOTUS_domain -            3.4e-13   50.9   0.3     2e-11   45.1   0.0   3.0   2   0   0   2   2   2   1 LOW QUALITY PROTEIN: tudor domain-containing protein 7A-like [Aedes albopictus]
+XP_029723149.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-13   50.6   0.2   1.4e-12   48.8   0.0   1.9   2   0   0   2   2   2   1 uncharacterized protein LOC115263988 [Aedes albopictus]
+XP_019559461.2       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-12   49.1   0.0   3.9e-12   47.4   0.0   1.9   1   0   0   1   1   1   1 uncharacterized protein LOC109428218 isoform X1 [Aedes albopictus]
+XP_019559052.2       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-12   48.6   0.0   5.6e-12   47.0   0.0   2.0   1   0   0   1   1   1   1 uncharacterized protein LOC109427899 isoform X1 [Aedes albopictus]
+XP_019559462.2       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-12   48.6   1.4   2.4e-12   48.1   0.0   2.0   3   0   0   3   3   1   1 tudor domain-containing protein 5-like isoform X2 [Aedes albopictus]
+XP_029728400.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-12   48.2   1.4   3.5e-12   47.6   0.0   2.1   3   0   0   3   3   1   1 tudor domain-containing protein 5 isoform X2 [Aedes albopictus]
+XP_029723155.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-12   48.1   1.6   3.5e-12   47.6   0.0   2.1   3   0   0   3   3   1   1 tudor domain-containing protein 5-like isoform X2 [Aedes albopictus]
+XP_029723154.1       -          oskar_filtered.aligned.LOTUS_domain -            2.9e-12   47.9   1.5     4e-12   47.4   0.0   2.1   3   0   0   3   3   1   1 tudor domain-containing protein 5-like isoform X1 [Aedes albopictus]
+XP_019536102.2       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-11   46.1   5.4     2e-11   45.1   0.0   3.1   3   0   0   3   3   2   1 tudor domain-containing protein 7-like isoform X1 [Aedes albopictus]
+XP_019536103.2       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-11   45.9   5.7   1.9e-11   45.2   0.0   3.1   3   0   0   3   3   2   1 tudor domain-containing protein 7A-like isoform X2 [Aedes albopictus]
+XP_029716782.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-11   45.7   5.8     2e-11   45.1   0.0   3.1   3   0   0   3   3   2   1 LOW QUALITY PROTEIN: tudor domain-containing protein 7 [Aedes albopictus]
+XP_029716418.1       -          oskar_filtered.aligned.LOTUS_domain -              0.069   14.5   0.2        46    5.5   0.0   3.0   3   0   0   3   3   3   0 annexin B10-like [Aedes albopictus]
+XP_019560759.2       -          oskar_filtered.aligned.LOTUS_domain -              0.073   14.5   0.2        46    5.5   0.0   3.0   3   0   0   3   3   3   0 annexin B10-like isoform X2 [Aedes albopictus]
+XP_029716164.1       -          oskar_filtered.aligned.LOTUS_domain -              0.073   14.5   0.2        46    5.5   0.0   3.0   3   0   0   3   3   3   0 annexin B10-like isoform X2 [Aedes albopictus]
+XP_029716043.1       -          oskar_filtered.aligned.LOTUS_domain -              0.093   14.1   0.4        29    6.1   0.0   3.1   3   0   0   3   3   3   0 annexin B10-like [Aedes albopictus]
+XP_029716109.1       -          oskar_filtered.aligned.LOTUS_domain -              0.093   14.1   0.4        29    6.1   0.0   3.1   3   0   0   3   3   3   0 annexin B10 [Aedes albopictus]
+XP_029722756.1       -          oskar_filtered.aligned.LOTUS_domain -              0.093   14.1   0.4        29    6.1   0.0   3.1   3   0   0   3   3   3   0 annexin B10 [Aedes albopictus]
+XP_019534933.2       -          oskar_filtered.aligned.LOTUS_domain -                5.3    8.5   5.8       5.7    8.4   1.9   2.7   3   1   0   3   3   2   0 biglycan-like [Aedes albopictus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_006496715.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_006496715.1_Aalbo_primary.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:37 2019
+# [ok]

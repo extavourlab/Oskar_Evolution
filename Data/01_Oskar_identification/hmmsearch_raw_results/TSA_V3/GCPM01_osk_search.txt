@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPM01035463.1_6     -          oskar_filtered.aligned.OSK_domain -            3.5e-12   50.1   0.2   7.1e-12   49.1   0.0   1.6   2   0   0   2   2   2   1 TSA: Phyllium philippinicum breed breeding s2990_L_5867_0_a_4_0_l_370, transcribed RNA sequence
+GCPM01029832.1_6     -          oskar_filtered.aligned.OSK_domain -            6.2e-05   26.4   0.2   6.4e-05   26.4   0.2   1.1   1   0   0   1   1   1   1 TSA: Phyllium philippinicum breed breeding C90831_a_4_0_l_318, transcribed RNA sequence
+GCPM01029321.1_5     -          oskar_filtered.aligned.OSK_domain -             0.0046   20.3   0.0    0.0046   20.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Phyllium philippinicum breed breeding C89482_a_8_0_l_309, transcribed RNA sequence
+GCPM01039208.1_5     -          oskar_filtered.aligned.OSK_domain -               0.51   13.7   0.3      0.94   12.8   0.3   1.4   1   0   0   1   1   1   0 TSA: Phyllium philippinicum breed breeding s6379_L_30839_0_a_45_3_l_1092, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:56 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYP01030298.1_4     -          LOTUS_CONSENSUS      -            1.4e-13   54.9   0.0   2.4e-13   54.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Rhagovelia obesa breed wildtype C213528_4_0, transcribed RNA sequence
+GCYP01028209.1_1     -          LOTUS_CONSENSUS      -            3.8e-08   37.5   0.0     0.015   19.5   0.0   2.1   2   0   0   2   2   2   2 TSA: Rhagovelia obesa breed wildtype C204384_3_0, transcribed RNA sequence
+GCYP01040722.1_1     -          LOTUS_CONSENSUS      -               0.29   15.4   0.1      0.73   14.1   0.1   1.7   1   0   0   1   1   1   0 TSA: Rhagovelia obesa breed wildtype s15153_L_64520_0_5_9_LINEAR, transcribed RNA sequence
+GCYP01045795.1_2     -          LOTUS_CONSENSUS      -               0.81   14.0   0.0       1.6   13.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Rhagovelia obesa breed wildtype s5956_L_19345_0_4_0_LINEAR, transcribed RNA sequence
+GCYP01004101.1_4     -          LOTUS_CONSENSUS      -                1.1   13.5   0.0       1.8   12.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Rhagovelia obesa breed wildtype C122216_7_0, transcribed RNA sequence
+GCYP01013097.1_1     -          LOTUS_CONSENSUS      -                2.3   12.5   0.0       2.5   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Rhagovelia obesa breed wildtype C150196_3_0, transcribed RNA sequence
+GCYP01041962.1_3     -          LOTUS_CONSENSUS      -                2.6   12.4   0.0       2.9   12.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Rhagovelia obesa breed wildtype s2497_L_6886_0_3_3_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:57 2019
+# [ok]

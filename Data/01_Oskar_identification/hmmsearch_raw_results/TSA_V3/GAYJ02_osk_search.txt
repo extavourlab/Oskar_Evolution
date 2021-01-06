@@ -1,0 +1,26 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYJ02042457.1_4     -          oskar_filtered.aligned.OSK_domain -            8.4e-40  140.5   0.0   2.1e-39  139.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Atelura formicaria s18113_L_56583_0_a_21_1_l_2242 transcribed RNA sequence
+GAYJ02037330.1_6     -          oskar_filtered.aligned.OSK_domain -            9.8e-28  101.1   0.0   1.4e-27  100.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Atelura formicaria s13497_L_24636_0_a_15_0_l_2203 transcribed RNA sequence
+GAYJ02037331.1_6     -          oskar_filtered.aligned.OSK_domain -            1.1e-27  100.9   0.0   2.3e-27   99.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Atelura formicaria s13498_L_24636_1_a_14_1_l_3202 transcribed RNA sequence
+GAYJ02009175.1_2     -          oskar_filtered.aligned.OSK_domain -            2.2e-07   34.8   0.3   2.3e-07   34.7   0.3   1.0   1   0   0   1   1   1   1 TSA: Atelura formicaria C175022_a_4_0_l_252 transcribed RNA sequence
+GAYJ02038926.1_3     -          oskar_filtered.aligned.OSK_domain -              0.003   21.3   0.1    0.0039   20.9   0.1   1.2   1   0   0   1   1   1   1 TSA: Atelura formicaria s14934_L_33973_0_a_5_5_l_622 transcribed RNA sequence
+GAYJ02019819.1_1     -          oskar_filtered.aligned.OSK_domain -              0.014   19.1   0.1     0.015   19.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Atelura formicaria C211428_a_3_0_l_399 transcribed RNA sequence
+GAYJ02024737.1_1     -          oskar_filtered.aligned.OSK_domain -               0.18   15.5   0.4      0.71   13.5   0.0   2.0   1   1   0   2   2   2   0 TSA: Atelura formicaria C229593_a_5_0_l_548 transcribed RNA sequence
+GAYJ02020677.1_5     -          oskar_filtered.aligned.OSK_domain -               0.43   14.2   1.1      0.49   14.1   1.1   1.1   1   0   0   1   1   1   0 TSA: Atelura formicaria C214548_a_5_0_l_419 transcribed RNA sequence
+GAYJ02029363.1_1     -          oskar_filtered.aligned.OSK_domain -               0.48   14.1   1.4      0.75   13.5   1.4   1.3   1   0   0   1   1   1   0 TSA: Atelura formicaria C248397_a_5_0_l_901 transcribed RNA sequence
+GAYJ02048158.1_3     -          oskar_filtered.aligned.OSK_domain -               0.66   13.6   0.9      0.77   13.4   0.9   1.2   1   0   0   1   1   1   0 TSA: Atelura formicaria s6806_L_8281_1_a_3_2_l_517 transcribed RNA sequence
+GAYJ02048109.1_3     -          oskar_filtered.aligned.OSK_domain -                1.2   12.8   0.1       1.3   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Atelura formicaria s6762_L_8228_0_a_5_3_l_386 transcribed RNA sequence
+GAYJ02051104.1_1     -          oskar_filtered.aligned.OSK_domain -                2.9   11.6   3.0       6.7   10.4   3.0   1.6   1   0   0   1   1   1   0 TSA: Atelura formicaria s945_L_938_1_a_7_6_l_2723 transcribed RNA sequence
+GAYJ02041835.1_1     -          oskar_filtered.aligned.OSK_domain -                3.4   11.3   1.6        11    9.6   0.2   2.4   2   1   0   2   2   2   0 TSA: Atelura formicaria s17554_L_51504_0_a_38_4_l_2971 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYJ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYJ02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYJ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:41 2019
+# [ok]

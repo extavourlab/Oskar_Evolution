@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXF02009671.1_1     -          LOTUS_CONSENSUS      -            3.9e-23   85.1   0.1   7.8e-13   52.1   0.0   4.0   4   0   0   4   4   4   3 TSA: Planococcus citri C130056_a_9_0_l_2317 transcribed RNA sequence
+GAXF02027745.1_6     -          LOTUS_CONSENSUS      -            4.8e-16   62.4   0.0   2.1e-15   60.3   0.0   2.1   2   0   0   2   2   2   1 TSA: Planococcus citri s1395_L_1259_2_a_43_6_l_1372 transcribed RNA sequence
+GAXF02027743.1_5     -          LOTUS_CONSENSUS      -            1.9e-15   60.5   0.6   4.1e-15   59.4   0.0   1.9   2   0   0   2   2   2   1 TSA: Planococcus citri s1393_L_1259_0_a_39_4_l_2103 transcribed RNA sequence
+GAXF02009453.1_1     -          LOTUS_CONSENSUS      -            1.2e-06   32.3   0.0        11    9.9   0.0   5.4   3   2   2   5   5   5   2 TSA: Planococcus citri C129438_a_16_0_l_2189 transcribed RNA sequence
+GAXF02010523.1_3     -          LOTUS_CONSENSUS      -            3.4e-05   27.6   0.2    0.0014   22.4   0.0   2.8   2   0   0   2   2   2   1 TSA: Planococcus citri C132368_a_18_0_l_3194 transcribed RNA sequence
+GAXF02020013.1_3     -          LOTUS_CONSENSUS      -              0.068   17.0   0.2     0.084   16.7   0.2   1.3   1   0   0   1   1   1   0 TSA: Planococcus citri C75983_a_3_0_l_307 transcribed RNA sequence
+GAXF02034769.1_4     -          LOTUS_CONSENSUS      -                5.8   10.8   2.3        22    9.0   0.0   2.7   3   0   0   3   3   3   0 TSA: Planococcus citri s7736_L_16810_0_a_15_7_l_2099 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXF02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXF02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXF02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:20 2019
+# [ok]

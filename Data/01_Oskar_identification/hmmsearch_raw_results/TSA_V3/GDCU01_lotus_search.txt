@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCU01043611.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-18   69.4   0.1   1.3e-17   68.1   0.1   1.7   1   0   0   1   1   1   1 TSA: Hemimerus sp. AD-2014 breed wildtype C216810_a_40_0_l_964, transcribed RNA sequence
+GDCU01045050.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.065   17.7   0.6      0.21   16.1   0.6   1.9   1   0   0   1   1   1   0 TSA: Hemimerus sp. AD-2014 breed wildtype C220978_a_21_0_l_1463, transcribed RNA sequence
+GDCU01034501.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.11   17.0   3.6       4.1   12.0   0.2   2.3   2   0   0   2   2   2   0 TSA: Hemimerus sp. AD-2014 breed wildtype C191122_a_10_0_l_468, transcribed RNA sequence
+GDCU01044213.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.43   15.1   0.9        16   10.1   0.1   2.9   3   0   0   3   3   3   0 TSA: Hemimerus sp. AD-2014 breed wildtype C218506_a_10_0_l_1083, transcribed RNA sequence
+GDCU01033969.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.45   15.0   0.3      0.82   14.2   0.3   1.5   1   0   0   1   1   1   0 TSA: Hemimerus sp. AD-2014 breed wildtype C189622_a_7_0_l_458, transcribed RNA sequence
+GDCU01036557.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.4   12.7   1.4        58    8.3   0.2   2.3   2   0   0   2   2   2   0 TSA: Hemimerus sp. AD-2014 breed wildtype C196750_a_14_0_l_513, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:43 2019
+# [ok]

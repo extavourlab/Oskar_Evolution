@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAKG01018239.1_2     -          LOTUS_CONSENSUS      -            1.3e-15   60.7   0.2   5.1e-15   58.8   0.2   2.1   1   0   0   1   1   1   1 TSA: Cotesia vestalis comp2569_c0_seq1 transcribed RNA sequence
+GAKG01023361.1_2     -          LOTUS_CONSENSUS      -            8.3e-07   32.5   0.0     0.051   17.1   0.0   5.3   3   2   2   5   5   5   2 TSA: Cotesia vestalis comp5856_c0_seq1 transcribed RNA sequence
+GAKG01002233.1_3     -          LOTUS_CONSENSUS      -               0.62   13.6   0.4      0.71   13.5   0.4   1.2   1   0   0   1   1   1   0 TSA: Cotesia vestalis comp1170_c0_seq3 transcribed RNA sequence
+GAKG01013214.1_6     -          LOTUS_CONSENSUS      -                1.5   12.4   1.7       1.6   12.3   0.8   1.5   1   1   0   1   1   1   0 TSA: Cotesia vestalis comp21087_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAKG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:51 2019
+# [ok]

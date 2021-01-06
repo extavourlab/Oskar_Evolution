@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017466916.1       -          LOTUS_CONSENSUS      -            1.5e-15   58.2   0.0   6.3e-15   56.2   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108359525 isoform X2 [Rhagoletis zephyria]
+XP_017466915.1       -          LOTUS_CONSENSUS      -            1.5e-15   58.2   0.0   7.6e-15   56.0   0.0   2.2   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108359525 isoform X1 [Rhagoletis zephyria]
+XP_017477309.1       -          LOTUS_CONSENSUS      -            1.6e-11   45.3   0.3   4.7e-11   43.8   0.0   2.0   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108367226, partial [Rhagoletis zephyria]
+XP_017476912.1       -          LOTUS_CONSENSUS      -            5.2e-09   37.2   0.0   2.6e-08   35.0   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108366930 isoform X2 [Rhagoletis zephyria]
+XP_017476910.1       -          LOTUS_CONSENSUS      -            5.4e-09   37.2   0.0   2.8e-08   34.9   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108366930 isoform X1 [Rhagoletis zephyria]
+XP_017476911.1       -          LOTUS_CONSENSUS      -            5.4e-09   37.2   0.0   2.8e-08   34.9   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108366930 isoform X1 [Rhagoletis zephyria]
+XP_017485970.1       -          LOTUS_CONSENSUS      -              0.022   16.0   0.3       5.3    8.4   0.0   3.8   4   0   0   4   4   4   0 PREDICTED: neprilysin [Rhagoletis zephyria]
+XP_017478566.1       -          LOTUS_CONSENSUS      -               0.59   11.4   4.6      0.81   11.0   3.3   1.8   1   1   1   2   2   2   0 PREDICTED: uncharacterized protein LOC108368255 [Rhagoletis zephyria]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001687245.1_Rhagoletis_zephyria_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001687245.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001687245.1_Rhagoletis_zephyria_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:45 2019
+# [ok]

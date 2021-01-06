@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXI02025463.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.013   19.6   0.0     0.044   17.9   0.0   2.0   1   0   0   1   1   1   0 TSA: Tetrodontophora bielanensis C180153_a_3_0_l_2217 transcribed RNA sequence
+GAXI02036228.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.039   18.1   0.0       4.4   11.5   0.0   3.8   4   1   0   4   4   4   0 TSA: Tetrodontophora bielanensis s12328_L_42042_0_a_16_2_l_5259 transcribed RNA sequence
+GAXI02006598.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.13   16.3   0.0      0.15   16.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Tetrodontophora bielanensis C120284_a_3_0_l_332 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GAXI02.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GAXI02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GAXI02.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:39 2019
+# [ok]

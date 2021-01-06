@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVH01018747.1_4     -          LOTUS_CONSENSUS      -            8.7e-22   80.1   0.0   2.3e-21   78.8   0.0   1.8   1   0   0   1   1   1   1 TSA: Xyela alpigena s3100_L_4514_0_a_44_8_l_2427 transcribed RNA sequence
+GBVH01016346.1_6     -          LOTUS_CONSENSUS      -            2.4e-12   49.9   0.0     6e-12   48.6   0.0   1.7   1   0   0   1   1   1   1 TSA: Xyela alpigena C85294_a_28_0_l_4704 transcribed RNA sequence
+GBVH01014137.1_3     -          LOTUS_CONSENSUS      -               0.21   14.8   0.1      0.51   13.5   0.1   1.6   1   0   0   1   1   1   0 TSA: Xyela alpigena C77434_a_8_0_l_1667 transcribed RNA sequence
+GBVH01012613.1_2     -          LOTUS_CONSENSUS      -               0.41   13.8   0.1      0.85   12.8   0.1   1.5   1   0   0   1   1   1   0 TSA: Xyela alpigena C71736_a_39_0_l_1151 transcribed RNA sequence
+GBVH01014597.1_2     -          LOTUS_CONSENSUS      -               0.58   13.4   0.2       1.7   11.9   0.2   1.7   1   0   0   1   1   1   0 TSA: Xyela alpigena C79146_a_46_0_l_1894 transcribed RNA sequence
+GBVH01022697.1_6     -          LOTUS_CONSENSUS      -               0.62   13.3   0.1       1.9   11.7   0.1   1.8   1   0   0   1   1   1   0 TSA: Xyela alpigena s818_L_757_1_a_22_5_l_2681 transcribed RNA sequence
+GBVH01022698.1_6     -          LOTUS_CONSENSUS      -                0.8   12.9   0.1       2.4   11.4   0.1   1.7   1   0   0   1   1   1   0 TSA: Xyela alpigena s819_L_757_2_a_25_6_l_3191 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:54 2019
+# [ok]

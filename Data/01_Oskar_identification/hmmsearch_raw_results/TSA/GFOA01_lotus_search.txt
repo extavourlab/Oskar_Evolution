@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOA01020016.1_5     -          LOTUS_CONSENSUS      -            1.9e-14   58.0   2.3   5.1e-14   56.6   0.0   2.8   3   0   0   3   3   3   1 TSA: Bactrocera bryoniae TR12007_c0_g2_i1 transcribed RNA sequence
+GFOA01020015.1_4     -          LOTUS_CONSENSUS      -            5.5e-11   46.9   0.1   6.8e-11   46.6   0.1   1.1   1   0   0   1   1   1   1 TSA: Bactrocera bryoniae TR12007_c0_g1_i1 transcribed RNA sequence
+GFOA01019753.1_6     -          LOTUS_CONSENSUS      -            4.1e-09   40.9   1.4   8.7e-09   39.8   0.0   2.3   2   0   0   2   2   2   1 TSA: Bactrocera bryoniae TR11909_c0_g1_i1 transcribed RNA sequence
+GFOA01024711.1_3     -          LOTUS_CONSENSUS      -               0.76   14.4   0.0       2.1   13.0   0.0   1.7   1   0   0   1   1   1   0 TSA: Bactrocera bryoniae TR13878_c0_g1_i1 transcribed RNA sequence
+GFOA01037939.1_4     -          LOTUS_CONSENSUS      -               0.79   14.3   0.0      0.85   14.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Bactrocera bryoniae TR16518_c4_g3_i5 transcribed RNA sequence
+GFOA01024712.1_3     -          LOTUS_CONSENSUS      -               0.83   14.3   0.0       2.2   12.9   0.0   1.7   1   0   0   1   1   1   0 TSA: Bactrocera bryoniae TR13878_c0_g1_i2 transcribed RNA sequence
+GFOA01010192.1_1     -          LOTUS_CONSENSUS      -                1.2   13.7   0.5        20    9.8   0.0   2.2   1   1   1   2   2   2   0 TSA: Bactrocera bryoniae TR6961_c0_g1_i1 transcribed RNA sequence
+GFOA01037941.1_6     -          LOTUS_CONSENSUS      -                3.2   12.4   0.0       3.9   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Bactrocera bryoniae TR16518_c4_g3_i7 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:25 2019
+# [ok]

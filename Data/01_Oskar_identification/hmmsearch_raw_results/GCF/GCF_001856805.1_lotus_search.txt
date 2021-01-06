@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022117503.1       -          LOTUS_CONSENSUS      -              2e-16   60.2   0.0     5e-08   33.2   0.0   2.7   2   0   0   2   2   2   2 tudor domain-containing protein 5 [Pieris rapae]
+XP_022129327.1       -          LOTUS_CONSENSUS      -            3.1e-16   59.6   0.8   6.8e-14   52.1   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7B [Pieris rapae]
+XP_022120063.1       -          LOTUS_CONSENSUS      -             0.0057   17.0   0.0        10    6.7   0.0   3.3   3   0   0   3   3   3   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Pieris rapae]
+XP_022120062.1       -          LOTUS_CONSENSUS      -             0.0073   16.7   0.0        11    6.5   0.0   3.4   3   0   0   3   3   3   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Pieris rapae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001856805.1_P_rapae_3842_assembly_v2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001856805.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001856805.1_P_rapae_3842_assembly_v2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:46 2019
+# [ok]

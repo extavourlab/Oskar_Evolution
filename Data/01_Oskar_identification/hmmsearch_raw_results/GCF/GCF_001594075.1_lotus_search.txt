@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018376903.1       -          LOTUS_CONSENSUS      -            4.1e-28   97.8   0.0     1e-27   96.5   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: maternal effect protein oskar-like [Trachymyrmex cornetzi]
+XP_018370811.1       -          LOTUS_CONSENSUS      -            6.7e-22   77.9   0.1   3.1e-19   69.3   0.0   3.0   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 7 [Trachymyrmex cornetzi]
+XP_018376315.1       -          LOTUS_CONSENSUS      -            5.2e-15   55.8   7.0   2.2e-11   44.2   0.0   3.7   4   0   0   4   4   4   2 PREDICTED: tudor domain-containing protein 5-like [Trachymyrmex cornetzi]
+XP_018368291.1       -          LOTUS_CONSENSUS      -              0.027   15.0   0.3      0.36   11.4   0.0   2.0   1   1   0   2   2   2   0 PREDICTED: UDP-glucose 4-epimerase 5-like [Trachymyrmex cornetzi]
+XP_018376039.1       -          LOTUS_CONSENSUS      -                0.2   12.2   3.3      0.61   10.7   3.3   2.0   1   1   0   1   1   1   0 PREDICTED: probable oligoribonuclease [Trachymyrmex cornetzi]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594075.1_Tcor1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594075.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594075.1_Tcor1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:55 2019
+# [ok]

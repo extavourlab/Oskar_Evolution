@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNA01357697.1_2     -          OSK_CONSENSUS        -              2e-52  183.8   0.0   8.6e-51  178.5   0.0   2.3   2   0   0   2   2   2   1 TSA: Aedes aegypti comp377847_c0_seq1 transcribed RNA sequence
+GFNA01212674.1_1     -          OSK_CONSENSUS        -               0.63   16.4   0.2      0.65   16.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Aedes aegypti comp364971_c4_seq5 transcribed RNA sequence
+GFNA01026027.1_5     -          OSK_CONSENSUS        -               0.85   16.0   0.0       1.2   15.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Aedes aegypti comp214814_c0_seq1 transcribed RNA sequence
+GFNA01002798.1_4     -          OSK_CONSENSUS        -                2.1   14.8   0.6       2.5   14.5   0.6   1.1   1   0   0   1   1   1   0 TSA: Aedes aegypti comp34560_c0_seq1 transcribed RNA sequence
+GFNA01095266.1_1     -          OSK_CONSENSUS        -                4.5   13.7   0.0       5.1   13.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Aedes aegypti comp332799_c0_seq1 transcribed RNA sequence
+GFNA01177420.1_3     -          OSK_CONSENSUS        -                5.5   13.4   0.1       5.7   13.3   0.1   1.0   1   0   0   1   1   1   0 TSA: Aedes aegypti comp361582_c1_seq2 transcribed RNA sequence
+GFNA01041943.1_4     -          OSK_CONSENSUS        -                7.7   12.9   0.3        11   12.4   0.3   1.2   1   0   0   1   1   1   0 TSA: Aedes aegypti comp260035_c0_seq1 transcribed RNA sequence
+GFNA01010680.1_2     -          OSK_CONSENSUS        -                8.8   12.7   0.0        10   12.5   0.0   1.0   1   0   0   1   1   1   0 TSA: Aedes aegypti comp71957_c0_seq2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:57 2019
+# [ok]

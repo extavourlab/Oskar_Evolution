@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGHO01023293.1_6     -          OSK_CONSENSUS        -            3.5e-59  202.0   1.1   4.5e-59  201.6   1.1   1.1   1   0   0   1   1   1   1 TSA: Mintho rufiventris Mintho_rufiventris_contig_4532 transcribed RNA sequence
+GGHO01020883.1_3     -          OSK_CONSENSUS        -               0.15   14.7   0.1      0.31   13.7   0.1   1.6   1   0   0   1   1   1   0 TSA: Mintho rufiventris Mintho_rufiventris_contig_24347 transcribed RNA sequence
+GGHO01012748.1_6     -          OSK_CONSENSUS        -                  2   11.1   5.0       1.5   11.4   0.2   3.2   3   0   0   3   3   3   0 TSA: Mintho rufiventris Mintho_rufiventris_contig_1188.3 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGHO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:09 2019
+# [ok]

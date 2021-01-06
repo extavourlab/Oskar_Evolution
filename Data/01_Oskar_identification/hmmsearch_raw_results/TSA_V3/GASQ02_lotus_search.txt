@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASQ02021127.1_5     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-80  267.0   2.4   6.5e-24   87.3   0.0   4.4   4   0   0   4   4   4   4 TSA: Tetrix subulata s1146_L_1200_0_a_15_5_l_2141 transcribed RNA sequence
+GASQ02002332.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   63.9   0.0   2.9e-08   37.1   0.0   2.6   3   0   0   3   3   3   2 TSA: Tetrix subulata C108223_a_4_0_l_749 transcribed RNA sequence
+GASQ02010920.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.046   17.2   0.0     0.051   17.1   0.0   1.0   1   0   0   1   1   1   0 TSA: Tetrix subulata C67211_a_3_0_l_235 transcribed RNA sequence
+GASQ02023088.1_5     -          oskar_filtered.aligned.LOTUS_domain -                0.9   13.1   0.0        78    6.8   0.0   2.8   3   0   0   3   3   3   0 TSA: Tetrix subulata s2919_L_3609_0_a_8_4_l_1205 transcribed RNA sequence
+GASQ02023090.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.1   12.7   0.0        87    6.7   0.0   2.8   3   0   0   3   3   3   0 TSA: Tetrix subulata s2920_L_3609_1_a_9_5_l_1298 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASQ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASQ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASQ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:54 2019
+# [ok]

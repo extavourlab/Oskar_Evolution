@@ -1,0 +1,32 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014275530.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-23   82.1   3.9   2.7e-11   44.1   0.0   4.5   3   1   1   4   4   3   3 tudor domain-containing protein 5-like isoform X2 [Halyomorpha halys]
+XP_014274583.1       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-21   77.3   0.2   2.7e-21   76.2   0.2   1.7   1   0   0   1   1   1   1 tudor domain-containing protein 7-like [Halyomorpha halys]
+XP_014290031.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-13   49.6   0.0   0.00031   21.4   0.0   5.7   1   1   4   5   5   5   3 meiosis regulator and mRNA stability factor 1 isoform X3 [Halyomorpha halys]
+XP_014290030.1       -          oskar_filtered.aligned.LOTUS_domain -            5.6e-13   49.5   0.0   0.00032   21.4   0.0   5.7   1   1   4   5   5   5   3 meiosis regulator and mRNA stability factor 1 isoform X2 [Halyomorpha halys]
+XP_014290029.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-12   48.7   0.0   0.00036   21.2   0.0   5.6   1   1   4   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Halyomorpha halys]
+XP_014275529.1       -          oskar_filtered.aligned.LOTUS_domain -            7.7e-12   45.8   3.1   0.00027   21.6   0.1   4.5   2   1   1   3   3   3   3 tudor domain-containing protein 5-like isoform X1 [Halyomorpha halys]
+XP_014275531.1       -          oskar_filtered.aligned.LOTUS_domain -            3.3e-10   40.6   9.3   0.00022   21.9   0.1   4.6   4   1   1   5   5   3   3 tudor domain-containing protein 5-like isoform X3 [Halyomorpha halys]
+XP_014281427.1       -          oskar_filtered.aligned.LOTUS_domain -            6.7e-06   26.8   0.1     8e-06   26.5   0.1   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X3 [Halyomorpha halys]
+XP_014281435.1       -          oskar_filtered.aligned.LOTUS_domain -            6.7e-06   26.8   0.1     8e-06   26.5   0.1   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X3 [Halyomorpha halys]
+XP_014281444.1       -          oskar_filtered.aligned.LOTUS_domain -            6.7e-06   26.8   0.1     8e-06   26.5   0.1   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X3 [Halyomorpha halys]
+XP_014281419.1       -          oskar_filtered.aligned.LOTUS_domain -            7.2e-06   26.7   0.0   9.8e-06   26.3   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X2 [Halyomorpha halys]
+XP_014281410.1       -          oskar_filtered.aligned.LOTUS_domain -            8.7e-06   26.4   0.0   1.2e-05   25.9   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X1 [Halyomorpha halys]
+XP_024215016.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00011   22.9   0.0   0.00018   22.2   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC112210301 [Halyomorpha halys]
+XP_024214869.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0007   20.3   0.0    0.0012   19.6   0.0   1.3   1   0   0   1   1   1   1 putative uncharacterized protein FLJ37770 [Halyomorpha halys]
+XP_014279222.1       -          oskar_filtered.aligned.LOTUS_domain -              0.031   15.0   1.3        86    4.0   0.0   3.8   3   1   0   4   4   4   0 annexin B9-like isoform X3 [Halyomorpha halys]
+XP_014279220.1       -          oskar_filtered.aligned.LOTUS_domain -              0.033   14.9   1.3        88    3.9   0.0   3.8   3   1   0   4   4   4   0 annexin B9-like isoform X1 [Halyomorpha halys]
+XP_014279221.1       -          oskar_filtered.aligned.LOTUS_domain -              0.044   14.5   1.4        88    3.9   0.0   3.8   3   1   0   4   4   4   0 annexin B9-like isoform X2 [Halyomorpha halys]
+XP_014285623.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.8   1.4      0.33   11.7   1.3   1.7   1   1   0   1   1   1   0 uncharacterized protein LOC106686696 isoform X2 [Halyomorpha halys]
+XP_014285622.1       -          oskar_filtered.aligned.LOTUS_domain -               0.19   12.5   1.7      0.41   11.4   1.7   1.7   1   1   0   1   1   1   0 uncharacterized protein LOC106686696 isoform X1 [Halyomorpha halys]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000696795.2_Hhal_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000696795.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000696795.2_Hhal_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:50 2019
+# [ok]

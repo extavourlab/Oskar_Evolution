@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAAK01008321.1_1     -          LOTUS_CONSENSUS      -            4.8e-05   25.7   0.0   0.00015   24.1   0.0   1.9   2   0   0   2   2   2   1 TSA: Belgica antarctica B648_08595 mRNA sequence
+GAAK01003254.1_1     -          LOTUS_CONSENSUS      -            0.00051   22.4   0.1      0.01   18.2   0.0   2.8   2   1   0   2   2   2   1 TSA: Belgica antarctica B648_03356 mRNA sequence
+GAAK01003564.1_1     -          LOTUS_CONSENSUS      -              0.026   16.9   1.1     0.026   16.9   1.1   2.5   2   0   0   2   2   2   0 TSA: Belgica antarctica B648_03674 mRNA sequence
+GAAK01002997.1_2     -          LOTUS_CONSENSUS      -               0.32   13.4   0.0      0.39   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Belgica antarctica B648_03090 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAAK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAAK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAAK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:11 2019
+# [ok]

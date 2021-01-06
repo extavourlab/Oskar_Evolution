@@ -1,0 +1,57 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFMG01150637.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.5e-23   88.1   0.0   1.1e-22   87.3   0.0   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN144343_c0_g1_i1 transcribed RNA sequence
+GFMG01287266.1_5     -          oskar_filtered.aligned.LOTUS_domain -              4e-21   82.3   0.8   1.8e-19   77.0   0.0   3.3   3   0   0   3   3   2   1 TSA: Gryllus bimaculatus TRINITY_DN169194_c8_g1_i10 transcribed RNA sequence
+GFMG01158665.1_4     -          oskar_filtered.aligned.LOTUS_domain -              9e-21   81.2   0.0   1.6e-20   80.5   0.0   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN147656_c0_g2_i2 transcribed RNA sequence
+GFMG01287257.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-20   80.0   0.0   1.5e-19   77.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Gryllus bimaculatus TRINITY_DN169194_c8_g1_i1 transcribed RNA sequence
+GFMG01287262.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-20   80.0   0.0   1.6e-19   77.2   0.0   2.4   2   0   0   2   2   2   1 TSA: Gryllus bimaculatus TRINITY_DN169194_c8_g1_i6 transcribed RNA sequence
+GFMG01287267.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-20   78.9   0.0   2.6e-19   76.6   0.0   2.3   2   0   0   2   2   1   1 TSA: Gryllus bimaculatus TRINITY_DN169194_c8_g1_i11 transcribed RNA sequence
+GFMG01287270.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-20   78.9   0.0   2.6e-19   76.5   0.0   2.3   2   0   0   2   2   1   1 TSA: Gryllus bimaculatus TRINITY_DN169194_c8_g1_i14 transcribed RNA sequence
+GFMG01288161.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-17   69.2   0.2   1.4e-11   51.7   0.0   5.0   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN169278_c0_g1_i3 transcribed RNA sequence
+GFMG01294940.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-16   66.9   0.4   2.3e-11   51.0   0.0   5.2   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN169855_c0_g1_i8 transcribed RNA sequence
+GFMG01288160.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-16   66.9   0.4   2.3e-11   51.0   0.0   5.2   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN169278_c0_g1_i2 transcribed RNA sequence
+GFMG01205042.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-13   57.6   0.3   1.3e-06   35.8   0.0   5.1   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN160085_c0_g1_i6 transcribed RNA sequence
+GFMG01205039.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-13   57.4   0.2   1.3e-06   35.7   0.0   4.9   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN160085_c0_g1_i3 transcribed RNA sequence
+GFMG01209632.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-13   57.3   0.3   1.3e-06   35.7   0.0   5.0   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN160801_c0_g1_i1 transcribed RNA sequence
+GFMG01209634.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-13   57.2   0.3   1.4e-06   35.7   0.0   5.0   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN160801_c0_g1_i3 transcribed RNA sequence
+GFMG01209637.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-13   57.1   0.3   1.3e-06   35.7   0.0   4.9   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN160801_c0_g1_i6 transcribed RNA sequence
+GFMG01209638.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-13   57.0   0.3   1.4e-06   35.7   0.0   4.9   5   0   0   5   5   4   1 TSA: Gryllus bimaculatus TRINITY_DN160801_c0_g1_i7 transcribed RNA sequence
+GFMG01288159.1_5     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-13   55.5   0.0   2.2e-12   54.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169278_c0_g1_i1 transcribed RNA sequence
+GFMG01294941.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-12   54.0   0.0     8e-12   52.5   0.0   1.8   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169855_c0_g1_i9 transcribed RNA sequence
+GFMG01294935.1_1     -          oskar_filtered.aligned.LOTUS_domain -              3e-12   53.9   0.0   8.9e-12   52.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169855_c0_g1_i3 transcribed RNA sequence
+GFMG01294939.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-12   53.5   0.0   8.7e-12   52.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169855_c0_g1_i7 transcribed RNA sequence
+GFMG01294938.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-12   53.3   0.0     1e-11   52.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169855_c0_g1_i6 transcribed RNA sequence
+GFMG01209633.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-07   38.5   1.4      0.51   17.8   0.1   3.3   3   0   0   3   3   3   3 TSA: Gryllus bimaculatus TRINITY_DN160801_c0_g1_i2 transcribed RNA sequence
+GFMG01209639.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   32.2   0.8       0.3   18.6   0.1   2.4   2   0   0   2   2   2   2 TSA: Gryllus bimaculatus TRINITY_DN160801_c0_g1_i8 transcribed RNA sequence
+GFMG01369240.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00075   26.9   0.0        42   11.7   0.0   4.9   2   2   3   5   5   5   1 TSA: Gryllus bimaculatus TRINITY_DN176435_c1_g1_i6 transcribed RNA sequence
+GFMG01460570.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.043   21.3   0.1      0.05   21.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN263074_c0_g1_i1 transcribed RNA sequence
+GFMG01369236.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.096   20.1   0.0   1.7e+02    9.7   0.0   4.5   2   2   3   5   5   5   0 TSA: Gryllus bimaculatus TRINITY_DN176435_c1_g1_i2 transcribed RNA sequence
+GFMG01368917.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.097   20.1   0.0   1.7e+02    9.7   0.0   4.5   2   2   3   5   5   5   0 TSA: Gryllus bimaculatus TRINITY_DN176394_c1_g1_i2 transcribed RNA sequence
+GFMG01369237.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.12   19.9   0.0   1.7e+02    9.7   0.0   4.4   2   2   3   5   5   5   0 TSA: Gryllus bimaculatus TRINITY_DN176435_c1_g1_i3 transcribed RNA sequence
+GFMG01207868.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.29   18.6   0.5      0.54   17.7   0.5   1.5   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN160579_c1_g1_i4 transcribed RNA sequence
+GFMG01133546.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.34   18.4   0.2   1.4e+02   10.0   0.0   2.1   1   1   1   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN135963_c0_g1_i1 transcribed RNA sequence
+GFMG01207861.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.84   17.1   0.4         2   15.9   0.4   1.6   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN160579_c0_g2_i1 transcribed RNA sequence
+GFMG01390697.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.3   16.5   0.3       2.2   15.8   0.3   1.4   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN191942_c0_g1_i1 transcribed RNA sequence
+GFMG01207870.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.7   16.1   0.3       4.2   14.9   0.3   1.7   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN160579_c1_g1_i6 transcribed RNA sequence
+GFMG01395078.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.4   15.7   0.0       3.3   15.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN196377_c0_g1_i1 transcribed RNA sequence
+GFMG01208903.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.6   15.5   0.0       3.6   15.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN160779_c0_g1_i1 transcribed RNA sequence
+GFMG01476198.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.7   15.0   0.0       4.7   14.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN278956_c0_g1_i1 transcribed RNA sequence
+GFMG01182846.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.8   15.0   3.8        76   10.8   0.8   3.1   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN155462_c0_g1_i3 transcribed RNA sequence
+GFMG01209635.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.9   15.0   0.0       5.5   14.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN160801_c0_g1_i4 transcribed RNA sequence
+GFMG01182844.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.2   14.9   3.8        80   10.8   0.8   3.1   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN155462_c0_g1_i1 transcribed RNA sequence
+GFMG01291085.1_3     -          oskar_filtered.aligned.LOTUS_domain -                5.1   14.6   3.8        80   10.8   0.8   2.9   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN169544_c0_g7_i8 transcribed RNA sequence
+GFMG01291078.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.7   14.5   3.8        80   10.8   0.8   2.8   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN169544_c0_g7_i1 transcribed RNA sequence
+GFMG01208904.1_5     -          oskar_filtered.aligned.LOTUS_domain -                6.1   14.3   1.8        20   12.7   0.1   2.2   2   1   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN160779_c1_g1_i1 transcribed RNA sequence
+GFMG01291079.1_2     -          oskar_filtered.aligned.LOTUS_domain -                6.8   14.2   3.8        82   10.7   0.8   2.7   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN169544_c0_g7_i2 transcribed RNA sequence
+GFMG01291081.1_1     -          oskar_filtered.aligned.LOTUS_domain -                7.5   14.1   3.8        88   10.6   0.8   2.7   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN169544_c0_g7_i4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFMG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFMG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFMG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:58 2019
+# [ok]

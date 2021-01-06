@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXI01031442.1_4     -          LOTUS_CONSENSUS      -            2.4e-17   66.8   0.0   1.1e-16   64.6   0.0   2.2   1   0   0   1   1   1   1 TSA: Gelastocoris oculatus breed wildtype C203854_10_0, transcribed RNA sequence
+GCXI01041284.1_4     -          LOTUS_CONSENSUS      -            9.2e-17   64.9   2.8   5.2e-11   46.5   0.0   4.3   3   1   2   5   5   5   2 TSA: Gelastocoris oculatus breed wildtype s7991_L_31787_0_9_6_FORK, transcribed RNA sequence
+GCXI01041285.1_4     -          LOTUS_CONSENSUS      -            1.4e-16   64.3   3.3   5.4e-11   46.4   0.0   4.3   3   1   2   5   5   5   2 TSA: Gelastocoris oculatus breed wildtype s7992_L_31787_1_9_2_FORK, transcribed RNA sequence
+GCXI01030663.1_5     -          LOTUS_CONSENSUS      -            3.7e-11   46.9   0.0      0.18   15.9   0.0   4.9   2   1   3   5   5   5   4 TSA: Gelastocoris oculatus breed wildtype C200946_5_0, transcribed RNA sequence
+GCXI01009376.1_6     -          LOTUS_CONSENSUS      -               0.12   16.5   1.8      0.17   16.0   1.7   1.3   1   1   0   1   1   1   0 TSA: Gelastocoris oculatus breed wildtype C127340_3_0, transcribed RNA sequence
+GCXI01035326.1_1     -          LOTUS_CONSENSUS      -               0.42   14.7   0.7      0.79   13.8   0.6   1.5   1   1   0   1   1   1   0 TSA: Gelastocoris oculatus breed wildtype s2601_L_7209_1_4_7_FORK, transcribed RNA sequence
+GCXI01024595.1_4     -          LOTUS_CONSENSUS      -               0.68   14.0   0.1       1.2   13.3   0.1   1.4   1   0   0   1   1   1   0 TSA: Gelastocoris oculatus breed wildtype C175902_3_0, transcribed RNA sequence
+GCXI01035325.1_1     -          LOTUS_CONSENSUS      -                  2   12.5   0.1       3.2   11.9   0.1   1.4   1   1   0   1   1   1   0 TSA: Gelastocoris oculatus breed wildtype s2600_L_7209_0_4_8_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:06 2019
+# [ok]

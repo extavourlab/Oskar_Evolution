@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQF01040112.1_2     -          LOTUS_CONSENSUS      -            6.3e-11   47.3   0.1   6.4e-10   44.0   0.1   2.4   2   0   0   2   2   2   1 TSA: Hyalellopsis carinata c55897_g1_i1 transcribed RNA sequence
+GEQF01046475.1_2     -          LOTUS_CONSENSUS      -                1.3   14.2   0.4       8.4   11.6   0.1   2.1   1   1   1   2   2   2   0 TSA: Hyalellopsis carinata c61082_g1_i1 transcribed RNA sequence
+GEQF01041305.1_2     -          LOTUS_CONSENSUS      -                1.8   13.7   0.6         5   12.3   0.1   1.9   2   0   0   2   2   2   0 TSA: Hyalellopsis carinata c56951_g1_i1 transcribed RNA sequence
+GEQF01029320.1_5     -          LOTUS_CONSENSUS      -                2.1   13.5   0.0         3   13.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Hyalellopsis carinata c46025_g1_i1 transcribed RNA sequence
+GEQF01025062.1_5     -          LOTUS_CONSENSUS      -                3.8   12.7   0.1         5   12.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Hyalellopsis carinata c41930_g2_i1 transcribed RNA sequence
+GEQF01013532.1_6     -          LOTUS_CONSENSUS      -                4.8   12.4   0.1       8.1   11.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Hyalellopsis carinata c23909_g1_i1 transcribed RNA sequence
+GEQF01025458.1_3     -          LOTUS_CONSENSUS      -                4.9   12.3   1.4     5e+02    5.9   0.1   2.0   2   0   0   2   2   2   0 TSA: Hyalellopsis carinata c42344_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQF.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQF.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQF.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:08 2019
+# [ok]

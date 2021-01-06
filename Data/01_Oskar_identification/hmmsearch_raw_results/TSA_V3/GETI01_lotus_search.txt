@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GETI01061366.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-15   61.7   1.1   2.1e-13   57.0   0.0   3.2   3   0   0   3   3   3   1 TSA: Manduca sexta TRINITY_DN45541_c0_g1_i1 transcribed RNA sequence
+GETI01061367.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-14   60.4   0.0   3.6e-14   59.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Manduca sexta TRINITY_DN45541_c0_g2_i1 transcribed RNA sequence
+GETI01160288.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-14   59.4   0.0   3.9e-07   36.9   0.0   2.5   2   0   0   2   2   2   2 TSA: Manduca sexta TRINITY_DN84983_c1_g1_i1 transcribed RNA sequence
+GETI01160289.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-14   59.2   0.0   4.1e-07   36.8   0.0   2.4   2   0   0   2   2   2   2 TSA: Manduca sexta TRINITY_DN84983_c1_g1_i2 transcribed RNA sequence
+GETI01288469.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.67   16.8   0.1       1.4   15.8   0.1   1.5   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN201654_c0_g1_i1 transcribed RNA sequence
+GETI01317356.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.9   14.4   0.0       4.2   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN230529_c0_g1_i1 transcribed RNA sequence
+GETI01263517.1_6     -          oskar_filtered.aligned.LOTUS_domain -                7.3   13.5   0.0        12   12.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN177215_c0_g1_i1 transcribed RNA sequence
+GETI01270792.1_2     -          oskar_filtered.aligned.LOTUS_domain -                7.4   13.5   0.1       9.2   13.2   0.1   1.3   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN184301_c0_g1_i1 transcribed RNA sequence
+GETI01094922.1_2     -          oskar_filtered.aligned.LOTUS_domain -                9.2   13.2   0.1       9.7   13.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Manduca sexta TRINITY_DN64607_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GETI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:17 2019
+# [ok]

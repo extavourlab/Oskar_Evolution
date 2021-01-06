@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNO01008331.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-25   90.7   0.1   7.4e-25   89.8   0.1   1.4   1   0   0   1   1   1   1 TSA: Dolichurus corniculus C53160_a_4_0_l_648 transcribed RNA sequence
+GBNO01010544.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.15   14.9   0.1      0.33   13.9   0.1   1.5   1   0   0   1   1   1   0 TSA: Dolichurus corniculus C61022_a_11_0_l_1167 transcribed RNA sequence
+GBNO01003878.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.18   14.7   0.0       5.9    9.8   0.0   2.0   1   1   1   2   2   2   0 TSA: Dolichurus corniculus C39683_a_3_0_l_311 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:10 2019
+# [ok]

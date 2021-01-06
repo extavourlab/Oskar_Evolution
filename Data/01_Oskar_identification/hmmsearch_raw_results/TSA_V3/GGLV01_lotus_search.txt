@@ -1,0 +1,31 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGLV01013901.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-25   93.6   0.4   1.3e-13   55.3   0.0   3.8   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.12117 transcribed RNA sequence
+GGLV01020397.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-25   92.6   0.4   1.8e-13   54.9   0.0   3.9   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.2622 transcribed RNA sequence
+GGLV01038663.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-25   92.6   0.4   1.8e-13   54.8   0.0   3.9   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.32970 transcribed RNA sequence
+GGLV01001786.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-25   92.3   0.4   1.9e-13   54.8   0.0   3.9   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.31566 transcribed RNA sequence
+GGLV01040572.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-25   92.3   0.4   1.9e-13   54.8   0.0   3.9   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.17184 transcribed RNA sequence
+GGLV01014608.1_6     -          oskar_filtered.aligned.LOTUS_domain -              4e-25   92.3   0.4   1.9e-13   54.8   0.0   3.9   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.22723 transcribed RNA sequence
+GGLV01055303.1_6     -          oskar_filtered.aligned.LOTUS_domain -              4e-25   92.3   0.4   1.9e-13   54.8   0.0   3.9   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.12179 transcribed RNA sequence
+GGLV01050081.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-25   92.0   0.2   4.8e-24   88.8   0.0   2.5   2   0   0   2   2   2   1 TSA: Panchlora nivea Cluster-7321.22607 transcribed RNA sequence
+GGLV01013908.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-25   92.0   0.4     2e-13   54.7   0.0   3.9   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.12118 transcribed RNA sequence
+GGLV01020831.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-25   91.9   0.4     2e-13   54.7   0.0   3.7   3   0   0   3   3   3   3 TSA: Panchlora nivea Cluster-7321.9376 transcribed RNA sequence
+GGLV01007003.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-24   88.8   0.0   1.5e-23   87.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Panchlora nivea Cluster-7321.22705 transcribed RNA sequence
+GGLV01044904.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-24   88.5   0.0   1.7e-23   87.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Panchlora nivea Cluster-7321.33485 transcribed RNA sequence
+GGLV01021182.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-16   64.1   0.0   6.2e-14   56.3   0.0   2.9   3   0   0   3   3   3   1 TSA: Panchlora nivea Cluster-7321.32501 transcribed RNA sequence
+GGLV01030496.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-08   38.9   0.0         1   13.9   0.0   4.1   1   1   3   4   4   4   2 TSA: Panchlora nivea Cluster-7321.6888 transcribed RNA sequence
+GGLV01001050.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-06   30.2   0.0       2.4   12.7   0.0   3.9   1   1   3   4   4   4   1 TSA: Panchlora nivea Cluster-7321.29646 transcribed RNA sequence
+GGLV01039356.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.19   16.3   1.4       5.6   11.5   0.2   2.5   2   0   0   2   2   2   0 TSA: Panchlora nivea Cluster-7321.20748 transcribed RNA sequence
+GGLV01052932.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.22   16.0   0.1      0.41   15.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Panchlora nivea Cluster-7321.21924 transcribed RNA sequence
+GGLV01032811.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.92   14.1   0.2       2.2   12.8   0.2   1.6   1   0   0   1   1   1   0 TSA: Panchlora nivea Cluster-7321.38167 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGLV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:44 2019
+# [ok]

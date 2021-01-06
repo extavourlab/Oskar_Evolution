@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAFS01003172.1_2     -          OSK_CONSENSUS        -              0.059   17.6   0.3     0.074   17.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pastle_hypoyo_c3225 transcribed RNA sequence
+GAFS01030328.1_5     -          OSK_CONSENSUS        -               0.94   13.6   0.2       1.3   13.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pastle_hypoyo_c30949 transcribed RNA sequence
+GAFS01012562.1_2     -          OSK_CONSENSUS        -                1.4   13.1   0.0       2.7   12.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pastle_hypoyo_c12787 transcribed RNA sequence
+GAFS01034790.1_1     -          OSK_CONSENSUS        -                1.7   12.8   0.0       2.2   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pastle_hypoyo_c35528 transcribed RNA sequence
+GAFS01031784.1_3     -          OSK_CONSENSUS        -                2.7   12.2   0.2       3.2   11.9   0.2   1.3   1   1   0   1   1   1   0 TSA: Pontastacus leptodactylus Pastle_hypoyo_c32444 transcribed RNA sequence
+GAFS01052064.1_6     -          OSK_CONSENSUS        -                9.1   10.4   7.4       8.9   10.5   6.4   1.4   1   1   0   1   1   1   0 TSA: Pontastacus leptodactylus Pastle_hypoyo_c53173 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GAFS.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GAFS.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GAFS.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:11 2019
+# [ok]

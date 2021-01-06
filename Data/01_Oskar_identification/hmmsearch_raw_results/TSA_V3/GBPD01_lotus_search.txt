@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPD01016273.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-29  104.7   0.2   2.8e-28  101.1   0.0   2.5   2   0   0   2   2   2   1 TSA: Sycophila biguttata C93337_a_60_0_l_1824 transcribed RNA sequence
+GBPD01020005.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-16   63.5   0.3   1.8e-15   60.0   0.0   2.7   2   0   0   2   2   2   1 TSA: Sycophila biguttata s2829_L_4864_0_a_59_8_l_3655 transcribed RNA sequence
+GBPD01015541.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-16   62.3   0.2   3.5e-16   62.3   0.2   2.6   2   1   1   3   3   3   1 TSA: Sycophila biguttata C90533_a_11_0_l_1508 transcribed RNA sequence
+GBPD01011445.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-12   50.8   0.8   1.3e-12   50.8   0.8   1.9   2   0   0   2   2   2   1 TSA: Sycophila biguttata C73748_a_7_0_l_652 transcribed RNA sequence
+GBPD01000091.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-05   27.0   0.0       3.1   11.1   0.0   5.0   2   1   3   5   5   5   2 TSA: Sycophila biguttata C100346_a_54_0_l_6389 transcribed RNA sequence
+GBPD01020816.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.051   16.8   2.0       3.3   11.0   0.0   3.4   2   1   2   4   4   4   0 TSA: Sycophila biguttata s3560_L_6589_0_a_34_0_l_1061 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:47 2019
+# [ok]

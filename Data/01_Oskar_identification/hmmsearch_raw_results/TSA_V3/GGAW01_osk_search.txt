@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGAW01019355.1_4     -          oskar_filtered.aligned.OSK_domain -            2.2e-40  141.1   0.2   3.8e-40  140.3   0.2   1.4   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_2615.2 transcribed RNA sequence
+GGAW01003471.1_6     -          oskar_filtered.aligned.OSK_domain -            9.4e-27   96.6   0.1     1e-26   96.5   0.1   1.0   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_7550 transcribed RNA sequence
+GGAW01017652.1_4     -          oskar_filtered.aligned.OSK_domain -            4.3e-16   61.9   0.1   4.7e-16   61.8   0.1   1.0   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_8600 transcribed RNA sequence
+GGAW01003424.1_4     -          oskar_filtered.aligned.OSK_domain -            7.2e-06   28.5   0.1   1.6e-05   27.4   0.0   1.6   1   1   1   2   2   2   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_10478 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGAW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:57 2019
+# [ok]

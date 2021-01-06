@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCDM01000809.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-22   81.3   0.0   8.4e-22   80.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Mortonagrion selenion C102678_a_9_0_l_1016 transcribed RNA sequence
+GCDM01034460.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-20   75.9   0.0     7e-20   74.6   0.0   1.7   1   0   0   1   1   1   1 TSA: Mortonagrion selenion s7953_L_32846_0_a_16_6_l_2588 transcribed RNA sequence
+GCDM01005274.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-18   69.4   0.1   4.7e-11   46.3   0.0   4.2   4   0   0   4   4   4   3 TSA: Mortonagrion selenion C117531_a_11_0_l_2433 transcribed RNA sequence
+GCDM01028820.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-06   30.9   0.0        72    7.2   0.0   6.0   4   1   2   6   6   6   2 TSA: Mortonagrion selenion s284_L_254_1_a_20_5_l_3078 transcribed RNA sequence
+GCDM01028809.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-05   29.0   0.0        42    7.9   0.0   4.6   2   1   2   4   4   4   2 TSA: Mortonagrion selenion s283_L_254_0_a_10_6_l_2020 transcribed RNA sequence
+GCDM01025312.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.3   12.7   0.3       1.3   12.7   0.3   1.8   2   0   0   2   2   2   0 TSA: Mortonagrion selenion C95057_a_3_0_l_758 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCDM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCDM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCDM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:33 2019
+# [ok]

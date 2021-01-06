@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYK02016970.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-16   62.4   0.0   9.4e-16   61.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Boreus hyemalis C156307_a_9_0_l_528 transcribed RNA sequence
+GAYK02025217.1_5     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-14   55.0   0.0   8.2e-13   52.1   0.0   2.5   2   0   0   2   2   2   1 TSA: Boreus hyemalis C187360_a_10_0_l_4680 transcribed RNA sequence
+GAYK02023988.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.2e-12   48.7   0.0   1.7e-11   47.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Boreus hyemalis C183006_a_6_0_l_1943 transcribed RNA sequence
+GAYK02031335.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-07   35.4   0.0       2.4   12.0   0.0   5.1   4   1   1   5   5   5   2 TSA: Boreus hyemalis s3754_L_3875_0_a_10_2_l_4445 transcribed RNA sequence
+GAYK02031337.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.052   17.4   0.0       1.2   13.0   0.0   3.1   2   1   1   3   3   3   0 TSA: Boreus hyemalis s3756_L_3875_2_a_5_9_l_2640 transcribed RNA sequence
+GAYK02023988.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.078   16.8   0.0       0.2   15.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Boreus hyemalis C183006_a_6_0_l_1943 transcribed RNA sequence
+GAYK02008945.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.3   12.9   0.1         2   12.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Boreus hyemalis C128299_a_3_0_l_288 transcribed RNA sequence
+GAYK02016992.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.2   0.5       3.1   11.7   0.5   1.3   1   0   0   1   1   1   0 TSA: Boreus hyemalis C156379_a_9_0_l_529 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYK02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYK02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYK02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:07 2019
+# [ok]

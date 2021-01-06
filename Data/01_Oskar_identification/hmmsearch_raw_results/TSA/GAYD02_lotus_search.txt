@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYD02052022.1_5     -          LOTUS_CONSENSUS      -                1.2   13.8   0.5       1.2   13.8   0.5   2.0   2   0   0   2   2   2   0 TSA: Blaberus atropos s11966_L_43865_0_a_19_1_l_963 transcribed RNA sequence
+GAYD02038078.1_6     -          LOTUS_CONSENSUS      -                1.9   13.1   1.1        41    8.9   0.1   2.4   1   1   1   2   2   2   0 TSA: Blaberus atropos C210806_a_7_0_l_625 transcribed RNA sequence
+GAYD02014283.1_1     -          LOTUS_CONSENSUS      -                  3   12.5   1.8       4.1   12.1   1.8   1.1   1   0   0   1   1   1   0 TSA: Blaberus atropos C142840_a_3_0_l_268 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYD02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYD02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYD02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:09 2019
+# [ok]

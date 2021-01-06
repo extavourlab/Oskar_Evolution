@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFFJ01062678.1_6     -          OSK_CONSENSUS        -              0.034   19.1   0.1     0.062   18.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp102450_c0 transcribed RNA sequence
+GFFJ01046663.1_2     -          OSK_CONSENSUS        -               0.04   18.9   0.1      0.04   18.9   0.1   2.1   2   0   0   2   2   2   0 TSA: Portunus trituberculatus comp90159_c1 transcribed RNA sequence
+GFFJ01021357.1_1     -          OSK_CONSENSUS        -               0.12   17.4   0.0      0.19   16.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp56703_c0 transcribed RNA sequence
+GFFJ01106135.1_2     -          OSK_CONSENSUS        -               0.81   14.6   0.1   1.9e+02    6.9   0.1   2.5   1   1   1   2   2   2   0 TSA: Portunus trituberculatus comp1181375_c0 transcribed RNA sequence
+GFFJ01005825.1_5     -          OSK_CONSENSUS        -               0.84   14.6   0.2      0.93   14.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp12593_c0 transcribed RNA sequence
+GFFJ01099427.1_4     -          OSK_CONSENSUS        -                1.2   14.0   0.2       1.3   14.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp1033308_c0 transcribed RNA sequence
+GFFJ01112780.1_5     -          OSK_CONSENSUS        -                1.3   14.0   0.9       1.5   13.8   0.9   1.1   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp1368249_c0 transcribed RNA sequence
+GFFJ01102137.1_5     -          OSK_CONSENSUS        -                1.3   13.9   0.0       1.5   13.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp1071383_c0 transcribed RNA sequence
+GFFJ01066883.1_4     -          OSK_CONSENSUS        -                2.5   13.1   0.2       3.5   12.6   0.2   1.2   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp141300_c0 transcribed RNA sequence
+GFFJ01022434.1_1     -          OSK_CONSENSUS        -                2.5   13.0   0.8       2.8   12.9   0.8   1.0   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp58239_c0 transcribed RNA sequence
+GFFJ01033774.1_1     -          OSK_CONSENSUS        -                2.7   12.9   0.3         3   12.8   0.3   1.1   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp76130_c0 transcribed RNA sequence
+GFFJ01016933.1_5     -          OSK_CONSENSUS        -                3.7   12.5   0.0       4.8   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp44934_c0 transcribed RNA sequence
+GFFJ01024895.1_4     -          OSK_CONSENSUS        -                3.8   12.5   0.1       4.9   12.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp61863_c0 transcribed RNA sequence
+GFFJ01062807.1_5     -          OSK_CONSENSUS        -                4.3   12.3   0.0       5.2   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp102524_c1 transcribed RNA sequence
+GFFJ01042185.1_1     -          OSK_CONSENSUS        -                5.4   12.0   0.0       8.8   11.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp85790_c0 transcribed RNA sequence
+GFFJ01042185.1_6     -          OSK_CONSENSUS        -                6.1   11.8   0.0        10   11.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Portunus trituberculatus comp85790_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFFJ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GFFJ.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFFJ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:20 2019
+# [ok]

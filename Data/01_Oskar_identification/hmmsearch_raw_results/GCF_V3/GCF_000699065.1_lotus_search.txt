@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023301197.1       -          oskar_filtered.aligned.LOTUS_domain -            6.3e-27   93.9   3.1   1.7e-26   92.5   0.0   3.2   3   0   0   3   3   3   1 maternal effect protein oskar [Lucilia cuprina]
+XP_023295689.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-19   69.7   0.0   2.6e-18   66.2   0.0   2.6   2   0   0   2   2   2   1 uncharacterized protein LOC111678538 isoform X2 [Lucilia cuprina]
+XP_023295688.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-19   69.4   0.0   3.1e-18   66.0   0.0   2.6   2   0   0   2   2   2   1 uncharacterized protein LOC111678538 isoform X1 [Lucilia cuprina]
+XP_023304184.1       -          oskar_filtered.aligned.LOTUS_domain -            5.2e-10   39.6   0.9     4e-09   36.7   0.0   2.9   2   0   0   2   2   2   1 tudor domain-containing protein 7A [Lucilia cuprina]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699065.1_Lcup_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000699065.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000699065.1_Lcup_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:50 2019
+# [ok]

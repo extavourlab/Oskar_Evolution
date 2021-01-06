@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWZ01021553.1_4     -          oskar_filtered.aligned.OSK_domain -            1.6e-47  164.9   0.5   2.9e-47  164.0   0.0   1.6   2   0   0   2   2   2   1 TSA: Pergagrapta polita s2295_L_2168_0_a_45_6_l_2310 transcribed RNA sequence
+GBWZ01021554.1_4     -          oskar_filtered.aligned.OSK_domain -             0.0064   19.5   0.5     0.014   18.3   0.0   1.8   2   0   0   2   2   2   1 TSA: Pergagrapta polita s2296_L_2168_1_a_52_7_l_1861 transcribed RNA sequence
+GBWZ01014621.1_2     -          oskar_filtered.aligned.OSK_domain -                1.2   12.1   0.0       2.4   11.1   0.0   1.4   1   1   0   1   1   1   0 TSA: Pergagrapta polita C79753_a_8_0_l_475 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:26 2019
+# [ok]

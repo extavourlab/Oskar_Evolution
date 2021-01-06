@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWV01005101.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.7   0.0      0.32   15.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Tryonicus parvus breed wildtype C115612_a_3_0_l_245, transcribed RNA sequence
+GDWV01040163.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.97   13.6   0.0       2.2   12.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Tryonicus parvus breed wildtype s3211_L_4615_3_a_35_6_l_1552, transcribed RNA sequence
+GDWV01040159.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  1   13.6   0.0       2.3   12.4   0.0   1.6   1   0   0   1   1   1   0 TSA: Tryonicus parvus breed wildtype s3208_L_4615_0_a_35_9_l_1604, transcribed RNA sequence
+GDWV01040160.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  1   13.6   0.0       2.3   12.4   0.0   1.6   1   0   0   1   1   1   0 TSA: Tryonicus parvus breed wildtype s3209_L_4615_1_a_33_8_l_1604, transcribed RNA sequence
+GDWV01029630.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.1   0.0       2.6   12.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Tryonicus parvus breed wildtype C187998_a_23_0_l_886, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:58 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026280917.1       -          OSK_CONSENSUS        -            3.4e-27   95.4   0.1   6.4e-27   94.5   0.1   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC113208224 [Frankliniella occidentalis]
+XP_026293258.1       -          OSK_CONSENSUS        -            1.7e-25   89.9   0.0   3.1e-25   89.0   0.0   1.4   1   0   0   1   1   1   1 pollen-specific leucine-rich repeat extensin-like protein 1 isoform X2 [Frankliniella occidentalis]
+XP_026293257.1       -          OSK_CONSENSUS        -            1.7e-24   86.6   0.1   1.6e-23   83.5   0.0   2.2   2   0   0   2   2   2   1 actin cytoskeleton-regulatory complex protein PAN1-like isoform X1 [Frankliniella occidentalis]
+XP_026287571.1       -          OSK_CONSENSUS        -            3.6e-17   62.8   0.0   4.1e-17   62.7   0.0   1.0   1   0   0   1   1   1   1 uncharacterized protein LOC113212894, partial [Frankliniella occidentalis]
+XP_026285030.1       -          OSK_CONSENSUS        -            1.3e-07   31.8   0.0   1.9e-07   31.2   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC113211010 [Frankliniella occidentalis]
+XP_026272528.1       -          OSK_CONSENSUS        -            4.1e-05   23.7   0.2   8.1e-05   22.7   0.2   1.5   1   0   0   1   1   1   1 serine/arginine repetitive matrix protein 2-like [Frankliniella occidentalis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000697945.2_Focc_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000697945.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000697945.2_Focc_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:51 2019
+# [ok]

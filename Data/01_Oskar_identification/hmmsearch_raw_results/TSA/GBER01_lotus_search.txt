@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBER01016624.1_3     -          LOTUS_CONSENSUS      -            4.6e-10   42.3   0.0   6.9e-10   41.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Euschistus heros Locus_33845_Transcript_1/1_Confidence_1.000_Length_432 transcribed RNA sequence
+GBER01017978.1_4     -          LOTUS_CONSENSUS      -               0.11   15.4   0.1      0.14   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Euschistus heros Locus_43174_Transcript_1/4_Confidence_0.080_Length_325 transcribed RNA sequence
+GBER01017979.1_4     -          LOTUS_CONSENSUS      -               0.11   15.4   0.1      0.14   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Euschistus heros Locus_43174_Transcript_2/4_Confidence_0.080_Length_257 transcribed RNA sequence
+GBER01017980.1_4     -          LOTUS_CONSENSUS      -               0.11   15.4   0.1      0.14   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Euschistus heros Locus_43174_Transcript_3/4_Confidence_0.200_Length_344 transcribed RNA sequence
+GBER01017981.1_4     -          LOTUS_CONSENSUS      -               0.11   15.4   0.1      0.14   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Euschistus heros Locus_43174_Transcript_4/4_Confidence_0.440_Length_313 transcribed RNA sequence
+GBER01000263.1_4     -          LOTUS_CONSENSUS      -               0.21   14.5   1.2      0.52   13.3   0.6   1.8   1   1   1   2   2   2   0 TSA: Euschistus heros Locus_55_Transcript_20/23_Confidence_0.042_Length_601 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBER01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBER01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBER01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:18 2019
+# [ok]

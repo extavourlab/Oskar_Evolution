@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IABT01042825.1_6     -          LOTUS_CONSENSUS      -            1.5e-15   62.5   0.0   7.5e-15   60.3   0.0   2.3   1   0   0   1   1   1   1 TSA: Protophormia terraenovae mRNA, contig: pterra32324_c0_seq1, transcribed RNA sequence
+IABT01042826.1_6     -          LOTUS_CONSENSUS      -            1.5e-15   62.5   0.0   7.7e-15   60.2   0.0   2.3   1   0   0   1   1   1   1 TSA: Protophormia terraenovae mRNA, contig: pterra32324_c0_seq2, transcribed RNA sequence
+IABT01051827.1_5     -          LOTUS_CONSENSUS      -            1.2e-06   34.0   0.2   1.1e-05   30.9   0.0   2.7   2   0   0   2   2   2   1 TSA: Protophormia terraenovae mRNA, contig: pterra33318_c0_seq4, transcribed RNA sequence
+IABT01051826.1_5     -          LOTUS_CONSENSUS      -            1.2e-05   30.7   0.0   1.2e-05   30.7   0.0   3.5   4   0   0   4   4   3   1 TSA: Protophormia terraenovae mRNA, contig: pterra33318_c0_seq3, transcribed RNA sequence
+IABT01118188.1_6     -          LOTUS_CONSENSUS      -               0.68   15.5   0.1      0.82   15.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Protophormia terraenovae mRNA, contig: pterra233670_c0_seq1, transcribed RNA sequence
+IABT01052704.1_2     -          LOTUS_CONSENSUS      -               0.94   15.1   1.5        33   10.1   1.1   2.8   1   1   1   2   2   2   0 TSA: Protophormia terraenovae mRNA, contig: pterra33397_c0_seq2, transcribed RNA sequence
+IABT01001436.1_2     -          LOTUS_CONSENSUS      -                1.4   14.5   0.7       1.9   14.1   0.7   1.2   1   0   0   1   1   1   0 TSA: Protophormia terraenovae mRNA, contig: pterra1885_c0_seq1, transcribed RNA sequence
+IABT01067662.1_1     -          LOTUS_CONSENSUS      -                2.3   13.8   0.4        21   10.7   0.1   2.7   2   1   1   3   3   3   0 TSA: Protophormia terraenovae mRNA, contig: pterra34421_c0_seq2, transcribed RNA sequence
+IABT01067661.1_1     -          LOTUS_CONSENSUS      -                2.3   13.8   0.4        21   10.7   0.1   2.7   2   1   1   3   3   3   0 TSA: Protophormia terraenovae mRNA, contig: pterra34421_c0_seq1, transcribed RNA sequence
+IABT01116695.1_5     -          LOTUS_CONSENSUS      -                2.5   13.7   0.8       2.9   13.5   0.8   1.2   1   0   0   1   1   1   0 TSA: Protophormia terraenovae mRNA, contig: pterra221879_c0_seq1, transcribed RNA sequence
+IABT01029341.1_6     -          LOTUS_CONSENSUS      -                2.5   13.7   0.7       6.1   12.5   0.7   1.6   1   0   0   1   1   1   0 TSA: Protophormia terraenovae mRNA, contig: pterra28569_c0_seq2, transcribed RNA sequence
+IABT01092086.1_5     -          LOTUS_CONSENSUS      -                3.4   13.3   0.5   7.1e+02    5.8   0.1   2.2   2   0   0   2   2   2   0 TSA: Protophormia terraenovae mRNA, contig: pterra35576_c0_seq1, transcribed RNA sequence
+IABT01096363.1_4     -          LOTUS_CONSENSUS      -                5.4   12.6   0.6        11   11.7   0.6   1.6   1   1   0   1   1   1   0 TSA: Protophormia terraenovae mRNA, contig: pterra63232_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IABT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:17 2019
+# [ok]

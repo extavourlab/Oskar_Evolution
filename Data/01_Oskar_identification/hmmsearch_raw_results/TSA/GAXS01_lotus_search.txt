@@ -1,0 +1,35 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXS01018579.1_6     -          LOTUS_CONSENSUS      -            2.7e-20   76.7   0.0   9.9e-20   74.9   0.0   2.0   2   0   0   2   2   1   1 TSA: Pepsis grossa comp10496_c0_seq1 transcribed RNA sequence
+GAXS01011795.1_6     -          LOTUS_CONSENSUS      -            9.2e-15   59.0   0.1   4.3e-09   40.8   0.0   3.4   3   0   0   3   3   3   2 TSA: Pepsis grossa comp8933_c0_seq1 transcribed RNA sequence
+GAXS01011796.1_5     -          LOTUS_CONSENSUS      -            2.9e-14   57.4   1.0   7.9e-09   40.0   0.0   4.0   4   1   0   4   4   4   2 TSA: Pepsis grossa comp8933_c0_seq2 transcribed RNA sequence
+GAXS01040663.1_6     -          LOTUS_CONSENSUS      -            4.8e-12   50.3   0.0   5.8e-12   50.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Pepsis grossa comp11590_c2_seq159 transcribed RNA sequence
+GAXS01024742.1_6     -          LOTUS_CONSENSUS      -            1.9e-06   32.4   0.0       5.3   11.7   0.0   6.1   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq14 transcribed RNA sequence
+GAXS01024746.1_6     -          LOTUS_CONSENSUS      -            1.9e-06   32.4   0.0       5.4   11.7   0.0   6.1   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq18 transcribed RNA sequence
+GAXS01024735.1_6     -          LOTUS_CONSENSUS      -            2.1e-06   32.3   0.0       5.4   11.7   0.0   6.1   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq7 transcribed RNA sequence
+GAXS01024741.1_6     -          LOTUS_CONSENSUS      -            2.1e-06   32.3   0.0       5.4   11.7   0.0   6.0   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq13 transcribed RNA sequence
+GAXS01024744.1_6     -          LOTUS_CONSENSUS      -            2.1e-06   32.2   0.0       5.5   11.7   0.0   6.1   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq16 transcribed RNA sequence
+GAXS01024745.1_6     -          LOTUS_CONSENSUS      -            2.1e-06   32.2   0.0       5.5   11.6   0.0   6.1   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq17 transcribed RNA sequence
+GAXS01024736.1_6     -          LOTUS_CONSENSUS      -            2.3e-06   32.1   0.0       5.4   11.7   0.0   6.0   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq8 transcribed RNA sequence
+GAXS01024738.1_6     -          LOTUS_CONSENSUS      -            2.3e-06   32.1   0.0       5.6   11.6   0.0   6.1   4   2   2   6   6   6   2 TSA: Pepsis grossa comp11097_c0_seq10 transcribed RNA sequence
+GAXS01024734.1_4     -          LOTUS_CONSENSUS      -            3.7e-05   28.2   0.0       2.2   12.9   0.0   5.4   2   1   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq6 transcribed RNA sequence
+GAXS01024730.1_4     -          LOTUS_CONSENSUS      -            3.9e-05   28.2   0.0       2.4   12.8   0.0   5.6   2   1   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq2 transcribed RNA sequence
+GAXS01024731.1_4     -          LOTUS_CONSENSUS      -            4.3e-05   28.0   0.0       2.3   12.9   0.0   5.4   2   1   2   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq3 transcribed RNA sequence
+GAXS01024729.1_4     -          LOTUS_CONSENSUS      -            4.5e-05   28.0   0.0       2.5   12.7   0.0   5.6   2   1   2   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq1 transcribed RNA sequence
+GAXS01024737.1_4     -          LOTUS_CONSENSUS      -            4.5e-05   28.0   0.0       2.4   12.8   0.0   5.4   2   1   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq9 transcribed RNA sequence
+GAXS01024743.1_4     -          LOTUS_CONSENSUS      -            4.8e-05   27.9   0.0       2.5   12.8   0.0   5.5   2   1   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq15 transcribed RNA sequence
+GAXS01024732.1_4     -          LOTUS_CONSENSUS      -            5.2e-05   27.7   0.0       2.4   12.8   0.0   5.4   2   1   3   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq4 transcribed RNA sequence
+GAXS01024733.1_4     -          LOTUS_CONSENSUS      -            5.5e-05   27.7   0.0       2.5   12.8   0.0   5.5   2   1   2   5   5   5   1 TSA: Pepsis grossa comp11097_c0_seq5 transcribed RNA sequence
+GAXS01044167.1_5     -          LOTUS_CONSENSUS      -             0.0005   24.6   0.0     0.001   23.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Pepsis grossa comp20232_c0_seq1 transcribed RNA sequence
+GAXS01049200.1_3     -          LOTUS_CONSENSUS      -                2.3   12.9   0.1   4.6e+02    5.5   0.0   2.1   2   0   0   2   2   2   0 TSA: Pepsis grossa comp41900_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:42 2019
+# [ok]

@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAOP01078493.1_2     -          OSK_CONSENSUS        -            1.7e-08   39.7   0.6   3.5e-08   38.7   0.6   1.5   1   0   0   1   1   1   1 TSA: Pachypsylla venusta comp111478_c1_seq2 transcribed RNA sequence
+GAOP01035978.1_2     -          OSK_CONSENSUS        -            7.3e-06   31.2   8.4     3e-05   29.2   0.1   3.5   2   1   1   3   3   3   1 TSA: Pachypsylla venusta comp104027_c7_seq2 transcribed RNA sequence
+GAOP01085058.1_2     -          OSK_CONSENSUS        -            3.3e-05   29.0   0.2   6.3e-05   28.1   0.2   1.5   1   0   0   1   1   1   1 TSA: Pachypsylla venusta comp112218_c0_seq2 transcribed RNA sequence
+GAOP01117191.1_3     -          OSK_CONSENSUS        -            3.8e-05   28.8   1.2   5.2e-05   28.4   1.2   1.2   1   0   0   1   1   1   1 TSA: Pachypsylla venusta comp115870_c0_seq1 transcribed RNA sequence
+GAOP01117197.1_6     -          OSK_CONSENSUS        -            5.8e-05   28.2   1.3   8.8e-05   27.7   1.3   1.3   1   0   0   1   1   1   1 TSA: Pachypsylla venusta comp115870_c6_seq2 transcribed RNA sequence
+GAOP01117198.1_6     -          OSK_CONSENSUS        -            7.7e-05   27.8   1.3   0.00012   27.2   1.3   1.3   1   0   0   1   1   1   1 TSA: Pachypsylla venusta comp115870_c6_seq3 transcribed RNA sequence
+GAOP01003165.1_5     -          OSK_CONSENSUS        -             0.0002   26.5   0.0   0.00025   26.2   0.0   1.3   1   1   0   1   1   1   1 TSA: Pachypsylla venusta comp12402_c0_seq1 transcribed RNA sequence
+GAOP01064564.1_3     -          OSK_CONSENSUS        -              0.023   19.8   0.0     0.045   18.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp109805_c6_seq1 transcribed RNA sequence
+GAOP01030782.1_1     -          OSK_CONSENSUS        -              0.026   19.6   1.8     0.043   18.9   1.8   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp100969_c0_seq1 transcribed RNA sequence
+GAOP01064569.1_3     -          OSK_CONSENSUS        -              0.058   18.5   0.1      0.11   17.6   0.1   1.4   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp109805_c6_seq6 transcribed RNA sequence
+GAOP01047534.1_4     -          OSK_CONSENSUS        -               0.11   17.5   0.6      0.13   17.3   0.6   1.1   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp107479_c15_seq3 transcribed RNA sequence
+GAOP01055912.1_6     -          OSK_CONSENSUS        -               0.12   17.5   0.1      0.13   17.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp108693_c2_seq1 transcribed RNA sequence
+GAOP01019840.1_2     -          OSK_CONSENSUS        -               0.33   16.0   0.9      0.39   15.8   0.9   1.1   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp91092_c1_seq1 transcribed RNA sequence
+GAOP01125971.1_2     -          OSK_CONSENSUS        -                2.1   13.4   1.1         3   12.9   1.1   1.2   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp116790_c0_seq11 transcribed RNA sequence
+GAOP01016118.1_5     -          OSK_CONSENSUS        -                2.5   13.2   1.1       4.5   12.3   0.3   1.7   2   0   0   2   2   2   0 TSA: Pachypsylla venusta comp85430_c0_seq1 transcribed RNA sequence
+GAOP01073612.1_2     -          OSK_CONSENSUS        -                3.5   12.7   0.9       5.7   12.0   0.9   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp110913_c2_seq1 transcribed RNA sequence
+GAOP01040572.1_1     -          OSK_CONSENSUS        -                3.5   12.7   0.4       6.8   11.8   0.4   1.5   1   1   0   1   1   1   0 TSA: Pachypsylla venusta comp105906_c2_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAOP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAOP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAOP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:29 2019
+# [ok]

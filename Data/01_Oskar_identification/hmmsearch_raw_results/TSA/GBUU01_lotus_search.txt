@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUU01026587.1_3     -          LOTUS_CONSENSUS      -            2.4e-48  165.5   7.9   1.4e-28  102.1   1.7   3.4   3   0   0   3   3   3   2 TSA: Ormyrus sp. AD-2014 s5201_L_19223_0_a_49_4_l_1571 transcribed RNA sequence
+GBUU01024120.1_5     -          LOTUS_CONSENSUS      -              5e-15   58.7   1.4   2.9e-14   56.3   0.6   2.3   2   0   0   2   2   2   1 TSA: Ormyrus sp. AD-2014 s2970_L_4376_0_a_5_5_l_1053 transcribed RNA sequence
+GBUU01021763.1_3     -          LOTUS_CONSENSUS      -            2.8e-11   46.7   0.1   2.4e-10   43.7   0.0   2.6   3   0   0   3   3   3   1 TSA: Ormyrus sp. AD-2014 C89625_a_32_0_l_3287 transcribed RNA sequence
+GBUU01021067.1_6     -          LOTUS_CONSENSUS      -             0.0012   22.2   0.2       7.6   10.0   0.0   3.7   3   1   1   4   4   4   1 TSA: Ormyrus sp. AD-2014 C87391_a_22_0_l_2120 transcribed RNA sequence
+GBUU01016561.1_6     -          LOTUS_CONSENSUS      -               0.37   14.3   0.5      0.77   13.2   0.1   1.9   2   0   0   2   2   2   0 TSA: Ormyrus sp. AD-2014 C73867_a_4_0_l_847 transcribed RNA sequence
+GBUU01017899.1_6     -          LOTUS_CONSENSUS      -                0.5   13.8   0.0        87    6.7   0.0   3.3   2   1   1   3   3   3   0 TSA: Ormyrus sp. AD-2014 C77761_a_8_0_l_1025 transcribed RNA sequence
+GBUU01010999.1_2     -          LOTUS_CONSENSUS      -               0.61   13.6   0.1      0.91   13.0   0.1   1.3   1   0   0   1   1   1   0 TSA: Ormyrus sp. AD-2014 C57890_a_4_0_l_456 transcribed RNA sequence
+GBUU01010531.1_6     -          LOTUS_CONSENSUS      -               0.73   13.3   0.5       8.3    9.9   0.0   2.1   2   0   0   2   2   2   0 TSA: Ormyrus sp. AD-2014 C56610_a_43_0_l_438 transcribed RNA sequence
+GBUU01003114.1_2     -          LOTUS_CONSENSUS      -               0.83   13.1   0.0        11    9.6   0.0   2.0   2   0   0   2   2   2   0 TSA: Ormyrus sp. AD-2014 C36309_a_3_0_l_253 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:42 2019
+# [ok]

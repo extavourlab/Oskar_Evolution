@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYJ01044335.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.2e-21   78.2   0.0   1.6e-20   77.2   0.0   1.5   1   0   0   1   1   1   1 TSA: Prosapia bicincta breed wildtype s6492_L_13034_0_8_5_LINEAR, transcribed RNA sequence
+GCYJ01038905.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.65   14.2   1.2   1.6e+02    6.5   0.0   4.0   2   1   1   3   3   3   0 TSA: Prosapia bicincta breed wildtype s17478_L_58280_0_8_5_LINEAR, transcribed RNA sequence
+GCYJ01045389.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.65   14.2   0.2        37    8.6   0.0   2.4   2   0   0   2   2   2   0 TSA: Prosapia bicincta breed wildtype s7449_L_15594_1_25_4_BUBBLE, transcribed RNA sequence
+GCYJ01022261.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.3   0.1       2.4   12.3   0.0   1.5   2   0   0   2   2   2   0 TSA: Prosapia bicincta breed wildtype C183031_4_0, transcribed RNA sequence
+GCYJ01021177.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.7   12.9   0.1       3.1   12.0   0.1   1.4   1   1   0   1   1   1   0 TSA: Prosapia bicincta breed wildtype C178271_3_0, transcribed RNA sequence
+GCYJ01045410.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.6   0.9        21    9.3   0.1   2.6   2   0   0   2   2   2   0 TSA: Prosapia bicincta breed wildtype s7468_L_15637_0_8_9_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:35 2019
+# [ok]

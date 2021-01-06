@@ -1,0 +1,72 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCJT01026517.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29027 transcribed RNA sequence
+GCJT01026519.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29029 transcribed RNA sequence
+GCJT01026525.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29035 transcribed RNA sequence
+GCJT01026528.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29039 transcribed RNA sequence
+GCJT01026545.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29057 transcribed RNA sequence
+GCJT01026554.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29068 transcribed RNA sequence
+GCJT01026557.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29071 transcribed RNA sequence
+GCJT01026560.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29074 transcribed RNA sequence
+GCJT01026562.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29076 transcribed RNA sequence
+GCJT01026565.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29079 transcribed RNA sequence
+GCJT01026568.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29082 transcribed RNA sequence
+GCJT01026577.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29093 transcribed RNA sequence
+GCJT01026586.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29102 transcribed RNA sequence
+GCJT01026591.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29107 transcribed RNA sequence
+GCJT01026594.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29110 transcribed RNA sequence
+GCJT01026616.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29133 transcribed RNA sequence
+GCJT01026619.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29136 transcribed RNA sequence
+GCJT01026627.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29144 transcribed RNA sequence
+GCJT01026637.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29154 transcribed RNA sequence
+GCJT01026640.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29157 transcribed RNA sequence
+GCJT01026644.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29162 transcribed RNA sequence
+GCJT01026654.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29173 transcribed RNA sequence
+GCJT01026656.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29175 transcribed RNA sequence
+GCJT01026678.1_1     -          OSK_CONSENSUS        -               0.56   14.1   0.0       8.7   10.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29199 transcribed RNA sequence
+GCJT01048655.1_1     -          OSK_CONSENSUS        -               0.66   13.9   1.9       1.7   12.5   1.9   1.7   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_53815 transcribed RNA sequence
+GCJT01026523.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29033 transcribed RNA sequence
+GCJT01026531.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29042 transcribed RNA sequence
+GCJT01026539.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29051 transcribed RNA sequence
+GCJT01026543.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29055 transcribed RNA sequence
+GCJT01026548.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29060 transcribed RNA sequence
+GCJT01026550.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29062 transcribed RNA sequence
+GCJT01026572.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29086 transcribed RNA sequence
+GCJT01026580.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29096 transcribed RNA sequence
+GCJT01026582.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29098 transcribed RNA sequence
+GCJT01026606.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29123 transcribed RNA sequence
+GCJT01026609.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29126 transcribed RNA sequence
+GCJT01026611.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29128 transcribed RNA sequence
+GCJT01026624.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29141 transcribed RNA sequence
+GCJT01026632.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29149 transcribed RNA sequence
+GCJT01026634.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29151 transcribed RNA sequence
+GCJT01026651.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29170 transcribed RNA sequence
+GCJT01026660.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29180 transcribed RNA sequence
+GCJT01026664.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29184 transcribed RNA sequence
+GCJT01026666.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29186 transcribed RNA sequence
+GCJT01026671.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29191 transcribed RNA sequence
+GCJT01026676.1_1     -          OSK_CONSENSUS        -               0.75   13.7   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29197 transcribed RNA sequence
+GCJT01026535.1_1     -          OSK_CONSENSUS        -               0.79   13.6   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29046 transcribed RNA sequence
+GCJT01026597.1_1     -          OSK_CONSENSUS        -               0.79   13.6   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29113 transcribed RNA sequence
+GCJT01026599.1_1     -          OSK_CONSENSUS        -               0.79   13.6   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29115 transcribed RNA sequence
+GCJT01026604.1_1     -          OSK_CONSENSUS        -               0.79   13.6   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29120 transcribed RNA sequence
+GCJT01026648.1_1     -          OSK_CONSENSUS        -               0.79   13.6   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29167 transcribed RNA sequence
+GCJT01026673.1_1     -          OSK_CONSENSUS        -               0.79   13.6   0.0        10   10.0   0.0   2.4   2   0   0   2   2   2   0 TSA: Paracyclopina nana Pnana_mRNA_29193 transcribed RNA sequence
+GCJT01048658.1_1     -          OSK_CONSENSUS        -               0.82   13.5   1.8       2.2   12.1   1.8   1.7   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_53818 transcribed RNA sequence
+GCJT01048656.1_1     -          OSK_CONSENSUS        -               0.98   13.3   1.8       2.3   12.1   1.8   1.6   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_53816 transcribed RNA sequence
+GCJT01048657.1_1     -          OSK_CONSENSUS        -                  1   13.3   1.5       2.6   11.9   1.5   1.7   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_53817 transcribed RNA sequence
+GCJT01016645.1_1     -          OSK_CONSENSUS        -                2.1   12.2   0.0         4   11.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_18190 transcribed RNA sequence
+GCJT01017598.1_1     -          OSK_CONSENSUS        -                2.3   12.1   0.1       3.7   11.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_19231 transcribed RNA sequence
+GCJT01017599.1_1     -          OSK_CONSENSUS        -                2.4   12.0   0.1       3.8   11.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_19232 transcribed RNA sequence
+GCJT01016644.1_1     -          OSK_CONSENSUS        -                2.9   11.8   0.0       5.6   10.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Paracyclopina nana Pnana_mRNA_18189 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GCJT.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GCJT.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GCJT.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:24 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXY01043250.1_3     -          LOTUS_CONSENSUS      -              2e-15   60.9   3.1     7e-15   59.2   0.3   3.0   3   0   0   3   3   3   1 TSA: Oncopeltus fasciatus breed wildtype s16841_L_61401_0_32_8_LINEAR, transcribed RNA sequence
+GCXY01047252.1_2     -          LOTUS_CONSENSUS      -              9e-12   49.2   0.1   2.6e-06   31.7   0.0   3.8   3   0   0   3   3   3   2 TSA: Oncopeltus fasciatus breed wildtype s4380_L_9774_1_8_5_FORK, transcribed RNA sequence
+GCXY01042875.1_1     -          LOTUS_CONSENSUS      -            5.5e-08   37.1   0.0       3.4   12.1   0.0   6.4   4   2   2   6   6   6   2 TSA: Oncopeltus fasciatus breed wildtype s16502_L_59578_0_4_5_LINEAR, transcribed RNA sequence
+GCXY01025798.1_2     -          LOTUS_CONSENSUS      -              0.007   20.7   0.0    0.0097   20.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Oncopeltus fasciatus breed wildtype C205180_9_0, transcribed RNA sequence
+GCXY01029386.1_5     -          LOTUS_CONSENSUS      -               0.16   16.4   1.6      0.27   15.6   0.2   2.1   2   0   0   2   2   2   0 TSA: Oncopeltus fasciatus breed wildtype C221056_3_0, transcribed RNA sequence
+GCXY01014251.1_4     -          LOTUS_CONSENSUS      -               0.18   16.2   0.1      0.21   16.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Oncopeltus fasciatus breed wildtype C163027_6_0, transcribed RNA sequence
+GCXY01024171.1_3     -          LOTUS_CONSENSUS      -               0.43   15.0   2.1       1.4   13.3   2.1   1.9   1   1   0   1   1   1   0 TSA: Oncopeltus fasciatus breed wildtype C198502_5_0, transcribed RNA sequence
+GCXY01045429.1_2     -          LOTUS_CONSENSUS      -                2.6   12.4   0.4        15   10.0   0.0   2.5   2   0   0   2   2   2   0 TSA: Oncopeltus fasciatus breed wildtype s2739_L_5586_0_13_3_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:13 2019
+# [ok]

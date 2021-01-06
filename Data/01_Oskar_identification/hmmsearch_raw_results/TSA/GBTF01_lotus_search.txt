@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTF01025530.1_5     -          LOTUS_CONSENSUS      -            2.4e-19   72.8   0.1   2.6e-13   53.5   0.0   3.1   2   0   0   2   2   2   2 TSA: Dacnusa sibirica s2571_L_3237_1_a_37_9_l_4616 transcribed RNA sequence
+GBTF01025121.1_5     -          LOTUS_CONSENSUS      -              4e-18   68.9   1.0   9.8e-17   64.5   0.1   3.0   2   0   0   2   2   2   1 TSA: Dacnusa sibirica s2200_L_2625_2_a_36_3_l_5019 transcribed RNA sequence
+GBTF01025117.1_5     -          LOTUS_CONSENSUS      -            4.3e-18   68.8   1.2   9.8e-17   64.5   0.2   3.0   2   0   0   2   2   2   1 TSA: Dacnusa sibirica s2198_L_2625_0_a_35_9_l_4908 transcribed RNA sequence
+GBTF01033133.1_3     -          LOTUS_CONSENSUS      -            8.3e-15   58.3   0.0   6.3e-13   52.2   0.0   2.8   2   0   0   2   2   2   1 TSA: Dacnusa sibirica s9420_L_24616_0_a_40_9_l_3821 transcribed RNA sequence
+GBTF01025529.1_4     -          LOTUS_CONSENSUS      -            4.7e-14   55.9   0.0   1.8e-13   54.0   0.0   2.0   1   0   0   1   1   1   1 TSA: Dacnusa sibirica s2570_L_3237_0_a_68_5_l_3412 transcribed RNA sequence
+GBTF01029226.1_6     -          LOTUS_CONSENSUS      -            7.7e-13   52.0   0.0   1.8e-12   50.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Dacnusa sibirica s5902_L_9460_0_a_64_3_l_1804 transcribed RNA sequence
+GBTF01025529.1_5     -          LOTUS_CONSENSUS      -               0.11   16.2   0.0      0.11   16.2   0.0   2.6   3   1   0   3   3   3   0 TSA: Dacnusa sibirica s2570_L_3237_0_a_68_5_l_3412 transcribed RNA sequence
+GBTF01028551.1_2     -          LOTUS_CONSENSUS      -               0.16   15.7   3.3        29    8.5   0.7   2.5   2   0   0   2   2   2   0 TSA: Dacnusa sibirica s5292_L_8138_0_a_3_4_l_903 transcribed RNA sequence
+GBTF01008740.1_4     -          LOTUS_CONSENSUS      -                1.2   12.9   0.2       6.7   10.5   0.2   2.3   2   1   0   2   2   2   0 TSA: Dacnusa sibirica C135245_a_32_0_l_1205 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:42 2019
+# [ok]

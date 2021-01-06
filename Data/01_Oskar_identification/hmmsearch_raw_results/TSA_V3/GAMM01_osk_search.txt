@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAMM01024727.1_2     -          oskar_filtered.aligned.OSK_domain -            2.8e-06   30.5   0.0      0.22   14.6   0.0   2.2   1   1   0   2   2   2   2 TSA: Orchesella cincta OC24792 transcribed RNA sequence
+GAMM01012838.1_4     -          oskar_filtered.aligned.OSK_domain -            3.4e-06   30.2   0.0      0.23   14.5   0.0   2.2   1   1   0   2   2   2   2 TSA: Orchesella cincta OC12848 transcribed RNA sequence
+GAMM01012839.1_4     -          oskar_filtered.aligned.OSK_domain -               0.12   15.4   0.0      0.28   14.2   0.0   1.6   2   0   0   2   2   2   0 TSA: Orchesella cincta OC12849 transcribed RNA sequence
+GAMM01015464.1_4     -          oskar_filtered.aligned.OSK_domain -               0.32   14.0   0.0      0.41   13.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Orchesella cincta OC15487 transcribed RNA sequence
+GAMM01027245.1_3     -          oskar_filtered.aligned.OSK_domain -               0.99   12.4   0.7       1.1   12.3   0.7   1.0   1   0   0   1   1   1   0 TSA: Orchesella cincta OC27378 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GAMM01.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GAMM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GAMM01.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:39 2019
+# [ok]

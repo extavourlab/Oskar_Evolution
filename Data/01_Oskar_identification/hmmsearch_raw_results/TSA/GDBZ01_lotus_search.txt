@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBZ01020440.1_6     -          LOTUS_CONSENSUS      -            7.6e-15   58.1   0.0   1.7e-14   57.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Apteroperla tikumana breed wildtype s2528_L_3363_1_a_9_8_l_3427, transcribed RNA sequence
+GDBZ01004059.1_5     -          LOTUS_CONSENSUS      -             0.0054   20.1   0.0     0.013   18.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Apteroperla tikumana breed wildtype C117076_a_3_0_l_1351, transcribed RNA sequence
+GDBZ01008088.1_2     -          LOTUS_CONSENSUS      -              0.039   17.4   0.3     0.044   17.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Apteroperla tikumana breed wildtype C62414_a_3_0_l_223, transcribed RNA sequence
+GDBZ01027416.1_6     -          LOTUS_CONSENSUS      -              0.051   17.0   0.0      0.14   15.6   0.0   1.7   1   0   0   1   1   1   0 TSA: Apteroperla tikumana breed wildtype s889_L_982_1_a_10_7_l_1455, transcribed RNA sequence
+GDBZ01027415.1_6     -          LOTUS_CONSENSUS      -              0.061   16.8   0.0      0.16   15.4   0.0   1.7   1   0   0   1   1   1   0 TSA: Apteroperla tikumana breed wildtype s888_L_982_0_a_10_0_l_1599, transcribed RNA sequence
+GDBZ01002285.1_4     -          LOTUS_CONSENSUS      -                1.6   12.2   1.8       8.2    9.9   0.7   2.4   1   1   1   2   2   2   0 TSA: Apteroperla tikumana breed wildtype C109396_a_27_0_l_915, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:11 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCMU01012581.1_4     -          oskar_filtered.aligned.OSK_domain -            1.1e-58  201.4   0.2   1.6e-57  197.6   0.0   2.2   2   0   0   2   2   2   1 TSA: Megaselia abdita C134347_a_43_0_l_1961 transcribed RNA sequence
+GCMU01032343.1_2     -          oskar_filtered.aligned.OSK_domain -               0.12   15.4   0.0      0.19   14.8   0.0   1.5   1   1   0   1   1   1   0 TSA: Megaselia abdita s6373_L_30772_0_a_12_7_l_816 transcribed RNA sequence
+GCMU01009449.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   12.1   0.0       1.9   11.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Megaselia abdita C125913_a_4_0_l_835 transcribed RNA sequence
+GCMU01026914.1_2     -          oskar_filtered.aligned.OSK_domain -                1.5   11.8   7.3       1.8   11.6   7.3   1.2   1   0   0   1   1   1   0 TSA: Megaselia abdita s1354_L_2368_0_a_7_0_l_370 transcribed RNA sequence
+GCMU01010852.1_3     -          oskar_filtered.aligned.OSK_domain -                3.8   10.6   5.5      0.51   13.4   1.0   1.8   2   1   0   2   2   2   0 TSA: Megaselia abdita C129717_a_13_0_l_1064 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCMU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:27 2019
+# [ok]

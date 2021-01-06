@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HACK01017046.1_4     -          LOTUS_CONSENSUS      -            1.4e-11   49.0   0.5     1e-10   46.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Cherax quadricarinatus, contig transcript-80_17045, transcribed RNA sequence
+HACK01017043.1_4     -          LOTUS_CONSENSUS      -            1.4e-11   49.0   0.5     1e-10   46.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Cherax quadricarinatus, contig transcript-80_17042, transcribed RNA sequence
+HACK01017047.1_4     -          LOTUS_CONSENSUS      -            1.5e-11   49.0   0.5     1e-10   46.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Cherax quadricarinatus, contig transcript-80_17046, transcribed RNA sequence
+HACK01017044.1_4     -          LOTUS_CONSENSUS      -            1.5e-11   49.0   0.5     1e-10   46.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Cherax quadricarinatus, contig transcript-80_17043, transcribed RNA sequence
+HACK01033778.1_1     -          LOTUS_CONSENSUS      -                1.2   14.0   0.4       3.6   12.5   0.1   1.9   2   0   0   2   2   2   0 TSA: Cherax quadricarinatus, contig transcript-80_33777, transcribed RNA sequence
+HACK01039390.1_4     -          LOTUS_CONSENSUS      -                  2   13.3   0.0   4.9e+02    5.7   0.0   2.4   1   1   1   2   2   2   0 TSA: Cherax quadricarinatus, contig transcript-80_39389, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HACK.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HACK.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HACK.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:33 2019
+# [ok]

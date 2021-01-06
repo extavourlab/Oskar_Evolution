@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXX01045137.1_4     -          oskar_filtered.aligned.OSK_domain -               0.47   14.5   0.1       0.8   13.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus s1261_L_2084_0_3_6_FORK, transcribed RNA sequence
+GCXX01045148.1_4     -          oskar_filtered.aligned.OSK_domain -               0.59   14.2   0.3      0.61   14.1   0.3   1.1   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus s1262_L_2084_1_2_5_FORK, transcribed RNA sequence
+GCXX01039358.1_6     -          oskar_filtered.aligned.OSK_domain -                1.7   12.7   0.8       2.5   12.1   0.1   1.7   2   0   0   2   2   2   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus C339283_7_0, transcribed RNA sequence
+GCXX01027574.1_4     -          oskar_filtered.aligned.OSK_domain -                2.3   12.3   0.0       2.6   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus C281598_2_0, transcribed RNA sequence
+GCXX01027741.1_4     -          oskar_filtered.aligned.OSK_domain -                4.8   11.2   2.9       5.1   11.1   2.9   1.1   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus C282270_3_0, transcribed RNA sequence
+GCXX01045553.1_6     -          oskar_filtered.aligned.OSK_domain -                5.1   11.1   7.0       7.7   10.6   3.6   2.6   3   1   0   3   3   3   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus s12995_L_30895_0_15_0_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:10 2019
+# [ok]

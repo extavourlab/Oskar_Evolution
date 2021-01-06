@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_020818561.1       -          LOTUS_CONSENSUS      -            2.1e-24   85.9   0.2   7.7e-24   84.1   0.2   2.1   1   0   0   1   1   1   1 LOW QUALITY PROTEIN: maternal effect protein oskar [Drosophila serrata]
+XP_020814846.1       -          LOTUS_CONSENSUS      -            3.5e-11   43.5   0.0   1.3e-10   41.7   0.0   2.0   2   0   0   2   2   2   1 LOW QUALITY PROTEIN: uncharacterized protein LOC110189215 [Drosophila serrata]
+XP_020806682.1       -          LOTUS_CONSENSUS      -            4.6e-09   36.7   0.0   2.2e-08   34.5   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC110182878 isoform X3 [Drosophila serrata]
+XP_020806680.1       -          LOTUS_CONSENSUS      -            6.8e-09   36.2   0.0   2.9e-08   34.1   0.0   2.1   1   0   0   1   1   1   1 tudor domain-containing protein 7B isoform X1 [Drosophila serrata]
+XP_020812333.1       -          LOTUS_CONSENSUS      -            4.9e-05   23.8   0.0   6.8e-05   23.4   0.0   1.2   1   0   0   1   1   1   1 LOW QUALITY PROTEIN: uncharacterized protein LOC110187285, partial [Drosophila serrata]
+XP_020810449.1       -          LOTUS_CONSENSUS      -               0.92   10.1   4.3       6.5    7.4   0.0   2.8   2   1   0   3   3   3   0 uncharacterized protein LOC110185787 [Drosophila serrata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002093755.1_Dser1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002093755.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002093755.1_Dser1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:47 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCD01037656.1_2     -          OSK_CONSENSUS        -            1.9e-30  109.9   0.0   2.1e-30  109.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Diapherodes gigantea breed breeding C200474_a_4_0_l_492, transcribed RNA sequence
+GDCD01035216.1_4     -          OSK_CONSENSUS        -            7.5e-10   43.0   0.3   7.5e-10   43.0   0.3   1.1   1   0   0   1   1   1   1 TSA: Diapherodes gigantea breed breeding C194099_a_5_0_l_445, transcribed RNA sequence
+GDCD01031440.1_2     -          OSK_CONSENSUS        -            5.9e-07   33.6   0.3   6.5e-07   33.4   0.3   1.1   1   0   0   1   1   1   1 TSA: Diapherodes gigantea breed breeding C184192_a_4_0_l_388, transcribed RNA sequence
+GDCD01036763.1_2     -          OSK_CONSENSUS        -               0.08   16.9   0.3     0.095   16.6   0.3   1.1   1   0   0   1   1   1   0 TSA: Diapherodes gigantea breed breeding C198150_a_4_0_l_474, transcribed RNA sequence
+GDCD01055103.1_4     -          OSK_CONSENSUS        -               0.26   15.2   0.1        14    9.6   0.0   2.0   2   0   0   2   2   2   0 TSA: Diapherodes gigantea breed breeding s2718_L_5040_0_a_3_5_l_265, transcribed RNA sequence
+GDCD01007763.1_3     -          OSK_CONSENSUS        -                  1   13.3   1.1       1.1   13.2   1.1   1.1   1   0   0   1   1   1   0 TSA: Diapherodes gigantea breed breeding C126300_a_3_0_l_238, transcribed RNA sequence
+GDCD01047884.1_6     -          OSK_CONSENSUS        -                1.6   12.6   0.0       3.7   11.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Diapherodes gigantea breed breeding C228742_a_16_0_l_1011, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:24 2019
+# [ok]

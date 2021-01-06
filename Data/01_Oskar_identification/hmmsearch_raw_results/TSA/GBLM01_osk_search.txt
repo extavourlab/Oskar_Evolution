@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLM01015207.1_6     -          OSK_CONSENSUS        -            1.5e-43  150.6   0.1   4.3e-43  149.1   0.1   1.8   1   0   0   1   1   1   1 TSA: Gonatocerus triguttatus s2380_L_11094_0_a_64_7_l_1974 transcribed RNA sequence
+GBLM01012162.1_5     -          OSK_CONSENSUS        -            1.3e-42  147.6   0.1   2.7e-42  146.5   0.1   1.5   1   0   0   1   1   1   1 TSA: Gonatocerus triguttatus C49938_a_63_0_l_2153 transcribed RNA sequence
+GBLM01015440.1_5     -          OSK_CONSENSUS        -              1e-38  134.9   2.2     1e-38  134.9   2.2   1.8   2   0   0   2   2   2   1 TSA: Gonatocerus triguttatus s2590_L_12656_0_a_33_7_l_2216 transcribed RNA sequence
+GBLM01007235.1_5     -          OSK_CONSENSUS        -               0.23   13.5   1.6      0.72   11.9   0.5   2.0   1   1   1   2   2   2   0 TSA: Gonatocerus triguttatus C36285_a_5_0_l_726 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:49 2019
+# [ok]

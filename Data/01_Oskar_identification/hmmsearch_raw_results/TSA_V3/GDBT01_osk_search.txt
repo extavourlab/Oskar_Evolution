@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBT01055259.1_2     -          oskar_filtered.aligned.OSK_domain -              0.011   19.8   1.8     0.018   19.1   0.1   2.0   1   1   0   2   2   2   0 TSA: Stagmatoptera biocellata breed breeding s1900_L_2621_1_a_5_9_l_1126, transcribed RNA sequence
+GDBT01048014.1_5     -          oskar_filtered.aligned.OSK_domain -              0.015   19.3   0.2        17    9.4   0.0   3.0   3   0   0   3   3   3   0 TSA: Stagmatoptera biocellata breed breeding C223437_a_61_0_l_1395, transcribed RNA sequence
+GDBT01055256.1_2     -          oskar_filtered.aligned.OSK_domain -               0.02   18.9   0.3      0.02   18.9   0.3   2.0   1   1   1   2   2   2   0 TSA: Stagmatoptera biocellata breed breeding s1899_L_2621_0_a_5_5_l_1129, transcribed RNA sequence
+GDBT01035697.1_5     -          oskar_filtered.aligned.OSK_domain -              0.038   18.0   0.4     0.048   17.7   0.4   1.2   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding C189829_a_12_0_l_549, transcribed RNA sequence
+GDBT01027832.1_1     -          oskar_filtered.aligned.OSK_domain -              0.058   17.4   2.8     0.073   17.1   2.8   1.1   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding C169276_a_6_0_l_401, transcribed RNA sequence
+GDBT01023032.1_6     -          oskar_filtered.aligned.OSK_domain -               0.08   16.9   0.1     0.099   16.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding C156846_a_7_0_l_343, transcribed RNA sequence
+GDBT01032141.1_6     -          oskar_filtered.aligned.OSK_domain -               0.91   13.5   0.4         1   13.3   0.4   1.1   1   0   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding C180361_a_3_0_l_471, transcribed RNA sequence
+GDBT01057263.1_3     -          oskar_filtered.aligned.OSK_domain -                1.9   12.5   5.7       7.8   10.5   5.5   2.0   1   1   0   1   1   1   0 TSA: Stagmatoptera biocellata breed breeding s3712_L_6079_2_a_15_7_l_2609, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:23 2019
+# [ok]

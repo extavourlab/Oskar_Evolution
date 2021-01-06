@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCGA01001374.1_5     -          oskar_filtered.aligned.OSK_domain -            3.9e-69  235.0  12.2   1.2e-67  230.1   1.0   3.0   2   1   0   2   2   2   2 TSA: Lispe sydneyensis breed wildtype C105304_a_37_0_l_2668, transcribed RNA sequence
+GCGA01017013.1_6     -          oskar_filtered.aligned.OSK_domain -              0.096   15.2   0.3      0.16   14.5   0.3   1.3   1   0   0   1   1   1   0 TSA: Lispe sydneyensis breed wildtype s1949_L_2907_0_a_60_1_l_1451, transcribed RNA sequence
+GCGA01000899.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   11.7   2.5       7.8    9.0   0.1   2.4   2   0   0   2   2   2   0 TSA: Lispe sydneyensis breed wildtype C103524_a_67_0_l_1994, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCGA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:35 2019
+# [ok]

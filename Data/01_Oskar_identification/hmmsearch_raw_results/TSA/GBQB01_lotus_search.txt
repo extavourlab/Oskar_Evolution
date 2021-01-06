@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQB01022513.1_2     -          LOTUS_CONSENSUS      -            2.4e-26   94.9   0.1   5.2e-26   93.8   0.1   1.6   1   0   0   1   1   1   1 TSA: Nematus ribesii s5759_L_11996_1_a_53_7_l_2093 transcribed RNA sequence
+GBQB01022512.1_2     -          LOTUS_CONSENSUS      -            3.2e-26   94.5   0.1   9.3e-26   93.0   0.1   1.9   1   0   0   1   1   1   1 TSA: Nematus ribesii s5758_L_11996_0_a_62_5_l_3178 transcribed RNA sequence
+GBQB01011123.1_5     -          LOTUS_CONSENSUS      -            5.2e-19   71.4   0.0   1.8e-18   69.7   0.0   1.7   2   0   0   2   2   2   1 TSA: Nematus ribesii C74827_a_6_0_l_683 transcribed RNA sequence
+GBQB01020799.1_1     -          LOTUS_CONSENSUS      -              0.012   18.9   0.0        24    8.3   0.0   4.9   4   1   1   5   5   5   0 TSA: Nematus ribesii s4209_L_6352_0_a_26_9_l_5765 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:21 2019
+# [ok]

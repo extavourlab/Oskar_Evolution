@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTK01032247.1_6     -          oskar_filtered.aligned.OSK_domain -            5.4e-53  183.1   0.3   9.5e-53  182.3   0.3   1.4   1   0   0   1   1   1   1 TSA: Aphelinus abdominalis s1308_L_1591_0_a_56_1_l_1128 transcribed RNA sequence
+GBTK01032248.1_6     -          oskar_filtered.aligned.OSK_domain -              2e-52  181.3   0.3     2e-52  181.3   0.3   1.7   2   0   0   2   2   2   1 TSA: Aphelinus abdominalis s1309_L_1591_1_a_59_2_l_1546 transcribed RNA sequence
+GBTK01006504.1_5     -          oskar_filtered.aligned.OSK_domain -            1.3e-49  172.1   2.2   2.1e-49  171.4   0.2   2.2   2   0   0   2   2   2   1 TSA: Aphelinus abdominalis C122359_a_54_0_l_1786 transcribed RNA sequence
+GBTK01000043.1_5     -          oskar_filtered.aligned.OSK_domain -              2e-31  112.8   0.1   3.5e-31  112.0   0.1   1.4   1   0   0   1   1   1   1 TSA: Aphelinus abdominalis C100117_a_6_0_l_592 transcribed RNA sequence
+GBTK01006369.1_5     -          oskar_filtered.aligned.OSK_domain -                2.6   11.3   7.4         1   12.7   0.3   2.9   2   1   0   2   2   2   0 TSA: Aphelinus abdominalis C121916_a_7_0_l_1736 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:22 2019
+# [ok]

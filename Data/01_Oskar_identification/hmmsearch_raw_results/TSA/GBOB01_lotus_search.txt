@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOB01015730.1_2     -          LOTUS_CONSENSUS      -            2.2e-19   72.3   0.0   3.3e-18   68.4   0.0   2.5   2   0   0   2   2   2   1 TSA: Sphecius convallis s1554_L_2344_1_a_4_2_l_1799 transcribed RNA sequence
+GBOB01008776.1_4     -          LOTUS_CONSENSUS      -             0.0011   21.9   0.1    0.0021   21.0   0.1   1.4   1   0   0   1   1   1   1 TSA: Sphecius convallis C43529_a_9_0_l_684 transcribed RNA sequence
+GBOB01015729.1_3     -          LOTUS_CONSENSUS      -              0.011   18.7   0.1       0.2   14.7   0.0   2.5   2   0   0   2   2   2   0 TSA: Sphecius convallis s1553_L_2344_0_a_4_2_l_1632 transcribed RNA sequence
+GBOB01013544.1_5     -          LOTUS_CONSENSUS      -                0.1   15.6   0.3      0.28   14.2   0.3   1.7   1   0   0   1   1   1   0 TSA: Sphecius convallis C59569_a_11_0_l_2181 transcribed RNA sequence
+GBOB01000521.1_3     -          LOTUS_CONSENSUS      -               0.27   14.3   0.4       0.3   14.1   0.4   1.2   1   0   0   1   1   1   0 TSA: Sphecius convallis C19134_a_3_0_l_218 transcribed RNA sequence
+GBOB01004857.1_4     -          LOTUS_CONSENSUS      -               0.31   14.0   0.0      0.46   13.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Sphecius convallis C31281_a_3_0_l_351 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:51 2019
+# [ok]

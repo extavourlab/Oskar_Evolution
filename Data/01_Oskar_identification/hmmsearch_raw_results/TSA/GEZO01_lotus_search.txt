@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEZO01020194.1_6     -          LOTUS_CONSENSUS      -            2.8e-13   53.3   0.0   2.8e-13   53.3   0.0   2.7   3   0   0   3   3   3   1 TSA: Spodoptera litura comp13718_c0 transcribed RNA sequence
+GEZO01030932.1_6     -          LOTUS_CONSENSUS      -            2.3e-10   44.0   0.0   3.4e-10   43.4   0.0   1.3   1   0   0   1   1   1   1 TSA: Spodoptera litura comp10199_c0 transcribed RNA sequence
+GEZO01017979.1_1     -          LOTUS_CONSENSUS      -            0.00017   25.1   0.0    0.0004   23.9   0.0   1.5   2   0   0   2   2   2   1 TSA: Spodoptera litura comp57157_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEZO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:15 2019
+# [ok]

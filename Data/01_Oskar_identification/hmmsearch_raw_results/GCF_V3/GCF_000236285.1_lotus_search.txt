@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017104763.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-26   92.2   0.9     3e-24   85.6   0.4   3.0   2   0   0   2   2   2   1 PREDICTED: maternal effect protein oskar [Drosophila bipectinata]
+XP_017094100.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   51.7   0.0   2.5e-13   50.5   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123449 isoform X3 [Drosophila bipectinata]
+XP_017094099.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-13   51.5   0.0   3.2e-13   50.2   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123449 isoform X2 [Drosophila bipectinata]
+XP_017094097.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-13   51.2   0.0   3.8e-13   49.9   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123449 isoform X1 [Drosophila bipectinata]
+XP_017093771.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-13   50.9   0.0   5.3e-13   49.5   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108123196 isoform X3 [Drosophila bipectinata]
+XP_017093768.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-13   50.5   0.0   6.8e-13   49.1   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Drosophila bipectinata]
+XP_017097286.1       -          oskar_filtered.aligned.LOTUS_domain -            2.4e-05   24.9   0.0   2.8e-05   24.7   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108125575 [Drosophila bipectinata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000236285.1_Dbip_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000236285.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000236285.1_Dbip_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:58 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDPI01010195.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-25   90.4   3.1   1.7e-24   88.6   0.4   2.6   2   1   0   2   2   2   1 TSA: Elaphrus aureus breed wildtype C71933_a_65_0_l_1152, transcribed RNA sequence
+GDPI01013320.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-21   78.2   0.0   1.5e-17   66.4   0.0   3.1   2   0   0   2   2   2   2 TSA: Elaphrus aureus breed wildtype C83817_a_29_0_l_3785, transcribed RNA sequence
+GDPI01007076.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-18   69.5   0.0   3.1e-18   68.6   0.0   1.4   2   0   0   2   2   2   1 TSA: Elaphrus aureus breed wildtype C59161_a_10_0_l_550, transcribed RNA sequence
+GDPI01012357.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-15   58.1   0.1   4.9e-12   48.7   0.0   2.7   2   0   0   2   2   2   2 TSA: Elaphrus aureus breed wildtype C80309_a_40_0_l_2173, transcribed RNA sequence
+GDPI01005067.1_4     -          oskar_filtered.aligned.LOTUS_domain -            0.00036   23.4   0.3    0.0013   21.6   0.0   1.8   2   0   0   2   2   2   1 TSA: Elaphrus aureus breed wildtype C51429_a_40_0_l_376, transcribed RNA sequence
+GDPI01004719.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0015   21.4   1.7     0.003   20.5   0.9   1.8   1   1   1   2   2   2   1 TSA: Elaphrus aureus breed wildtype C50100_a_28_0_l_354, transcribed RNA sequence
+GDPI01004721.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.053   16.5   0.1     0.077   15.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Elaphrus aureus breed wildtype C50106_a_12_0_l_354, transcribed RNA sequence
+GDPI01007479.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.17   14.8   0.1      0.43   13.5   0.1   1.7   1   0   0   1   1   1   0 TSA: Elaphrus aureus breed wildtype C60727_a_7_0_l_599, transcribed RNA sequence
+GDPI01006959.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.69   12.9   0.3       1.7   11.6   0.2   1.7   2   0   0   2   2   2   0 TSA: Elaphrus aureus breed wildtype C58677_a_3_0_l_535, transcribed RNA sequence
+GDPI01017613.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.9   10.5   8.9        17    8.4   0.7   3.5   4   0   0   4   4   4   0 TSA: Elaphrus aureus breed wildtype s4660_L_10270_0_a_10_8_l_3677, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDPI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:38 2019
+# [ok]

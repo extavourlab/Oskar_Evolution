@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZW01057182.1_2     -          LOTUS_CONSENSUS      -              4e-11   47.6   0.0   1.4e-10   45.8   0.0   2.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL348.Contig3_N1 transcribed RNA sequence
+GCZW01064877.1_3     -          LOTUS_CONSENSUS      -            4.2e-11   47.5   0.0   1.5e-10   45.7   0.0   2.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL348.Contig4_N1 transcribed RNA sequence
+GCZW01064182.1_2     -          LOTUS_CONSENSUS      -            4.4e-11   47.4   0.0   1.6e-10   45.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL348.Contig2_N1 transcribed RNA sequence
+GCZW01058796.1_3     -          LOTUS_CONSENSUS      -            4.6e-11   47.4   0.0   1.6e-10   45.6   0.0   2.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci CL348.Contig1_N1 transcribed RNA sequence
+GCZW01005108.1_2     -          LOTUS_CONSENSUS      -            1.1e-06   33.3   0.0   1.4e-06   33.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unigene27331_N1 transcribed RNA sequence
+GCZW01016043.1_6     -          LOTUS_CONSENSUS      -            2.9e-06   32.0   0.1     0.025   19.4   0.0   2.1   1   1   0   2   2   2   2 TSA: Bemisia tabaci Unigene18438_N1 transcribed RNA sequence
+GCZW01021190.1_1     -          LOTUS_CONSENSUS      -              0.002   22.9   0.0    0.0048   21.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unigene15908_N1 transcribed RNA sequence
+GCZW01045021.1_4     -          LOTUS_CONSENSUS      -              0.089   17.6   0.3      0.11   17.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene20208_N1 transcribed RNA sequence
+GCZW01069326.1_1     -          LOTUS_CONSENSUS      -                0.1   17.4   0.5      0.29   16.0   0.0   1.9   2   0   0   2   2   2   0 TSA: Bemisia tabaci CL3129.Contig1_N1 transcribed RNA sequence
+GCZW01019447.1_3     -          LOTUS_CONSENSUS      -               0.19   16.5   2.2      0.27   16.0   0.0   2.3   3   0   0   3   3   3   0 TSA: Bemisia tabaci CL3129.Contig2_N1 transcribed RNA sequence
+GCZW01044917.1_2     -          LOTUS_CONSENSUS      -               0.27   16.0   0.1      0.31   15.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL198.Contig5_N1 transcribed RNA sequence
+GCZW01056179.1_1     -          LOTUS_CONSENSUS      -               0.63   14.9   0.0       1.9   13.3   0.0   1.8   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene31873_N1 transcribed RNA sequence
+GCZW01069867.1_1     -          LOTUS_CONSENSUS      -                1.4   13.7   0.3       1.4   13.7   0.3   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene29572_N1 transcribed RNA sequence
+GCZW01015252.1_2     -          LOTUS_CONSENSUS      -                1.7   13.5   1.4       2.3   13.1   1.4   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL2904.Contig2_N1 transcribed RNA sequence
+GCZW01044986.1_6     -          LOTUS_CONSENSUS      -                1.9   13.4   0.0       3.6   12.4   0.0   1.5   1   1   0   1   1   1   0 TSA: Bemisia tabaci Unigene6029_N1 transcribed RNA sequence
+GCZW01033656.1_2     -          LOTUS_CONSENSUS      -                2.1   13.2   0.0       3.1   12.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene40204_N1 transcribed RNA sequence
+GCZW01037534.1_3     -          LOTUS_CONSENSUS      -                2.8   12.8   0.9        27    9.7   0.3   2.2   2   0   0   2   2   2   0 TSA: Bemisia tabaci Unigene50080_N1 transcribed RNA sequence
+GCZW01023089.1_2     -          LOTUS_CONSENSUS      -                3.1   12.7   0.1       5.5   11.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene32517_N1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:46 2019
+# [ok]

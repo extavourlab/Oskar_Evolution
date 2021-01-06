@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQW01033891.1_6     -          OSK_CONSENSUS        -              0.049   17.8   0.1     0.074   17.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Palicarinus puzyllii c37649_g1_i1 transcribed RNA sequence
+GEQW01027026.1_3     -          OSK_CONSENSUS        -                1.4   13.1   0.1       2.1   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Palicarinus puzyllii c32477_g1_i1 transcribed RNA sequence
+GEQW01073746.1_1     -          OSK_CONSENSUS        -                3.3   11.9   0.1       3.6   11.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Palicarinus puzyllii c70517_g1_i1 transcribed RNA sequence
+GEQW01057891.1_4     -          OSK_CONSENSUS        -                3.6   11.8   0.1       5.3   11.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Palicarinus puzyllii c52072_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQW.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:30 2019
+# [ok]

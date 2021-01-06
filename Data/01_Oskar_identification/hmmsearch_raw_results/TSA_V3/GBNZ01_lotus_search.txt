@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNZ01015540.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-27   97.3   0.0   1.2e-26   95.6   0.0   1.9   2   0   0   2   2   2   1 TSA: Heterodontonyx sp. AD-2014 s3117_L_4281_1_a_69_4_l_2799 transcribed RNA sequence
+GBNZ01015539.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-27   96.5   0.0   1.9e-26   95.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Heterodontonyx sp. AD-2014 s3116_L_4281_0_a_67_4_l_4016 transcribed RNA sequence
+GBNZ01017828.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-22   82.4   0.0   3.9e-22   81.1   0.0   1.7   1   0   0   1   1   1   1 TSA: Heterodontonyx sp. AD-2014 s5181_L_11259_0_a_24_7_l_5018 transcribed RNA sequence
+GBNZ01019520.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-13   52.3   0.2     4e-09   39.3   0.0   3.5   3   0   0   3   3   3   2 TSA: Heterodontonyx sp. AD-2014 s6706_L_18853_1_a_9_1_l_5375 transcribed RNA sequence
+GBNZ01019519.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-13   51.7   0.0   3.6e-09   39.5   0.0   2.9   2   0   0   2   2   2   2 TSA: Heterodontonyx sp. AD-2014 s6705_L_18853_0_a_15_7_l_4912 transcribed RNA sequence
+GBNZ01016637.1_6     -          oskar_filtered.aligned.LOTUS_domain -            9.4e-06   28.5   0.0        28    7.7   0.0   6.1   3   2   3   6   6   6   2 TSA: Heterodontonyx sp. AD-2014 s4109_L_7597_0_a_51_2_l_7089 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:46 2019
+# [ok]

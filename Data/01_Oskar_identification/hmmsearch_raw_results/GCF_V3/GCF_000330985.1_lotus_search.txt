@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011562501.1       -          oskar_filtered.aligned.LOTUS_domain -            8.1e-15   55.2   0.0   4.1e-10   40.1   0.0   2.6   2   0   0   2   2   2   2 PREDICTED: uncharacterized protein LOC105392555 [Plutella xylostella]
+XP_011558890.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-14   53.5   0.0   9.1e-14   51.8   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7-like [Plutella xylostella]
+XP_011550146.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00076   20.0   0.6    0.0062   17.1   1.2   2.3   2   0   0   2   2   2   1 PREDICTED: probable chitinase 3 [Plutella xylostella]
+XP_011556936.1       -          oskar_filtered.aligned.LOTUS_domain -              0.034   14.7   0.0     0.078   13.5   0.0   1.6   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC105387847 [Plutella xylostella]
+XP_011557736.1       -          oskar_filtered.aligned.LOTUS_domain -              0.035   14.7   0.0     0.081   13.5   0.0   1.6   1   0   0   1   1   1   0 PREDICTED: lipase 1-like [Plutella xylostella]
+XP_011564570.1       -          oskar_filtered.aligned.LOTUS_domain -              0.097   13.2   0.0      0.23   12.0   0.0   1.6   1   0   0   1   1   1   0 PREDICTED: lipase 1-like [Plutella xylostella]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000330985.1_DBM_FJ_V1.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000330985.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000330985.1_DBM_FJ_V1.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:00 2019
+# [ok]

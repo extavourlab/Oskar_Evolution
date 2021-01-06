@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGKC01032448.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-16   62.9   0.1   3.2e-09   41.8   0.2   2.7   2   0   0   2   2   2   2 TSA: Heliconius cydno c34442_g1_i2 transcribed RNA sequence
+GGKC01032447.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-15   61.5   0.1   4.9e-09   41.2   0.2   2.6   2   0   0   2   2   2   2 TSA: Heliconius cydno c34442_g1_i1 transcribed RNA sequence
+GGKC01035255.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-13   55.5   0.1   1.7e-13   55.5   0.1   2.2   2   1   0   2   2   2   1 TSA: Heliconius cydno c35991_g1_i2 transcribed RNA sequence
+GGKC01035254.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-13   55.4   0.1   1.9e-13   55.4   0.1   2.2   2   1   1   3   3   3   1 TSA: Heliconius cydno c35991_g1_i1 transcribed RNA sequence
+GGKC01033604.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.27   16.4   0.1       1.2   14.3   0.1   1.9   1   1   0   1   1   1   0 TSA: Heliconius cydno c35097_g1_i3 transcribed RNA sequence
+GGKC01057243.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.4   1.2       4.3   12.5   0.7   1.7   1   1   0   1   1   1   0 TSA: Heliconius cydno c44292_g1_i1 transcribed RNA sequence
+GGKC01055225.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.2   0.4       8.9   11.5   0.2   1.9   2   0   0   2   2   2   0 TSA: Heliconius cydno c43449_g2_i1 transcribed RNA sequence
+GGKC01057474.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.2   0.4       4.8   12.4   0.4   1.4   1   0   0   1   1   1   0 TSA: Heliconius cydno c44527_g1_i1 transcribed RNA sequence
+GGKC01093205.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.1   0.0       3.3   12.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Heliconius cydno c81449_g1_i1 transcribed RNA sequence
+GGKC01061060.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.3   12.8   0.2         4   12.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Heliconius cydno c48212_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGKC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:01 2019
+# [ok]

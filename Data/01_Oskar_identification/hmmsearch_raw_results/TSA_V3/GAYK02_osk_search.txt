@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYK02014730.1_1     -          oskar_filtered.aligned.OSK_domain -              1e-29  107.2   0.0   1.1e-29  107.0   0.0   1.0   1   0   0   1   1   1   1 TSA: Boreus hyemalis C148236_a_9_0_l_428 transcribed RNA sequence
+GAYK02016970.1_1     -          oskar_filtered.aligned.OSK_domain -            0.00029   24.2   0.0   0.00062   23.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Boreus hyemalis C156307_a_9_0_l_528 transcribed RNA sequence
+GAYK02009516.1_4     -          oskar_filtered.aligned.OSK_domain -               0.25   14.6   0.0      0.34   14.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Boreus hyemalis C130304_a_7_0_l_299 transcribed RNA sequence
+GAYK02017527.1_5     -          oskar_filtered.aligned.OSK_domain -               0.28   14.4   0.0      0.28   14.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Boreus hyemalis C158391_a_3_0_l_562 transcribed RNA sequence
+GAYK02007419.1_3     -          oskar_filtered.aligned.OSK_domain -               0.89   12.8   0.5      0.96   12.7   0.5   1.1   1   0   0   1   1   1   0 TSA: Boreus hyemalis C123319_a_16_0_l_267 transcribed RNA sequence
+GAYK02019828.1_4     -          oskar_filtered.aligned.OSK_domain -                2.4   11.4   3.8       2.8   11.1   3.8   1.3   1   0   0   1   1   1   0 TSA: Boreus hyemalis C167101_a_29_0_l_765 transcribed RNA sequence
+GAYK02015539.1_2     -          oskar_filtered.aligned.OSK_domain -                2.6   11.3   1.4         5   10.4   1.4   1.5   1   1   0   1   1   1   0 TSA: Boreus hyemalis C151128_a_3_0_l_460 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYK02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYK02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYK02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:07 2019
+# [ok]

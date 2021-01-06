@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFZ01001675.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.3e-20   75.6   3.1     7e-20   74.9   0.0   3.0   3   0   0   3   3   3   1 TSA: Bombus pascuorum isolate bpas2 contig1679, transcribed RNA sequence
+GHFZ01019044.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-06   30.7   0.2   9.1e-06   29.6   0.0   1.6   2   0   0   2   2   2   1 TSA: Bombus pascuorum isolate bpas2 contig19080, transcribed RNA sequence
+GHFZ01034357.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-05   29.2   0.0   1.5e-05   28.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Bombus pascuorum isolate bpas2 contig34447, transcribed RNA sequence
+GHFZ01012054.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.043   17.8   0.0     0.043   17.8   0.0   2.8   3   0   0   3   3   3   0 TSA: Bombus pascuorum isolate bpas2 contig12071, transcribed RNA sequence
+GHFZ01033979.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.45   14.5   0.1      0.51   14.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Bombus pascuorum isolate bpas2 contig34068, transcribed RNA sequence
+GHFZ01037710.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.8   12.6   0.2        57    7.8   0.1   2.1   1   1   1   2   2   2   0 TSA: Bombus pascuorum isolate bpas2 contig37812, transcribed RNA sequence
+GHFZ01000358.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.7   12.0   1.0   1.4e+02    6.6   0.0   3.4   4   0   0   4   4   4   0 TSA: Bombus pascuorum isolate bpas2 contig358, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:04 2019
+# [ok]

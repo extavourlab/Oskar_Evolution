@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYF02020537.1_5     -          oskar_filtered.aligned.OSK_domain -            5.1e-24   88.6   0.0   6.9e-24   88.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Nilaparvata lugens C167077_a_4_0_l_956 transcribed RNA sequence
+GAYF02020976.1_2     -          oskar_filtered.aligned.OSK_domain -               0.16   15.2   0.3      0.38   14.0   0.2   1.7   2   1   0   2   2   2   0 TSA: Nilaparvata lugens C168689_a_7_0_l_1018 transcribed RNA sequence
+GAYF02019472.1_2     -          oskar_filtered.aligned.OSK_domain -               0.42   13.9   0.9      0.54   13.6   0.9   1.2   1   0   0   1   1   1   0 TSA: Nilaparvata lugens C163287_a_8_0_l_828 transcribed RNA sequence
+GAYF02017983.1_4     -          oskar_filtered.aligned.OSK_domain -               0.95   12.8   0.2       5.5   10.3   0.0   2.0   2   0   0   2   2   2   0 TSA: Nilaparvata lugens C158065_a_5_0_l_701 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYF02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYF02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYF02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:23 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWA01030598.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-23   85.1   0.0   6.3e-23   84.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Synergus umbraculus s2895_L_2593_1_a_65_5_l_587 transcribed RNA sequence
+GBWA01038432.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.7e-22   80.9   0.6   3.6e-21   78.9   0.0   2.0   2   0   0   2   2   2   1 TSA: Synergus umbraculus s9959_L_14935_0_a_11_4_l_804 transcribed RNA sequence
+GBWA01038434.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-20   76.7   1.2   5.6e-20   75.1   0.0   2.5   3   0   0   3   3   3   1 TSA: Synergus umbraculus s9960_L_14935_1_a_34_5_l_4305 transcribed RNA sequence
+GBWA01025696.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-09   41.7   0.0     3e-09   40.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Synergus umbraculus s11111_L_19588_0_a_38_7_l_971 transcribed RNA sequence
+GBWA01013995.1_3     -          oskar_filtered.aligned.LOTUS_domain -              2e-08   38.0   1.1   2.2e-08   37.9   0.1   1.6   2   0   0   2   2   2   1 TSA: Synergus umbraculus C147583_a_4_0_l_574 transcribed RNA sequence
+GBWA01038245.1_1     -          oskar_filtered.aligned.LOTUS_domain -              7e-06   29.8   0.0   1.1e-05   29.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Synergus umbraculus s9790_L_14575_0_a_39_6_l_415 transcribed RNA sequence
+GBWA01038337.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-06   29.4   0.0        17    9.3   0.0   5.1   2   1   3   5   5   5   2 TSA: Synergus umbraculus s9873_L_14755_0_a_47_5_l_6935 transcribed RNA sequence
+GBWA01034981.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.65   13.9   0.1       3.5   11.5   0.0   2.3   2   0   0   2   2   2   0 TSA: Synergus umbraculus s6849_L_8235_1_a_6_7_l_1111 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:03 2019
+# [ok]

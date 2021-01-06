@@ -1,0 +1,36 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_025420326.1       -          oskar_filtered.aligned.LOTUS_domain -              5e-21   75.1  25.0   9.8e-14   51.7   0.0   7.1   5   1   2   7   7   7   4 uncharacterized protein LOC112690515 isoform X2 [Sipha flava]
+XP_025420323.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-20   73.6  24.8   1.3e-13   51.4   0.0   7.1   5   1   2   7   7   7   3 uncharacterized protein LOC112690515 isoform X1 [Sipha flava]
+XP_025420324.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-20   73.6  24.8   1.3e-13   51.4   0.0   7.1   5   1   2   7   7   7   3 uncharacterized protein LOC112690515 isoform X1 [Sipha flava]
+XP_025420325.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-20   73.6  24.8   1.3e-13   51.4   0.0   7.1   5   1   2   7   7   7   3 uncharacterized protein LOC112690515 isoform X1 [Sipha flava]
+XP_025418192.1       -          oskar_filtered.aligned.LOTUS_domain -            6.1e-19   68.4   0.7   6.1e-19   68.4   0.7   3.0   3   1   0   3   3   3   1 uncharacterized protein LOC112688959 [Sipha flava]
+XP_025412793.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-17   63.6   0.1   1.9e-17   63.6   0.1   4.2   4   0   0   4   4   4   1 tudor domain-containing protein 7-like isoform X3 [Sipha flava]
+XP_025412792.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-17   63.6   0.1   1.9e-17   63.6   0.1   3.9   4   0   0   4   4   4   1 tudor domain-containing protein 7-like isoform X2 [Sipha flava]
+XP_025412789.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-17   63.5   0.1     2e-17   63.5   0.1   4.1   4   0   0   4   4   4   1 uncharacterized protein LOC112685192 isoform X1 [Sipha flava]
+XP_025412790.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-17   63.5   0.1     2e-17   63.5   0.1   4.1   4   0   0   4   4   4   1 uncharacterized protein LOC112685192 isoform X1 [Sipha flava]
+XP_025412791.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-17   63.5   0.1     2e-17   63.5   0.1   4.1   4   0   0   4   4   4   1 uncharacterized protein LOC112685192 isoform X1 [Sipha flava]
+XP_025422132.1       -          oskar_filtered.aligned.LOTUS_domain -            7.6e-17   61.7   0.8   7.6e-17   61.7   0.8   5.0   5   4   1   6   6   4   1 putative uncharacterized protein DDB_G0282133 isoform X1 [Sipha flava]
+XP_025422140.1       -          oskar_filtered.aligned.LOTUS_domain -            7.6e-17   61.7   0.8   7.6e-17   61.7   0.8   5.0   5   4   1   6   6   4   1 putative uncharacterized protein DDB_G0282133 isoform X1 [Sipha flava]
+XP_025422149.1       -          oskar_filtered.aligned.LOTUS_domain -            7.6e-17   61.7   0.8   7.6e-17   61.7   0.8   5.0   5   4   1   6   6   4   1 putative uncharacterized protein DDB_G0282133 isoform X1 [Sipha flava]
+XP_025408797.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-09   36.9   0.0       2.5    8.6   0.0   6.6   2   2   3   6   6   6   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Sipha flava]
+XP_025408795.1       -          oskar_filtered.aligned.LOTUS_domain -            9.6e-09   35.7   0.0         3    8.4   0.0   6.6   2   2   4   6   6   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Sipha flava]
+XP_025408796.1       -          oskar_filtered.aligned.LOTUS_domain -            8.1e-07   29.5   0.0       2.8    8.5   0.0   5.7   2   2   3   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Sipha flava]
+XP_025414906.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0045   17.5   0.2      0.44   11.1   0.0   2.9   2   0   0   2   2   2   1 uncharacterized protein LOC112686707 [Sipha flava]
+XP_025405326.1       -          oskar_filtered.aligned.LOTUS_domain -               0.17   12.4   2.1      0.66   10.5   0.1   2.3   2   0   0   2   2   2   0 uncharacterized protein LOC112679648 [Sipha flava]
+XP_025415774.1       -          oskar_filtered.aligned.LOTUS_domain -                2.4    8.7  13.6      0.21   12.1   0.5   3.4   2   1   0   3   3   3   0 uncharacterized protein LOC112687347 [Sipha flava]
+XP_025409273.1       -          oskar_filtered.aligned.LOTUS_domain -                4.7    7.8   8.6        15    6.1   0.6   3.9   3   1   0   3   3   3   0 tRNA (guanine(37)-N1)-methyltransferase-like isoform X1 [Sipha flava]
+XP_025409274.1       -          oskar_filtered.aligned.LOTUS_domain -                4.7    7.8   8.6        15    6.1   0.6   3.9   3   1   0   3   3   3   0 tRNA (guanine(37)-N1)-methyltransferase-like isoform X1 [Sipha flava]
+XP_025409275.1       -          oskar_filtered.aligned.LOTUS_domain -                4.7    7.8   8.6        15    6.1   0.6   3.9   3   1   0   3   3   3   0 tRNA (guanine(37)-N1)-methyltransferase-like isoform X1 [Sipha flava]
+XP_025409276.1       -          oskar_filtered.aligned.LOTUS_domain -                4.7    7.8   8.6        15    6.1   0.6   3.9   3   1   0   3   3   3   0 tRNA (guanine(37)-N1)-methyltransferase-like isoform X1 [Sipha flava]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003268045.1_YSA_version1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003268045.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003268045.1_YSA_version1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:11 2019
+# [ok]

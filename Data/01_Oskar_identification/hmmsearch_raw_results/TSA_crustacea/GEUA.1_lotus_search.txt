@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEUA01033089.1_2     -          LOTUS_CONSENSUS      -            3.7e-12   51.6   0.0   1.1e-11   50.1   0.0   1.9   1   0   0   1   1   1   1 TSA: Farfantepenaeus aztecus comp80352_c0_seq1 transcribed RNA sequence
+GEUA01056579.1_2     -          LOTUS_CONSENSUS      -               0.84   15.2   0.0   3.6e+02    6.8   0.0   3.5   3   1   1   4   4   4   0 TSA: Farfantepenaeus aztecus comp94746_c2_seq1 transcribed RNA sequence
+GEUA01047315.1_4     -          LOTUS_CONSENSUS      -               0.99   15.0   0.3      0.99   15.0   0.3   1.1   1   0   0   1   1   1   0 TSA: Farfantepenaeus aztecus comp90076_c3_seq1 transcribed RNA sequence
+GEUA01077059.1_6     -          LOTUS_CONSENSUS      -                7.6   12.2   7.8       5.6   12.6   1.5   2.6   3   0   0   3   3   3   0 TSA: Farfantepenaeus aztecus comp330057_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEUA.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEUA.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEUA.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:03 2019
+# [ok]

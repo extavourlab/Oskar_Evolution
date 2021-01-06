@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFPS01010958.1_3     -          oskar_filtered.aligned.OSK_domain -            1.6e-28  103.0   1.1   1.6e-28  103.0   1.1   2.0   2   0   0   2   2   2   1 TSA: Timema californicum Tcm_TRINITY_DN90365_c0_g1_i2 transcribed RNA sequence
+GFPS01017969.1_3     -          oskar_filtered.aligned.OSK_domain -            4.7e-22   81.9   0.0   8.3e-22   81.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Timema californicum Tcm_TRINITY_DN104573_c1_g1_i3 transcribed RNA sequence
+GFPS01006729.1_2     -          oskar_filtered.aligned.OSK_domain -            3.9e-08   36.5   0.1   4.5e-08   36.3   0.1   1.0   1   0   0   1   1   1   1 TSA: Timema californicum Tcm_TRINITY_DN107571_c3_g1_i2 transcribed RNA sequence
+GFPS01002676.1_5     -          oskar_filtered.aligned.OSK_domain -              0.033   17.2   0.5     0.091   15.8   0.4   1.7   1   1   0   1   1   1   0 TSA: Timema californicum Tcm_TRINITY_DN107646_c1_g1_i5 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFPS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFPS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:42 2019
+# [ok]

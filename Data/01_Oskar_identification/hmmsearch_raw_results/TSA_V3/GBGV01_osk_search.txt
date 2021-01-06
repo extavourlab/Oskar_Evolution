@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBGV01010610.1_5     -          oskar_filtered.aligned.OSK_domain -            1.4e-64  221.8   1.2   1.4e-64  221.8   1.2   1.8   2   0   0   2   2   2   1 TSA: Polistes metricus PmetTSAr1.1-010610 transcribed RNA sequence
+GBGV01008081.1_1     -          oskar_filtered.aligned.OSK_domain -              0.049   17.9   0.1     0.057   17.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Polistes metricus PmetTSAr1.1-008081 transcribed RNA sequence
+GBGV01010943.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   13.3   0.6       1.5   13.0   0.6   1.2   1   0   0   1   1   1   0 TSA: Polistes metricus PmetTSAr1.1-010943 transcribed RNA sequence
+GBGV01010942.1_4     -          oskar_filtered.aligned.OSK_domain -                1.5   13.0   0.6       1.9   12.6   0.6   1.2   1   0   0   1   1   1   0 TSA: Polistes metricus PmetTSAr1.1-010942 transcribed RNA sequence
+GBGV01010945.1_4     -          oskar_filtered.aligned.OSK_domain -                2.7   12.2   0.2         4   11.6   0.2   1.3   1   0   0   1   1   1   0 TSA: Polistes metricus PmetTSAr1.1-010945 transcribed RNA sequence
+GBGV01025564.1_4     -          oskar_filtered.aligned.OSK_domain -                  5   11.3   6.9       7.4   10.7   6.4   1.5   1   1   1   2   2   2   0 TSA: Polistes metricus PmetTSAr1.1-025564 transcribed RNA sequence
+GBGV01049380.1_1     -          oskar_filtered.aligned.OSK_domain -                 10   10.3   2.3        15    9.8   2.3   1.3   1   0   0   1   1   1   0 TSA: Polistes metricus PmetTSAr1.1-049380 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBGV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBGV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBGV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:13 2019
+# [ok]

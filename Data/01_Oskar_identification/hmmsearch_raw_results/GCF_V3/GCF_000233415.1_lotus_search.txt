@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_016961451.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-26   92.4   0.9   1.8e-25   89.5   0.3   2.7   3   0   0   3   3   3   1 PREDICTED: maternal effect protein oskar [Drosophila biarmipes]
+XP_016967701.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-13   51.0   0.0     7e-13   49.0   0.0   2.1   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Drosophila biarmipes]
+XP_016957535.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-11   44.9   0.0   5.8e-11   42.9   0.0   2.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108029639 isoform X4 [Drosophila biarmipes]
+XP_016957536.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-11   44.9   0.0   5.8e-11   42.9   0.0   2.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108029639 isoform X4 [Drosophila biarmipes]
+XP_016957534.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-11   44.9   0.0   5.8e-11   42.9   0.0   2.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108029639 isoform X3 [Drosophila biarmipes]
+XP_016957531.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-11   44.3   0.0   7.6e-11   42.5   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108029639 isoform X1 [Drosophila biarmipes]
+XP_016963414.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-05   24.8   0.0   2.9e-05   24.6   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108033579 [Drosophila biarmipes]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000233415.1_Dbia_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000233415.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000233415.1_Dbia_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:58 2019
+# [ok]

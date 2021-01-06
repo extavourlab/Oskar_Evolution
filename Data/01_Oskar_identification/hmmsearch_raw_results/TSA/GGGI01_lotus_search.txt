@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGGI01002437.1_2     -          LOTUS_CONSENSUS      -            5.8e-24   86.6   0.6   5.8e-24   86.6   0.6   3.2   3   0   0   3   3   3   1 TSA: Leptopilina boulardi XLOC_002480 transcribed RNA sequence
+GGGI01009700.1_3     -          LOTUS_CONSENSUS      -            2.4e-19   71.8   2.1   1.2e-17   66.4   0.0   3.3   3   0   0   3   3   3   1 TSA: Leptopilina boulardi XLOC_009883 transcribed RNA sequence
+GGGI01011910.1_2     -          LOTUS_CONSENSUS      -            1.9e-17   65.7   0.4   1.9e-17   65.7   0.4   2.7   2   1   0   2   2   2   1 TSA: Leptopilina boulardi XLOC_012103 transcribed RNA sequence
+GGGI01007905.1_1     -          LOTUS_CONSENSUS      -              1e-16   63.4  16.2   5.4e-16   61.1   0.1   4.4   4   1   1   5   5   5   2 TSA: Leptopilina boulardi XLOC_008087 transcribed RNA sequence
+GGGI01012920.1_1     -          LOTUS_CONSENSUS      -            1.4e-06   30.9   0.0       1.1   12.1   0.0   5.5   3   1   1   4   4   4   2 TSA: Leptopilina boulardi XLOC_013116 transcribed RNA sequence
+GGGI01012910.1_6     -          LOTUS_CONSENSUS      -            0.00031   23.4   2.1         7    9.4   0.0   5.1   4   1   1   5   5   5   2 TSA: Leptopilina boulardi XLOC_013106 transcribed RNA sequence
+GGGI01003031.1_2     -          LOTUS_CONSENSUS      -                0.4   13.4   0.0      0.42   13.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Leptopilina boulardi XLOC_003083 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGGI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGGI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGGI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:52 2019
+# [ok]

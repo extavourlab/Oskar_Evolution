@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018912247.1       -          LOTUS_CONSENSUS      -            9.8e-19   67.8   0.2   1.7e-10   41.4   0.0   4.0   4   0   0   4   4   3   3 PREDICTED: uncharacterized protein LOC109040698 [Bemisia tabaci]
+XP_018917765.1       -          LOTUS_CONSENSUS      -              5e-12   46.3   0.0   1.7e-11   44.6   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 isoform X3 [Bemisia tabaci]
+XP_018917764.1       -          LOTUS_CONSENSUS      -            5.1e-12   46.3   0.0   1.7e-11   44.6   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X2 [Bemisia tabaci]
+XP_018917760.1       -          LOTUS_CONSENSUS      -            5.3e-12   46.3   0.0   1.8e-11   44.6   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X1 [Bemisia tabaci]
+XP_018917761.1       -          LOTUS_CONSENSUS      -            5.3e-12   46.3   0.0   1.8e-11   44.6   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X1 [Bemisia tabaci]
+XP_018917763.1       -          LOTUS_CONSENSUS      -            5.3e-12   46.3   0.0   1.8e-11   44.6   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X1 [Bemisia tabaci]
+XP_018917766.1       -          LOTUS_CONSENSUS      -            5.4e-12   46.2   0.0   1.7e-11   44.7   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044481 isoform X4 [Bemisia tabaci]
+XP_018917767.1       -          LOTUS_CONSENSUS      -            5.7e-12   46.1   0.0   1.5e-11   44.8   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 isoform X5 [Bemisia tabaci]
+XP_018917203.1       -          LOTUS_CONSENSUS      -            0.00032   21.3   0.0   0.00073   20.2   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044116 isoform X2 [Bemisia tabaci]
+XP_018917201.1       -          LOTUS_CONSENSUS      -            0.00032   21.3   0.0   0.00073   20.2   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044116 isoform X1 [Bemisia tabaci]
+XP_018917202.1       -          LOTUS_CONSENSUS      -            0.00032   21.3   0.0   0.00073   20.2   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109044116 isoform X1 [Bemisia tabaci]
+XP_018915361.1       -          LOTUS_CONSENSUS      -             0.0013   19.4   0.6    0.0045   17.6   0.0   1.9   2   0   0   2   2   2   1 PREDICTED: oligoribonuclease, mitochondrial isoform X4 [Bemisia tabaci]
+XP_018915353.1       -          LOTUS_CONSENSUS      -             0.0016   19.1   0.7     0.005   17.5   0.0   1.9   2   0   0   2   2   2   1 PREDICTED: oligoribonuclease, mitochondrial isoform X3 [Bemisia tabaci]
+XP_018915329.1       -          LOTUS_CONSENSUS      -             0.0022   18.6   0.7    0.0067   17.1   0.0   2.0   2   0   0   2   2   2   1 PREDICTED: probable oligoribonuclease isoform X1 [Bemisia tabaci]
+XP_018915339.1       -          LOTUS_CONSENSUS      -             0.0022   18.6   0.7    0.0067   17.1   0.0   2.0   2   0   0   2   2   2   1 PREDICTED: probable oligoribonuclease isoform X1 [Bemisia tabaci]
+XP_018915348.1       -          LOTUS_CONSENSUS      -             0.0094   16.6   0.6     0.031   15.0   0.0   2.0   2   0   0   2   2   2   1 PREDICTED: probable oligoribonuclease isoform X2 [Bemisia tabaci]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001854935.1_ASM185493v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001854935.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001854935.1_ASM185493v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:46 2019
+# [ok]

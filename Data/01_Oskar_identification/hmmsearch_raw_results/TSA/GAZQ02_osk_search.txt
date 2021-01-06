@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZQ02040668.1_4     -          OSK_CONSENSUS        -            1.2e-16   64.5   0.0   2.1e-16   63.8   0.0   1.4   2   0   0   2   2   2   1 TSA: Aretaon asperrimus s4943_L_10540_1_a_5_7_l_746 transcribed RNA sequence
+GAZQ02042947.1_3     -          OSK_CONSENSUS        -               0.18   15.2   0.4      0.42   14.1   0.4   1.7   1   0   0   1   1   1   0 TSA: Aretaon asperrimus s6999_L_26864_0_a_8_8_l_1315 transcribed RNA sequence
+GAZQ02015066.1_3     -          OSK_CONSENSUS        -               0.98   12.9   0.3         2   11.9   0.3   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus C145028_a_8_0_l_2205 transcribed RNA sequence
+GAZQ02020127.1_4     -          OSK_CONSENSUS        -                1.4   12.4   0.0       1.6   12.2   0.0   1.0   1   0   0   1   1   1   0 TSA: Aretaon asperrimus C57618_a_4_0_l_240 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZQ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZQ02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZQ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:28 2019
+# [ok]

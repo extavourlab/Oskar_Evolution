@@ -1,0 +1,26 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENX01307170.1_1     -          oskar_filtered.aligned.OSK_domain -               0.12   18.7   2.0      0.15   18.4   2.0   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR351472-c0_g1_i1 transcribed RNA sequence
+GENX01073457.1_6     -          oskar_filtered.aligned.OSK_domain -                2.2   14.7   0.0       2.3   14.5   0.0   1.0   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR104631-c0_g1_i2 transcribed RNA sequence
+GENX01149809.1_5     -          oskar_filtered.aligned.OSK_domain -                  3   14.2   0.2       4.1   13.7   0.2   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR239834-c0_g1_i1 transcribed RNA sequence
+GENX01103875.1_3     -          oskar_filtered.aligned.OSK_domain -                3.8   13.8   0.0       4.9   13.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR153336-c0_g1_i1 transcribed RNA sequence
+GENX01181948.1_4     -          oskar_filtered.aligned.OSK_domain -                6.8   13.0   0.3       7.6   12.9   0.3   1.0   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR269942-c22_g5_i1 transcribed RNA sequence
+GENX01016856.1_6     -          oskar_filtered.aligned.OSK_domain -                  7   13.0   1.8        71    9.7   0.3   2.0   1   1   1   2   2   2   0 TSA: Agathiphaga queenslandensis TR21069-c0_g1_i1 transcribed RNA sequence
+GENX01114279.1_1     -          oskar_filtered.aligned.OSK_domain -                7.9   12.8   0.1       9.7   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR169222-c0_g1_i1 transcribed RNA sequence
+GENX01246085.1_3     -          oskar_filtered.aligned.OSK_domain -                8.4   12.7   0.4        10   12.5   0.3   1.2   1   1   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR309534-c0_g7_i1 transcribed RNA sequence
+GENX01259766.1_1     -          oskar_filtered.aligned.OSK_domain -                8.7   12.7   0.1       8.8   12.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR318767-c2_g4_i1 transcribed RNA sequence
+GENX01246159.1_6     -          oskar_filtered.aligned.OSK_domain -                8.8   12.7   1.1       9.6   12.5   1.1   1.2   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR309552-c0_g1_i4 transcribed RNA sequence
+GENX01131490.1_2     -          oskar_filtered.aligned.OSK_domain -                8.8   12.7   0.1       9.2   12.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR201853-c0_g1_i1 transcribed RNA sequence
+GENX01137626.1_5     -          oskar_filtered.aligned.OSK_domain -                9.3   12.6   0.1        10   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR214547-c0_g1_i1 transcribed RNA sequence
+GENX01158618.1_3     -          oskar_filtered.aligned.OSK_domain -                9.3   12.6   0.2       9.5   12.5   0.2   1.1   1   0   0   1   1   1   0 TSA: Agathiphaga queenslandensis TR257119-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:23 2019
+# [ok]

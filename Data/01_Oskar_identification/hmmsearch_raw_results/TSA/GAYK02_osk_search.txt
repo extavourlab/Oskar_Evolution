@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYK02014730.1_1     -          OSK_CONSENSUS        -            4.2e-31  111.3   0.0   4.9e-31  111.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Boreus hyemalis C148236_a_9_0_l_428 transcribed RNA sequence
+GAYK02016970.1_1     -          OSK_CONSENSUS        -            6.5e-05   26.2   0.0   0.00014   25.2   0.0   1.5   1   0   0   1   1   1   1 TSA: Boreus hyemalis C156307_a_9_0_l_528 transcribed RNA sequence
+GAYK02009516.1_4     -          OSK_CONSENSUS        -               0.82   12.9   0.1       1.1   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Boreus hyemalis C130304_a_7_0_l_299 transcribed RNA sequence
+GAYK02015539.1_2     -          OSK_CONSENSUS        -               0.83   12.9   0.3       9.8    9.4   0.3   2.1   1   1   0   1   1   1   0 TSA: Boreus hyemalis C151128_a_3_0_l_460 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYK02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYK02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYK02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:37 2019
+# [ok]

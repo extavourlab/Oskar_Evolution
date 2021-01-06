@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMM01035203.1_5     -          oskar_filtered.aligned.LOTUS_domain -              6e-21   78.1   0.3   2.5e-14   56.8   0.0   3.0   2   0   0   2   2   2   2 TSA: Tamarixia radiata s9786_L_28533_0_a_17_6_l_3203 transcribed RNA sequence
+GBMM01035204.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-18   70.7   8.9   3.2e-14   56.5   0.0   4.0   4   0   0   4   4   4   2 TSA: Tamarixia radiata s9787_L_28533_1_a_22_7_l_3888 transcribed RNA sequence
+GBMM01011108.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.4e-08   36.3   0.0   5.6e-07   33.2   0.0   2.6   3   0   0   3   3   3   1 TSA: Tamarixia radiata C144019_a_52_0_l_3689 transcribed RNA sequence
+GBMM01011564.1_1     -          oskar_filtered.aligned.LOTUS_domain -              6e-06   29.9   0.2        36    8.2   0.0   6.0   4   2   3   7   7   7   2 TSA: Tamarixia radiata C145849_a_50_0_l_6417 transcribed RNA sequence
+GBMM01017742.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.56   14.0   0.2      0.56   14.0   0.2   1.3   1   1   0   1   1   1   0 TSA: Tamarixia radiata C76150_a_5_0_l_284 transcribed RNA sequence
+GBMM01021560.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.76   13.5   0.3       1.8   12.3   0.1   1.7   2   1   1   3   3   3   0 TSA: Tamarixia radiata C89053_a_5_0_l_362 transcribed RNA sequence
+GBMM01024417.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.92   13.3   0.3       1.6   12.5   0.3   1.4   1   0   0   1   1   1   0 TSA: Tamarixia radiata C99205_a_3_0_l_452 transcribed RNA sequence
+GBMM01020497.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.0   0.1       1.5   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Tamarixia radiata C85374_a_3_0_l_337 transcribed RNA sequence
+GBMM01010899.1_4     -          oskar_filtered.aligned.LOTUS_domain -                8.6   10.2   3.7        13    9.6   0.6   2.8   2   0   0   2   2   2   0 TSA: Tamarixia radiata C143119_a_29_0_l_3246 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:10:52 2019
+# [ok]

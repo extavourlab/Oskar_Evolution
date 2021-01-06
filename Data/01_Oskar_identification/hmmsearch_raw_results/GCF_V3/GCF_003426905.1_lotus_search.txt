@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026466015.1       -          oskar_filtered.aligned.LOTUS_domain -            5.9e-19   68.5   0.4   5.5e-17   62.2   0.0   3.7   3   0   0   3   3   3   1 uncharacterized protein LOC113369529 [Ctenocephalides felis]
+XP_026466016.1       -          oskar_filtered.aligned.LOTUS_domain -            5.9e-19   68.5   0.4   5.5e-17   62.2   0.0   3.7   3   0   0   3   3   3   1 uncharacterized protein LOC113369529 [Ctenocephalides felis]
+XP_026482855.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-18   66.4  13.4   9.1e-13   48.6   0.0   4.9   5   0   0   5   5   5   2 tudor domain-containing protein 5-like [Ctenocephalides felis]
+XP_026462151.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-18   66.3  14.4   6.5e-13   49.1   0.0   4.7   5   1   0   5   5   4   2 tudor domain-containing protein 5-like isoform X1 [Ctenocephalides felis]
+XP_026473553.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-18   66.0   0.5   1.3e-16   61.0   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like [Ctenocephalides felis]
+XP_026473554.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-18   66.0   0.5   1.3e-16   61.0   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like [Ctenocephalides felis]
+XP_026473555.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-18   66.0   0.5   1.3e-16   61.0   0.0   3.6   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like [Ctenocephalides felis]
+XP_026481497.1       -          oskar_filtered.aligned.LOTUS_domain -            4.2e-17   62.6   0.0   2.2e-16   60.2   0.0   2.4   1   0   0   1   1   1   1 LOW QUALITY PROTEIN: tudor domain-containing protein 7A-like [Ctenocephalides felis]
+XP_026481498.1       -          oskar_filtered.aligned.LOTUS_domain -            4.7e-17   62.4   0.0   2.2e-16   60.3   0.0   2.3   1   0   0   1   1   1   1 tudor domain-containing protein 7A-like [Ctenocephalides felis]
+XP_026481500.1       -          oskar_filtered.aligned.LOTUS_domain -            8.1e-11   42.4   0.0   4.1e-10   40.1   0.0   2.3   1   0   0   1   1   1   1 tudor domain-containing protein 7A-like [Ctenocephalides felis]
+XP_026472655.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-08   34.4   8.4      0.01   16.4   0.2   6.8   4   2   2   7   7   6   1 meiosis regulator and mRNA stability factor 1-like [Ctenocephalides felis]
+XP_026482816.1       -          oskar_filtered.aligned.LOTUS_domain -            7.2e-06   26.5   0.1   1.9e-05   25.1   0.1   1.7   1   0   0   1   1   1   1 uncharacterized protein LOC113391056 [Ctenocephalides felis]
+XP_026462152.1       -          oskar_filtered.aligned.LOTUS_domain -            5.7e-05   23.6   0.1   5.7e-05   23.6   0.1   3.9   4   1   0   4   4   4   1 bromodomain-containing protein DDB_G0270170-like isoform X2 [Ctenocephalides felis]
+XP_026464336.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00027   21.4   0.2   0.00044   20.8   0.2   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC113366902, partial [Ctenocephalides felis]
+XP_026468350.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0059   17.2   0.0     0.049   14.2   0.0   2.5   2   0   0   2   2   2   1 nuclear pore complex protein Nup154 [Ctenocephalides felis]
+XP_026463402.1       -          oskar_filtered.aligned.LOTUS_domain -                1.5    9.4   5.9        11    6.7   0.2   3.6   3   0   0   3   3   2   0 WASH complex subunit 5 [Ctenocephalides felis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003426905.1_ASM342690v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003426905.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003426905.1_ASM342690v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:33 2019
+# [ok]

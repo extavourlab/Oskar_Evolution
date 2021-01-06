@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWT02063632.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.38   15.4   0.0      0.83   14.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Empusa pennata s4838_L_9254_0_a_5_6_l_873 transcribed RNA sequence
+GAWT02018019.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.55   14.9   0.1      0.63   14.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Empusa pennata C144523_a_3_0_l_382 transcribed RNA sequence
+GAWT02034519.1_6     -          oskar_filtered.aligned.LOTUS_domain -                0.9   14.2   0.0       1.8   13.3   0.0   1.6   1   0   0   1   1   1   0 TSA: Empusa pennata C188146_a_30_0_l_707 transcribed RNA sequence
+GAWT02017767.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.9   0.8       1.5   13.6   0.8   1.2   1   0   0   1   1   1   0 TSA: Empusa pennata C143867_a_3_0_l_379 transcribed RNA sequence
+GAWT02026116.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.8   0.1       2.1   13.1   0.1   1.3   1   0   0   1   1   1   0 TSA: Empusa pennata C165338_a_6_0_l_496 transcribed RNA sequence
+GAWT02034529.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.1   13.1   0.2        54    8.5   0.2   2.4   1   1   0   1   1   1   0 TSA: Empusa pennata C188168_a_3_0_l_707 transcribed RNA sequence
+GAWT02011927.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.1   12.5   0.0         5   11.9   0.0   1.4   1   1   0   1   1   1   0 TSA: Empusa pennata C128817_a_3_0_l_321 transcribed RNA sequence
+GAWT02052455.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.8   12.2   0.0       4.8   11.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Empusa pennata C87425_a_3_0_l_238 transcribed RNA sequence
+GAWT02022296.1_5     -          oskar_filtered.aligned.LOTUS_domain -                5.8   11.7   2.5        41    8.9   1.0   2.1   2   0   0   2   2   2   0 TSA: Empusa pennata C155509_a_15_0_l_437 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWT02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWT02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWT02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:57 2019
+# [ok]

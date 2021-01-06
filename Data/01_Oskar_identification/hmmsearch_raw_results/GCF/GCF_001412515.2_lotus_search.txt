@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015110569.1       -          LOTUS_CONSENSUS      -            3.9e-20   72.1   0.0   1.7e-19   70.0   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Diachasma alloeum]
+XP_015110570.1       -          LOTUS_CONSENSUS      -            3.9e-20   72.1   0.0   1.7e-19   70.0   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Diachasma alloeum]
+XP_015110571.1       -          LOTUS_CONSENSUS      -            3.9e-20   72.1   0.0   1.7e-19   70.0   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Diachasma alloeum]
+XP_015114269.1       -          LOTUS_CONSENSUS      -            1.6e-17   63.7   0.0   1.5e-16   60.6   0.0   2.6   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X2 [Diachasma alloeum]
+XP_015114267.1       -          LOTUS_CONSENSUS      -            1.9e-17   63.4   0.0   1.7e-16   60.4   0.0   2.5   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Diachasma alloeum]
+XP_015114268.1       -          LOTUS_CONSENSUS      -            1.9e-17   63.4   0.0   1.7e-16   60.4   0.0   2.5   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Diachasma alloeum]
+XP_015111705.1       -          LOTUS_CONSENSUS      -            5.4e-17   62.0   0.1   2.7e-16   59.8   0.0   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC107037596 [Diachasma alloeum]
+XP_028982000.1       -          LOTUS_CONSENSUS      -              7e-14   52.0   0.2   3.2e-08   33.9   0.0   3.4   3   0   0   3   3   3   2 uncharacterized protein LOC107039038 isoform X1 [Diachasma alloeum]
+XP_015113962.1       -          LOTUS_CONSENSUS      -            1.3e-13   51.2   0.0   2.4e-08   34.3   0.0   2.7   2   0   0   2   2   2   2 tudor domain-containing protein 5 isoform X2 [Diachasma alloeum]
+XP_015121506.1       -          LOTUS_CONSENSUS      -              2e-06   28.1   0.0       2.7    8.5   0.0   6.3   3   1   3   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Diachasma alloeum]
+XP_015121505.1       -          LOTUS_CONSENSUS      -            6.9e-06   26.4   0.0       3.5    8.1   0.0   6.2   3   1   3   6   6   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Diachasma alloeum]
+XP_015117868.1       -          LOTUS_CONSENSUS      -               0.11   13.0   0.2      0.33   11.4   0.0   1.9   2   0   0   2   2   1   0 dnaJ homolog subfamily C member 7 [Diachasma alloeum]
+XP_015117870.1       -          LOTUS_CONSENSUS      -               0.11   13.0   0.2      0.33   11.4   0.0   1.9   2   0   0   2   2   1   0 dnaJ homolog subfamily C member 7 [Diachasma alloeum]
+XP_015117871.1       -          LOTUS_CONSENSUS      -               0.11   13.0   0.2      0.33   11.4   0.0   1.9   2   0   0   2   2   1   0 dnaJ homolog subfamily C member 7 [Diachasma alloeum]
+XP_015117872.1       -          LOTUS_CONSENSUS      -               0.11   13.0   0.2      0.33   11.4   0.0   1.9   2   0   0   2   2   1   0 dnaJ homolog subfamily C member 7 [Diachasma alloeum]
+XP_015117873.1       -          LOTUS_CONSENSUS      -               0.11   13.0   0.2      0.33   11.4   0.0   1.9   2   0   0   2   2   1   0 dnaJ homolog subfamily C member 7 [Diachasma alloeum]
+XP_015117874.1       -          LOTUS_CONSENSUS      -               0.11   13.0   0.2      0.33   11.4   0.0   1.9   2   0   0   2   2   1   0 dnaJ homolog subfamily C member 7 [Diachasma alloeum]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412515.2_Dall2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001412515.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412515.2_Dall2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:53 2019
+# [ok]

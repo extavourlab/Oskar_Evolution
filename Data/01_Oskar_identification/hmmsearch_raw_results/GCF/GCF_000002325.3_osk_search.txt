@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_001234884.1       -          OSK_CONSENSUS        -            2.3e-46  157.8   1.7   3.7e-46  157.1   1.7   1.2   1   0   0   1   1   1   1 maternal effect protein oskar [Nasonia vitripennis]
+XP_001606749.1       -          OSK_CONSENSUS        -              0.024   14.8   0.9       1.2    9.2   0.0   3.0   2   1   0   2   2   2   0 PREDICTED: pentatricopeptide repeat-containing protein 1, mitochondrial [Nasonia vitripennis]
+XP_008211863.1       -          OSK_CONSENSUS        -              0.066   13.3   0.0      0.19   11.8   0.0   1.9   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC100680302 [Nasonia vitripennis]
+XP_016840860.1       -          OSK_CONSENSUS        -              0.066   13.3   0.0      0.19   11.8   0.0   1.9   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC100680302 [Nasonia vitripennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000002325.3_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:38 2019
+# [ok]

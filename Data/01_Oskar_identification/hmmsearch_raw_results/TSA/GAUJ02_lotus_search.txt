@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUJ02018696.1_1     -          LOTUS_CONSENSUS      -            3.2e-20   75.3   0.0   5.4e-19   71.4   0.0   2.5   2   0   0   2   2   2   1 TSA: Orussus abietinus C99423_a_18_0_l_5148 transcribed RNA sequence
+GAUJ02023486.1_1     -          LOTUS_CONSENSUS      -            3.4e-16   62.4   0.4     6e-16   61.6   0.0   1.5   2   0   0   2   2   2   1 TSA: Orussus abietinus s5213_L_10066_1_a_10_1_l_547 transcribed RNA sequence
+GAUJ02021883.1_5     -          LOTUS_CONSENSUS      -            2.3e-08   37.3   0.0     0.021   18.2   0.0   3.7   2   1   1   3   3   3   2 TSA: Orussus abietinus s3764_L_5452_0_a_8_1_l_2422 transcribed RNA sequence
+GAUJ02009105.1_3     -          LOTUS_CONSENSUS      -               0.16   15.3   0.0      0.32   14.4   0.0   1.5   2   0   0   2   2   2   0 TSA: Orussus abietinus C62666_a_3_0_l_444 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUJ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUJ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUJ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:27 2019
+# [ok]

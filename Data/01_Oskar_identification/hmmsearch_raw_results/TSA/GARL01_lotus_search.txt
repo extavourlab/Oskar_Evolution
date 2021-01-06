@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARL01003658.1_3     -          LOTUS_CONSENSUS      -            1.1e-16   65.8   0.0   8.3e-09   40.5   0.0   2.4   2   0   0   2   2   2   2 TSA: Spodoptera exigua SEUC03520_TC01 transcribed RNA sequence
+GARL01003659.1_3     -          LOTUS_CONSENSUS      -            1.3e-16   65.5   0.0   1.1e-08   40.2   0.0   2.4   2   0   0   2   2   2   2 TSA: Spodoptera exigua SEUC03520_TC02 transcribed RNA sequence
+GARL01000930.1_3     -          LOTUS_CONSENSUS      -            3.2e-13   54.7   0.0   3.2e-13   54.7   0.0   2.3   3   0   0   3   3   3   1 TSA: Spodoptera exigua SEUC00911_TC01 transcribed RNA sequence
+GARL01024695.1_5     -          LOTUS_CONSENSUS      -               0.65   15.2   0.0        34    9.7   0.0   2.8   2   0   0   2   2   2   0 TSA: Spodoptera exigua SEUC21830_TC02 transcribed RNA sequence
+GARL01033637.1_3     -          LOTUS_CONSENSUS      -               0.97   14.7   0.1       2.3   13.5   0.1   1.6   1   0   0   1   1   1   0 TSA: Spodoptera exigua SEUC27309_TC01 transcribed RNA sequence
+GARL01053236.1_1     -          LOTUS_CONSENSUS      -                2.9   13.1   0.3       8.5   11.6   0.1   1.8   1   1   1   2   2   2   0 TSA: Spodoptera exigua SEUC35835_TC05 transcribed RNA sequence
+GARL01053234.1_4     -          LOTUS_CONSENSUS      -                4.8   12.4   0.2        13   11.1   0.1   1.7   1   1   0   1   1   1   0 TSA: Spodoptera exigua SEUC35835_TC03 transcribed RNA sequence
+GARL01050088.1_4     -          LOTUS_CONSENSUS      -                5.4   12.3   1.6        36    9.6   0.3   2.0   1   1   0   2   2   2   0 TSA: Spodoptera exigua SEUC34661_TC01 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:00 2019
+# [ok]

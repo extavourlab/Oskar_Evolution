@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEHV01103567.1_5     -          OSK_CONSENSUS        -            1.4e-15   62.7   0.0   2.9e-15   61.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Hyalella azteca TR44844:c0_g1_i4 transcribed RNA sequence
+GEHV01103564.1_5     -          OSK_CONSENSUS        -            1.2e-14   59.7   0.1   3.6e-14   58.1   0.0   1.8   2   0   0   2   2   2   1 TSA: Hyalella azteca TR44844:c0_g1_i1 transcribed RNA sequence
+GEHV01103565.1_5     -          OSK_CONSENSUS        -            2.3e-14   58.7   1.6   3.3e-14   58.2   0.0   2.0   3   0   0   3   3   3   1 TSA: Hyalella azteca TR44844:c0_g1_i2 transcribed RNA sequence
+GEHV01103568.1_5     -          OSK_CONSENSUS        -            7.6e-14   57.0   0.0   1.7e-13   55.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Hyalella azteca TR44844:c0_g1_i5 transcribed RNA sequence
+GEHV01103566.1_5     -          OSK_CONSENSUS        -            1.3e-13   56.3   1.4   1.6e-13   56.0   0.0   1.8   2   1   0   2   2   2   1 TSA: Hyalella azteca TR44844:c0_g1_i3 transcribed RNA sequence
+GEHV01039370.1_2     -          OSK_CONSENSUS        -            1.7e-13   55.9   0.0   3.3e-13   54.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Hyalella azteca TR17000:c0_g1_i1 transcribed RNA sequence
+GEHV01127434.1_6     -          OSK_CONSENSUS        -            5.3e-12   51.0   0.0   7.3e-12   50.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Hyalella azteca TR54238:c0_g1_i1 transcribed RNA sequence
+GEHV01056324.1_6     -          OSK_CONSENSUS        -            7.5e-11   47.3   0.0   1.4e-10   46.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Hyalella azteca TR24404:c0_g1_i1 transcribed RNA sequence
+GEHV01127437.1_6     -          OSK_CONSENSUS        -            1.2e-10   46.7   0.0   1.9e-10   45.9   0.0   1.3   1   0   0   1   1   1   1 TSA: Hyalella azteca TR54238:c0_g1_i4 transcribed RNA sequence
+GEHV01127435.1_6     -          OSK_CONSENSUS        -              1e-08   40.4   0.0   2.9e-08   38.9   0.0   1.7   1   1   0   1   1   1   1 TSA: Hyalella azteca TR54238:c0_g1_i2 transcribed RNA sequence
+GEHV01127436.1_6     -          OSK_CONSENSUS        -            2.4e-07   35.9   0.0   7.4e-07   34.3   0.0   1.8   1   1   0   1   1   1   1 TSA: Hyalella azteca TR54238:c0_g1_i3 transcribed RNA sequence
+GEHV01088301.1_1     -          OSK_CONSENSUS        -               0.16   16.9   2.0      0.24   16.4   2.0   1.2   1   0   0   1   1   1   0 TSA: Hyalella azteca TR38524:c0_g1_i1 transcribed RNA sequence
+GEHV01011249.1_3     -          OSK_CONSENSUS        -               0.31   16.0   0.1      0.54   15.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Hyalella azteca TR4235:c0_g1_i3 transcribed RNA sequence
+GEHV01121817.1_3     -          OSK_CONSENSUS        -               0.73   14.8   0.4       1.1   14.3   0.4   1.2   1   0   0   1   1   1   0 TSA: Hyalella azteca TR51975:c0_g1_i1 transcribed RNA sequence
+GEHV01055338.1_4     -          OSK_CONSENSUS        -                1.2   14.1   0.4        17   10.4   0.4   2.4   2   0   0   2   2   2   0 TSA: Hyalella azteca TR24008:c0_g4_i1 transcribed RNA sequence
+GEHV01104797.1_2     -          OSK_CONSENSUS        -                2.9   12.9   1.4       4.1   12.4   1.4   1.1   1   0   0   1   1   1   0 TSA: Hyalella azteca TR45466:c0_g2_i1 transcribed RNA sequence
+GEHV01119713.1_1     -          OSK_CONSENSUS        -                2.9   12.9   0.1       3.9   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Hyalella azteca TR51204:c0_g2_i1 transcribed RNA sequence
+GEHV01070143.1_3     -          OSK_CONSENSUS        -                3.7   12.5   2.1        25    9.8   0.1   2.1   1   1   0   2   2   2   0 TSA: Hyalella azteca TR30229:c0_g1_i1 transcribed RNA sequence
+GEHV01003095.1_6     -          OSK_CONSENSUS        -                4.7   12.2   0.0       6.4   11.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Hyalella azteca TR1143:c0_g1_i1 transcribed RNA sequence
+GEHV01007728.1_1     -          OSK_CONSENSUS        -                4.7   12.2   2.0        59    8.6   1.0   2.1   2   0   0   2   2   2   0 TSA: Hyalella azteca TR2795:c0_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEHV.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEHV.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEHV.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:31 2019
+# [ok]

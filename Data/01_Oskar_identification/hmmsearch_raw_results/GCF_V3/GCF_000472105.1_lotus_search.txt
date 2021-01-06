@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_016941563.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-26   92.8   0.7   7.2e-26   90.8   0.7   2.2   1   0   0   1   1   1   1 PREDICTED: LOW QUALITY PROTEIN: maternal effect protein oskar-like, partial [Drosophila suzukii]
+XP_016928705.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-13   51.3   0.0   5.8e-13   49.3   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108009125 isoform X2 [Drosophila suzukii]
+XP_016928704.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-13   51.2   0.0   6.2e-13   49.2   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 5 isoform X1 [Drosophila suzukii]
+XP_016929251.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-12   48.6   0.0     1e-12   48.6   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: uncharacterized protein LOC108009428 isoform X4 [Drosophila suzukii]
+XP_016929250.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-12   48.5   0.0     1e-12   48.5   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: uncharacterized protein LOC108009428 isoform X3 [Drosophila suzukii]
+XP_016929248.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-12   48.2   0.0   1.3e-12   48.2   0.0   2.7   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7B isoform X1 [Drosophila suzukii]
+XP_016933236.1       -          oskar_filtered.aligned.LOTUS_domain -            3.6e-05   24.3   0.0   4.1e-05   24.2   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108012387 [Drosophila suzukii]
+XP_016936172.1       -          oskar_filtered.aligned.LOTUS_domain -                0.2   12.3   0.0       3.7    8.2   0.0   2.5   2   0   0   2   2   2   0 PREDICTED: cytoskeleton-associated protein 5-like [Drosophila suzukii]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000472105.1_Dsuzukii.v01_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000472105.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000472105.1_Dsuzukii.v01_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:06 2019
+# [ok]

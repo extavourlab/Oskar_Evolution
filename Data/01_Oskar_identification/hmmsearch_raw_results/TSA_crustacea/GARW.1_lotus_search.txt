@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARW01006688.1_3     -          LOTUS_CONSENSUS      -            1.5e-17   67.7   0.0   9.7e-08   36.2   0.0   4.6   4   0   0   4   4   4   3 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_5965_1 transcribed RNA sequence
+GARW01000258.1_2     -          LOTUS_CONSENSUS      -            3.1e-15   60.3   3.7     3e-13   53.9   0.0   3.3   3   1   1   4   4   4   2 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_238_1 transcribed RNA sequence
+GARW01002584.1_6     -          LOTUS_CONSENSUS      -            5.3e-12   49.9   0.1   1.7e-11   48.2   0.0   1.9   2   0   0   2   2   2   1 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_2369_1 transcribed RNA sequence
+GARW01016342.1_2     -          LOTUS_CONSENSUS      -              1e-11   49.0   1.8   1.3e-10   45.4   0.2   3.2   3   0   0   3   3   3   1 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_14225_1 transcribed RNA sequence
+GARW01001240.1_2     -          LOTUS_CONSENSUS      -              0.032   18.5   5.6       6.2   11.2   0.1   5.2   4   1   1   5   5   5   0 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_1140_1 transcribed RNA sequence
+GARW01028769.1_6     -          LOTUS_CONSENSUS      -               0.25   15.7   0.1       0.5   14.7   0.0   1.5   2   0   0   2   2   2   0 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_24937_1 transcribed RNA sequence
+GARW01039023.1_4     -          LOTUS_CONSENSUS      -                1.6   13.1   0.1       2.2   12.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Eucyclops serrulatus Eucyclops_serrulatus_contig_35146_2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GARW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GARW.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GARW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:21 2019
+# [ok]

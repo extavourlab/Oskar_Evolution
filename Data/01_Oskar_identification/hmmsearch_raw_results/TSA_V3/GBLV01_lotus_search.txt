@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLV01035464.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0038   21.3   0.5      0.22   15.6   0.0   2.7   2   1   0   2   2   2   1 TSA: Chyphotes sp. AD-2014 s21732_L_30867_0_a_3_0_l_1071 transcribed RNA sequence
+GBLV01015801.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.022   18.8   3.9        16    9.7   0.4   3.2   1   1   2   3   3   3   0 TSA: Chyphotes sp. AD-2014 C188868_a_6_0_l_568 transcribed RNA sequence
+GBLV01030369.1_6     -          oskar_filtered.aligned.LOTUS_domain -                0.1   16.7   1.0      0.21   15.7   1.0   1.5   1   0   0   1   1   1   0 TSA: Chyphotes sp. AD-2014 s17140_L_14583_0_a_13_6_l_1424 transcribed RNA sequence
+GBLV01043165.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.27   15.3   2.2        21    9.2   0.0   3.5   4   0   0   4   4   4   0 TSA: Chyphotes sp. AD-2014 s8151_L_4939_0_a_50_7_l_1842 transcribed RNA sequence
+GBLV01028925.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.44   14.6   0.0   1.2e+02    6.9   0.0   2.4   2   0   0   2   2   2   0 TSA: Chyphotes sp. AD-2014 s15838_L_12548_2_a_4_4_l_603 transcribed RNA sequence
+GBLV01043169.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.75   13.9   1.3        65    7.7   0.0   3.4   3   0   0   3   3   3   0 TSA: Chyphotes sp. AD-2014 s8155_L_4939_4_a_37_5_l_2603 transcribed RNA sequence
+GBLV01035714.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.3   12.4   0.7   1.8e+02    6.2   0.1   2.8   2   0   0   2   2   2   0 TSA: Chyphotes sp. AD-2014 s21958_L_31988_0_a_9_9_l_1981 transcribed RNA sequence
+GBLV01043166.1_2     -          oskar_filtered.aligned.LOTUS_domain -                  3   12.0   2.3   1.1e+02    7.0   0.0   3.5   4   0   0   4   4   4   0 TSA: Chyphotes sp. AD-2014 s8152_L_4939_1_a_79_2_l_1699 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:34 2019
+# [ok]

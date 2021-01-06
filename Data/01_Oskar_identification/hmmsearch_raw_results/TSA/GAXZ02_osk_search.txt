@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXZ02014163.1_2     -          OSK_CONSENSUS        -               0.31   14.5   0.1      0.38   14.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Trichocera saltator C216470_a_4_0_l_288 transcribed RNA sequence
+GAXZ02016790.1_1     -          OSK_CONSENSUS        -               0.31   14.5   0.4      0.34   14.4   0.4   1.1   1   0   0   1   1   1   0 TSA: Trichocera saltator C225833_a_4_0_l_325 transcribed RNA sequence
+GAXZ02025874.1_2     -          OSK_CONSENSUS        -               0.37   14.3   0.1      0.57   13.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Trichocera saltator C262660_a_26_0_l_743 transcribed RNA sequence
+GAXZ02020640.1_2     -          OSK_CONSENSUS        -               0.39   14.2   0.0      0.52   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Trichocera saltator C240050_a_46_0_l_406 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXZ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXZ02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXZ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:37 2019
+# [ok]

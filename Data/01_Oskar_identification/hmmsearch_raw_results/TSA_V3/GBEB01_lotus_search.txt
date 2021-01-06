@@ -1,0 +1,25 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBEB01011572.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-27   98.0   0.5   1.1e-26   96.3   0.1   2.2   2   0   0   2   2   2   1 TSA: Nasonia vitripennis comp35721_c0_seq2 transcribed RNA sequence
+GBEB01000204.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-19   72.7   7.3   1.4e-13   54.2   0.2   3.8   3   0   0   3   3   3   2 TSA: Nasonia vitripennis comp12493_c0_seq2 transcribed RNA sequence
+GBEB01000203.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-18   70.6   6.7   1.4e-13   54.2   0.2   3.6   3   1   0   3   3   3   2 TSA: Nasonia vitripennis comp12493_c0_seq1 transcribed RNA sequence
+GBEB01022358.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-17   65.3   0.0   1.5e-16   63.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Nasonia vitripennis comp39423_c1_seq42 transcribed RNA sequence
+GBEB01022356.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-17   65.2   0.0   1.5e-16   63.7   0.0   1.9   1   0   0   1   1   1   1 TSA: Nasonia vitripennis comp39423_c1_seq31 transcribed RNA sequence
+GBEB01009579.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-17   64.7   8.8   1.4e-11   47.7   0.1   3.7   3   0   0   3   3   3   2 TSA: Nasonia vitripennis comp34467_c0_seq1 transcribed RNA sequence
+GBEB01009580.1_3     -          oskar_filtered.aligned.LOTUS_domain -              8e-16   61.4  12.0   1.9e-11   47.3   0.1   4.1   4   0   0   4   4   3   2 TSA: Nasonia vitripennis comp34467_c0_seq2 transcribed RNA sequence
+GBEB01002683.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-15   58.7   3.1   1.6e-12   50.8   0.7   3.1   3   0   0   3   3   3   2 TSA: Nasonia vitripennis comp16205_c0_seq1 transcribed RNA sequence
+GBEB01004118.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-07   34.5   0.1      0.43   14.1   0.0   5.8   3   1   3   6   6   6   1 TSA: Nasonia vitripennis comp26577_c1_seq1 transcribed RNA sequence
+GBEB01004119.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-07   33.4   0.1       0.5   13.9   0.0   5.7   3   1   3   6   6   5   1 TSA: Nasonia vitripennis comp26577_c1_seq2 transcribed RNA sequence
+GBEB01017133.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.001   22.6   0.1    0.0018   21.8   0.1   1.3   1   0   0   1   1   1   1 TSA: Nasonia vitripennis comp38095_c3_seq1 transcribed RNA sequence
+GBEB01027150.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.29   14.6   0.4      0.96   13.0   0.4   1.8   1   0   0   1   1   1   0 TSA: Nasonia vitripennis comp42056_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBEB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBEB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:21 2019
+# [ok]

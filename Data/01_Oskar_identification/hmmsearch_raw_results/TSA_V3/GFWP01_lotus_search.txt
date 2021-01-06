@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFWP01037385.1_1     -          oskar_filtered.aligned.LOTUS_domain -              2e-16   63.6   0.0   2.2e-16   63.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Sogatella furcifera Unigene31795_Sogatella_furcifera transcribed RNA sequence
+GFWP01019871.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-16   62.9   0.0     5e-16   62.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Sogatella furcifera Unigene12378_Sogatella_furcifera transcribed RNA sequence
+GFWP01034216.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0074   20.1   0.1      0.64   13.9   0.0   2.1   1   1   1   2   2   2   2 TSA: Sogatella furcifera Unigene28326_Sogatella_furcifera transcribed RNA sequence
+GFWP01018546.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.2   0.7   2.8e+02    5.4   0.0   2.9   4   0   0   4   4   4   0 TSA: Sogatella furcifera Unigene10909_Sogatella_furcifera transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFWP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:24 2019
+# [ok]

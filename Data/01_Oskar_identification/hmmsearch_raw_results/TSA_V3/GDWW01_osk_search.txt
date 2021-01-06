@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWW01027408.1_1     -          oskar_filtered.aligned.OSK_domain -            2.5e-29  106.4   0.9     3e-29  106.2   0.9   1.0   1   0   0   1   1   1   1 TSA: Asiablatta kyotensis breed wildtype C207737_a_6_0_l_500, transcribed RNA sequence
+GDWW01049962.1_3     -          oskar_filtered.aligned.OSK_domain -              0.011   19.5   1.4     0.019   18.8   0.9   1.5   2   0   0   2   2   2   0 TSA: Asiablatta kyotensis breed wildtype s4672_L_6862_1_a_13_7_l_887, transcribed RNA sequence
+GDWW01011719.1_2     -          oskar_filtered.aligned.OSK_domain -               0.13   16.1   0.0      0.14   16.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Asiablatta kyotensis breed wildtype C159046_a_3_0_l_276, transcribed RNA sequence
+GDWW01040163.1_5     -          oskar_filtered.aligned.OSK_domain -               0.93   13.3   1.8       1.5   12.6   1.8   1.4   1   0   0   1   1   1   0 TSA: Asiablatta kyotensis breed wildtype C249610_a_12_0_l_1796, transcribed RNA sequence
+GDWW01015459.1_3     -          oskar_filtered.aligned.OSK_domain -                  1   13.2   0.1       1.1   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Asiablatta kyotensis breed wildtype C169951_a_5_0_l_305, transcribed RNA sequence
+GDWW01018546.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   13.0   0.1       1.2   12.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Asiablatta kyotensis breed wildtype C179565_a_6_0_l_340, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:22 2019
+# [ok]

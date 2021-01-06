@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNZ01015540.1_2     -          LOTUS_CONSENSUS      -            2.5e-24   88.1   0.0   1.2e-23   85.8   0.0   2.2   2   0   0   2   2   2   1 TSA: Heterodontonyx sp. AD-2014 s3117_L_4281_1_a_69_4_l_2799 transcribed RNA sequence
+GBNZ01015539.1_2     -          LOTUS_CONSENSUS      -              5e-24   87.1   0.0     2e-23   85.2   0.0   2.0   2   0   0   2   2   2   1 TSA: Heterodontonyx sp. AD-2014 s3116_L_4281_0_a_67_4_l_4016 transcribed RNA sequence
+GBNZ01017828.1_1     -          LOTUS_CONSENSUS      -            2.3e-20   75.4   0.0   5.7e-20   74.1   0.0   1.7   1   0   0   1   1   1   1 TSA: Heterodontonyx sp. AD-2014 s5181_L_11259_0_a_24_7_l_5018 transcribed RNA sequence
+GBNZ01019520.1_1     -          LOTUS_CONSENSUS      -              7e-13   51.4   1.3   3.3e-09   39.6   0.0   3.4   3   0   0   3   3   3   2 TSA: Heterodontonyx sp. AD-2014 s6706_L_18853_1_a_9_1_l_5375 transcribed RNA sequence
+GBNZ01019519.1_1     -          LOTUS_CONSENSUS      -            7.2e-13   51.3   1.3     3e-09   39.7   0.0   3.2   3   0   0   3   3   3   2 TSA: Heterodontonyx sp. AD-2014 s6705_L_18853_0_a_15_7_l_4912 transcribed RNA sequence
+GBNZ01016637.1_6     -          LOTUS_CONSENSUS      -            5.9e-05   26.0   0.0        20    8.2   0.0   6.1   4   1   2   6   6   6   2 TSA: Heterodontonyx sp. AD-2014 s4109_L_7597_0_a_51_2_l_7089 transcribed RNA sequence
+GBNZ01008922.1_2     -          LOTUS_CONSENSUS      -               0.94   12.5   0.1        15    8.7   0.1   2.2   2   0   0   2   2   2   0 TSA: Heterodontonyx sp. AD-2014 C61876_a_11_0_l_960 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:18 2019
+# [ok]

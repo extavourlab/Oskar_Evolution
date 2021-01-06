@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDHC01008610.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-20   75.1   0.0     7e-20   74.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Lygus hesperus c89775_g3_i1 transcribed RNA sequence
+GDHC01016419.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-20   75.0   0.0     7e-20   74.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Lygus hesperus c89775_g3_i2 transcribed RNA sequence
+GDHC01019119.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-11   46.3   0.0   4.8e-11   45.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Lygus hesperus c83155_g1_i1 transcribed RNA sequence
+GDHC01010217.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-05   27.4   0.0        24    8.0   0.0   5.4   2   1   3   5   5   5   2 TSA: Lygus hesperus c86326_g1_i1 transcribed RNA sequence
+GDHC01020630.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.011   18.8   0.0       1.2   12.2   0.0   2.4   2   0   0   2   2   2   0 TSA: Lygus hesperus c88031_g2_i3 transcribed RNA sequence
+GDHC01020927.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.012   18.7   0.0       1.3   12.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Lygus hesperus c88031_g2_i8 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDHC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDHC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDHC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:01 2019
+# [ok]

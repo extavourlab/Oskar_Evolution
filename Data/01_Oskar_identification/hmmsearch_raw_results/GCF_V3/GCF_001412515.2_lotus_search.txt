@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015110569.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-20   72.9   0.0   5.8e-20   71.5   0.0   1.8   1   0   0   1   1   1   1 tudor domain-containing protein 7 [Diachasma alloeum]
+XP_015110570.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-20   72.9   0.0   5.8e-20   71.5   0.0   1.8   1   0   0   1   1   1   1 tudor domain-containing protein 7 [Diachasma alloeum]
+XP_015110571.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-20   72.9   0.0   5.8e-20   71.5   0.0   1.8   1   0   0   1   1   1   1 tudor domain-containing protein 7 [Diachasma alloeum]
+XP_015114269.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-18   67.2   0.0   5.1e-18   65.3   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X2 [Diachasma alloeum]
+XP_015114267.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-18   67.0   0.0   5.6e-18   65.2   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X1 [Diachasma alloeum]
+XP_015114268.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-18   67.0   0.0   5.6e-18   65.2   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X1 [Diachasma alloeum]
+XP_015111705.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-16   60.4   0.1   1.9e-15   57.1   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC107037596 [Diachasma alloeum]
+XP_028982000.1       -          oskar_filtered.aligned.LOTUS_domain -            5.2e-16   58.8   1.7   4.4e-10   39.8   0.0   3.6   3   0   0   3   3   3   2 uncharacterized protein LOC107039038 isoform X1 [Diachasma alloeum]
+XP_015113962.1       -          oskar_filtered.aligned.LOTUS_domain -            8.1e-16   58.2   0.0   3.4e-10   40.2   0.0   2.8   2   0   0   2   2   2   2 tudor domain-containing protein 5 isoform X2 [Diachasma alloeum]
+XP_015121506.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-07   31.2   0.0       2.3    8.6   0.0   6.0   2   1   4   6   6   6   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Diachasma alloeum]
+XP_015121505.1       -          oskar_filtered.aligned.LOTUS_domain -            7.4e-07   29.5   0.0       2.9    8.3   0.0   6.0   2   1   4   6   6   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Diachasma alloeum]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412515.2_Dall2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001412515.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412515.2_Dall2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:53 2019
+# [ok]

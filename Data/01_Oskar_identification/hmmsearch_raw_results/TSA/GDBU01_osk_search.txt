@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBU01018468.1_6     -          OSK_CONSENSUS        -            6.9e-26   94.2   0.0     1e-25   93.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Trachyaretaon brueckneri breed breeding C69009_a_5_0_l_515, transcribed RNA sequence
+GDBU01017957.1_1     -          OSK_CONSENSUS        -            4.4e-10   42.9   0.0   5.9e-10   42.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Trachyaretaon brueckneri breed breeding C67735_a_3_0_l_496, transcribed RNA sequence
+GDBU01030382.1_1     -          OSK_CONSENSUS        -            2.6e-06   30.6   0.0   5.5e-06   29.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Trachyaretaon brueckneri breed breeding s145_L_153_0_a_5_0_l_1290, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:35 2019
+# [ok]

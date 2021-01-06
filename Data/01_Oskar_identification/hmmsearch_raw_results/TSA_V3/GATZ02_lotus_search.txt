@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATZ02007405.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-07   32.6   0.0   1.4e-06   31.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Sminthurus viridis C129241_a_14_0_l_1387 transcribed RNA sequence
+GATZ02022603.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00094   22.8   0.0    0.0015   22.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Sminthurus viridis s11481_L_29368_0_a_11_4_l_2557 transcribed RNA sequence
+GATZ02023717.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0013   22.3   2.9        27    8.4   0.0   4.9   5   0   0   5   5   5   2 TSA: Sminthurus viridis s1924_L_1512_1_a_23_7_l_3994 transcribed RNA sequence
+GATZ02010416.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0013   22.3   0.0      0.57   13.8   0.0   3.2   2   0   0   2   2   2   1 TSA: Sminthurus viridis C140305_a_43_0_l_3467 transcribed RNA sequence
+GATZ02023716.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0013   22.3   2.9        27    8.4   0.0   4.9   5   0   0   5   5   5   2 TSA: Sminthurus viridis s1923_L_1512_0_a_24_6_l_4009 transcribed RNA sequence
+GATZ02000790.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0014   22.2   0.0    0.0018   21.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Sminthurus viridis C103076_a_6_0_l_489 transcribed RNA sequence
+GATZ02006995.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.76   13.4   0.0       1.4   12.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Sminthurus viridis C127689_a_7_0_l_1280 transcribed RNA sequence
+GATZ02004324.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  1   13.0   0.0       3.3   11.4   0.0   1.8   2   0   0   2   2   2   0 TSA: Sminthurus viridis C117117_a_6_0_l_799 transcribed RNA sequence
+GATZ02014895.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.5   12.5   0.0       1.7   12.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Sminthurus viridis C75947_a_4_0_l_248 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GATZ02.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GATZ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GATZ02.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:38 2019
+# [ok]

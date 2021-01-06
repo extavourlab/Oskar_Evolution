@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEG01000986.1_5     -          oskar_filtered.aligned.LOTUS_domain -              6e-06   29.7   0.0         4   11.0   0.0   4.6   3   1   2   5   5   5   3 TSA: Hydrometra stagnorum breed wildtype C102683_a_28_0_l_1809, transcribed RNA sequence
+GDEG01021201.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0024   21.4   0.0       4.3   10.9   0.0   2.2   2   0   0   2   2   2   2 TSA: Hydrometra stagnorum breed wildtype C86200_a_4_0_l_600, transcribed RNA sequence
+GDEG01022260.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.3   14.6   0.8      0.55   13.8   0.1   1.7   2   0   0   2   2   2   0 TSA: Hydrometra stagnorum breed wildtype C89294_a_10_0_l_690, transcribed RNA sequence
+GDEG01016322.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.2   12.7   0.0       3.4   11.3   0.0   1.6   2   0   0   2   2   2   0 TSA: Hydrometra stagnorum breed wildtype C72354_a_5_0_l_378, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:02 2019
+# [ok]

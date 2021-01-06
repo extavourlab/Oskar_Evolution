@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYP02013860.1_3     -          LOTUS_CONSENSUS      -            1.6e-15   59.8   0.5   2.3e-14   56.2   0.0   3.1   3   0   0   3   3   3   1 TSA: Ctenocephalides felis s3711_L_2955_0_a_55_5_l_4208 transcribed RNA sequence
+GAYP02015822.1_4     -          LOTUS_CONSENSUS      -            1.5e-14   56.8   0.1   9.6e-14   54.2   0.0   2.6   2   0   0   2   2   2   1 TSA: Ctenocephalides felis s547_L_347_3_a_64_6_l_4064 transcribed RNA sequence
+GAYP02015800.1_6     -          LOTUS_CONSENSUS      -            1.8e-14   56.5   0.1   1.1e-13   54.0   0.0   2.5   2   0   0   2   2   2   1 TSA: Ctenocephalides felis s545_L_347_1_a_62_1_l_4384 transcribed RNA sequence
+GAYP02015811.1_6     -          LOTUS_CONSENSUS      -            1.8e-14   56.5   0.1   1.1e-13   54.0   0.0   2.5   2   0   0   2   2   2   1 TSA: Ctenocephalides felis s546_L_347_2_a_59_3_l_4384 transcribed RNA sequence
+GAYP02015789.1_6     -          LOTUS_CONSENSUS      -            1.8e-14   56.5   0.1   1.1e-13   54.0   0.0   2.5   2   0   0   2   2   2   1 TSA: Ctenocephalides felis s544_L_347_0_a_62_1_l_4384 transcribed RNA sequence
+GAYP02019036.1_1     -          LOTUS_CONSENSUS      -            7.3e-13   51.3  12.6   5.9e-09   38.8   0.0   4.4   5   0   0   5   5   5   2 TSA: Ctenocephalides felis s8380_L_12758_1_a_54_7_l_2477 transcribed RNA sequence
+GAYP02019034.1_1     -          LOTUS_CONSENSUS      -            5.7e-12   48.5   0.1   8.3e-09   38.3   0.0   4.5   6   0   0   6   6   5   2 TSA: Ctenocephalides felis s8379_L_12758_0_a_47_7_l_3197 transcribed RNA sequence
+GAYP02011782.1_3     -          LOTUS_CONSENSUS      -            3.8e-05   26.6   8.8     0.068   16.2   0.2   5.9   4   3   2   6   6   6   1 TSA: Ctenocephalides felis s1839_L_1280_0_a_69_9_l_3110 transcribed RNA sequence
+GAYP02009511.1_1     -          LOTUS_CONSENSUS      -              0.093   15.7   0.0      0.18   14.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Ctenocephalides felis C93622_a_29_0_l_1069 transcribed RNA sequence
+GAYP02010181.1_5     -          LOTUS_CONSENSUS      -               0.12   15.4   0.0        47    7.1   0.0   3.6   1   1   3   4   4   4   0 TSA: Ctenocephalides felis C96892_a_29_0_l_1382 transcribed RNA sequence
+GAYP02003565.1_5     -          LOTUS_CONSENSUS      -               0.27   14.3   0.0      0.37   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Ctenocephalides felis C65852_a_8_0_l_271 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYP02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYP02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYP02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:52 2019
+# [ok]

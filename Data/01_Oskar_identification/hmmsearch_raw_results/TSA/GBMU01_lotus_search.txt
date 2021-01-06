@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMU01042337.1_1     -          LOTUS_CONSENSUS      -            2.2e-26   95.8   0.1   5.8e-26   94.4   0.1   1.8   1   0   0   1   1   1   1 TSA: Stephanus serrator s6391_L_21593_1_a_21_6_l_1389 transcribed RNA sequence
+GBMU01013956.1_4     -          LOTUS_CONSENSUS      -            3.3e-06   31.1   0.0       9.2   10.4   0.0   5.8   3   1   2   6   6   6   2 TSA: Stephanus serrator C139874_a_10_0_l_5209 transcribed RNA sequence
+GBMU01026790.1_5     -          LOTUS_CONSENSUS      -               0.11   16.6   0.0      0.14   16.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Stephanus serrator C74841_a_3_0_l_304 transcribed RNA sequence
+GBMU01011206.1_1     -          LOTUS_CONSENSUS      -               0.39   14.9   0.1       5.8   11.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Stephanus serrator C131386_a_6_0_l_1546 transcribed RNA sequence
+GBMU01031813.1_3     -          LOTUS_CONSENSUS      -               0.39   14.8   0.2      0.56   14.3   0.2   1.2   1   0   0   1   1   1   0 TSA: Stephanus serrator C88070_a_3_0_l_389 transcribed RNA sequence
+GBMU01035770.1_2     -          LOTUS_CONSENSUS      -               0.96   13.6   0.3        10   10.3   0.1   2.2   2   0   0   2   2   2   0 TSA: Stephanus serrator C98357_a_5_0_l_474 transcribed RNA sequence
+GBMU01043794.1_1     -          LOTUS_CONSENSUS      -                1.3   13.1   0.0       6.3   11.0   0.0   2.0   2   0   0   2   2   2   0 TSA: Stephanus serrator s7703_L_36737_0_a_48_1_l_1702 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:00 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWU01001740.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-25   92.7   0.1   4.7e-25   91.1   0.1   1.9   1   0   0   1   1   1   1 TSA: Pediaspis aceris C105747_a_50_0_l_1779 transcribed RNA sequence
+GBWU01030910.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-20   75.8   0.1   2.3e-13   53.6   0.0   3.4   3   0   0   3   3   3   2 TSA: Pediaspis aceris s8929_L_30023_0_a_16_1_l_4931 transcribed RNA sequence
+GBWU01030912.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-20   74.7   0.2   3.7e-13   52.9   0.0   3.6   3   0   0   3   3   3   2 TSA: Pediaspis aceris s8930_L_30023_1_a_8_4_l_7357 transcribed RNA sequence
+GBWU01000527.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-19   72.9   1.2   1.6e-18   70.1   0.2   2.4   2   0   0   2   2   2   1 TSA: Pediaspis aceris C101713_a_29_0_l_1363 transcribed RNA sequence
+GBWU01030227.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-19   72.1   0.0   5.7e-18   68.3   0.0   2.8   2   0   0   2   2   2   1 TSA: Pediaspis aceris s8313_L_22287_0_a_47_6_l_4198 transcribed RNA sequence
+GBWU01004656.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-06   30.1   0.0       1.4   12.5   0.0   5.1   2   1   3   5   5   5   2 TSA: Pediaspis aceris C114994_a_36_0_l_6199 transcribed RNA sequence
+GBWU01014574.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.034   17.7   0.0     0.045   17.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Pediaspis aceris C75279_a_4_0_l_423 transcribed RNA sequence
+GBWU01014250.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.83   13.2   0.0       1.3   12.6   0.0   1.4   1   1   0   1   1   1   0 TSA: Pediaspis aceris C74169_a_3_0_l_409 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:43 2019
+# [ok]

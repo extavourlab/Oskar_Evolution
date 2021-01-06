@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IABQ01022102.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.7e-20   74.1   0.0   2.4e-19   72.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_15843_Transcript_1/2_Confidence_1.000_Length_1169, transcribed RNA sequence
+IABQ01022103.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.8e-20   74.1   0.0   2.4e-19   72.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_15843_Transcript_2/2_Confidence_1.000_Length_1169, transcribed RNA sequence
+IABQ01011404.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.9e-19   70.7   5.4   1.3e-13   54.3   1.1   3.0   2   0   0   2   2   2   2 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_6289_Transcript_1/1_Confidence_1.000_Length_2077, transcribed RNA sequence
+IABQ01006470.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-07   33.0   1.5       1.3   12.6   0.6   5.3   4   1   1   5   5   5   2 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_2936_Transcript_1/3_Confidence_0.600_Length_3385, transcribed RNA sequence
+IABQ01006472.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-06   31.6   1.4       1.7   12.2   0.6   5.2   4   1   1   5   5   5   2 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_2936_Transcript_3/3_Confidence_0.600_Length_4195, transcribed RNA sequence
+IABQ01006471.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-06   30.2   1.6       2.1   11.9   0.6   5.2   4   1   1   5   5   5   2 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_2936_Transcript_2/3_Confidence_0.600_Length_5188, transcribed RNA sequence
+IABQ01007005.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.0   0.2       2.9   11.4   0.0   2.6   2   0   0   2   2   2   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_3249_Transcript_7/7_Confidence_0.684_Length_2506, transcribed RNA sequence
+IABQ01007004.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.0   0.2       2.9   11.4   0.0   2.6   2   0   0   2   2   2   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_3249_Transcript_6/7_Confidence_0.684_Length_2505, transcribed RNA sequence
+IABQ01007000.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.23   15.0   0.2       2.9   11.4   0.0   2.6   2   0   0   2   2   2   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_3249_Transcript_2/7_Confidence_0.684_Length_2502, transcribed RNA sequence
+IABQ01007003.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.23   15.0   0.2         3   11.4   0.0   2.6   2   0   0   2   2   2   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_3249_Transcript_5/7_Confidence_0.684_Length_2506, transcribed RNA sequence
+IABQ01007002.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.31   14.6   0.3       3.7   11.1   0.0   2.6   2   0   0   2   2   2   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_3249_Transcript_4/7_Confidence_0.684_Length_2506, transcribed RNA sequence
+IABQ01026424.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.39   14.2   0.4       0.6   13.6   0.4   1.2   1   0   0   1   1   1   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_20141_Transcript_1/1_Confidence_1.000_Length_379, transcribed RNA sequence
+IABQ01013426.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.48   14.0   0.5      0.81   13.2   0.5   1.3   1   0   0   1   1   1   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_7869_Transcript_1/1_Confidence_1.000_Length_803, transcribed RNA sequence
+IABQ01015557.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.76   13.3   2.2       5.2   10.6   0.1   2.7   2   0   0   2   2   2   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_9669_Transcript_1/1_Confidence_1.000_Length_1772, transcribed RNA sequence
+IABQ01007001.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.82   13.2   0.0       2.9   11.4   0.0   1.9   1   0   0   1   1   1   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_3249_Transcript_3/7_Confidence_0.684_Length_2510, transcribed RNA sequence
+IABQ01002333.1_4     -          oskar_filtered.aligned.LOTUS_domain -                6.2   10.4   3.3        38    7.9   0.1   3.0   3   0   0   3   3   3   0 TSA: Allomyrina dichotoma tunobosonis mRNA, contig: Locus_844_Transcript_2/2_Confidence_1.000_Length_1225, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IABQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IABQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:42 2019
+# [ok]

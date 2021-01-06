@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018376903.1       -          oskar_filtered.aligned.OSK_domain -            5.2e-61  205.8   0.2   5.2e-61  205.8   0.2   2.2   2   1   0   2   2   2   1 PREDICTED: maternal effect protein oskar-like [Trachymyrmex cornetzi]
+XP_018377433.1       -          oskar_filtered.aligned.OSK_domain -              0.017   15.0   0.3     0.023   14.6   0.3   1.2   1   0   0   1   1   1   0 PREDICTED: THAP domain-containing protein 1-like [Trachymyrmex cornetzi]
+XP_018363540.1       -          oskar_filtered.aligned.OSK_domain -              0.034   14.0   0.4     0.092   12.6   0.4   1.8   1   0   0   1   1   1   0 PREDICTED: regulator of G-protein signaling loco isoform X2 [Trachymyrmex cornetzi]
+XP_018363539.1       -          oskar_filtered.aligned.OSK_domain -              0.053   13.4   1.3     0.099   12.5   0.4   2.0   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Trachymyrmex cornetzi]
+XP_018377268.1       -          oskar_filtered.aligned.OSK_domain -              0.053   13.4   0.9     0.067   13.1   0.9   1.1   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC108770272 [Trachymyrmex cornetzi]
+XP_018366320.1       -          oskar_filtered.aligned.OSK_domain -               0.14   12.0   1.2       0.2   11.5   0.3   1.8   2   0   0   2   2   2   0 PREDICTED: zinc finger BED domain-containing protein 4-like [Trachymyrmex cornetzi]
+XP_018361335.1       -          oskar_filtered.aligned.OSK_domain -                0.3   11.0   2.8      0.24   11.3   0.5   1.9   2   0   0   2   2   2   0 PREDICTED: zinc finger BED domain-containing protein 1-like [Trachymyrmex cornetzi]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594075.1_Tcor1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594075.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594075.1_Tcor1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:55 2019
+# [ok]

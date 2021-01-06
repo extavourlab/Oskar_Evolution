@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDIO01008497.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-23   85.7   0.2   5.1e-14   56.3   0.0   3.8   4   0   0   4   4   4   3 TSA: Locusta migratoria manilensis CL4320.Contig1_All transcribed RNA sequence
+GDIO01014237.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-22   83.2   0.1   2.2e-22   83.2   0.1   2.6   3   0   0   3   3   3   1 TSA: Locusta migratoria manilensis Unigene12940_All transcribed RNA sequence
+GDIO01008498.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-22   82.4   0.1   1.1e-13   55.2   0.0   3.8   3   0   0   3   3   3   3 TSA: Locusta migratoria manilensis CL4320.Contig2_All transcribed RNA sequence
+GDIO01048948.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-20   76.5   0.1   2.6e-17   66.9   0.0   3.0   3   0   0   3   3   3   2 TSA: Locusta migratoria manilensis Unigene8341_All transcribed RNA sequence
+GDIO01044498.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-06   30.5   0.0        24    9.2   0.0   5.4   2   1   3   5   5   5   2 TSA: Locusta migratoria manilensis Unigene4336_All transcribed RNA sequence
+GDIO01043244.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0013   22.9   0.0     0.002   22.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis Unigene39056_All transcribed RNA sequence
+GDIO01036628.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0066   20.7   0.0     0.013   19.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis Unigene33100_All transcribed RNA sequence
+GDIO01042743.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.13   16.5   0.3      0.15   16.3   0.3   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene38605_All transcribed RNA sequence
+GDIO01023147.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.8   0.5      0.26   15.6   0.5   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene20962_All transcribed RNA sequence
+GDIO01048070.1_3     -          oskar_filtered.aligned.LOTUS_domain -                5.2   11.4   5.2       2.9   12.2   3.0   1.6   1   1   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene7551_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDIO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDIO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDIO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:38 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFPE01026682.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00046   25.1   0.0      0.66   15.0   0.0   3.7   3   0   0   3   3   3   1 TSA: Holacanthella duospinosa c31445_g1_i3 transcribed RNA sequence
+GFPE01026681.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00066   24.6   0.0      0.74   14.8   0.0   3.6   3   0   0   3   3   3   1 TSA: Holacanthella duospinosa c31445_g1_i2 transcribed RNA sequence
+GFPE01026680.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00068   24.6   0.0      0.75   14.8   0.0   3.6   3   0   0   3   3   3   1 TSA: Holacanthella duospinosa c31445_g1_i1 transcribed RNA sequence
+GFPE01050202.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.052   18.5   0.0       0.2   16.6   0.0   2.0   1   0   0   1   1   1   0 TSA: Holacanthella duospinosa c39611_g3_i1 transcribed RNA sequence
+GFPE01060114.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.3   14.0   0.1       3.1   12.8   0.1   1.6   1   0   0   1   1   1   0 TSA: Holacanthella duospinosa c69989_g1_i1 transcribed RNA sequence
+GFPE01056062.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.1   13.4   1.1       2.8   13.0   0.9   1.4   1   1   0   1   1   1   0 TSA: Holacanthella duospinosa c51106_g1_i1 transcribed RNA sequence
+GFPE01060138.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.8   12.9   0.1       4.1   12.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Holacanthella duospinosa c70063_g1_i1 transcribed RNA sequence
+GFPE01073701.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.4   12.7   0.0       5.9   11.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Holacanthella duospinosa c125641_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GFPE01.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GFPE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GFPE01.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:35 2019
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEVD01022916.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-28  100.8   2.5   1.2e-16   65.1   0.0   3.7   3   0   0   3   3   3   3 TSA: Meccus pallidipennis Tpalli_002293700 transcribed RNA sequence
+GEVD01024874.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-22   84.0   0.8   7.9e-21   78.5   0.1   2.7   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_002489700 transcribed RNA sequence
+GEVD01024873.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-22   83.5   0.8   9.1e-21   78.3   0.1   2.7   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_002489600 transcribed RNA sequence
+GEVD01041985.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-16   64.0   0.1   1.8e-15   61.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004202000 transcribed RNA sequence
+GEVD01041966.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-16   63.4   0.1   2.9e-15   60.7   0.0   2.4   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004200100 transcribed RNA sequence
+GEVD01041967.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-16   62.9   0.1   3.9e-15   60.3   0.0   2.4   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004200200 transcribed RNA sequence
+GEVD01041971.1_5     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-16   62.7   0.1   4.4e-15   60.1   0.0   2.4   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004200600 transcribed RNA sequence
+GEVD01041976.1_5     -          oskar_filtered.aligned.LOTUS_domain -            7.7e-16   62.5   0.1   4.4e-15   60.1   0.0   2.3   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004201100 transcribed RNA sequence
+GEVD01041973.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-16   62.4   0.0   5.7e-15   59.7   0.0   2.5   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004200800 transcribed RNA sequence
+GEVD01041978.1_6     -          oskar_filtered.aligned.LOTUS_domain -            9.2e-16   62.3   0.0   5.6e-15   59.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004201300 transcribed RNA sequence
+GEVD01041975.1_4     -          oskar_filtered.aligned.LOTUS_domain -              1e-15   62.1   0.0   6.4e-15   59.6   0.0   2.4   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004201000 transcribed RNA sequence
+GEVD01041981.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-15   62.0   0.0   6.4e-15   59.6   0.0   2.3   2   0   0   2   2   2   1 TSA: Meccus pallidipennis Tpalli_004201600 transcribed RNA sequence
+GEVD01011366.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.75   14.4   0.3       1.1   13.9   0.3   1.2   1   0   0   1   1   1   0 TSA: Meccus pallidipennis Tpalli_001137600 transcribed RNA sequence
+GEVD01057484.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.9   0.1       2.9   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Meccus pallidipennis Tpalli_005752800 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEVD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEVD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEVD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:53 2019
+# [ok]

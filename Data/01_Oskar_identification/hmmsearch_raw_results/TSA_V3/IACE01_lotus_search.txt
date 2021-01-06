@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IACE01085560.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-33  118.1   0.1   9.3e-33  118.1   0.1   2.3   2   1   0   2   2   2   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62589_g2_i1, transcribed RNA sequence
+IACE01097722.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-23   88.0   0.1     1e-20   79.5   0.0   2.6   2   0   0   2   2   2   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c64528_g1_i2, transcribed RNA sequence
+IACE01097721.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-23   88.0   0.1   1.1e-20   79.4   0.0   2.7   2   0   0   2   2   2   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c64528_g1_i1, transcribed RNA sequence
+IACE01090353.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-15   63.1   1.8   8.7e-10   44.4   0.0   3.8   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i7, transcribed RNA sequence
+IACE01090355.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-15   62.6   1.4   1.1e-09   44.0   0.0   3.8   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i9, transcribed RNA sequence
+IACE01090352.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-15   62.6   1.4   1.1e-09   44.0   0.0   3.8   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i6, transcribed RNA sequence
+IACE01090348.1_1     -          oskar_filtered.aligned.LOTUS_domain -              2e-15   62.5   1.4   1.2e-09   44.0   0.0   3.8   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i2, transcribed RNA sequence
+IACE01090349.1_2     -          oskar_filtered.aligned.LOTUS_domain -              2e-15   62.5   1.2   1.2e-09   43.9   0.0   3.8   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i3, transcribed RNA sequence
+IACE01090351.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-15   62.4   1.4   1.2e-09   44.0   0.0   3.7   3   0   0   3   3   3   2 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c63460_g1_i5, transcribed RNA sequence
+IACE01104669.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0062   22.4   0.0        31   10.5   0.0   4.3   3   1   1   4   4   4   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c65188_g1_i2, transcribed RNA sequence
+IACE01052171.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.94   15.4   0.0       1.1   15.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c51494_g2_i1, transcribed RNA sequence
+IACE01083013.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.9   0.1       4.9   13.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62082_g1_i1, transcribed RNA sequence
+IACE01000437.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.9   13.4   0.2   5.5e+02    6.5   0.1   2.4   2   0   0   2   2   2   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c645_g1_i2, transcribed RNA sequence
+IACE01083014.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.1   13.3   0.1       6.7   12.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62082_g1_i2, transcribed RNA sequence
+IACE01021808.1_5     -          oskar_filtered.aligned.LOTUS_domain -                4.4   13.2   0.0        13   11.8   0.0   1.6   2   0   0   2   2   2   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c31595_g1_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IACE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:12 2019
+# [ok]

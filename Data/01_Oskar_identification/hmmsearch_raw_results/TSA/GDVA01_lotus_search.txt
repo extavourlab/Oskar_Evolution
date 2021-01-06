@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDVA01033304.1_1     -          LOTUS_CONSENSUS      -            1.7e-14   58.7   0.0   1.8e-14   58.6   0.0   1.0   1   0   0   1   1   1   1 TSA: Reticulitermes santonensis breed wildtype C187185_a_4_0_l_256, transcribed RNA sequence
+GDVA01065589.1_5     -          LOTUS_CONSENSUS      -                1.2   14.4   0.1       1.3   14.2   0.1   1.3   1   0   0   1   1   1   0 TSA: Reticulitermes santonensis breed wildtype C264668_a_4_0_l_444, transcribed RNA sequence
+GDVA01081260.1_6     -          LOTUS_CONSENSUS      -                1.3   14.2   1.3     2e+02    7.2   0.0   2.8   1   1   1   2   2   2   0 TSA: Reticulitermes santonensis breed wildtype s10593_L_70639_0_a_45_8_l_1091, transcribed RNA sequence
+GDVA01091109.1_2     -          LOTUS_CONSENSUS      -                1.4   14.1   2.0       1.9   13.7   0.2   2.1   2   1   0   2   2   2   0 TSA: Reticulitermes santonensis breed wildtype s7940_L_17127_0_a_4_7_l_640, transcribed RNA sequence
+GDVA01006943.1_6     -          LOTUS_CONSENSUS      -                1.6   13.9   1.9         2   13.6   1.9   1.2   1   0   0   1   1   1   0 TSA: Reticulitermes santonensis breed wildtype C131823_a_4_0_l_237, transcribed RNA sequence
+GDVA01051547.1_1     -          LOTUS_CONSENSUS      -                1.8   13.7   1.9       2.3   13.4   1.9   1.2   1   0   0   1   1   1   0 TSA: Reticulitermes santonensis breed wildtype C227775_a_13_0_l_296, transcribed RNA sequence
+GDVA01002590.1_1     -          LOTUS_CONSENSUS      -                2.7   13.2   0.0       2.8   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Reticulitermes santonensis breed wildtype C120654_a_3_0_l_218, transcribed RNA sequence
+GDVA01070539.1_6     -          LOTUS_CONSENSUS      -                6.4   12.0   0.3        13   11.0   0.3   1.5   1   1   0   1   1   1   0 TSA: Reticulitermes santonensis breed wildtype C277858_a_13_0_l_546, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDVA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDVA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDVA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:34 2019
+# [ok]

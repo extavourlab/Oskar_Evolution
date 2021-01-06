@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLO01012944.1_3     -          oskar_filtered.aligned.OSK_domain -            2.9e-54  186.0   0.2   6.1e-54  184.9   0.2   1.5   1   0   0   1   1   1   1 TSA: Gonatocerus morgani C53541_a_41_0_l_1863 transcribed RNA sequence
+GBLO01012566.1_3     -          oskar_filtered.aligned.OSK_domain -            4.6e-52  178.8   0.0   7.5e-52  178.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Gonatocerus morgani C52575_a_33_0_l_1646 transcribed RNA sequence
+GBLO01012725.1_2     -          oskar_filtered.aligned.OSK_domain -            2.7e-45  156.7   0.5   2.7e-45  156.7   0.5   2.5   2   0   0   2   2   2   1 TSA: Gonatocerus morgani C52991_a_19_0_l_1735 transcribed RNA sequence
+GBLO01013761.1_5     -          oskar_filtered.aligned.OSK_domain -               0.65   12.0   0.8       1.4   11.0   0.8   1.5   1   0   0   1   1   1   0 TSA: Gonatocerus morgani C55554_a_23_0_l_4282 transcribed RNA sequence
+GBLO01004366.1_5     -          oskar_filtered.aligned.OSK_domain -               0.79   11.8   0.5      0.88   11.6   0.5   1.1   1   0   0   1   1   1   0 TSA: Gonatocerus morgani C30704_a_6_0_l_371 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:24 2019
+# [ok]

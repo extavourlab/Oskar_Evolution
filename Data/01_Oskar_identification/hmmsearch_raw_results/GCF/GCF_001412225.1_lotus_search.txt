@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017767950.1       -          LOTUS_CONSENSUS      -            1.1e-18   67.4   0.4   4.3e-13   49.5   0.0   3.1   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X4 [Nicrophorus vespilloides]
+XP_017767948.1       -          LOTUS_CONSENSUS      -            1.9e-18   66.7   0.3     5e-13   49.3   0.0   2.9   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X2 [Nicrophorus vespilloides]
+XP_017767949.1       -          LOTUS_CONSENSUS      -              2e-18   66.7   0.3     5e-13   49.3   0.0   2.9   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X3 [Nicrophorus vespilloides]
+XP_017767947.1       -          LOTUS_CONSENSUS      -              2e-18   66.6   0.3     5e-13   49.3   0.0   2.9   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X1 [Nicrophorus vespilloides]
+XP_017780173.1       -          LOTUS_CONSENSUS      -              8e-13   48.7   0.4   5.4e-12   46.0   0.0   2.7   4   0   0   4   4   4   1 PREDICTED: tudor domain-containing protein 7B isoform X2 [Nicrophorus vespilloides]
+XP_017780165.1       -          LOTUS_CONSENSUS      -            8.3e-13   48.6   0.5   5.4e-12   46.0   0.0   2.7   4   0   0   4   4   4   1 PREDICTED: tudor domain-containing protein 7B isoform X1 [Nicrophorus vespilloides]
+XP_017771098.1       -          LOTUS_CONSENSUS      -            2.8e-09   37.3   0.0   3.7e-09   36.9   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108558629 [Nicrophorus vespilloides]
+XP_017767942.1       -          LOTUS_CONSENSUS      -            5.7e-09   36.3   0.2   1.5e-08   35.0   0.1   1.7   1   1   1   2   2   2   1 PREDICTED: uncharacterized protein LOC108556373 [Nicrophorus vespilloides]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412225.1_Nicve_v1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001412225.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412225.1_Nicve_v1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:44 2019
+# [ok]

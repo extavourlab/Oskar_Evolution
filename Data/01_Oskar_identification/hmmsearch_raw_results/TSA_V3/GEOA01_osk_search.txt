@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOA01131969.1_5     -          oskar_filtered.aligned.OSK_domain -               0.16   17.2   0.5      0.19   17.0   0.5   1.0   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR96625-c0_g1_i1 transcribed RNA sequence
+GEOA01046893.1_6     -          oskar_filtered.aligned.OSK_domain -               0.92   14.8   0.8       1.5   14.1   0.1   1.6   2   0   0   2   2   2   0 TSA: Andesiana lamellata TR32802-c3_g8_i2 transcribed RNA sequence
+GEOA01129882.1_3     -          oskar_filtered.aligned.OSK_domain -                1.3   14.3   0.6       1.5   14.1   0.6   1.1   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR94302-c0_g1_i1 transcribed RNA sequence
+GEOA01087552.1_6     -          oskar_filtered.aligned.OSK_domain -                2.3   13.5   0.2       2.6   13.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR61994-c0_g1_i1 transcribed RNA sequence
+GEOA01138103.1_3     -          oskar_filtered.aligned.OSK_domain -                2.8   13.2   0.2       3.2   13.0   0.2   1.0   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR103461-c0_g1_i1 transcribed RNA sequence
+GEOA01027643.1_1     -          oskar_filtered.aligned.OSK_domain -                3.3   13.0   0.0       4.8   12.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR19733-c2_g1_i1 transcribed RNA sequence
+GEOA01045378.1_1     -          oskar_filtered.aligned.OSK_domain -                5.8   12.2   0.6       6.6   12.0   0.6   1.0   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR31899-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:11 2019
+# [ok]

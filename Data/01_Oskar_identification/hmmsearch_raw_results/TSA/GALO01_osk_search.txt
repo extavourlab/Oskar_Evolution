@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GALO01043982.1_5     -          OSK_CONSENSUS        -                1.3   12.7   0.1       2.3   11.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Apis mellifera carnica Unigene10612_All transcribed RNA sequence
+GALO01008648.1_3     -          OSK_CONSENSUS        -                1.7   12.3   1.8       2.2   11.9   0.4   1.9   2   0   0   2   2   2   0 TSA: Apis mellifera carnica CL597.Contig3_All transcribed RNA sequence
+GALO01008649.1_6     -          OSK_CONSENSUS        -                3.9   11.1   3.4       3.1   11.5   0.6   2.3   3   0   0   3   3   3   0 TSA: Apis mellifera carnica CL597.Contig4_All transcribed RNA sequence
+GALO01008651.1_5     -          OSK_CONSENSUS        -                5.4   10.7   3.2       3.6   11.2   0.6   2.0   3   0   0   3   3   3   0 TSA: Apis mellifera carnica CL597.Contig6_All transcribed RNA sequence
+GALO01008664.1_5     -          OSK_CONSENSUS        -                5.4   10.7   3.2       3.8   11.2   0.6   2.1   3   0   0   3   3   3   0 TSA: Apis mellifera carnica CL597.Contig19_All transcribed RNA sequence
+GALO01031111.1_2     -          OSK_CONSENSUS        -                  6   10.5   6.7       3.1   11.4   1.9   2.2   2   0   0   2   2   2   0 TSA: Apis mellifera carnica CL4662.Contig5_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GALO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GALO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GALO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:20 2019
+# [ok]

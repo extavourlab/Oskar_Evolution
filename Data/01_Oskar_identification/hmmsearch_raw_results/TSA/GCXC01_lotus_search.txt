@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXC01087783.1_6     -          LOTUS_CONSENSUS      -            3.1e-23   87.0   2.4   4.5e-13   54.4   0.0   3.6   3   0   0   3   3   3   3 TSA: Acanalonia conica breed wildtype C516051_6_0, transcribed RNA sequence
+GCXC01088643.1_4     -          LOTUS_CONSENSUS      -              2e-18   71.5   0.1   1.3e-17   68.9   0.0   2.4   3   0   0   3   3   2   1 TSA: Acanalonia conica breed wildtype C519553_14_0, transcribed RNA sequence
+GCXC01095547.1_6     -          LOTUS_CONSENSUS      -            0.00012   27.4   0.0       2.9   13.3   0.0   3.7   3   0   0   3   3   3   2 TSA: Acanalonia conica breed wildtype s16022_L_88633_1_7_8_FORK, transcribed RNA sequence
+GCXC01095546.1_6     -          LOTUS_CONSENSUS      -            0.00029   26.1   0.1       3.9   12.9   0.0   3.6   3   0   0   3   3   3   2 TSA: Acanalonia conica breed wildtype s16021_L_88633_0_6_6_FORK, transcribed RNA sequence
+GCXC01044758.1_1     -          LOTUS_CONSENSUS      -               0.47   15.8   0.4       0.8   15.1   0.4   1.5   1   1   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C378227_4_0, transcribed RNA sequence
+GCXC01090446.1_5     -          LOTUS_CONSENSUS      -               0.63   15.5   0.3        88    8.6   0.0   2.8   3   0   0   3   3   3   0 TSA: Acanalonia conica breed wildtype s1141_L_3029_1_4_0_FORK_a, transcribed RNA sequence
+GCXC01008259.1_6     -          LOTUS_CONSENSUS      -                1.2   14.5   0.1       1.5   14.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C282935_4_0, transcribed RNA sequence
+GCXC01018409.1_3     -          LOTUS_CONSENSUS      -                1.2   14.5   0.9       1.4   14.3   0.9   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C308930_2_0, transcribed RNA sequence
+GCXC01110594.1_5     -          LOTUS_CONSENSUS      -                1.4   14.3   0.0       4.2   12.8   0.0   1.9   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype s9920_L_41264_0_3_6_LINEAR, transcribed RNA sequence
+GCXC01110498.1_6     -          LOTUS_CONSENSUS      -                1.5   14.3   1.0       4.9   12.6   1.0   1.9   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype s9834_L_40502_0_17_8_FORK, transcribed RNA sequence
+GCXC01110499.1_5     -          LOTUS_CONSENSUS      -                1.5   14.3   1.0       5.1   12.5   1.0   1.9   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype s9835_L_40502_1_17_6_FORK, transcribed RNA sequence
+GCXC01077496.1_1     -          LOTUS_CONSENSUS      -                2.9   13.3   0.1       5.3   12.5   0.1   1.5   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C476527_4_0, transcribed RNA sequence
+GCXC01000229.1_5     -          LOTUS_CONSENSUS      -                3.5   13.1   0.0         4   12.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C262704_2_0, transcribed RNA sequence
+GCXC01060033.1_3     -          LOTUS_CONSENSUS      -                4.6   12.7   1.5       7.4   12.0   1.5   1.5   1   1   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C421386_2_0, transcribed RNA sequence
+GCXC01011742.1_6     -          LOTUS_CONSENSUS      -                4.7   12.6   0.1         6   12.3   0.1   1.3   1   1   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C291802_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:19 2019
+# [ok]

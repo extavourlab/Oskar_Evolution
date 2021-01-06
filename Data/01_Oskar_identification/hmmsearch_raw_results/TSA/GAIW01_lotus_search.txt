@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAIW01011550.1_4     -          LOTUS_CONSENSUS      -            2.1e-23   85.5   5.1   1.3e-22   83.0   2.4   2.7   2   0   0   2   2   2   1 TSA: Ganaspis sp. G1 comp580_c0_seq1 transcribed RNA sequence
+GAIW01011551.1_5     -          LOTUS_CONSENSUS      -            4.1e-23   84.6   2.4     1e-22   83.4   2.4   1.6   1   0   0   1   1   1   1 TSA: Ganaspis sp. G1 comp580_c0_seq2 transcribed RNA sequence
+GAIW01012472.1_4     -          LOTUS_CONSENSUS      -            3.8e-19   71.9   0.0   2.2e-18   69.4   0.0   2.4   2   0   0   2   2   1   1 TSA: Ganaspis sp. G1 comp1411_c0_seq1 transcribed RNA sequence
+GAIW01001968.1_3     -          LOTUS_CONSENSUS      -            2.7e-18   69.2   0.0   1.6e-15   60.2   0.0   3.0   2   0   0   2   2   2   1 TSA: Ganaspis sp. G1 comp8364_c0_seq1 transcribed RNA sequence
+GAIW01009539.1_2     -          LOTUS_CONSENSUS      -            6.3e-18   68.0   2.0   1.7e-17   66.6   0.4   2.7   2   1   0   2   2   2   1 TSA: Ganaspis sp. G1 comp454_c0_seq1 transcribed RNA sequence
+GAIW01022470.1_5     -          LOTUS_CONSENSUS      -            1.3e-16   63.8   6.1   2.4e-09   40.5   0.0   4.6   5   0   0   5   5   4   3 TSA: Ganaspis sp. G1 comp2952_c0_seq1 transcribed RNA sequence
+GAIW01026026.1_6     -          LOTUS_CONSENSUS      -            5.7e-15   58.5   2.5   1.8e-14   56.9   0.1   3.1   3   0   0   3   3   3   1 TSA: Ganaspis sp. G1 comp12636_c0_seq1 transcribed RNA sequence
+GAIW01018543.1_5     -          LOTUS_CONSENSUS      -               0.52   13.7   0.4         1   12.8   0.4   1.5   1   0   0   1   1   1   0 TSA: Ganaspis sp. G1 comp11792_c0_seq1 transcribed RNA sequence
+GAIW01004283.1_3     -          LOTUS_CONSENSUS      -                1.4   12.4   0.1       2.5   11.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Ganaspis sp. G1 comp19621_c0_seq1 transcribed RNA sequence
+GAIW01019817.1_4     -          LOTUS_CONSENSUS      -                1.6   12.2   2.0       5.6   10.4   0.1   2.7   3   0   0   3   3   3   0 TSA: Ganaspis sp. G1 comp10847_c0_seq1 transcribed RNA sequence
+GAIW01002015.1_2     -          LOTUS_CONSENSUS      -                8.9    9.8   5.6       5.6   10.5   2.0   2.2   1   1   1   2   2   2   0 TSA: Ganaspis sp. G1 comp8794_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAIW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAIW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAIW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:22 2019
+# [ok]

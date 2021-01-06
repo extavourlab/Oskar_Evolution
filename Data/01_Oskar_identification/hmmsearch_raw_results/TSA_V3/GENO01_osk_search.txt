@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENO01181567.1_3     -          oskar_filtered.aligned.OSK_domain -                5.2   12.7   0.2       7.7   12.1   0.1   1.3   1   1   0   1   1   1   0 TSA: Tischeria quercitella k86_311552 transcribed RNA sequence
+GENO01036449.1_5     -          oskar_filtered.aligned.OSK_domain -                5.4   12.6   0.1       6.7   12.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Tischeria quercitella k56_541709 transcribed RNA sequence
+GENO01175375.1_4     -          oskar_filtered.aligned.OSK_domain -                5.5   12.6   0.1       5.9   12.5   0.1   1.0   1   0   0   1   1   1   0 TSA: Tischeria quercitella k86_66589 transcribed RNA sequence
+GENO01031488.1_4     -          oskar_filtered.aligned.OSK_domain -                5.8   12.5   0.2       7.5   12.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Tischeria quercitella k54_576082 transcribed RNA sequence
+GENO01067468.1_4     -          oskar_filtered.aligned.OSK_domain -                6.9   12.3   0.3       7.3   12.2   0.3   1.2   1   0   0   1   1   1   0 TSA: Tischeria quercitella k62_452544 transcribed RNA sequence
+GENO01197047.1_5     -          oskar_filtered.aligned.OSK_domain -                  7   12.2   0.1       8.6   12.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Tischeria quercitella k92_194136 transcribed RNA sequence
+GENO01061840.1_4     -          oskar_filtered.aligned.OSK_domain -                7.1   12.2   0.0         9   11.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Tischeria quercitella k62_316308 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:31 2019
+# [ok]

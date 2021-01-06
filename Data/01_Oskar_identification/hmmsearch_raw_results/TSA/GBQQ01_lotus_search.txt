@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQQ01026286.1_2     -          LOTUS_CONSENSUS      -            7.3e-23   83.8   0.3   3.7e-22   81.5   0.0   2.5   2   0   0   2   2   2   1 TSA: Katamenes arbustorum s7963_L_22550_0_a_54_8_l_2992 transcribed RNA sequence
+GBQQ01001554.1_6     -          LOTUS_CONSENSUS      -              2e-18   69.6   1.4     6e-18   68.0   0.0   2.7   3   0   0   3   3   3   1 TSA: Katamenes arbustorum C105934_a_12_0_l_3672 transcribed RNA sequence
+GBQQ01009167.1_1     -          LOTUS_CONSENSUS      -            5.8e-15   58.5   0.1   7.9e-15   58.0   0.1   1.2   1   0   0   1   1   1   1 TSA: Katamenes arbustorum C60266_a_4_0_l_367 transcribed RNA sequence
+GBQQ01001555.1_6     -          LOTUS_CONSENSUS      -            5.1e-07   33.0   0.1     0.037   17.4   0.0   6.4   3   2   3   6   6   6   1 TSA: Katamenes arbustorum C105940_a_13_0_l_3679 transcribed RNA sequence
+GBQQ01000348.1_4     -          LOTUS_CONSENSUS      -               0.34   14.3   0.1      0.85   13.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Katamenes arbustorum C101398_a_22_0_l_2086 transcribed RNA sequence
+GBQQ01004082.1_4     -          LOTUS_CONSENSUS      -                0.5   13.8   0.5      0.64   13.5   0.5   1.1   1   0   0   1   1   1   0 TSA: Katamenes arbustorum C42969_a_3_0_l_244 transcribed RNA sequence
+GBQQ01009036.1_2     -          LOTUS_CONSENSUS      -               0.64   13.4   0.1       1.5   12.3   0.1   1.7   2   0   0   2   2   2   0 TSA: Katamenes arbustorum C59757_a_4_0_l_362 transcribed RNA sequence
+GBQQ01006035.1_1     -          LOTUS_CONSENSUS      -               0.76   13.2   0.3       3.3   11.2   0.3   1.9   1   1   0   1   1   1   0 TSA: Katamenes arbustorum C48730_a_4_0_l_272 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:10 2019
+# [ok]

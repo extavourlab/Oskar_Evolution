@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVR01016885.1_1     -          LOTUS_CONSENSUS      -            1.4e-24   89.2   0.1   1.4e-24   89.2   0.1   2.8   3   1   0   3   3   3   1 TSA: Lariophagus distinguendus C71702_a_71_0_l_1446 transcribed RNA sequence
+GBVR01019633.1_1     -          LOTUS_CONSENSUS      -            4.8e-14   55.4   0.0     2e-13   53.4   0.0   2.2   2   0   0   2   2   2   1 TSA: Lariophagus distinguendus C79593_a_58_0_l_3652 transcribed RNA sequence
+GBVR01015167.1_1     -          LOTUS_CONSENSUS      -            9.8e-12   48.0   0.3   9.8e-12   48.0   0.3   2.3   2   1   0   2   2   2   1 TSA: Lariophagus distinguendus C66522_a_9_0_l_1039 transcribed RNA sequence
+GBVR01023357.1_6     -          LOTUS_CONSENSUS      -              7e-05   26.0   0.0        25    8.2   0.0   5.4   3   1   3   6   6   6   2 TSA: Lariophagus distinguendus s4256_L_17401_0_a_41_4_l_8127 transcribed RNA sequence
+GBVR01019225.1_5     -          LOTUS_CONSENSUS      -              0.025   17.9   0.0      0.15   15.4   0.0   2.4   1   0   0   1   1   1   0 TSA: Lariophagus distinguendus C78435_a_19_0_l_2707 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:52 2019
+# [ok]

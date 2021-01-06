@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZA01055962.1_5     -          OSK_CONSENSUS        -            2.5e-27  100.2   0.0   5.9e-27   99.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Philaenus spumarius breed wildtype C756605_4_0, transcribed RNA sequence
+GCZA01036481.1_1     -          OSK_CONSENSUS        -              1e-09   43.0   0.1   1.9e-09   42.2   0.0   1.4   2   0   0   2   2   2   1 TSA: Philaenus spumarius breed wildtype C668842_3_0, transcribed RNA sequence
+GCZA01063865.1_2     -          OSK_CONSENSUS        -            3.4e-05   28.3   3.7    0.0013   23.2   0.2   2.1   2   0   0   2   2   2   2 TSA: Philaenus spumarius breed wildtype s15308_L_31921_2_11_6_COMPLEX, transcribed RNA sequence
+GCZA01063863.1_2     -          OSK_CONSENSUS        -            0.00026   25.4   4.3     0.004   21.6   0.3   2.5   2   0   0   2   2   2   1 TSA: Philaenus spumarius breed wildtype s15306_L_31921_0_16_4_COMPLEX, transcribed RNA sequence
+GCZA01061795.1_1     -          OSK_CONSENSUS        -             0.0082   20.6   2.5    0.0094   20.4   0.4   2.0   1   1   1   2   2   2   1 TSA: Philaenus spumarius breed wildtype s13445_L_26515_1_39_0_FORK, transcribed RNA sequence
+GCZA01059558.1_3     -          OSK_CONSENSUS        -              0.051   18.0   3.3     0.058   17.8   3.3   1.0   1   0   0   1   1   1   0 TSA: Philaenus spumarius breed wildtype s11430_L_21317_0_5_5_LINEAR, transcribed RNA sequence
+GCZA01005326.1_1     -          OSK_CONSENSUS        -               0.33   15.4   0.0      0.43   15.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Philaenus spumarius breed wildtype C560373_2_0, transcribed RNA sequence
+GCZA01052410.1_1     -          OSK_CONSENSUS        -               0.37   15.2   0.4      0.37   15.2   0.4   1.9   1   1   1   2   2   2   0 TSA: Philaenus spumarius breed wildtype C737459_3_0, transcribed RNA sequence
+GCZA01028813.1_6     -          OSK_CONSENSUS        -               0.38   15.2   0.0      0.46   14.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Philaenus spumarius breed wildtype C640088_4_0, transcribed RNA sequence
+GCZA01029865.1_1     -          OSK_CONSENSUS        -               0.41   15.0   0.1      0.47   14.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Philaenus spumarius breed wildtype C643742_3_0, transcribed RNA sequence
+GCZA01022322.1_4     -          OSK_CONSENSUS        -               0.92   13.9   0.0       1.1   13.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Philaenus spumarius breed wildtype C617172_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:39 2019
+# [ok]

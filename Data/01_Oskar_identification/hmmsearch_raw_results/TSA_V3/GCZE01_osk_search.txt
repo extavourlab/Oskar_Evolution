@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZE01056690.1_4     -          oskar_filtered.aligned.OSK_domain -            9.2e-25   92.1   0.2   1.2e-24   91.8   0.2   1.2   1   0   0   1   1   1   1 TSA: Melanoliarus placitus breed wildtype C390662_16_0, transcribed RNA sequence
+GCZE01061868.1_2     -          oskar_filtered.aligned.OSK_domain -            4.8e-23   86.5   0.0   9.4e-23   85.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Melanoliarus placitus breed wildtype C409920_14_0, transcribed RNA sequence
+GCZE01064470.1_2     -          oskar_filtered.aligned.OSK_domain -               0.78   14.1   1.3         3   12.2   0.1   2.5   2   0   0   2   2   2   0 TSA: Melanoliarus placitus breed wildtype C420044_9_0, transcribed RNA sequence
+GCZE01043956.1_6     -          oskar_filtered.aligned.OSK_domain -               0.91   13.9   1.6       5.7   11.3   0.0   2.0   1   1   1   2   2   2   0 TSA: Melanoliarus placitus breed wildtype C349905_6_0, transcribed RNA sequence
+GCZE01036461.1_6     -          oskar_filtered.aligned.OSK_domain -                  2   12.8   0.5       9.8   10.5   0.1   1.9   1   1   1   2   2   2   0 TSA: Melanoliarus placitus breed wildtype C328177_3_0, transcribed RNA sequence
+GCZE01020512.1_6     -          oskar_filtered.aligned.OSK_domain -                2.1   12.7   0.2       2.1   12.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C283770_3_0, transcribed RNA sequence
+GCZE01083085.1_3     -          oskar_filtered.aligned.OSK_domain -                2.3   12.6   2.1       3.3   12.0   2.1   1.3   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype s9164_L_35227_1_26_5_FORK, transcribed RNA sequence
+GCZE01053187.1_3     -          oskar_filtered.aligned.OSK_domain -                3.3   12.0   0.1       5.8   11.3   0.1   1.3   1   1   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C378659_2_0, transcribed RNA sequence
+GCZE01048610.1_5     -          oskar_filtered.aligned.OSK_domain -                3.8   11.8   1.2       9.2   10.6   1.2   1.6   1   1   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C363905_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:41 2019
+# [ok]

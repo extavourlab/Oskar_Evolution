@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011334222.1       -          oskar_filtered.aligned.OSK_domain -            7.9e-63  211.9   0.0   7.9e-63  211.9   0.0   2.6   2   1   0   2   2   2   1 uncharacterized protein LOC105277525 [Ooceraea biroi]
+XP_011352242.1       -          oskar_filtered.aligned.OSK_domain -              0.028   14.5   0.4     0.094   12.8   0.4   1.9   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X2 [Ooceraea biroi]
+XP_011352241.1       -          oskar_filtered.aligned.OSK_domain -              0.034   14.2   0.4      0.11   12.6   0.4   1.8   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X1 [Ooceraea biroi]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003672135.1_Obir_v5.4_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003672135.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003672135.1_Obir_v5.4_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:34 2019
+# [ok]

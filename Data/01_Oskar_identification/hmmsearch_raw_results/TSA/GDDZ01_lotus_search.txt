@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDDZ01012791.1_4     -          LOTUS_CONSENSUS      -            1.4e-05   28.4   0.1    0.0023   21.4   0.0   2.1   2   0   0   2   2   2   2 TSA: Hemipsocus chloroticus breed wildtype C73690_a_3_0_l_374, transcribed RNA sequence
+GDDZ01002439.1_4     -          LOTUS_CONSENSUS      -             0.0019   21.6   0.0      0.59   13.6   0.0   4.5   6   0   0   6   6   6   1 TSA: Hemipsocus chloroticus breed wildtype C107312_a_72_0_l_3059, transcribed RNA sequence
+GDDZ01018395.1_6     -          LOTUS_CONSENSUS      -               0.25   14.8   0.0      0.52   13.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Hemipsocus chloroticus breed wildtype C91011_a_27_0_l_680, transcribed RNA sequence
+GDDZ01020826.1_5     -          LOTUS_CONSENSUS      -               0.44   14.0   0.4       1.2   12.6   0.2   2.0   2   1   0   2   2   2   0 TSA: Hemipsocus chloroticus breed wildtype C98610_a_13_0_l_1000, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDDZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:35 2019
+# [ok]

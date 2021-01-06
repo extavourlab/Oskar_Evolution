@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXT01024844.1_6     -          LOTUS_CONSENSUS      -            9.7e-17   64.4   0.0   1.9e-16   63.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s2901_L_3568_0_64_4_COMPLEX, transcribed RNA sequence
+GCXT01024845.1_4     -          LOTUS_CONSENSUS      -            1.1e-16   64.3   0.0     2e-16   63.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s2902_L_3568_1_62_0_COMPLEX, transcribed RNA sequence
+GCXT01018180.1_1     -          LOTUS_CONSENSUS      -            7.2e-15   58.4   0.0   1.1e-14   57.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s1104_L_1316_3_36_5_COMPLEX, transcribed RNA sequence
+GCXT01018148.1_1     -          LOTUS_CONSENSUS      -            3.7e-14   56.2   0.0   1.2e-13   54.5   0.0   2.0   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s1101_L_1316_0_41_5_COMPLEX, transcribed RNA sequence
+GCXT01018158.1_1     -          LOTUS_CONSENSUS      -            3.9e-14   56.1   0.0   1.2e-13   54.5   0.0   1.9   2   0   0   2   2   2   1 TSA: Orothrips kelloggi breed wildtype s1102_L_1316_1_40_0_COMPLEX, transcribed RNA sequence
+GCXT01018169.1_1     -          LOTUS_CONSENSUS      -            5.7e-14   55.5   0.0   1.2e-13   54.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s1103_L_1316_2_41_0_COMPLEX, transcribed RNA sequence
+GCXT01025487.1_6     -          LOTUS_CONSENSUS      -            7.7e-11   45.5   0.1   2.8e-10   43.7   0.0   1.9   2   0   0   2   2   2   1 TSA: Orothrips kelloggi breed wildtype s3484_L_4404_0_19_6_FORK, transcribed RNA sequence
+GCXT01025488.1_6     -          LOTUS_CONSENSUS      -            1.2e-10   44.9   0.0   2.4e-10   44.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s3485_L_4404_1_21_0_FORK, transcribed RNA sequence
+GCXT01014303.1_1     -          LOTUS_CONSENSUS      -              0.092   16.4   2.2      0.27   14.9   0.6   2.2   2   0   0   2   2   2   0 TSA: Orothrips kelloggi breed wildtype C172927_15_0, transcribed RNA sequence
+GCXT01016345.1_1     -          LOTUS_CONSENSUS      -                0.1   16.2   0.0      0.11   16.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Orothrips kelloggi breed wildtype C97277_5_0, transcribed RNA sequence
+GCXT01015774.1_4     -          LOTUS_CONSENSUS      -                1.8   12.3   0.0       4.9   10.9   0.0   1.7   1   0   0   1   1   1   0 TSA: Orothrips kelloggi breed wildtype C186423_25_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:59 2019
+# [ok]

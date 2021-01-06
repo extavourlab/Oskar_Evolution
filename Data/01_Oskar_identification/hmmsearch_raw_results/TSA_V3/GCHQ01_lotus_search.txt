@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCHQ01010533.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-24   87.8   0.0   2.5e-24   87.8   0.0   2.9   4   0   0   4   4   4   1 TSA: Ferdinandea cuprea C55274_a_61_0_l_1421 transcribed RNA sequence
+GCHQ01008614.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-05   26.8   0.0   2.5e-05   26.8   0.0   3.2   3   1   0   3   3   3   1 TSA: Ferdinandea cuprea C49384_a_4_0_l_888 transcribed RNA sequence
+GCHQ01001730.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.04   16.5   0.7     0.048   16.3   0.7   1.2   1   0   0   1   1   1   0 TSA: Ferdinandea cuprea C27390_a_4_0_l_259 transcribed RNA sequence
+GCHQ01008792.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.33   13.6   0.2        40    6.9   0.0   2.5   2   0   0   2   2   2   0 TSA: Ferdinandea cuprea C49968_a_32_0_l_929 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCHQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCHQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCHQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:05 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEX01019109.1_3     -          LOTUS_CONSENSUS      -            3.5e-13   54.5   0.2   6.1e-13   53.7   0.2   1.4   1   0   0   1   1   1   1 TSA: Proasellus grafi, contig c20441_g1_i1, transcribed RNA sequence
+HAEX01027529.1_1     -          LOTUS_CONSENSUS      -               0.04   19.0   0.1   3.3e+02    6.5   0.0   5.0   2   1   1   4   4   4   0 TSA: Proasellus grafi, contig c25883_g1_i4, transcribed RNA sequence
+HAEX01027530.1_1     -          LOTUS_CONSENSUS      -              0.085   18.0   0.0   4.1e+02    6.2   0.0   4.9   2   1   1   4   4   4   0 TSA: Proasellus grafi, contig c25883_g1_i5, transcribed RNA sequence
+HAEX01042819.1_6     -          LOTUS_CONSENSUS      -                1.7   13.8   0.1       5.1   12.3   0.1   1.8   1   1   1   2   2   2   0 TSA: Proasellus grafi, contig c32754_g1_i1, transcribed RNA sequence
+HAEX01082696.1_1     -          LOTUS_CONSENSUS      -                2.8   13.1   0.3       3.4   12.9   0.3   1.1   1   0   0   1   1   1   0 TSA: Proasellus grafi, contig c73412_g1_i1, transcribed RNA sequence
+HAEX01011305.1_1     -          LOTUS_CONSENSUS      -                2.9   13.1   0.8       7.1   11.8   0.8   1.6   1   1   0   1   1   1   0 TSA: Proasellus grafi, contig c12579_g1_i1, transcribed RNA sequence
+HAEX01051701.1_1     -          LOTUS_CONSENSUS      -                3.2   12.9   3.0   1.5e+02    7.6   0.8   2.1   1   1   1   2   2   2   0 TSA: Proasellus grafi, contig c41804_g1_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEX.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEX.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEX.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:01 2019
+# [ok]

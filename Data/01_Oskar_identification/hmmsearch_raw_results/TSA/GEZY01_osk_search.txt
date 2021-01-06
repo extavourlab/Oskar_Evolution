@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEZY01023300.1_4     -          OSK_CONSENSUS        -            7.9e-38  133.3   0.1   1.8e-37  132.2   0.1   1.6   1   0   0   1   1   1   1 TSA: Sitophilus oryzae c10171.graph_c0 transcribed RNA sequence
+GEZY01001976.1_1     -          OSK_CONSENSUS        -              0.075   16.4   0.2     0.087   16.2   0.2   1.2   1   0   0   1   1   1   0 TSA: Sitophilus oryzae c20956.graph_c0 transcribed RNA sequence
+GEZY01016437.1_2     -          OSK_CONSENSUS        -               0.58   13.5   0.1      0.65   13.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Sitophilus oryzae c27034.graph_c0 transcribed RNA sequence
+GEZY01028287.1_4     -          OSK_CONSENSUS        -               0.59   13.5   0.2      0.72   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Sitophilus oryzae c23092.graph_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEZY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:43 2019
+# [ok]

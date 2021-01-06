@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGAN01009709.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-19   70.4   0.0   1.4e-18   69.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Dasyhelea sp. Cera B11 Dasyhelea_contig_6973 transcribed RNA sequence
+GGAN01011936.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-11   45.2   0.0   9.8e-11   44.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Dasyhelea sp. Cera B11 Dasyhelea_contig_6591 transcribed RNA sequence
+GGAN01008121.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-08   37.3   0.1   7.2e-08   35.0   0.1   2.1   2   0   0   2   2   2   1 TSA: Dasyhelea sp. Cera B11 Dasyhelea_contig_5771 transcribed RNA sequence
+GGAN01010551.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0012   21.4   0.0    0.0038   19.8   0.0   1.9   1   0   0   1   1   1   1 TSA: Dasyhelea sp. Cera B11 Dasyhelea_contig_4061 transcribed RNA sequence
+GGAN01008970.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.085   15.5   0.0      0.21   14.2   0.0   1.6   1   0   0   1   1   1   0 TSA: Dasyhelea sp. Cera B11 Dasyhelea_contig_7385 transcribed RNA sequence
+GGAN01011326.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.31   13.7   0.0      0.98   12.1   0.0   1.9   1   0   0   1   1   1   0 TSA: Dasyhelea sp. Cera B11 Dasyhelea_contig_13355 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGAN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:19 2019
+# [ok]

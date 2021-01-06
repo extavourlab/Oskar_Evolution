@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGKC01032448.1_1     -          LOTUS_CONSENSUS      -            4.1e-15   60.7   0.0   5.6e-08   37.8   0.1   2.7   2   0   0   2   2   2   2 TSA: Heliconius cydno c34442_g1_i2 transcribed RNA sequence
+GGKC01032447.1_1     -          LOTUS_CONSENSUS      -            1.1e-14   59.3   0.0   9.1e-08   37.2   0.1   2.6   2   0   0   2   2   2   2 TSA: Heliconius cydno c34442_g1_i1 transcribed RNA sequence
+GGKC01035255.1_4     -          LOTUS_CONSENSUS      -              1e-13   56.2   0.1     1e-13   56.2   0.1   2.6   2   1   0   2   2   2   1 TSA: Heliconius cydno c35991_g1_i2 transcribed RNA sequence
+GGKC01035254.1_4     -          LOTUS_CONSENSUS      -            1.2e-13   56.0   0.1   1.2e-13   56.0   0.1   2.6   2   1   0   2   2   2   1 TSA: Heliconius cydno c35991_g1_i1 transcribed RNA sequence
+GGKC01007913.1_6     -          LOTUS_CONSENSUS      -                1.8   13.7   0.0       3.1   13.0   0.0   1.5   1   1   0   1   1   1   0 TSA: Heliconius cydno c11232_g1_i2 transcribed RNA sequence
+GGKC01055225.1_1     -          LOTUS_CONSENSUS      -                  2   13.6   0.8       4.8   12.4   0.2   1.8   2   0   0   2   2   2   0 TSA: Heliconius cydno c43449_g2_i1 transcribed RNA sequence
+GGKC01012645.1_3     -          LOTUS_CONSENSUS      -                3.7   12.8   1.2       4.3   12.5   1.2   1.1   1   0   0   1   1   1   0 TSA: Heliconius cydno c18454_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGKC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:36 2019
+# [ok]

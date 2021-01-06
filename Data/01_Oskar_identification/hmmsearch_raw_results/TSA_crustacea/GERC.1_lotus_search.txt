@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERC01072460.1_6     -          LOTUS_CONSENSUS      -            1.7e-08   39.3   0.0   2.3e-08   38.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Eulimnogammarus testaceus c77293_g1_i1 transcribed RNA sequence
+GERC01001654.1_1     -          LOTUS_CONSENSUS      -                0.4   15.6   0.1       0.5   15.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Eulimnogammarus testaceus c4450_g1_i1 transcribed RNA sequence
+GERC01025750.1_4     -          LOTUS_CONSENSUS      -               0.59   15.1   0.9   3.4e+02    6.2   0.1   2.8   1   1   3   4   4   4   0 TSA: Eulimnogammarus testaceus c49344_g2_i1 transcribed RNA sequence
+GERC01034295.1_2     -          LOTUS_CONSENSUS      -               0.61   15.0   0.0         1   14.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Eulimnogammarus testaceus c55972_g2_i1 transcribed RNA sequence
+GERC01066419.1_4     -          LOTUS_CONSENSUS      -               0.63   15.0   0.0        16   10.5   0.0   2.1   2   0   0   2   2   2   0 TSA: Eulimnogammarus testaceus c70232_g1_i1 transcribed RNA sequence
+GERC01054726.1_5     -          LOTUS_CONSENSUS      -                4.3   12.3   0.5        14   10.6   0.1   1.9   2   0   0   2   2   2   0 TSA: Eulimnogammarus testaceus c65128_g1_i1 transcribed RNA sequence
+GERC01025174.1_2     -          LOTUS_CONSENSUS      -                5.2   12.0   0.0       7.9   11.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Eulimnogammarus testaceus c48824_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERC.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERC.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERC.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:37 2019
+# [ok]

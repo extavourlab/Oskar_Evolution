@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBGV01010610.1_5     -          LOTUS_CONSENSUS      -            4.1e-25   92.4   0.7   2.2e-24   90.1   0.0   2.7   3   0   0   3   3   3   1 TSA: Polistes metricus PmetTSAr1.1-010610 transcribed RNA sequence
+GBGV01004576.1_5     -          LOTUS_CONSENSUS      -            2.7e-21   80.2   5.4   1.4e-18   71.4   0.1   2.9   3   0   0   3   3   3   2 TSA: Polistes metricus PmetTSAr1.1-004576 transcribed RNA sequence
+GBGV01008154.1_2     -          LOTUS_CONSENSUS      -              2e-13   54.9  10.5   2.9e-08   38.4   0.1   5.0   4   0   0   4   4   4   3 TSA: Polistes metricus PmetTSAr1.1-008154 transcribed RNA sequence
+GBGV01006523.1_3     -          LOTUS_CONSENSUS      -            0.00024   25.8   0.0       1.9   13.3   0.0   5.6   1   1   4   5   5   5   1 TSA: Polistes metricus PmetTSAr1.1-006523 transcribed RNA sequence
+GBGV01050462.1_2     -          LOTUS_CONSENSUS      -               0.93   14.3   0.4       1.4   13.8   0.4   1.4   1   0   0   1   1   1   0 TSA: Polistes metricus PmetTSAr1.1-050462 transcribed RNA sequence
+GBGV01059523.1_3     -          LOTUS_CONSENSUS      -                  2   13.3   0.3       3.2   12.6   0.3   1.5   1   1   0   1   1   1   0 TSA: Polistes metricus PmetTSAr1.1-059523 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBGV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBGV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBGV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:38 2019
+# [ok]

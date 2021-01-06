@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERC01047306.1_6     -          OSK_CONSENSUS        -               0.28   15.4   0.1       0.6   14.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Eulimnogammarus testaceus c63046_g1_i1 transcribed RNA sequence
+GERC01062206.1_6     -          OSK_CONSENSUS        -                0.5   14.6   0.0      0.66   14.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Eulimnogammarus testaceus c66523_g5_i1 transcribed RNA sequence
+GERC01029549.1_3     -          OSK_CONSENSUS        -                0.7   14.1   0.0      0.74   14.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Eulimnogammarus testaceus c52362_g3_i1 transcribed RNA sequence
+GERC01050938.1_6     -          OSK_CONSENSUS        -                5.4   11.2   3.1       9.3   10.5   3.1   1.3   1   0   0   1   1   1   0 TSA: Eulimnogammarus testaceus c64197_g1_i1 transcribed RNA sequence
+GERC01013770.1_1     -          OSK_CONSENSUS        -                5.6   11.2   1.1        16    9.7   0.2   2.0   2   1   0   2   2   2   0 TSA: Eulimnogammarus testaceus c37330_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERC.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERC.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERC.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:36 2019
+# [ok]

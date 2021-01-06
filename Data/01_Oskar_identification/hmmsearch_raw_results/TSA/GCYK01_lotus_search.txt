@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYK01023111.1_5     -          LOTUS_CONSENSUS      -              7e-20   74.5   0.3   1.6e-16   63.8   0.0   3.4   3   0   0   3   3   3   2 TSA: Reuteroscopus ornatus breed wildtype s11546_L_36532_0_14_8_LINEAR, transcribed RNA sequence
+GCYK01032728.1_5     -          LOTUS_CONSENSUS      -            1.9e-16   63.5   0.0     4e-16   62.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Reuteroscopus ornatus breed wildtype s9357_L_27933_0_2_0_LINEAR, transcribed RNA sequence
+GCYK01013308.1_3     -          LOTUS_CONSENSUS      -            1.2e-06   32.2   0.0     0.014   19.1   0.0   2.7   2   0   0   2   2   2   2 TSA: Reuteroscopus ornatus breed wildtype C162254_13_0, transcribed RNA sequence
+GCYK01013205.1_3     -          LOTUS_CONSENSUS      -            1.2e-05   29.0   0.0       1.8   12.3   0.0   4.5   4   1   0   4   4   4   1 TSA: Reuteroscopus ornatus breed wildtype C161760_28_0, transcribed RNA sequence
+GCYK01003508.1_6     -          LOTUS_CONSENSUS      -            4.7e-05   27.0   0.0   6.3e-05   26.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Reuteroscopus ornatus breed wildtype C113649_3_0, transcribed RNA sequence
+GCYK01029928.1_5     -          LOTUS_CONSENSUS      -              0.004   20.8   0.0        31    8.4   0.0   3.9   1   1   2   3   3   3   1 TSA: Reuteroscopus ornatus breed wildtype s6837_L_18977_0_10_9_LINEAR, transcribed RNA sequence
+GCYK01018152.1_2     -          LOTUS_CONSENSUS      -              0.015   19.0   0.0     0.016   18.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Reuteroscopus ornatus breed wildtype C88238_2_0, transcribed RNA sequence
+GCYK01033047.1_3     -          LOTUS_CONSENSUS      -              0.099   16.4   0.0      0.21   15.3   0.0   1.5   1   0   0   1   1   1   0 TSA: Reuteroscopus ornatus breed wildtype s9645_L_29041_0_6_7_LINEAR, transcribed RNA sequence
+GCYK01016229.1_6     -          LOTUS_CONSENSUS      -                1.4   12.7   0.1       2.1   12.1   0.1   1.4   1   1   0   1   1   1   0 TSA: Reuteroscopus ornatus breed wildtype C81580_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:41 2019
+# [ok]

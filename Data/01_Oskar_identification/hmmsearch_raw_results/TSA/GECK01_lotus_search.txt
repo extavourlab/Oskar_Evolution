@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECK01026113.1_4     -          LOTUS_CONSENSUS      -            4.3e-23   86.7   1.8   3.9e-14   58.0   0.1   3.7   2   1   1   3   3   3   3 TSA: Rhodnius prolixus Rpro_Trinity_comp_19238_c0_seq1 transcribed RNA sequence
+GECK01028249.1_3     -          LOTUS_CONSENSUS      -            8.9e-21   79.3   0.2   8.5e-20   76.1   0.1   2.4   2   0   0   2   2   2   1 TSA: Rhodnius prolixus Rpro_Trinity_comp_20455_c0_seq1 transcribed RNA sequence
+GECK01107300.1_6     -          LOTUS_CONSENSUS      -            5.3e-15   60.8   0.1   9.5e-14   56.7   0.0   2.7   2   0   0   2   2   2   1 TSA: Rhodnius prolixus Rpro_Trinity_comp_7475_c0_seq1 transcribed RNA sequence
+GECK01097046.1_3     -          LOTUS_CONSENSUS      -              0.047   19.3   0.2     0.055   19.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_645495_c0_seq1 transcribed RNA sequence
+GECK01097147.1_5     -          LOTUS_CONSENSUS      -                3.9   13.1   0.2        12   11.5   0.1   1.8   2   0   0   2   2   2   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_646338_c0_seq1 transcribed RNA sequence
+GECK01090611.1_4     -          LOTUS_CONSENSUS      -                5.9   12.5   0.0   1.2e+02    8.3   0.0   2.2   1   1   1   2   2   2   0 TSA: Rhodnius prolixus Rpro_Trinity_comp_603580_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:00 2019
+# [ok]

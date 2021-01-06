@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNY01027653.1_3     -          LOTUS_CONSENSUS      -            9.6e-16   62.6   0.8   1.1e-14   59.2   0.0   2.9   3   0   0   3   3   3   1 TSA: Bactrocera jarvisi TR15157_c0_g1_i1 transcribed RNA sequence
+GFNY01007310.1_5     -          LOTUS_CONSENSUS      -            2.6e-09   42.0   1.8   3.5e-09   41.6   0.0   2.0   2   0   0   2   2   2   1 TSA: Bactrocera jarvisi TR5143_c0_g1_i1 transcribed RNA sequence
+GFNY01068731.1_6     -          LOTUS_CONSENSUS      -              5e-09   41.1   1.9   1.7e-07   36.2   0.0   2.0   2   0   0   2   2   2   1 TSA: Bactrocera jarvisi TR25254_c0_g1_i1 transcribed RNA sequence
+GFNY01061286.1_2     -          LOTUS_CONSENSUS      -               0.11   17.6   1.4   2.1e+02    7.0   0.0   5.9   3   0   0   3   3   3   0 TSA: Bactrocera jarvisi TR21968_c0_g2_i1 transcribed RNA sequence
+GFNY01037599.1_6     -          LOTUS_CONSENSUS      -               0.76   14.9   0.2       1.4   14.0   0.1   1.4   1   1   0   1   1   1   0 TSA: Bactrocera jarvisi TR18091_c0_g1_i1 transcribed RNA sequence
+GFNY01051982.1_3     -          LOTUS_CONSENSUS      -               0.85   14.7   0.0       2.1   13.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Bactrocera jarvisi TR20814_c0_g2_i1 transcribed RNA sequence
+GFNY01024988.1_4     -          LOTUS_CONSENSUS      -               0.95   14.6   0.6         2   13.5   0.6   1.5   1   0   0   1   1   1   0 TSA: Bactrocera jarvisi TR14142_c0_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:27 2019
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOW01107774.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-17   69.3   0.0   1.8e-13   56.3   0.0   2.3   2   0   0   2   2   2   2 TSA: Photinus pyralis TR56047_c1_g1_i1 transcribed RNA sequence
+GEOW01016589.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-16   65.4   0.6   1.3e-15   63.2   0.1   2.1   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i4 transcribed RNA sequence
+GEOW01016590.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-16   64.7   0.7     2e-15   62.6   0.1   2.3   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i5 transcribed RNA sequence
+GEOW01016587.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-16   64.6   0.7     2e-15   62.6   0.1   2.2   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i2 transcribed RNA sequence
+GEOW01016588.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-16   63.8   0.8   2.8e-15   62.1   0.1   2.1   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i3 transcribed RNA sequence
+GEOW01016586.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-15   63.2   0.8   3.6e-15   61.7   0.1   2.0   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i1 transcribed RNA sequence
+GEOW01044594.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.7   14.6   0.0       5.1   13.1   0.0   1.8   1   0   0   1   1   1   0 TSA: Photinus pyralis TR24031_c0_g1_i4 transcribed RNA sequence
+GEOW01044592.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   14.5   0.0         5   13.1   0.0   1.7   1   0   0   1   1   1   0 TSA: Photinus pyralis TR24031_c0_g1_i2 transcribed RNA sequence
+GEOW01044595.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.9   14.5   0.0       5.3   13.1   0.0   1.7   1   0   0   1   1   1   0 TSA: Photinus pyralis TR24031_c0_g1_i5 transcribed RNA sequence
+GEOW01044596.1_2     -          oskar_filtered.aligned.LOTUS_domain -                  2   14.4   0.0       4.6   13.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Photinus pyralis TR24031_c0_g1_i6 transcribed RNA sequence
+GEOW01044597.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.1   14.3   0.0       5.5   13.0   0.0   1.7   1   0   0   1   1   1   0 TSA: Photinus pyralis TR24031_c0_g1_i7 transcribed RNA sequence
+GEOW01044591.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.1   14.3   0.1       5.5   13.0   0.1   1.7   1   0   0   1   1   1   0 TSA: Photinus pyralis TR24031_c0_g1_i1 transcribed RNA sequence
+GEOW01044598.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.6   14.1   0.1         6   12.9   0.1   1.6   1   0   0   1   1   1   0 TSA: Photinus pyralis TR24031_c0_g1_i8 transcribed RNA sequence
+GEOW01134781.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.9   13.9   1.7   3.6e+02    7.2   0.1   2.3   1   1   1   2   2   2   0 TSA: Photinus pyralis TR69857_c0_g2_i1 transcribed RNA sequence
+GEOW01122455.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.4   13.7   0.2     3e+02    7.4   0.0   2.2   2   0   0   2   2   2   0 TSA: Photinus pyralis TR62676_c0_g1_i1 transcribed RNA sequence
+GEOW01129954.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.5   13.3   0.5       7.4   12.6   0.3   1.4   1   1   0   1   1   1   0 TSA: Photinus pyralis TR67594_c0_g1_i1 transcribed RNA sequence
+GEOW01143323.1_5     -          oskar_filtered.aligned.LOTUS_domain -                4.5   13.3   0.1       6.3   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Photinus pyralis TR75829_c5_g8_i1 transcribed RNA sequence
+GEOW01049201.1_3     -          oskar_filtered.aligned.LOTUS_domain -                6.1   12.8   0.3        12   11.9   0.1   1.6   2   0   0   2   2   2   0 TSA: Photinus pyralis TR25833_c0_g4_i1 transcribed RNA sequence
+GEOW01099772.1_6     -          oskar_filtered.aligned.LOTUS_domain -                9.4   12.3   0.1        28   10.7   0.1   1.8   2   0   0   2   2   2   0 TSA: Photinus pyralis TR52517_c0_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:33 2019
+# [ok]

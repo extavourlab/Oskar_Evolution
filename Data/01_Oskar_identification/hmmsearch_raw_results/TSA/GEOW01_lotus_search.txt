@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOW01107774.1_2     -          LOTUS_CONSENSUS      -            3.6e-17   68.2   0.0   4.6e-13   55.0   0.0   2.3   2   0   0   2   2   2   2 TSA: Photinus pyralis TR56047_c1_g1_i1 transcribed RNA sequence
+GEOW01016589.1_3     -          LOTUS_CONSENSUS      -            2.7e-16   65.4   0.8   3.6e-15   61.7   0.1   2.4   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i4 transcribed RNA sequence
+GEOW01016590.1_3     -          LOTUS_CONSENSUS      -            4.6e-16   64.6   0.9   5.7e-15   61.1   0.1   2.5   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i5 transcribed RNA sequence
+GEOW01016587.1_3     -          LOTUS_CONSENSUS      -            4.8e-16   64.5   0.9   5.7e-15   61.1   0.1   2.5   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i2 transcribed RNA sequence
+GEOW01016588.1_3     -          LOTUS_CONSENSUS      -            8.7e-16   63.7   0.8     8e-15   60.6   0.1   2.4   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i3 transcribed RNA sequence
+GEOW01016586.1_3     -          LOTUS_CONSENSUS      -            1.4e-15   63.0   0.8     1e-14   60.3   0.1   2.3   2   0   0   2   2   2   1 TSA: Photinus pyralis TR7421_c0_g1_i1 transcribed RNA sequence
+GEOW01032448.1_1     -          LOTUS_CONSENSUS      -               0.19   17.8   0.5       1.2   15.2   0.0   2.1   1   1   1   2   2   2   0 TSA: Photinus pyralis TR17476_c0_g1_i1 transcribed RNA sequence
+GEOW01154322.1_5     -          LOTUS_CONSENSUS      -               0.84   15.7   0.2         5   13.2   0.0   2.3   1   1   1   2   2   2   0 TSA: Photinus pyralis TR81043_c0_g1_i1 transcribed RNA sequence
+GEOW01154323.1_5     -          LOTUS_CONSENSUS      -               0.91   15.6   0.2       4.9   13.2   0.0   2.3   1   1   1   2   2   2   0 TSA: Photinus pyralis TR81043_c0_g1_i2 transcribed RNA sequence
+GEOW01154324.1_5     -          LOTUS_CONSENSUS      -                1.1   15.3   0.2       5.1   13.2   0.0   2.0   1   1   1   2   2   2   0 TSA: Photinus pyralis TR81043_c0_g1_i3 transcribed RNA sequence
+GEOW01099772.1_6     -          LOTUS_CONSENSUS      -                3.8   13.6   0.1        14   11.8   0.0   1.9   2   0   0   2   2   2   0 TSA: Photinus pyralis TR52517_c0_g1_i2 transcribed RNA sequence
+GEOW01099777.1_6     -          LOTUS_CONSENSUS      -                4.1   13.5   0.1        15   11.7   0.0   1.9   2   0   0   2   2   2   0 TSA: Photinus pyralis TR52517_c0_g1_i6 transcribed RNA sequence
+GEOW01003015.1_6     -          LOTUS_CONSENSUS      -                4.6   13.3   0.1       5.1   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Photinus pyralis TR2076_c8_g1_i1 transcribed RNA sequence
+GEOW01029339.1_5     -          LOTUS_CONSENSUS      -                  6   12.9   0.1        11   12.1   0.1   1.5   1   0   0   1   1   1   0 TSA: Photinus pyralis TR15563_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:03 2019
+# [ok]

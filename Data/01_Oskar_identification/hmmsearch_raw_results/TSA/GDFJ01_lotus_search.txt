@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFJ01046000.1_6     -          LOTUS_CONSENSUS      -              6e-16   62.7   0.3   1.5e-14   58.1   0.1   2.7   2   0   0   2   2   2   1 TSA: Lygaeus equestris breed wildtype s10033_L_57149_0_a_17_6_l_1619, transcribed RNA sequence
+GDFJ01042734.1_1     -          LOTUS_CONSENSUS      -            8.9e-07   33.3   0.0        15   10.1   0.0   4.9   3   1   2   5   5   5   3 TSA: Lygaeus equestris breed wildtype C211592_a_8_0_l_2060, transcribed RNA sequence
+GDFJ01016456.1_3     -          LOTUS_CONSENSUS      -             0.0075   20.7   0.0    0.0089   20.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Lygaeus equestris breed wildtype C139366_a_3_0_l_287, transcribed RNA sequence
+GDFJ01039545.1_1     -          LOTUS_CONSENSUS      -              0.057   17.8   0.0   1.7e+02    6.7   0.0   3.1   1   1   2   3   3   3   0 TSA: Lygaeus equestris breed wildtype C202477_a_29_0_l_994, transcribed RNA sequence
+GDFJ01028877.1_5     -          LOTUS_CONSENSUS      -                3.1   12.3   0.0       5.5   11.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Lygaeus equestris breed wildtype C172475_a_4_0_l_454, transcribed RNA sequence
+GDFJ01019647.1_5     -          LOTUS_CONSENSUS      -                4.6   11.7   0.1       4.6   11.7   0.1   1.4   2   0   0   2   2   2   0 TSA: Lygaeus equestris breed wildtype C147836_a_9_0_l_319, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:29 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_006562405.1       -          LOTUS_CONSENSUS      -            7.9e-21   74.6   1.0   8.4e-20   71.3   0.1   3.2   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Apis mellifera]
+XP_001121997.2       -          LOTUS_CONSENSUS      -            1.8e-20   73.4   0.5   2.7e-19   69.7   0.0   3.3   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X2 [Apis mellifera]
+XP_026295420.1       -          LOTUS_CONSENSUS      -            4.7e-15   56.1  14.4   1.8e-12   47.8   0.4   4.6   4   0   0   4   4   4   2 uncharacterized protein MAL13P1.304 [Apis mellifera]
+XP_624343.2          -          LOTUS_CONSENSUS      -              0.015   16.0   2.9       0.5   11.1   0.0   2.9   3   0   0   3   3   3   0 uncharacterized protein LOC551958 [Apis mellifera]
+XP_026296199.1       -          LOTUS_CONSENSUS      -               0.27   12.0   1.7      0.29   11.9   0.2   1.8   2   1   0   2   2   2   0 probable oligoribonuclease [Apis mellifera]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003254395.2_Amel_HAv3.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003254395.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003254395.2_Amel_HAv3.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:06 2019
+# [ok]

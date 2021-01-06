@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_027850345.1       -          oskar_filtered.aligned.LOTUS_domain -            7.5e-22   77.6   0.4   7.5e-22   77.6   0.4   2.5   3   0   0   3   3   3   1 uncharacterized protein LOC114129725 [Aphis gossypii]
+XP_027850228.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-21   77.1  13.6   1.3e-11   44.7   0.3   6.0   4   1   1   5   5   5   3 uncharacterized protein LOC114129628 [Aphis gossypii]
+XP_027850229.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-21   77.1  13.6   1.3e-11   44.7   0.3   6.0   4   1   1   5   5   5   3 uncharacterized protein LOC114129628 [Aphis gossypii]
+XP_027839196.1       -          oskar_filtered.aligned.LOTUS_domain -            2.9e-18   66.1   0.0   2.9e-18   66.1   0.0   4.0   5   0   0   5   5   5   1 tudor domain-containing protein 7-like isoform X2 [Aphis gossypii]
+XP_027839193.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-18   66.0   0.0     3e-18   66.0   0.0   4.3   5   1   1   6   6   5   1 tudor domain-containing protein 7-like isoform X1 [Aphis gossypii]
+XP_027839194.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-18   66.0   0.0     3e-18   66.0   0.0   4.3   5   1   1   6   6   5   1 tudor domain-containing protein 7-like isoform X1 [Aphis gossypii]
+XP_027839195.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-18   66.0   0.0     3e-18   66.0   0.0   4.3   5   1   1   6   6   5   1 tudor domain-containing protein 7-like isoform X1 [Aphis gossypii]
+XP_027846657.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-13   49.1   0.0   5.3e-13   49.1   0.0   4.9   3   1   0   3   3   2   1 beclin-1-like protein A isoform X2 [Aphis gossypii]
+XP_027846655.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-13   49.1   0.0   5.4e-13   49.1   0.0   4.9   3   1   0   3   3   2   1 beclin-1-like protein A isoform X1 [Aphis gossypii]
+XP_027846656.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-13   49.1   0.0   5.4e-13   49.1   0.0   4.9   3   1   0   3   3   2   1 beclin-1-like protein A isoform X1 [Aphis gossypii]
+XP_027837550.1       -          oskar_filtered.aligned.LOTUS_domain -            5.8e-11   42.6   0.2        12    6.2   0.0   7.8   5   2   3   8   8   8   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Aphis gossypii]
+XP_027837551.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-08   35.2   0.1        13    6.1   0.0   6.8   5   2   2   7   7   7   0 meiosis regulator and mRNA stability factor 1 isoform X2 [Aphis gossypii]
+XP_027842505.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00038   20.7   2.6    0.0053   17.1   0.2   3.0   2   1   0   2   2   2   1 tudor domain-containing protein 5-like, partial [Aphis gossypii]
+XP_027852703.1       -          oskar_filtered.aligned.LOTUS_domain -                1.3    9.3   4.2        16    5.9   0.2   2.7   3   0   0   3   3   3   0 uncharacterized protein LOC114131642, partial [Aphis gossypii]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_004010815.1_ASM401081v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_004010815.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_004010815.1_ASM401081v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:35 2019
+# [ok]

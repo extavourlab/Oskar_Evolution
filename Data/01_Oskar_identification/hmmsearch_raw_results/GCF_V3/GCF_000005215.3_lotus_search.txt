@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002031969.1       -          oskar_filtered.aligned.LOTUS_domain -            8.5e-26   90.1   0.1   4.9e-25   87.6   0.1   2.4   2   0   0   2   2   2   1 GM23770 [Drosophila sechellia]
+XP_002033825.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-13   50.9   0.0   5.4e-13   49.0   0.0   2.0   2   0   0   2   2   2   1 GM20217 [Drosophila sechellia]
+XP_002034675.1       -          oskar_filtered.aligned.LOTUS_domain -              3e-12   46.6   0.0     1e-11   44.9   0.0   1.9   1   0   0   1   1   1   1 GM22008 [Drosophila sechellia]
+XP_002042340.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-07   31.9   0.2   2.9e-07   30.6   0.0   1.8   1   1   1   2   2   2   1 GM13340 [Drosophila sechellia]
+XP_002042369.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-07   31.3   0.2   4.6e-07   29.9   0.0   1.8   1   1   0   2   2   2   1 GM13504 [Drosophila sechellia]
+XP_002042437.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-05   24.5   0.0   2.7e-05   24.3   0.0   1.2   1   0   0   1   1   1   1 GM23351 [Drosophila sechellia]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005215.3_dsec_caf1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005215.3_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005215.3_dsec_caf1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:31 2019
+# [ok]

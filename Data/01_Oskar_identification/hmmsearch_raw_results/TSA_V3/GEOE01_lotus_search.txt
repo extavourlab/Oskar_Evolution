@@ -1,0 +1,25 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOE01212379.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-19   74.7   0.0   5.3e-19   74.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Enteucha acetosae TR167790-c0_g1_i1 transcribed RNA sequence
+GEOE01123305.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.4e-05   29.5   0.0   0.00013   28.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Enteucha acetosae TR68969-c0_g5_i6 transcribed RNA sequence
+GEOE01123309.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00011   28.5   0.0   0.00025   27.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Enteucha acetosae TR68969-c0_g5_i9 transcribed RNA sequence
+GEOE01201341.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.079   19.4   0.4     0.079   19.4   0.4   1.5   2   0   0   2   2   2   0 TSA: Enteucha acetosae TR153234-c0_g1_i1 transcribed RNA sequence
+GEOE01045604.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.9   14.9   1.0       4.1   13.9   1.0   1.6   1   1   0   1   1   1   0 TSA: Enteucha acetosae TR25480-c1_g1_i1 transcribed RNA sequence
+GEOE01130701.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.5   14.6   0.2       5.3   13.5   0.2   1.5   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR74064-c0_g1_i1 transcribed RNA sequence
+GEOE01123303.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.6   14.6   0.0       4.9   13.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR68969-c0_g5_i2 transcribed RNA sequence
+GEOE01147094.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.3   14.2   0.0       3.6   14.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR83271-c4_g6_i4 transcribed RNA sequence
+GEOE01234602.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.7   13.7   0.1         6   13.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR197049-c0_g2_i1 transcribed RNA sequence
+GEOE01007135.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.3   13.5   2.3         6   13.4   2.3   1.1   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR4003-c0_g1_i1 transcribed RNA sequence
+GEOE01092985.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  6   13.4   0.1        65   10.0   0.0   2.2   1   1   1   2   2   2   0 TSA: Enteucha acetosae TR52292-c0_g1_i2 transcribed RNA sequence
+GEOE01234601.1_4     -          oskar_filtered.aligned.LOTUS_domain -                6.3   13.3   0.1       8.8   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Enteucha acetosae TR197049-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:37 2019
+# [ok]

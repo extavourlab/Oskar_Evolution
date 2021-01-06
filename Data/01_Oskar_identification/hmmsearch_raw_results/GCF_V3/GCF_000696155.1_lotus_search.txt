@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_021915680.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-20   73.7   0.0   1.3e-18   67.8   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Zootermopsis nevadensis]
+XP_021915681.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-20   73.7   0.0   1.3e-18   67.8   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Zootermopsis nevadensis]
+XP_021915682.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-20   73.7   0.0   1.3e-18   67.8   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Zootermopsis nevadensis]
+XP_021933718.1       -          oskar_filtered.aligned.LOTUS_domain -              8e-14   52.5   0.0     1e-13   52.1   0.0   1.1   1   0   0   1   1   1   1 tudor domain-containing protein 5 [Zootermopsis nevadensis]
+XP_021942541.1       -          oskar_filtered.aligned.LOTUS_domain -            9.4e-07   29.8   0.0       6.7    7.8   0.0   5.3   2   1   2   5   5   5   2 meiosis regulator and mRNA stability factor 1 isoform X3 [Zootermopsis nevadensis]
+XP_021942540.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-06   28.3   0.0       8.5    7.4   0.0   5.2   2   1   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Zootermopsis nevadensis]
+XP_021942537.1       -          oskar_filtered.aligned.LOTUS_domain -            3.1e-06   28.1   0.0       8.8    7.4   0.0   5.2   2   1   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Zootermopsis nevadensis]
+XP_021942539.1       -          oskar_filtered.aligned.LOTUS_domain -            3.1e-06   28.1   0.0       8.8    7.4   0.0   5.2   2   1   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Zootermopsis nevadensis]
+XP_021933727.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0023   18.9   0.0      0.79   10.8   0.0   2.9   2   0   0   2   2   2   1 uncharacterized protein LOC110836631 [Zootermopsis nevadensis]
+XP_021933728.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0023   18.9   0.0      0.79   10.8   0.0   2.9   2   0   0   2   2   2   1 uncharacterized protein LOC110836631 [Zootermopsis nevadensis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000696155.1_ZooNev1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000696155.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000696155.1_ZooNev1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:49 2019
+# [ok]

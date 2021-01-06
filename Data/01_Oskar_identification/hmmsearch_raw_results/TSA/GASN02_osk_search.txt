@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASN02060982.1_2     -          OSK_CONSENSUS        -            6.8e-30  108.2   0.0   8.6e-30  107.9   0.0   1.1   1   0   0   1   1   1   1 TSA: Thermobia domestica s3299_L_3387_0_a_11_5_l_648 transcribed RNA sequence
+GASN02055948.1_1     -          OSK_CONSENSUS        -            1.9e-26   97.0   0.0   2.6e-26   96.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Thermobia domestica s14280_L_40179_0_a_21_9_l_1115 transcribed RNA sequence
+GASN02019321.1_2     -          OSK_CONSENSUS        -            5.5e-12   50.0   0.0   7.4e-12   49.6   0.0   1.1   1   0   0   1   1   1   1 TSA: Thermobia domestica C165984_a_10_0_l_302 transcribed RNA sequence
+GASN02024372.1_2     -          OSK_CONSENSUS        -            0.00011   26.3   0.0   0.00018   25.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Thermobia domestica C181008_a_23_0_l_357 transcribed RNA sequence
+GASN02010868.1_2     -          OSK_CONSENSUS        -             0.0017   22.4   0.0    0.0019   22.3   0.0   1.0   1   0   0   1   1   1   1 TSA: Thermobia domestica C142164_a_3_0_l_245 transcribed RNA sequence
+GASN02021456.1_1     -          OSK_CONSENSUS        -               0.28   15.2   1.2      0.36   14.9   1.2   1.2   1   0   0   1   1   1   0 TSA: Thermobia domestica C172281_a_9_0_l_324 transcribed RNA sequence
+GASN02049735.1_5     -          OSK_CONSENSUS        -               0.41   14.7   0.4       1.1   13.3   0.4   1.7   1   0   0   1   1   1   0 TSA: Thermobia domestica C258559_a_40_0_l_2206 transcribed RNA sequence
+GASN02065641.1_5     -          OSK_CONSENSUS        -               0.72   13.9   0.0       1.7   12.7   0.0   1.6   1   0   0   1   1   1   0 TSA: Thermobia domestica s7521_L_9814_1_a_13_2_l_1435 transcribed RNA sequence
+GASN02062529.1_4     -          OSK_CONSENSUS        -                1.1   13.3   0.2       1.1   13.3   0.2   1.9   2   0   0   2   2   2   0 TSA: Thermobia domestica s4696_L_5247_0_a_4_3_l_1041 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASN02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASN02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASN02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:25 2019
+# [ok]

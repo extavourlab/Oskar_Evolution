@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBDZ01018146.1_1     -          oskar_filtered.aligned.OSK_domain -            1.7e-27  101.3   0.3   2.3e-27  100.9   0.3   1.2   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis a63133;17 transcribed RNA sequence
+GBDZ01046757.1_1     -          oskar_filtered.aligned.OSK_domain -               0.28   15.8   0.1      0.32   15.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis a220623;8 transcribed RNA sequence
+GBDZ01055590.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   14.0   0.9       1.6   13.4   0.0   1.7   1   1   1   2   2   2   0 TSA: Locusta migratoria manilensis a278043;5 transcribed RNA sequence
+GBDZ01079681.1_5     -          oskar_filtered.aligned.OSK_domain -                1.6   13.4   0.1       1.8   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis a505071;4 transcribed RNA sequence
+GBDZ01088744.1_1     -          oskar_filtered.aligned.OSK_domain -                2.6   12.7   0.0         3   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis a686858;3 transcribed RNA sequence
+GBDZ01019643.1_6     -          oskar_filtered.aligned.OSK_domain -                3.7   12.2   0.2       5.9   11.5   0.2   1.2   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis a71686;15 transcribed RNA sequence
+GBDZ01068018.1_3     -          oskar_filtered.aligned.OSK_domain -                  5   11.8   0.0       5.7   11.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis a372375;5 transcribed RNA sequence
+GBDZ01016113.1_5     -          oskar_filtered.aligned.OSK_domain -                7.5   11.2   7.0        28    9.3   7.0   2.0   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis a51452;19 transcribed RNA sequence
+GBDZ01103221.1_5     -          oskar_filtered.aligned.OSK_domain -                  8   11.1   2.8       8.3   11.1   2.8   1.0   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis a1662702;2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBDZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:47 2019
+# [ok]

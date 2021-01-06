@@ -1,0 +1,31 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOV01051192.1_6     -          oskar_filtered.aligned.OSK_domain -               0.52   15.9   0.3      0.65   15.6   0.3   1.1   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR48634-c1_g1_i2 transcribed RNA sequence
+GEOV01060205.1_3     -          oskar_filtered.aligned.OSK_domain -               0.92   15.1   0.5       1.1   14.9   0.5   1.2   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR55615-c6_g1_i1 transcribed RNA sequence
+GEOV01060206.1_2     -          oskar_filtered.aligned.OSK_domain -               0.96   15.1   0.8       1.1   14.9   0.8   1.1   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR55615-c6_g2_i1 transcribed RNA sequence
+GEOV01051550.1_3     -          oskar_filtered.aligned.OSK_domain -                1.3   14.7   0.1       1.5   14.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR48740-c2_g2_i1 transcribed RNA sequence
+GEOV01044427.1_6     -          oskar_filtered.aligned.OSK_domain -                1.3   14.7   0.2       1.5   14.4   0.2   1.3   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR43533-c0_g1_i1 transcribed RNA sequence
+GEOV01007031.1_4     -          oskar_filtered.aligned.OSK_domain -                1.4   14.6   0.5       1.4   14.5   0.5   1.1   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR9620-c0_g1_i1 transcribed RNA sequence
+GEOV01025292.1_1     -          oskar_filtered.aligned.OSK_domain -                2.4   13.8   3.5        71    9.0   0.4   2.2   2   0   0   2   2   2   0 TSA: Tegeticula yuccasella TR27949-c0_g1_i4 transcribed RNA sequence
+GEOV01171188.1_3     -          oskar_filtered.aligned.OSK_domain -                2.7   13.6   0.5       3.1   13.4   0.5   1.2   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR149255-c0_g2_i1 transcribed RNA sequence
+GEOV01115173.1_1     -          oskar_filtered.aligned.OSK_domain -                2.8   13.5   0.0       3.3   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR99445-c0_g1_i1 transcribed RNA sequence
+GEOV01154746.1_1     -          oskar_filtered.aligned.OSK_domain -                2.9   13.5   0.0       5.2   12.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR134470-c0_g1_i1 transcribed RNA sequence
+GEOV01128693.1_6     -          oskar_filtered.aligned.OSK_domain -                3.8   13.1   0.0       6.2   12.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR110884-c0_g2_i2 transcribed RNA sequence
+GEOV01128692.1_6     -          oskar_filtered.aligned.OSK_domain -                4.5   12.9   0.0       7.5   12.2   0.0   1.3   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR110884-c0_g2_i1 transcribed RNA sequence
+GEOV01139551.1_4     -          oskar_filtered.aligned.OSK_domain -                5.3   12.7   0.0       7.2   12.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR120790-c0_g1_i1 transcribed RNA sequence
+GEOV01027634.1_1     -          oskar_filtered.aligned.OSK_domain -                5.8   12.5   0.0       5.8   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR29206-c2_g5_i1 transcribed RNA sequence
+GEOV01083085.1_4     -          oskar_filtered.aligned.OSK_domain -                6.3   12.4   0.1       6.4   12.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR74602-c0_g4_i1 transcribed RNA sequence
+GEOV01002578.1_2     -          oskar_filtered.aligned.OSK_domain -                7.7   12.1   0.8   2.7e+02    7.1   0.1   2.1   2   0   0   2   2   2   0 TSA: Tegeticula yuccasella TR3504-c0_g1_i1 transcribed RNA sequence
+GEOV01112247.1_3     -          oskar_filtered.aligned.OSK_domain -                8.2   12.0   0.0       8.8   11.9   0.0   1.0   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR97213-c2_g3_i1 transcribed RNA sequence
+GEOV01143198.1_4     -          oskar_filtered.aligned.OSK_domain -                8.5   12.0   2.2        11   11.6   2.2   1.2   1   0   0   1   1   1   0 TSA: Tegeticula yuccasella TR124147-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:52 2019
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011165902.2       -          oskar_filtered.aligned.OSK_domain -            1.4e-59  201.4   3.8   3.7e-59  200.0   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC105200173 [Solenopsis invicta]
+XP_025997400.1       -          oskar_filtered.aligned.OSK_domain -            2.4e-21   76.7   7.0   1.2e-20   74.4   7.0   1.9   1   1   0   1   1   1   1 uncharacterized protein LOC113005745 [Solenopsis invicta]
+XP_011175260.1       -          oskar_filtered.aligned.OSK_domain -              7e-20   72.0   0.0   1.3e-19   71.1   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC105207466 [Solenopsis invicta]
+XP_025997191.1       -          oskar_filtered.aligned.OSK_domain -            8.8e-09   35.8   0.0   9.7e-09   35.6   0.0   1.0   1   0   0   1   1   1   1 uncharacterized protein LOC113005621 [Solenopsis invicta]
+XP_011160616.1       -          oskar_filtered.aligned.OSK_domain -              0.085   13.0   0.2      0.26   11.4   0.2   1.8   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X1 [Solenopsis invicta]
+XP_025990887.1       -          oskar_filtered.aligned.OSK_domain -              0.087   13.0   0.6      0.15   12.2   0.6   1.4   1   0   0   1   1   1   0 nudC domain-containing protein 1 isoform X2 [Solenopsis invicta]
+XP_011160617.1       -          oskar_filtered.aligned.OSK_domain -               0.09   12.9   0.2      0.24   11.5   0.2   1.7   1   0   0   1   1   1   0 regulator of G-protein signaling loco isoform X2 [Solenopsis invicta]
+XP_011160618.1       -          oskar_filtered.aligned.OSK_domain -              0.091   12.9   0.6      0.22   11.7   0.2   1.9   2   0   0   2   2   2   0 regulator of G-protein signaling loco isoform X3 [Solenopsis invicta]
+XP_025990886.1       -          oskar_filtered.aligned.OSK_domain -              0.095   12.8   0.6      0.17   12.0   0.6   1.4   1   0   0   1   1   1   0 nudC domain-containing protein 1 isoform X1 [Solenopsis invicta]
+XP_011160758.1       -          oskar_filtered.aligned.OSK_domain -                0.1   12.7   3.5     0.077   13.1   1.1   1.8   1   1   1   2   2   2   0 fas-associated death domain protein isoform X2 [Solenopsis invicta]
+XP_025993580.1       -          oskar_filtered.aligned.OSK_domain -                0.1   12.7   3.5     0.077   13.1   1.1   1.8   1   1   1   2   2   2   0 fas-associated death domain protein isoform X2 [Solenopsis invicta]
+XP_011160757.1       -          oskar_filtered.aligned.OSK_domain -               0.13   12.4   3.7      0.14   12.3   2.3   1.9   1   1   0   1   1   1   0 fas-associated death domain protein isoform X1 [Solenopsis invicta]
+XP_025992794.1       -          oskar_filtered.aligned.OSK_domain -                3.7    7.7   5.0       2.6    8.1   0.0   3.3   3   0   0   3   3   3   0 LOW QUALITY PROTEIN: dynein beta chain, ciliary [Solenopsis invicta]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000188075.2_Si_gnH_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000188075.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000188075.2_Si_gnH_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:02 2019
+# [ok]

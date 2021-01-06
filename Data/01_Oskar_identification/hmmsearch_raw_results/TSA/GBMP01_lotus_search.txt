@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMP01016188.1_3     -          LOTUS_CONSENSUS      -            3.3e-19   71.9   0.0   9.3e-19   70.4   0.0   1.9   1   0   0   1   1   1   1 TSA: Dasypoda hirtipes C78576_a_27_0_l_4357 transcribed RNA sequence
+GBMP01011761.1_6     -          LOTUS_CONSENSUS      -            1.7e-15   59.9   0.2   1.6e-14   56.9   0.0   2.1   2   0   0   2   2   2   1 TSA: Dasypoda hirtipes C61873_a_6_0_l_944 transcribed RNA sequence
+GBMP01001412.1_2     -          LOTUS_CONSENSUS      -                0.7   13.1   0.0       0.9   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Dasypoda hirtipes C29294_a_10_0_l_243 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:55 2019
+# [ok]

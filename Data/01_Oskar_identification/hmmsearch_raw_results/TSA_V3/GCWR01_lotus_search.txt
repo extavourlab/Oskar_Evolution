@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWR01038045.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-20   77.5   8.8   1.3e-11   48.7   0.0   4.7   4   1   1   5   5   5   3 TSA: Acrosternum hilare breed wildtype C238509_6_0, transcribed RNA sequence
+GCWR01038145.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-19   73.6   0.2     1e-18   71.4   0.1   2.2   2   0   0   2   2   2   1 TSA: Acrosternum hilare breed wildtype C238899_22_0, transcribed RNA sequence
+GCWR01035783.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-06   31.3   0.0       3.2   12.0   0.0   4.9   1   1   3   4   4   4   2 TSA: Acrosternum hilare breed wildtype C229141_3_0, transcribed RNA sequence
+GCWR01001615.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.11   16.7   0.1      0.13   16.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Acrosternum hilare breed wildtype C121036_2_0, transcribed RNA sequence
+GCWR01034838.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.79   14.0   1.7       1.9   12.8   1.7   1.6   1   0   0   1   1   1   0 TSA: Acrosternum hilare breed wildtype C225151_70_0, transcribed RNA sequence
+GCWR01028614.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.8   12.9   0.0       3.8   11.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Acrosternum hilare breed wildtype C200623_2_0_a, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:24 2019
+# [ok]

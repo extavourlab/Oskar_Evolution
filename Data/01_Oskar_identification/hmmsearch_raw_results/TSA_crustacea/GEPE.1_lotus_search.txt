@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPE01010598.1_6     -          LOTUS_CONSENSUS      -               0.63   14.5   0.1      0.83   14.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Acanthogammarus godlewskii c21697_g1_i1 transcribed RNA sequence
+GEPE01022112.1_2     -          LOTUS_CONSENSUS      -               0.86   14.1   0.0       1.7   13.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Acanthogammarus godlewskii c33819_g2_i1 transcribed RNA sequence
+GEPE01004107.1_2     -          LOTUS_CONSENSUS      -                1.4   13.4   0.7       8.3   10.9   0.7   1.9   1   1   0   1   1   1   0 TSA: Acanthogammarus godlewskii c8503_g1_i1 transcribed RNA sequence
+GEPE01037324.1_6     -          LOTUS_CONSENSUS      -                1.8   13.0   1.1       6.7   11.2   1.1   2.0   1   1   0   1   1   1   0 TSA: Acanthogammarus godlewskii c42224_g1_i1 transcribed RNA sequence
+GEPE01033970.1_6     -          LOTUS_CONSENSUS      -                2.8   12.4   0.1        10   10.7   0.1   1.9   1   0   0   1   1   1   0 TSA: Acanthogammarus godlewskii c41341_g1_i1 transcribed RNA sequence
+GEPE01031169.1_2     -          LOTUS_CONSENSUS      -                3.8   12.0   0.0       6.9   11.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Acanthogammarus godlewskii c40384_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPE.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPE.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPE.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:57 2019
+# [ok]

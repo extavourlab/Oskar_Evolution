@@ -1,0 +1,43 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENN01054735.1_4     -          LOTUS_CONSENSUS      -            2.1e-13   55.5   0.0   6.2e-12   50.8   0.0   2.6   2   0   0   2   2   2   1 TSA: Tineola bisselliella k70_212507 transcribed RNA sequence
+GENN01080611.1_4     -          LOTUS_CONSENSUS      -            2.1e-13   55.5   0.0   6.2e-12   50.8   0.0   2.6   2   0   0   2   2   2   1 TSA: Tineola bisselliella k80_185916 transcribed RNA sequence
+GENN01015934.1_2     -          LOTUS_CONSENSUS      -            2.9e-13   55.0   0.0   9.1e-12   50.2   0.0   2.8   3   0   0   3   3   2   1 TSA: Tineola bisselliella k52_300096 transcribed RNA sequence
+GENN01015935.1_2     -          LOTUS_CONSENSUS      -            4.4e-13   54.4   0.0   9.3e-12   50.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Tineola bisselliella k52_300097 transcribed RNA sequence
+GENN01109849.1_2     -          LOTUS_CONSENSUS      -            1.3e-12   52.9   0.0   1.5e-07   36.7   0.0   2.2   2   0   0   2   2   2   2 TSA: Tineola bisselliella k94_190167 transcribed RNA sequence
+GENN01017084.1_3     -          LOTUS_CONSENSUS      -            6.9e-12   50.6   0.0     7e-07   34.6   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_302087 transcribed RNA sequence
+GENN01047884.1_5     -          LOTUS_CONSENSUS      -              7e-12   50.6   0.0     7e-07   34.6   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k66_229035 transcribed RNA sequence
+GENN01084470.1_3     -          LOTUS_CONSENSUS      -            8.5e-12   50.3   0.0   6.1e-07   34.8   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k82_169927 transcribed RNA sequence
+GENN01084652.1_3     -          LOTUS_CONSENSUS      -            8.5e-12   50.3   0.0   6.1e-07   34.8   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k82_171034 transcribed RNA sequence
+GENN01084573.1_3     -          LOTUS_CONSENSUS      -            8.8e-12   50.3   0.0   6.3e-07   34.7   0.0   2.5   2   0   0   2   2   2   2 TSA: Tineola bisselliella k82_170536 transcribed RNA sequence
+GENN01011895.1_6     -          LOTUS_CONSENSUS      -            1.4e-11   49.7   0.0   8.3e-07   34.3   0.0   2.5   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_291745 transcribed RNA sequence
+GENN01014445.1_6     -          LOTUS_CONSENSUS      -            1.9e-11   49.2   0.0   1.2e-06   33.8   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_297292 transcribed RNA sequence
+GENN01040127.1_6     -          LOTUS_CONSENSUS      -            1.9e-11   49.2   0.0   1.2e-06   33.8   0.0   2.4   2   0   0   2   2   2   2 TSA: Tineola bisselliella k62_248632 transcribed RNA sequence
+GENN01007077.1_3     -          LOTUS_CONSENSUS      -            2.4e-05   29.6   0.0      0.28   16.6   0.0   2.5   2   0   0   2   2   2   2 TSA: Tineola bisselliella k52_219117 transcribed RNA sequence
+GENN01090898.1_1     -          LOTUS_CONSENSUS      -            6.8e-05   28.2   0.0   7.6e-05   28.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Tineola bisselliella k86_79829 transcribed RNA sequence
+GENN01008868.1_3     -          LOTUS_CONSENSUS      -            0.00021   26.6   0.0   0.00038   25.8   0.0   1.5   1   1   0   1   1   1   1 TSA: Tineola bisselliella k52_276529 transcribed RNA sequence
+GENN01106385.1_4     -          LOTUS_CONSENSUS      -             0.0072   21.7   0.0       2.9   13.3   0.0   2.5   2   0   0   2   2   2   1 TSA: Tineola bisselliella k92_90551 transcribed RNA sequence
+GENN01106227.1_3     -          LOTUS_CONSENSUS      -             0.0072   21.7   0.0       2.9   13.3   0.0   2.5   2   0   0   2   2   2   1 TSA: Tineola bisselliella k92_90196 transcribed RNA sequence
+GENN01106352.1_3     -          LOTUS_CONSENSUS      -             0.0075   21.7   0.0       3.1   13.3   0.0   2.5   2   0   0   2   2   2   1 TSA: Tineola bisselliella k92_90482 transcribed RNA sequence
+GENN01023368.1_4     -          LOTUS_CONSENSUS      -               0.35   16.3   0.2         1   14.8   0.1   1.8   2   0   0   2   2   2   0 TSA: Tineola bisselliella k54_285405 transcribed RNA sequence
+GENN01109493.1_6     -          LOTUS_CONSENSUS      -               0.39   16.1   0.0      0.84   15.1   0.0   1.5   2   0   0   2   2   1   0 TSA: Tineola bisselliella k94_188165 transcribed RNA sequence
+GENN01087807.1_3     -          LOTUS_CONSENSUS      -                1.3   14.5   0.4       2.5   13.6   0.1   1.7   2   0   0   2   2   1   0 TSA: Tineola bisselliella k84_149411 transcribed RNA sequence
+GENN01075472.1_1     -          LOTUS_CONSENSUS      -                2.9   13.4   0.4       4.9   12.6   0.4   1.4   1   0   0   1   1   1   0 TSA: Tineola bisselliella k78_196750 transcribed RNA sequence
+GENN01075649.1_6     -          LOTUS_CONSENSUS      -                2.9   13.4   0.4       4.9   12.6   0.4   1.4   1   0   0   1   1   1   0 TSA: Tineola bisselliella k78_197993 transcribed RNA sequence
+GENN01013046.1_1     -          LOTUS_CONSENSUS      -                3.7   13.0   0.5       7.8   12.0   0.5   1.6   1   0   0   1   1   1   0 TSA: Tineola bisselliella k52_294542 transcribed RNA sequence
+GENN01032828.1_1     -          LOTUS_CONSENSUS      -                3.7   13.0   0.5       7.8   12.0   0.5   1.6   1   0   0   1   1   1   0 TSA: Tineola bisselliella k58_265371 transcribed RNA sequence
+GENN01029192.1_5     -          LOTUS_CONSENSUS      -                3.9   13.0   0.6       9.9   11.6   0.6   1.7   1   0   0   1   1   1   0 TSA: Tineola bisselliella k56_282423 transcribed RNA sequence
+GENN01103400.1_5     -          LOTUS_CONSENSUS      -                4.4   12.8   0.4       9.8   11.7   0.4   1.6   1   0   0   1   1   1   0 TSA: Tineola bisselliella k92_22101 transcribed RNA sequence
+GENN01112667.1_6     -          LOTUS_CONSENSUS      -                  5   12.6   0.0        20   10.7   0.0   1.8   1   1   1   2   2   2   0 TSA: Tineola bisselliella k96_128003 transcribed RNA sequence
+GENN01104478.1_3     -          LOTUS_CONSENSUS      -                  7   12.1   0.0       9.7   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Tineola bisselliella k92_81297 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:20 2019
+# [ok]

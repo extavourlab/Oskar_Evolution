@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWB01017660.1_5     -          oskar_filtered.aligned.OSK_domain -            6.1e-53  182.0   0.1   9.2e-52  178.1   0.1   2.5   2   1   0   2   2   2   1 TSA: Philocaenus barbarus s4001_L_12927_1_a_56_1_l_2047 transcribed RNA sequence
+GBWB01013917.1_2     -          oskar_filtered.aligned.OSK_domain -            5.2e-07   32.2   0.2   1.8e-06   30.4   0.0   1.9   1   1   0   1   1   1   1 TSA: Philocaenus barbarus C79344_a_14_0_l_3471 transcribed RNA sequence
+GBWB01001760.1_5     -          oskar_filtered.aligned.OSK_domain -              0.044   16.1   0.4     0.055   15.8   0.4   1.1   1   0   0   1   1   1   0 TSA: Philocaenus barbarus C35763_a_8_0_l_246 transcribed RNA sequence
+GBWB01016537.1_3     -          oskar_filtered.aligned.OSK_domain -               0.15   14.4   0.6      0.36   13.2   0.6   1.6   1   0   0   1   1   1   0 TSA: Philocaenus barbarus s2985_L_8773_0_a_45_7_l_3112 transcribed RNA sequence
+GBWB01016486.1_2     -          oskar_filtered.aligned.OSK_domain -               0.34   13.2   0.4      0.59   12.5   0.4   1.4   1   0   0   1   1   1   0 TSA: Philocaenus barbarus s2939_L_8605_0_a_74_4_l_1907 transcribed RNA sequence
+GBWB01016488.1_2     -          oskar_filtered.aligned.OSK_domain -               0.35   13.2   0.4      0.56   12.5   0.4   1.3   1   0   0   1   1   1   0 TSA: Philocaenus barbarus s2940_L_8605_1_a_71_3_l_1859 transcribed RNA sequence
+GBWB01015233.1_1     -          oskar_filtered.aligned.OSK_domain -               0.37   13.1   0.4      0.49   12.7   0.4   1.3   1   0   0   1   1   1   0 TSA: Philocaenus barbarus s179_L_301_2_a_45_5_l_507 transcribed RNA sequence
+GBWB01015211.1_2     -          oskar_filtered.aligned.OSK_domain -               0.38   13.1   0.3      0.51   12.7   0.3   1.3   1   0   0   1   1   1   0 TSA: Philocaenus barbarus s177_L_301_0_a_47_1_l_517 transcribed RNA sequence
+GBWB01018736.1_4     -          oskar_filtered.aligned.OSK_domain -               0.45   12.8   4.3       0.2   14.0   1.5   1.9   2   0   0   2   2   2   0 TSA: Philocaenus barbarus s4973_L_17141_0_a_16_8_l_1938 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:37 2019
+# [ok]

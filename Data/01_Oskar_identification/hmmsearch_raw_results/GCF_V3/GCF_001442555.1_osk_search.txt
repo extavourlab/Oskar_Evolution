@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_016920280.1       -          oskar_filtered.aligned.OSK_domain -                0.7    9.7   4.5      0.19   11.6   0.3   2.0   2   0   0   2   2   2   0 uncharacterized protein LOC108002853 isoform X1 [Apis cerana]
+XP_016920281.1       -          oskar_filtered.aligned.OSK_domain -                0.7    9.7   4.5      0.19   11.6   0.3   2.0   2   0   0   2   2   2   0 uncharacterized protein LOC108002853 isoform X1 [Apis cerana]
+XP_028525043.1       -          oskar_filtered.aligned.OSK_domain -                0.7    9.7   4.5      0.19   11.6   0.3   2.0   2   0   0   2   2   2   0 uncharacterized protein LOC108002853 isoform X1 [Apis cerana]
+XP_028525044.1       -          oskar_filtered.aligned.OSK_domain -                0.7    9.7   4.5      0.19   11.6   0.3   2.0   2   0   0   2   2   2   0 uncharacterized protein LOC108002853 isoform X1 [Apis cerana]
+XP_028525045.1       -          oskar_filtered.aligned.OSK_domain -                0.7    9.7   4.5      0.19   11.6   0.3   2.0   2   0   0   2   2   2   0 uncharacterized protein LOC108002853 isoform X1 [Apis cerana]
+XP_028525046.1       -          oskar_filtered.aligned.OSK_domain -                9.4    6.1   8.4        33    4.3   8.4   2.0   1   1   0   1   1   1   0 uncharacterized protein LOC108002853 isoform X2 [Apis cerana]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001442555.1_ACSNU-2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001442555.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001442555.1_ACSNU-2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:53 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFWX01069597.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-21   80.3   0.0   9.1e-21   79.0   0.0   1.7   1   0   0   1   1   1   1 TSA: Ischnura elegans c575738_g1_i1 transcribed RNA sequence
+GFWX01002720.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-20   78.2   0.2   3.2e-20   77.3   0.2   1.4   1   0   0   1   1   1   1 TSA: Ischnura elegans Contig4594 transcribed RNA sequence
+GFWX01007320.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.018   20.3   0.0        31    9.9   0.0   3.0   3   0   0   3   3   3   0 TSA: Ischnura elegans Contig9819 transcribed RNA sequence
+GFWX01097969.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.18   17.1   0.1      0.24   16.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Ischnura elegans c746761_g1_i1 transcribed RNA sequence
+GFWX01095355.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.2   0.2       1.6   14.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Ischnura elegans c678830_g1_i1 transcribed RNA sequence
+GFWX01000468.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.6   14.0   0.3       3.8   12.8   0.3   1.6   1   0   0   1   1   1   0 TSA: Ischnura elegans Contig1614 transcribed RNA sequence
+GFWX01013409.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.1   13.7   0.0       2.6   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Ischnura elegans c37923_g1_i1 transcribed RNA sequence
+GFWX01010883.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.2   13.6   0.3       5.1   12.4   0.2   1.6   2   0   0   2   2   2   0 TSA: Ischnura elegans Contig18266 transcribed RNA sequence
+GFWX01054013.1_3     -          oskar_filtered.aligned.LOTUS_domain -                4.1   12.7   0.5       6.7   12.0   0.5   1.4   1   0   0   1   1   1   0 TSA: Ischnura elegans c557445_g1_i1 transcribed RNA sequence
+GFWX01033932.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.5   12.3   0.0       6.3   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Ischnura elegans c435382_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFWX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:18 2019
+# [ok]

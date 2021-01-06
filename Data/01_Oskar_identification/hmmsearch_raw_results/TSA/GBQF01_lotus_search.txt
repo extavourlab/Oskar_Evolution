@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQF01001558.1_6     -          LOTUS_CONSENSUS      -            5.8e-19   71.5   0.3   3.5e-18   69.0   0.0   2.5   2   0   0   2   2   2   1 TSA: Bombus rupestris C106090_a_35_0_l_3852 transcribed RNA sequence
+GBQF01018902.1_6     -          LOTUS_CONSENSUS      -            3.9e-14   56.0   2.7   4.8e-14   55.7   0.6   2.2   2   0   0   2   2   2   1 TSA: Bombus rupestris C87570_a_13_0_l_960 transcribed RNA sequence
+GBQF01010093.1_2     -          LOTUS_CONSENSUS      -             0.0018   21.8   0.0    0.0054   20.3   0.0   1.7   1   1   1   2   2   2   1 TSA: Bombus rupestris C58158_a_8_0_l_356 transcribed RNA sequence
+GBQF01001741.1_1     -          LOTUS_CONSENSUS      -             0.0052   20.3   0.0        72    7.0   0.0   5.4   3   1   2   5   5   5   1 TSA: Bombus rupestris C106792_a_42_0_l_4872 transcribed RNA sequence
+GBQF01018724.1_3     -          LOTUS_CONSENSUS      -               0.11   16.0   3.2      0.12   16.0   0.1   2.5   3   0   0   3   3   3   0 TSA: Bombus rupestris C86932_a_16_0_l_936 transcribed RNA sequence
+GBQF01015481.1_6     -          LOTUS_CONSENSUS      -                0.4   14.3   0.1      0.78   13.4   0.1   1.4   1   0   0   1   1   1   0 TSA: Bombus rupestris C75550_a_3_0_l_602 transcribed RNA sequence
+GBQF01022499.1_6     -          LOTUS_CONSENSUS      -                1.1   12.8   1.6        19    8.9   0.1   2.6   2   0   0   2   2   2   0 TSA: Bombus rupestris s1307_L_1359_1_a_27_1_l_1652 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:34 2019
+# [ok]

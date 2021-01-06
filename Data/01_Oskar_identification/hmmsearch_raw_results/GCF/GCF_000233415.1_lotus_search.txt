@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_016961451.1       -          LOTUS_CONSENSUS      -            3.5e-25   88.5   0.0     2e-24   86.0   0.1   2.3   3   0   0   3   3   3   1 PREDICTED: maternal effect protein oskar [Drosophila biarmipes]
+XP_016967701.1       -          LOTUS_CONSENSUS      -              1e-11   45.3   0.0   3.5e-11   43.6   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Drosophila biarmipes]
+XP_016957535.1       -          LOTUS_CONSENSUS      -            2.6e-10   40.8   0.3   1.1e-09   38.8   0.0   2.2   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108029639 isoform X4 [Drosophila biarmipes]
+XP_016957536.1       -          LOTUS_CONSENSUS      -            2.6e-10   40.8   0.3   1.1e-09   38.8   0.0   2.2   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108029639 isoform X4 [Drosophila biarmipes]
+XP_016957534.1       -          LOTUS_CONSENSUS      -            2.7e-10   40.8   0.3   1.1e-09   38.8   0.0   2.2   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108029639 isoform X3 [Drosophila biarmipes]
+XP_016957531.1       -          LOTUS_CONSENSUS      -            3.9e-10   40.3   0.3   1.5e-09   38.4   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108029639 isoform X1 [Drosophila biarmipes]
+XP_016963414.1       -          LOTUS_CONSENSUS      -             0.0005   20.7   0.0   0.00061   20.4   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108033579 [Drosophila biarmipes]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000233415.1_Dbia_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000233415.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000233415.1_Dbia_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:56 2019
+# [ok]

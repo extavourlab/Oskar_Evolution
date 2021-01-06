@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012239358.1       -          LOTUS_CONSENSUS      -            6.9e-20   71.5   0.2   7.3e-19   68.3   0.0   2.8   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Bombus impatiens]
+XP_024222458.1       -          LOTUS_CONSENSUS      -            6.9e-20   71.5   0.2   7.3e-19   68.3   0.0   2.8   2   0   0   2   2   2   1 tudor domain-containing protein 7 [Bombus impatiens]
+XP_024224502.1       -          LOTUS_CONSENSUS      -            2.8e-15   56.8   1.6   2.3e-13   50.7   0.4   5.3   6   0   0   6   6   3   2 uncharacterized protein MAL13P1.304 isoform X3 [Bombus impatiens]
+XP_012243012.1       -          LOTUS_CONSENSUS      -            3.9e-15   56.3   1.6   2.6e-13   50.5   0.4   5.7   6   0   0   6   6   3   2 protein PF14_0175 isoform X2 [Bombus impatiens]
+XP_024224501.1       -          LOTUS_CONSENSUS      -            4.7e-15   56.1   1.6   2.8e-13   50.4   0.4   5.6   6   0   0   6   6   3   2 uncharacterized protein MAL13P1.304 isoform X1 [Bombus impatiens]
+XP_012247714.1       -          LOTUS_CONSENSUS      -            0.00015   22.4   0.0       2.8    8.7   0.0   5.6   3   1   3   6   6   6   1 meiosis regulator and mRNA stability factor 1 isoform X9 [Bombus impatiens]
+XP_024227259.1       -          LOTUS_CONSENSUS      -            0.00034   21.3   0.0       3.7    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X8 [Bombus impatiens]
+XP_012247711.1       -          LOTUS_CONSENSUS      -            0.00035   21.2   0.0       3.8    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X4 [Bombus impatiens]
+XP_024227257.1       -          LOTUS_CONSENSUS      -            0.00035   21.2   0.0       3.8    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Bombus impatiens]
+XP_012247712.1       -          LOTUS_CONSENSUS      -            0.00036   21.2   0.0       3.8    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X6 [Bombus impatiens]
+XP_012247713.1       -          LOTUS_CONSENSUS      -            0.00036   21.2   0.0       3.7    8.3   0.0   5.5   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X7 [Bombus impatiens]
+XP_012247710.1       -          LOTUS_CONSENSUS      -            0.00037   21.1   0.0       3.8    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Bombus impatiens]
+XP_024227258.1       -          LOTUS_CONSENSUS      -            0.00037   21.1   0.0       3.8    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X5 [Bombus impatiens]
+XP_024227255.1       -          LOTUS_CONSENSUS      -            0.00038   21.1   0.0       3.8    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Bombus impatiens]
+XP_024227256.1       -          LOTUS_CONSENSUS      -            0.00038   21.1   0.0       3.8    8.3   0.0   5.6   4   1   1   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Bombus impatiens]
+XP_003489741.1       -          LOTUS_CONSENSUS      -               0.18   12.6   0.3       1.3    9.7   0.1   2.5   2   0   0   2   2   2   0 FAD synthase [Bombus impatiens]
+XP_003493603.1       -          LOTUS_CONSENSUS      -               0.18   12.6   0.0      0.42   11.3   0.0   1.6   1   0   0   1   1   1   0 maltase 2-like [Bombus impatiens]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000188095.3_BIMP_2.2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000188095.3_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000188095.3_BIMP_2.2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:00 2019
+# [ok]

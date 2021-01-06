@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFSE01069737.1_6     -          LOTUS_CONSENSUS      -            9.8e-26   94.4   0.3   2.7e-25   93.0   0.0   1.7   2   0   0   2   2   2   1 TSA: Gampsocleis gratiosa Unigene51967_chengchongA transcribed RNA sequence
+GFSE01046454.1_2     -          LOTUS_CONSENSUS      -            1.3e-21   81.2   0.0   1.9e-21   80.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Gampsocleis gratiosa Unigene28679_chengchongA transcribed RNA sequence
+GFSE01022889.1_4     -          LOTUS_CONSENSUS      -              0.002   22.9   0.0     0.003   22.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Gampsocleis gratiosa Unigene5111_chengchongA transcribed RNA sequence
+GFSE01031101.1_2     -          LOTUS_CONSENSUS      -              0.013   20.3   0.0     0.013   20.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Gampsocleis gratiosa Unigene13325_chengchongA transcribed RNA sequence
+GFSE01016288.1_5     -          LOTUS_CONSENSUS      -                0.7   14.8   0.0   5.6e+02    5.4   0.0   3.3   2   1   2   4   4   4   0 TSA: Gampsocleis gratiosa CL9287.Contig1_chengchongA transcribed RNA sequence
+GFSE01016312.1_2     -          LOTUS_CONSENSUS      -                1.2   14.0   0.0       2.6   12.9   0.0   1.5   1   0   0   1   1   1   0 TSA: Gampsocleis gratiosa CL9308.Contig1_chengchongA transcribed RNA sequence
+GFSE01026910.1_1     -          LOTUS_CONSENSUS      -                1.5   13.7   0.0       2.4   13.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Gampsocleis gratiosa Unigene9134_chengchongA transcribed RNA sequence
+GFSE01050809.1_4     -          LOTUS_CONSENSUS      -                1.8   13.4   0.0       4.4   12.2   0.0   1.6   2   0   0   2   2   2   0 TSA: Gampsocleis gratiosa Unigene33035_chengchongA transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFSE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFSE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFSE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:16 2019
+# [ok]

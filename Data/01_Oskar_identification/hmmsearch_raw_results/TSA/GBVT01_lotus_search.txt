@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVT01029227.1_5     -          LOTUS_CONSENSUS      -            5.8e-21   78.1   0.0   1.7e-20   76.6   0.0   1.8   1   0   0   1   1   1   1 TSA: Netelia testacea s3409_L_6754_0_a_17_8_l_1703 transcribed RNA sequence
+GBVT01029572.1_6     -          LOTUS_CONSENSUS      -            8.6e-13   51.9   0.0   3.1e-12   50.1   0.0   2.0   2   0   0   2   2   2   1 TSA: Netelia testacea s3730_L_7691_0_a_13_4_l_4376 transcribed RNA sequence
+GBVT01035534.1_4     -          LOTUS_CONSENSUS      -               0.21   15.4   0.0        54    7.7   0.0   2.7   2   1   0   2   2   2   0 TSA: Netelia testacea s9314_L_36721_0_a_15_7_l_1831 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:24 2019
+# [ok]

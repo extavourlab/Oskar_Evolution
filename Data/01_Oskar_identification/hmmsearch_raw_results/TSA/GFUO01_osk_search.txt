@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUO01002968.1_5     -          OSK_CONSENSUS        -            0.00014   24.4   0.0   0.00016   24.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Aspidytes niobe breed wildtype C54422_a_4_0_l_225, transcribed RNA sequence
+GFUO01010458.1_5     -          OSK_CONSENSUS        -               0.16   14.4   0.4      0.25   13.8   0.4   1.2   1   0   0   1   1   1   0 TSA: Aspidytes niobe breed wildtype C80209_a_4_0_l_581, transcribed RNA sequence
+GFUO01013610.1_5     -          OSK_CONSENSUS        -                0.3   13.6   0.0       1.2   11.6   0.0   2.0   3   0   0   3   3   3   0 TSA: Aspidytes niobe breed wildtype C93184_a_53_0_l_1172, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:49 2019
+# [ok]

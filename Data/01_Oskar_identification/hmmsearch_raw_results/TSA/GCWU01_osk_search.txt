@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWU01027988.1_1     -          OSK_CONSENSUS        -            1.9e-32  116.0   0.0   3.8e-32  115.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype C253760_5_0, transcribed RNA sequence
+GCWU01045207.1_2     -          OSK_CONSENSUS        -            2.1e-30  109.4   0.3   3.4e-30  108.7   0.3   1.4   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s7770_L_16345_0_51_9_FORK, transcribed RNA sequence
+GCWU01038433.1_5     -          OSK_CONSENSUS        -            3.2e-27   99.0   0.0   7.2e-27   97.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s18003_L_58085_0_32_9_LINEAR, transcribed RNA sequence
+GCWU01037375.1_5     -          OSK_CONSENSUS        -            6.5e-08   36.3   1.0   1.3e-07   35.3   1.0   1.5   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s17050_L_53303_0_4_7_LINEAR_a, transcribed RNA sequence
+GCWU01043333.1_2     -          OSK_CONSENSUS        -            0.00058   23.4   0.0    0.0011   22.5   0.0   1.4   1   0   0   1   1   1   1 TSA: Aclerda sp. AD-2014 breed wildtype s6082_L_12022_0_5_9_LINEAR, transcribed RNA sequence
+GCWU01035757.1_3     -          OSK_CONSENSUS        -              0.035   17.6   0.0     0.061   16.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Aclerda sp. AD-2014 breed wildtype s15590_L_46740_0_4_2_LINEAR, transcribed RNA sequence
+GCWU01024500.1_2     -          OSK_CONSENSUS        -               0.46   14.0   0.4       1.3   12.5   0.1   1.7   2   0   0   2   2   2   0 TSA: Aclerda sp. AD-2014 breed wildtype C229960_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:54 2019
+# [ok]

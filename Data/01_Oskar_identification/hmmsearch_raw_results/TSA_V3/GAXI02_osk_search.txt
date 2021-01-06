@@ -1,0 +1,14 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXI02005736.1_4     -          oskar_filtered.aligned.OSK_domain -                1.4   12.4   0.4       1.6   12.2   0.4   1.1   1   0   0   1   1   1   0 TSA: Tetrodontophora bielanensis C117550_a_3_0_l_318 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GAXI02.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GAXI02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GAXI02.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:39 2019
+# [ok]

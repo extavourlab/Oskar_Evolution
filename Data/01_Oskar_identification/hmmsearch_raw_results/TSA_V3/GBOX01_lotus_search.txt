@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOX01031979.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-26   94.3   0.6   2.3e-25   92.1   0.0   2.5   3   0   0   3   3   3   1 TSA: Quartinia thebaica s9327_L_26269_0_a_57_9_l_3486 transcribed RNA sequence
+GBOX01022627.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-06   29.4   0.0        14    9.4   0.0   5.3   2   1   3   5   5   5   2 TSA: Quartinia thebaica s10088_L_31838_0_a_18_1_l_2802 transcribed RNA sequence
+GBOX01010708.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.17   15.5   0.1      0.23   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Quartinia thebaica C56992_a_3_0_l_255 transcribed RNA sequence
+GBOX01029114.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.99   13.1   0.3        35    8.1   0.1   3.0   3   0   0   3   3   3   0 TSA: Quartinia thebaica s6743_L_14479_1_a_52_5_l_1564 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:49 2019
+# [ok]

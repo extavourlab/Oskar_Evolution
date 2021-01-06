@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_013176763.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-14   54.1   1.2   1.2e-13   51.4   0.0   2.5   3   0   0   3   3   2   1 PREDICTED: tudor domain-containing protein 7 [Papilio xuthus]
+XP_013176764.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-14   54.1   1.2   1.2e-13   51.4   0.0   2.5   3   0   0   3   3   2   1 PREDICTED: tudor domain-containing protein 7 [Papilio xuthus]
+XP_013176765.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-14   54.1   1.2   1.2e-13   51.4   0.0   2.5   3   0   0   3   3   2   1 PREDICTED: tudor domain-containing protein 7 [Papilio xuthus]
+XP_013162477.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-14   53.2   0.0   2.9e-09   37.4   0.0   2.4   2   0   0   2   2   2   2 PREDICTED: uncharacterized protein LOC106113964 [Papilio xuthus]
+XP_013163858.1       -          oskar_filtered.aligned.LOTUS_domain -              0.006   17.1   1.0     0.012   16.1   1.0   1.6   1   0   0   1   1   1   1 PREDICTED: NEDD8-activating enzyme E1 catalytic subunit-like [Papilio xuthus]
+XP_013174254.1       -          oskar_filtered.aligned.LOTUS_domain -              0.019   15.5   1.5     0.044   14.3   1.5   1.7   1   0   0   1   1   1   0 PREDICTED: NEDD8-activating enzyme E1 catalytic subunit-like [Papilio xuthus]
+XP_013163278.1       -          oskar_filtered.aligned.LOTUS_domain -               0.02   15.5   0.2      0.04   14.5   0.2   1.4   1   0   0   1   1   1   0 PREDICTED: collagen alpha-5(IV) chain-like [Papilio xuthus]
+XP_013163962.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   14.2   1.4      0.11   13.0   1.2   1.8   1   1   0   1   1   1   0 PREDICTED: NEDD8-activating enzyme E1 catalytic subunit-like [Papilio xuthus]
+XP_013171300.1       -          oskar_filtered.aligned.LOTUS_domain -              0.085   13.4   0.8       0.2   12.2   0.8   1.7   1   0   0   1   1   1   0 PREDICTED: NEDD8-activating enzyme E1 catalytic subunit-like [Papilio xuthus]
+XP_013180456.1       -          oskar_filtered.aligned.LOTUS_domain -              0.093   13.3   0.3       0.2   12.2   0.1   1.6   2   0   0   2   2   2   0 PREDICTED: DPH4 homolog [Papilio xuthus]
+XP_013173641.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.6   0.7      0.26   11.9   0.3   1.7   2   0   0   2   2   2   0 PREDICTED: oligoribonuclease, mitochondrial isoform X2 [Papilio xuthus]
+XP_013173642.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.6   0.7      0.26   11.9   0.3   1.7   2   0   0   2   2   2   0 PREDICTED: oligoribonuclease, mitochondrial isoform X2 [Papilio xuthus]
+XP_013178910.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.6   3.8       3.2    8.4   1.4   3.3   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106126015 isoform X2 [Papilio xuthus]
+XP_013178909.1       -          oskar_filtered.aligned.LOTUS_domain -               0.19   12.3   3.8       3.6    8.2   1.4   3.3   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106126015 isoform X1 [Papilio xuthus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836235.1_Pxut_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000836235.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000836235.1_Pxut_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:53 2019
+# [ok]

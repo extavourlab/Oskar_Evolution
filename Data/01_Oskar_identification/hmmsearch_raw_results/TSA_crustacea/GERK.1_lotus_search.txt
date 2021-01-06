@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERK01036969.1_2     -          LOTUS_CONSENSUS      -              3e-05   28.6   0.0       0.6   14.8   0.0   2.1   2   0   0   2   2   2   2 TSA: Parapallasea borowskii c58391_g1_i1 transcribed RNA sequence
+GERK01062408.1_1     -          LOTUS_CONSENSUS      -               0.55   15.0   0.1      0.68   14.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Parapallasea borowskii c75866_g1_i1 transcribed RNA sequence
+GERK01044098.1_5     -          LOTUS_CONSENSUS      -               0.72   14.6   0.1       2.5   12.9   0.1   1.9   1   0   0   1   1   1   0 TSA: Parapallasea borowskii c60559_g1_i2 transcribed RNA sequence
+GERK01044097.1_5     -          LOTUS_CONSENSUS      -               0.74   14.6   0.1       2.6   12.8   0.1   1.9   1   0   0   1   1   1   0 TSA: Parapallasea borowskii c60559_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERK.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERK.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERK.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:48 2019
+# [ok]

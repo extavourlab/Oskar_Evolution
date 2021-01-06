@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBX01051186.1_3     -          oskar_filtered.aligned.LOTUS_domain -              1e-15   61.8   0.2   3.1e-10   44.2   0.0   3.4   3   0   0   3   3   3   2 TSA: Rhagadochir virgo breed breeding s9495_L_11900_0_a_10_7_l_1213, transcribed RNA sequence
+GDBX01051187.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-15   59.6   2.2   3.5e-10   44.0   0.0   3.5   4   0   0   4   4   4   2 TSA: Rhagadochir virgo breed breeding s9496_L_11900_1_a_10_7_l_1299, transcribed RNA sequence
+GDBX01040432.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-05   27.3   0.0        63    7.9   0.0   5.3   3   1   3   6   6   6   2 TSA: Rhagadochir virgo breed breeding s1965_L_2041_0_a_12_3_l_5009, transcribed RNA sequence
+GDBX01040454.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-05   27.3   0.0        63    7.9   0.0   5.3   3   1   3   6   6   6   2 TSA: Rhagadochir virgo breed breeding s1967_L_2041_2_a_12_0_l_5009, transcribed RNA sequence
+GDBX01016609.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00017   25.8   0.1   0.00021   25.5   0.1   1.2   1   0   0   1   1   1   1 TSA: Rhagadochir virgo breed breeding C250536_a_3_0_l_370, transcribed RNA sequence
+GDBX01049317.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.23   15.7   0.2      0.39   15.0   0.2   1.6   1   1   0   1   1   1   0 TSA: Rhagadochir virgo breed breeding s7811_L_9324_2_a_10_5_l_514, transcribed RNA sequence
+GDBX01012525.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.7   12.9   0.9        43    8.4   0.2   2.0   2   0   0   2   2   2   0 TSA: Rhagadochir virgo breed breeding C234248_a_9_0_l_304, transcribed RNA sequence
+GDBX01045914.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.9   12.8   0.2       4.6   11.6   0.2   1.6   1   0   0   1   1   1   0 TSA: Rhagadochir virgo breed breeding s4743_L_5144_0_a_16_6_l_3211, transcribed RNA sequence
+GDBX01045915.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.9   12.8   0.2       4.6   11.6   0.2   1.6   1   0   0   1   1   1   0 TSA: Rhagadochir virgo breed breeding s4744_L_5144_1_a_16_2_l_3211, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:28 2019
+# [ok]

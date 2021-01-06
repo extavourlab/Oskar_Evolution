@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDLH01026512.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-20   76.3   0.0   1.6e-17   66.9   0.0   3.6   2   0   0   2   2   2   1 TSA: Cybister lateralimarginalis breed wildtype s4694_L_6840_1_a_22_4_l_3722, transcribed RNA sequence
+GDLH01026511.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-20   76.2   0.0   1.4e-17   67.0   0.0   3.3   2   0   0   2   2   2   1 TSA: Cybister lateralimarginalis breed wildtype s4693_L_6840_0_a_23_5_l_3460, transcribed RNA sequence
+GDLH01021052.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-19   73.9   0.4   1.7e-19   73.3   0.4   1.3   1   0   0   1   1   1   1 TSA: Cybister lateralimarginalis breed wildtype C95278_a_3_0_l_509, transcribed RNA sequence
+GDLH01030083.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.022   18.3   0.1        34    8.1   0.0   2.9   3   0   0   3   3   3   0 TSA: Cybister lateralimarginalis breed wildtype s7911_L_22521_0_a_22_5_l_1477, transcribed RNA sequence
+GDLH01022676.1_5     -          oskar_filtered.aligned.LOTUS_domain -                0.2   15.2   0.4      0.56   13.8   0.4   1.7   1   0   0   1   1   1   0 TSA: Cybister lateralimarginalis breed wildtype s1225_L_1272_1_a_8_8_l_2157, transcribed RNA sequence
+GDLH01023366.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.38   14.3   0.1      0.86   13.2   0.1   1.5   1   0   0   1   1   1   0 TSA: Cybister lateralimarginalis breed wildtype s1849_L_1956_0_a_5_5_l_1304, transcribed RNA sequence
+GDLH01003324.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.55   13.8   1.9       1.8   12.1   0.6   2.3   2   0   0   2   2   2   0 TSA: Cybister lateralimarginalis breed wildtype C111473_a_3_0_l_967, transcribed RNA sequence
+GDLH01001355.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.3   12.6   0.0       2.2   11.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Cybister lateralimarginalis breed wildtype C104723_a_35_0_l_717, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDLH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:28 2019
+# [ok]

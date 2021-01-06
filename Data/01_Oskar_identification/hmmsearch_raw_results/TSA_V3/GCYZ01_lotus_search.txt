@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYZ01038441.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.6e-20   74.6   0.1   9.6e-20   74.6   0.1   2.0   2   0   0   2   2   1   1 TSA: Trichocorixa calva breed wildtype s19781_L_60855_0_27_3_LINEAR, transcribed RNA sequence
+GCYZ01020870.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-13   52.9   0.0   7.1e-13   52.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Trichocorixa calva breed wildtype C354493_4_0, transcribed RNA sequence
+GCYZ01043839.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-10   43.8   0.0      0.55   14.4   0.0   5.8   1   1   5   6   6   6   3 TSA: Trichocorixa calva breed wildtype s6758_L_11189_2_33_4_COMPLEX, transcribed RNA sequence
+GCYZ01043837.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-09   41.6   0.0      0.74   14.0   0.0   5.8   1   1   3   4   4   4   3 TSA: Trichocorixa calva breed wildtype s6756_L_11189_0_33_8_COMPLEX, transcribed RNA sequence
+GCYZ01043838.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-09   41.2   0.0      0.83   13.8   0.0   5.7   1   1   3   4   4   4   3 TSA: Trichocorixa calva breed wildtype s6757_L_11189_1_33_2_COMPLEX, transcribed RNA sequence
+GCYZ01021295.1_3     -          oskar_filtered.aligned.LOTUS_domain -              2e-05   28.7   0.0      0.29   15.3   0.0   2.1   2   0   0   2   2   2   2 TSA: Trichocorixa calva breed wildtype C356711_4_0, transcribed RNA sequence
+GCYZ01029604.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.018   19.2   0.0     0.024   18.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Trichocorixa calva breed wildtype s11820_L_24701_0_5_0_LINEAR, transcribed RNA sequence
+GCYZ01009501.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.039   18.1   0.7     0.043   18.0   0.7   1.1   1   0   0   1   1   1   0 TSA: Trichocorixa calva breed wildtype C305887_3_0, transcribed RNA sequence
+GCYZ01032651.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.57   14.3   0.9         1   13.5   0.9   1.4   1   0   0   1   1   1   0 TSA: Trichocorixa calva breed wildtype s14566_L_34517_0_6_8_LINEAR, transcribed RNA sequence
+GCYZ01005208.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.95   13.6   1.6       1.1   13.4   1.6   1.1   1   0   0   1   1   1   0 TSA: Trichocorixa calva breed wildtype C289377_3_0, transcribed RNA sequence
+GCYZ01029324.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.5   0.5       1.9   12.7   0.5   1.4   1   0   0   1   1   1   0 TSA: Trichocorixa calva breed wildtype s11569_L_23766_1_7_9_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:28 2019
+# [ok]

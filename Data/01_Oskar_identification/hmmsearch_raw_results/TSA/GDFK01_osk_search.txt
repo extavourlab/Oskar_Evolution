@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFK01042953.1_1     -          OSK_CONSENSUS        -            9.4e-26   94.5   0.1     2e-25   93.4   0.0   1.6   2   0   0   2   2   2   1 TSA: Embidopsocus sp. AD-2014 breed wildtype C195380_a_20_0_l_1126, transcribed RNA sequence
+GDFK01037369.1_6     -          OSK_CONSENSUS        -            1.4e-16   64.7   0.0   1.7e-16   64.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Embidopsocus sp. AD-2014 breed wildtype C181826_a_4_0_l_480, transcribed RNA sequence
+GDFK01048780.1_2     -          OSK_CONSENSUS        -              0.041   17.7   0.2     0.055   17.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Embidopsocus sp. AD-2014 breed wildtype C92064_a_5_0_l_240, transcribed RNA sequence
+GDFK01038777.1_2     -          OSK_CONSENSUS        -              0.063   17.1   0.0     0.084   16.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Embidopsocus sp. AD-2014 breed wildtype C185120_a_8_0_l_539, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:58 2019
+# [ok]

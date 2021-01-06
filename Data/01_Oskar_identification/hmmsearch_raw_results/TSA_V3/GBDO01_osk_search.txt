@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBDO01043074.1_2     -          oskar_filtered.aligned.OSK_domain -            3.3e-27   99.5   0.5   4.2e-27   99.2   0.5   1.3   1   0   0   1   1   1   1 TSA: Kerria lacca L_4127_T_3/3_C_0.714_L_1286 transcribed RNA sequence
+GBDO01003330.1_1     -          oskar_filtered.aligned.OSK_domain -            1.3e-20   78.0   0.3   1.9e-20   77.5   0.3   1.3   1   0   0   1   1   1   1 TSA: Kerria lacca L_4127_T_2/3_C_0.571_L_1375 transcribed RNA sequence
+GBDO01047781.1_1     -          oskar_filtered.aligned.OSK_domain -            2.4e-20   77.2   0.0   3.3e-20   76.7   0.0   1.3   1   1   0   1   1   1   1 TSA: Kerria lacca L_4127_T_1/3_C_0.571_L_1189 transcribed RNA sequence
+GBDO01048082.1_4     -          oskar_filtered.aligned.OSK_domain -                1.5   12.6   0.5       3.4   11.4   0.5   1.6   1   0   0   1   1   1   0 TSA: Kerria lacca L_8646_T_8/9_C_0.225_L_2089 transcribed RNA sequence
+GBDO01041233.1_6     -          oskar_filtered.aligned.OSK_domain -                1.5   12.6   0.3       2.9   11.7   0.3   1.5   1   0   0   1   1   1   0 TSA: Kerria lacca L_8646_T_5/9_C_0.400_L_1980 transcribed RNA sequence
+GBDO01023894.1_6     -          oskar_filtered.aligned.OSK_domain -                1.5   12.6   0.4       2.8   11.7   0.4   1.4   1   0   0   1   1   1   0 TSA: Kerria lacca L_8646_T_4/9_C_0.225_L_1905 transcribed RNA sequence
+GBDO01001245.1_4     -          oskar_filtered.aligned.OSK_domain -                1.7   12.5   0.4       3.2   11.5   0.4   1.5   1   0   0   1   1   1   0 TSA: Kerria lacca L_8646_T_1/9_C_0.375_L_2035 transcribed RNA sequence
+GBDO01003774.1_3     -          oskar_filtered.aligned.OSK_domain -                  2   12.2   0.2       2.9   11.7   0.1   1.4   1   1   0   1   1   1   0 TSA: Kerria lacca L_31878_T_1/1_C_1.000_L_526 transcribed RNA sequence
+GBDO01034177.1_5     -          oskar_filtered.aligned.OSK_domain -                3.7   11.3   4.3         9   10.1   4.3   1.7   1   1   0   1   1   1   0 TSA: Kerria lacca L_1611_T_2/4_C_0.700_L_1675 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBDO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:40 2019
+# [ok]

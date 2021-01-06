@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDVQ01014190.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.75   14.3   0.0      0.89   14.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Therea bernhardti breed wildtype C153064_a_4_0_l_246, transcribed RNA sequence
+GDVQ01032510.1_5     -          oskar_filtered.aligned.LOTUS_domain -                0.9   14.0   0.6       1.4   13.5   0.6   1.3   1   0   0   1   1   1   0 TSA: Therea bernhardti breed wildtype C204829_a_3_0_l_461, transcribed RNA sequence
+GDVQ01039402.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.6   0.1         2   12.9   0.1   1.5   1   0   0   1   1   1   0 TSA: Therea bernhardti breed wildtype C225002_a_4_0_l_696, transcribed RNA sequence
+GDVQ01036183.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.5   0.4       2.3   12.7   0.4   1.3   1   0   0   1   1   1   0 TSA: Therea bernhardti breed wildtype C215443_a_3_0_l_558, transcribed RNA sequence
+GDVQ01049843.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.2   12.2   0.0        12   10.4   0.0   1.9   2   0   0   2   2   2   0 TSA: Therea bernhardti breed wildtype s1308_L_1516_1_a_19_0_l_1691, transcribed RNA sequence
+GDVQ01010934.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.7   11.4   3.8        22    9.6   3.8   1.8   1   1   0   1   1   1   0 TSA: Therea bernhardti breed wildtype C145467_a_3_0_l_237, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDVQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDVQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDVQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:36 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCKB01013806.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-24   87.7   0.0   1.3e-23   86.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Aethina tumida AtumUni_13810 transcribed RNA sequence
+GCKB01022911.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-18   69.3   0.2   4.5e-18   69.1   0.2   1.1   1   0   0   1   1   1   1 TSA: Aethina tumida AtumUni_22920 transcribed RNA sequence
+GCKB01007909.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-17   67.6   0.1   1.3e-17   67.6   0.1   1.8   2   0   0   2   2   2   1 TSA: Aethina tumida AtumUni_7911 transcribed RNA sequence
+GCKB01006908.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0025   21.8   0.3       1.5   12.8   0.0   2.5   3   0   0   3   3   3   2 TSA: Aethina tumida AtumUni_6910 transcribed RNA sequence
+GCKB01021227.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.27   15.2   3.6      0.41   14.7   3.1   1.8   1   1   1   2   2   2   0 TSA: Aethina tumida AtumUni_21234 transcribed RNA sequence
+GCKB01011100.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.27   15.2   0.0      0.57   14.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Aethina tumida AtumUni_11102 transcribed RNA sequence
+GCKB01010287.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.27   15.2   3.1      0.32   15.0   0.2   2.2   2   0   0   2   2   2   0 TSA: Aethina tumida AtumUni_10289 transcribed RNA sequence
+GCKB01004606.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.55   14.2   0.0   6.4e+02    4.4   0.0   3.9   2   1   2   4   4   4   0 TSA: Aethina tumida AtumUni_4608 transcribed RNA sequence
+GCKB01021196.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.7   12.7   0.0       2.6   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Aethina tumida AtumUni_21203 transcribed RNA sequence
+GCKB01008688.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.5   12.2   0.0       5.4   11.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Aethina tumida AtumUni_8690 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCKB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCKB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCKB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:29 2019
+# [ok]

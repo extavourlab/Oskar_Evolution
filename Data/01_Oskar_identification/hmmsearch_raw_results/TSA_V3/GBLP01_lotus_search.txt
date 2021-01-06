@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLP01016861.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   54.4   0.2   2.7e-13   53.1   0.0   1.7   2   0   0   2   2   2   1 TSA: Diglyphus isaea C91531_a_4_0_l_753 transcribed RNA sequence
+GBLP01026220.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-12   50.9   0.0   1.2e-11   47.8   0.0   2.7   3   0   0   3   3   3   1 TSA: Diglyphus isaea s7581_L_26900_0_a_28_0_l_3855 transcribed RNA sequence
+GBLP01026080.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-07   34.5   0.0      0.19   15.1   0.0   5.4   2   1   3   5   5   5   1 TSA: Diglyphus isaea s7454_L_25060_0_a_17_7_l_4863 transcribed RNA sequence
+GBLP01003828.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0013   22.0   0.1    0.0074   19.6   0.1   2.4   1   0   0   1   1   1   1 TSA: Diglyphus isaea C114553_a_31_0_l_3324 transcribed RNA sequence
+GBLP01025919.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.51   13.7   0.0       1.5   12.2   0.0   1.8   1   0   0   1   1   1   0 TSA: Diglyphus isaea s7309_L_23814_0_a_13_0_l_2891 transcribed RNA sequence
+GBLP01014664.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.6   13.5   0.7       1.7   12.0   0.2   1.9   2   0   0   2   2   2   0 TSA: Diglyphus isaea C82593_a_6_0_l_537 transcribed RNA sequence
+GBLP01007788.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.69   13.3   0.1      0.84   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Diglyphus isaea C57619_a_6_0_l_252 transcribed RNA sequence
+GBLP01006344.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   12.6   0.0        20    8.6   0.0   2.0   1   1   0   2   2   2   0 TSA: Diglyphus isaea C53957_a_3_0_l_241 transcribed RNA sequence
+GBLP01010428.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.4   12.3   0.0       1.8   11.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Diglyphus isaea C66583_a_3_0_l_323 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:58 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVL01017091.1_5     -          LOTUS_CONSENSUS      -            1.1e-18   70.3   0.0   6.9e-18   67.7   0.0   2.3   2   0   0   2   2   2   1 TSA: Passaloecus eremita C90069_a_25_0_l_4517 transcribed RNA sequence
+GBVL01017244.1_6     -          LOTUS_CONSENSUS      -            1.3e-06   31.6   0.0      0.91   12.9   0.0   6.0   2   1   3   5   5   5   1 TSA: Passaloecus eremita C90569_a_42_0_l_5583 transcribed RNA sequence
+GBVL01011984.1_4     -          LOTUS_CONSENSUS      -              0.089   16.1   1.2      0.54   13.6   0.2   2.4   2   0   0   2   2   2   0 TSA: Passaloecus eremita C69671_a_3_0_l_884 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:02 2019
+# [ok]

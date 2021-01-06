@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_019880291.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-24   86.1   0.0     4e-24   84.8   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC109608315 [Aethina tumida]
+XP_019872660.1       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-19   67.8   0.1   4.9e-18   65.2   0.1   2.5   2   0   0   2   2   1   1 PREDICTED: tudor domain-containing protein 7A-like isoform X2 [Aethina tumida]
+XP_019872659.1       -          oskar_filtered.aligned.LOTUS_domain -            8.3e-19   67.7   0.1     5e-18   65.2   0.1   2.4   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like isoform X1 [Aethina tumida]
+XP_019872661.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-18   66.0   0.1   1.6e-17   63.6   0.1   2.4   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like isoform X3 [Aethina tumida]
+XP_019872662.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-18   66.0   0.1   1.6e-17   63.6   0.1   2.4   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like isoform X3 [Aethina tumida]
+XP_019872663.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-18   66.0   0.1   1.6e-17   63.6   0.1   2.4   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like isoform X3 [Aethina tumida]
+XP_019881502.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-06   27.6   0.0      0.69   10.2   0.0   5.9   4   2   2   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X3 [Aethina tumida]
+XP_019881499.1       -          oskar_filtered.aligned.LOTUS_domain -            8.5e-06   25.9   0.0      0.91    9.8   0.0   5.9   4   2   2   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X1 [Aethina tumida]
+XP_019881500.1       -          oskar_filtered.aligned.LOTUS_domain -            8.7e-06   25.9   0.0      0.91    9.8   0.0   5.9   4   2   2   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X2 [Aethina tumida]
+XP_019876687.1       -          oskar_filtered.aligned.LOTUS_domain -              0.013   15.7   0.0     0.029   14.6   0.0   1.5   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC109604608 [Aethina tumida]
+XP_019868979.1       -          oskar_filtered.aligned.LOTUS_domain -              0.029   14.6   3.7     0.054   13.7   2.8   2.1   1   1   1   2   2   2   0 PREDICTED: FGFR1 oncogene partner 2 homolog isoform X1 [Aethina tumida]
+XP_019873539.1       -          oskar_filtered.aligned.LOTUS_domain -              0.029   14.6   3.7     0.054   13.7   2.8   2.1   1   1   1   2   2   2   0 PREDICTED: LOW QUALITY PROTEIN: FGFR1 oncogene partner 2 homolog [Aethina tumida]
+XP_019868980.1       -          oskar_filtered.aligned.LOTUS_domain -               0.03   14.5   3.7     0.053   13.8   2.9   2.1   1   1   0   1   1   1   0 PREDICTED: FGFR1 oncogene partner 2 homolog isoform X2 [Aethina tumida]
+XP_019866582.1       -          oskar_filtered.aligned.LOTUS_domain -              0.051   13.8   0.3        25    5.2   0.0   3.4   3   1   0   3   3   3   0 PREDICTED: annexin B11-like isoform X2 [Aethina tumida]
+XP_019868932.1       -          oskar_filtered.aligned.LOTUS_domain -              0.051   13.8   0.3        25    5.2   0.0   3.4   3   1   0   3   3   3   0 PREDICTED: annexin B11-like [Aethina tumida]
+XP_019868933.1       -          oskar_filtered.aligned.LOTUS_domain -              0.051   13.8   0.3        25    5.2   0.0   3.4   3   1   0   3   3   3   0 PREDICTED: annexin B11-like [Aethina tumida]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001937115.1_Atum_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001937115.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001937115.1_Atum_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:43 2019
+# [ok]

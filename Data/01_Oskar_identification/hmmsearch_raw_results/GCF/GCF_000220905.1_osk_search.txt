@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012146958.1       -          OSK_CONSENSUS        -               0.13   12.4   0.4      0.42   10.8   0.3   2.0   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X4 [Megachile rotundata]
+XP_012146955.1       -          OSK_CONSENSUS        -               0.15   12.2   0.5      0.49   10.5   0.3   2.0   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X2 [Megachile rotundata]
+XP_003707096.2       -          OSK_CONSENSUS        -               0.15   12.2   4.3      0.87    9.7   0.1   3.7   4   0   0   4   4   4   0 PREDICTED: pentatricopeptide repeat-containing protein 1, mitochondrial [Megachile rotundata]
+XP_003705980.1       -          OSK_CONSENSUS        -               0.16   12.1   0.4      0.49   10.5   0.3   1.9   2   0   0   2   2   2   0 PREDICTED: regulator of G-protein signaling loco isoform X1 [Megachile rotundata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000220905.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000220905.1_MROT_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:01 2019
+# [ok]

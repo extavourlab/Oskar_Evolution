@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDLF01013001.1_1     -          LOTUS_CONSENSUS      -            7.4e-17   63.8   0.1   4.5e-13   51.6   0.0   3.0   2   0   0   2   2   2   2 TSA: Calosoma frigidum breed wildtype s3013_L_5570_0_a_13_3_l_3493, transcribed RNA sequence
+GDLF01015062.1_6     -          LOTUS_CONSENSUS      -               0.33   13.6   0.2      0.76   12.4   0.1   1.8   1   1   1   2   2   2   0 TSA: Calosoma frigidum breed wildtype s610_L_535_0_a_15_6_l_519, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDLF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:34 2019
+# [ok]

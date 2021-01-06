@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGKQ01037795.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-20   77.4   0.8   1.3e-17   69.6   0.1   2.8   2   0   0   2   2   2   1 TSA: Dendroctonus ponderosae comp1658_c0_seq2 transcribed RNA sequence
+GGKQ01037794.1_4     -          oskar_filtered.aligned.LOTUS_domain -            7.6e-20   76.7   0.7   1.7e-17   69.2   0.1   2.8   2   0   0   2   2   2   1 TSA: Dendroctonus ponderosae comp1658_c0_seq1 transcribed RNA sequence
+GGKQ01031723.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-18   73.1   1.0   6.5e-15   60.9   0.0   3.2   3   0   0   3   3   3   2 TSA: Dendroctonus ponderosae comp725_c1_seq4 transcribed RNA sequence
+GGKQ01031722.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-18   73.1   1.0   6.6e-15   60.9   0.0   3.2   3   0   0   3   3   3   2 TSA: Dendroctonus ponderosae comp725_c1_seq3 transcribed RNA sequence
+GGKQ01031721.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-18   73.1   1.0   6.6e-15   60.9   0.0   3.2   3   0   0   3   3   3   2 TSA: Dendroctonus ponderosae comp725_c1_seq2 transcribed RNA sequence
+GGKQ01031720.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-18   73.0   1.0   6.7e-15   60.9   0.0   3.2   3   0   0   3   3   3   2 TSA: Dendroctonus ponderosae comp725_c1_seq1 transcribed RNA sequence
+GGKQ01129231.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-15   61.4   0.0   1.1e-14   60.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Dendroctonus ponderosae comp4098_c0_seq1 transcribed RNA sequence
+GGKQ01101844.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-05   29.7   7.7        46   10.0   0.0   5.2   4   2   1   6   6   5   3 TSA: Dendroctonus ponderosae comp3393_c0_seq2 transcribed RNA sequence
+GGKQ01101843.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-05   29.6   7.5        50    9.9   0.0   5.1   4   2   1   6   6   5   3 TSA: Dendroctonus ponderosae comp3393_c0_seq1 transcribed RNA sequence
+GGKQ01003298.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.1   15.2   0.1       1.2   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Dendroctonus ponderosae comp14398_c0_seq8 transcribed RNA sequence
+GGKQ01050179.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.2   15.1   0.0       2.5   14.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Dendroctonus ponderosae comp9861_c0_seq3 transcribed RNA sequence
+GGKQ01005224.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.6   14.0   0.2       2.8   13.9   0.2   1.2   1   0   0   1   1   1   0 TSA: Dendroctonus ponderosae comp61466_c0_seq1 transcribed RNA sequence
+GGKQ01079287.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.5   13.6   0.0       6.5   12.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Dendroctonus ponderosae comp18360_c0_seq3 transcribed RNA sequence
+GGKQ01132425.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  4   13.4   0.2       8.5   12.4   0.2   1.5   1   0   0   1   1   1   0 TSA: Dendroctonus ponderosae comp4490_c0_seq1 transcribed RNA sequence
+GGKQ01111311.1_5     -          oskar_filtered.aligned.LOTUS_domain -                4.9   13.2   0.2       9.4   12.2   0.2   1.5   1   0   0   1   1   1   0 TSA: Dendroctonus ponderosae comp20378_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGKQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:49:20 2019
+# [ok]

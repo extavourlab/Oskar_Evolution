@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBR01048457.1_6     -          oskar_filtered.aligned.OSK_domain -            3.4e-26   96.1   0.0   4.6e-26   95.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Phaeophilacris bredoides breed breeding s5690_L_15210_0_a_6_3_l_855, transcribed RNA sequence
+GDBR01014602.1_5     -          oskar_filtered.aligned.OSK_domain -               0.21   15.3   0.2      0.21   15.3   0.2   1.7   2   0   0   2   2   2   0 TSA: Phaeophilacris bredoides breed breeding C137510_a_3_0_l_1073, transcribed RNA sequence
+GDBR01042913.1_1     -          oskar_filtered.aligned.OSK_domain -               0.87   13.2   0.1      0.96   13.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Phaeophilacris bredoides breed breeding C99028_a_4_0_l_438, transcribed RNA sequence
+GDBR01032104.1_1     -          oskar_filtered.aligned.OSK_domain -                1.9   12.1   0.2       2.1   12.0   0.2   1.0   1   0   0   1   1   1   0 TSA: Phaeophilacris bredoides breed breeding C71452_a_3_0_l_283, transcribed RNA sequence
+GDBR01038286.1_6     -          oskar_filtered.aligned.OSK_domain -                2.4   11.8   0.2       2.3   11.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Phaeophilacris bredoides breed breeding C87325_a_3_0_l_362, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:02 2019
+# [ok]

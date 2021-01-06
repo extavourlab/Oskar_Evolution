@@ -1,0 +1,91 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g33579.t1            -          OSK_CONSENSUS        -            2.1e-32  115.4   0.0   3.4e-32  114.7   0.0   1.3   1   0   0   1   1   1   1 -
+g159203.t1           -          OSK_CONSENSUS        -            1.7e-21   80.0   0.1   2.2e-06   30.8   0.0   3.4   2   1   1   3   3   3   3 -
+g124151.t1           -          OSK_CONSENSUS        -            1.6e-17   67.0   0.0   2.2e-17   66.6   0.0   1.2   1   0   0   1   1   1   1 -
+g94656.t1            -          OSK_CONSENSUS        -            3.5e-17   65.9   0.0   4.2e-17   65.7   0.0   1.0   1   0   0   1   1   1   1 -
+g133154.t1           -          OSK_CONSENSUS        -            3.9e-17   65.8   0.0     5e-17   65.4   0.0   1.1   1   0   0   1   1   1   1 -
+g112530.t1           -          OSK_CONSENSUS        -            4.5e-17   65.6   0.0   5.5e-17   65.3   0.0   1.0   1   0   0   1   1   1   1 -
+g185355.t1           -          OSK_CONSENSUS        -            1.1e-16   64.4   0.0   1.5e-16   63.9   0.0   1.2   1   0   0   1   1   1   1 -
+g67205.t1            -          OSK_CONSENSUS        -            2.2e-16   63.3   0.0   4.9e-16   62.2   0.0   1.6   1   0   0   1   1   1   1 -
+g139034.t1           -          OSK_CONSENSUS        -            2.7e-14   56.5   0.0   3.4e-14   56.2   0.0   1.1   1   0   0   1   1   1   1 -
+g698.t1              -          OSK_CONSENSUS        -            3.7e-13   52.9   0.0   5.2e-13   52.4   0.0   1.1   1   0   0   1   1   1   1 -
+g189167.t1           -          OSK_CONSENSUS        -            1.4e-12   51.0   0.0   1.8e-12   50.6   0.0   1.1   1   0   0   1   1   1   1 -
+g156290.t1           -          OSK_CONSENSUS        -            1.4e-10   44.5   0.0   1.9e-10   44.0   0.0   1.2   1   0   0   1   1   1   1 -
+g31815.t1            -          OSK_CONSENSUS        -            2.2e-09   40.6   0.0   2.4e-09   40.4   0.0   1.0   1   0   0   1   1   1   1 -
+g75926.t1            -          OSK_CONSENSUS        -            8.3e-08   35.5   0.0   1.1e-07   35.1   0.0   1.1   1   0   0   1   1   1   1 -
+g79569.t1            -          OSK_CONSENSUS        -            1.1e-07   35.0   0.0   1.5e-07   34.6   0.0   1.2   1   0   0   1   1   1   1 -
+g149480.t1           -          OSK_CONSENSUS        -            1.4e-05   28.3   0.0   2.1e-05   27.7   0.0   1.2   1   0   0   1   1   1   1 -
+g159201.t1           -          OSK_CONSENSUS        -            2.8e-05   27.3   0.1   3.1e-05   27.1   0.1   1.1   1   0   0   1   1   1   1 -
+g137795.t1           -          OSK_CONSENSUS        -            3.5e-05   26.9   0.0   3.9e-05   26.8   0.0   1.0   1   0   0   1   1   1   1 -
+g119782.t1           -          OSK_CONSENSUS        -            6.1e-05   26.2   1.2   9.2e-05   25.6   1.2   1.3   1   0   0   1   1   1   1 -
+g109819.t1           -          OSK_CONSENSUS        -             0.0001   25.4   0.0   0.00012   25.2   0.0   1.1   1   0   0   1   1   1   1 -
+g23477.t1            -          OSK_CONSENSUS        -            0.00018   24.7   0.0   0.00024   24.2   0.0   1.1   1   0   0   1   1   1   1 -
+g93197.t1            -          OSK_CONSENSUS        -              0.001   22.2   0.0     0.014   18.5   0.0   2.0   2   0   0   2   2   2   1 -
+g68491.t1            -          OSK_CONSENSUS        -             0.0016   21.5   0.1    0.0028   20.8   0.1   1.4   1   0   0   1   1   1   1 -
+g116683.t1           -          OSK_CONSENSUS        -             0.0025   20.9   0.0    0.0032   20.6   0.0   1.2   1   0   0   1   1   1   1 -
+g111559.t1           -          OSK_CONSENSUS        -             0.0025   20.9   0.7    0.0059   19.7   0.1   1.8   2   0   0   2   2   1   1 -
+g37121.t1            -          OSK_CONSENSUS        -             0.0063   19.6   0.0    0.0078   19.3   0.0   1.1   1   0   0   1   1   1   1 -
+g99803.t1            -          OSK_CONSENSUS        -             0.0069   19.5   0.0     0.091   15.8   0.0   1.9   1   1   1   2   2   2   1 -
+g23087.t1            -          OSK_CONSENSUS        -              0.017   18.2   0.0     0.025   17.7   0.0   1.2   1   0   0   1   1   1   0 -
+g122134.t1           -          OSK_CONSENSUS        -               0.02   18.0   0.2      0.04   17.0   0.2   1.4   1   0   0   1   1   1   0 -
+g195999.t1           -          OSK_CONSENSUS        -              0.023   17.8   0.0     0.097   15.7   0.0   1.8   1   1   1   2   2   2   0 -
+g40903.t1            -          OSK_CONSENSUS        -              0.024   17.7   0.0     0.037   17.1   0.0   1.2   1   0   0   1   1   1   0 -
+g57723.t1            -          OSK_CONSENSUS        -              0.029   17.5   0.4     0.035   17.2   0.4   1.1   1   0   0   1   1   1   0 -
+g190711.t1           -          OSK_CONSENSUS        -              0.045   16.8   0.1     0.094   15.8   0.1   1.4   1   0   0   1   1   1   0 -
+g39837.t1            -          OSK_CONSENSUS        -              0.092   15.8   0.0     0.099   15.7   0.0   1.0   1   0   0   1   1   1   0 -
+g640.t1              -          OSK_CONSENSUS        -               0.11   15.6   0.0      0.28   14.3   0.0   1.7   1   0   0   1   1   1   0 -
+g52611.t1            -          OSK_CONSENSUS        -               0.11   15.5   0.0      0.17   15.0   0.0   1.2   1   0   0   1   1   1   0 -
+g81092.t1            -          OSK_CONSENSUS        -               0.12   15.5   0.0      0.16   15.1   0.0   1.2   1   0   0   1   1   1   0 -
+g14456.t1            -          OSK_CONSENSUS        -               0.13   15.3   0.0      0.29   14.2   0.0   1.5   1   0   0   1   1   1   0 -
+g180464.t1           -          OSK_CONSENSUS        -               0.18   14.9   0.0      0.27   14.3   0.0   1.3   1   0   0   1   1   1   0 -
+g163017.t1           -          OSK_CONSENSUS        -               0.18   14.9   0.0       1.3   12.1   0.0   1.9   1   1   1   2   2   2   0 -
+g49162.t1            -          OSK_CONSENSUS        -               0.22   14.6   0.0      0.31   14.1   0.0   1.2   1   0   0   1   1   1   0 -
+g34584.t1            -          OSK_CONSENSUS        -               0.27   14.3   0.2       5.4   10.1   0.2   2.2   2   0   0   2   2   2   0 -
+g156620.t1           -          OSK_CONSENSUS        -               0.32   14.1   0.0      0.68   13.0   0.0   1.5   1   1   0   1   1   1   0 -
+g189157.t1           -          OSK_CONSENSUS        -               0.33   14.0   0.0       0.5   13.4   0.0   1.3   1   0   0   1   1   1   0 -
+g7061.t1             -          OSK_CONSENSUS        -               0.33   14.0   0.3        23    8.0   0.1   2.9   3   0   0   3   3   2   0 -
+g199103.t1           -          OSK_CONSENSUS        -               0.35   13.9   0.0      0.42   13.7   0.0   1.2   1   0   0   1   1   1   0 -
+g165991.t1           -          OSK_CONSENSUS        -               0.36   13.9   0.6      0.36   13.9   0.6   1.5   2   0   0   2   2   1   0 -
+g57831.t1            -          OSK_CONSENSUS        -               0.42   13.7   0.1      0.74   12.9   0.1   1.3   1   0   0   1   1   1   0 -
+g89470.t1            -          OSK_CONSENSUS        -               0.43   13.7   0.0       1.6   11.8   0.0   1.7   1   1   1   2   2   2   0 -
+g40311.t1            -          OSK_CONSENSUS        -               0.43   13.6   0.0       0.5   13.4   0.0   1.1   1   0   0   1   1   1   0 -
+g134135.t1           -          OSK_CONSENSUS        -               0.47   13.5   0.0   1.9e+02    5.0   0.0   3.1   4   0   0   4   4   2   0 -
+g75102.t1            -          OSK_CONSENSUS        -               0.56   13.3   0.0      0.86   12.7   0.0   1.3   1   0   0   1   1   1   0 -
+g94948.t1            -          OSK_CONSENSUS        -               0.61   13.1   0.0      0.87   12.6   0.0   1.3   1   0   0   1   1   1   0 -
+g153476.t1           -          OSK_CONSENSUS        -               0.64   13.1   0.0      0.96   12.5   0.0   1.2   1   0   0   1   1   1   0 -
+g166369.t1           -          OSK_CONSENSUS        -               0.66   13.0   0.5       1.1   12.3   0.5   1.4   1   0   0   1   1   1   0 -
+g86769.t1            -          OSK_CONSENSUS        -               0.73   12.9   0.0         1   12.4   0.0   1.2   1   0   0   1   1   1   0 -
+g18548.t1            -          OSK_CONSENSUS        -               0.84   12.7   0.2         1   12.5   0.2   1.2   1   0   0   1   1   1   0 -
+g44015.t1            -          OSK_CONSENSUS        -               0.85   12.7   0.1         1   12.4   0.1   1.1   1   0   0   1   1   1   0 -
+g135720.t1           -          OSK_CONSENSUS        -               0.88   12.6   0.0       1.4   12.0   0.0   1.3   1   1   0   1   1   1   0 -
+g113197.t1           -          OSK_CONSENSUS        -               0.89   12.6   0.9       1.3   12.1   0.9   1.3   1   0   0   1   1   1   0 -
+g71448.t1            -          OSK_CONSENSUS        -                0.9   12.6   0.1       1.6   11.8   0.1   1.3   1   0   0   1   1   1   0 -
+g42536.t1            -          OSK_CONSENSUS        -               0.95   12.5   0.1       1.2   12.2   0.1   1.3   1   0   0   1   1   1   0 -
+g121830.t1           -          OSK_CONSENSUS        -               0.98   12.5   0.0         1   12.4   0.0   1.1   1   0   0   1   1   1   0 -
+g133489.t1           -          OSK_CONSENSUS        -                1.1   12.4   0.0       1.4   12.0   0.0   1.2   1   0   0   1   1   1   0 -
+g102826.t1           -          OSK_CONSENSUS        -                1.1   12.3   0.0       1.6   11.8   0.0   1.2   1   0   0   1   1   1   0 -
+g180024.t1           -          OSK_CONSENSUS        -                1.1   12.3   0.0       1.3   12.0   0.0   1.2   1   0   0   1   1   1   0 -
+g167174.t1           -          OSK_CONSENSUS        -                1.1   12.3   0.0       1.9   11.5   0.0   1.3   1   0   0   1   1   1   0 -
+g174146.t1           -          OSK_CONSENSUS        -                1.2   12.2   0.0       1.7   11.7   0.0   1.2   1   0   0   1   1   1   0 -
+g32691.t1            -          OSK_CONSENSUS        -                1.2   12.1   0.0       1.9   11.5   0.0   1.2   1   0   0   1   1   1   0 -
+g197467.t1           -          OSK_CONSENSUS        -                1.3   12.1   0.0       1.9   11.5   0.0   1.2   1   0   0   1   1   1   0 -
+g86554.t1            -          OSK_CONSENSUS        -                1.3   12.1   0.0       1.9   11.5   0.0   1.2   1   0   0   1   1   1   0 -
+g188324.t1           -          OSK_CONSENSUS        -                1.3   12.1   0.1       2.9   10.9   0.1   1.5   1   0   0   1   1   1   0 -
+g24106.t1            -          OSK_CONSENSUS        -                1.5   11.9   0.0       1.8   11.6   0.0   1.2   1   0   0   1   1   1   0 -
+g118927.t1           -          OSK_CONSENSUS        -                1.5   11.9   0.0        60    6.7   0.0   2.2   2   0   0   2   2   2   0 -
+g91033.t1            -          OSK_CONSENSUS        -                1.9   11.6   0.0       3.4   10.7   0.0   1.3   1   0   0   1   1   1   0 -
+g166335.t1           -          OSK_CONSENSUS        -                  2   11.5   0.0       5.4   10.1   0.0   1.7   1   1   1   2   2   1   0 -
+g52495.t1            -          OSK_CONSENSUS        -                2.2   11.4   0.0       3.8   10.6   0.0   1.3   1   0   0   1   1   1   0 -
+g202535.t1           -          OSK_CONSENSUS        -                2.3   11.3   0.0        10    9.1   0.0   1.9   2   0   0   2   2   2   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_003012365.1_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_003012365.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_003012365.1_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:47:53 2019
+# [ok]

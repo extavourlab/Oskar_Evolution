@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTL01008974.1_3     -          LOTUS_CONSENSUS      -              0.027   19.5   0.1     0.034   19.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C119402_a_3_0_l_244 transcribed RNA sequence
+GBTL01056779.1_2     -          LOTUS_CONSENSUS      -              0.036   19.1   0.0       2.2   13.4   0.0   2.7   1   1   2   3   3   3   0 TSA: Tetragonula carbonaria C244066_a_7_0_l_686 transcribed RNA sequence
+GBTL01024007.1_4     -          LOTUS_CONSENSUS      -                0.5   15.4   0.1      0.52   15.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C152439_a_5_0_l_261 transcribed RNA sequence
+GBTL01030177.1_6     -          LOTUS_CONSENSUS      -               0.58   15.2   0.3      0.63   15.1   0.3   1.1   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C168846_a_46_0_l_298 transcribed RNA sequence
+GBTL01054206.1_3     -          LOTUS_CONSENSUS      -                0.6   15.2   0.4       9.2   11.4   0.0   2.4   2   1   1   3   3   3   0 TSA: Tetragonula carbonaria C235735_a_8_0_l_592 transcribed RNA sequence
+GBTL01014443.1_2     -          LOTUS_CONSENSUS      -               0.79   14.8   0.1         1   14.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C131250_a_4_0_l_249 transcribed RNA sequence
+GBTL01058725.1_3     -          LOTUS_CONSENSUS      -                1.5   13.9   1.3         7   11.8   0.4   2.3   2   0   0   2   2   2   0 TSA: Tetragonula carbonaria C250601_a_6_0_l_790 transcribed RNA sequence
+GBTL01039689.1_4     -          LOTUS_CONSENSUS      -                1.6   13.8   0.1       2.5   13.2   0.1   1.3   1   1   0   1   1   1   0 TSA: Tetragonula carbonaria C194545_a_11_0_l_371 transcribed RNA sequence
+GBTL01044130.1_5     -          LOTUS_CONSENSUS      -                1.7   13.8   0.0       3.1   12.9   0.0   1.5   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C206636_a_5_0_l_415 transcribed RNA sequence
+GBTL01063238.1_2     -          LOTUS_CONSENSUS      -                2.2   13.4   0.0       5.2   12.2   0.0   1.6   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C267284_a_42_0_l_1542 transcribed RNA sequence
+GBTL01038577.1_3     -          LOTUS_CONSENSUS      -                2.5   13.2   0.1       3.4   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Tetragonula carbonaria C191534_a_5_0_l_361 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:58 2019
+# [ok]

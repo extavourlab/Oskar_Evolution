@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_013106491.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-26   92.3   0.0   2.3e-26   92.3   0.0   3.0   4   1   0   4   4   4   1 PREDICTED: maternal effect protein oskar [Stomoxys calcitrans]
+XP_013107302.1       -          oskar_filtered.aligned.LOTUS_domain -            3.2e-22   79.0   0.1   2.7e-21   76.0   0.0   2.5   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 5 [Stomoxys calcitrans]
+XP_013119432.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-10   41.7   0.0   1.3e-10   41.7   0.0   3.0   3   0   0   3   3   2   1 PREDICTED: tudor domain-containing protein 7 [Stomoxys calcitrans]
+XP_013119433.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-10   41.7   0.0   1.3e-10   41.7   0.0   3.0   3   0   0   3   3   2   1 PREDICTED: tudor domain-containing protein 7 [Stomoxys calcitrans]
+XP_013119435.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-10   41.7   0.0   1.3e-10   41.7   0.0   3.0   3   0   0   3   3   2   1 PREDICTED: tudor domain-containing protein 7 [Stomoxys calcitrans]
+XP_013103915.1       -          oskar_filtered.aligned.LOTUS_domain -               0.17   12.5   5.0      0.35   11.5   0.5   2.8   2   0   0   2   2   2   0 PREDICTED: uncharacterized SDCCAG3 family protein isoform X4 [Stomoxys calcitrans]
+XP_013103913.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.9   4.9      0.47   11.1   0.5   2.9   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106084627 isoform X2 [Stomoxys calcitrans]
+XP_013103914.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.9   4.9      0.43   11.2   0.5   2.8   2   0   0   2   2   2   0 PREDICTED: probable WRKY transcription factor protein 1 isoform X3 [Stomoxys calcitrans]
+XP_013103908.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.9   4.9      0.47   11.1   0.5   2.9   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106084627 isoform X1 [Stomoxys calcitrans]
+XP_013103909.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.9   4.9      0.47   11.1   0.5   2.9   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106084627 isoform X1 [Stomoxys calcitrans]
+XP_013103910.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.9   4.9      0.47   11.1   0.5   2.9   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106084627 isoform X1 [Stomoxys calcitrans]
+XP_013103911.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.9   4.9      0.47   11.1   0.5   2.9   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106084627 isoform X1 [Stomoxys calcitrans]
+XP_013103912.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.9   4.9      0.47   11.1   0.5   2.9   2   0   0   2   2   2   0 PREDICTED: uncharacterized protein LOC106084627 isoform X1 [Stomoxys calcitrans]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001015335.1_Stomoxys_calcitrans-1.0.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001015335.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001015335.1_Stomoxys_calcitrans-1.0.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:46 2019
+# [ok]

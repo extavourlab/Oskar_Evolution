@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGHR01014785.1_2     -          LOTUS_CONSENSUS      -            3.6e-15   58.8   0.0   5.4e-15   58.2   0.0   1.2   1   0   0   1   1   1   1 TSA: Polietes lardarius Polietes_lardarius_contig_17026 transcribed RNA sequence
+GGHR01006107.1_1     -          LOTUS_CONSENSUS      -            7.1e-10   41.8   0.0   2.9e-09   39.8   0.0   2.1   1   0   0   1   1   1   1 TSA: Polietes lardarius Polietes_lardarius_contig_6400 transcribed RNA sequence
+GGHR01015223.1_4     -          LOTUS_CONSENSUS      -                  1   12.4   6.6       2.1   11.4   3.1   2.7   2   1   0   2   2   2   0 TSA: Polietes lardarius Polietes_lardarius_contig_17675 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGHR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:24 2019
+# [ok]

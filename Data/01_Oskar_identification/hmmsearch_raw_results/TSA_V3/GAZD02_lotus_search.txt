@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZD02016917.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.4e-24   87.8   2.8   1.4e-23   86.4   0.0   2.9   3   0   0   3   3   3   1 TSA: Lipara lucens C162406_a_63_0_l_2056 transcribed RNA sequence
+GAZD02016266.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-13   53.6   1.5   1.2e-12   51.3   0.2   2.5   2   0   0   2   2   2   1 TSA: Lipara lucens C159836_a_14_0_l_1667 transcribed RNA sequence
+GAZD02026050.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-10   44.6   0.3   1.5e-10   44.6   0.3   3.4   2   1   0   2   2   2   1 TSA: Lipara lucens s3377_L_3999_0_a_56_8_l_4289 transcribed RNA sequence
+GAZD02017254.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-09   39.0   1.4   2.4e-08   37.5   0.1   2.5   2   0   0   2   2   2   1 TSA: Lipara lucens C163658_a_28_0_l_2343 transcribed RNA sequence
+GAZD02008486.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.35   14.5   0.1       2.1   12.1   0.0   2.0   1   1   1   2   2   2   0 TSA: Lipara lucens C129288_a_6_0_l_432 transcribed RNA sequence
+GAZD02011198.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.0   0.1       1.9   12.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Lipara lucens C139666_a_4_0_l_591 transcribed RNA sequence
+GAZD02020879.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.2   12.8   1.2       5.9   10.6   1.2   1.9   1   1   0   1   1   1   0 TSA: Lipara lucens C95547_a_3_0_l_231 transcribed RNA sequence
+GAZD02018175.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.6   11.3   2.6        80    7.0   0.4   3.0   2   1   0   2   2   2   0 TSA: Lipara lucens C167282_a_54_0_l_4728 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZD02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZD02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZD02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:14 2019
+# [ok]

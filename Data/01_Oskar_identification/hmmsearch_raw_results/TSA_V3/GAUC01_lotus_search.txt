@@ -1,0 +1,31 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUC01020706.1_4     -          oskar_filtered.aligned.LOTUS_domain -              8e-21   78.7   4.0   6.4e-12   50.1   0.0   4.9   4   1   1   5   5   4   3 TSA: Bemisia tabaci Unitig_20814 transcribed RNA sequence
+GAUC01042997.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-12   50.6   0.0   5.6e-12   50.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unitig_43259 transcribed RNA sequence
+GAUC01052639.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-06   31.8   0.0   3.4e-06   31.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unitig_52915 transcribed RNA sequence
+GAUC01052862.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-06   31.8   0.0   3.4e-06   31.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unitig_53144 transcribed RNA sequence
+GAUC01053118.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-06   31.8   0.0   3.4e-06   31.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unitig_53407 transcribed RNA sequence
+GAUC01019163.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-06   31.5   0.0       2.7   12.8   0.0   3.4   1   1   2   3   3   3   2 TSA: Bemisia tabaci Unitig_19271 transcribed RNA sequence
+GAUC01052663.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.8   0.7      0.17   16.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_52940 transcribed RNA sequence
+GAUC01052886.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.8   0.7      0.17   16.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_53169 transcribed RNA sequence
+GAUC01053144.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.8   0.7      0.17   16.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_53434 transcribed RNA sequence
+GAUC01053810.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.8   0.7      0.17   16.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_54117 transcribed RNA sequence
+GAUC01054162.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.8   0.7      0.17   16.6   0.7   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_54474 transcribed RNA sequence
+GAUC01059699.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.46   15.2   1.2      0.71   14.6   1.2   1.3   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_60030 transcribed RNA sequence
+GAUC01050113.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.61   14.8   0.1         1   14.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_50383 transcribed RNA sequence
+GAUC01051511.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.71   14.6   0.8      0.71   14.6   0.8   1.5   2   0   0   2   2   1   0 TSA: Bemisia tabaci Unitig_51783 transcribed RNA sequence
+GAUC01038061.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.6   0.0       2.7   12.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_38304 transcribed RNA sequence
+GAUC01068774.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.8   12.7   0.0       2.8   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_69124 transcribed RNA sequence
+GAUC01039440.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.2   12.5   0.0       3.6   12.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_39688 transcribed RNA sequence
+GAUC01020637.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.2   12.5   1.3       6.8   11.5   1.3   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_20745 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:47 2019
+# [ok]

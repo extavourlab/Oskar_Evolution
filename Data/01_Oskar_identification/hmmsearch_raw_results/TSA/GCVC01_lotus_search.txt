@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCVC01025397.1_2     -          LOTUS_CONSENSUS      -              4e-23   84.8   0.0     4e-23   84.8   0.0   2.8   3   0   0   3   3   3   1 TSA: Allodynerus rossii s4323_L_7961_1_a_62_4_l_3521 transcribed RNA sequence
+GCVC01025396.1_2     -          LOTUS_CONSENSUS      -            5.8e-23   84.2   0.0   5.8e-23   84.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Allodynerus rossii s4322_L_7961_0_a_66_6_l_4820 transcribed RNA sequence
+GCVC01001569.1_4     -          LOTUS_CONSENSUS      -            5.1e-19   71.6   0.6   9.3e-18   67.6   0.0   3.0   2   0   0   2   2   2   1 TSA: Allodynerus rossii C106980_a_27_0_l_3662 transcribed RNA sequence
+GCVC01013427.1_2     -          LOTUS_CONSENSUS      -            2.3e-09   40.7   0.0   8.6e-09   38.8   0.0   1.9   2   0   0   2   2   2   1 TSA: Allodynerus rossii C68089_a_10_0_l_458 transcribed RNA sequence
+GCVC01001778.1_6     -          LOTUS_CONSENSUS      -            5.2e-05   26.7   0.0      0.15   15.6   0.0   5.0   3   1   2   5   5   5   1 TSA: Allodynerus rossii C107958_a_26_0_l_4894 transcribed RNA sequence
+GCVC01001762.1_6     -          LOTUS_CONSENSUS      -               0.13   15.8   0.4      0.33   14.5   0.4   1.7   1   0   0   1   1   1   0 TSA: Allodynerus rossii C107870_a_36_0_l_4684 transcribed RNA sequence
+GCVC01002299.1_6     -          LOTUS_CONSENSUS      -               0.41   14.2   0.1      0.43   14.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Allodynerus rossii C36107_a_4_0_l_208 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCVC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:57 2019
+# [ok]

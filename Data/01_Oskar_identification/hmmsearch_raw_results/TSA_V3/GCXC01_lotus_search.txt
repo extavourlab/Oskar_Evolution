@@ -1,0 +1,31 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXC01087783.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.2e-25   92.5   3.0   1.5e-13   56.0   0.0   3.5   3   0   0   3   3   3   3 TSA: Acanalonia conica breed wildtype C516051_6_0, transcribed RNA sequence
+GCXC01088643.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-21   81.2   0.1   1.5e-19   75.2   0.0   3.2   3   0   0   3   3   3   1 TSA: Acanalonia conica breed wildtype C519553_14_0, transcribed RNA sequence
+GCXC01095547.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00023   26.4   0.3         3   13.2   0.0   4.1   2   1   0   3   3   3   1 TSA: Acanalonia conica breed wildtype s16022_L_88633_1_7_8_FORK, transcribed RNA sequence
+GCXC01095546.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00061   25.1   0.3       3.4   13.0   0.0   4.0   2   1   1   3   3   3   1 TSA: Acanalonia conica breed wildtype s16021_L_88633_0_6_6_FORK, transcribed RNA sequence
+GCXC01076062.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.23   16.8   4.1       9.7   11.6   0.6   3.1   2   1   0   2   2   2   0 TSA: Acanalonia conica breed wildtype C471631_2_0, transcribed RNA sequence
+GCXC01110594.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.41   16.0   0.0       1.3   14.4   0.0   1.9   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype s9920_L_41264_0_3_6_LINEAR, transcribed RNA sequence
+GCXC01075039.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.71   15.2   0.1       1.6   14.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C468165_16_0, transcribed RNA sequence
+GCXC01044758.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.77   15.1   0.4       1.2   14.5   0.4   1.4   1   1   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C378227_4_0, transcribed RNA sequence
+GCXC01021686.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.8   0.1       2.2   13.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C317504_3_0, transcribed RNA sequence
+GCXC01077496.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.1   13.7   0.1       3.8   12.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C476527_4_0, transcribed RNA sequence
+GCXC01060033.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.2   13.7   0.6       3.5   13.0   0.3   1.4   2   0   0   2   2   1   0 TSA: Acanalonia conica breed wildtype C421386_2_0, transcribed RNA sequence
+GCXC01107549.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.4   0.9         5   12.5   0.9   1.5   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype s7174_L_26028_1_21_4_FORK, transcribed RNA sequence
+GCXC01092942.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.4   0.0        13   11.1   0.0   1.9   2   0   0   2   2   2   0 TSA: Acanalonia conica breed wildtype s13672_L_68873_0_19_4_LINEAR, transcribed RNA sequence
+GCXC01008259.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.4   0.2         3   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C282935_4_0, transcribed RNA sequence
+GCXC01056177.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.4   0.1       4.6   12.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C410222_2_0, transcribed RNA sequence
+GCXC01057056.1_4     -          oskar_filtered.aligned.LOTUS_domain -                  3   13.2   1.5        53    9.2   0.0   2.2   2   0   0   2   2   2   0 TSA: Acanalonia conica breed wildtype C412766_2_0, transcribed RNA sequence
+GCXC01090446.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.7   12.9   0.2        95    8.4   0.0   2.7   2   0   0   2   2   2   0 TSA: Acanalonia conica breed wildtype s1141_L_3029_1_4_0_FORK_a, transcribed RNA sequence
+GCXC01033330.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.7   12.3   0.0         6   12.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Acanalonia conica breed wildtype C347585_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:55 2019
+# [ok]

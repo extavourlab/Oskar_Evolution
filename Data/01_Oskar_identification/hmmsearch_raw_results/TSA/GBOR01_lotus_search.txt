@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOR01015855.1_6     -          LOTUS_CONSENSUS      -              7e-24   87.1   0.2   2.1e-23   85.5   0.0   1.9   2   0   0   2   2   2   1 TSA: Syrphophilus tricinctorius s10517_L_20905_0_a_41_2_l_3043 transcribed RNA sequence
+GBOR01023121.1_6     -          LOTUS_CONSENSUS      -            3.8e-17   65.5   0.1     8e-14   54.8   0.0   2.6   2   0   0   2   2   2   2 TSA: Syrphophilus tricinctorius s6598_L_8381_1_a_23_3_l_2271 transcribed RNA sequence
+GBOR01023120.1_4     -          LOTUS_CONSENSUS      -            4.5e-17   65.2   0.1   2.3e-13   53.3   0.0   3.6   3   0   0   3   3   3   2 TSA: Syrphophilus tricinctorius s6597_L_8381_0_a_50_5_l_5167 transcribed RNA sequence
+GBOR01016046.1_1     -          LOTUS_CONSENSUS      -             0.0073   19.7   0.0   2.3e+02    5.3   0.0   5.1   4   1   1   5   5   5   1 TSA: Syrphophilus tricinctorius s1068_L_882_1_a_30_3_l_4148 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:02 2019
+# [ok]

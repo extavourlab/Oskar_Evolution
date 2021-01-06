@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUV02022327.1_6     -          LOTUS_CONSENSUS      -            3.4e-09   40.0   0.0       3.3   11.3   0.0   5.9   1   1   5   6   6   6   3 TSA: Acanthosoma haemorrhoidale C93818_a_20_0_l_2561 transcribed RNA sequence
+GAUV02016962.1_2     -          LOTUS_CONSENSUS      -               0.01   19.3   0.0     0.019   18.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Acanthosoma haemorrhoidale C78230_a_36_0_l_763 transcribed RNA sequence
+GAUV02010869.1_2     -          LOTUS_CONSENSUS      -               0.35   14.4   0.1      0.45   14.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Acanthosoma haemorrhoidale C60679_a_4_0_l_397 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUV02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUV02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUV02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:11 2019
+# [ok]

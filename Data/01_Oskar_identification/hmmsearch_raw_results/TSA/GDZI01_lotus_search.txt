@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDZI01042292.1_3     -          LOTUS_CONSENSUS      -            0.00013   26.4   0.0   0.00026   25.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Paratemnopteryx couloniana breed wildtype C228403_a_5_0_l_915, transcribed RNA sequence
+GDZI01048956.1_4     -          LOTUS_CONSENSUS      -            0.00089   23.7   0.0   1.8e+02    6.8   0.0   5.5   2   1   3   5   5   5   1 TSA: Paratemnopteryx couloniana breed wildtype s10805_L_40857_0_a_3_1_l_3978, transcribed RNA sequence
+GDZI01055998.1_6     -          LOTUS_CONSENSUS      -               0.42   15.2   0.0      0.84   14.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Paratemnopteryx couloniana breed wildtype s6091_L_10605_4_a_30_1_l_485, transcribed RNA sequence
+GDZI01055995.1_6     -          LOTUS_CONSENSUS      -               0.79   14.3   0.0       1.7   13.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Paratemnopteryx couloniana breed wildtype s6089_L_10605_2_a_22_6_l_695, transcribed RNA sequence
+GDZI01041173.1_2     -          LOTUS_CONSENSUS      -               0.83   14.2   0.9       4.7   11.8   0.1   2.3   1   1   1   2   2   2   0 TSA: Paratemnopteryx couloniana breed wildtype C225169_a_8_0_l_825, transcribed RNA sequence
+GDZI01049883.1_4     -          LOTUS_CONSENSUS      -                1.2   13.7   0.0       3.6   12.2   0.0   1.7   1   0   0   1   1   1   0 TSA: Paratemnopteryx couloniana breed wildtype s1163_L_1240_0_a_20_1_l_1113, transcribed RNA sequence
+GDZI01025143.1_5     -          LOTUS_CONSENSUS      -                1.3   13.6   4.5       2.1   12.9   4.5   1.3   1   0   0   1   1   1   0 TSA: Paratemnopteryx couloniana breed wildtype C180026_a_3_0_l_366, transcribed RNA sequence
+GDZI01055994.1_6     -          LOTUS_CONSENSUS      -                1.6   13.3   0.0       3.5   12.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Paratemnopteryx couloniana breed wildtype s6088_L_10605_1_a_17_8_l_1097, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDZI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:14 2019
+# [ok]

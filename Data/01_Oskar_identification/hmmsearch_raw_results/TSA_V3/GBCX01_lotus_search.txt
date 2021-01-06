@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBCX01034054.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-22   81.0   0.0   5.2e-20   75.3   0.0   3.2   3   0   0   3   3   3   1 TSA: Dastarcus helophoroides Unigene25981 transcribed RNA sequence
+GBCX01024638.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-20   77.3   0.3   2.6e-20   76.3   0.0   1.7   2   0   0   2   2   2   1 TSA: Dastarcus helophoroides Unigene16556 transcribed RNA sequence
+GBCX01022721.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-15   59.6   0.2   1.2e-14   58.1   0.1   1.8   2   0   0   2   2   2   1 TSA: Dastarcus helophoroides Unigene14632 transcribed RNA sequence
+GBCX01024877.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.18   15.8   0.4      0.25   15.3   0.3   1.4   1   1   0   1   1   1   0 TSA: Dastarcus helophoroides Unigene16795 transcribed RNA sequence
+GBCX01029302.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.2   0.5        33    8.5   0.0   2.4   1   1   1   2   2   2   0 TSA: Dastarcus helophoroides Unigene21223 transcribed RNA sequence
+GBCX01005287.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.5   12.8   0.0       2.8   12.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Dastarcus helophoroides CL2388.Contig2 transcribed RNA sequence
+GBCX01032311.1_5     -          oskar_filtered.aligned.LOTUS_domain -                9.6   10.2   8.8        76    7.4   3.7   2.8   2   1   0   2   2   2   0 TSA: Dastarcus helophoroides Unigene24235 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBCX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBCX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBCX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:01 2019
+# [ok]

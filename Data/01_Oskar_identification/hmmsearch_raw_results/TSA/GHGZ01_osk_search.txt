@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHGZ01018656.1_6     -          OSK_CONSENSUS        -               0.74   15.2   0.3   1.1e+02    8.1   0.0   2.4   2   0   0   2   2   2   0 TSA: Achaea janata Transcript_18762, transcribed RNA sequence
+GHGZ01147068.1_3     -          OSK_CONSENSUS        -               0.99   14.8   1.1       1.1   14.6   1.1   1.1   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_148919, transcribed RNA sequence
+GHGZ01157405.1_3     -          OSK_CONSENSUS        -                3.5   13.0   0.4        15   10.9   0.4   1.8   1   1   0   1   1   1   0 TSA: Achaea janata Transcript_159368, transcribed RNA sequence
+GHGZ01021899.1_5     -          OSK_CONSENSUS        -                3.6   12.9   0.3       8.6   11.7   0.0   1.6   2   0   0   2   2   2   0 TSA: Achaea janata Transcript_22052, transcribed RNA sequence
+GHGZ01027678.1_6     -          OSK_CONSENSUS        -                4.2   12.7   0.1       4.8   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_27898, transcribed RNA sequence
+GHGZ01125967.1_3     -          OSK_CONSENSUS        -                6.4   12.1   0.4        14   11.0   0.2   1.5   1   1   0   1   1   1   0 TSA: Achaea janata Transcript_127539, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHGZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:00 2019
+# [ok]

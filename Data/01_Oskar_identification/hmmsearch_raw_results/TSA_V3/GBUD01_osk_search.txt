@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUD01015499.1_1     -          oskar_filtered.aligned.OSK_domain -            3.1e-58  199.5   0.9   8.1e-56  191.7   0.3   2.3   2   1   0   2   2   2   2 TSA: Oodera sp. AD-2014 C86407_a_51_0_l_1434 transcribed RNA sequence
+GBUD01017380.1_5     -          oskar_filtered.aligned.OSK_domain -            1.9e-08   37.2   0.6   4.3e-08   36.0   0.6   1.6   1   0   0   1   1   1   1 TSA: Oodera sp. AD-2014 C92495_a_19_0_l_2118 transcribed RNA sequence
+GBUD01024778.1_3     -          oskar_filtered.aligned.OSK_domain -               0.67   12.6   3.6       1.1   11.9   3.6   1.3   1   0   0   1   1   1   0 TSA: Oodera sp. AD-2014 s763_L_1570_0_a_25_9_l_2160 transcribed RNA sequence
+GBUD01024779.1_3     -          oskar_filtered.aligned.OSK_domain -                  1   12.0   3.6       1.8   11.2   3.6   1.3   1   0   0   1   1   1   0 TSA: Oodera sp. AD-2014 s764_L_1570_1_a_19_7_l_2949 transcribed RNA sequence
+GBUD01013716.1_4     -          oskar_filtered.aligned.OSK_domain -                2.1   11.0   4.4        83    5.8   4.4   2.4   1   1   0   1   1   1   0 TSA: Oodera sp. AD-2014 C80617_a_7_0_l_1018 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:49 2019
+# [ok]

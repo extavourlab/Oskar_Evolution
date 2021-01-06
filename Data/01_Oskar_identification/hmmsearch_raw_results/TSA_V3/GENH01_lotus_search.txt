@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENH01044281.1_6     -          oskar_filtered.aligned.LOTUS_domain -              6e-16   64.1   0.0   1.1e-13   56.8   0.0   2.6   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k60_27686 transcribed RNA sequence
+GENH01054806.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-15   62.3   0.0   2.7e-13   55.5   0.0   2.7   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k64_323643 transcribed RNA sequence
+GENH01006820.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-10   44.4   0.0   1.4e-07   37.2   0.0   2.7   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k52_211095 transcribed RNA sequence
+GENH01020618.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.4e-10   44.2   0.6   9.6e-08   37.7   0.1   2.8   3   1   0   3   3   3   1 TSA: Dryadaula visaliella k52_512342 transcribed RNA sequence
+GENH01081172.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-09   43.9   0.0   1.4e-07   37.2   0.0   2.7   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k66_576001 transcribed RNA sequence
+GENH01107931.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-08   38.5   0.2   6.2e-06   31.9   0.0   3.1   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k72_454006 transcribed RNA sequence
+GENH01042916.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-08   38.5   0.2   6.6e-06   31.8   0.0   3.1   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k58_414194 transcribed RNA sequence
+GENH01107831.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   30.5   0.2    0.0019   24.0   0.0   3.1   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k72_453496 transcribed RNA sequence
+GENH01042734.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   30.5   0.2     0.002   23.9   0.0   3.1   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k58_412872 transcribed RNA sequence
+GENH01107831.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0041   22.9   0.1      0.29   16.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k72_453496 transcribed RNA sequence
+GENH01107931.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0043   22.8   0.1      0.29   16.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k72_454006 transcribed RNA sequence
+GENH01042734.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0043   22.8   0.1       0.3   16.9   0.0   2.5   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k58_412872 transcribed RNA sequence
+GENH01042916.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0045   22.8   0.1       0.3   16.9   0.0   2.5   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k58_414194 transcribed RNA sequence
+GENH01021992.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.06   19.1   0.0      0.13   18.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k52_516084 transcribed RNA sequence
+GENH01087785.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.062   19.1   0.0      0.13   18.1   0.0   1.5   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k66_593538 transcribed RNA sequence
+GENH01020325.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.7   0.0       2.2   14.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k52_511537 transcribed RNA sequence
+GENH01087899.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.7   0.0       2.2   14.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k66_593868 transcribed RNA sequence
+GENH01063742.1_5     -          oskar_filtered.aligned.LOTUS_domain -                4.3   13.2   0.0       5.6   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k66_159736 transcribed RNA sequence
+GENH01051552.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.3   12.9   0.1        10   12.0   0.1   1.4   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k62_283908 transcribed RNA sequence
+GENH01004824.1_3     -          oskar_filtered.aligned.LOTUS_domain -                9.5   12.1   0.0        14   11.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k52_145909 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:29 2019
+# [ok]

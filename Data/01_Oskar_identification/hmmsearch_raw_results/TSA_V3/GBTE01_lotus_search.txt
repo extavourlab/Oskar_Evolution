@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTE01017661.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-30  108.2   0.6   2.1e-13   53.0   0.1   3.3   3   0   0   3   3   3   2 TSA: Anopheles quadrimaculatus m.30420 transcribed RNA sequence
+GBTE01017662.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-30  108.2   0.6   2.1e-13   53.0   0.1   3.3   3   0   0   3   3   3   2 TSA: Anopheles quadrimaculatus m.30422 transcribed RNA sequence
+GBTE01016103.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-28  100.6   0.3   6.5e-18   67.4   0.0   3.4   3   0   0   3   3   3   3 TSA: Anopheles quadrimaculatus m.27716 transcribed RNA sequence
+GBTE01009320.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-27   98.5   0.1   2.2e-27   97.9   0.1   1.4   1   0   0   1   1   1   1 TSA: Anopheles quadrimaculatus m.16503 transcribed RNA sequence
+GBTE01007768.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-16   62.2   0.2   5.3e-16   61.3   0.2   1.5   1   0   0   1   1   1   1 TSA: Anopheles quadrimaculatus m.14002 transcribed RNA sequence
+GBTE01005904.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.14   15.0   0.3        12    8.8   0.1   3.1   3   0   0   3   3   3   0 TSA: Anopheles quadrimaculatus m.10823 transcribed RNA sequence
+GBTE01005907.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.15   15.0   0.3        11    8.9   0.1   3.1   3   0   0   3   3   3   0 TSA: Anopheles quadrimaculatus m.10826 transcribed RNA sequence
+GBTE01005905.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.16   14.9   0.4        43    7.0   0.1   3.1   3   0   0   3   3   3   0 TSA: Anopheles quadrimaculatus m.10824 transcribed RNA sequence
+GBTE01006476.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.44   13.4   4.6       9.3    9.2   0.6   2.8   2   0   0   2   2   2   0 TSA: Anopheles quadrimaculatus m.11842 transcribed RNA sequence
+GBTE01006026.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.89   12.4   0.0       1.2   12.0   0.0   1.3   1   0   0   1   1   1   0 TSA: Anopheles quadrimaculatus m.11017 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:22 2019
+# [ok]

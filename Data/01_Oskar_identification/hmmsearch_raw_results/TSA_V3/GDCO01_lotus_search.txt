@@ -1,0 +1,40 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCO01085833.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-22   84.2   1.2   1.1e-09   44.6   0.0   4.3   2   1   1   3   3   3   3 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.85833 transcribed RNA sequence
+GDCO01085831.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-22   84.1   1.2   1.1e-09   44.6   0.0   4.3   2   1   1   3   3   3   3 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.85831 transcribed RNA sequence
+GDCO01085834.1_4     -          oskar_filtered.aligned.LOTUS_domain -              1e-21   83.3   3.7   6.8e-10   45.3   0.0   4.1   3   1   1   4   4   3   3 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.85834 transcribed RNA sequence
+GDCO01075447.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.8e-20   76.9   0.3   3.7e-19   75.0   0.3   2.1   1   0   0   1   1   1   1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.75447 transcribed RNA sequence
+GDCO01080419.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-11   49.9   0.0     0.018   21.4   0.0   5.7   1   1   4   5   5   5   2 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.80419 transcribed RNA sequence
+GDCO01080418.1_3     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-11   48.1   0.0     0.023   21.1   0.0   5.6   1   1   4   5   5   5   2 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.80418 transcribed RNA sequence
+GDCO01081347.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0016   24.8   0.0    0.0032   23.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.81347 transcribed RNA sequence
+GDCO01081344.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0024   24.3   0.6    0.0058   23.0   0.0   1.9   2   0   0   2   2   2   1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.81344 transcribed RNA sequence
+GDCO01081343.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0025   24.2   0.0    0.0044   23.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.81343 transcribed RNA sequence
+GDCO01081346.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0034   23.8   0.0     0.006   23.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.81346 transcribed RNA sequence
+GDCO01098388.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.3   17.5   0.0      0.43   17.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.98388 transcribed RNA sequence
+GDCO01185609.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.33   17.4   1.4       9.7   12.7   0.1   2.3   2   0   0   2   2   2   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.185609 transcribed RNA sequence
+GDCO01098389.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.37   17.3   0.0      0.58   16.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.98389 transcribed RNA sequence
+GDCO01098385.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.51   16.8   0.0      0.81   16.2   0.0   1.3   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.98385 transcribed RNA sequence
+GDCO01087853.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.8   15.1   0.2       2.8   14.4   0.2   1.3   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.87853 transcribed RNA sequence
+GDCO01222370.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.4   14.7   0.1       2.8   14.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.222370 transcribed RNA sequence
+GDCO01171760.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.8   14.4   0.0       3.5   14.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.171760 transcribed RNA sequence
+GDCO01174921.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.8   14.4   0.6        36   10.9   0.5   1.9   1   1   1   2   2   2   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.174921 transcribed RNA sequence
+GDCO01061458.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.3   14.2   0.5       7.8   13.0   0.5   1.7   1   1   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.61458 transcribed RNA sequence
+GDCO01135613.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  4   13.9   0.2       8.8   12.8   0.2   1.5   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.135613 transcribed RNA sequence
+GDCO01135612.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.9   13.6   0.2        12   12.4   0.2   1.6   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.135612 transcribed RNA sequence
+GDCO01178806.1_6     -          oskar_filtered.aligned.LOTUS_domain -                5.6   13.5   0.1         8   13.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.178806 transcribed RNA sequence
+GDCO01098392.1_3     -          oskar_filtered.aligned.LOTUS_domain -                5.7   13.4   0.0       7.1   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.98392 transcribed RNA sequence
+GDCO01100586.1_3     -          oskar_filtered.aligned.LOTUS_domain -                6.6   13.2   1.4        18   11.9   0.6   2.1   2   0   0   2   2   2   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.100586 transcribed RNA sequence
+GDCO01170394.1_2     -          oskar_filtered.aligned.LOTUS_domain -                6.8   13.2   0.2        12   12.4   0.2   1.4   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.170394 transcribed RNA sequence
+GDCO01183679.1_1     -          oskar_filtered.aligned.LOTUS_domain -                8.1   12.9   0.1        11   12.5   0.1   1.4   1   1   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.183679 transcribed RNA sequence
+GDCO01014685.1_4     -          oskar_filtered.aligned.LOTUS_domain -                8.6   12.9   1.3        10   12.7   1.3   1.2   1   0   0   1   1   1   0 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.14685 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:22 2019
+# [ok]

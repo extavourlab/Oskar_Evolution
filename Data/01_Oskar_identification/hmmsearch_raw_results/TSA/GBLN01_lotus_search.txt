@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLN01013985.1_5     -          LOTUS_CONSENSUS      -            3.7e-20   74.6   0.0   9.9e-20   73.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli C58395_a_53_0_l_1949 transcribed RNA sequence
+GBLN01001406.1_6     -          LOTUS_CONSENSUS      -            9.5e-15   57.3   0.0   1.1e-14   57.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli C23865_a_4_0_l_236 transcribed RNA sequence
+GBLN01017162.1_3     -          LOTUS_CONSENSUS      -            3.5e-14   55.5   0.1   1.3e-13   53.6   0.0   2.0   2   0   0   2   2   2   1 TSA: Gonatocerus morrilli s2472_L_11116_0_a_61_2_l_1930 transcribed RNA sequence
+GBLN01012741.1_5     -          LOTUS_CONSENSUS      -            3.6e-13   52.2   0.2   9.6e-13   50.9   0.2   1.7   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli C54951_a_59_0_l_1487 transcribed RNA sequence
+GBLN01018384.1_3     -          LOTUS_CONSENSUS      -            9.1e-13   50.9   0.0   2.4e-12   49.6   0.0   1.7   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli s593_L_1603_0_a_46_4_l_2526 transcribed RNA sequence
+GBLN01015357.1_6     -          LOTUS_CONSENSUS      -            8.2e-12   47.9   0.0   4.6e-11   45.5   0.0   2.4   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli C62166_a_13_0_l_3609 transcribed RNA sequence
+GBLN01010678.1_2     -          LOTUS_CONSENSUS      -              4e-10   42.5   0.2   1.3e-09   40.8   0.0   2.0   2   0   0   2   2   2   1 TSA: Gonatocerus morrilli C49200_a_8_0_l_981 transcribed RNA sequence
+GBLN01016600.1_2     -          LOTUS_CONSENSUS      -              0.001   21.9   0.0        21    8.1   0.0   5.1   2   2   4   6   6   6   1 TSA: Gonatocerus morrilli s1967_L_8284_0_a_20_5_l_5736 transcribed RNA sequence
+GBLN01014317.1_2     -          LOTUS_CONSENSUS      -              0.019   17.9   7.1         4   10.4   0.6   3.2   3   0   0   3   3   3   0 TSA: Gonatocerus morrilli C59312_a_3_0_l_2123 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:16 2019
+# [ok]

@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBDP01018489.1_1     -          LOTUS_CONSENSUS      -            6.9e-22   81.7   4.6   1.6e-13   54.8   0.1   5.2   3   1   1   4   4   3   2 TSA: Kerria lacca L_6348_T_10/10_C_0.667_L_6403 transcribed RNA sequence
+GBDP01034447.1_1     -          LOTUS_CONSENSUS      -            7.2e-22   81.6   4.6   1.6e-13   54.8   0.1   5.2   3   1   1   4   4   3   2 TSA: Kerria lacca L_6348_T_5/10_C_0.667_L_6475 transcribed RNA sequence
+GBDP01005013.1_1     -          LOTUS_CONSENSUS      -            7.4e-22   81.6   4.6   1.6e-13   54.8   0.1   5.2   3   1   1   4   4   3   2 TSA: Kerria lacca L_6348_T_6/10_C_0.667_L_6484 transcribed RNA sequence
+GBDP01005797.1_1     -          LOTUS_CONSENSUS      -            1.1e-21   81.0   4.6   1.7e-13   54.8   0.1   4.8   3   1   1   4   4   3   2 TSA: Kerria lacca L_6348_T_7/10_C_0.667_L_6515 transcribed RNA sequence
+GBDP01016437.1_1     -          LOTUS_CONSENSUS      -            1.8e-21   80.3   6.7   1.6e-13   54.9   0.1   5.4   4   1   1   5   5   4   2 TSA: Kerria lacca L_6348_T_1/10_C_0.630_L_6347 transcribed RNA sequence
+GBDP01013336.1_1     -          LOTUS_CONSENSUS      -            1.6e-20   77.3   8.6   1.6e-13   54.8   0.1   4.9   4   1   1   5   5   3   2 TSA: Kerria lacca L_6348_T_3/10_C_0.667_L_6471 transcribed RNA sequence
+GBDP01003897.1_1     -          LOTUS_CONSENSUS      -            1.7e-20   77.2   8.6   1.6e-13   54.8   0.1   4.9   4   1   1   5   5   3   2 TSA: Kerria lacca L_6348_T_4/10_C_0.667_L_6477 transcribed RNA sequence
+GBDP01023640.1_3     -          LOTUS_CONSENSUS      -            1.6e-16   64.5   2.9   8.3e-15   59.0   0.1   3.6   3   0   0   3   3   3   1 TSA: Kerria lacca L_294_T_7/10_C_0.478_L_3863 transcribed RNA sequence
+GBDP01049904.1_2     -          LOTUS_CONSENSUS      -            1.8e-16   64.3   2.9   8.8e-15   58.9   0.1   3.6   3   0   0   3   3   3   1 TSA: Kerria lacca L_294_T_2/10_C_0.522_L_4064 transcribed RNA sequence
+GBDP01022698.1_3     -          LOTUS_CONSENSUS      -            1.9e-16   64.3   2.9   8.7e-15   58.9   0.1   3.5   3   0   0   3   3   3   1 TSA: Kerria lacca L_294_T_1/10_C_0.522_L_4033 transcribed RNA sequence
+GBDP01039902.1_3     -          LOTUS_CONSENSUS      -            1.9e-16   64.2   2.9   8.8e-15   58.9   0.1   3.5   3   0   0   3   3   3   1 TSA: Kerria lacca L_294_T_10/10_C_0.522_L_4068 transcribed RNA sequence
+GBDP01032859.1_3     -          LOTUS_CONSENSUS      -            2.1e-16   64.1   2.9     9e-15   58.9   0.1   3.5   3   0   0   3   3   3   1 TSA: Kerria lacca L_294_T_4/10_C_0.522_L_4141 transcribed RNA sequence
+GBDP01006019.1_3     -          LOTUS_CONSENSUS      -            6.4e-16   62.5   5.0   9.1e-15   58.9   0.1   3.8   4   0   0   4   4   3   1 TSA: Kerria lacca L_294_T_5/10_C_0.522_L_4150 transcribed RNA sequence
+GBDP01004628.1_3     -          LOTUS_CONSENSUS      -            6.8e-16   62.5   0.1     2e-15   61.0   0.1   1.8   1   0   0   1   1   1   1 TSA: Kerria lacca L_294_T_6/10_C_0.174_L_1425 transcribed RNA sequence
+GBDP01051624.1_3     -          LOTUS_CONSENSUS      -            2.1e-15   60.9   0.1   2.1e-15   60.9   0.1   2.3   2   1   0   2   2   2   1 TSA: Kerria lacca L_294_T_9/10_C_0.217_L_1475 transcribed RNA sequence
+GBDP01040463.1_2     -          LOTUS_CONSENSUS      -            1.8e-05   29.0   0.3        56    8.2   0.0   6.5   7   1   1   8   8   6   2 TSA: Kerria lacca L_3191_T_3/3_C_0.714_L_5404 transcribed RNA sequence
+GBDP01022108.1_2     -          LOTUS_CONSENSUS      -            1.9e-05   29.0   0.2        49    8.4   0.0   6.2   6   1   1   7   7   5   2 TSA: Kerria lacca L_3191_T_1/3_C_0.714_L_5018 transcribed RNA sequence
+GBDP01039911.1_2     -          LOTUS_CONSENSUS      -              2e-05   28.9   0.9        55    8.3   0.0   6.6   7   1   1   8   8   6   2 TSA: Kerria lacca L_3191_T_2/3_C_0.714_L_5308 transcribed RNA sequence
+GBDP01044768.1_1     -          LOTUS_CONSENSUS      -             0.0039   21.6   0.0     0.049   18.0   0.0   3.0   1   0   0   1   1   1   1 TSA: Kerria lacca L_6348_T_2/10_C_0.667_L_4993 transcribed RNA sequence
+GBDP01010253.1_3     -          LOTUS_CONSENSUS      -                5.9   11.4   2.6        20    9.7   0.3   2.6   2   2   1   3   3   3   0 TSA: Kerria lacca L_20432_T_1/5_C_0.103_L_442 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBDP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBDP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:34 2019
+# [ok]

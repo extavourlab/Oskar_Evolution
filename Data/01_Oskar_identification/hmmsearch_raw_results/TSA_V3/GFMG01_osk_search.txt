@@ -1,0 +1,60 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFMG01150638.1_3     -          oskar_filtered.aligned.OSK_domain -            3.2e-34  125.5   0.2   5.6e-34  124.7   0.2   1.3   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN144343_c0_g1_i2 transcribed RNA sequence
+GFMG01150639.1_1     -          oskar_filtered.aligned.OSK_domain -              5e-34  124.9   0.2   8.4e-34  124.1   0.2   1.3   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN144343_c0_g1_i3 transcribed RNA sequence
+GFMG01158666.1_6     -          oskar_filtered.aligned.OSK_domain -            7.4e-34  124.3   0.2   1.3e-33  123.5   0.2   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN147656_c0_g2_i3 transcribed RNA sequence
+GFMG01150637.1_1     -          oskar_filtered.aligned.OSK_domain -            7.6e-34  124.3   0.2   1.6e-33  123.3   0.2   1.5   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN144343_c0_g1_i1 transcribed RNA sequence
+GFMG01158665.1_6     -          oskar_filtered.aligned.OSK_domain -            1.8e-33  123.1   0.2   3.7e-33  122.0   0.2   1.5   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN147656_c0_g2_i2 transcribed RNA sequence
+GFMG01250248.1_3     -          oskar_filtered.aligned.OSK_domain -            1.8e-30  113.3   0.2   2.9e-30  112.6   0.2   1.3   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i5 transcribed RNA sequence
+GFMG01250253.1_1     -          oskar_filtered.aligned.OSK_domain -            2.3e-30  112.9   0.2   3.5e-30  112.3   0.2   1.3   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i10 transcribed RNA sequence
+GFMG01250244.1_3     -          oskar_filtered.aligned.OSK_domain -            1.5e-29  110.3   2.5   2.4e-29  109.6   2.5   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i1 transcribed RNA sequence
+GFMG01250252.1_3     -          oskar_filtered.aligned.OSK_domain -            1.6e-29  110.2   2.5   2.5e-29  109.5   2.5   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i9 transcribed RNA sequence
+GFMG01250247.1_1     -          oskar_filtered.aligned.OSK_domain -            1.7e-29  110.1   2.5   2.6e-29  109.5   2.5   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i4 transcribed RNA sequence
+GFMG01287760.1_4     -          oskar_filtered.aligned.OSK_domain -            1.7e-29  110.1   2.5   2.7e-29  109.4   2.5   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169224_c1_g1_i3 transcribed RNA sequence
+GFMG01287759.1_4     -          oskar_filtered.aligned.OSK_domain -            1.8e-29  110.0   2.5   2.9e-29  109.3   2.5   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169224_c1_g1_i2 transcribed RNA sequence
+GFMG01250254.1_3     -          oskar_filtered.aligned.OSK_domain -            2.2e-14   60.9   0.1   3.8e-14   60.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i11 transcribed RNA sequence
+GFMG01287764.1_5     -          oskar_filtered.aligned.OSK_domain -            2.5e-14   60.6   0.1   4.2e-14   59.9   0.1   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169224_c1_g1_i7 transcribed RNA sequence
+GFMG01287758.1_5     -          oskar_filtered.aligned.OSK_domain -            2.5e-14   60.6   0.1   4.2e-14   59.9   0.1   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169224_c1_g1_i1 transcribed RNA sequence
+GFMG01287763.1_5     -          oskar_filtered.aligned.OSK_domain -            2.8e-14   60.5   0.1   4.5e-14   59.8   0.1   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169224_c1_g1_i6 transcribed RNA sequence
+GFMG01287761.1_5     -          oskar_filtered.aligned.OSK_domain -            2.8e-14   60.5   0.1   4.6e-14   59.8   0.1   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN169224_c1_g1_i4 transcribed RNA sequence
+GFMG01250256.1_3     -          oskar_filtered.aligned.OSK_domain -            4.8e-14   59.7   0.0   1.4e-13   58.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i13 transcribed RNA sequence
+GFMG01250249.1_1     -          oskar_filtered.aligned.OSK_domain -            4.9e-14   59.7   0.0   1.4e-13   58.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i6 transcribed RNA sequence
+GFMG01250260.1_1     -          oskar_filtered.aligned.OSK_domain -            4.9e-14   59.7   0.0   1.5e-13   58.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i17 transcribed RNA sequence
+GFMG01250259.1_3     -          oskar_filtered.aligned.OSK_domain -              5e-14   59.7   0.0   8.8e-14   58.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN165768_c0_g2_i16 transcribed RNA sequence
+GFMG01393973.1_6     -          oskar_filtered.aligned.OSK_domain -            6.3e-10   46.3   0.0   7.1e-10   46.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN195224_c0_g1_i1 transcribed RNA sequence
+GFMG01158664.1_6     -          oskar_filtered.aligned.OSK_domain -            4.5e-09   43.5   0.6   6.3e-09   43.0   0.1   1.5   2   0   0   2   2   1   1 TSA: Gryllus bimaculatus TRINITY_DN147656_c0_g2_i1 transcribed RNA sequence
+GFMG01017612.1_2     -          oskar_filtered.aligned.OSK_domain -            1.5e-07   38.5   0.0   1.7e-07   38.4   0.0   1.0   1   0   0   1   1   1   1 TSA: Gryllus bimaculatus TRINITY_DN23528_c0_g1_i1 transcribed RNA sequence
+GFMG01315256.1_2     -          oskar_filtered.aligned.OSK_domain -              0.038   20.9   0.7        43   11.0   0.1   2.0   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN171736_c3_g1_i1 transcribed RNA sequence
+GFMG01350169.1_5     -          oskar_filtered.aligned.OSK_domain -                0.2   18.6   1.1      0.23   18.4   1.1   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN174825_c5_g1_i1 transcribed RNA sequence
+GFMG01206206.1_2     -          oskar_filtered.aligned.OSK_domain -               0.27   18.2   0.7      0.29   18.1   0.7   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN160256_c0_g2_i5 transcribed RNA sequence
+GFMG01088932.1_6     -          oskar_filtered.aligned.OSK_domain -               0.41   17.5   0.0      0.45   17.4   0.0   1.0   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN105925_c1_g1_i1 transcribed RNA sequence
+GFMG01353765.1_3     -          oskar_filtered.aligned.OSK_domain -                  1   16.3   0.2       1.1   16.2   0.2   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN175151_c1_g1_i1 transcribed RNA sequence
+GFMG01088933.1_5     -          oskar_filtered.aligned.OSK_domain -                1.7   15.5   0.0       1.9   15.4   0.0   1.0   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN105925_c1_g2_i1 transcribed RNA sequence
+GFMG01257970.1_5     -          oskar_filtered.aligned.OSK_domain -                2.1   15.2   1.4       5.2   14.0   1.4   1.7   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN166457_c4_g2_i7 transcribed RNA sequence
+GFMG01245601.1_3     -          oskar_filtered.aligned.OSK_domain -                2.1   15.2   0.5       2.4   15.1   0.5   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN165246_c0_g2_i1 transcribed RNA sequence
+GFMG01257969.1_4     -          oskar_filtered.aligned.OSK_domain -                2.3   15.1   1.4       5.7   13.8   1.4   1.7   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN166457_c4_g2_i6 transcribed RNA sequence
+GFMG01245608.1_4     -          oskar_filtered.aligned.OSK_domain -                2.4   15.1   0.4       2.7   14.9   0.4   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN165246_c0_g1_i5 transcribed RNA sequence
+GFMG01421816.1_3     -          oskar_filtered.aligned.OSK_domain -                2.7   14.9   0.0       3.3   14.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN223516_c0_g1_i1 transcribed RNA sequence
+GFMG01441047.1_5     -          oskar_filtered.aligned.OSK_domain -                3.3   14.6   0.0       3.5   14.5   0.0   1.0   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN243150_c0_g1_i1 transcribed RNA sequence
+GFMG01291908.1_5     -          oskar_filtered.aligned.OSK_domain -                4.5   14.2   1.5        90    9.9   0.2   2.0   1   1   1   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN169652_c2_g2_i1 transcribed RNA sequence
+GFMG01221930.1_3     -          oskar_filtered.aligned.OSK_domain -                5.3   13.9   0.0       6.8   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN162521_c1_g1_i2 transcribed RNA sequence
+GFMG01213237.1_5     -          oskar_filtered.aligned.OSK_domain -                6.1   13.7   0.0   1.1e+02    9.7   0.0   2.0   2   0   0   2   2   2   0 TSA: Gryllus bimaculatus TRINITY_DN161355_c5_g1_i5 transcribed RNA sequence
+GFMG01088931.1_3     -          oskar_filtered.aligned.OSK_domain -                6.1   13.7   0.0         7   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN105925_c0_g1_i1 transcribed RNA sequence
+GFMG01033734.1_2     -          oskar_filtered.aligned.OSK_domain -                6.2   13.7   0.3       6.4   13.7   0.3   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN44066_c0_g2_i1 transcribed RNA sequence
+GFMG01022888.1_5     -          oskar_filtered.aligned.OSK_domain -                6.3   13.7   0.2       6.9   13.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN30279_c0_g1_i1 transcribed RNA sequence
+GFMG01108427.1_6     -          oskar_filtered.aligned.OSK_domain -                7.2   13.5   0.4       7.9   13.4   0.4   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN120825_c0_g2_i1 transcribed RNA sequence
+GFMG01376496.1_1     -          oskar_filtered.aligned.OSK_domain -                8.1   13.3   0.0       9.4   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN177548_c0_g1_i1 transcribed RNA sequence
+GFMG01257961.1_4     -          oskar_filtered.aligned.OSK_domain -                8.9   13.2   3.6       9.1   13.2   1.5   1.6   1   1   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN166457_c4_g2_i1 transcribed RNA sequence
+GFMG01454273.1_1     -          oskar_filtered.aligned.OSK_domain -                9.1   13.2   0.0       9.9   13.1   0.0   1.0   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN256695_c0_g1_i1 transcribed RNA sequence
+GFMG01033733.1_3     -          oskar_filtered.aligned.OSK_domain -                9.5   13.1   0.3        12   12.8   0.3   1.2   1   0   0   1   1   1   0 TSA: Gryllus bimaculatus TRINITY_DN44066_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFMG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFMG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFMG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:53 2019
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZK01053245.1_6     -          oskar_filtered.aligned.OSK_domain -            4.5e-28  102.5   1.8   4.2e-17   66.7   0.5   2.3   1   1   1   2   2   2   2 TSA: Stictocephala bisonia breed wildtype s24321_L_70644_0_20_1_LINEAR, transcribed RNA sequence
+GCZK01039477.1_5     -          oskar_filtered.aligned.OSK_domain -            2.6e-23   87.0   0.1   4.8e-23   86.1   0.1   1.4   1   0   0   1   1   1   1 TSA: Stictocephala bisonia breed wildtype s118_L_102_2_60_3_COMPLEX, transcribed RNA sequence
+GCZK01039366.1_5     -          oskar_filtered.aligned.OSK_domain -            3.3e-23   86.6   0.1   6.1e-23   85.8   0.1   1.4   1   0   0   1   1   1   1 TSA: Stictocephala bisonia breed wildtype s117_L_102_1_60_4_COMPLEX, transcribed RNA sequence
+GCZK01039256.1_5     -          oskar_filtered.aligned.OSK_domain -            3.3e-23   86.6   0.1   6.1e-23   85.8   0.1   1.4   1   0   0   1   1   1   1 TSA: Stictocephala bisonia breed wildtype s116_L_102_0_60_6_COMPLEX, transcribed RNA sequence
+GCZK01049846.1_3     -          oskar_filtered.aligned.OSK_domain -              0.001   23.1   1.6     0.001   23.1   0.3   1.6   1   1   1   2   2   2   1 TSA: Stictocephala bisonia breed wildtype s21254_L_53067_0_2_6_LINEAR, transcribed RNA sequence
+GCZK01030300.1_2     -          oskar_filtered.aligned.OSK_domain -                1.7   12.6   0.2       1.8   12.5   0.2   1.1   1   0   0   1   1   1   0 TSA: Stictocephala bisonia breed wildtype C268030_41_0, transcribed RNA sequence
+GCZK01025473.1_5     -          oskar_filtered.aligned.OSK_domain -                1.9   12.4   3.3       2.2   12.2   3.3   1.0   1   0   0   1   1   1   0 TSA: Stictocephala bisonia breed wildtype C246312_2_0, transcribed RNA sequence
+GCZK01035593.1_5     -          oskar_filtered.aligned.OSK_domain -                1.9   12.4   0.2       1.9   12.4   0.2   1.6   2   0   0   2   2   2   0 TSA: Stictocephala bisonia breed wildtype C298833_35_0, transcribed RNA sequence
+GCZK01026782.1_6     -          oskar_filtered.aligned.OSK_domain -                2.1   12.2   0.0       2.3   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Stictocephala bisonia breed wildtype C251956_2_0, transcribed RNA sequence
+GCZK01033706.1_3     -          oskar_filtered.aligned.OSK_domain -                3.5   11.6   0.3       5.2   11.0   0.3   1.2   1   0   0   1   1   1   0 TSA: Stictocephala bisonia breed wildtype C286188_8_0, transcribed RNA sequence
+GCZK01029756.1_5     -          oskar_filtered.aligned.OSK_domain -                4.7   11.1   2.6       5.5   10.9   2.6   1.1   1   0   0   1   1   1   0 TSA: Stictocephala bisonia breed wildtype C265260_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:22 2019
+# [ok]

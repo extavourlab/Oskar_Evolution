@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPR01060865.1_1     -          oskar_filtered.aligned.OSK_domain -            1.4e-44  156.8   0.2   3.5e-44  155.4   0.0   1.8   2   0   0   2   2   2   1 TSA: Schultesia lampyridiformis breed breeding C351900_a_6_0_l_1439, transcribed RNA sequence
+GCPR01062290.1_3     -          oskar_filtered.aligned.OSK_domain -            1.8e-28  104.2   0.2   3.1e-28  103.4   0.2   1.3   1   0   0   1   1   1   1 TSA: Schultesia lampyridiformis breed breeding C356264_a_19_0_l_1820, transcribed RNA sequence
+GCPR01013898.1_2     -          oskar_filtered.aligned.OSK_domain -               0.22   15.9   0.2      0.25   15.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding C212192_a_3_0_l_244, transcribed RNA sequence
+GCPR01057403.1_3     -          oskar_filtered.aligned.OSK_domain -                0.9   13.9   0.3       1.1   13.6   0.3   1.2   1   0   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding C340796_a_6_0_l_974, transcribed RNA sequence
+GCPR01077348.1_6     -          oskar_filtered.aligned.OSK_domain -                1.1   13.7   0.0       2.1   12.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding s3381_L_4196_2_a_8_7_l_1232, transcribed RNA sequence
+GCPR01056950.1_4     -          oskar_filtered.aligned.OSK_domain -                1.4   13.3   1.2       2.2   12.7   1.2   1.3   1   0   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding C339396_a_4_0_l_940, transcribed RNA sequence
+GCPR01011513.1_3     -          oskar_filtered.aligned.OSK_domain -                1.5   13.2   0.1       1.5   13.2   0.1   1.0   1   0   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding C206444_a_3_0_l_239, transcribed RNA sequence
+GCPR01053258.1_2     -          oskar_filtered.aligned.OSK_domain -                1.9   12.8   0.8       2.7   12.4   0.8   1.2   1   0   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding C327669_a_11_0_l_729, transcribed RNA sequence
+GCPR01021467.1_6     -          oskar_filtered.aligned.OSK_domain -                3.9   11.8   0.1       4.4   11.7   0.1   1.0   1   0   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding C232084_a_3_0_l_269, transcribed RNA sequence
+GCPR01057605.1_4     -          oskar_filtered.aligned.OSK_domain -                4.2   11.7   1.9        15    9.9   0.8   2.3   2   1   0   2   2   2   0 TSA: Schultesia lampyridiformis breed breeding C341468_a_3_0_l_992, transcribed RNA sequence
+GCPR01017236.1_6     -          oskar_filtered.aligned.OSK_domain -                4.9   11.5   0.2       7.3   10.9   0.1   1.2   1   1   0   1   1   1   0 TSA: Schultesia lampyridiformis breed breeding C220320_a_3_0_l_251, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:23 2019
+# [ok]

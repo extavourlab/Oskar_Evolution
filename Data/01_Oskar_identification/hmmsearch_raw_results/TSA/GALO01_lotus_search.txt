@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GALO01039320.1_1     -          LOTUS_CONSENSUS      -            4.1e-19   72.7   0.3   2.3e-18   70.3   0.1   2.4   2   0   0   2   2   2   1 TSA: Apis mellifera carnica CL9754.Contig2_All transcribed RNA sequence
+GALO01039319.1_1     -          LOTUS_CONSENSUS      -              5e-19   72.4   0.3   2.4e-18   70.2   0.1   2.3   2   0   0   2   2   2   1 TSA: Apis mellifera carnica CL9754.Contig1_All transcribed RNA sequence
+GALO01039321.1_1     -          LOTUS_CONSENSUS      -            1.5e-18   70.9   1.4   4.3e-18   69.4   0.1   2.5   3   0   0   3   3   3   1 TSA: Apis mellifera carnica CL9754.Contig3_All transcribed RNA sequence
+GALO01022659.1_2     -          LOTUS_CONSENSUS      -            3.3e-15   60.2  14.8   6.7e-12   49.6   0.6   4.2   4   0   0   4   4   4   2 TSA: Apis mellifera carnica CL2339.Contig3_All transcribed RNA sequence
+GALO01022658.1_3     -          LOTUS_CONSENSUS      -            4.4e-15   59.8  14.6   7.8e-12   49.4   0.6   4.2   4   0   0   4   4   4   2 TSA: Apis mellifera carnica CL2339.Contig2_All transcribed RNA sequence
+GALO01022657.1_3     -          LOTUS_CONSENSUS      -            5.9e-15   59.4  14.0   9.8e-12   49.0   0.6   4.2   4   0   0   4   4   4   2 TSA: Apis mellifera carnica CL2339.Contig1_All transcribed RNA sequence
+GALO01022660.1_3     -          LOTUS_CONSENSUS      -            3.7e-13   53.6   2.8   2.3e-11   47.9   0.6   5.6   5   0   0   5   5   5   2 TSA: Apis mellifera carnica CL2339.Contig4_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GALO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GALO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GALO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:21 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXG01038267.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-17   64.9   0.0   2.4e-15   60.3   0.0   2.6   2   0   0   2   2   2   1 TSA: Hespenedra chilensis breed wildtype s5914_L_21760_0_11_3_COMPLEX, transcribed RNA sequence
+GCXG01038269.1_2     -          oskar_filtered.aligned.LOTUS_domain -              1e-16   64.8   0.0   2.5e-15   60.3   0.0   2.6   2   0   0   2   2   2   1 TSA: Hespenedra chilensis breed wildtype s5916_L_21760_2_9_9_COMPLEX, transcribed RNA sequence
+GCXG01038268.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-16   63.5   0.0   5.2e-16   62.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Hespenedra chilensis breed wildtype s5915_L_21760_1_9_3_COMPLEX, transcribed RNA sequence
+GCXG01006819.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-07   34.6   0.0   2.4e-06   31.5   0.0   1.9   2   0   0   2   2   2   1 TSA: Hespenedra chilensis breed wildtype C121626_4_0, transcribed RNA sequence
+GCXG01010819.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.63   14.1   0.3       1.2   13.2   0.3   1.4   1   0   0   1   1   1   0 TSA: Hespenedra chilensis breed wildtype C135520_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:40 2019
+# [ok]

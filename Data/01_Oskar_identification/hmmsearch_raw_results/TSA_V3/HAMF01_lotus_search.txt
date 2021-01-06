@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAMF01020837.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-19   74.7   3.7   1.9e-18   70.9   0.1   3.8   4   1   1   5   5   5   1 TSA: Galerucella calmariensis TRINITY_DN109339_c2_g6_i1 transcribed RNA sequence
+HAMF01039518.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.6e-19   72.8   0.3   6.9e-19   72.3   0.3   1.3   1   0   0   1   1   1   1 TSA: Galerucella calmariensis TRINITY_DN51976_c0_g1_i1 transcribed RNA sequence
+HAMF01017699.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-14   58.6   0.0   8.9e-11   46.2   0.0   3.1   2   0   0   2   2   2   2 TSA: Galerucella calmariensis TRINITY_DN108116_c0_g2_i2 transcribed RNA sequence
+HAMF01014819.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-06   32.5   1.2       2.3   12.8   0.0   6.4   2   1   2   5   5   5   1 TSA: Galerucella calmariensis TRINITY_DN106934_c3_g2_i3 transcribed RNA sequence
+HAMF01040926.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.17   16.5   0.0      0.36   15.4   0.0   1.6   1   0   0   1   1   1   0 TSA: Galerucella calmariensis TRINITY_DN56924_c0_g2_i1 transcribed RNA sequence
+HAMF01052767.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.24   15.9   0.0      0.61   14.7   0.0   1.6   1   0   0   1   1   1   0 TSA: Galerucella calmariensis TRINITY_DN90523_c0_g2_i1 transcribed RNA sequence
+HAMF01033978.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.81   14.3   0.6       3.9   12.1   0.3   2.4   1   1   1   2   2   2   0 TSA: Galerucella calmariensis TRINITY_DN20838_c0_g1_i1 transcribed RNA sequence
+HAMF01043689.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.8   0.0       1.8   13.2   0.0   1.3   1   0   0   1   1   1   0 TSA: Galerucella calmariensis TRINITY_DN675_c0_g2_i1 transcribed RNA sequence
+HAMF01055258.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.2   0.1       1.8   13.2   0.1   1.7   2   0   0   2   2   2   0 TSA: Galerucella calmariensis TRINITY_DN93591_c0_g1_i1 transcribed RNA sequence
+HAMF01052766.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.2   0.1       5.1   11.7   0.0   1.7   2   0   0   2   2   2   0 TSA: Galerucella calmariensis TRINITY_DN90523_c0_g1_i1 transcribed RNA sequence
+HAMF01011342.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.1   0.4       6.5   11.4   0.0   1.9   2   0   0   2   2   2   0 TSA: Galerucella calmariensis TRINITY_DN105457_c0_g1_i1 transcribed RNA sequence
+HAMF01056116.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.6   12.6   0.3   1.5e+02    7.0   0.2   3.3   3   0   0   3   3   3   0 TSA: Galerucella calmariensis TRINITY_DN94482_c0_g3_i4 transcribed RNA sequence
+HAMF01045358.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  3   12.5   0.0       3.7   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Galerucella calmariensis TRINITY_DN72725_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/HAMF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:01 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHGC01006599.1_6     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-14   55.2   0.0     2e-13   53.7   0.0   1.8   1   0   0   1   1   1   1 TSA: Osmia bicornis isolate obic3 contig6606, transcribed RNA sequence
+GHGC01023701.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-13   52.1   0.1   7.5e-13   51.9   0.1   1.0   1   0   0   1   1   1   1 TSA: Osmia bicornis isolate obic3 contig23742, transcribed RNA sequence
+GHGC01027191.1_6     -          oskar_filtered.aligned.LOTUS_domain -            7.7e-09   39.0   0.1   8.6e-09   38.9   0.1   1.1   1   0   0   1   1   1   1 TSA: Osmia bicornis isolate obic3 contig27253, transcribed RNA sequence
+GHGC01002471.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-05   27.3   0.3         4   11.1   0.0   6.0   2   1   4   6   6   6   1 TSA: Osmia bicornis isolate obic3 contig2475, transcribed RNA sequence
+GHGC01005179.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.2   11.9   2.1        50    7.5   0.1   2.3   2   0   0   2   2   2   0 TSA: Osmia bicornis isolate obic3 contig5185, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHGC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:44 2019
+# [ok]

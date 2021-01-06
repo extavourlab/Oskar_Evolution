@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFV01000298.1_5     -          LOTUS_CONSENSUS      -            3.9e-19   72.1   0.4   2.8e-18   69.3   0.0   2.6   2   0   0   2   2   2   1 TSA: Bombus pascuorum isolate bpas3 contig300, transcribed RNA sequence
+GHFV01017983.1_6     -          LOTUS_CONSENSUS      -            8.2e-09   39.0   0.1   8.2e-09   39.0   0.1   2.5   3   1   0   3   3   3   1 TSA: Bombus pascuorum isolate bpas3 contig17997, transcribed RNA sequence
+GHFV01005422.1_5     -          LOTUS_CONSENSUS      -            0.00094   22.8   0.1        43    7.8   0.0   5.5   3   1   3   6   6   6   1 TSA: Bombus pascuorum isolate bpas3 contig5429, transcribed RNA sequence
+GHFV01005828.1_4     -          LOTUS_CONSENSUS      -              0.016   18.9   0.2     0.066   16.8   0.0   2.2   2   0   0   2   2   2   0 TSA: Bombus pascuorum isolate bpas3 contig5835, transcribed RNA sequence
+GHFV01027370.1_3     -          LOTUS_CONSENSUS      -              0.085   16.5   0.0      0.13   15.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Bombus pascuorum isolate bpas3 contig27398, transcribed RNA sequence
+GHFV01007142.1_4     -          LOTUS_CONSENSUS      -                0.3   14.8   0.2        14    9.4   0.1   3.0   3   0   0   3   3   3   0 TSA: Bombus pascuorum isolate bpas3 contig7150, transcribed RNA sequence
+GHFV01000044.1_5     -          LOTUS_CONSENSUS      -               0.34   14.6   0.1      0.87   13.3   0.1   1.6   1   0   0   1   1   1   0 TSA: Bombus pascuorum isolate bpas3 contig44, transcribed RNA sequence
+GHFV01006955.1_5     -          LOTUS_CONSENSUS      -               0.47   14.1   0.0        23    8.7   0.0   2.1   1   1   1   2   2   2   0 TSA: Bombus pascuorum isolate bpas3 contig6962, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:48 2019
+# [ok]

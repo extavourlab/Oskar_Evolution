@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMI01026766.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.6e-30  106.7   0.5   1.5e-29  105.4   0.1   2.0   2   0   0   2   2   2   1 TSA: Podagrion pachymerum s5074_L_16713_0_a_56_3_l_1766 transcribed RNA sequence
+GBMI01022087.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-13   53.3   1.0   1.5e-12   50.8   0.0   2.7   3   0   0   3   3   3   1 TSA: Podagrion pachymerum C92915_a_34_0_l_3431 transcribed RNA sequence
+GBMI01009725.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-10   42.5   0.0   9.3e-10   41.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Podagrion pachymerum C56798_a_5_0_l_441 transcribed RNA sequence
+GBMI01022082.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-05   28.1   0.0      0.25   14.8   0.0   4.6   3   1   2   5   5   5   1 TSA: Podagrion pachymerum C92891_a_37_0_l_3401 transcribed RNA sequence
+GBMI01003922.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0021   21.5   0.0    0.0055   20.1   0.0   1.6   1   1   1   2   2   2   1 TSA: Podagrion pachymerum C40156_a_5_0_l_272 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:56 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUD01015499.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.4e-29  103.2   1.2   1.5e-28  102.0   0.2   2.1   2   0   0   2   2   2   1 TSA: Oodera sp. AD-2014 C86407_a_51_0_l_1434 transcribed RNA sequence
+GBUD01023979.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-13   52.8   0.0   1.5e-12   50.6   0.0   2.2   2   0   0   2   2   2   1 TSA: Oodera sp. AD-2014 s5339_L_22064_0_a_39_3_l_3623 transcribed RNA sequence
+GBUD01018955.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-09   40.6   0.0      0.17   15.2   0.0   5.3   2   1   3   5   5   5   2 TSA: Oodera sp. AD-2014 C97400_a_16_0_l_3847 transcribed RNA sequence
+GBUD01009289.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0023   21.1   0.2    0.0056   19.9   0.2   1.8   1   1   0   1   1   1   1 TSA: Oodera sp. AD-2014 C66579_a_4_0_l_504 transcribed RNA sequence
+GBUD01011584.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.22   14.8   0.2      0.38   14.0   0.2   1.4   1   0   0   1   1   1   0 TSA: Oodera sp. AD-2014 C73738_a_14_0_l_700 transcribed RNA sequence
+GBUD01017765.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.32   14.2   4.8        36    7.7   0.1   3.8   1   1   1   3   3   3   0 TSA: Oodera sp. AD-2014 C93689_a_33_0_l_2327 transcribed RNA sequence
+GBUD01001063.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.59   13.4   0.0      0.66   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Oodera sp. AD-2014 C42803_a_3_0_l_217 transcribed RNA sequence
+GBUD01024650.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.2   12.4   0.8        71    6.7   0.0   3.3   3   0   0   3   3   3   0 TSA: Oodera sp. AD-2014 s647_L_1303_1_a_59_1_l_1566 transcribed RNA sequence
+GBUD01014634.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.4   11.5   0.2       2.4   11.5   0.2   2.0   2   0   0   2   2   2   0 TSA: Oodera sp. AD-2014 C83582_a_6_0_l_1205 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:49 2019
+# [ok]

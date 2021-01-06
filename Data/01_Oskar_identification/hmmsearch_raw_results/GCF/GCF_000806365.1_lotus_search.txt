@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011303923.1       -          LOTUS_CONSENSUS      -            6.5e-19   68.1   0.0     2e-17   63.4   0.0   2.6   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like [Fopius arisanus]
+XP_011303924.1       -          LOTUS_CONSENSUS      -            6.5e-19   68.1   0.0     2e-17   63.4   0.0   2.6   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like [Fopius arisanus]
+XP_011303994.1       -          LOTUS_CONSENSUS      -              2e-18   66.6   0.0   6.5e-18   64.9   0.0   2.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like [Fopius arisanus]
+XP_011305506.1       -          LOTUS_CONSENSUS      -            1.7e-14   54.0   0.0   5.3e-14   52.4   0.0   1.8   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC105267990 [Fopius arisanus]
+XP_011312573.1       -          LOTUS_CONSENSUS      -            1.7e-14   53.9   0.0   1.1e-09   38.6   0.0   2.7   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5-like isoform X2 [Fopius arisanus]
+XP_011312572.1       -          LOTUS_CONSENSUS      -            1.8e-14   53.9   0.0   1.3e-09   38.3   0.0   2.9   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC105272242 isoform X1 [Fopius arisanus]
+XP_011307135.1       -          LOTUS_CONSENSUS      -            1.6e-07   31.6   0.0       2.1    8.8   0.0   5.5   3   1   3   6   6   6   2 PREDICTED: meiosis arrest female protein 1 isoform X2 [Fopius arisanus]
+XP_011307136.1       -          LOTUS_CONSENSUS      -            1.6e-07   31.6   0.0       2.1    8.8   0.0   5.5   3   1   3   6   6   6   2 PREDICTED: meiosis arrest female protein 1 isoform X2 [Fopius arisanus]
+XP_011307134.1       -          LOTUS_CONSENSUS      -            5.1e-07   30.0   0.0       2.7    8.5   0.0   5.4   2   1   3   5   5   5   2 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Fopius arisanus]
+XP_011298280.1       -          LOTUS_CONSENSUS      -                  3    8.3   5.9       3.1    8.3   0.0   3.8   5   0   0   5   5   5   0 PREDICTED: uncharacterized protein LOC105263647 [Fopius arisanus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000806365.1_ASM80636v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000806365.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000806365.1_ASM80636v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:53 2019
+# [ok]

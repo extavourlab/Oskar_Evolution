@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEEM01011775.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   63.6   0.0   4.5e-11   45.9   0.0   2.4   2   0   0   2   2   2   2 TSA: Trichoplusia ni HighFive_v1_010829.2 transcribed RNA sequence
+GEEM01003658.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-16   63.4   2.7   6.5e-14   55.0   0.0   3.2   3   0   0   3   3   3   2 TSA: Trichoplusia ni HighFive_v1_003649.1 transcribed RNA sequence
+GEEM01011776.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-11   46.7   0.0   5.5e-11   45.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Trichoplusia ni HighFive_v1_010829.3 transcribed RNA sequence
+GEEM01011777.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00092   22.4   0.0      0.17   15.1   0.0   2.4   2   0   0   2   2   2   1 TSA: Trichoplusia ni HighFive_v1_010829.4 transcribed RNA sequence
+GEEM01016346.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.15   15.3   0.3      0.38   14.0   0.0   1.7   1   1   1   2   2   2   0 TSA: Trichoplusia ni HighFive_v1_015138.1 transcribed RNA sequence
+GEEM01003187.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.39   14.0   0.4      0.48   13.7   0.4   1.2   1   0   0   1   1   1   0 TSA: Trichoplusia ni HighFive_v1_003177.1 transcribed RNA sequence
+GEEM01011540.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.57   13.5   0.2       2.2   11.6   0.0   2.1   2   0   0   2   2   2   0 TSA: Trichoplusia ni HighFive_v1_010658.5 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEEM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:35 2019
+# [ok]

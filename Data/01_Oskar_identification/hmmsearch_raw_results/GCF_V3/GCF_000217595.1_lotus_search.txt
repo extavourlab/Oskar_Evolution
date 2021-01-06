@@ -1,0 +1,25 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012229836.1       -          oskar_filtered.aligned.LOTUS_domain -            4.3e-30  104.2   0.1   3.2e-29  101.4   0.1   2.4   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC105676478 [Linepithema humile]
+XP_012231718.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-22   79.2   0.0   1.4e-20   73.7   0.0   3.1   3   0   0   3   3   3   1 PREDICTED: LOW QUALITY PROTEIN: tudor domain-containing protein 7-like [Linepithema humile]
+XP_012228560.1       -          oskar_filtered.aligned.LOTUS_domain -            4.7e-17   62.4   0.0   1.3e-11   45.0   0.0   3.8   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC105675758 isoform X1 [Linepithema humile]
+XP_012228561.1       -          oskar_filtered.aligned.LOTUS_domain -            4.7e-17   62.4   0.0   1.3e-11   45.0   0.0   3.8   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC105675758 isoform X1 [Linepithema humile]
+XP_012228562.1       -          oskar_filtered.aligned.LOTUS_domain -            4.7e-17   62.4   0.0   1.3e-11   45.0   0.0   3.8   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC105675758 isoform X1 [Linepithema humile]
+XP_012228563.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-13   49.9   0.0   1.2e-11   45.0   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: uncharacterized protein LOC105675758 isoform X2 [Linepithema humile]
+XP_012234168.1       -          oskar_filtered.aligned.LOTUS_domain -            7.1e-05   23.3   0.0       2.9    8.5   0.0   5.3   4   1   2   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X2 [Linepithema humile]
+XP_012234167.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00019   21.9   0.0       3.5    8.2   0.0   5.2   4   1   2   6   6   6   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Linepithema humile]
+XP_012229215.1       -          oskar_filtered.aligned.LOTUS_domain -              0.032   14.8   4.5      0.22   12.1   0.3   3.4   2   2   0   2   2   2   0 PREDICTED: uncharacterized protein LOC105676134 [Linepithema humile]
+XP_012221278.1       -          oskar_filtered.aligned.LOTUS_domain -                6.1    7.5  12.0        54    4.4   0.8   4.5   2   2   1   3   3   3   0 PREDICTED: uncharacterized protein LOC105671573 isoform X1 [Linepithema humile]
+XP_012221279.1       -          oskar_filtered.aligned.LOTUS_domain -                6.1    7.5  12.0        54    4.4   0.8   4.5   2   2   1   3   3   3   0 PREDICTED: uncharacterized protein LOC105671573 isoform X1 [Linepithema humile]
+XP_012221280.1       -          oskar_filtered.aligned.LOTUS_domain -                6.8    7.3  12.5        49    4.6   0.8   4.4   2   2   1   3   3   3   0 PREDICTED: uncharacterized protein LOC105671573 isoform X2 [Linepithema humile]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000217595.1_Lhum_UMD_V04_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000217595.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000217595.1_Lhum_UMD_V04_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:04 2019
+# [ok]

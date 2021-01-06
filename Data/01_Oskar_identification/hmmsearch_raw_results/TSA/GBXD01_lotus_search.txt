@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBXD01021482.1_3     -          LOTUS_CONSENSUS      -            1.3e-13   54.6   0.0   5.8e-08   36.5   0.0   2.5   2   0   0   2   2   2   2 TSA: Helicoverpa armigera Ha_Unigene21482 transcribed RNA sequence
+GBXD01035969.1_5     -          LOTUS_CONSENSUS      -            3.2e-13   53.3   3.0   9.8e-12   48.6   0.0   3.5   3   0   0   3   3   3   1 TSA: Helicoverpa armigera Ha_Unigene35969 transcribed RNA sequence
+GBXD01018642.1_1     -          LOTUS_CONSENSUS      -               0.73   13.7   0.5        15    9.5   0.5   2.4   1   1   0   1   1   1   0 TSA: Helicoverpa armigera Ha_Unigene18642 transcribed RNA sequence
+GBXD01015578.1_2     -          LOTUS_CONSENSUS      -               0.79   13.6   0.0       1.3   12.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Helicoverpa armigera Ha_Unigene15578 transcribed RNA sequence
+GBXD01018323.1_3     -          LOTUS_CONSENSUS      -               0.93   13.4   0.0       1.6   12.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Helicoverpa armigera Ha_Unigene18323 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBXD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBXD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBXD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:53 2019
+# [ok]

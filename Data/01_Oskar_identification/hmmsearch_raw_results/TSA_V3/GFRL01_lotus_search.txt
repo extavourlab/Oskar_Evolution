@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFRL01007355.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-23   86.1   0.1   1.5e-22   83.7   0.0   2.2   2   0   0   2   2   2   1 TSA: Phyllomimus sinicus scaffold7375, transcribed RNA sequence
+GFRL01041869.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-10   44.3   0.0   2.2e-09   41.5   0.0   2.2   2   0   0   2   2   2   1 TSA: Phyllomimus sinicus C246939, transcribed RNA sequence
+GFRL01015334.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-05   29.7   0.0       8.9   10.6   0.0   5.4   3   2   2   5   5   5   1 TSA: Phyllomimus sinicus scaffold15381, transcribed RNA sequence
+GFRL01051236.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00029   25.0   0.0       4.4   11.6   0.0   4.4   2   2   2   5   5   5   2 TSA: Phyllomimus sinicus C279802, transcribed RNA sequence
+GFRL01037152.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0047   21.2   0.0     0.065   17.5   0.0   2.3   1   1   0   2   2   2   1 TSA: Phyllomimus sinicus C230272, transcribed RNA sequence
+GFRL01043278.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.65   14.3   0.1         2   12.7   0.1   1.7   1   1   0   1   1   1   0 TSA: Phyllomimus sinicus C251887, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFRL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFRL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFRL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:40 2019
+# [ok]

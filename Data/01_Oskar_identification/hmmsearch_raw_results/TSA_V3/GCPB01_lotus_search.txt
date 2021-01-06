@@ -1,0 +1,37 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPB01088062.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-28  102.0   1.9   1.3e-27  100.7   0.1   2.5   3   0   0   3   3   3   1 TSA: Megastigmus spermotrophus contig193099 transcribed RNA sequence
+GCPB01011262.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-27  100.4   0.1   1.7e-27  100.4   0.1   3.6   5   0   0   5   5   4   1 TSA: Megastigmus spermotrophus contig13256 transcribed RNA sequence
+GCPB01068282.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-17   68.5   0.0   2.5e-17   67.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig160511 transcribed RNA sequence
+GCPB01019521.1_3     -          oskar_filtered.aligned.LOTUS_domain -              4e-17   67.1   0.5   1.1e-12   52.8   0.0   3.1   2   0   0   2   2   2   2 TSA: Megastigmus spermotrophus contig23645 transcribed RNA sequence
+GCPB01019519.1_6     -          oskar_filtered.aligned.LOTUS_domain -              4e-16   63.9   3.2   1.5e-12   52.4   0.0   3.4   3   0   0   3   3   3   2 TSA: Megastigmus spermotrophus contig23643 transcribed RNA sequence
+GCPB01006680.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-14   58.8   6.2   9.8e-10   43.3   0.3   3.7   3   0   0   3   3   2   2 TSA: Megastigmus spermotrophus contig7583 transcribed RNA sequence
+GCPB01084552.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-14   57.8   0.0   1.1e-13   56.0   0.0   2.0   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig189098 transcribed RNA sequence
+GCPB01086723.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-13   54.9   0.0     8e-13   53.3   0.0   1.9   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig191590 transcribed RNA sequence
+GCPB01073179.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-13   54.8   0.0   3.7e-13   54.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig170071 transcribed RNA sequence
+GCPB01019520.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-13   54.4   0.0   1.1e-12   52.8   0.0   1.9   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig23644 transcribed RNA sequence
+GCPB01000568.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-12   51.1  15.2   7.8e-10   43.7   0.3   4.2   5   0   0   5   5   2   2 TSA: Megastigmus spermotrophus contig665 transcribed RNA sequence
+GCPB01004093.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-09   43.2   8.9     7e-05   27.8   0.1   4.2   4   0   0   4   4   4   2 TSA: Megastigmus spermotrophus contig4684 transcribed RNA sequence
+GCPB01088312.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   29.7   0.0   4.1e-05   28.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig193355 transcribed RNA sequence
+GCPB01004093.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-05   29.2   0.2   7.5e-05   27.7   0.2   1.8   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig4684 transcribed RNA sequence
+GCPB01088312.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00022   26.2  10.2     0.018   20.0   0.1   3.4   4   0   0   4   4   3   2 TSA: Megastigmus spermotrophus contig193355 transcribed RNA sequence
+GCPB01086801.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00049   25.0   0.0       9.4   11.3   0.0   4.2   4   1   1   5   5   4   2 TSA: Megastigmus spermotrophus contig191682 transcribed RNA sequence
+GCPB01023896.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00091   24.2   0.0        11   11.1   0.0   4.1   4   1   1   5   5   4   2 TSA: Megastigmus spermotrophus contig29045 transcribed RNA sequence
+GCPB01057049.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.78   14.8   0.3      0.83   14.7   0.3   1.3   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig103938 transcribed RNA sequence
+GCPB01016896.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.89   14.6   0.2       1.5   13.9   0.2   1.3   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig20132 transcribed RNA sequence
+GCPB01072643.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.6   1.3       1.9   13.5   1.3   1.1   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig168860 transcribed RNA sequence
+GCPB01067252.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.6   0.2       2.2   13.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig156216 transcribed RNA sequence
+GCPB01007479.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.3   0.1         4   12.5   0.1   1.3   1   1   0   1   1   1   0 TSA: Megastigmus spermotrophus contig8484 transcribed RNA sequence
+GCPB01015585.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.9   12.9   0.0       4.7   12.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig18679 transcribed RNA sequence
+GCPB01006677.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.1   12.2   1.7   6.8e+02    5.3   0.0   4.2   3   1   1   4   4   3   0 TSA: Megastigmus spermotrophus contig7580 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:05 2019
+# [ok]

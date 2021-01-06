@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGHS01022516.1_5     -          LOTUS_CONSENSUS      -            2.1e-15   59.7   0.2   3.2e-14   55.9   0.0   2.5   3   0   0   3   3   3   1 TSA: Pseudogonia rufifrons Pseudogonia_rufifrons_contig_32525 transcribed RNA sequence
+GGHS01005203.1_5     -          LOTUS_CONSENSUS      -            3.6e-09   39.7   0.0   3.6e-09   39.7   0.0   2.1   2   1   1   3   3   3   1 TSA: Pseudogonia rufifrons Pseudogonia_rufifrons_contig_5656 transcribed RNA sequence
+GGHS01016806.1_2     -          LOTUS_CONSENSUS      -               0.19   15.0   2.3        43    7.4   0.0   2.3   1   1   1   2   2   2   0 TSA: Pseudogonia rufifrons Pseudogonia_rufifrons_contig_20712 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGHS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGHS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:32 2019
+# [ok]

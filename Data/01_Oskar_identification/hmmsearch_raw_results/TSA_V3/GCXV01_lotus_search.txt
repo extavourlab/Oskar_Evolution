@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXV01006312.1_4     -          oskar_filtered.aligned.LOTUS_domain -              4e-06   30.0   0.1     5e-06   29.8   0.1   1.1   1   0   0   1   1   1   1 TSA: Megacopta cribraria breed wildtype C53840_2_0, transcribed RNA sequence
+GCXV01011964.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0028   20.9   0.0      0.21   14.9   0.0   2.7   1   1   2   3   3   3   1 TSA: Megacopta cribraria breed wildtype C75792_2_0, transcribed RNA sequence
+GCXV01002811.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.005   20.1   0.0    0.0062   19.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Megacopta cribraria breed wildtype C42144_4_0, transcribed RNA sequence
+GCXV01021896.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.94   12.8   0.0       2.2   11.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Megacopta cribraria breed wildtype s4844_L_14843_0_7_0_LINEAR, transcribed RNA sequence
+GCXV01009511.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.5   12.2   0.0       2.3   11.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Megacopta cribraria breed wildtype C65580_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:45 2019
+# [ok]

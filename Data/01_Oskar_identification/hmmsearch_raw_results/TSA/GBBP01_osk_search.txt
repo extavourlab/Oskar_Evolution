@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBBP01080309.1_4     -          OSK_CONSENSUS        -              1e-54  190.4   1.0     1e-54  190.4   1.0   2.5   3   0   0   3   3   3   1 TSA: Teleopsis dalmanni Td_comp159085_c0_seq1 transcribed RNA sequence
+GBBP01110479.1_5     -          OSK_CONSENSUS        -               0.51   15.9   0.6        13   11.3   0.6   2.1   1   1   0   1   1   1   0 TSA: Teleopsis dalmanni Td_comp162585_c0_seq3 transcribed RNA sequence
+GBBP01083055.1_3     -          OSK_CONSENSUS        -               0.75   15.3   0.6         2   14.0   0.6   1.7   1   0   0   1   1   1   0 TSA: Teleopsis dalmanni Td_comp159517_c0_seq1 transcribed RNA sequence
+GBBP01167444.1_6     -          OSK_CONSENSUS        -               0.89   15.1   0.0       1.3   14.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Teleopsis dalmanni Td_comp5733775_c0_seq1 transcribed RNA sequence
+GBBP01021157.1_3     -          OSK_CONSENSUS        -                1.4   14.4   1.6       1.9   14.0   1.6   1.4   1   1   0   1   1   1   0 TSA: Teleopsis dalmanni Td_comp131449_c0_seq1 transcribed RNA sequence
+GBBP01110477.1_5     -          OSK_CONSENSUS        -                1.9   14.0   0.6        37    9.8   0.6   2.2   1   1   0   1   1   1   0 TSA: Teleopsis dalmanni Td_comp162585_c0_seq1 transcribed RNA sequence
+GBBP01180977.1_1     -          OSK_CONSENSUS        -                2.7   13.5   0.2       3.1   13.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Teleopsis dalmanni Td_comp7693820_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBBP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBBP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBBP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:06 2019
+# [ok]

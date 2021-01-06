@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHGZ01014351.1_6     -          oskar_filtered.aligned.LOTUS_domain -            9.4e-10   44.3   0.0   2.6e-08   39.7   0.0   2.6   2   0   0   2   2   2   1 TSA: Achaea janata Transcript_14432, transcribed RNA sequence
+GHGZ01014352.1_6     -          oskar_filtered.aligned.LOTUS_domain -              1e-08   41.0   0.0   2.6e-08   39.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Achaea janata Transcript_14433, transcribed RNA sequence
+GHGZ01103350.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-07   37.7   0.0   1.6e-07   37.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Achaea janata Transcript_104619, transcribed RNA sequence
+GHGZ01019691.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.079   18.9   1.8        43   10.1   0.2   3.0   2   1   1   3   3   3   0 TSA: Achaea janata Transcript_19809, transcribed RNA sequence
+GHGZ01096058.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.8   0.1   3.2e+02    7.3   0.0   2.0   1   1   1   2   2   2   0 TSA: Achaea janata Transcript_97207, transcribed RNA sequence
+GHGZ01120389.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  3   13.8   0.6   1.8e+02    8.2   0.0   2.1   2   0   0   2   2   2   0 TSA: Achaea janata Transcript_121891, transcribed RNA sequence
+GHGZ01167627.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.3   13.7   0.2       6.2   12.8   0.2   1.4   1   0   0   1   1   1   0 TSA: Achaea janata Transcript_169684, transcribed RNA sequence
+GHGZ01111288.1_2     -          oskar_filtered.aligned.LOTUS_domain -                5.5   13.0   0.4        25   10.9   0.3   2.0   2   1   0   2   2   2   0 TSA: Achaea janata Transcript_112673, transcribed RNA sequence
+GHGZ01150007.1_6     -          oskar_filtered.aligned.LOTUS_domain -                7.1   12.6   0.8        15   11.6   0.1   1.8   1   1   1   2   2   2   0 TSA: Achaea janata Transcript_151898, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHGZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHGZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:34 2019
+# [ok]

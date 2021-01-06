@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDKA01014557.1_5     -          oskar_filtered.aligned.LOTUS_domain -            7.1e-21   77.8   3.1   2.3e-16   63.3   0.0   3.1   3   0   0   3   3   3   2 TSA: Rhynchophorus ferrugineus RPW1_contig_14666 transcribed RNA sequence
+GDKA01001348.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-13   53.2   0.1   2.7e-12   50.3   0.0   2.7   2   0   0   2   2   2   1 TSA: Rhynchophorus ferrugineus RPW1_contig_1351 transcribed RNA sequence
+GDKA01003566.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-05   27.0   7.1      0.97   13.2   2.7   5.2   4   2   1   5   5   5   2 TSA: Rhynchophorus ferrugineus RPW1_contig_3578 transcribed RNA sequence
+GDKA01004093.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.26   15.0   0.2        24    8.7   0.1   2.5   1   1   1   2   2   2   0 TSA: Rhynchophorus ferrugineus RPW1_contig_4105 transcribed RNA sequence
+GDKA01023274.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.95   13.2   0.2       1.3   12.8   0.2   1.3   1   0   0   1   1   1   0 TSA: Rhynchophorus ferrugineus RPW1_contig_23512 transcribed RNA sequence
+GDKA01002155.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.1   1.6        83    7.0   0.0   2.7   1   1   1   2   2   2   0 TSA: Rhynchophorus ferrugineus RPW1_contig_2163 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDKA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:03 2019
+# [ok]

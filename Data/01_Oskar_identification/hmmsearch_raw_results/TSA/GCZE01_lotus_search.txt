@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZE01066060.1_3     -          LOTUS_CONSENSUS      -            6.2e-21   79.2   0.0   2.2e-20   77.4   0.0   2.0   1   0   0   1   1   1   1 TSA: Melanoliarus placitus breed wildtype C426572_28_0, transcribed RNA sequence
+GCZE01053487.1_2     -          LOTUS_CONSENSUS      -            4.8e-06   31.5   0.7      0.29   16.1   0.1   2.2   1   1   1   2   2   2   2 TSA: Melanoliarus placitus breed wildtype C379729_4_0, transcribed RNA sequence
+GCZE01042479.1_6     -          LOTUS_CONSENSUS      -            7.9e-06   30.8   0.0   1.1e-05   30.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Melanoliarus placitus breed wildtype C345485_2_0, transcribed RNA sequence
+GCZE01015166.1_5     -          LOTUS_CONSENSUS      -            0.00032   25.6   0.0   0.00035   25.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Melanoliarus placitus breed wildtype C269434_3_0, transcribed RNA sequence
+GCZE01049969.1_5     -          LOTUS_CONSENSUS      -             0.0016   23.4   0.0        12   11.0   0.0   3.0   1   1   2   3   3   3   2 TSA: Melanoliarus placitus breed wildtype C368223_2_0, transcribed RNA sequence
+GCZE01079064.1_1     -          LOTUS_CONSENSUS      -               0.24   16.4   0.4       1.3   14.1   0.0   2.0   2   0   0   2   2   2   0 TSA: Melanoliarus placitus breed wildtype s5530_L_16962_0_3_5_LINEAR, transcribed RNA sequence
+GCZE01058218.1_5     -          LOTUS_CONSENSUS      -               0.53   15.3   0.1       1.4   13.9   0.1   1.7   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C396086_6_0, transcribed RNA sequence
+GCZE01053441.1_2     -          LOTUS_CONSENSUS      -               0.55   15.3   0.1      0.55   15.3   0.1   2.1   2   1   0   2   2   2   0 TSA: Melanoliarus placitus breed wildtype C379535_24_0_a, transcribed RNA sequence
+GCZE01046299.1_5     -          LOTUS_CONSENSUS      -                1.1   14.2   1.4       1.2   14.1   0.5   1.5   2   0   0   2   2   2   0 TSA: Melanoliarus placitus breed wildtype C356845_3_0, transcribed RNA sequence
+GCZE01015166.1_6     -          LOTUS_CONSENSUS      -                1.2   14.1   0.0         2   13.4   0.0   1.5   1   1   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C269434_3_0, transcribed RNA sequence
+GCZE01047185.1_3     -          LOTUS_CONSENSUS      -                3.3   12.8   0.2       5.3   12.1   0.2   1.3   1   0   0   1   1   1   0 TSA: Melanoliarus placitus breed wildtype C359537_43_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:13 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQM01036109.1_1     -          LOTUS_CONSENSUS      -            1.7e-10   45.6   0.1   2.5e-10   45.2   0.1   1.2   1   0   0   1   1   1   1 TSA: Macropereiopus parvus c42614_g1_i1 transcribed RNA sequence
+GEQM01036110.1_1     -          LOTUS_CONSENSUS      -            6.4e-10   43.8   1.5   6.7e-10   43.8   0.1   1.7   2   0   0   2   2   2   1 TSA: Macropereiopus parvus c42614_g1_i2 transcribed RNA sequence
+GEQM01066991.1_6     -          LOTUS_CONSENSUS      -            1.4e-09   42.7   0.0   1.7e-09   42.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Macropereiopus parvus c63458_g1_i1 transcribed RNA sequence
+GEQM01004885.1_3     -          LOTUS_CONSENSUS      -                0.5   15.3   0.0       0.9   14.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c7322_g1_i1 transcribed RNA sequence
+GEQM01031845.1_6     -          LOTUS_CONSENSUS      -                1.7   13.6   0.1       6.2   11.8   0.1   2.0   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c39368_g3_i1 transcribed RNA sequence
+GEQM01068125.1_4     -          LOTUS_CONSENSUS      -                1.7   13.6   0.3       2.5   13.1   0.3   1.3   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c64790_g1_i1 transcribed RNA sequence
+GEQM01033193.1_1     -          LOTUS_CONSENSUS      -                3.8   12.5   0.0       6.7   11.7   0.0   1.5   1   0   0   1   1   1   0 TSA: Macropereiopus parvus c40466_g1_i1 transcribed RNA sequence
+GEQM01043283.1_2     -          LOTUS_CONSENSUS      -                  6   11.9   0.0        18   10.3   0.0   1.7   2   0   0   2   2   2   0 TSA: Macropereiopus parvus c46421_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQM.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQM.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQM.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:16 2019
+# [ok]

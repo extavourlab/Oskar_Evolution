@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDKQ01002261.1_1     -          LOTUS_CONSENSUS      -            1.1e-17   66.5   0.5   1.5e-12   50.1   0.0   2.6   2   0   0   2   2   2   2 TSA: Nicrophorus vespilloides scaffold3767 transcribed RNA sequence
+GDKQ01002262.1_1     -          LOTUS_CONSENSUS      -            1.3e-17   66.3   0.5   1.6e-12   50.0   0.0   2.5   2   0   0   2   2   2   2 TSA: Nicrophorus vespilloides scaffold3768 transcribed RNA sequence
+GDKQ01009481.1_6     -          LOTUS_CONSENSUS      -            7.2e-12   47.9   0.0   2.9e-11   46.0   0.0   2.1   2   0   0   2   2   2   1 TSA: Nicrophorus vespilloides scaffold18290 transcribed RNA sequence
+GDKQ01009480.1_5     -          LOTUS_CONSENSUS      -            8.8e-12   47.6   0.0   2.8e-11   46.0   0.0   1.9   1   0   0   1   1   1   1 TSA: Nicrophorus vespilloides scaffold18289 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDKQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:13 2019
+# [ok]

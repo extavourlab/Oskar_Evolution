@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHJE01032141.1_5     -          oskar_filtered.aligned.LOTUS_domain -              2e-22   84.3   0.3   7.2e-22   82.5   0.3   2.0   1   0   0   1   1   1   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20548_c0_g1_i3, transcribed RNA sequence
+GHJE01034763.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-21   80.6   2.6   1.5e-15   62.2   0.0   3.9   3   0   0   3   3   3   2 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN23932_c0_g1_i3, transcribed RNA sequence
+GHJE01043070.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-20   77.2   0.7   1.5e-18   71.9   0.3   2.9   2   0   0   2   2   2   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN25932_c2_g12_i3, transcribed RNA sequence
+GHJE01008696.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-20   76.7   0.2   7.6e-14   56.7   0.0   3.2   2   0   0   2   2   2   2 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20070_c0_g1_i1, transcribed RNA sequence
+GHJE01017382.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-13   55.3   0.0   2.4e-13   55.2   0.0   1.0   1   0   0   1   1   1   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN35320_c0_g1_i1, transcribed RNA sequence
+GHJE01077833.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-05   29.8   0.6   5.1e-05   28.4   0.1   2.1   2   0   0   2   2   2   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN14214_c0_g1_i1, transcribed RNA sequence
+GHJE01018848.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-05   29.4   0.1   3.7e-05   28.9   0.1   1.3   1   0   0   1   1   1   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN42530_c0_g1_i1, transcribed RNA sequence
+GHJE01037245.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.022   20.0   0.4        55    9.0   0.0   2.6   1   1   2   3   3   3   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN19554_c1_g1_i1, transcribed RNA sequence
+GHJE01070625.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.4   15.9   0.5       0.4   15.9   0.5   4.5   5   1   1   6   6   6   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN26512_c0_g6_i1, transcribed RNA sequence
+GHJE01094456.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.41   15.9   0.0      0.58   15.4   0.0   1.3   1   1   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN12710_c0_g1_i1, transcribed RNA sequence
+GHJE01071012.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.3   14.3   4.7        44    9.4   0.4   2.3   2   1   0   2   2   2   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN6197_c0_g1_i1, transcribed RNA sequence
+GHJE01032148.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.9   0.2   3.2e+02    6.6   0.0   2.5   2   0   0   2   2   2   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20509_c0_g3_i5, transcribed RNA sequence
+GHJE01006722.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.2   13.5   0.1        12   11.2   0.0   2.3   2   0   0   2   2   2   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN18877_c1_g11_i3, transcribed RNA sequence
+GHJE01032489.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.3   0.3       3.4   12.9   0.3   1.2   1   0   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN17767_c0_g5_i1, transcribed RNA sequence
+GHJE01052144.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.5   12.9   0.0       7.1   11.9   0.0   1.5   2   0   0   2   2   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN62477_c0_g1_i1, transcribed RNA sequence
+GHJE01036271.1_2     -          oskar_filtered.aligned.LOTUS_domain -                5.1   12.3   0.0       5.2   12.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN22403_c4_g8_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHJE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHJE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHJE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:57 2019
+# [ok]

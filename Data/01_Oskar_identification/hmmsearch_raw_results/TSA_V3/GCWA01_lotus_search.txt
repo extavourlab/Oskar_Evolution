@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWA01025045.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-09   39.5   0.0        37    8.1   0.0   6.1   3   2   3   6   6   6   3 TSA: Aphelonotus fraterculus breed wildtype s11707_L_40170_0_5_1_LINEAR, transcribed RNA sequence
+GCWA01009368.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.023   18.4   0.6     0.036   17.8   0.6   1.2   1   0   0   1   1   1   0 TSA: Aphelonotus fraterculus breed wildtype C139810_24_0, transcribed RNA sequence
+GCWA01001451.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.08   16.7   5.4     0.098   16.4   5.4   1.1   1   0   0   1   1   1   0 TSA: Aphelonotus fraterculus breed wildtype C105333_7_0, transcribed RNA sequence
+GCWA01008576.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.8   12.4   0.0       3.6   11.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Aphelonotus fraterculus breed wildtype C135772_2_0, transcribed RNA sequence
+GCWA01002946.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.1   11.6   1.6        95    6.8   1.6   2.1   1   1   0   1   1   1   0 TSA: Aphelonotus fraterculus breed wildtype C111014_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:50 2019
+# [ok]

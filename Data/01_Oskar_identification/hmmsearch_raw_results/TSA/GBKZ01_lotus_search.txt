@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBKZ01005450.1_4     -          LOTUS_CONSENSUS      -              3e-18   69.3   0.0   1.3e-17   67.2   0.0   2.2   2   0   0   2   2   2   1 TSA: Sphecodes albilabris C120455_a_19_0_l_3821 transcribed RNA sequence
+GBKZ01000178.1_3     -          LOTUS_CONSENSUS      -            4.1e-11   46.4   0.1     8e-11   45.5   0.1   1.5   1   0   0   1   1   1   1 TSA: Sphecodes albilabris C100600_a_13_0_l_899 transcribed RNA sequence
+GBKZ01005546.1_6     -          LOTUS_CONSENSUS      -             0.0014   22.3   0.0        15    9.3   0.0   5.1   4   1   1   5   5   5   1 TSA: Sphecodes albilabris C120859_a_24_0_l_4404 transcribed RNA sequence
+GBKZ01005465.1_2     -          LOTUS_CONSENSUS      -              0.014   19.0   0.1     0.074   16.7   0.0   2.3   1   1   0   1   1   1   0 TSA: Sphecodes albilabris C120521_a_9_0_l_3902 transcribed RNA sequence
+GBKZ01015139.1_2     -          LOTUS_CONSENSUS      -               0.72   13.6   0.4       1.1   13.0   0.4   1.2   1   0   0   1   1   1   0 TSA: Sphecodes albilabris C69817_a_10_0_l_354 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBKZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBKZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBKZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:36 2019
+# [ok]

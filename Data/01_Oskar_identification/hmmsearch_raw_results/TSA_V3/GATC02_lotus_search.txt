@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATC02018205.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-20   75.7   1.9   5.3e-20   75.1   0.0   2.3   2   0   0   2   2   2   1 TSA: Nemophora degeerella C162112_a_56_0_l_3011 transcribed RNA sequence
+GATC02016035.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.5e-20   74.8   0.0   1.8e-19   73.4   0.0   1.7   1   0   0   1   1   1   1 TSA: Nemophora degeerella C154954_a_21_0_l_1567 transcribed RNA sequence
+GATC02035449.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-17   65.7   0.0   2.3e-16   63.5   0.0   2.2   2   0   0   2   2   2   1 TSA: Nemophora degeerella s8248_L_19454_0_a_52_2_l_3100 transcribed RNA sequence
+GATC02008678.1_5     -          oskar_filtered.aligned.LOTUS_domain -              4e-12   49.8   0.0   6.6e-12   49.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Nemophora degeerella C128909_a_5_0_l_562 transcribed RNA sequence
+GATC02014916.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.39   14.5   0.8      0.39   14.5   0.8   2.3   2   0   0   2   2   2   0 TSA: Nemophora degeerella C150932_a_20_0_l_1256 transcribed RNA sequence
+GATC02033770.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.1   0.0        21    9.0   0.0   2.6   2   0   0   2   2   2   0 TSA: Nemophora degeerella s6736_L_12816_0_a_38_5_l_3917 transcribed RNA sequence
+GATC02036630.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.0   1.0       9.9   10.0   0.2   2.5   2   1   1   3   3   3   0 TSA: Nemophora degeerella s9313_L_25136_0_a_61_4_l_1367 transcribed RNA sequence
+GATC02022081.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.2   12.9   0.1       1.5   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Nemophora degeerella C85044_a_10_0_l_231 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATC02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATC02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATC02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:55 2019
+# [ok]

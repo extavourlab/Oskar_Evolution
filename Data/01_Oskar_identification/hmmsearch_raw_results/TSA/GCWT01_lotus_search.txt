@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWT01050623.1_2     -          LOTUS_CONSENSUS      -            6.1e-14   56.3   0.0   2.4e-13   54.3   0.0   2.1   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s3019_L_4767_0_32_1_COMPLEX, transcribed RNA sequence
+GCWT01050625.1_2     -          LOTUS_CONSENSUS      -            6.1e-14   56.3   0.0   2.4e-13   54.3   0.0   2.1   1   0   0   1   1   1   1 TSA: Agallia constricta breed wildtype s3020_L_4767_1_31_2_COMPLEX, transcribed RNA sequence
+GCWT01054926.1_5     -          LOTUS_CONSENSUS      -            1.5e-06   32.6   0.0    0.0016   22.9   0.0   3.7   3   0   0   3   3   3   1 TSA: Agallia constricta breed wildtype s6896_L_12160_0_31_0_LINEAR, transcribed RNA sequence
+GCWT01054425.1_5     -          LOTUS_CONSENSUS      -            7.3e-05   27.2   0.0       5.3   11.6   0.0   4.0   3   1   1   4   4   4   2 TSA: Agallia constricta breed wildtype s6444_L_11210_2_46_9_COMPLEX, transcribed RNA sequence
+GCWT01054423.1_5     -          LOTUS_CONSENSUS      -            0.00012   26.5   0.0       6.7   11.3   0.0   3.7   2   1   1   3   3   3   2 TSA: Agallia constricta breed wildtype s6442_L_11210_0_47_9_COMPLEX, transcribed RNA sequence
+GCWT01054424.1_5     -          LOTUS_CONSENSUS      -              0.021   19.3   0.0        27    9.3   0.0   3.8   3   0   0   3   3   3   0 TSA: Agallia constricta breed wildtype s6443_L_11210_1_47_4_COMPLEX, transcribed RNA sequence
+GCWT01052203.1_6     -          LOTUS_CONSENSUS      -                  2   12.9   0.0       2.5   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Agallia constricta breed wildtype s4443_L_7275_0_2_5_LINEAR, transcribed RNA sequence
+GCWT01053164.1_3     -          LOTUS_CONSENSUS      -                2.2   12.8   0.0       3.6   12.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Agallia constricta breed wildtype s5309_L_8942_0_11_3_BUBBLE, transcribed RNA sequence
+GCWT01053166.1_3     -          LOTUS_CONSENSUS      -                2.2   12.8   0.0       3.6   12.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Agallia constricta breed wildtype s5310_L_8942_1_12_2_BUBBLE, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:22 2019
+# [ok]

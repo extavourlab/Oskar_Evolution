@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEAN01010200.1_1     -          LOTUS_CONSENSUS      -            1.7e-15   62.1   0.1   9.4e-15   59.7   0.0   2.3   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.3 transcribed RNA sequence
+GEAN01010205.1_3     -          LOTUS_CONSENSUS      -            1.8e-15   62.0   0.1   8.6e-15   59.8   0.0   2.2   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.7 transcribed RNA sequence
+GEAN01010204.1_2     -          LOTUS_CONSENSUS      -            1.9e-15   61.9   0.1   8.2e-15   59.9   0.0   2.1   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.6 transcribed RNA sequence
+GEAN01010207.1_1     -          LOTUS_CONSENSUS      -              2e-15   61.9   0.1   9.5e-15   59.7   0.0   2.2   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.10 transcribed RNA sequence
+GEAN01010201.1_3     -          LOTUS_CONSENSUS      -            2.1e-15   61.8   0.1   9.7e-15   59.7   0.0   2.2   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.4 transcribed RNA sequence
+GEAN01010202.1_1     -          LOTUS_CONSENSUS      -            2.2e-15   61.7   0.1     1e-14   59.6   0.0   2.2   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.5 transcribed RNA sequence
+GEAN01010198.1_3     -          LOTUS_CONSENSUS      -            2.2e-15   61.7   0.1     1e-14   59.6   0.0   2.2   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.1 transcribed RNA sequence
+GEAN01010199.1_3     -          LOTUS_CONSENSUS      -            2.3e-15   61.7   0.1     1e-14   59.6   0.0   2.2   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.2 transcribed RNA sequence
+GEAN01010208.1_2     -          LOTUS_CONSENSUS      -            2.3e-15   61.7   0.1   9.2e-15   59.7   0.0   2.1   2   0   0   2   2   1   1 TSA: Eurytemora affinis CUFF.15406.11 transcribed RNA sequence
+GEAN01038971.1_1     -          LOTUS_CONSENSUS      -              1e-12   53.2   0.0   1.2e-11   49.7   0.0   2.1   2   0   0   2   2   2   1 TSA: Eurytemora affinis CUFF.59339.1 transcribed RNA sequence
+GEAN01038972.1_3     -          LOTUS_CONSENSUS      -            1.5e-12   52.6   0.0   1.6e-11   49.4   0.0   2.1   2   0   0   2   2   2   1 TSA: Eurytemora affinis CUFF.59339.2 transcribed RNA sequence
+GEAN01022518.1_4     -          LOTUS_CONSENSUS      -            2.2e-09   42.5   1.0      0.15   17.4   0.1   4.0   3   0   0   3   3   3   2 TSA: Eurytemora affinis CUFF.34132.1 transcribed RNA sequence
+GEAN01038975.1_3     -          LOTUS_CONSENSUS      -            2.7e-07   35.8   0.0   6.6e-07   34.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Eurytemora affinis CUFF.59348.1 transcribed RNA sequence
+GEAN01074234.1_3     -          LOTUS_CONSENSUS      -            5.7e-05   28.4   0.4         8   11.9   0.1   3.7   3   0   0   3   3   3   2 TSA: Eurytemora affinis CUFF.18437.1 transcribed RNA sequence
+GEAN01084680.1_3     -          LOTUS_CONSENSUS      -               0.62   15.4   0.0   2.9e+02    6.9   0.0   2.4   1   1   1   2   2   2   0 TSA: Eurytemora affinis CUFF.39638.1 transcribed RNA sequence
+GEAN01022518.1_5     -          LOTUS_CONSENSUS      -               0.73   15.2   0.5       9.1   11.7   0.8   2.7   2   0   0   2   2   1   0 TSA: Eurytemora affinis CUFF.34132.1 transcribed RNA sequence
+GEAN01104259.1_4     -          LOTUS_CONSENSUS      -                1.2   14.5   0.1       1.4   14.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Eurytemora affinis CUFF.80172.1 transcribed RNA sequence
+GEAN01105076.1_3     -          LOTUS_CONSENSUS      -                1.2   14.5   6.7        68    8.9   3.4   3.0   1   1   1   2   2   2   0 TSA: Eurytemora affinis CUFF.81893.1 transcribed RNA sequence
+GEAN01107264.1_1     -          LOTUS_CONSENSUS      -                2.2   13.7   0.1   1.5e+02    7.8   0.0   2.2   2   0   0   2   2   2   0 TSA: Eurytemora affinis CUFF.86292.1 transcribed RNA sequence
+GEAN01100665.1_4     -          LOTUS_CONSENSUS      -                2.5   13.5   0.3   1.5e+02    7.8   0.3   2.2   1   1   0   1   1   1   0 TSA: Eurytemora affinis CUFF.72616.1 transcribed RNA sequence
+GEAN01074189.1_2     -          LOTUS_CONSENSUS      -                3.3   13.1   0.0       5.8   12.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Eurytemora affinis CUFF.18350.3 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEAN.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEAN.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEAN.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:13 2019
+# [ok]

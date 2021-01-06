@@ -1,0 +1,41 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFS01087542.1_3     -          LOTUS_CONSENSUS      -              2e-24   91.3   0.1   1.5e-23   88.4   0.0   2.7   2   0   0   2   2   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087631 transcribed RNA sequence
+GDFS01087540.1_3     -          LOTUS_CONSENSUS      -            4.3e-24   90.2   0.1   1.8e-23   88.2   0.0   2.2   2   0   0   2   2   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087629 transcribed RNA sequence
+GDFS01087549.1_3     -          LOTUS_CONSENSUS      -            4.6e-24   90.1   1.5   1.7e-23   88.3   0.0   2.9   3   0   0   3   3   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087638 transcribed RNA sequence
+GDFS01087539.1_3     -          LOTUS_CONSENSUS      -            5.8e-24   89.8   1.7   1.8e-23   88.2   0.0   2.9   3   0   0   3   3   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087628 transcribed RNA sequence
+GDFS01081513.1_4     -          LOTUS_CONSENSUS      -            1.2e-18   72.7   0.1   3.1e-18   71.4   0.1   1.7   1   0   0   1   1   1   1 TSA: Polistes fuscatus PfusTSAr1.0-081602 transcribed RNA sequence
+GDFS01081509.1_4     -          LOTUS_CONSENSUS      -            4.3e-18   71.0   0.1   1.3e-17   69.5   0.1   1.9   1   0   0   1   1   1   1 TSA: Polistes fuscatus PfusTSAr1.0-081598 transcribed RNA sequence
+GDFS01081510.1_4     -          LOTUS_CONSENSUS      -            4.5e-18   70.9   0.1   1.3e-17   69.4   0.1   1.9   1   0   0   1   1   1   1 TSA: Polistes fuscatus PfusTSAr1.0-081599 transcribed RNA sequence
+GDFS01057258.1_2     -          LOTUS_CONSENSUS      -            2.3e-14   59.0   5.0   5.4e-08   38.6   0.1   4.4   3   0   0   3   3   3   2 TSA: Polistes fuscatus PfusTSAr1.0-057340 transcribed RNA sequence
+GDFS01057254.1_2     -          LOTUS_CONSENSUS      -            2.6e-14   58.9   5.0   5.6e-08   38.5   0.1   4.4   3   0   0   3   3   3   2 TSA: Polistes fuscatus PfusTSAr1.0-057336 transcribed RNA sequence
+GDFS01057255.1_1     -          LOTUS_CONSENSUS      -            3.7e-14   58.3   5.0   6.1e-08   38.4   0.1   4.3   3   0   0   3   3   3   2 TSA: Polistes fuscatus PfusTSAr1.0-057337 transcribed RNA sequence
+GDFS01087541.1_2     -          LOTUS_CONSENSUS      -            5.1e-14   57.9   0.4   5.5e-13   54.6   0.0   3.0   3   0   0   3   3   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087630 transcribed RNA sequence
+GDFS01087543.1_2     -          LOTUS_CONSENSUS      -            5.6e-14   57.8   0.1   3.2e-13   55.4   0.0   2.5   3   0   0   3   3   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087632 transcribed RNA sequence
+GDFS01087545.1_2     -          LOTUS_CONSENSUS      -            5.6e-14   57.8   0.1   3.2e-13   55.4   0.0   2.5   3   0   0   3   3   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087634 transcribed RNA sequence
+GDFS01087548.1_2     -          LOTUS_CONSENSUS      -            6.3e-14   57.6   0.0   5.7e-13   54.5   0.0   2.8   2   0   0   2   2   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087637 transcribed RNA sequence
+GDFS01087544.1_2     -          LOTUS_CONSENSUS      -            7.3e-14   57.4   0.0   5.5e-13   54.6   0.0   2.6   2   0   0   2   2   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087633 transcribed RNA sequence
+GDFS01087547.1_2     -          LOTUS_CONSENSUS      -              8e-14   57.3   0.0   5.8e-13   54.5   0.0   2.6   2   0   0   2   2   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087636 transcribed RNA sequence
+GDFS01087546.1_2     -          LOTUS_CONSENSUS      -            1.2e-13   56.7   0.0   6.3e-13   54.4   0.0   2.3   2   0   0   2   2   1   1 TSA: Polistes fuscatus PfusTSAr1.0-087635 transcribed RNA sequence
+GDFS01057257.1_2     -          LOTUS_CONSENSUS      -              1e-12   53.7  10.1   9.3e-08   37.8   0.1   5.3   4   0   0   4   4   4   2 TSA: Polistes fuscatus PfusTSAr1.0-057339 transcribed RNA sequence
+GDFS01081512.1_4     -          LOTUS_CONSENSUS      -            4.8e-10   45.2   0.1     8e-10   44.5   0.1   1.4   1   0   0   1   1   1   1 TSA: Polistes fuscatus PfusTSAr1.0-081601 transcribed RNA sequence
+GDFS01035018.1_5     -          LOTUS_CONSENSUS      -            0.00021   27.1   0.0       3.2   13.7   0.0   5.8   1   1   3   5   5   5   1 TSA: Polistes fuscatus PfusTSAr1.0-035073 transcribed RNA sequence
+GDFS01035016.1_4     -          LOTUS_CONSENSUS      -            0.00025   26.8   0.0       3.3   13.6   0.0   5.7   1   1   3   4   4   4   1 TSA: Polistes fuscatus PfusTSAr1.0-035071 transcribed RNA sequence
+GDFS01035022.1_4     -          LOTUS_CONSENSUS      -            0.00035   26.4   0.0       3.5   13.5   0.0   5.6   1   1   3   4   4   4   1 TSA: Polistes fuscatus PfusTSAr1.0-035077 transcribed RNA sequence
+GDFS01035023.1_4     -          LOTUS_CONSENSUS      -            0.00036   26.3   0.0       3.6   13.5   0.0   5.6   1   1   5   6   6   6   1 TSA: Polistes fuscatus PfusTSAr1.0-035078 transcribed RNA sequence
+GDFS01035019.1_4     -          LOTUS_CONSENSUS      -            0.00048   25.9   0.0       3.9   13.4   0.0   5.5   1   1   4   5   5   5   1 TSA: Polistes fuscatus PfusTSAr1.0-035074 transcribed RNA sequence
+GDFS01035020.1_4     -          LOTUS_CONSENSUS      -            0.00097   25.0   0.0       4.6   13.2   0.0   5.5   1   1   3   4   4   4   1 TSA: Polistes fuscatus PfusTSAr1.0-035075 transcribed RNA sequence
+GDFS01081512.1_6     -          LOTUS_CONSENSUS      -              0.067   19.1   0.1      0.11   18.3   0.1   1.4   1   0   0   1   1   1   0 TSA: Polistes fuscatus PfusTSAr1.0-081601 transcribed RNA sequence
+GDFS01144501.1_3     -          LOTUS_CONSENSUS      -                1.4   14.8   0.1       2.2   14.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Polistes fuscatus PfusTSAr1.0-144670 transcribed RNA sequence
+GDFS01076386.1_2     -          LOTUS_CONSENSUS      -                  9   12.2   1.9        26   10.8   1.9   1.8   1   0   0   1   1   1   0 TSA: Polistes fuscatus PfusTSAr1.0-076473 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:45 2019
+# [ok]

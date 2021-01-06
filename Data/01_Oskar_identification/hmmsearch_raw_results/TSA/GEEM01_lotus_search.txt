@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEEM01011775.1_5     -          LOTUS_CONSENSUS      -            7.2e-16   61.3   0.0   3.6e-10   43.0   0.0   2.4   2   0   0   2   2   2   2 TSA: Trichoplusia ni HighFive_v1_010829.2 transcribed RNA sequence
+GEEM01003658.1_3     -          LOTUS_CONSENSUS      -            4.2e-15   58.8   4.3   9.9e-14   54.4   0.0   3.0   3   0   0   3   3   3   1 TSA: Trichoplusia ni HighFive_v1_003649.1 transcribed RNA sequence
+GEEM01011776.1_4     -          LOTUS_CONSENSUS      -            2.2e-10   43.7   0.0   4.4e-10   42.7   0.0   1.5   1   0   0   1   1   1   1 TSA: Trichoplusia ni HighFive_v1_010829.3 transcribed RNA sequence
+GEEM01011777.1_5     -          LOTUS_CONSENSUS      -            0.00082   22.6   0.0      0.12   15.7   0.0   2.5   2   0   0   2   2   2   1 TSA: Trichoplusia ni HighFive_v1_010829.4 transcribed RNA sequence
+GEEM01020825.1_5     -          LOTUS_CONSENSUS      -               0.61   13.4   0.1      0.99   12.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Trichoplusia ni HighFive_v1_019623.1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEEM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:23 2019
+# [ok]

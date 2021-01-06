@@ -1,0 +1,46 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENS01101014.1_3     -          OSK_CONSENSUS        -            1.4e-22   86.6   0.0   2.2e-22   86.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k54_1290192 transcribed RNA sequence
+GENS01312711.1_1     -          OSK_CONSENSUS        -            1.9e-22   86.2   0.7   6.5e-22   84.5   0.2   2.1   2   1   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 k92_139510 transcribed RNA sequence
+GENS01144527.1_2     -          OSK_CONSENSUS        -            2.5e-22   85.8   0.9   9.3e-22   84.0   0.2   2.4   2   1   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 k60_933315 transcribed RNA sequence
+GENS01094441.1_3     -          OSK_CONSENSUS        -            4.6e-22   84.9   0.4   1.6e-21   83.2   0.1   2.2   2   0   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 k54_1251326 transcribed RNA sequence
+GENS01148160.1_4     -          OSK_CONSENSUS        -            5.1e-22   84.8   0.1   1.5e-21   83.3   0.1   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k60_956971 transcribed RNA sequence
+GENS01283211.1_6     -          OSK_CONSENSUS        -            5.3e-22   84.8   0.5   2.3e-21   82.7   0.1   2.4   2   0   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 k84_265053 transcribed RNA sequence
+GENS01147835.1_1     -          OSK_CONSENSUS        -            5.4e-22   84.7   0.1   1.5e-21   83.3   0.1   1.8   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k60_954894 transcribed RNA sequence
+GENS01223917.1_5     -          OSK_CONSENSUS        -            5.7e-22   84.6   0.4   1.7e-21   83.1   0.1   2.0   2   0   0   2   2   1   1 TSA: Ptyssoptera sp. AB-2015 k72_512196 transcribed RNA sequence
+GENS01224623.1_1     -          OSK_CONSENSUS        -            5.7e-22   84.6   0.4   1.7e-21   83.1   0.1   2.0   2   0   0   2   2   1   1 TSA: Ptyssoptera sp. AB-2015 k72_516554 transcribed RNA sequence
+GENS01189766.1_4     -          OSK_CONSENSUS        -            5.9e-22   84.6   0.4   1.7e-21   83.1   0.1   2.0   2   0   0   2   2   1   1 TSA: Ptyssoptera sp. AB-2015 k66_709805 transcribed RNA sequence
+GENS01189800.1_1     -          OSK_CONSENSUS        -            5.9e-22   84.6   0.4   1.7e-21   83.1   0.1   2.0   2   0   0   2   2   1   1 TSA: Ptyssoptera sp. AB-2015 k66_710001 transcribed RNA sequence
+GENS01190032.1_1     -          OSK_CONSENSUS        -            5.9e-22   84.6   0.4   1.7e-21   83.1   0.1   2.0   2   0   0   2   2   1   1 TSA: Ptyssoptera sp. AB-2015 k66_711504 transcribed RNA sequence
+GENS01266169.1_1     -          OSK_CONSENSUS        -              6e-22   84.6   0.4   1.7e-21   83.1   0.1   2.0   2   0   0   2   2   1   1 TSA: Ptyssoptera sp. AB-2015 k80_334476 transcribed RNA sequence
+GENS01225747.1_4     -          OSK_CONSENSUS        -            6.4e-22   84.5   0.2   6.4e-22   84.5   0.2   2.4   2   1   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 k72_524747 transcribed RNA sequence
+GENS01233156.1_3     -          OSK_CONSENSUS        -            6.6e-22   84.4   1.6   1.8e-21   83.0   0.1   2.5   3   0   0   3   3   2   1 TSA: Ptyssoptera sp. AB-2015 k74_448873 transcribed RNA sequence
+GENS01275022.1_1     -          OSK_CONSENSUS        -              7e-22   84.4   0.1   2.3e-21   82.7   0.1   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k82_297383 transcribed RNA sequence
+GENS01275143.1_5     -          OSK_CONSENSUS        -              7e-22   84.4   0.1   2.3e-21   82.7   0.1   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k82_298044 transcribed RNA sequence
+GENS01275641.1_1     -          OSK_CONSENSUS        -              7e-22   84.4   0.1   2.3e-21   82.7   0.1   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k82_300155 transcribed RNA sequence
+GENS01275594.1_5     -          OSK_CONSENSUS        -              7e-22   84.4   0.1   2.3e-21   82.7   0.1   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k82_299943 transcribed RNA sequence
+GENS01222667.1_4     -          OSK_CONSENSUS        -              7e-22   84.4   0.1   2.3e-21   82.7   0.1   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k72_506506 transcribed RNA sequence
+GENS01188193.1_6     -          OSK_CONSENSUS        -            7.6e-22   84.2   1.3   1.7e-21   83.1   0.1   2.3   3   0   0   3   3   2   1 TSA: Ptyssoptera sp. AB-2015 k66_700100 transcribed RNA sequence
+GENS01271427.1_1     -          OSK_CONSENSUS        -            8.6e-22   84.1   1.9   1.8e-21   83.1   0.1   2.5   3   0   0   3   3   2   1 TSA: Ptyssoptera sp. AB-2015 k82_282401 transcribed RNA sequence
+GENS01320645.1_5     -          OSK_CONSENSUS        -              1e-21   83.8   0.2     1e-21   83.8   0.2   2.5   3   1   0   3   3   2   1 TSA: Ptyssoptera sp. AB-2015 k96_67154 transcribed RNA sequence
+GENS01316343.1_1     -          OSK_CONSENSUS        -              1e-21   83.8   0.1     3e-21   82.3   0.1   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k94_99355 transcribed RNA sequence
+GENS01311084.1_1     -          OSK_CONSENSUS        -            1.1e-21   83.7   0.0   3.8e-21   82.0   0.0   1.9   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k92_133870 transcribed RNA sequence
+GENS01283212.1_1     -          OSK_CONSENSUS        -            1.2e-21   83.6   0.0   3.6e-21   82.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Ptyssoptera sp. AB-2015 k84_265054 transcribed RNA sequence
+GENS01094139.1_2     -          OSK_CONSENSUS        -            4.3e-09   42.8   2.7   7.4e-09   42.0   0.5   2.6   2   2   0   2   2   2   1 TSA: Ptyssoptera sp. AB-2015 k54_1249685 transcribed RNA sequence
+GENS01228699.1_3     -          OSK_CONSENSUS        -               0.98   15.6   0.0       1.2   15.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 k74_249206 transcribed RNA sequence
+GENS01266559.1_1     -          OSK_CONSENSUS        -                1.3   15.3   3.4       1.8   14.8   3.4   1.3   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 k80_336173 transcribed RNA sequence
+GENS01306559.1_6     -          OSK_CONSENSUS        -                3.5   13.8   0.9       5.8   13.1   0.9   1.3   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 k90_174307 transcribed RNA sequence
+GENS01082456.1_4     -          OSK_CONSENSUS        -                  5   13.4   0.3        27   11.0   0.0   1.9   1   1   1   2   2   2   0 TSA: Ptyssoptera sp. AB-2015 k52_1418294 transcribed RNA sequence
+GENS01039565.1_6     -          OSK_CONSENSUS        -                6.4   13.0   0.0       8.5   12.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 k52_973489 transcribed RNA sequence
+GENS01128381.1_6     -          OSK_CONSENSUS        -                8.7   12.6   0.0        16   11.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Ptyssoptera sp. AB-2015 k58_1016319 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:10 2019
+# [ok]

@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUB01066015.1_2     -          OSK_CONSENSUS        -               0.46   16.2   0.7      0.75   15.5   0.7   1.4   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN60064_c0_g9_i3 transcribed RNA sequence
+GFUB01176623.1_4     -          OSK_CONSENSUS        -                1.4   14.7   1.0       1.8   14.3   1.0   1.2   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN75513_c1_g1_i8 transcribed RNA sequence
+GFUB01214564.1_4     -          OSK_CONSENSUS        -                1.5   14.5   0.1       1.8   14.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN86921_c0_g2_i1 transcribed RNA sequence
+GFUB01214563.1_4     -          OSK_CONSENSUS        -                1.5   14.5   0.1       1.8   14.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN86921_c0_g1_i1 transcribed RNA sequence
+GFUB01155626.1_1     -          OSK_CONSENSUS        -                2.9   13.6   0.6       3.8   13.3   0.6   1.2   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN73141_c0_g2_i1 transcribed RNA sequence
+GFUB01021326.1_4     -          OSK_CONSENSUS        -                3.3   13.5   0.6       3.9   13.2   0.6   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN29553_c0_g1_i1 transcribed RNA sequence
+GFUB01021552.1_6     -          OSK_CONSENSUS        -                3.4   13.4   0.2       4.1   13.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN29786_c0_g2_i1 transcribed RNA sequence
+GFUB01187574.1_1     -          OSK_CONSENSUS        -                4.6   13.0   0.1       5.4   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN76710_c2_g2_i6 transcribed RNA sequence
+GFUB01187211.1_6     -          OSK_CONSENSUS        -                4.6   13.0   0.0       5.8   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN76674_c5_g1_i1 transcribed RNA sequence
+GFUB01168076.1_2     -          OSK_CONSENSUS        -                5.8   12.7   0.1       6.8   12.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN7456_c0_g1_i1 transcribed RNA sequence
+GFUB01154188.1_3     -          OSK_CONSENSUS        -                  6   12.6   0.7        12   11.6   0.2   1.8   1   1   1   2   2   2   0 TSA: Podisus maculiventris TRINITY_DN72969_c0_g1_i3 transcribed RNA sequence
+GFUB01094909.1_1     -          OSK_CONSENSUS        -                6.5   12.5   0.2       7.4   12.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN65658_c2_g8_i7 transcribed RNA sequence
+GFUB01019962.1_5     -          OSK_CONSENSUS        -                7.1   12.4   0.0       8.9   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN28232_c0_g1_i3 transcribed RNA sequence
+GFUB01085662.1_1     -          OSK_CONSENSUS        -                7.6   12.3   0.0       8.3   12.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN64310_c0_g1_i1 transcribed RNA sequence
+GFUB01019964.1_5     -          OSK_CONSENSUS        -                9.1   12.0   0.0        12   11.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Podisus maculiventris TRINITY_DN28232_c0_g1_i5 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:58 2019
+# [ok]

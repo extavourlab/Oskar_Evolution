@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAPE01022320.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-23   84.4   0.7   6.9e-23   84.4   0.7   2.5   3   0   0   3   3   3   1 TSA: Meligethes aeneus Locus_5213_Contig1 transcribed RNA sequence
+GAPE01022322.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.7e-23   84.2   2.7   1.3e-22   83.5   0.4   2.7   3   0   0   3   3   2   1 TSA: Meligethes aeneus Locus_5213_Contig3 transcribed RNA sequence
+GAPE01027922.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-22   83.2   0.0     2e-15   60.4   0.0   2.6   2   0   0   2   2   2   2 TSA: Meligethes aeneus Locus_8487_Contig1 transcribed RNA sequence
+GAPE01027923.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.8e-20   74.6   0.0     7e-13   52.2   0.0   2.6   2   0   0   2   2   2   2 TSA: Meligethes aeneus Locus_8487_Contig2 transcribed RNA sequence
+GAPE01019095.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-09   40.1   0.2   1.2e-08   38.6   0.2   1.8   1   0   0   1   1   1   1 TSA: Meligethes aeneus Locus_3790_Contig1 transcribed RNA sequence
+GAPE01036722.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-07   33.7   0.0    0.0084   19.9   0.0   2.5   2   0   0   2   2   2   2 TSA: Meligethes aeneus Locus_8487_Transcript_7/25 transcribed RNA sequence
+GAPE01032960.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-06   32.1   0.0        81    7.1   0.0   6.3   4   2   2   6   6   6   1 TSA: Meligethes aeneus Locus_4009_Transcript_33/42 transcribed RNA sequence
+GAPE01019612.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-06   32.0   0.0        82    7.1   0.0   6.4   4   2   2   6   6   6   1 TSA: Meligethes aeneus Locus_4009_Contig6 transcribed RNA sequence
+GAPE01019613.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-06   31.8   0.0   1.1e+02    6.6   0.0   7.0   5   2   2   7   7   7   1 TSA: Meligethes aeneus Locus_4009_Contig7 transcribed RNA sequence
+GAPE01032959.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-06   31.4   0.0        88    7.0   0.0   6.3   4   2   2   6   6   6   1 TSA: Meligethes aeneus Locus_4009_Transcript_30/42 transcribed RNA sequence
+GAPE01032961.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.6e-06   29.5   0.0   3.2e+02    5.2   0.0   7.0   5   2   2   7   7   7   0 TSA: Meligethes aeneus Locus_4009_Transcript_39/42 transcribed RNA sequence
+GAPE01032958.1_3     -          oskar_filtered.aligned.LOTUS_domain -              9e-06   29.4   0.0   1.9e+02    5.9   0.0   6.4   4   2   2   6   6   6   0 TSA: Meligethes aeneus Locus_4009_Transcript_28/42 transcribed RNA sequence
+GAPE01019095.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-05   29.2   0.0   1.8e-05   28.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Meligethes aeneus Locus_3790_Contig1 transcribed RNA sequence
+GAPE01032957.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00031   24.5   0.0   1.8e+02    6.0   0.0   5.3   3   2   2   5   5   5   0 TSA: Meligethes aeneus Locus_4009_Transcript_27/42 transcribed RNA sequence
+GAPE01028623.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.045   17.6   0.0        24    8.8   0.0   2.7   2   0   0   2   2   2   0 TSA: Meligethes aeneus Locus_9138_Contig1 transcribed RNA sequence
+GAPE01002487.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.0   0.3       1.6   12.6   0.3   1.1   1   0   0   1   1   1   0 TSA: Meligethes aeneus Locus_14683_Transcript_1/1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAPE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:27 2019
+# [ok]

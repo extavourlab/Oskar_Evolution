@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCCL01027819.1_4     -          LOTUS_CONSENSUS      -            1.4e-21   80.2   0.2   5.5e-21   78.4   0.0   2.2   2   0   0   2   2   2   1 TSA: Ecdyonurus insignis C189770_a_4_0_l_2427 transcribed RNA sequence
+GCCL01028367.1_6     -          LOTUS_CONSENSUS      -            8.2e-15   58.6   0.0   2.8e-12   50.4   0.0   2.5   2   0   0   2   2   2   1 TSA: Ecdyonurus insignis C191670_a_27_0_l_3717 transcribed RNA sequence
+GCCL01027922.1_2     -          LOTUS_CONSENSUS      -            7.6e-10   42.7   0.1   7.2e-09   39.5   0.1   2.4   2   0   0   2   2   2   1 TSA: Ecdyonurus insignis C190112_a_8_0_l_2539 transcribed RNA sequence
+GCCL01030200.1_4     -          LOTUS_CONSENSUS      -            9.2e-05   26.4   0.0        17    9.5   0.0   5.4   6   1   1   7   7   7   2 TSA: Ecdyonurus insignis s10649_L_31698_0_a_33_9_l_3964 transcribed RNA sequence
+GCCL01007842.1_4     -          LOTUS_CONSENSUS      -              0.092   16.8   1.1      0.11   16.5   1.1   1.1   1   0   0   1   1   1   0 TSA: Ecdyonurus insignis C123580_a_8_0_l_270 transcribed RNA sequence
+GCCL01034948.1_4     -          LOTUS_CONSENSUS      -               0.32   15.0   0.2      0.59   14.2   0.2   1.3   1   0   0   1   1   1   0 TSA: Ecdyonurus insignis s3947_L_5804_0_a_5_0_l_711 transcribed RNA sequence
+GCCL01018305.1_3     -          LOTUS_CONSENSUS      -               0.42   14.7   0.1      0.67   14.0   0.1   1.3   1   0   0   1   1   1   0 TSA: Ecdyonurus insignis C156769_a_6_0_l_475 transcribed RNA sequence
+GCCL01024447.1_5     -          LOTUS_CONSENSUS      -                1.2   13.2   0.0       2.3   12.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Ecdyonurus insignis C177748_a_5_0_l_1008 transcribed RNA sequence
+GCCL01008075.1_1     -          LOTUS_CONSENSUS      -                1.3   13.0   0.2       1.9   12.6   0.2   1.2   1   0   0   1   1   1   0 TSA: Ecdyonurus insignis C124284_a_5_0_l_273 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCCL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCCL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCCL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:57 2019
+# [ok]

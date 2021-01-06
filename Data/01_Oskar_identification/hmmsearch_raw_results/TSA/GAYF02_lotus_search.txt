@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYF02030071.1_5     -          LOTUS_CONSENSUS      -            2.5e-14   57.0   0.2   3.9e-12   49.9   0.0   3.4   3   0   0   3   3   3   1 TSA: Nilaparvata lugens s11962_L_41793_0_a_19_8_l_6606 transcribed RNA sequence
+GAYF02037915.1_2     -          LOTUS_CONSENSUS      -            1.8e-13   54.2   0.0   4.1e-13   53.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Nilaparvata lugens s8239_L_15632_0_a_35_5_l_1483 transcribed RNA sequence
+GAYF02036253.1_1     -          LOTUS_CONSENSUS      -               0.01   19.8   0.0       1.3   13.0   0.0   4.1   2   1   3   5   5   5   0 TSA: Nilaparvata lugens s6739_L_10535_0_a_26_4_l_5273 transcribed RNA sequence
+GAYF02028328.1_3     -          LOTUS_CONSENSUS      -               0.88   13.6   2.9        19    9.3   0.4   2.2   1   1   1   2   2   2   0 TSA: Nilaparvata lugens s1038_L_1012_0_a_8_0_l_448 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYF02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYF02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYF02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:40 2019
+# [ok]

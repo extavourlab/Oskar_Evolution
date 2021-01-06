@@ -1,0 +1,27 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYT01004237.1_1     -          oskar_filtered.aligned.OSK_domain -            2.5e-22   82.6   0.1   3.2e-22   82.3   0.1   1.3   1   0   0   1   1   1   1 TSA: Trionymus caricis breed wildtype C122249_52_0, transcribed RNA sequence
+GCYT01003076.1_6     -          oskar_filtered.aligned.OSK_domain -            2.8e-20   75.9   0.1     5e-20   75.1   0.1   1.4   1   0   0   1   1   1   1 TSA: Trionymus caricis breed wildtype C116495_29_0, transcribed RNA sequence
+GCYT01004417.1_4     -          oskar_filtered.aligned.OSK_domain -            2.5e-06   30.5   0.6   6.7e-06   29.1   0.1   1.9   1   1   0   1   1   1   1 TSA: Trionymus caricis breed wildtype C123077_18_0, transcribed RNA sequence
+GCYT01017439.1_6     -          oskar_filtered.aligned.OSK_domain -            0.00012   25.0   0.2   0.00015   24.7   0.2   1.1   1   0   0   1   1   1   1 TSA: Trionymus caricis breed wildtype C98625_2_0, transcribed RNA sequence
+GCYT01011341.1_3     -          oskar_filtered.aligned.OSK_domain -            0.00069   22.5   0.2   0.00075   22.4   0.2   1.0   1   0   0   1   1   1   1 TSA: Trionymus caricis breed wildtype C74427_5_0, transcribed RNA sequence
+GCYT01025581.1_2     -          oskar_filtered.aligned.OSK_domain -             0.0013   21.6   0.0     0.003   20.4   0.0   1.4   1   1   0   1   1   1   1 TSA: Trionymus caricis breed wildtype s7604_L_20774_0_5_4_LINEAR, transcribed RNA sequence
+GCYT01006440.1_4     -          oskar_filtered.aligned.OSK_domain -             0.0038   20.1   0.1    0.0038   20.1   0.1   1.0   1   0   0   1   1   1   1 TSA: Trionymus caricis breed wildtype C58369_3_0, transcribed RNA sequence
+GCYT01024962.1_1     -          oskar_filtered.aligned.OSK_domain -              0.089   15.6   0.0      0.15   14.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Trionymus caricis breed wildtype s7047_L_18817_0_7_5_LINEAR, transcribed RNA sequence
+GCYT01023241.1_4     -          oskar_filtered.aligned.OSK_domain -               0.16   14.8   0.0      0.28   14.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Trionymus caricis breed wildtype s5498_L_13671_0_4_0_LINEAR, transcribed RNA sequence
+GCYT01009358.1_6     -          oskar_filtered.aligned.OSK_domain -               0.17   14.7   0.6      0.18   14.6   0.6   1.1   1   0   0   1   1   1   0 TSA: Trionymus caricis breed wildtype C67729_3_0, transcribed RNA sequence
+GCYT01005185.1_4     -          oskar_filtered.aligned.OSK_domain -               0.18   14.7   0.5      0.44   13.4   0.1   2.0   2   0   0   2   2   2   0 TSA: Trionymus caricis breed wildtype C126575_55_0, transcribed RNA sequence
+GCYT01018332.1_5     -          oskar_filtered.aligned.OSK_domain -               0.38   13.6   0.0       0.6   12.9   0.0   1.3   1   0   0   1   1   1   0 TSA: Trionymus caricis breed wildtype s1072_L_2091_0_5_2_LINEAR, transcribed RNA sequence
+GCYT01013039.1_3     -          oskar_filtered.aligned.OSK_domain -               0.59   12.9   0.2      0.74   12.6   0.2   1.2   1   0   0   1   1   1   0 TSA: Trionymus caricis breed wildtype C80453_2_0, transcribed RNA sequence
+GCYT01018381.1_3     -          oskar_filtered.aligned.OSK_domain -               0.67   12.8   0.0      0.68   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Trionymus caricis breed wildtype s1116_L_2200_0_3_0_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:07 2019
+# [ok]

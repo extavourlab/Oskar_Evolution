@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWZ01034770.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-20   76.2   0.1   4.7e-20   75.3   0.1   1.5   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype s7749_L_28333_1_29_8_FORK, transcribed RNA sequence
+GCWZ01034769.1_2     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-20   74.5   0.1   2.4e-19   73.0   0.1   1.8   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype s7748_L_28333_0_39_3_FORK, transcribed RNA sequence
+GCWZ01032024.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-13   54.1   0.1   5.1e-09   39.8   0.0   3.9   4   0   0   4   4   4   2 TSA: Ceroplastes cirripediformis breed wildtype s5268_L_17580_0_12_2_COMPLEX, transcribed RNA sequence
+GCWZ01032025.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.2e-13   52.2   0.1   8.2e-09   39.2   0.0   3.7   4   0   0   4   4   4   2 TSA: Ceroplastes cirripediformis breed wildtype s5269_L_17580_1_14_8_COMPLEX, transcribed RNA sequence
+GCWZ01016539.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-06   30.7   0.0   3.9e-06   30.6   0.0   1.0   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype C69262_2_0, transcribed RNA sequence
+GCWZ01006293.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00045   24.0   1.5   0.00088   23.0   1.5   1.4   1   0   0   1   1   1   1 TSA: Ceroplastes cirripediformis breed wildtype C123650_10_0, transcribed RNA sequence
+GCWZ01035258.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.18   15.6   0.2      0.35   14.7   0.2   1.5   1   0   0   1   1   1   0 TSA: Ceroplastes cirripediformis breed wildtype s8188_L_30333_0_6_4_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:54 2019
+# [ok]

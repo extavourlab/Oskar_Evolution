@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQG01072492.1_2     -          LOTUS_CONSENSUS      -              2e-10   46.1   0.1   4.1e-10   45.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Hyalellopsis costata c100922_g2_i1 transcribed RNA sequence
+GEQG01089542.1_6     -          LOTUS_CONSENSUS      -            2.4e-05   29.8   3.3       5.2   12.7   0.1   4.1   2   2   2   4   4   4   3 TSA: Hyalellopsis costata c118175_g1_i1 transcribed RNA sequence
+GEQG01096318.1_5     -          LOTUS_CONSENSUS      -              0.046   19.3   0.1     0.073   18.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Hyalellopsis costata c126127_g1_i1 transcribed RNA sequence
+GEQG01045041.1_5     -          LOTUS_CONSENSUS      -              0.049   19.2   0.7      0.77   15.4   0.3   2.1   1   1   1   2   2   2   0 TSA: Hyalellopsis costata c80148_g1_i1 transcribed RNA sequence
+GEQG01097088.1_1     -          LOTUS_CONSENSUS      -                0.4   16.3   1.0        12   11.5   0.4   2.5   1   1   1   2   2   2   0 TSA: Hyalellopsis costata c127011_g1_i1 transcribed RNA sequence
+GEQG01124186.1_6     -          LOTUS_CONSENSUS      -               0.63   15.7   0.1      0.79   15.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Hyalellopsis costata c158640_g1_i1 transcribed RNA sequence
+GEQG01072729.1_2     -          LOTUS_CONSENSUS      -               0.78   15.4   0.6         2   14.1   0.1   1.9   2   0   0   2   2   1   0 TSA: Hyalellopsis costata c100985_g6_i1 transcribed RNA sequence
+GEQG01072734.1_2     -          LOTUS_CONSENSUS      -                0.8   15.3   0.6         2   14.1   0.1   1.9   2   0   0   2   2   1   0 TSA: Hyalellopsis costata c100985_g6_i2 transcribed RNA sequence
+GEQG01058188.1_1     -          LOTUS_CONSENSUS      -               0.95   15.1   0.0       2.6   13.7   0.0   1.7   1   0   0   1   1   1   0 TSA: Hyalellopsis costata c91720_g1_i1 transcribed RNA sequence
+GEQG01072498.1_2     -          LOTUS_CONSENSUS      -                1.3   14.7   1.4     2e+02    7.6   0.1   2.1   1   1   1   2   2   2   0 TSA: Hyalellopsis costata c100922_g5_i3 transcribed RNA sequence
+GEQG01040851.1_1     -          LOTUS_CONSENSUS      -                2.9   13.5   0.2       6.8   12.4   0.2   1.6   2   0   0   2   2   1   0 TSA: Hyalellopsis costata c76267_g1_i1 transcribed RNA sequence
+GEQG01097400.1_2     -          LOTUS_CONSENSUS      -                3.4   13.3   0.5        12   11.6   0.5   1.8   1   1   1   2   2   2   0 TSA: Hyalellopsis costata c127371_g1_i1 transcribed RNA sequence
+GEQG01116047.1_5     -          LOTUS_CONSENSUS      -                4.1   13.1   2.9       7.9   12.2   0.1   2.7   2   1   1   3   3   3   0 TSA: Hyalellopsis costata c149159_g1_i1 transcribed RNA sequence
+GEQG01085172.1_1     -          LOTUS_CONSENSUS      -                5.2   12.7   1.8        40    9.9   0.4   2.2   2   0   0   2   2   2   0 TSA: Hyalellopsis costata c113110_g1_i1 transcribed RNA sequence
+GEQG01026420.1_2     -          LOTUS_CONSENSUS      -                6.5   12.4   0.0       8.2   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Hyalellopsis costata c52441_g1_i1 transcribed RNA sequence
+GEQG01063259.1_2     -          LOTUS_CONSENSUS      -                  7   12.3   0.9        14   11.3   0.1   1.9   2   0   0   2   2   2   0 TSA: Hyalellopsis costata c96001_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQG.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQG.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQG.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:10 2019
+# [ok]

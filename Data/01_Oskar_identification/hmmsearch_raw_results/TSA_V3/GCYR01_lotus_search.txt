@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYR01018944.1_5     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-17   64.7   0.1   1.6e-09   41.1   0.0   3.6   3   0   0   3   3   3   3 TSA: Frankliniella occidentalis breed wildtype s13637_L_30543_0_29_2_LINEAR, transcribed RNA sequence
+GCYR01017115.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-15   59.0   0.0   1.1e-14   57.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Frankliniella occidentalis breed wildtype s11986_L_25150_0_51_6_LINEAR, transcribed RNA sequence
+GCYR01024267.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-13   51.7   0.1   2.5e-11   47.0   0.0   2.7   2   0   0   2   2   2   1 TSA: Frankliniella occidentalis breed wildtype s5212_L_7717_1_52_1_FORK, transcribed RNA sequence
+GCYR01021216.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-08   36.8   0.0        15    9.2   0.0   5.8   2   2   4   6   6   6   2 TSA: Frankliniella occidentalis breed wildtype s2453_L_3111_0_31_4_FORK, transcribed RNA sequence
+GCYR01021217.1_6     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-08   35.9   0.0        16    9.0   0.0   5.7   2   2   4   6   6   6   2 TSA: Frankliniella occidentalis breed wildtype s2454_L_3111_1_30_8_FORK, transcribed RNA sequence
+GCYR01017639.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.01   19.3   1.1       3.5   11.2   0.1   2.6   2   0   0   2   2   2   0 TSA: Frankliniella occidentalis breed wildtype s1245_L_1447_1_14_6_FORK, transcribed RNA sequence
+GCYR01017628.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.017   18.6   1.1       4.4   10.8   0.1   2.6   2   0   0   2   2   2   0 TSA: Frankliniella occidentalis breed wildtype s1244_L_1447_0_14_8_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:59 2019
+# [ok]

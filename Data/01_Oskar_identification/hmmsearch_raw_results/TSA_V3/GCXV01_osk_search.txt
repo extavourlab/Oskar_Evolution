@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXV01018221.1_4     -          oskar_filtered.aligned.OSK_domain -               0.21   14.3   0.0      0.45   13.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Megacopta cribraria breed wildtype s1538_L_4260_0_6_3_LINEAR, transcribed RNA sequence
+GCXV01001234.1_6     -          oskar_filtered.aligned.OSK_domain -               0.82   12.4   0.4      0.85   12.3   0.4   1.0   1   0   0   1   1   1   0 TSA: Megacopta cribraria breed wildtype C37082_2_0, transcribed RNA sequence
+GCXV01010653.1_3     -          oskar_filtered.aligned.OSK_domain -                5.5    9.7   5.7       7.3    9.3   5.7   1.5   1   1   0   1   1   1   0 TSA: Megacopta cribraria breed wildtype C70168_10_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:44 2019
+# [ok]

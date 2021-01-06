@@ -1,0 +1,40 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAOP01105692.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-17   68.8   1.2   3.5e-13   55.1   0.1   4.0   4   1   0   4   4   3   2 TSA: Pachypsylla venusta comp114598_c2_seq1 transcribed RNA sequence
+GAOP01105693.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-17   67.4   1.1   1.2e-12   53.4   0.1   4.0   4   1   0   4   4   3   2 TSA: Pachypsylla venusta comp114598_c2_seq2 transcribed RNA sequence
+GAOP01054994.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-13   55.5   0.0   6.1e-13   54.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Pachypsylla venusta comp108576_c2_seq6 transcribed RNA sequence
+GAOP01054996.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-13   54.9   0.0   2.1e-12   52.6   0.0   2.2   2   0   0   2   2   2   1 TSA: Pachypsylla venusta comp108576_c2_seq8 transcribed RNA sequence
+GAOP01054992.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-13   54.8   0.0   2.2e-12   52.5   0.0   2.2   2   0   0   2   2   2   1 TSA: Pachypsylla venusta comp108576_c2_seq4 transcribed RNA sequence
+GAOP01054995.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.2e-13   54.1   0.0   3.4e-12   51.9   0.0   2.2   2   0   0   2   2   1   1 TSA: Pachypsylla venusta comp108576_c2_seq7 transcribed RNA sequence
+GAOP01054990.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.2e-13   54.1   0.1   4.5e-12   51.5   0.0   2.4   3   0   0   3   3   1   1 TSA: Pachypsylla venusta comp108576_c2_seq2 transcribed RNA sequence
+GAOP01054991.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-13   54.0   0.0   3.5e-12   51.9   0.0   2.2   2   0   0   2   2   1   1 TSA: Pachypsylla venusta comp108576_c2_seq3 transcribed RNA sequence
+GAOP01054993.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-13   54.0   0.1   4.6e-12   51.5   0.0   2.4   3   0   0   3   3   1   1 TSA: Pachypsylla venusta comp108576_c2_seq5 transcribed RNA sequence
+GAOP01054585.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00037   26.1   1.2    0.0012   24.5   0.2   2.2   2   0   0   2   2   2   1 TSA: Pachypsylla venusta comp108516_c1_seq1 transcribed RNA sequence
+GAOP01024449.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00057   25.5   1.0   0.00057   25.5   1.0   1.7   1   1   1   2   2   2   1 TSA: Pachypsylla venusta comp95586_c1_seq1 transcribed RNA sequence
+GAOP01136834.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.012   21.3   0.1     0.019   20.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp1013105_c0_seq1 transcribed RNA sequence
+GAOP01024448.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.038   19.7   3.2        67    9.2   0.0   3.1   1   1   2   3   3   3   0 TSA: Pachypsylla venusta comp95586_c0_seq1 transcribed RNA sequence
+GAOP01110471.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.11   18.2   0.6      0.17   17.6   0.5   1.4   1   1   0   1   1   1   0 TSA: Pachypsylla venusta comp115124_c8_seq2 transcribed RNA sequence
+GAOP01110281.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.19   17.4   0.0      0.31   16.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp115111_c5_seq1 transcribed RNA sequence
+GAOP01023101.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.39   16.4   1.5       0.5   16.1   1.5   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp94396_c0_seq1 transcribed RNA sequence
+GAOP01105346.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.49   16.1   1.3      0.49   16.1   1.3   2.3   2   1   0   2   2   2   0 TSA: Pachypsylla venusta comp114557_c0_seq6 transcribed RNA sequence
+GAOP01080060.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.6   0.6         2   14.2   0.6   1.5   1   1   0   1   1   1   0 TSA: Pachypsylla venusta comp111657_c1_seq1 transcribed RNA sequence
+GAOP01095348.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.6   2.4       3.5   13.3   2.4   1.6   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp113387_c1_seq1 transcribed RNA sequence
+GAOP01072412.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.9   14.2   0.2       2.3   13.9   0.2   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp110764_c1_seq1 transcribed RNA sequence
+GAOP01105342.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.9   1.0       2.3   13.9   1.0   2.5   2   0   0   2   2   2   0 TSA: Pachypsylla venusta comp114557_c0_seq2 transcribed RNA sequence
+GAOP01000560.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.9   0.1       2.6   13.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp2120_c0_seq1 transcribed RNA sequence
+GAOP01132729.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.6   13.3   0.0       3.6   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Pachypsylla venusta comp542547_c0_seq1 transcribed RNA sequence
+GAOP01052862.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.6   13.0   3.4        18   11.0   3.3   2.2   1   1   0   1   1   1   0 TSA: Pachypsylla venusta comp108263_c0_seq4 transcribed RNA sequence
+GAOP01052859.1_3     -          oskar_filtered.aligned.LOTUS_domain -                5.3   12.8   3.5        22   10.8   3.5   2.2   1   1   0   1   1   1   0 TSA: Pachypsylla venusta comp108263_c0_seq1 transcribed RNA sequence
+GAOP01105341.1_5     -          oskar_filtered.aligned.LOTUS_domain -                5.3   12.8   5.1       3.3   13.4   1.0   2.5   2   0   0   2   2   2   0 TSA: Pachypsylla venusta comp114557_c0_seq1 transcribed RNA sequence
+GAOP01105348.1_5     -          oskar_filtered.aligned.LOTUS_domain -                5.4   12.7   5.1       3.4   13.4   1.0   2.5   2   0   0   2   2   2   0 TSA: Pachypsylla venusta comp114557_c0_seq8 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAOP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAOP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAOP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:49:05 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCS01005473.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.6e-20   75.1   0.6   1.2e-19   74.0   0.0   1.9   2   0   0   2   2   2   1 TSA: Diplatys sp. AD-2014 breed wildtype C114321_a_16_0_l_852, transcribed RNA sequence
+GDCS01022753.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-10   44.0   0.1     3e-10   43.8   0.1   1.0   1   0   0   1   1   1   1 TSA: Diplatys sp. AD-2014 breed wildtype C74689_a_8_0_l_270, transcribed RNA sequence
+GDCS01004355.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.37   14.7   1.2      0.74   13.7   1.2   1.4   1   0   0   1   1   1   0 TSA: Diplatys sp. AD-2014 breed wildtype C111386_a_44_0_l_725, transcribed RNA sequence
+GDCS01030737.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.44   14.4   0.1      0.64   13.9   0.1   1.3   1   0   0   1   1   1   0 TSA: Diplatys sp. AD-2014 breed wildtype C94979_a_8_0_l_414, transcribed RNA sequence
+GDCS01004488.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.71   13.7   0.5       1.1   13.1   0.5   1.3   1   0   0   1   1   1   0 TSA: Diplatys sp. AD-2014 breed wildtype C111738_a_16_0_l_739, transcribed RNA sequence
+GDCS01029993.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.0   0.4   1.6e+02    6.2   0.1   2.3   2   0   0   2   2   2   0 TSA: Diplatys sp. AD-2014 breed wildtype C93062_a_4_0_l_395, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:58 2019
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGAH01016015.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-19   72.9   0.1     4e-18   69.8   0.0   2.7   3   0   0   3   3   3   1 TSA: Trypoxylus dichotomus A-dic_19419_g1_i1 transcribed RNA sequence
+GGAH01016016.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-19   72.9   0.1     4e-18   69.8   0.0   2.7   3   0   0   3   3   3   1 TSA: Trypoxylus dichotomus A-dic_19419_g1_i2 transcribed RNA sequence
+GGAH01012411.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-16   65.0  10.4   6.3e-13   53.1   1.4   3.7   3   0   0   3   3   3   2 TSA: Trypoxylus dichotomus A-dic_17453_g1_i1 transcribed RNA sequence
+GGAH01015964.1_3     -          oskar_filtered.aligned.LOTUS_domain -              2e-06   32.3   1.2         3   12.4   0.6   5.2   5   0   0   5   5   5   2 TSA: Trypoxylus dichotomus A-dic_19403_g1_i1 transcribed RNA sequence
+GGAH01015967.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-06   32.2   1.2       3.1   12.4   0.6   5.3   5   0   0   5   5   5   2 TSA: Trypoxylus dichotomus A-dic_19403_g1_i5 transcribed RNA sequence
+GGAH01015966.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-06   31.8   1.2       3.2   12.3   0.6   5.1   5   0   0   5   5   5   2 TSA: Trypoxylus dichotomus A-dic_19403_g1_i4 transcribed RNA sequence
+GGAH01034409.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.6   14.7   0.2      0.77   14.3   0.2   1.2   1   0   0   1   1   1   0 TSA: Trypoxylus dichotomus A-dic_26602_g1_i1 transcribed RNA sequence
+GGAH01022044.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.88   14.1   0.5       1.6   13.3   0.5   1.5   1   1   0   1   1   1   0 TSA: Trypoxylus dichotomus A-dic_21703_g2_i1 transcribed RNA sequence
+GGAH01022046.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.7   0.1       2.9   12.5   0.1   1.6   1   0   0   1   1   1   0 TSA: Trypoxylus dichotomus A-dic_21703_g2_i3 transcribed RNA sequence
+GGAH01028309.1_6     -          oskar_filtered.aligned.LOTUS_domain -                8.4   11.0   2.5   3.4e+02    5.8   2.5   3.0   1   1   0   1   1   1   0 TSA: Trypoxylus dichotomus A-dic_22851_g10_i4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGAH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:29 2019
+# [ok]

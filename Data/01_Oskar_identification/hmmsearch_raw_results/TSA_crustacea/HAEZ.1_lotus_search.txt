@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEZ01064568.1_5     -          LOTUS_CONSENSUS      -            7.2e-13   54.2   0.0   2.9e-11   49.0   0.0   2.6   2   0   0   2   2   2   1 TSA: Proasellus hercegovinensis, contig comp92287_c0_seq1, transcribed RNA sequence
+HAEZ01037323.1_5     -          LOTUS_CONSENSUS      -            1.4e-09   43.6   2.1   5.1e-06   32.2   0.1   3.1   2   1   1   3   3   3   2 TSA: Proasellus hercegovinensis, contig comp77527_c0_seq3, transcribed RNA sequence
+HAEZ01037324.1_5     -          LOTUS_CONSENSUS      -            1.9e-09   43.2   2.1   5.8e-06   32.0   0.1   3.1   2   1   1   3   3   3   2 TSA: Proasellus hercegovinensis, contig comp77527_c0_seq4, transcribed RNA sequence
+HAEZ01037322.1_6     -          LOTUS_CONSENSUS      -            2.4e-09   42.9   2.0   6.5e-06   31.9   0.1   3.1   2   1   1   3   3   3   2 TSA: Proasellus hercegovinensis, contig comp77527_c0_seq2, transcribed RNA sequence
+HAEZ01037325.1_6     -          LOTUS_CONSENSUS      -            3.1e-09   42.5   2.0   7.3e-06   31.7   0.1   3.1   2   1   1   3   3   3   2 TSA: Proasellus hercegovinensis, contig comp77527_c0_seq5, transcribed RNA sequence
+HAEZ01037321.1_5     -          LOTUS_CONSENSUS      -            1.4e-07   37.2   0.1   1.7e-07   36.9   0.1   1.1   1   0   0   1   1   1   1 TSA: Proasellus hercegovinensis, contig comp77527_c0_seq1, transcribed RNA sequence
+HAEZ01028227.1_6     -          LOTUS_CONSENSUS      -              0.012   21.4   0.0        45    9.9   0.0   2.2   1   1   1   2   2   2   0 TSA: Proasellus hercegovinensis, contig comp68065_c0_seq1, transcribed RNA sequence
+HAEZ01114434.1_5     -          LOTUS_CONSENSUS      -               0.31   16.9   0.1      0.38   16.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp644107_c0_seq1, transcribed RNA sequence
+HAEZ01150839.1_2     -          LOTUS_CONSENSUS      -                1.5   14.7   0.1       1.8   14.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp2266832_c0_seq1, transcribed RNA sequence
+HAEZ01049443.1_6     -          LOTUS_CONSENSUS      -                2.1   14.2   0.2       7.2   12.5   0.2   2.0   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp86496_c0_seq2, transcribed RNA sequence
+HAEZ01049442.1_6     -          LOTUS_CONSENSUS      -                3.3   13.6   0.2       9.2   12.2   0.2   1.7   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp86496_c0_seq1, transcribed RNA sequence
+HAEZ01103909.1_6     -          LOTUS_CONSENSUS      -                3.8   13.4   0.1         9   12.2   0.1   1.6   1   1   1   2   2   2   0 TSA: Proasellus hercegovinensis, contig comp97075_c0_seq3, transcribed RNA sequence
+HAEZ01067841.1_1     -          LOTUS_CONSENSUS      -                  4   13.3   0.0        44   10.0   0.0   2.5   2   0   0   2   2   2   0 TSA: Proasellus hercegovinensis, contig comp93087_c1_seq1, transcribed RNA sequence
+HAEZ01015654.1_2     -          LOTUS_CONSENSUS      -                4.2   13.2   1.2       9.4   12.1   0.7   1.9   1   1   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp37572_c0_seq1, transcribed RNA sequence
+HAEZ01054333.1_2     -          LOTUS_CONSENSUS      -                6.2   12.7   0.1        20   11.1   0.1   1.8   2   0   0   2   2   2   0 TSA: Proasellus hercegovinensis, contig comp88761_c0_seq1, transcribed RNA sequence
+HAEZ01117757.1_2     -          LOTUS_CONSENSUS      -                6.9   12.6   0.2        13   11.7   0.2   1.6   1   1   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp741329_c0_seq1, transcribed RNA sequence
+HAEZ01067843.1_1     -          LOTUS_CONSENSUS      -                9.6   12.1   0.0        60    9.5   0.0   2.1   2   0   0   2   2   2   0 TSA: Proasellus hercegovinensis, contig comp93087_c1_seq3, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEZ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEZ.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEZ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:07 2019
+# [ok]

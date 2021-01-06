@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPB01088062.1_6     -          oskar_filtered.aligned.OSK_domain -            3.5e-56  194.6   0.3   3.5e-56  194.6   0.3   1.9   2   0   0   2   2   2   1 TSA: Megastigmus spermotrophus contig193099 transcribed RNA sequence
+GCPB01011262.1_2     -          oskar_filtered.aligned.OSK_domain -            4.7e-56  194.2   0.3   4.7e-56  194.2   0.3   2.0   2   0   0   2   2   2   1 TSA: Megastigmus spermotrophus contig13256 transcribed RNA sequence
+GCPB01005394.1_4     -          oskar_filtered.aligned.OSK_domain -            1.5e-06   32.8   1.1   2.7e-06   32.0   1.1   1.5   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig6094 transcribed RNA sequence
+GCPB01053388.1_1     -          oskar_filtered.aligned.OSK_domain -               0.96   13.9   0.6       1.4   13.3   0.6   1.3   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig95509 transcribed RNA sequence
+GCPB01054136.1_3     -          oskar_filtered.aligned.OSK_domain -                4.1   11.8   3.2        12   10.4   3.2   1.8   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig97899 transcribed RNA sequence
+GCPB01040012.1_6     -          oskar_filtered.aligned.OSK_domain -                4.4   11.7   0.0       5.4   11.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig55849 transcribed RNA sequence
+GCPB01043435.1_5     -          oskar_filtered.aligned.OSK_domain -                5.9   11.3   3.4        24    9.3   0.3   2.2   1   1   1   2   2   2   0 TSA: Megastigmus spermotrophus contig66027 transcribed RNA sequence
+GCPB01029689.1_3     -          oskar_filtered.aligned.OSK_domain -                6.2   11.2   1.9       5.6   11.4   0.5   1.5   1   1   1   2   2   2   0 TSA: Megastigmus spermotrophus contig36030 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:04 2019
+# [ok]

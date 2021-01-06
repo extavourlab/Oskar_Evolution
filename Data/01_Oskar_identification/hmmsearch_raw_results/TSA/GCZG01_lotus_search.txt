@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZG01047016.1_2     -          LOTUS_CONSENSUS      -            1.6e-18   71.1   1.2   1.7e-18   71.0   0.1   1.5   2   0   0   2   2   2   1 TSA: Peloridium pomponorum breed wildtype s17555_L_47678_2_7_7_COMPLEX, transcribed RNA sequence
+GCZG01047015.1_2     -          LOTUS_CONSENSUS      -            2.4e-18   70.5   0.1   1.6e-17   67.8   0.1   2.3   2   0   0   2   2   2   1 TSA: Peloridium pomponorum breed wildtype s17554_L_47678_1_38_4_COMPLEX, transcribed RNA sequence
+GCZG01042137.1_5     -          LOTUS_CONSENSUS      -            2.7e-05   28.6   0.8     5e-05   27.8   0.0   1.9   2   0   0   2   2   2   1 TSA: Peloridium pomponorum breed wildtype s13158_L_29909_2_13_4_COMPLEX, transcribed RNA sequence
+GCZG01042135.1_5     -          LOTUS_CONSENSUS      -            2.8e-05   28.6   0.8     5e-05   27.8   0.0   1.9   2   0   0   2   2   2   1 TSA: Peloridium pomponorum breed wildtype s13156_L_29909_0_13_5_COMPLEX, transcribed RNA sequence
+GCZG01032163.1_4     -          LOTUS_CONSENSUS      -            0.00044   24.8   0.0    0.0014   23.2   0.0   1.7   2   0   0   2   2   2   1 TSA: Peloridium pomponorum breed wildtype C315603_3_0, transcribed RNA sequence
+GCZG01052251.1_5     -          LOTUS_CONSENSUS      -            0.00048   24.6   0.0       4.5   11.9   0.0   4.0   2   2   2   4   4   4   1 TSA: Peloridium pomponorum breed wildtype s22274_L_70402_0_5_1_LINEAR, transcribed RNA sequence
+GCZG01011324.1_6     -          LOTUS_CONSENSUS      -              0.073   17.6   0.0      0.12   17.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Peloridium pomponorum breed wildtype C228118_6_0, transcribed RNA sequence
+GCZG01053760.1_2     -          LOTUS_CONSENSUS      -               0.19   16.3   1.8   4.3e+02    5.6   0.0   4.1   2   1   2   4   4   4   0 TSA: Peloridium pomponorum breed wildtype s23632_L_76963_0_19_3_LINEAR, transcribed RNA sequence
+GCZG01036570.1_1     -          LOTUS_CONSENSUS      -                0.5   15.0   1.0       1.1   13.9   0.4   1.8   2   0   0   2   2   2   0 TSA: Peloridium pomponorum breed wildtype C345339_14_0, transcribed RNA sequence
+GCZG01026031.1_4     -          LOTUS_CONSENSUS      -               0.74   14.4   3.6        79    7.9   0.3   2.1   2   0   0   2   2   2   0 TSA: Peloridium pomponorum breed wildtype C284647_4_0, transcribed RNA sequence
+GCZG01060454.1_5     -          LOTUS_CONSENSUS      -               0.87   14.2   0.1       1.6   13.3   0.1   1.4   1   0   0   1   1   1   0 TSA: Peloridium pomponorum breed wildtype s7980_L_14562_0_2_0_LINEAR, transcribed RNA sequence
+GCZG01054808.1_1     -          LOTUS_CONSENSUS      -                3.9   12.1   0.1       7.3   11.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Peloridium pomponorum breed wildtype s2893_L_4399_0_5_6_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:16 2019
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZC01021805.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.2e-22   81.8   0.3   1.8e-21   79.7   0.3   2.1   1   0   0   1   1   1   1 TSA: Uroleucon ambrosiae breed wildtype s11572_L_27304_0_4_6_LINEAR, transcribed RNA sequence
+GCZC01022958.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.6e-18   67.8  15.8   3.6e-13   53.1   0.1   5.6   6   0   0   6   6   6   2 TSA: Uroleucon ambrosiae breed wildtype s1260_L_2171_1_23_5_COMPLEX, transcribed RNA sequence
+GCZC01022980.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-14   58.0   0.1   2.1e-14   57.1   0.1   1.4   1   0   0   1   1   1   1 TSA: Uroleucon ambrosiae breed wildtype s1262_L_2171_3_18_8_COMPLEX, transcribed RNA sequence
+GCZC01022946.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-14   56.5   0.1   5.8e-14   55.6   0.1   1.4   1   0   0   1   1   1   1 TSA: Uroleucon ambrosiae breed wildtype s1259_L_2171_0_15_3_COMPLEX, transcribed RNA sequence
+GCZC01030373.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-14   56.4   0.5   9.7e-13   51.7   0.0   2.9   2   0   0   2   2   2   1 TSA: Uroleucon ambrosiae breed wildtype s535_L_848_0_43_4_LINEAR, transcribed RNA sequence
+GCZC01012300.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-13   53.7  13.1   3.3e-12   50.0   0.0   4.3   4   0   0   4   4   4   2 TSA: Uroleucon ambrosiae breed wildtype C168268_17_0, transcribed RNA sequence
+GCZC01020720.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-09   40.8   0.1   1.2e+02    6.4   0.0   8.1   5   2   3   8   8   8   2 TSA: Uroleucon ambrosiae breed wildtype s10594_L_24229_0_39_6_COMPLEX, transcribed RNA sequence
+GCZC01020721.1_4     -          oskar_filtered.aligned.LOTUS_domain -              1e-08   38.8   0.1   1.5e+02    6.2   0.0   8.0   5   2   3   8   8   8   1 TSA: Uroleucon ambrosiae breed wildtype s10595_L_24229_1_32_6_COMPLEX, transcribed RNA sequence
+GCZC01033412.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0022   21.7   0.1      0.38   14.5   0.0   2.8   2   0   0   2   2   2   1 TSA: Uroleucon ambrosiae breed wildtype s8096_L_17230_0_17_8_LINEAR, transcribed RNA sequence
+GCZC01017623.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.15   15.8   1.5      0.18   15.5   1.5   1.3   1   0   0   1   1   1   0 TSA: Uroleucon ambrosiae breed wildtype C90663_5_0, transcribed RNA sequence
+GCZC01024490.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.36   14.6   0.0      0.68   13.7   0.0   1.4   1   0   0   1   1   1   0 TSA: Uroleucon ambrosiae breed wildtype s13991_L_35877_0_3_5_LINEAR, transcribed RNA sequence
+GCZC01005508.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.75   13.6   0.0       4.3   11.1   0.0   2.0   2   0   0   2   2   2   0 TSA: Uroleucon ambrosiae breed wildtype C123978_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:47 2019
+# [ok]

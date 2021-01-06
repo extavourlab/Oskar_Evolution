@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYW01054089.1_2     -          oskar_filtered.aligned.OSK_domain -              4e-21   79.9   0.0   7.6e-21   78.9   0.0   1.4   1   1   0   1   1   1   1 TSA: Psyllopsis fraxinicola breed wildtype s27763_L_63953_0_2_2_LINEAR, transcribed RNA sequence
+GCYW01044547.1_4     -          oskar_filtered.aligned.OSK_domain -            0.00069   23.7   2.4   0.00098   23.2   2.4   1.2   1   0   0   1   1   1   1 TSA: Psyllopsis fraxinicola breed wildtype s1915_L_1732_0_3_1_FORK, transcribed RNA sequence
+GCYW01044558.1_5     -          oskar_filtered.aligned.OSK_domain -             0.0039   21.2   0.3    0.0056   20.7   0.3   1.1   1   0   0   1   1   1   1 TSA: Psyllopsis fraxinicola breed wildtype s1916_L_1732_1_3_1_FORK, transcribed RNA sequence
+GCYW01059659.1_2     -          oskar_filtered.aligned.OSK_domain -              0.015   19.3   0.2     0.018   19.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Psyllopsis fraxinicola breed wildtype s6514_L_6710_0_6_4_LINEAR, transcribed RNA sequence
+GCYW01032327.1_3     -          oskar_filtered.aligned.OSK_domain -               0.79   13.7   0.0         1   13.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Psyllopsis fraxinicola breed wildtype C484205_4_0, transcribed RNA sequence
+GCYW01030324.1_6     -          oskar_filtered.aligned.OSK_domain -                1.4   12.9   3.5       1.7   12.6   3.5   1.1   1   0   0   1   1   1   0 TSA: Psyllopsis fraxinicola breed wildtype C471457_3_0, transcribed RNA sequence
+GCYW01022301.1_1     -          oskar_filtered.aligned.OSK_domain -                2.7   11.9   1.1       3.1   11.7   1.1   1.0   1   0   0   1   1   1   0 TSA: Psyllopsis fraxinicola breed wildtype C429386_2_0, transcribed RNA sequence
+GCYW01012672.1_6     -          oskar_filtered.aligned.OSK_domain -                3.1   11.7   0.0       3.1   11.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Psyllopsis fraxinicola breed wildtype C386122_3_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:02 2019
+# [ok]

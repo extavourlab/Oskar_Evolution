@@ -1,0 +1,23 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYR01081398.1_5     -          oskar_filtered.aligned.OSK_domain -            1.6e-15   62.2   0.1   2.9e-15   61.4   0.0   1.4   2   0   0   2   2   2   1 TSA: Antongilia madagassa breed wildtype s12243_L_23191_0_a_25_9_l_666, transcribed RNA sequence
+GDYR01056597.1_5     -          oskar_filtered.aligned.OSK_domain -            1.3e-14   59.3   0.0   1.3e-14   59.3   0.0   1.0   1   0   0   1   1   1   1 TSA: Antongilia madagassa breed wildtype C359260_a_4_0_l_300, transcribed RNA sequence
+GDYR01078634.1_5     -          oskar_filtered.aligned.OSK_domain -             0.0006   24.5   0.8    0.0011   23.7   0.1   1.8   2   0   0   2   2   2   1 TSA: Antongilia madagassa breed wildtype C425439_a_8_0_l_1411, transcribed RNA sequence
+GDYR01039590.1_4     -          oskar_filtered.aligned.OSK_domain -            0.00089   23.9   0.0   0.00093   23.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Antongilia madagassa breed wildtype C319281_a_3_0_l_256, transcribed RNA sequence
+GDYR01082310.1_5     -          oskar_filtered.aligned.OSK_domain -               0.23   16.1   0.2      0.28   15.8   0.2   1.2   1   0   0   1   1   1   0 TSA: Antongilia madagassa breed wildtype s13073_L_27856_0_a_7_1_l_462, transcribed RNA sequence
+GDYR01061956.1_5     -          oskar_filtered.aligned.OSK_domain -               0.59   14.7   0.0      0.82   14.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Antongilia madagassa breed wildtype C375017_a_5_0_l_347, transcribed RNA sequence
+GDYR01066368.1_5     -          oskar_filtered.aligned.OSK_domain -                1.6   13.3   2.2        26    9.4   0.5   2.1   1   1   1   2   2   2   0 TSA: Antongilia madagassa breed wildtype C387766_a_3_0_l_400, transcribed RNA sequence
+GDYR01029433.1_6     -          oskar_filtered.aligned.OSK_domain -                1.6   13.3   0.8       1.9   13.1   0.8   1.1   1   0   0   1   1   1   0 TSA: Antongilia madagassa breed wildtype C297419_a_5_0_l_247, transcribed RNA sequence
+GDYR01005956.1_2     -          oskar_filtered.aligned.OSK_domain -                1.9   13.1   0.2       2.2   12.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Antongilia madagassa breed wildtype C244844_a_4_0_l_217, transcribed RNA sequence
+GDYR01019814.1_1     -          oskar_filtered.aligned.OSK_domain -                  2   13.0   0.2       2.4   12.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Antongilia madagassa breed wildtype C276647_a_3_0_l_239, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:39 2019
+# [ok]

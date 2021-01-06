@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEFD01015218.1_6     -          LOTUS_CONSENSUS      -            1.9e-19   73.0   0.6   4.9e-18   68.5   0.0   2.9   3   0   0   3   3   3   1 TSA: Cephus cinctus Ccin_body_2011_Ill_S11447_L18054_0_57.4_B transcribed RNA sequence
+GEFD01015219.1_5     -          LOTUS_CONSENSUS      -            2.1e-19   72.8   0.6   5.1e-18   68.4   0.0   2.8   3   0   0   3   3   3   1 TSA: Cephus cinctus Ccin_body_2011_Ill_S11448_L18054_1_57.3_B transcribed RNA sequence
+GEFD01025688.1_4     -          LOTUS_CONSENSUS      -            2.1e-15   60.1   0.2   3.4e-11   46.6   0.0   3.5   3   0   0   3   3   3   2 TSA: Cephus cinctus Ccin_body_2011_Ill_S5823_L7010_1_33.6_C transcribed RNA sequence
+GEFD01025689.1_5     -          LOTUS_CONSENSUS      -            2.7e-15   59.7   0.2     3e-11   46.7   0.0   3.5   3   0   0   3   3   3   2 TSA: Cephus cinctus Ccin_body_2011_Ill_S5824_L7010_2_37.3_C transcribed RNA sequence
+GEFD01025687.1_5     -          LOTUS_CONSENSUS      -            2.7e-15   59.7   0.2     3e-11   46.7   0.0   3.4   3   0   0   3   3   3   2 TSA: Cephus cinctus Ccin_body_2011_Ill_S5822_L7010_0_37.2_C transcribed RNA sequence
+GEFD01023815.1_1     -          LOTUS_CONSENSUS      -            0.00048   23.6   0.0        93    6.7   0.0   5.4   3   1   3   6   6   6   2 TSA: Cephus cinctus Ccin_body_2011_Ill_S4134_L4526_0_65.8_C transcribed RNA sequence
+GEFD01023816.1_3     -          LOTUS_CONSENSUS      -            0.00089   22.8   0.0   1.2e+02    6.3   0.0   5.3   3   1   2   6   6   6   2 TSA: Cephus cinctus Ccin_body_2011_Ill_S4135_L4526_1_59.7_C transcribed RNA sequence
+GEFD01002141.1_5     -          LOTUS_CONSENSUS      -               0.61   13.7   0.6        17    9.0   0.1   2.1   1   1   1   2   2   2   0 TSA: Cephus cinctus Ccin_body_2011_Ill_C176923_2.0 transcribed RNA sequence
+GEFD01013074.1_5     -          LOTUS_CONSENSUS      -                  2   12.0   0.2       3.6   11.2   0.2   1.3   1   0   0   1   1   1   0 TSA: Cephus cinctus Ccin_body_2011_Ill_C265536_29.0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEFD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEFD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEFD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:33 2019
+# [ok]

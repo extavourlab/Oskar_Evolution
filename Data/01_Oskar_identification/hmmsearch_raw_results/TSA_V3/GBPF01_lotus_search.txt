@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPF01010272.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-22   80.8   0.2   1.3e-21   79.3   0.1   1.8   2   0   0   2   2   2   1 TSA: Theocolax elegans C59718_a_55_0_l_1531 transcribed RNA sequence
+GBPF01017389.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.6e-20   73.5   4.6     8e-15   57.5   0.9   2.9   2   0   0   2   2   2   2 TSA: Theocolax elegans s4220_L_12757_0_a_25_6_l_3042 transcribed RNA sequence
+GBPF01017725.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-16   63.0  11.1   2.2e-14   56.1   0.4   3.9   3   1   1   4   4   4   2 TSA: Theocolax elegans s4523_L_14267_0_a_12_2_l_1959 transcribed RNA sequence
+GBPF01017390.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-15   58.7   0.9   1.2e-14   57.0   0.9   2.0   1   0   0   1   1   1   1 TSA: Theocolax elegans s4221_L_12757_1_a_37_9_l_4077 transcribed RNA sequence
+GBPF01017726.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-15   58.5   1.3   3.9e-15   58.5   1.3   4.2   5   0   0   5   5   5   2 TSA: Theocolax elegans s4524_L_14267_1_a_21_3_l_3285 transcribed RNA sequence
+GBPF01015245.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-09   40.8   0.0   4.9e-09   39.0   0.0   2.0   1   0   0   1   1   1   1 TSA: Theocolax elegans s2284_L_5059_0_a_49_3_l_4614 transcribed RNA sequence
+GBPF01017730.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00011   25.0   0.0       8.6    9.3   0.0   5.6   3   1   2   5   5   5   1 TSA: Theocolax elegans s4528_L_14284_0_a_47_5_l_7248 transcribed RNA sequence
+GBPF01017390.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.087   15.7   0.1     0.087   15.7   0.1   3.5   2   1   1   3   3   3   0 TSA: Theocolax elegans s4221_L_12757_1_a_37_9_l_4077 transcribed RNA sequence
+GBPF01010143.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.31   13.9   0.0      0.91   12.4   0.0   1.8   1   0   0   1   1   1   0 TSA: Theocolax elegans C59240_a_42_0_l_1483 transcribed RNA sequence
+GBPF01014919.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.6   11.6   1.8   1.9e+02    5.0   0.0   3.9   4   1   0   4   4   4   0 TSA: Theocolax elegans s1987_L_4083_0_a_53_1_l_1917 transcribed RNA sequence
+GBPF01014920.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.6   11.6   2.1   1.8e+02    5.0   0.0   4.0   4   1   0   4   4   4   0 TSA: Theocolax elegans s1988_L_4083_1_a_49_8_l_1849 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:03 2019
+# [ok]

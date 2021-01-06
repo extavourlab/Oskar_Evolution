@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFK01041400.1_2     -          LOTUS_CONSENSUS      -            6.1e-14   56.8   0.1   1.2e-13   55.9   0.1   1.4   1   0   0   1   1   1   1 TSA: Proasellus spelaeus, contig comp143060_c0_seq1, transcribed RNA sequence
+HAFK01025005.1_3     -          LOTUS_CONSENSUS      -            1.8e-09   42.4   3.9   1.3e-07   36.4   0.7   3.1   3   0   0   3   3   3   1 TSA: Proasellus spelaeus, contig comp26977_c0_seq2, transcribed RNA sequence
+HAFK01025007.1_3     -          LOTUS_CONSENSUS      -            1.2e-08   39.8   4.3   2.9e-07   35.4   0.7   3.0   3   0   0   3   3   3   1 TSA: Proasellus spelaeus, contig comp26977_c0_seq4, transcribed RNA sequence
+HAFK01044661.1_1     -          LOTUS_CONSENSUS      -              0.017   20.1   0.1        29    9.7   0.0   3.8   2   1   3   5   5   5   0 TSA: Proasellus spelaeus, contig comp174703_c0_seq1, transcribed RNA sequence
+HAFK01078447.1_6     -          LOTUS_CONSENSUS      -               0.34   15.9   0.1       0.4   15.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp653732_c0_seq1, transcribed RNA sequence
+HAFK01003581.1_6     -          LOTUS_CONSENSUS      -               0.54   15.3   0.5   1.1e+02    7.9   0.1   2.5   2   0   0   2   2   2   0 TSA: Proasellus spelaeus, contig comp6229_c0_seq1, transcribed RNA sequence
+HAFK01075555.1_1     -          LOTUS_CONSENSUS      -                1.5   13.8   0.1       1.6   13.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp577395_c0_seq1, transcribed RNA sequence
+HAFK01077032.1_1     -          LOTUS_CONSENSUS      -                1.7   13.7   0.0       1.9   13.5   0.0   1.2   1   1   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp610254_c0_seq1, transcribed RNA sequence
+HAFK01068732.1_3     -          LOTUS_CONSENSUS      -                2.4   13.2   0.5       2.8   13.0   0.5   1.1   1   0   0   1   1   1   0 TSA: Proasellus spelaeus, contig comp437682_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFK.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFK.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFK.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:33 2019
+# [ok]

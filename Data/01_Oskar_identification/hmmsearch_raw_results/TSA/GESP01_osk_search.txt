@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GESP01086504.1_2     -          OSK_CONSENSUS        -              0.079   18.1   0.1     0.084   18.0   0.1   1.0   1   0   0   1   1   1   0 TSA: Spodoptera frugiperda TRINITY_DN35776_c0_g2_i1 transcribed RNA sequence
+GESP01039979.1_2     -          OSK_CONSENSUS        -               0.25   16.4   0.4      0.27   16.3   0.4   1.1   1   0   0   1   1   1   0 TSA: Spodoptera frugiperda TRINITY_DN30330_c0_g1_i2 transcribed RNA sequence
+GESP01039978.1_2     -          OSK_CONSENSUS        -                1.9   13.6   0.4       2.9   13.0   0.4   1.2   1   0   0   1   1   1   0 TSA: Spodoptera frugiperda TRINITY_DN30330_c0_g1_i1 transcribed RNA sequence
+GESP01071572.1_6     -          OSK_CONSENSUS        -                2.2   13.4   0.6   3.7e+02    6.1   0.0   2.4   3   0   0   3   3   3   0 TSA: Spodoptera frugiperda TRINITY_DN34293_c3_g5_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GESP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GESP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GESP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:01 2019
+# [ok]

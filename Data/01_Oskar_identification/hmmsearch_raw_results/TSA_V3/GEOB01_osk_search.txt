@@ -1,0 +1,25 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOB01267695.1_2     -          oskar_filtered.aligned.OSK_domain -               0.05   19.8   0.2     0.061   19.5   0.2   1.4   1   1   0   1   1   1   0 TSA: Azaleodes micronipha TR175105-c0_g1_i1 transcribed RNA sequence
+GEOB01090922.1_3     -          oskar_filtered.aligned.OSK_domain -               0.09   18.9   0.9      0.16   18.1   0.9   1.4   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR48218-c0_g1_i2 transcribed RNA sequence
+GEOB01204153.1_4     -          oskar_filtered.aligned.OSK_domain -               0.89   15.7   0.2      0.96   15.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR122440-c0_g1_i1 transcribed RNA sequence
+GEOB01114131.1_2     -          oskar_filtered.aligned.OSK_domain -                2.1   14.5   0.6       7.3   12.7   0.1   2.0   2   0   0   2   2   2   0 TSA: Azaleodes micronipha TR60569-c7_g1_i1 transcribed RNA sequence
+GEOB01001963.1_5     -          oskar_filtered.aligned.OSK_domain -                2.7   14.1   0.0       2.9   14.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR1306-c6_g1_i1 transcribed RNA sequence
+GEOB01260359.1_2     -          oskar_filtered.aligned.OSK_domain -                4.3   13.4   0.2       4.3   13.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR168930-c0_g1_i1 transcribed RNA sequence
+GEOB01253611.1_6     -          oskar_filtered.aligned.OSK_domain -                4.7   13.3   0.0       4.8   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR163391-c1_g1_i1 transcribed RNA sequence
+GEOB01053655.1_5     -          oskar_filtered.aligned.OSK_domain -                  6   13.0   0.1       6.2   12.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR28287-c0_g1_i1 transcribed RNA sequence
+GEOB01184388.1_2     -          oskar_filtered.aligned.OSK_domain -                6.2   12.9   1.4       7.4   12.7   1.4   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR101382-c0_g1_i1 transcribed RNA sequence
+GEOB01096979.1_5     -          oskar_filtered.aligned.OSK_domain -                8.2   12.5   0.4        10   12.2   0.1   1.5   2   0   0   2   2   2   0 TSA: Azaleodes micronipha TR50980-c6_g1_i1 transcribed RNA sequence
+GEOB01030030.1_2     -          oskar_filtered.aligned.OSK_domain -                8.8   12.4   2.1        12   12.0   2.1   1.4   1   1   0   1   1   1   0 TSA: Azaleodes micronipha TR15009-c1_g1_i1 transcribed RNA sequence
+GEOB01218485.1_4     -          oskar_filtered.aligned.OSK_domain -                9.7   12.3   0.1        13   11.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR134386-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:04 2019
+# [ok]

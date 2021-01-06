@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWD01055678.1_4     -          OSK_CONSENSUS        -            7.5e-27   98.2   2.4   9.1e-26   94.6   0.1   2.5   1   1   0   2   2   2   1 TSA: Campanulotes compar breed wildtype C214438_3_0, transcribed RNA sequence
+GCWD01048757.1_3     -          OSK_CONSENSUS        -               0.45   14.4   0.2        15    9.5   0.0   2.2   2   0   0   2   2   2   0 TSA: Campanulotes compar breed wildtype C200550_5_0, transcribed RNA sequence
+GCWD01059870.1_4     -          OSK_CONSENSUS        -               0.52   14.2   0.5        26    8.7   0.0   3.0   3   0   0   3   3   3   0 TSA: Campanulotes compar breed wildtype C222830_45_0, transcribed RNA sequence
+GCWD01046425.1_1     -          OSK_CONSENSUS        -               0.57   14.1   0.0      0.95   13.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C195862_15_0, transcribed RNA sequence
+GCWD01003140.1_5     -          OSK_CONSENSUS        -               0.75   13.7   0.2      0.89   13.4   0.2   1.0   1   0   0   1   1   1   0 TSA: Campanulotes compar breed wildtype C108372_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:17 2019
+# [ok]

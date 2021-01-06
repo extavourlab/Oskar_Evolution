@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEEM01017729.1_6     -          OSK_CONSENSUS        -              0.016   17.9   1.5      0.03   16.9   1.5   1.4   1   0   0   1   1   1   0 TSA: Trichoplusia ni HighFive_v1_016525.1 transcribed RNA sequence
+GEEM01021163.1_3     -          OSK_CONSENSUS        -                0.3   13.7   0.3      0.92   12.1   0.0   1.9   2   0   0   2   2   2   0 TSA: Trichoplusia ni HighFive_v1_019961.1 transcribed RNA sequence
+GEEM01005263.1_4     -          OSK_CONSENSUS        -               0.38   13.4   0.1      0.57   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Trichoplusia ni HighFive_v1_005247.1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEEM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:23 2019
+# [ok]

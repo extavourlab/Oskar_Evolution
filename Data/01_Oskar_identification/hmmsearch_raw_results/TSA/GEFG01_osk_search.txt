@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEFG01074281.1_6     -          OSK_CONSENSUS        -              0.026   18.7   1.1        12   10.1   0.1   2.4   2   0   0   2   2   2   0 TSA: Cephus cinctus Ccin_ant_2013_Ill_c81689_c0_seq1 transcribed RNA sequence
+GEFG01044814.1_3     -          OSK_CONSENSUS        -              0.092   17.0   0.3      0.11   16.8   0.3   1.1   1   0   0   1   1   1   0 TSA: Cephus cinctus Ccin_ant_2013_Ill_c457423_c0_seq1 transcribed RNA sequence
+GEFG01067435.1_1     -          OSK_CONSENSUS        -                1.9   12.7   0.0       2.3   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Cephus cinctus Ccin_ant_2013_Ill_c680674_c0_seq1 transcribed RNA sequence
+GEFG01017006.1_6     -          OSK_CONSENSUS        -                2.9   12.1   0.0         5   11.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Cephus cinctus Ccin_ant_2013_Ill_c249710_c0_seq1 transcribed RNA sequence
+GEFG01042763.1_2     -          OSK_CONSENSUS        -                3.8   11.7   4.8       3.2   12.0   0.3   3.0   4   0   0   4   4   4   0 TSA: Cephus cinctus Ccin_ant_2013_Ill_c4382_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEFG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEFG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEFG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:24 2019
+# [ok]

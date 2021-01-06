@@ -1,0 +1,13 @@
+,tax_id,order_name,family_name,order_id,sp_name,bioproject_id,family_id,genome_id,Publication(PMID/DOI)
+0,13347,Isopoda,Armadillidiidae,29979,Armadillidium vulgare,PRJNA318167,37810,GCA_001887335.1,
+1,136191,Cyclopoida,Oithonidae,84308,Oithona nana,PRJEB18938,136189,GCA_900157175.1,
+2,142080,Isopoda,Ligiidae,29979,Ligia exotica,PRJDB4544,96854,GCA_002091915.1,
+3,194544,Notostraca,Triopsidae,58774,Triops cancriformis,PRJDB1662,63729,GCA_000981345.1,25525151
+4,217165,Siphonostomatoida,Caligidae,72033,Caligus rogercresseyi,PRJNA280098,72034,GCA_001005385.1,
+5,293153,Decapoda,Atyidae,6683,Caridina multidentata,PRJDB4543,96235,GCA_002091895.1,
+6,294128,Amphipoda,Hyalellidae,6821,Hyalella azteca,PRJNA342675,199477,GCF_000764305.1,9023104
+7,317513,Amphipoda,Hyalidae,6821,Parhyale hawaiensis,PRJNA306836,199478,GCA_001587735.1,
+8,35525,Diplostraca,Daphniidae,84337,Daphnia magna,PRJNA298946,77658,GCA_001632505.1,
+9,6669,Diplostraca,Daphniidae,84337,Daphnia pulex,PRJNA12756,77658,GCA_000187875.1,21292972
+10,72036,Siphonostomatoida,Caligidae,72033,Lepeophtheirus salmonis,PRJNA280127,72034,GCA_001005235.1,
+11,88015,Calanoida,Temoridae,6833,Eurytemora affinis,PRJNA203087,88013,GCA_000591075.1,

@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDGN01015859.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-15   59.7   0.0   4.2e-14   57.5   0.0   2.2   2   0   0   2   2   2   1 TSA: Amyelois transitella Atrans_Trinity_comp_6688_c0_seq1 transcribed RNA sequence
+GDGN01019734.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.1e-13   55.2   0.0   2.8e-08   38.8   0.0   2.7   2   0   0   2   2   2   2 TSA: Amyelois transitella Atrans_Trinity_comp_235389_c0_seq2 transcribed RNA sequence
+GDGN01019733.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-13   54.3   0.0   4.4e-08   38.1   0.0   2.7   2   0   0   2   2   2   2 TSA: Amyelois transitella Atrans_Trinity_comp_235389_c0_seq1 transcribed RNA sequence
+GDGN01048245.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.86   14.7   0.5         2   13.5   0.5   1.6   1   0   0   1   1   1   0 TSA: Amyelois transitella Atrans_Trinity_comp_19142_c1_seq24 transcribed RNA sequence
+GDGN01048242.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.4   0.6       3.2   12.9   0.6   1.8   1   0   0   1   1   1   0 TSA: Amyelois transitella Atrans_Trinity_comp_19142_c1_seq21 transcribed RNA sequence
+GDGN01055041.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.8   13.1   0.2       5.4   12.2   0.2   1.4   1   0   0   1   1   1   0 TSA: Amyelois transitella Atrans_Trinity_comp_398216_c0_seq1 transcribed RNA sequence
+GDGN01039331.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.5   12.7   0.2   2.6e+02    6.7   0.1   2.0   1   1   1   2   2   2   0 TSA: Amyelois transitella Atrans_Trinity_comp_1375882_c0_seq1 transcribed RNA sequence
+GDGN01043417.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.8   12.3   0.0         6   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Amyelois transitella Atrans_Trinity_comp_34273_c0_seq70 transcribed RNA sequence
+GDGN01043419.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.8   12.3   0.0         6   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Amyelois transitella Atrans_Trinity_comp_34273_c0_seq72 transcribed RNA sequence
+GDGN01003538.1_1     -          oskar_filtered.aligned.LOTUS_domain -                6.8   11.8   0.8        12   11.0   0.3   1.6   1   1   1   2   2   2   0 TSA: Amyelois transitella Atrans_Trinity_comp_709931_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDGN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDGN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDGN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:01 2019
+# [ok]

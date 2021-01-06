@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBAB01027851.1_4     -          LOTUS_CONSENSUS      -            1.3e-26   96.6   4.4   5.4e-26   94.6   0.0   4.0   5   0   0   5   5   5   1 TSA: Musca domestica Unigene28618 transcribed RNA sequence
+GBAB01032181.1_2     -          LOTUS_CONSENSUS      -            8.4e-17   65.1   0.1     2e-16   63.9   0.0   1.7   2   0   0   2   2   2   1 TSA: Musca domestica Unigene33014 transcribed RNA sequence
+GBAB01032179.1_2     -          LOTUS_CONSENSUS      -            3.5e-16   63.1   0.0     1e-15   61.6   0.0   1.8   1   0   0   1   1   1   1 TSA: Musca domestica Unigene33012 transcribed RNA sequence
+GBAB01027062.1_4     -          LOTUS_CONSENSUS      -            3.1e-10   44.1   0.0   1.3e-09   42.1   0.0   2.1   1   0   0   1   1   1   1 TSA: Musca domestica Unigene27806 transcribed RNA sequence
+GBAB01033204.1_4     -          LOTUS_CONSENSUS      -               0.56   14.4   0.2       1.1   13.4   0.2   1.4   1   0   0   1   1   1   0 TSA: Musca domestica Unigene34051 transcribed RNA sequence
+GBAB01017248.1_1     -          LOTUS_CONSENSUS      -               0.82   13.9   0.7       9.6   10.4   0.1   2.1   1   1   1   2   2   2   0 TSA: Musca domestica Unigene17697 transcribed RNA sequence
+GBAB01027910.1_5     -          LOTUS_CONSENSUS      -               0.84   13.8   0.3       3.1   12.0   0.1   2.1   2   0   0   2   2   2   0 TSA: Musca domestica Unigene28677 transcribed RNA sequence
+GBAB01039137.1_2     -          LOTUS_CONSENSUS      -               0.98   13.6   0.5        21    9.3   0.0   2.6   2   0   0   2   2   2   0 TSA: Musca domestica CL7280.Contig1 transcribed RNA sequence
+GBAB01011412.1_6     -          LOTUS_CONSENSUS      -                  1   13.5   1.4        78    7.5   0.1   2.3   2   0   0   2   2   2   0 TSA: Musca domestica Unigene11686 transcribed RNA sequence
+GBAB01036832.1_3     -          LOTUS_CONSENSUS      -                1.6   12.9   0.7       2.9   12.1   0.2   1.8   2   0   0   2   2   2   0 TSA: Musca domestica Unigene37711 transcribed RNA sequence
+GBAB01007419.1_2     -          LOTUS_CONSENSUS      -                  6   11.1   2.9   2.4e+02    6.0   0.5   2.8   2   0   0   2   2   2   0 TSA: Musca domestica Unigene7602 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBAB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBAB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBAB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:34 2019
+# [ok]

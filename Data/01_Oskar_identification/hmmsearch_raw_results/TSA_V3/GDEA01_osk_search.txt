@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEA01041987.1_3     -          oskar_filtered.aligned.OSK_domain -            3.2e-29  106.0   3.5   4.8e-29  105.4   3.5   1.6   1   1   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s24182_L_47855_0_a_42_1_l_1136, transcribed RNA sequence
+GDEA01033068.1_1     -          oskar_filtered.aligned.OSK_domain -            1.6e-06   32.0   0.0     2e-06   31.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Cerobasis guestfalica breed wildtype s16146_L_16850_0_a_13_6_l_322, transcribed RNA sequence
+GDEA01048954.1_1     -          oskar_filtered.aligned.OSK_domain -               0.32   14.7   0.2      0.49   14.0   0.2   1.3   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype s8293_L_6734_0_a_30_3_l_1248, transcribed RNA sequence
+GDEA01020728.1_1     -          oskar_filtered.aligned.OSK_domain -               0.34   14.6   0.9       0.4   14.3   0.9   1.1   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype C336485_a_4_0_l_511, transcribed RNA sequence
+GDEA01048955.1_1     -          oskar_filtered.aligned.OSK_domain -               0.48   14.1   0.2         1   13.0   0.2   1.5   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype s8294_L_6734_1_a_26_5_l_1762, transcribed RNA sequence
+GDEA01040601.1_1     -          oskar_filtered.aligned.OSK_domain -               0.83   13.3   0.4      0.94   13.1   0.4   1.2   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype s22932_L_38852_0_a_6_6_l_532, transcribed RNA sequence
+GDEA01029844.1_2     -          oskar_filtered.aligned.OSK_domain -                1.5   12.4   1.6        25    8.5   0.0   2.4   1   1   1   2   2   2   0 TSA: Cerobasis guestfalica breed wildtype s13244_L_12474_0_a_123_8_l_1215, transcribed RNA sequence
+GDEA01039544.1_2     -          oskar_filtered.aligned.OSK_domain -                1.8   12.2   0.0       3.2   11.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Cerobasis guestfalica breed wildtype s21981_L_31005_0_a_40_4_l_1710, transcribed RNA sequence
+GDEA01047139.1_2     -          oskar_filtered.aligned.OSK_domain -                6.7   10.3   9.2        30    8.2   4.2   2.5   1   1   1   2   2   2   0 TSA: Cerobasis guestfalica breed wildtype s6658_L_5181_0_a_24_5_l_2733, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:48 2019
+# [ok]

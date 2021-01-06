@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDPU01017048.1_6     -          oskar_filtered.aligned.OSK_domain -             0.0092   18.8   1.5     0.015   18.1   1.4   1.4   1   1   0   1   1   1   1 TSA: Macrosiagon limbatum C83160_a_60_0_l_819 transcribed RNA sequence
+GDPU01012835.1_2     -          oskar_filtered.aligned.OSK_domain -                0.3   13.8   0.0      0.39   13.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Macrosiagon limbatum C70390_a_4_0_l_459 transcribed RNA sequence
+GDPU01012891.1_2     -          oskar_filtered.aligned.OSK_domain -                1.2   11.8   1.8       1.4   11.7   1.8   1.1   1   0   0   1   1   1   0 TSA: Macrosiagon limbatum C70544_a_7_0_l_461 transcribed RNA sequence
+GDPU01025345.1_1     -          oskar_filtered.aligned.OSK_domain -                9.8    8.9   5.9       6.2    9.5   0.2   2.9   3   0   0   3   3   3   0 TSA: Macrosiagon limbatum s5217_L_19094_0_a_47_1_l_2020 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDPU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDPU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:36 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENN01108349.1_1     -          oskar_filtered.aligned.OSK_domain -                1.3   13.8   0.0       1.5   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Tineola bisselliella k94_131637 transcribed RNA sequence
+GENN01039785.1_3     -          oskar_filtered.aligned.OSK_domain -                1.7   13.4   0.2       2.2   13.0   0.2   1.3   1   1   0   1   1   1   0 TSA: Tineola bisselliella k62_245546 transcribed RNA sequence
+GENN01011605.1_3     -          oskar_filtered.aligned.OSK_domain -                  2   13.2   0.1       2.3   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Tineola bisselliella k52_290627 transcribed RNA sequence
+GENN01042636.1_4     -          oskar_filtered.aligned.OSK_domain -                2.1   13.1   0.5       2.7   12.8   0.5   1.2   1   0   0   1   1   1   0 TSA: Tineola bisselliella k64_221462 transcribed RNA sequence
+GENN01005553.1_4     -          oskar_filtered.aligned.OSK_domain -                2.2   13.1   4.4       8.3   11.2   4.8   1.7   1   1   0   1   1   1   0 TSA: Tineola bisselliella k52_172151 transcribed RNA sequence
+GENN01011474.1_6     -          oskar_filtered.aligned.OSK_domain -                2.6   12.8   0.0       3.5   12.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Tineola bisselliella k52_290061 transcribed RNA sequence
+GENN01080024.1_2     -          oskar_filtered.aligned.OSK_domain -                4.6   12.0   0.0       5.8   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Tineola bisselliella k80_182178 transcribed RNA sequence
+GENN01080037.1_4     -          oskar_filtered.aligned.OSK_domain -                4.7   12.0   0.0       6.1   11.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Tineola bisselliella k80_182262 transcribed RNA sequence
+GENN01037874.1_6     -          oskar_filtered.aligned.OSK_domain -                5.5   11.8   7.2       1.1   14.1   1.3   2.1   1   1   1   2   2   2   0 TSA: Tineola bisselliella k62_61379 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:52 2019
+# [ok]

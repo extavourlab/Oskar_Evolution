@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAVW02025032.1_1     -          OSK_CONSENSUS        -            4.7e-24   88.1   0.0   8.9e-24   87.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Epiophlebia superstes s216_L_197_1_a_7_5_l_1211 transcribed RNA sequence
+GAVW02029169.1_6     -          OSK_CONSENSUS        -               0.27   14.1   2.2       7.9    9.4   1.7   2.9   3   0   0   3   3   3   0 TSA: Epiophlebia superstes s5900_L_22460_0_a_18_2_l_1295 transcribed RNA sequence
+GAVW02024095.1_4     -          OSK_CONSENSUS        -               0.46   13.4   0.1      0.61   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Epiophlebia superstes s1323_L_1725_0_a_23_9_l_330 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVW02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAVW02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVW02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:47 2019
+# [ok]

@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENH01044281.1_6     -          LOTUS_CONSENSUS      -            1.2e-15   63.1   0.0   4.3e-13   54.9   0.0   2.7   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k60_27686 transcribed RNA sequence
+GENH01054806.1_6     -          LOTUS_CONSENSUS      -              3e-15   61.8   0.0   6.2e-13   54.4   0.0   2.7   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k64_323643 transcribed RNA sequence
+GENH01006820.1_3     -          LOTUS_CONSENSUS      -              2e-09   43.2   0.0     6e-07   35.2   0.0   2.8   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k52_211095 transcribed RNA sequence
+GENH01081172.1_3     -          LOTUS_CONSENSUS      -            3.2e-09   42.5   0.0     6e-07   35.2   0.0   2.8   2   0   0   2   2   2   1 TSA: Dryadaula visaliella k66_576001 transcribed RNA sequence
+GENH01020618.1_1     -          LOTUS_CONSENSUS      -            3.2e-09   42.5   0.2   2.8e-07   36.3   0.0   2.6   3   0   0   3   3   2   1 TSA: Dryadaula visaliella k52_512342 transcribed RNA sequence
+GENH01107931.1_3     -          LOTUS_CONSENSUS      -            1.4e-07   37.2   0.1     3e-05   29.7   0.0   3.2   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k72_454006 transcribed RNA sequence
+GENH01042916.1_5     -          LOTUS_CONSENSUS      -            1.5e-07   37.2   0.1   3.2e-05   29.7   0.0   3.3   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k58_414194 transcribed RNA sequence
+GENH01107831.1_4     -          LOTUS_CONSENSUS      -              5e-05   29.1   0.1     0.011   21.5   0.0   3.2   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k72_453496 transcribed RNA sequence
+GENH01042734.1_5     -          LOTUS_CONSENSUS      -            5.2e-05   29.0   0.1     0.012   21.5   0.0   3.3   3   0   0   3   3   3   1 TSA: Dryadaula visaliella k58_412872 transcribed RNA sequence
+GENH01107831.1_6     -          LOTUS_CONSENSUS      -              0.018   20.9   0.0       1.9   14.4   0.0   2.5   2   0   0   2   2   2   0 TSA: Dryadaula visaliella k72_453496 transcribed RNA sequence
+GENH01107931.1_1     -          LOTUS_CONSENSUS      -              0.019   20.8   0.0         2   14.3   0.0   2.5   2   0   0   2   2   2   0 TSA: Dryadaula visaliella k72_454006 transcribed RNA sequence
+GENH01042734.1_4     -          LOTUS_CONSENSUS      -              0.019   20.8   0.0         2   14.3   0.0   2.5   2   0   0   2   2   2   0 TSA: Dryadaula visaliella k58_412872 transcribed RNA sequence
+GENH01042916.1_4     -          LOTUS_CONSENSUS      -               0.02   20.7   0.0         2   14.3   0.0   2.5   2   0   0   2   2   2   0 TSA: Dryadaula visaliella k58_414194 transcribed RNA sequence
+GENH01021992.1_4     -          LOTUS_CONSENSUS      -               0.37   16.6   0.0      0.86   15.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k52_516084 transcribed RNA sequence
+GENH01087785.1_4     -          LOTUS_CONSENSUS      -               0.38   16.6   0.0      0.85   15.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Dryadaula visaliella k66_593538 transcribed RNA sequence
+GENH01074587.1_5     -          LOTUS_CONSENSUS      -                2.3   14.1   4.3        22   11.0   4.1   2.1   1   1   0   1   1   1   0 TSA: Dryadaula visaliella k66_449700 transcribed RNA sequence
+GENH01122724.1_1     -          LOTUS_CONSENSUS      -                5.8   12.8   6.5        16   11.4   3.5   2.6   1   1   1   2   2   2   0 TSA: Dryadaula visaliella k78_320240 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:05 2019
+# [ok]

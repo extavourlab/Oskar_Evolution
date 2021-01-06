@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFI01031004.1_4     -          LOTUS_CONSENSUS      -            7.5e-13   53.9   0.1   7.5e-13   53.9   0.1   3.1   3   0   0   3   3   3   1 TSA: Proasellus rectus, contig comp54338_c0_seq3, transcribed RNA sequence
+HAFI01031003.1_5     -          LOTUS_CONSENSUS      -            1.4e-12   53.1   0.1   1.4e-12   53.1   0.1   3.3   3   0   0   3   3   3   1 TSA: Proasellus rectus, contig comp54338_c0_seq2, transcribed RNA sequence
+HAFI01031002.1_5     -          LOTUS_CONSENSUS      -            1.4e-12   53.1   0.1   1.4e-12   53.1   0.1   3.3   3   0   0   3   3   3   1 TSA: Proasellus rectus, contig comp54338_c0_seq1, transcribed RNA sequence
+HAFI01036852.1_6     -          LOTUS_CONSENSUS      -            2.1e-12   52.5   6.6   2.6e-09   42.6   1.2   2.9   2   0   0   2   2   2   2 TSA: Proasellus rectus, contig comp58557_c1_seq1, transcribed RNA sequence
+HAFI01060514.1_5     -          LOTUS_CONSENSUS      -              0.027   20.1   0.1   3.5e+02    6.9   0.0   5.1   2   1   1   4   4   4   0 TSA: Proasellus rectus, contig comp67040_c1_seq16, transcribed RNA sequence
+HAFI01060506.1_5     -          LOTUS_CONSENSUS      -              0.032   19.9   0.0   1.8e+02    7.8   0.0   5.0   2   1   0   3   3   3   0 TSA: Proasellus rectus, contig comp67040_c1_seq8, transcribed RNA sequence
+HAFI01060510.1_5     -          LOTUS_CONSENSUS      -               0.04   19.6   0.0   4.1e+02    6.7   0.0   5.0   2   1   0   4   4   4   0 TSA: Proasellus rectus, contig comp67040_c1_seq12, transcribed RNA sequence
+HAFI01060512.1_5     -          LOTUS_CONSENSUS      -              0.057   19.1   0.1   4.5e+02    6.6   0.0   5.1   2   1   1   4   4   4   0 TSA: Proasellus rectus, contig comp67040_c1_seq14, transcribed RNA sequence
+HAFI01060500.1_5     -          LOTUS_CONSENSUS      -              0.067   18.8   0.1   4.7e+02    6.5   0.0   5.0   2   1   2   4   4   4   0 TSA: Proasellus rectus, contig comp67040_c1_seq2, transcribed RNA sequence
+HAFI01060502.1_5     -          LOTUS_CONSENSUS      -               0.08   18.6   0.1   4.8e+02    6.5   0.0   4.9   2   1   2   4   4   4   0 TSA: Proasellus rectus, contig comp67040_c1_seq4, transcribed RNA sequence
+HAFI01060504.1_5     -          LOTUS_CONSENSUS      -                0.1   18.2   0.0   5.2e+02    6.4   0.0   4.9   2   1   1   4   4   4   0 TSA: Proasellus rectus, contig comp67040_c1_seq6, transcribed RNA sequence
+HAFI01060513.1_5     -          LOTUS_CONSENSUS      -               0.12   18.0   0.1   5.5e+02    6.3   0.0   4.9   2   1   1   4   4   4   0 TSA: Proasellus rectus, contig comp67040_c1_seq15, transcribed RNA sequence
+HAFI01060499.1_5     -          LOTUS_CONSENSUS      -               0.14   17.8   0.1   2.9e+02    7.2   0.0   4.8   2   1   0   3   3   3   0 TSA: Proasellus rectus, contig comp67040_c1_seq1, transcribed RNA sequence
+HAFI01095343.1_4     -          LOTUS_CONSENSUS      -                1.5   14.5   0.1       2.8   13.6   0.0   1.6   2   0   0   2   2   2   0 TSA: Proasellus rectus, contig comp657671_c0_seq1, transcribed RNA sequence
+HAFI01110034.1_3     -          LOTUS_CONSENSUS      -                2.8   13.6   0.6       3.8   13.2   0.6   1.4   1   1   0   1   1   1   0 TSA: Proasellus rectus, contig comp943948_c0_seq1, transcribed RNA sequence
+HAFI01010927.1_6     -          LOTUS_CONSENSUS      -                4.9   12.9   3.5       9.1   12.0   3.5   1.4   1   0   0   1   1   1   0 TSA: Proasellus rectus, contig comp23309_c0_seq1, transcribed RNA sequence
+HAFI01017649.1_3     -          LOTUS_CONSENSUS      -                5.2   12.8   0.1       6.6   12.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus rectus, contig comp38538_c0_seq1, transcribed RNA sequence
+HAFI01018368.1_2     -          LOTUS_CONSENSUS      -                 10   11.9   3.3   1.7e+02    8.0   0.4   2.0   1   1   1   2   2   2   0 TSA: Proasellus rectus, contig comp40112_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFI.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFI.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFI.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:29 2019
+# [ok]

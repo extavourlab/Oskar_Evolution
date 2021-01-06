@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPR01053088.1_4     -          LOTUS_CONSENSUS      -            2.9e-10   45.0   0.1   4.5e-10   44.4   0.1   1.2   1   0   0   1   1   1   1 TSA: Heterogammarus sophianosii c47231_g4_i1 transcribed RNA sequence
+GEPR01068982.1_4     -          LOTUS_CONSENSUS      -               0.12   17.5   0.5      0.13   17.3   0.5   1.1   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c59940_g1_i1 transcribed RNA sequence
+GEPR01074193.1_5     -          LOTUS_CONSENSUS      -               0.15   17.1   0.4      0.22   16.6   0.4   1.2   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c66084_g1_i1 transcribed RNA sequence
+GEPR01083488.1_4     -          LOTUS_CONSENSUS      -               0.51   15.4   1.8       1.4   14.0   0.6   1.9   2   0   0   2   2   2   0 TSA: Heterogammarus sophianosii c76968_g1_i1 transcribed RNA sequence
+GEPR01034772.1_2     -          LOTUS_CONSENSUS      -               0.97   14.5   0.0       2.1   13.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c37806_g4_i1 transcribed RNA sequence
+GEPR01053955.1_5     -          LOTUS_CONSENSUS      -                1.3   14.1   0.4       5.4   12.1   0.1   2.2   2   0   0   2   2   2   0 TSA: Heterogammarus sophianosii c47433_g5_i1 transcribed RNA sequence
+GEPR01053957.1_5     -          LOTUS_CONSENSUS      -                1.7   13.7   0.4       5.6   12.1   0.1   2.0   2   0   0   2   2   2   0 TSA: Heterogammarus sophianosii c47433_g5_i3 transcribed RNA sequence
+GEPR01053956.1_5     -          LOTUS_CONSENSUS      -                1.7   13.7   0.4       5.6   12.1   0.1   2.0   2   0   0   2   2   2   0 TSA: Heterogammarus sophianosii c47433_g5_i2 transcribed RNA sequence
+GEPR01023304.1_6     -          LOTUS_CONSENSUS      -                2.1   13.4   0.0       3.3   12.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c28370_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPR.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPR.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPR.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:35 2019
+# [ok]

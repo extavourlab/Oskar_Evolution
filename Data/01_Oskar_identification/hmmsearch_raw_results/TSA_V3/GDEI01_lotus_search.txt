@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDEI01014346.1_2     -          oskar_filtered.aligned.LOTUS_domain -              1e-08   38.1   0.1   1.6e-08   37.5   0.1   1.3   1   0   0   1   1   1   1 TSA: Haematomyzus elephantis breed wildtype C64626_a_11_0_l_715, transcribed RNA sequence
+GDEI01019523.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-05   25.6   1.0        68    6.6   0.0   5.2   2   1   3   5   5   5   3 TSA: Haematomyzus elephantis breed wildtype s2431_L_7973_0_a_24_2_l_3866, transcribed RNA sequence
+GDEI01014346.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.38   13.8   0.1        44    7.2   0.0   2.5   2   0   0   2   2   2   0 TSA: Haematomyzus elephantis breed wildtype C64626_a_11_0_l_715, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDEI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDEI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:40 2019
+# [ok]

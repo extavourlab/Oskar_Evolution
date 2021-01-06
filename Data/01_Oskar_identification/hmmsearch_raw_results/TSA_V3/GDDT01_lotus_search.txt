@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDDT01019411.1_4     -          oskar_filtered.aligned.LOTUS_domain -            4.5e-12   49.1   0.1   6.9e-12   48.5   0.1   1.2   1   0   0   1   1   1   1 TSA: Mesopsocus unipunctatus breed wildtype s1560_L_2429_0_a_15_2_l_784, transcribed RNA sequence
+GDDT01021502.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0045   20.2   0.1        57    7.0   0.0   4.1   4   0   0   4   4   4   1 TSA: Mesopsocus unipunctatus breed wildtype s3445_L_6699_0_a_23_2_l_1154, transcribed RNA sequence
+GDDT01021503.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.028   17.6   0.2        95    6.3   0.0   4.0   4   0   0   4   4   4   0 TSA: Mesopsocus unipunctatus breed wildtype s3446_L_6699_1_a_17_4_l_1694, transcribed RNA sequence
+GDDT01001231.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.33   14.2   0.1      0.51   13.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Mesopsocus unipunctatus breed wildtype C37538_a_4_0_l_234, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDDT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:55 2019
+# [ok]

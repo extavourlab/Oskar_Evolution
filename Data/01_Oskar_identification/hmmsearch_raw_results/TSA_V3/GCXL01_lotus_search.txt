@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXL01034239.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-19   73.6   0.0   6.7e-19   72.4   0.0   1.6   2   0   0   2   2   2   1 TSA: Jalysus sp. AD-2014 breed wildtype C581591_5_0, transcribed RNA sequence
+GCXL01061971.1_3     -          oskar_filtered.aligned.LOTUS_domain -              5e-18   69.6   0.0   8.2e-13   52.9   0.0   3.5   3   0   0   3   3   3   2 TSA: Jalysus sp. AD-2014 breed wildtype s5046_L_6105_1_6_6_COMPLEX, transcribed RNA sequence
+GCXL01061970.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-18   69.4   0.0     9e-13   52.7   0.0   3.6   3   0   0   3   3   3   2 TSA: Jalysus sp. AD-2014 breed wildtype s5045_L_6105_0_6_4_COMPLEX, transcribed RNA sequence
+GCXL01040490.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-07   34.9   0.0        25    9.6   0.0   5.1   3   2   2   5   5   5   3 TSA: Jalysus sp. AD-2014 breed wildtype s12167_L_18087_1_7_2_COMPLEX, transcribed RNA sequence
+GCXL01040489.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-07   34.4   0.0        27    9.4   0.0   5.0   3   2   2   5   5   5   3 TSA: Jalysus sp. AD-2014 breed wildtype s12166_L_18087_0_7_2_COMPLEX, transcribed RNA sequence
+GCXL01061972.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.34   15.6   0.0       8.2   11.1   0.0   2.7   2   0   0   2   2   2   0 TSA: Jalysus sp. AD-2014 breed wildtype s5047_L_6105_2_6_5_COMPLEX, transcribed RNA sequence
+GCXL01029540.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.3   0.0         3   12.5   0.0   1.4   1   0   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C556473_6_0, transcribed RNA sequence
+GCXL01027678.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.2   4.6      0.97   14.1   2.4   1.7   1   1   0   2   2   2   0 TSA: Jalysus sp. AD-2014 breed wildtype C547555_2_0, transcribed RNA sequence
+GCXL01025007.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.3   12.9   1.5        64    8.3   0.5   2.1   1   1   1   2   2   2   0 TSA: Jalysus sp. AD-2014 breed wildtype C535116_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:56 2019
+# [ok]

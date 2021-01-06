@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFD01054544.1_1     -          LOTUS_CONSENSUS      -            1.1e-12   53.0   4.1   5.2e-10   44.4   1.0   2.5   2   0   0   2   2   2   2 TSA: Proasellus margalefi, contig comp52282_c1_seq10, transcribed RNA sequence
+HAFD01054550.1_1     -          LOTUS_CONSENSUS      -            1.3e-12   52.8   4.1   5.6e-10   44.3   1.0   2.5   2   0   0   2   2   2   2 TSA: Proasellus margalefi, contig comp52282_c1_seq16, transcribed RNA sequence
+HAFD01079448.1_1     -          LOTUS_CONSENSUS      -                0.4   15.9   0.0        63    8.9   0.0   2.5   1   1   2   3   3   3   0 TSA: Proasellus margalefi, contig comp319861_c0_seq1, transcribed RNA sequence
+HAFD01063391.1_5     -          LOTUS_CONSENSUS      -               0.41   15.9   0.4       0.9   14.8   0.3   1.6   1   1   0   1   1   1   0 TSA: Proasellus margalefi, contig comp52827_c7_seq1, transcribed RNA sequence
+HAFD01074420.1_6     -          LOTUS_CONSENSUS      -               0.79   15.0   0.1       1.6   14.0   0.1   1.6   1   1   0   1   1   1   0 TSA: Proasellus margalefi, contig comp222279_c0_seq1, transcribed RNA sequence
+HAFD01019890.1_2     -          LOTUS_CONSENSUS      -                1.9   13.8   0.1       2.6   13.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Proasellus margalefi, contig comp36317_c0_seq1, transcribed RNA sequence
+HAFD01082762.1_2     -          LOTUS_CONSENSUS      -                4.8   12.5   0.4       6.3   12.1   0.3   1.4   1   1   0   1   1   1   0 TSA: Proasellus margalefi, contig comp393848_c0_seq1, transcribed RNA sequence
+HAFD01077053.1_3     -          LOTUS_CONSENSUS      -                4.8   12.4   0.2       4.8   12.4   0.2   2.5   3   0   0   3   3   3   0 TSA: Proasellus margalefi, contig comp271634_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFD.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFD.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFD.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:16 2019
+# [ok]

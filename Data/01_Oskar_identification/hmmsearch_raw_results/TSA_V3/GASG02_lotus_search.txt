@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASG02035049.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.1e-16   61.6   0.0   4.5e-13   52.9   0.0   2.4   2   0   0   2   2   2   2 TSA: Yponomeuta evonymellus s6585_L_8425_0_a_26_6_l_1918 transcribed RNA sequence
+GASG02022077.1_1     -          oskar_filtered.aligned.LOTUS_domain -              7e-08   36.3   0.0   2.3e-07   34.6   0.0   1.9   2   0   0   2   2   2   1 TSA: Yponomeuta evonymellus C205769_a_11_0_l_971 transcribed RNA sequence
+GASG02011601.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.32   14.9   1.1      0.43   14.5   1.1   1.3   1   0   0   1   1   1   0 TSA: Yponomeuta evonymellus C164140_a_7_0_l_335 transcribed RNA sequence
+GASG02023789.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.57   14.1   0.8       4.4   11.2   0.1   2.5   3   0   0   3   3   3   0 TSA: Yponomeuta evonymellus C212823_a_50_0_l_1437 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASG02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:55 2019
+# [ok]

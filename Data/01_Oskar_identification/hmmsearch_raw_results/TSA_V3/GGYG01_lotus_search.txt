@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGYG01007826.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00053   23.4   0.0     0.001   22.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Sinella curviseta isolate NJ population sinella.20470.1, transcribed RNA sequence
+GGYG01001879.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0082   19.5   0.0      0.02   18.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Sinella curviseta isolate NJ population sinella.12789.1, transcribed RNA sequence
+GGYG01002887.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.37   14.2   0.2       1.4   12.3   0.0   2.0   2   0   0   2   2   2   0 TSA: Sinella curviseta isolate NJ population sinella.11718.1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     ./tmp/collembola_TSA/proteins/translated_GGYG01.1.fasta
+# Option settings: hmmsearch --tblout tmp/collembola_TSA//GGYG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm ./tmp/collembola_TSA/proteins/translated_GGYG01.1.fasta 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Thu Dec 12 16:45:37 2019
+# [ok]

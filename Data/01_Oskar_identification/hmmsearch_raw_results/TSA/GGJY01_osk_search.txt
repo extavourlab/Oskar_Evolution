@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGJY01038695.1_2     -          OSK_CONSENSUS        -               0.12   16.4   0.4      0.69   13.9   0.3   2.4   2   0   0   2   2   2   0 TSA: Pieris rapae c31718_g1_i2 transcribed RNA sequence
+GGJY01042506.1_6     -          OSK_CONSENSUS        -               0.51   14.3   0.6      0.68   14.0   0.6   1.3   1   0   0   1   1   1   0 TSA: Pieris rapae c32688_g2_i10 transcribed RNA sequence
+GGJY01042501.1_5     -          OSK_CONSENSUS        -               0.58   14.2   0.7      0.75   13.8   0.7   1.3   1   0   0   1   1   1   0 TSA: Pieris rapae c32688_g2_i5 transcribed RNA sequence
+GGJY01056541.1_4     -          OSK_CONSENSUS        -               0.64   14.0   0.0        63    7.5   0.0   2.0   1   1   1   2   2   2   0 TSA: Pieris rapae c45411_g1_i1 transcribed RNA sequence
+GGJY01045962.1_1     -          OSK_CONSENSUS        -               0.64   14.0   2.5      0.79   13.7   2.2   1.5   1   1   0   1   1   1   0 TSA: Pieris rapae c34213_g1_i1 transcribed RNA sequence
+GGJY01038694.1_1     -          OSK_CONSENSUS        -               0.91   13.5   1.0       5.1   11.1   0.3   2.8   2   0   0   2   2   2   0 TSA: Pieris rapae c31718_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGJY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGJY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGJY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:31 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAJC01011221.1_6     -          OSK_CONSENSUS        -            1.3e-54  187.4   0.2   2.7e-54  186.4   0.2   1.5   1   0   0   1   1   1   1 TSA: Leptopilina heterotoma comp388_c1_seq1 transcribed RNA sequence
+GAJC01009625.1_5     -          OSK_CONSENSUS        -              1e-51  178.1   1.6   3.4e-51  176.4   0.4   2.3   2   0   0   2   2   2   1 TSA: Leptopilina heterotoma comp232_c0_seq1 transcribed RNA sequence
+GAJC01027593.1_4     -          OSK_CONSENSUS        -               0.16   14.9   0.2        23    7.9   0.0   3.0   3   0   0   3   3   3   0 TSA: Leptopilina heterotoma comp3819_c0_seq1 transcribed RNA sequence
+GAJC01000860.1_6     -          OSK_CONSENSUS        -                2.8   10.9   3.8       2.8   10.9   1.0   1.9   2   0   0   2   2   2   0 TSA: Leptopilina heterotoma comp7375_c1_seq2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAJC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAJC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAJC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:05:54 2019
+# [ok]

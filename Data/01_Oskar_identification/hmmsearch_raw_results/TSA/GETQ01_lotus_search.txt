@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GETQ01124664.1_1     -          LOTUS_CONSENSUS      -            7.5e-14   58.4   0.0     3e-13   56.4   0.0   2.1   2   0   0   2   2   1   1 TSA: Rhagoletis pomonella c142584_g1_i2 transcribed RNA sequence
+GETQ01124669.1_1     -          LOTUS_CONSENSUS      -              9e-14   58.1   0.0   3.2e-13   56.3   0.0   1.9   2   0   0   2   2   1   1 TSA: Rhagoletis pomonella c142584_g1_i7 transcribed RNA sequence
+GETQ01124665.1_1     -          LOTUS_CONSENSUS      -            9.2e-14   58.1   0.1   4.4e-13   55.9   0.0   2.2   3   0   0   3   3   1   1 TSA: Rhagoletis pomonella c142584_g1_i3 transcribed RNA sequence
+GETQ01124672.1_1     -          LOTUS_CONSENSUS      -            9.4e-14   58.0   0.1   4.3e-13   55.9   0.0   2.2   3   0   0   3   3   1   1 TSA: Rhagoletis pomonella c142584_g1_i10 transcribed RNA sequence
+GETQ01124675.1_1     -          LOTUS_CONSENSUS      -            1.1e-13   57.9   0.1   4.7e-13   55.8   0.0   2.2   3   0   0   3   3   1   1 TSA: Rhagoletis pomonella c142584_g1_i13 transcribed RNA sequence
+GETQ01124663.1_1     -          LOTUS_CONSENSUS      -            1.1e-13   57.8   0.1   4.8e-13   55.8   0.0   2.2   2   0   0   2   2   1   1 TSA: Rhagoletis pomonella c142584_g1_i1 transcribed RNA sequence
+GETQ01124666.1_1     -          LOTUS_CONSENSUS      -            1.4e-13   57.5   0.0   4.4e-13   55.9   0.0   1.9   2   0   0   2   2   1   1 TSA: Rhagoletis pomonella c142584_g1_i4 transcribed RNA sequence
+GETQ01124671.1_1     -          LOTUS_CONSENSUS      -            4.1e-09   43.2   0.0     1e-08   41.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Rhagoletis pomonella c142584_g1_i9 transcribed RNA sequence
+GETQ01254788.1_6     -          LOTUS_CONSENSUS      -            9.4e-08   38.8   0.1   4.2e-07   36.7   0.0   2.2   2   0   0   2   2   2   1 TSA: Rhagoletis pomonella c162054_g3_i1 transcribed RNA sequence
+GETQ01013313.1_1     -          LOTUS_CONSENSUS      -                2.9   14.8   0.2       3.3   14.6   0.2   1.1   1   0   0   1   1   1   0 TSA: Rhagoletis pomonella c28014_g1_i1 transcribed RNA sequence
+GETQ01195431.1_5     -          LOTUS_CONSENSUS      -                2.9   14.8   0.0       4.9   14.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Rhagoletis pomonella c152755_g1_i1 transcribed RNA sequence
+GETQ01016418.1_2     -          LOTUS_CONSENSUS      -                5.6   13.9   0.1       7.1   13.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Rhagoletis pomonella c34220_g1_i1 transcribed RNA sequence
+GETQ01239082.1_2     -          LOTUS_CONSENSUS      -                5.8   13.8   0.4   1.9e+02    9.0   0.0   3.2   3   0   0   3   3   3   0 TSA: Rhagoletis pomonella c159117_g1_i3 transcribed RNA sequence
+GETQ01239086.1_2     -          LOTUS_CONSENSUS      -                5.9   13.8   0.4   1.9e+02    9.0   0.0   3.2   3   0   0   3   3   3   0 TSA: Rhagoletis pomonella c159117_g1_i7 transcribed RNA sequence
+GETQ01239085.1_2     -          LOTUS_CONSENSUS      -                6.3   13.7   0.4   1.9e+02    9.0   0.0   3.1   3   0   0   3   3   3   0 TSA: Rhagoletis pomonella c159117_g1_i6 transcribed RNA sequence
+GETQ01020854.1_6     -          LOTUS_CONSENSUS      -                7.4   13.5   0.2        12   12.9   0.2   1.2   1   0   0   1   1   1   0 TSA: Rhagoletis pomonella c43876_g1_i1 transcribed RNA sequence
+GETQ01217761.1_5     -          LOTUS_CONSENSUS      -                8.9   13.2   0.0        17   12.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Rhagoletis pomonella c155958_g1_i2 transcribed RNA sequence
+GETQ01091876.1_5     -          LOTUS_CONSENSUS      -                9.1   13.2   0.8        17   12.3   0.0   1.7   2   0   0   2   2   2   0 TSA: Rhagoletis pomonella c135298_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GETQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GETQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:36 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWD01011075.1_3     -          oskar_filtered.aligned.OSK_domain -            4.7e-57  195.3   0.1   8.7e-57  194.4   0.1   1.4   1   0   0   1   1   1   1 TSA: Macrocentrus marginator C53068_a_29_0_l_1410 transcribed RNA sequence
+GBWD01002747.1_2     -          oskar_filtered.aligned.OSK_domain -            8.9e-14   54.2   0.0   9.8e-14   54.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Macrocentrus marginator C26103_a_3_0_l_301 transcribed RNA sequence
+GBWD01009971.1_1     -          oskar_filtered.aligned.OSK_domain -               0.19   14.0   0.2      0.27   13.5   0.2   1.2   1   0   0   1   1   1   0 TSA: Macrocentrus marginator C49476_a_3_0_l_1093 transcribed RNA sequence
+GBWD01001388.1_6     -          oskar_filtered.aligned.OSK_domain -               0.23   13.7   2.3      0.24   13.6   2.3   1.0   1   0   0   1   1   1   0 TSA: Macrocentrus marginator C22106_a_3_0_l_256 transcribed RNA sequence
+GBWD01003730.1_6     -          oskar_filtered.aligned.OSK_domain -               0.48   12.7   0.5      0.53   12.5   0.5   1.1   1   0   0   1   1   1   0 TSA: Macrocentrus marginator C29333_a_17_0_l_355 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:08:20 2019
+# [ok]

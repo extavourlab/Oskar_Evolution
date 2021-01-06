@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZB01025333.1_6     -          OSK_CONSENSUS        -               0.24   15.1   2.7      0.28   14.9   2.7   1.1   1   0   0   1   1   1   0 TSA: Sehirus cinctus breed wildtype C203373_9_0, transcribed RNA sequence
+GCZB01033245.1_5     -          OSK_CONSENSUS        -               0.28   14.9   6.2      0.51   14.1   1.8   2.4   2   0   0   2   2   2   0 TSA: Sehirus cinctus breed wildtype C237249_14_0, transcribed RNA sequence
+GCZB01024272.1_6     -          OSK_CONSENSUS        -               0.45   14.3   0.1       0.6   13.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Sehirus cinctus breed wildtype C199445_5_0, transcribed RNA sequence
+GCZB01021819.1_2     -          OSK_CONSENSUS        -               0.97   13.2   0.7       1.2   12.8   0.7   1.1   1   0   0   1   1   1   0 TSA: Sehirus cinctus breed wildtype C190755_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:56 2019
+# [ok]

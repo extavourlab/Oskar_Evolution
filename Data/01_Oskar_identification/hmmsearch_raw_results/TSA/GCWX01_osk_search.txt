@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWX01035470.1_3     -          OSK_CONSENSUS        -            2.4e-26   96.2   0.0   5.4e-26   95.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s11969_L_49305_0_11_3_LINEAR, transcribed RNA sequence
+GCWX01033628.1_4     -          OSK_CONSENSUS        -            4.6e-12   49.7   1.2   9.8e-12   48.7   1.2   1.5   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s10301_L_39846_0_4_7_LINEAR, transcribed RNA sequence
+GCWX01033456.1_2     -          OSK_CONSENSUS        -              1e-11   48.6   0.3   1.8e-11   47.8   0.3   1.3   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s10146_L_38930_0_2_5_LINEAR, transcribed RNA sequence
+GCWX01020167.1_3     -          OSK_CONSENSUS        -            0.00021   24.8   0.0   0.00026   24.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype C167213_5_0, transcribed RNA sequence
+GCWX01033385.1_6     -          OSK_CONSENSUS        -             0.0041   20.6   0.0    0.0062   20.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Llanquihuea pilosa breed wildtype s10082_L_38611_0_8_6_LINEAR, transcribed RNA sequence
+GCWX01013211.1_6     -          OSK_CONSENSUS        -               0.34   14.4   1.2      0.43   14.1   1.2   1.1   1   0   0   1   1   1   0 TSA: Llanquihuea pilosa breed wildtype C141347_2_0, transcribed RNA sequence
+GCWX01015221.1_6     -          OSK_CONSENSUS        -               0.42   14.1   0.2      0.71   13.4   0.2   1.4   1   1   0   1   1   1   0 TSA: Llanquihuea pilosa breed wildtype C148367_3_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:54 2019
+# [ok]

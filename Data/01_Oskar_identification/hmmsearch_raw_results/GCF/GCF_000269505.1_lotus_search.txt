@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017140398.1       -          LOTUS_CONSENSUS      -              8e-26   90.5   3.2   1.1e-24   86.9   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: maternal effect protein oskar isoform X1 [Drosophila miranda]
+XP_017144667.1       -          LOTUS_CONSENSUS      -            4.1e-13   49.8   0.0   9.9e-13   48.6   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 5-like [Drosophila miranda]
+XP_017140399.1       -          LOTUS_CONSENSUS      -            5.3e-13   49.5   6.0   2.8e-06   27.9   0.0   4.4   3   1   1   4   4   4   2 PREDICTED: maternal effect protein oskar isoform X2 [Drosophila miranda]
+XP_017148203.1       -          LOTUS_CONSENSUS      -              1e-12   48.5   0.0     1e-12   48.5   0.0   3.0   2   1   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108159436 isoform X4 [Drosophila miranda]
+XP_017148202.1       -          LOTUS_CONSENSUS      -              1e-12   48.5   0.0     1e-12   48.5   0.0   3.0   2   1   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108159436 isoform X3 [Drosophila miranda]
+XP_017148200.1       -          LOTUS_CONSENSUS      -            1.4e-12   48.1   0.0   1.4e-12   48.1   0.0   2.9   2   1   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7B isoform X1 [Drosophila miranda]
+XP_017147803.1       -          LOTUS_CONSENSUS      -            1.9e-10   41.3   0.0   3.7e-10   40.3   0.0   1.5   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108159217 isoform X2 [Drosophila miranda]
+XP_017147801.1       -          LOTUS_CONSENSUS      -            2.2e-10   41.1   0.0   4.1e-10   40.2   0.0   1.5   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108159217 isoform X1 [Drosophila miranda]
+XP_017147802.1       -          LOTUS_CONSENSUS      -            2.2e-10   41.1   0.0   4.1e-10   40.2   0.0   1.5   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108159217 isoform X1 [Drosophila miranda]
+XP_017151237.1       -          LOTUS_CONSENSUS      -             0.0013   19.4   0.0    0.0015   19.1   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108161479 [Drosophila miranda]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000269505.1_DroMir_2.2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000269505.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000269505.1_DroMir_2.2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:58 2019
+# [ok]

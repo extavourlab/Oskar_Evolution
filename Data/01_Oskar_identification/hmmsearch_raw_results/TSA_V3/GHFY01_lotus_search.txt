@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFY01000826.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-20   75.9   3.1   5.7e-20   75.1   0.0   3.0   3   0   0   3   3   3   1 TSA: Bombus pascuorum isolate bpas4 contig830, transcribed RNA sequence
+GHFY01023376.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-06   30.2   0.4   2.6e-05   28.0   0.0   2.0   2   0   0   2   2   2   1 TSA: Bombus pascuorum isolate bpas4 contig23416, transcribed RNA sequence
+GHFY01017878.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0013   22.5   0.1    0.0016   22.3   0.1   1.1   1   0   0   1   1   1   1 TSA: Bombus pascuorum isolate bpas4 contig17902, transcribed RNA sequence
+GHFY01005993.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0046   20.8   1.2     0.028   18.3   0.0   2.7   2   0   0   2   2   2   1 TSA: Bombus pascuorum isolate bpas4 contig6002, transcribed RNA sequence
+GHFY01032615.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.41   14.5   0.2      0.49   14.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Bombus pascuorum isolate bpas4 contig32675, transcribed RNA sequence
+GHFY01029447.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  1   13.3   0.1       1.3   12.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Bombus pascuorum isolate bpas4 contig29502, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:34 2019
+# [ok]

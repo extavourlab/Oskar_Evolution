@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEEY01022286.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-21   78.7   0.0   1.2e-20   76.6   0.0   2.1   2   0   0   2   2   2   1 TSA: Cephus cinctus Ccin_ant_Roche_itg22830_gig12997_l1330_nC1 transcribed RNA sequence
+GEEY01005765.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-05   28.2   0.0        14    9.0   0.0   4.9   2   1   3   5   5   5   3 TSA: Cephus cinctus Ccin_ant_Roche_itg05903_gig00554_l5914_nC5 transcribed RNA sequence
+GEEY01005766.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-05   28.2   0.0        14    9.0   0.0   4.8   2   1   3   5   5   5   3 TSA: Cephus cinctus Ccin_ant_Roche_itg05904_gig00554_l5811_nC5 transcribed RNA sequence
+GEEY01005767.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-05   28.0   0.0        12    9.1   0.0   4.5   2   1   2   4   4   4   3 TSA: Cephus cinctus Ccin_ant_Roche_itg05905_gig00554_l5353_nC4 transcribed RNA sequence
+GEEY01005768.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   27.9   0.0        12    9.2   0.0   4.3   2   1   2   4   4   4   3 TSA: Cephus cinctus Ccin_ant_Roche_itg05906_gig00554_l5250_nC4 transcribed RNA sequence
+GEEY01008585.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.21   14.8   0.5        96    6.3   0.0   3.5   3   0   0   3   3   3   0 TSA: Cephus cinctus Ccin_ant_Roche_itg08851_gig01321_l2780_nC3 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEEY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEEY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:30 2019
+# [ok]

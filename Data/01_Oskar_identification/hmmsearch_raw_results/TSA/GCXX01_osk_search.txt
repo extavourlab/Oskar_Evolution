@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXX01045553.1_6     -          OSK_CONSENSUS        -              0.031   18.3   3.1     0.049   17.7   0.6   2.3   3   0   0   3   3   3   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus s12995_L_30895_0_15_0_LINEAR, transcribed RNA sequence
+GCXX01027574.1_4     -          OSK_CONSENSUS        -               0.18   15.9   0.0       0.2   15.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus C281598_2_0, transcribed RNA sequence
+GCXX01052125.1_4     -          OSK_CONSENSUS        -                0.3   15.1   0.0      0.71   13.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus s18923_L_54901_0_4_1_LINEAR, transcribed RNA sequence
+GCXX01006843.1_1     -          OSK_CONSENSUS        -               0.32   15.0   0.2      0.36   14.9   0.2   1.0   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus C208695_3_0, transcribed RNA sequence
+GCXX01058968.1_6     -          OSK_CONSENSUS        -                0.5   14.4   0.1         1   13.4   0.1   1.5   1   0   0   1   1   1   0 TSA: Largus californicus breed wildtype isolate LrspL1 - Largus californicus s25090_L_87867_0_10_4_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:55:45 2019
+# [ok]

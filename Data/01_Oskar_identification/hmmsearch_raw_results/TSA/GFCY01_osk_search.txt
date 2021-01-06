@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFCY01009391.1_5     -          OSK_CONSENSUS        -              0.088   15.8   2.0      0.15   15.0   2.0   1.4   1   0   0   1   1   1   0 TSA: Bombyx mori BmPG_Unigene_BMK.9406 transcribed RNA sequence
+GFCY01019207.1_4     -          OSK_CONSENSUS        -                0.5   13.3   0.1      0.59   13.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Bombyx mori BmPG_Unigene_BMK.19269 transcribed RNA sequence
+GFCY01004418.1_2     -          OSK_CONSENSUS        -               0.58   13.1   1.8       3.4   10.6   0.2   2.6   2   0   0   2   2   2   0 TSA: Bombyx mori BmPG_Unigene_BMK.4428 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFCY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFCY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFCY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:52 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015438441.1       -          LOTUS_CONSENSUS      -            2.4e-19   68.9   0.0   7.6e-19   67.3   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Dufourea novaeangliae]
+XP_015438442.1       -          LOTUS_CONSENSUS      -            2.4e-19   68.9   0.0   7.6e-19   67.3   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Dufourea novaeangliae]
+XP_015438443.1       -          LOTUS_CONSENSUS      -            2.4e-19   68.9   0.0   7.6e-19   67.3   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 [Dufourea novaeangliae]
+XP_015435780.1       -          LOTUS_CONSENSUS      -            3.7e-11   42.7  10.7   2.4e-07   30.5   0.0   5.0   5   0   0   5   5   5   2 PREDICTED: uncharacterized protein LOC107191296 [Dufourea novaeangliae]
+XP_015440397.1       -          LOTUS_CONSENSUS      -               0.12   12.1   0.6       2.9    7.8   0.0   2.3   2   0   0   2   2   2   0 PREDICTED: major royal jelly protein 1-like [Dufourea novaeangliae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001272555.1_ASM127255v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001272555.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001272555.1_ASM127255v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:49 2019
+# [ok]

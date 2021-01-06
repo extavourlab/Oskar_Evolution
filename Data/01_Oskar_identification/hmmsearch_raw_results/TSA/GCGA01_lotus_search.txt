@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCGA01001374.1_5     -          LOTUS_CONSENSUS      -            1.1e-24   89.3   4.8   1.4e-24   89.0   0.0   3.7   4   0   0   4   4   4   1 TSA: Lispe sydneyensis breed wildtype C105304_a_37_0_l_2668, transcribed RNA sequence
+GCGA01022827.1_2     -          LOTUS_CONSENSUS      -               0.23   14.7   0.4      0.28   14.4   0.4   1.1   1   0   0   1   1   1   0 TSA: Lispe sydneyensis breed wildtype s93_L_118_0_a_11_8_l_249, transcribed RNA sequence
+GCGA01000877.1_6     -          LOTUS_CONSENSUS      -                9.3    9.5   4.7        14    8.9   1.0   2.5   2   0   0   2   2   2   0 TSA: Lispe sydneyensis breed wildtype C103438_a_43_0_l_1967, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCGA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:14 2019
+# [ok]

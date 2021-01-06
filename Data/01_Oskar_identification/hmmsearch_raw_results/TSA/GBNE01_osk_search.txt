@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNE01033072.1_5     -          OSK_CONSENSUS        -            3.5e-46  160.3   0.8   8.5e-46  159.0   0.8   1.6   1   0   0   1   1   1   1 TSA: Leptomastix dactylopii s521_L_669_0_a_58_8_l_1634 transcribed RNA sequence
+GBNE01033083.1_5     -          OSK_CONSENSUS        -            3.5e-46  160.2   0.8   8.3e-46  159.0   0.8   1.6   1   0   0   1   1   1   1 TSA: Leptomastix dactylopii s522_L_669_1_a_56_9_l_1613 transcribed RNA sequence
+GBNE01033094.1_5     -          OSK_CONSENSUS        -            3.9e-46  160.1   0.8   8.2e-46  159.0   0.8   1.5   1   0   0   1   1   1   1 TSA: Leptomastix dactylopii s523_L_669_2_a_53_8_l_1607 transcribed RNA sequence
+GBNE01027766.1_3     -          OSK_CONSENSUS        -              0.099   15.8   0.0      0.21   14.7   0.0   1.6   1   0   0   1   1   1   0 TSA: Leptomastix dactylopii C98115_a_22_0_l_986 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:50 2019
+# [ok]

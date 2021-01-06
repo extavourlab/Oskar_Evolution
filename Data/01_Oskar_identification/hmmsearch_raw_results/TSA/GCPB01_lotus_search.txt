@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPB01088062.1_6     -          LOTUS_CONSENSUS      -            1.1e-25   94.5   0.5   5.2e-25   92.3   0.1   2.3   2   0   0   2   2   2   1 TSA: Megastigmus spermotrophus contig193099 transcribed RNA sequence
+GCPB01011262.1_2     -          LOTUS_CONSENSUS      -            1.7e-25   93.9   2.2   6.7e-25   92.0   0.1   3.0   3   0   0   3   3   3   1 TSA: Megastigmus spermotrophus contig13256 transcribed RNA sequence
+GCPB01068282.1_1     -          LOTUS_CONSENSUS      -            6.8e-16   63.1   0.0   1.3e-15   62.2   0.0   1.4   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig160511 transcribed RNA sequence
+GCPB01019519.1_6     -          LOTUS_CONSENSUS      -            2.6e-15   61.2   2.0   4.7e-11   47.6   0.0   3.7   3   0   0   3   3   3   2 TSA: Megastigmus spermotrophus contig23643 transcribed RNA sequence
+GCPB01019521.1_3     -          LOTUS_CONSENSUS      -            8.9e-15   59.5   2.5   3.3e-11   48.1   0.0   3.3   3   0   0   3   3   2   2 TSA: Megastigmus spermotrophus contig23645 transcribed RNA sequence
+GCPB01006680.1_4     -          LOTUS_CONSENSUS      -              1e-12   52.9   9.6     2e-09   42.4   0.3   4.0   3   0   0   3   3   2   2 TSA: Megastigmus spermotrophus contig7583 transcribed RNA sequence
+GCPB01084552.1_6     -          LOTUS_CONSENSUS      -            1.5e-12   52.4   0.0   5.6e-12   50.5   0.0   2.0   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig189098 transcribed RNA sequence
+GCPB01086723.1_3     -          LOTUS_CONSENSUS      -            5.2e-12   50.6   0.0   2.5e-11   48.5   0.0   2.2   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig191590 transcribed RNA sequence
+GCPB01019520.1_3     -          LOTUS_CONSENSUS      -              1e-11   49.7   0.0   3.5e-11   48.0   0.0   2.0   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig23644 transcribed RNA sequence
+GCPB01073179.1_6     -          LOTUS_CONSENSUS      -            2.1e-11   48.7   0.0   2.9e-11   48.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig170071 transcribed RNA sequence
+GCPB01000568.1_3     -          LOTUS_CONSENSUS      -            3.4e-11   48.1  16.0   1.6e-09   42.7   0.3   4.5   5   0   0   5   5   2   2 TSA: Megastigmus spermotrophus contig665 transcribed RNA sequence
+GCPB01004093.1_3     -          LOTUS_CONSENSUS      -            4.1e-07   35.0   1.2   0.00015   26.7   0.1   4.5   6   0   0   6   6   5   2 TSA: Megastigmus spermotrophus contig4684 transcribed RNA sequence
+GCPB01088312.1_4     -          LOTUS_CONSENSUS      -            4.6e-05   28.4   0.1   0.00014   26.9   0.0   1.8   2   0   0   2   2   1   1 TSA: Megastigmus spermotrophus contig193355 transcribed RNA sequence
+GCPB01004093.1_1     -          LOTUS_CONSENSUS      -            5.6e-05   28.1   0.1   0.00022   26.2   0.1   2.0   1   0   0   1   1   1   1 TSA: Megastigmus spermotrophus contig4684 transcribed RNA sequence
+GCPB01088312.1_6     -          LOTUS_CONSENSUS      -            0.00058   24.9  10.5     0.088   17.9   0.1   3.5   4   0   0   4   4   4   2 TSA: Megastigmus spermotrophus contig193355 transcribed RNA sequence
+GCPB01086801.1_2     -          LOTUS_CONSENSUS      -             0.0094   21.0   0.1        30    9.7   0.0   5.0   5   1   1   6   6   6   1 TSA: Megastigmus spermotrophus contig191682 transcribed RNA sequence
+GCPB01023896.1_2     -          LOTUS_CONSENSUS      -              0.019   20.0   0.1        36    9.5   0.0   4.8   5   1   1   6   6   4   0 TSA: Megastigmus spermotrophus contig29045 transcribed RNA sequence
+GCPB01016896.1_4     -          LOTUS_CONSENSUS      -                2.3   13.3   0.1       3.7   12.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig20132 transcribed RNA sequence
+GCPB01003827.1_2     -          LOTUS_CONSENSUS      -                2.8   13.1   3.7        24   10.0   0.5   2.8   2   0   0   2   2   2   0 TSA: Megastigmus spermotrophus contig4404 transcribed RNA sequence
+GCPB01048507.1_5     -          LOTUS_CONSENSUS      -                3.4   12.8   0.0       3.8   12.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Megastigmus spermotrophus contig81326 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:58:36 2019
+# [ok]

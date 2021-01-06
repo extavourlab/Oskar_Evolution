@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014212910.1       -          LOTUS_CONSENSUS      -              6e-28   97.0   2.3   8.2e-28   96.5   0.2   2.3   2   1   0   2   2   2   1 maternal effect protein oskar [Copidosoma floridanum]
+XP_014216050.1       -          LOTUS_CONSENSUS      -            1.8e-16   60.2   0.3   1.6e-15   57.2   0.1   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 1 [Copidosoma floridanum]
+XP_014216051.1       -          LOTUS_CONSENSUS      -            1.8e-16   60.2   0.3   1.6e-15   57.2   0.1   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 1 [Copidosoma floridanum]
+XP_014216052.1       -          LOTUS_CONSENSUS      -            1.8e-16   60.2   0.3   1.6e-15   57.2   0.1   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 1 [Copidosoma floridanum]
+XP_014216053.1       -          LOTUS_CONSENSUS      -            1.8e-16   60.2   0.3   1.6e-15   57.2   0.1   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 1 [Copidosoma floridanum]
+XP_014214309.1       -          LOTUS_CONSENSUS      -            9.9e-16   57.8   0.0   3.1e-10   40.2   0.0   3.1   2   0   0   2   2   2   2 tudor domain-containing protein 5 [Copidosoma floridanum]
+XP_014205726.1       -          LOTUS_CONSENSUS      -              1e-06   28.9   0.1       0.5   10.7   0.0   5.8   4   2   1   6   6   6   1 meiosis regulator and mRNA stability factor 1 [Copidosoma floridanum]
+XP_014212811.1       -          LOTUS_CONSENSUS      -            1.4e-06   28.5   0.0       9.8    6.5   0.0   6.3   1   1   6   7   7   7   2 uncharacterized protein LOC106642514 [Copidosoma floridanum]
+XP_014216022.1       -          LOTUS_CONSENSUS      -            3.8e-05   23.9   0.2   0.00032   20.9   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein LOC106644851 [Copidosoma floridanum]
+XP_014212802.1       -          LOTUS_CONSENSUS      -              0.014   15.6   2.5        56    4.1   0.0   5.2   4   3   1   5   5   5   0 putative uncharacterized protein DDB_G0282133 [Copidosoma floridanum]
+XP_014212804.1       -          LOTUS_CONSENSUS      -              0.014   15.6   2.5        56    4.1   0.0   5.2   4   3   1   5   5   5   0 putative uncharacterized protein DDB_G0282133 [Copidosoma floridanum]
+XP_014218834.1       -          LOTUS_CONSENSUS      -              0.091   13.1   3.2      0.27   11.6   0.1   3.1   2   1   1   3   3   3   0 uncharacterized protein LOC106647092 [Copidosoma floridanum]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648655.2_Cflo_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000648655.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648655.2_Cflo_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:04 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXL01017741.1_3     -          oskar_filtered.aligned.OSK_domain -              0.044   17.9   0.0     0.048   17.7   0.0   1.0   1   0   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C503786_2_0, transcribed RNA sequence
+GCXL01022937.1_5     -          oskar_filtered.aligned.OSK_domain -               0.13   16.3   0.5      0.14   16.2   0.5   1.2   1   0   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C525972_2_0, transcribed RNA sequence
+GCXL01029684.1_6     -          oskar_filtered.aligned.OSK_domain -                1.6   12.8   2.7       8.5   10.4   0.8   2.1   2   0   0   2   2   2   0 TSA: Jalysus sp. AD-2014 breed wildtype C557177_3_0, transcribed RNA sequence
+GCXL01057723.1_6     -          oskar_filtered.aligned.OSK_domain -                3.5   11.7   4.2       4.8   11.2   4.2   1.5   1   1   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype s27692_L_76261_0_10_3_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXL01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:55 2019
+# [ok]

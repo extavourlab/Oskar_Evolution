@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGET01011646.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-13   52.4   0.5   2.1e-12   49.8   0.0   2.3   2   0   0   2   2   2   1 TSA: Ctenopseustis herana Cher_TR15711_c0_g1_i1 transcribed RNA sequence
+GGET01011787.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.06   16.3   0.0       2.2   11.3   0.0   2.3   2   0   0   2   2   2   0 TSA: Ctenopseustis herana Cher_TR16296_c0_g1_i1 transcribed RNA sequence
+GGET01012337.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.084   15.8   0.2      0.18   14.8   0.2   1.6   1   0   0   1   1   1   0 TSA: Ctenopseustis herana Cher_TR17586_c1_g1_i6 transcribed RNA sequence
+GGET01012336.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.4   13.6   0.7      0.99   12.4   0.7   1.7   1   0   0   1   1   1   0 TSA: Ctenopseustis herana Cher_TR17586_c1_g1_i5 transcribed RNA sequence
+GGET01002956.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.57   13.1   1.4       3.5   10.6   0.3   2.2   2   0   0   2   2   2   0 TSA: Ctenopseustis herana Cher_SOT_k35_C497864 transcribed RNA sequence
+GGET01012721.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.59   13.1   1.6         1   12.3   1.6   1.4   1   0   0   1   1   1   0 TSA: Ctenopseustis herana Cher_TR19075_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGET01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGET01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGET01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:20 2019
+# [ok]

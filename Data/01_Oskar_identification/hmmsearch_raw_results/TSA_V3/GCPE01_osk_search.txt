@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPE01023235.1_3     -          oskar_filtered.aligned.OSK_domain -            7.4e-27   98.5   0.7   8.5e-27   98.3   0.7   1.1   1   0   0   1   1   1   1 TSA: Nippancistroger testaceus breed wildtype C160410_a_4_0_l_649, transcribed RNA sequence
+GCPE01055504.1_6     -          oskar_filtered.aligned.OSK_domain -               0.13   16.1   0.0      0.26   15.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Nippancistroger testaceus breed wildtype s5160_L_9206_1_a_14_7_l_1561, transcribed RNA sequence
+GCPE01004811.1_4     -          oskar_filtered.aligned.OSK_domain -               0.53   14.2   0.3      0.53   14.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Nippancistroger testaceus breed wildtype C113024_a_4_0_l_306, transcribed RNA sequence
+GCPE01029613.1_2     -          oskar_filtered.aligned.OSK_domain -               0.57   14.1   0.0       1.1   13.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Nippancistroger testaceus breed wildtype C177086_a_25_0_l_1012, transcribed RNA sequence
+GCPE01012700.1_3     -          oskar_filtered.aligned.OSK_domain -               0.67   13.8   0.6      0.79   13.6   0.6   1.2   1   0   0   1   1   1   0 TSA: Nippancistroger testaceus breed wildtype C133371_a_3_0_l_405, transcribed RNA sequence
+GCPE01058139.1_1     -          oskar_filtered.aligned.OSK_domain -               0.94   13.4   0.4       3.1   11.7   0.1   1.8   2   0   0   2   2   2   0 TSA: Nippancistroger testaceus breed wildtype s7550_L_30167_0_a_49_3_l_830, transcribed RNA sequence
+GCPE01002422.1_1     -          oskar_filtered.aligned.OSK_domain -                  1   13.3   0.0         1   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Nippancistroger testaceus breed wildtype C106520_a_4_0_l_278, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:01 2019
+# [ok]

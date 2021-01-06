@@ -1,0 +1,37 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFTU01000814.1_4     -          OSK_CONSENSUS        -            2.6e-26   94.7   0.1   3.6e-26   94.2   0.1   1.1   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR45277_c2_g1_i3 transcribed RNA sequence
+GFTU01013942.1_3     -          OSK_CONSENSUS        -            1.5e-22   82.5   0.0   3.9e-22   81.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR166346_c0_g1_i1 transcribed RNA sequence
+GFTU01012481.1_4     -          OSK_CONSENSUS        -            2.2e-13   52.7   0.2   4.1e-13   51.8   0.2   1.4   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR82442_c3_g1_i1 transcribed RNA sequence
+GFTU01006805.1_5     -          OSK_CONSENSUS        -            9.3e-13   50.6   0.2   2.3e-12   49.3   0.2   1.6   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR39544_c1_g1_i1 transcribed RNA sequence
+GFTU01000423.1_6     -          OSK_CONSENSUS        -            2.4e-07   33.1   0.0   6.6e-07   31.6   0.0   1.7   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR20611_c0_g1_i3 transcribed RNA sequence
+GFTU01012487.1_1     -          OSK_CONSENSUS        -            8.8e-07   31.2   1.2     2e-06   30.0   1.2   1.5   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR82450_c1_g1_i1 transcribed RNA sequence
+GFTU01000039.1_2     -          OSK_CONSENSUS        -            1.1e-06   30.9   0.2   2.8e-06   29.6   0.2   1.6   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR897_c0_g1_i2 transcribed RNA sequence
+GFTU01001659.1_2     -          OSK_CONSENSUS        -            5.5e-06   28.6   1.4   1.5e-05   27.2   1.1   1.9   2   0   0   2   2   1   1 TSA: Euscelidius variegatus TR82688_c0_g1_i4 transcribed RNA sequence
+GFTU01001647.1_1     -          OSK_CONSENSUS        -            8.7e-06   28.0   1.2   8.7e-06   28.0   1.2   2.1   2   0   0   2   2   1   1 TSA: Euscelidius variegatus TR82450_c1_g1_i4 transcribed RNA sequence
+GFTU01001347.1_3     -          OSK_CONSENSUS        -            6.3e-05   25.2   0.8   0.00014   24.1   0.8   1.5   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR71121_c0_g1_i5 transcribed RNA sequence
+GFTU01005404.1_1     -          OSK_CONSENSUS        -              8e-05   24.9   0.1   0.00012   24.3   0.1   1.2   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR25587_c0_g1_i2 transcribed RNA sequence
+GFTU01000470.1_2     -          OSK_CONSENSUS        -            0.00014   24.1   0.1    0.0008   21.6   0.0   2.2   2   0   0   2   2   2   1 TSA: Euscelidius variegatus TR23149_c1_g3_i2 transcribed RNA sequence
+GFTU01013187.1_1     -          OSK_CONSENSUS        -            0.00044   22.4   0.2   0.00053   22.2   0.2   1.1   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR114923_c0_g1_i1 transcribed RNA sequence
+GFTU01001558.1_2     -          OSK_CONSENSUS        -            0.00071   21.8   0.0    0.0054   18.9   0.1   2.4   2   0   0   2   2   2   1 TSA: Euscelidius variegatus TR80181_c0_g1_i1 transcribed RNA sequence
+GFTU01009870.1_3     -          OSK_CONSENSUS        -             0.0025   20.0   1.4      0.03   16.5   1.1   2.5   2   1   0   2   2   2   1 TSA: Euscelidius variegatus TR64718_c0_g2_i1 transcribed RNA sequence
+GFTU01010336.1_2     -          OSK_CONSENSUS        -             0.0038   19.4   0.2     0.026   16.7   0.2   2.5   1   0   0   1   1   1   1 TSA: Euscelidius variegatus TR68283_c2_g4_i2 transcribed RNA sequence
+GFTU01003360.1_3     -          OSK_CONSENSUS        -             0.0061   18.7   0.4    0.0061   18.7   0.4   2.1   3   0   0   3   3   3   1 TSA: Euscelidius variegatus TR9681_c0_g1_i1 transcribed RNA sequence
+GFTU01005909.1_2     -          OSK_CONSENSUS        -             0.0068   18.6   8.0     0.048   15.8   0.7   2.2   2   0   0   2   2   2   2 TSA: Euscelidius variegatus TR29481_c1_g1_i1 transcribed RNA sequence
+GFTU01006577.1_1     -          OSK_CONSENSUS        -              0.017   17.3   0.1      0.08   15.1   0.0   2.1   2   0   0   2   2   2   0 TSA: Euscelidius variegatus TR35719_c0_g4_i1 transcribed RNA sequence
+GFTU01009581.1_3     -          OSK_CONSENSUS        -              0.023   16.8   0.5     0.023   16.8   0.5   1.8   1   1   1   2   2   2   0 TSA: Euscelidius variegatus TR60122_c2_g2_i1 transcribed RNA sequence
+GFTU01010724.1_2     -          OSK_CONSENSUS        -              0.052   15.7   0.1      0.16   14.1   0.1   1.8   1   0   0   1   1   1   0 TSA: Euscelidius variegatus TR70649_c0_g1_i2 transcribed RNA sequence
+GFTU01013572.1_1     -          OSK_CONSENSUS        -               0.24   13.5   0.1      0.75   11.9   0.1   1.7   2   0   0   2   2   2   0 TSA: Euscelidius variegatus TR144435_c0_g1_i1 transcribed RNA sequence
+GFTU01015388.1_1     -          OSK_CONSENSUS        -               0.34   13.1   0.0       0.5   12.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Euscelidius variegatus TR196896_c0_g1_i3 transcribed RNA sequence
+GFTU01010672.1_2     -          OSK_CONSENSUS        -                1.1   11.4   0.9       1.9   10.6   0.2   1.7   2   0   0   2   2   2   0 TSA: Euscelidius variegatus TR70164_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFTU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFTU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFTU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:41 2019
+# [ok]

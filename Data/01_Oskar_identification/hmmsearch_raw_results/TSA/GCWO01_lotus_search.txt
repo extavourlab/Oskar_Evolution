@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWO01049086.1_3     -          LOTUS_CONSENSUS      -            3.8e-18   69.8   1.1   1.6e-16   64.6   0.1   3.1   2   0   0   2   2   2   1 TSA: Aphalara polygoni breed wildtype s21412_L_56584_0_22_5_LINEAR, transcribed RNA sequence
+GCWO01054869.1_1     -          LOTUS_CONSENSUS      -            2.9e-09   41.3   3.0     0.063   17.8   0.2   7.1   4   1   3   7   7   7   2 TSA: Aphalara polygoni breed wildtype s3482_L_4623_1_31_0_FORK, transcribed RNA sequence
+GCWO01027365.1_6     -          LOTUS_CONSENSUS      -             0.0026   22.3   0.0    0.0036   21.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Aphalara polygoni breed wildtype C435981_4_0, transcribed RNA sequence
+GCWO01036234.1_5     -          LOTUS_CONSENSUS      -               0.14   16.7   2.2        50    8.5   0.0   3.6   3   0   0   3   3   3   0 TSA: Aphalara polygoni breed wildtype C484475_7_0, transcribed RNA sequence
+GCWO01004219.1_2     -          LOTUS_CONSENSUS      -               0.39   15.3   0.0      0.48   15.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Aphalara polygoni breed wildtype C345229_18_0, transcribed RNA sequence
+GCWO01020901.1_4     -          LOTUS_CONSENSUS      -                0.6   14.7   0.0      0.74   14.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Aphalara polygoni breed wildtype C408503_3_0, transcribed RNA sequence
+GCWO01027249.1_4     -          LOTUS_CONSENSUS      -                1.4   13.5   0.1        21    9.8   0.0   2.1   2   0   0   2   2   2   0 TSA: Aphalara polygoni breed wildtype C435463_2_0, transcribed RNA sequence
+GCWO01021017.1_5     -          LOTUS_CONSENSUS      -                2.4   12.8   0.4       3.3   12.3   0.4   1.2   1   0   0   1   1   1   0 TSA: Aphalara polygoni breed wildtype C408925_5_0, transcribed RNA sequence
+GCWO01051996.1_6     -          LOTUS_CONSENSUS      -                3.2   12.4   0.0       5.8   11.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Aphalara polygoni breed wildtype s24037_L_71506_0_3_5_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWO01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:46 2019
+# [ok]

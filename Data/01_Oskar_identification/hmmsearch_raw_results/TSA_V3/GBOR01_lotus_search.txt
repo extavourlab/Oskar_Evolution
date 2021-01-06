@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOR01015855.1_6     -          oskar_filtered.aligned.LOTUS_domain -              1e-25   93.0   0.1   3.9e-25   91.1   0.0   2.0   2   0   0   2   2   2   1 TSA: Syrphophilus tricinctorius s10517_L_20905_0_a_41_2_l_3043 transcribed RNA sequence
+GBOR01023121.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-19   73.3   0.0     2e-16   63.1   0.0   2.6   2   0   0   2   2   2   2 TSA: Syrphophilus tricinctorius s6598_L_8381_1_a_23_3_l_2271 transcribed RNA sequence
+GBOR01023120.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-19   73.3   0.1   5.9e-16   61.7   0.0   3.6   3   0   0   3   3   3   2 TSA: Syrphophilus tricinctorius s6597_L_8381_0_a_50_5_l_5167 transcribed RNA sequence
+GBOR01016046.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.015   18.6   0.0   5.1e+02    4.1   0.0   5.4   2   1   4   6   6   6   0 TSA: Syrphophilus tricinctorius s1068_L_882_1_a_30_3_l_4148 transcribed RNA sequence
+GBOR01003833.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.42   14.0   0.7       0.7   13.3   0.7   1.4   1   0   0   1   1   1   0 TSA: Syrphophilus tricinctorius C118463_a_3_0_l_400 transcribed RNA sequence
+GBOR01001559.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.78   13.1   0.0       1.2   12.5   0.0   1.4   1   1   0   1   1   1   0 TSA: Syrphophilus tricinctorius C107278_a_7_0_l_314 transcribed RNA sequence
+GBOR01024359.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.7   12.0   0.1       1.7   12.0   0.1   1.9   2   0   0   2   2   2   0 TSA: Syrphophilus tricinctorius s7712_L_10651_0_a_19_0_l_849 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:19 2019
+# [ok]

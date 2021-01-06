@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECN01106435.1_1     -          OSK_CONSENSUS        -            5.5e-48  167.9   0.0   9.6e-48  167.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Diachasma alloeum Dall_Trinity_119944_c0_g1_i1 transcribed RNA sequence
+GECN01085754.1_4     -          OSK_CONSENSUS        -            3.2e-39  139.5   0.0   4.6e-39  138.9   0.0   1.2   1   0   0   1   1   1   1 TSA: Diachasma alloeum Dall_Trinity_107607_c0_g1_i1 transcribed RNA sequence
+GECN01006597.1_1     -          OSK_CONSENSUS        -                0.3   16.1   0.2      0.37   15.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Diachasma alloeum Dall_Trinity_44789_c0_g1_i1 transcribed RNA sequence
+GECN01086222.1_6     -          OSK_CONSENSUS        -               0.77   14.7   0.5      0.77   14.7   0.5   1.4   2   0   0   2   2   2   0 TSA: Diachasma alloeum Dall_Trinity_108183_c6_g2_i1 transcribed RNA sequence
+GECN01002221.1_6     -          OSK_CONSENSUS        -                2.9   12.9   0.2       3.8   12.5   0.2   1.3   1   0   0   1   1   1   0 TSA: Diachasma alloeum Dall_Trinity_22318_c0_g1_i1 transcribed RNA sequence
+GECN01038171.1_4     -          OSK_CONSENSUS        -                5.1   12.0   0.4       6.9   11.6   0.4   1.1   1   0   0   1   1   1   0 TSA: Diachasma alloeum Dall_Trinity_72700_c2_g4_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:38 2019
+# [ok]

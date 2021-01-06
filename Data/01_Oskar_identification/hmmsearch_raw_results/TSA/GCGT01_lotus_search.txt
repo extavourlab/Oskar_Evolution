@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCGT01016524.1_5     -          LOTUS_CONSENSUS      -              6e-23   83.7   0.3   2.8e-22   81.6   0.0   2.3   3   0   0   3   3   3   1 TSA: Melanostoma scalare s2135_L_2823_0_a_40_3_l_1654 transcribed RNA sequence
+GCGT01019315.1_6     -          LOTUS_CONSENSUS      -            5.2e-17   64.7   0.1   2.4e-16   62.6   0.1   2.2   1   0   0   1   1   1   1 TSA: Melanostoma scalare s4681_L_12253_0_a_7_1_l_2392 transcribed RNA sequence
+GCGT01014480.1_1     -          LOTUS_CONSENSUS      -              0.001   22.1   0.0     0.001   22.1   0.0   3.8   3   0   0   3   3   3   1 TSA: Melanostoma scalare C80346_a_9_0_l_1835 transcribed RNA sequence
+GCGT01008186.1_6     -          LOTUS_CONSENSUS      -              0.076   16.1   0.2      0.14   15.2   0.2   1.4   1   1   0   1   1   1   0 TSA: Melanostoma scalare C59096_a_6_0_l_488 transcribed RNA sequence
+GCGT01006492.1_5     -          LOTUS_CONSENSUS      -               0.46   13.6   0.5      0.46   13.6   0.5   2.0   2   0   0   2   2   2   0 TSA: Melanostoma scalare C53296_a_5_0_l_384 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCGT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:59:04 2019
+# [ok]

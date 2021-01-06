@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGKK01036127.1_4     -          OSK_CONSENSUS        -            3.3e-37  131.8   0.1   6.8e-37  130.8   0.1   1.5   1   0   0   1   1   1   1 TSA: Sitophilus oryzae comp16994_c0_seq2 transcribed RNA sequence
+GGKK01036126.1_4     -          OSK_CONSENSUS        -            3.3e-37  131.8   0.1     7e-37  130.7   0.1   1.5   1   0   0   1   1   1   1 TSA: Sitophilus oryzae comp16994_c0_seq1 transcribed RNA sequence
+GGKK01041315.1_5     -          OSK_CONSENSUS        -             0.0021   21.9   0.8    0.0026   21.6   0.8   1.2   1   0   0   1   1   1   1 TSA: Sitophilus oryzae comp20394_c0_seq1 transcribed RNA sequence
+GGKK01010676.1_2     -          OSK_CONSENSUS        -               0.52   14.2   3.2      0.59   14.0   3.2   1.1   1   0   0   1   1   1   0 TSA: Sitophilus oryzae comp53_c48_seq7 transcribed RNA sequence
+GGKK01007025.1_6     -          OSK_CONSENSUS        -                  1   13.2   0.0       1.2   13.0   0.0   1.0   1   0   0   1   1   1   0 TSA: Sitophilus oryzae comp643_c0_seq24 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGKK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:46 2019
+# [ok]

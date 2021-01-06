@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEO01045127.1_3     -          LOTUS_CONSENSUS      -            1.2e-13   56.0   0.9   8.1e-13   53.3   0.1   2.6   2   0   0   2   2   2   1 TSA: Proasellus aragonensis, contig comp49778_c0_seq1, transcribed RNA sequence
+HAEO01045128.1_3     -          LOTUS_CONSENSUS      -            1.3e-13   55.9   0.9   8.4e-13   53.3   0.1   2.6   2   0   0   2   2   2   1 TSA: Proasellus aragonensis, contig comp49778_c0_seq2, transcribed RNA sequence
+HAEO01056611.1_6     -          LOTUS_CONSENSUS      -            1.9e-09   42.5   2.1   1.9e-09   42.5   2.1   1.9   2   0   0   2   2   2   1 TSA: Proasellus aragonensis, contig comp368786_c0_seq1, transcribed RNA sequence
+HAEO01067557.1_6     -          LOTUS_CONSENSUS      -             0.0013   23.8   0.0    0.0014   23.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Proasellus aragonensis, contig comp711325_c0_seq1, transcribed RNA sequence
+HAEO01046181.1_1     -          LOTUS_CONSENSUS      -              0.037   19.2   0.2   4.5e+02    6.1   0.0   5.3   4   1   2   6   6   4   0 TSA: Proasellus aragonensis, contig comp50054_c0_seq2, transcribed RNA sequence
+HAEO01046184.1_1     -          LOTUS_CONSENSUS      -              0.038   19.1   0.0   4.6e+02    6.0   0.0   5.3   3   1   2   5   5   4   0 TSA: Proasellus aragonensis, contig comp50054_c0_seq5, transcribed RNA sequence
+HAEO01046186.1_1     -          LOTUS_CONSENSUS      -              0.045   18.9   0.0   4.9e+02    5.9   0.0   5.2   3   1   1   5   5   4   0 TSA: Proasellus aragonensis, contig comp50054_c0_seq7, transcribed RNA sequence
+HAEO01046183.1_2     -          LOTUS_CONSENSUS      -               0.11   17.6   0.0   5.9e+02    5.7   0.0   5.1   2   1   1   4   4   4   0 TSA: Proasellus aragonensis, contig comp50054_c0_seq4, transcribed RNA sequence
+HAEO01046190.1_2     -          LOTUS_CONSENSUS      -               0.12   17.5   0.0     6e+02    5.7   0.0   5.0   2   1   1   4   4   4   0 TSA: Proasellus aragonensis, contig comp50054_c0_seq11, transcribed RNA sequence
+HAEO01046189.1_2     -          LOTUS_CONSENSUS      -               0.14   17.3   0.0   6.2e+02    5.6   0.0   5.0   2   1   1   4   4   4   0 TSA: Proasellus aragonensis, contig comp50054_c0_seq10, transcribed RNA sequence
+HAEO01011292.1_5     -          LOTUS_CONSENSUS      -                3.9   12.7   0.3         6   12.1   0.3   1.2   1   0   0   1   1   1   0 TSA: Proasellus aragonensis, contig comp26001_c0_seq1, transcribed RNA sequence
+HAEO01004236.1_6     -          LOTUS_CONSENSUS      -                6.6   12.0   5.7        11   11.2   2.5   2.7   2   1   1   3   3   3   0 TSA: Proasellus aragonensis, contig comp10100_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEO.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEO.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEO.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:42 2019
+# [ok]

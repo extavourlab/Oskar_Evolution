@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLR01025497.1_3     -          LOTUS_CONSENSUS      -            1.1e-20   76.7   0.8   7.2e-15   58.1   0.3   3.0   2   0   0   2   2   2   2 TSA: Thyreus orbatus s7471_L_20779_0_a_8_3_l_3601 transcribed RNA sequence
+GBLR01018963.1_6     -          LOTUS_CONSENSUS      -            1.3e-20   76.6   0.0   5.3e-20   74.6   0.0   2.1   1   0   0   1   1   1   1 TSA: Thyreus orbatus s1568_L_1937_0_a_18_6_l_2904 transcribed RNA sequence
+GBLR01018964.1_4     -          LOTUS_CONSENSUS      -              3e-20   75.4   0.0   1.1e-19   73.6   0.0   2.0   1   0   0   1   1   1   1 TSA: Thyreus orbatus s1569_L_1937_1_a_21_7_l_5131 transcribed RNA sequence
+GBLR01025498.1_3     -          LOTUS_CONSENSUS      -            3.5e-20   75.2   2.6   8.4e-15   57.9   0.3   3.4   3   0   0   3   3   3   2 TSA: Thyreus orbatus s7472_L_20779_1_a_5_9_l_4063 transcribed RNA sequence
+GBLR01024219.1_5     -          LOTUS_CONSENSUS      -            0.00061   23.1   0.0       4.5   10.7   0.0   4.9   3   1   2   5   5   5   1 TSA: Thyreus orbatus s6315_L_13942_0_a_16_4_l_5553 transcribed RNA sequence
+GBLR01004087.1_3     -          LOTUS_CONSENSUS      -               0.12   15.8   0.0      0.15   15.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Thyreus orbatus C41739_a_3_0_l_284 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:35 2019
+# [ok]

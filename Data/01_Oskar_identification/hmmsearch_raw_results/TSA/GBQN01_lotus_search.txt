@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQN01025273.1_3     -          LOTUS_CONSENSUS      -            4.3e-14   55.8   0.1   2.1e-13   53.6   0.0   2.2   2   0   0   2   2   2   1 TSA: Megachile willughbiella s5662_L_9486_0_a_22_3_l_3677 transcribed RNA sequence
+GBQN01009967.1_4     -          LOTUS_CONSENSUS      -            1.1e-12   51.3   0.0   1.2e-12   51.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Megachile willughbiella C63743_a_7_0_l_325 transcribed RNA sequence
+GBQN01014065.1_1     -          LOTUS_CONSENSUS      -              0.043   17.3   0.2     0.082   16.4   0.2   1.4   1   0   0   1   1   1   0 TSA: Megachile willughbiella C77266_a_8_0_l_493 transcribed RNA sequence
+GBQN01018706.1_2     -          LOTUS_CONSENSUS      -               0.64   13.6   0.6       3.9   11.0   0.1   2.2   2   0   0   2   2   2   0 TSA: Megachile willughbiella C94153_a_38_0_l_960 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:21 2019
+# [ok]

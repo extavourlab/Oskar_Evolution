@@ -1,0 +1,26 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFAX01160536.1_6     -          oskar_filtered.aligned.OSK_domain -            2.7e-29  108.1   1.1   3.2e-29  107.8   1.1   1.2   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN46218_c0_g1_i1 transcribed RNA sequence
+GFAX01049584.1_4     -          oskar_filtered.aligned.OSK_domain -            2.9e-16   65.6   0.9   6.8e-16   64.4   0.9   1.7   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN31958_c0_g1_i1 transcribed RNA sequence
+GFAX01049585.1_4     -          oskar_filtered.aligned.OSK_domain -            3.5e-16   65.3   0.9   8.4e-16   64.1   0.9   1.7   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN31958_c0_g1_i2 transcribed RNA sequence
+GFAX01080797.1_4     -          oskar_filtered.aligned.OSK_domain -            2.1e-12   53.0   0.1   2.3e-12   52.9   0.1   1.0   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN82541_c0_g1_i1 transcribed RNA sequence
+GFAX01058227.1_6     -          oskar_filtered.aligned.OSK_domain -            2.6e-05   29.9   0.1   2.8e-05   29.8   0.1   1.0   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN11414_c0_g1_i1 transcribed RNA sequence
+GFAX01134031.1_3     -          oskar_filtered.aligned.OSK_domain -              0.004   22.7   0.0     0.004   22.7   0.0   1.0   1   0   0   1   1   1   1 TSA: Carausius morosus TRINITY_DN75505_c0_g1_i1 transcribed RNA sequence
+GFAX01072982.1_4     -          oskar_filtered.aligned.OSK_domain -              0.013   21.1   0.0      0.02   20.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN61397_c0_g1_i1 transcribed RNA sequence
+GFAX01173862.1_4     -          oskar_filtered.aligned.OSK_domain -               0.59   15.7   0.0      0.66   15.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN37370_c0_g1_i1 transcribed RNA sequence
+GFAX01129800.1_6     -          oskar_filtered.aligned.OSK_domain -                1.7   14.2   0.0       1.7   14.2   0.0   1.1   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN70635_c0_g1_i1 transcribed RNA sequence
+GFAX01074559.1_4     -          oskar_filtered.aligned.OSK_domain -                  2   13.9   2.4         3   13.4   2.4   1.4   1   1   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN16451_c0_g1_i1 transcribed RNA sequence
+GFAX01027795.1_6     -          oskar_filtered.aligned.OSK_domain -                  4   13.0   0.4       6.6   12.3   0.4   1.4   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN52842_c7_g2_i1 transcribed RNA sequence
+GFAX01015416.1_4     -          oskar_filtered.aligned.OSK_domain -                4.5   12.8   0.5       5.8   12.4   0.5   1.2   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN45114_c0_g1_i1 transcribed RNA sequence
+GFAX01171041.1_6     -          oskar_filtered.aligned.OSK_domain -                9.3   11.8   0.1        13   11.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Carausius morosus TRINITY_DN49478_c2_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFAX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFAX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:19 2019
+# [ok]

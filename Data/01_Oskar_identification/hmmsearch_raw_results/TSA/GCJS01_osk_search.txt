@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCJS01005775.1_1     -          OSK_CONSENSUS        -               0.17   15.0   0.2      0.21   14.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Phragmatobia fuliginosa C118302_a_6_0_l_305 transcribed RNA sequence
+GCJS01015752.1_4     -          OSK_CONSENSUS        -               0.47   13.6   1.4       2.4   11.3   0.5   2.3   2   1   0   2   2   2   0 TSA: Phragmatobia fuliginosa C154178_a_72_0_l_796 transcribed RNA sequence
+GCJS01012472.1_1     -          OSK_CONSENSUS        -                1.4   12.1   0.0       2.4   11.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Phragmatobia fuliginosa C142110_a_4_0_l_523 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCJS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCJS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCJS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:32 2019
+# [ok]

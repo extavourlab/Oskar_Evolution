@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAES01141831.1_1     -          OSK_CONSENSUS        -               0.17   17.0   0.7      0.53   15.4   0.7   1.7   1   1   1   2   2   2   0 TSA: Proasellus cavaticus, contig comp1356417_c0_seq1, transcribed RNA sequence
+HAES01084018.1_4     -          OSK_CONSENSUS        -               0.78   14.9   0.4       1.8   13.7   0.4   1.6   1   0   0   1   1   1   0 TSA: Proasellus cavaticus, contig comp63262_c1_seq2, transcribed RNA sequence
+HAES01084017.1_6     -          OSK_CONSENSUS        -               0.87   14.7   0.4       2.7   13.1   0.4   1.8   1   0   0   1   1   1   0 TSA: Proasellus cavaticus, contig comp63262_c1_seq1, transcribed RNA sequence
+HAES01084019.1_4     -          OSK_CONSENSUS        -               0.89   14.7   0.4       2.4   13.3   0.4   1.7   1   0   0   1   1   1   0 TSA: Proasellus cavaticus, contig comp63262_c1_seq3, transcribed RNA sequence
+HAES01130453.1_5     -          OSK_CONSENSUS        -                2.2   13.4   0.1       2.5   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus cavaticus, contig comp997704_c0_seq1, transcribed RNA sequence
+HAES01062500.1_1     -          OSK_CONSENSUS        -                5.7   12.1   0.0   4.5e+02    5.9   0.0   2.3   2   0   0   2   2   2   0 TSA: Proasellus cavaticus, contig comp61627_c0_seq17, transcribed RNA sequence
+HAES01062486.1_3     -          OSK_CONSENSUS        -                  6   12.0   0.0   4.6e+02    5.9   0.0   2.3   2   0   0   2   2   2   0 TSA: Proasellus cavaticus, contig comp61627_c0_seq3, transcribed RNA sequence
+HAES01062490.1_1     -          OSK_CONSENSUS        -                6.2   12.0   0.0   4.4e+02    5.9   0.0   2.3   2   0   0   2   2   2   0 TSA: Proasellus cavaticus, contig comp61627_c0_seq7, transcribed RNA sequence
+HAES01062499.1_1     -          OSK_CONSENSUS        -                6.4   11.9   0.0   4.7e+02    5.9   0.0   2.4   2   0   0   2   2   2   0 TSA: Proasellus cavaticus, contig comp61627_c0_seq16, transcribed RNA sequence
+HAES01062496.1_3     -          OSK_CONSENSUS        -                6.4   11.9   0.0   4.5e+02    5.9   0.0   2.3   2   0   0   2   2   2   0 TSA: Proasellus cavaticus, contig comp61627_c0_seq13, transcribed RNA sequence
+HAES01062489.1_3     -          OSK_CONSENSUS        -                6.6   11.9   0.0   4.7e+02    5.9   0.0   2.4   2   0   0   2   2   2   0 TSA: Proasellus cavaticus, contig comp61627_c0_seq6, transcribed RNA sequence
+HAES01087511.1_5     -          OSK_CONSENSUS        -                  8   11.6   0.1       9.8   11.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus cavaticus, contig comp124009_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAES.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAES.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAES.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:51 2019
+# [ok]

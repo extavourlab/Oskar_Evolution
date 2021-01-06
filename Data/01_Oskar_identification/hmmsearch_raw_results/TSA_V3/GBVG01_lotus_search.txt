@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVG01017425.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.6e-26   93.8   0.1   5.6e-26   93.8   0.1   2.1   2   0   0   2   2   2   1 TSA: Gasteruption tournieri s1701_L_1526_0_a_78_5_l_1615 transcribed RNA sequence
+GBVG01017937.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-18   70.2   0.3   6.8e-17   64.6   0.0   2.7   3   0   0   3   3   3   1 TSA: Gasteruption tournieri s2164_L_2044_0_a_22_3_l_3349 transcribed RNA sequence
+GBVG01021318.1_3     -          oskar_filtered.aligned.LOTUS_domain -              8e-17   64.4   0.6   5.3e-16   61.8   0.0   2.6   3   0   0   3   3   3   1 TSA: Gasteruption tournieri s5237_L_6556_0_a_28_0_l_3872 transcribed RNA sequence
+GBVG01021319.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-16   64.0   0.6   5.9e-16   61.6   0.0   2.5   3   0   0   3   3   3   1 TSA: Gasteruption tournieri s5238_L_6556_1_a_26_0_l_4212 transcribed RNA sequence
+GBVG01019510.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.014   18.7   0.1      0.09   16.1   0.1   2.4   1   0   0   1   1   1   0 TSA: Gasteruption tournieri s3598_L_3912_0_a_6_0_l_4223 transcribed RNA sequence
+GBVG01019511.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.016   18.5   0.1      0.09   16.1   0.1   2.3   1   0   0   1   1   1   0 TSA: Gasteruption tournieri s3599_L_3912_1_a_6_1_l_4211 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:55 2019
+# [ok]

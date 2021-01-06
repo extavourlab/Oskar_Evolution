@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEZZ01040197.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-24   88.3   0.5   1.1e-23   87.3   0.0   1.8   2   0   0   2   2   1   1 TSA: Diadromus collaris Unigene26938_All transcribed RNA sequence
+GEZZ01000254.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.4e-18   70.2   0.0   2.1e-17   67.2   0.0   2.5   3   0   0   3   3   3   1 TSA: Diadromus collaris CL51.Contig3_All transcribed RNA sequence
+GEZZ01041651.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-15   59.5   0.0   4.5e-11   46.9   0.0   2.5   2   0   0   2   2   2   2 TSA: Diadromus collaris Unigene28392_All transcribed RNA sequence
+GEZZ01004494.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.8e-15   59.3   0.0   4.7e-11   46.8   0.0   2.5   2   0   0   2   2   2   2 TSA: Diadromus collaris CL1270.Contig4_All transcribed RNA sequence
+GEZZ01004496.1_5     -          oskar_filtered.aligned.LOTUS_domain -            7.9e-15   58.9   0.0   5.4e-11   46.6   0.0   2.4   2   0   0   2   2   2   2 TSA: Diadromus collaris CL1270.Contig6_All transcribed RNA sequence
+GEZZ01004492.1_5     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-15   58.8   0.0   5.6e-11   46.6   0.0   2.4   2   0   0   2   2   2   2 TSA: Diadromus collaris CL1270.Contig2_All transcribed RNA sequence
+GEZZ01004491.1_4     -          oskar_filtered.aligned.LOTUS_domain -              2e-11   48.0   0.0     5e-11   46.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Diadromus collaris CL1270.Contig1_All transcribed RNA sequence
+GEZZ01010093.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00018   25.6   0.0        15    9.9   0.0   5.7   3   1   2   5   5   5   1 TSA: Diadromus collaris CL3520.Contig1_All transcribed RNA sequence
+GEZZ01004495.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.01   20.1   0.0     0.025   18.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Diadromus collaris CL1270.Contig5_All transcribed RNA sequence
+GEZZ01004493.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.012   19.8   0.0      0.03   18.5   0.0   1.6   1   0   0   1   1   1   0 TSA: Diadromus collaris CL1270.Contig3_All transcribed RNA sequence
+GEZZ01024899.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.38   15.0   0.1        16    9.8   0.0   3.1   2   0   0   2   2   2   0 TSA: Diadromus collaris Unigene11561_All transcribed RNA sequence
+GEZZ01044132.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.8   12.8   0.3       2.2   12.5   0.3   1.1   1   0   0   1   1   1   0 TSA: Diadromus collaris Unigene30878_All transcribed RNA sequence
+GEZZ01045043.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.1   12.1   0.0       3.2   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Diadromus collaris Unigene31804_All transcribed RNA sequence
+GEZZ01019820.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.2   12.0   3.2       5.7   11.2   0.1   3.0   4   0   0   4   4   3   0 TSA: Diadromus collaris Unigene6414_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEZZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEZZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:04 2019
+# [ok]

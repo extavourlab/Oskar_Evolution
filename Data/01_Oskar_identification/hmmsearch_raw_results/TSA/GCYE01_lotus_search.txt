@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYE01015905.1_1     -          LOTUS_CONSENSUS      -            2.6e-12   50.2   0.1     4e-12   49.6   0.0   1.3   2   0   0   2   2   2   1 TSA: Scutelleridae sp. AD-2014 breed wildtype C79192_5_0, transcribed RNA sequence
+GCYE01006342.1_5     -          LOTUS_CONSENSUS      -              2e-10   44.2   0.0      0.13   15.9   0.0   5.8   4   1   2   6   6   6   3 TSA: Scutelleridae sp. AD-2014 breed wildtype C128856_26_0, transcribed RNA sequence
+GCYE01007756.1_1     -          LOTUS_CONSENSUS      -            1.4e-07   35.1   0.0   1.5e-07   34.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Scutelleridae sp. AD-2014 breed wildtype C52434_4_0, transcribed RNA sequence
+GCYE01016394.1_1     -          LOTUS_CONSENSUS      -             0.0045   20.6   0.1    0.0056   20.3   0.1   1.1   1   0   0   1   1   1   1 TSA: Scutelleridae sp. AD-2014 breed wildtype C80990_3_0, transcribed RNA sequence
+GCYE01024481.1_3     -          LOTUS_CONSENSUS      -              0.054   17.1   0.0     0.091   16.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Scutelleridae sp. AD-2014 breed wildtype s3367_L_8696_0_8_1_LINEAR, transcribed RNA sequence
+GCYE01019882.1_1     -          LOTUS_CONSENSUS      -               0.33   14.6   0.0      0.66   13.6   0.0   1.4   1   0   0   1   1   1   0 TSA: Scutelleridae sp. AD-2014 breed wildtype C94393_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:31 2019
+# [ok]

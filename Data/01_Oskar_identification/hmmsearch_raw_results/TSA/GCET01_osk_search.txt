@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCET01079974.1_4     -          OSK_CONSENSUS        -            2.3e-25   94.1   0.5   3.1e-25   93.7   0.5   1.1   1   0   0   1   1   1   1 TSA: Coptotermes gestroi gALL_v3_c82023 transcribed RNA sequence
+GCET01011039.1_6     -          OSK_CONSENSUS        -               0.13   16.9   0.5      0.13   16.9   0.5   1.5   2   0   0   2   2   2   0 TSA: Coptotermes gestroi gALL_v3_c11044 transcribed RNA sequence
+GCET01015041.1_6     -          OSK_CONSENSUS        -               0.18   16.5   0.1      0.26   16.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c15052 transcribed RNA sequence
+GCET01021220.1_4     -          OSK_CONSENSUS        -               0.72   14.5   0.1       1.3   13.7   0.1   1.5   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c21235 transcribed RNA sequence
+GCET01009713.1_2     -          OSK_CONSENSUS        -                  1   14.0   0.1       2.3   12.9   0.1   1.6   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c9717 transcribed RNA sequence
+GCET01052931.1_6     -          OSK_CONSENSUS        -                1.6   13.4   0.9       1.9   13.1   0.9   1.1   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c53163 transcribed RNA sequence
+GCET01023334.1_3     -          OSK_CONSENSUS        -                1.7   13.3   0.1       3.8   12.2   0.1   1.5   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c23351 transcribed RNA sequence
+GCET01027037.1_1     -          OSK_CONSENSUS        -                2.4   12.8   0.3         3   12.5   0.3   1.2   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c27060 transcribed RNA sequence
+GCET01049687.1_3     -          OSK_CONSENSUS        -                3.8   12.2   0.6       5.8   11.6   0.3   1.3   1   1   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c49886 transcribed RNA sequence
+GCET01059688.1_3     -          OSK_CONSENSUS        -                4.3   12.0   0.0       4.9   11.8   0.0   1.0   1   0   0   1   1   1   0 TSA: Coptotermes gestroi gALL_v3_c59955 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCET01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCET01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCET01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:10 2019
+# [ok]

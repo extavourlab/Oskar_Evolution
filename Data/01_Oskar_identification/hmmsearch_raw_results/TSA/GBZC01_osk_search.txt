@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBZC01032353.1_1     -          OSK_CONSENSUS        -               0.16   15.1   0.4      0.19   14.9   0.4   1.0   1   0   0   1   1   1   0 TSA: Antheraea assama Unigene34385_Aass transcribed RNA sequence
+GBZC01025587.1_1     -          OSK_CONSENSUS        -               0.26   14.4   0.1       0.4   13.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Antheraea assama Unigene26547_Aass transcribed RNA sequence
+GBZC01017007.1_6     -          OSK_CONSENSUS        -               0.46   13.6   0.0      0.59   13.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Antheraea assama Unigene17614_Aass transcribed RNA sequence
+GBZC01019498.1_6     -          OSK_CONSENSUS        -                1.6   11.9   2.8        11    9.2   0.6   2.0   1   1   1   2   2   2   0 TSA: Antheraea assama Unigene20183_Aass transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBZC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBZC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:00 2019
+# [ok]

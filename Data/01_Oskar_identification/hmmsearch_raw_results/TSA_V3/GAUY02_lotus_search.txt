@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUY02008238.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-13   52.6   0.0   3.8e-13   52.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Gyrinus marinus C70710_a_3_0_l_254 transcribed RNA sequence
+GAUY02019243.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-05   27.7   0.0   0.00022   24.3   0.0   2.3   2   0   0   2   2   2   1 TSA: Gyrinus marinus s4292_L_7121_0_a_4_2_l_1821 transcribed RNA sequence
+GAUY02018318.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.63   13.2   0.0   2.4e+02    4.9   0.0   3.0   1   1   2   3   3   3   0 TSA: Gyrinus marinus s3457_L_5024_0_a_3_0_l_648 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUY02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUY02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUY02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:45 2019
+# [ok]

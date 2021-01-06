@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTU01002922.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-13   53.0   0.0   8.8e-13   51.5   0.0   1.9   1   0   0   1   1   1   1 TSA: Orasema simulatrix C111467_a_42_0_l_3914 transcribed RNA sequence
+GBTU01016071.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-13   52.4   0.0   6.9e-13   51.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Orasema simulatrix C90125_a_4_0_l_802 transcribed RNA sequence
+GBTU01003020.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-07   34.7   0.0     0.082   16.2   0.0   5.0   2   1   2   4   4   4   2 TSA: Orasema simulatrix C111797_a_20_0_l_4395 transcribed RNA sequence
+GBTU01025995.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0011   22.3   0.1    0.0095   19.3   0.0   2.7   2   0   0   2   2   2   1 TSA: Orasema simulatrix s7838_L_24096_0_a_8_3_l_2823 transcribed RNA sequence
+GBTU01025996.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0017   21.6   0.0    0.0057   20.0   0.0   1.9   1   0   0   1   1   1   1 TSA: Orasema simulatrix s7839_L_24096_1_a_11_6_l_1946 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTU01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:11 2019
+# [ok]

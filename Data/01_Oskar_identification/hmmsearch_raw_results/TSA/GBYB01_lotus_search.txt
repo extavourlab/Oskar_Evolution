@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBYB01001745.1_2     -          LOTUS_CONSENSUS      -            1.5e-18   69.2   0.0   1.3e-17   66.2   0.0   2.5   2   0   0   2   2   2   1 TSA: Fopius arisanus c21827_g2_i1 transcribed RNA sequence
+GBYB01007218.1_3     -          LOTUS_CONSENSUS      -            1.7e-18   69.1   0.0   1.4e-17   66.1   0.0   2.5   2   0   0   2   2   2   1 TSA: Fopius arisanus c21827_g2_i2 transcribed RNA sequence
+GBYB01009866.1_3     -          LOTUS_CONSENSUS      -            5.3e-18   67.4   0.0   6.5e-17   63.9   0.0   2.6   2   0   0   2   2   2   1 TSA: Fopius arisanus c23149_g2_i8 transcribed RNA sequence
+GBYB01012390.1_3     -          LOTUS_CONSENSUS      -            5.2e-14   54.6   0.0   3.9e-09   39.0   0.0   2.7   2   0   0   2   2   2   2 TSA: Fopius arisanus c19997_g1_i3 transcribed RNA sequence
+GBYB01012388.1_3     -          LOTUS_CONSENSUS      -            1.2e-13   53.5   0.0   7.1e-09   38.2   0.0   2.9   3   0   0   3   3   3   2 TSA: Fopius arisanus c19997_g1_i1 transcribed RNA sequence
+GBYB01012389.1_3     -          LOTUS_CONSENSUS      -            1.4e-13   53.3   0.0   7.7e-09   38.1   0.0   3.0   3   0   0   3   3   3   2 TSA: Fopius arisanus c19997_g1_i2 transcribed RNA sequence
+GBYB01003084.1_1     -          LOTUS_CONSENSUS      -            1.7e-13   53.0   0.0   5.1e-13   51.4   0.0   1.9   1   0   0   1   1   1   1 TSA: Fopius arisanus c15979_g1_i1 transcribed RNA sequence
+GBYB01011210.1_3     -          LOTUS_CONSENSUS      -            9.3e-07   31.4   0.0        19    7.9   0.0   6.2   3   1   3   6   6   6   2 TSA: Fopius arisanus c19631_g1_i5 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBYB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBYB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBYB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:49 2019
+# [ok]

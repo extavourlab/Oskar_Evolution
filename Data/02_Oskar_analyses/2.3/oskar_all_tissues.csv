@@ -1,0 +1,842 @@
+TSA,tsa_id,order,family,species,bioproject,biosample,clean_tissue,clean_sex,oskar
+GEOJ00000000.1,GEOJ,Lepidoptera,Lophocoronidae,lophocorona_astiptica,PRJNA298054,SAMN04329921,whole organism,not found,not found
+GBGB00000000.1,GBGB,Hemiptera,Anthocoridae,orius_laevigatus,PRJNA191591,SAMN02767604,salivary glands,not found,not found
+GBAS00000000.1,GBAS,Lepidoptera,Castniidae,telchin_licus,PRJNA241452,SAMN02687895,head,not found,not found
+GBLE00000000.1,GBLE,Hymenoptera,Chalcididae,brachymeria_minuta,PRJNA252236,SAMN02870225,whole organism,found,found
+GBMX00000000.1,GBMX,Hymenoptera,Apidae,ammobates_syriacus,PRJNA252137,SAMN02870204,whole organism,not found,not found
+GFMC00000000.1,GFMC,Hemiptera,Reduviidae,triatoma_infestans,PRJNA304741,SAMN04317638,undetermined tissue,not found,not found
+GEOF00000000.1,GEOF,Lepidoptera,Tineidae,eudarcia_simulatricella,PRJNA298054,SAMN04155512,whole organism,not found,not found
+GBNO00000000.1,GBNO,Hymenoptera,Ampulicidae,dolichurus_corniculus,PRJNA252204,SAMN02870285,whole organism,found,found
+GBOQ00000000.1,GBOQ,Hymenoptera,Mutillidae,dasymutilla_gloriosa,PRJNA252348,SAMN02870273,whole organism,found,found
+GENM00000000.1,GENM,Lepidoptera,Psychidae,thyridopteryx_ephemeraeformis,PRJNA298054,SAMN04155515,abdomen,not found,not found
+GBQB00000000.1,GBQB,Hymenoptera,Tenthredinidae,nematus_ribesii,PRJNA252314,SAMN02870345,whole organism,found,found
+GCET00000000.1,GCET,Blattodea,Rhinotermitidae,coptotermes_gestroi,PRJNA260184,SAMN03301663,whole organism,not found,not found
+GACX00000000.1,GACX,Raphidioptera,Raphidiidae,raphidia_ariadne,PRJNA181033,SAMN01774152,whole organism,not found,not found
+GBNG00000000.1,GBNG,Hymenoptera,Vespidae,vespula_germanica,PRJNA252254,SAMN02870439,whole organism,found,found
+GBQN00000000.1,GBQN,Hymenoptera,Megachilidae,megachile_willughbiella,PRJNA252282,SAMN02870335,whole organism,not found,not found
+GEVJ00000000.1,GEVJ,Diptera,Calliphoridae,cochliomyia_hominivorax,PRJNA324578,SAMN02776973,whole organism,not found,not found
+GBQA00000000.1,GBQA,Hymenoptera,Torymidae,torymus_bedeguaris,PRJNA252313,SAMN02870430,whole organism,found,found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628822,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628823,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628824,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628825,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628826,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628827,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628828,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628829,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628872,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628873,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628874,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628875,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628883,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628884,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628885,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628886,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628930,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628931,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628932,antennae,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628830,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628831,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628832,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628833,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628834,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628835,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628836,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628837,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628879,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628880,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628881,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628882,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628916,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628917,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628918,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628919,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628927,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628928,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628929,brain,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628838,maxillary palps,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628839,maxillary palps,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628840,maxillary palps,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628841,maxillary palps,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628842,proboscises,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628843,proboscises,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628844,proboscises,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628845,proboscises,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628846,proboscises,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628847,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628848,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628849,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628876,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628877,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628878,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628924,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628925,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628926,rostrums,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628850,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628851,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628852,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628909,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628910,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628911,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628912,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628913,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628914,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628915,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628944,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628945,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628946,abdominal tips,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628853,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628854,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628855,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628856,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628857,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628858,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628868,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628869,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628870,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628871,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628887,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628888,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628889,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628890,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628891,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628892,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628893,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628894,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628936,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628937,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628938,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628939,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628940,hindlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628859,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628860,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628861,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628895,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628896,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628897,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628898,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628899,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628900,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628901,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628941,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628942,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628943,midlegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628862,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628863,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628864,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628902,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628903,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628904,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628905,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628906,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628907,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628908,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628933,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628934,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628935,forelegs,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628865,ovaries,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628866,ovaries,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628867,ovaries,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628920,ovaries,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628921,ovaries,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628922,ovaries,not found,not found
+GFNA00000000.1,GFNA,Diptera,Culicidae,aedes_aegypti,PRJNA236239,SAMN02628923,ovaries,not found,not found
+GEOL00000000.1,GEOL,Lepidoptera,Palaephatidae,metaphatus_ochraceus,PRJNA298054,SAMN04155516,whole organism,not found,not found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869675,fat body,found,found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869676,ovaries,found,found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869673,midgut,found,found
+GDFS00000000.1,GDFS,Hymenoptera,Vespidae,polistes_fuscatus,PRJNA287145,SAMN02869674,malpighian tubules,found,found
+GBPQ00000000.1,GBPQ,Hymenoptera,Sapygidae,sapygina_decemguttata,PRJNA252248,SAMN02870395,whole organism,found,found
+GBNT00000000.1,GBNT,Hymenoptera,Ampulicidae,ampulex_compressa,PRJNA252218,SAMN02870206,whole organism,not found,not found
+GCEQ00000000.1,GCEQ,Hymenoptera,Braconidae,psyttalia_lounsburyi,PRJNA262711,SAMN03085503,venom apparatus,not found,not found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673369,ovaries,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02672503,testes,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673372,testes,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673373,testes,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673374,testes,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673377,testes,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673378,whole organism,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673379,whole organism,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673370,head,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673371,head,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673380,whole organism,found,found
+GALP00000000.1,GALP,Diptera,Drosophilidae,drosophila_miranda,PRJNA208862,SAMN02673381,whole organism,found,found
+GBOE00000000.1,GBOE,Hymenoptera,Sphecidae,chlorion_hirtum,PRJNA252145,SAMN02870238,whole organism,not found,not found
+GBTS00000000.1,GBTS,Hymenoptera,Orussidae,orussus_unicolor,PRJNA252209,SAMN02870359,whole organism,not found,not found
+GBWD00000000.1,GBWD,Hymenoptera,Braconidae,macrocentrus_marginator,PRJNA252187,SAMN02870332,whole organism,found,found
+GBVJ00000000.1,GBVJ,Hymenoptera,Apidae,tetraloniella_nigriceps,PRJNA252116,SAMN02870425,whole organism,not found,not found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03120571,fat body,found,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144199,fat body,found,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144200,fat body,found,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144201,blood,found,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144202,blood,found,found
+GDQV00000000.1,GDQV,Diptera,Keroplatidae,arachnocampa_luminosa,PRJNA290397,SAMN03144203,blood,found,found
+GBUJ00000000.1,GBUJ,Hymenoptera,Colletidae,colletes_cunicularius,PRJNA252324,SAMN02870267,whole organism,not found,not found
+GBMJ00000000.1,GBMJ,Hymenoptera,Megachilidae,lithurgus_chrysurus,PRJNA252207,SAMN02870331,whole organism,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776850,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776851,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776852,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776853,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776854,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776855,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776856,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776857,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776858,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776859,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776860,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776861,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776862,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776863,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776864,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776865,brain,not found,not found
+GBUI00000000.1,GBUI,Coleoptera,Chrysomelidae,phaedon_cochleariae,PRJNA210148,SAMN03776866,brain,not found,not found
+GEDO00000000.1,GEDO,Lepidoptera,Crambidae,conogethes_punctiferalis,PRJNA304355,SAMN03018469,whole organism,not found,not found
+GEDO00000000.1,GEDO,Lepidoptera,Crambidae,conogethes_punctiferalis,PRJNA304355,SAMN03018470,whole organism,not found,not found
+GBEY00000000.1,GBEY,Diptera,Tephritidae,bactrocera_minax,PRJNA246133,SAMN02687583,head,not found,not found
+GBQL00000000.1,GBQL,Hymenoptera,Pompilidae,episyron_rufipes,PRJNA252283,SAMN02870292,whole organism,found,found
+GENH00000000.1,GENH,Lepidoptera,Tineidae,dryadaula_visaliella,PRJNA298054,SAMN04155510,abdomen,not found,not found
+GABB00000000.1,GABB,Siphonaptera,Pulicidae,archaeopsylla_erinacei,PRJNA181025,SAMN03570374,brain,not found,not found
+GABB00000000.1,GABB,Siphonaptera,Pulicidae,archaeopsylla_erinacei,PRJNA181025,SAMN03570372,whole organism,not found,not found
+GABB00000000.1,GABB,Siphonaptera,Pulicidae,archaeopsylla_erinacei,PRJNA181025,SAMN03570373,fat body & reproductive tissues,not found,not found
+GBOS00000000.1,GBOS,Hymenoptera,Megaspilidae,dendrocerus_carpenteri,PRJNA252710,SAMN02870277,whole organism,found,found
+GBQD00000000.1,GBQD,Hymenoptera,Sphecidae,sphex_funerarius,PRJNA252279,SAMN02870403,whole organism,not found,not found
+GBPM00000000.1,GBPM,Hymenoptera,Ichneumonidae,pimpla_flavicoxis,PRJNA252191,SAMN02870378,whole organism,found,found
+GEWY00000000.1,GEWY,Blattodea,Rhinotermitidae,reticulitermes_flavipes,PRJNA336029,SAMN03019587,midgut,not found,not found
+GBVP00000000.1,GBVP,Hymenoptera,Halictidae,nomioides,PRJNA252170,SAMN02870350,whole organism,not found,not found
+GDHC00000000.1,GDHC,Hemiptera,Miridae,lygus_hesperus,PRJNA284294,SAMN04299556,antennae,not found,not found
+GENS00000000.1,GENS,Lepidoptera,Palaephatidae,ptyssoptera,PRJNA298054,SAMN04155508,whole organism,found,found
+GENS00000000.1,GENS,Lepidoptera,Palaephatidae,ptyssoptera,PRJNA298054,SAMN04155509,whole organism,not found,found
+GBLV00000000.1,GBLV,Hymenoptera,Bradynobaenidae,chyphotes,PRJNA252353,SAMN02870263,whole organism,not found,not found
+GECL00000000.1,GECL,Hemiptera,Reduviidae,triatoma_dimidiata,PRJNA300554,SAMN04240765,salivary glands,not found,not found
+GFDF00000000.1,GFDF,Diptera,Psychodidae,nyssomyia_neivai,PRJNA359206,SAMN06189232,salivary glands,not found,not found
+GFDF00000000.1,GFDF,Diptera,Psychodidae,nyssomyia_neivai,PRJNA359206,SAMN06189233,midgut,not found,not found
+GFDF00000000.1,GFDF,Diptera,Psychodidae,nyssomyia_neivai,PRJNA359206,SAMN06189234,midgut,not found,not found
+GBLX00000000.1,GBLX,Hymenoptera,Siricidae,tremex_magus,PRJNA252117,SAMN02870431,whole organism,found,found
+GBVG00000000.1,GBVG,Hymenoptera,Gasteruptiidae,gasteruption_tournieri,PRJNA252337,SAMN02870301,whole organism,found,found
+GBQO00000000.1,GBQO,Hymenoptera,Crabronidae,stizoides_tridentatus,PRJNA252284,SAMN02870412,whole organism,not found,not found
+GBVI00000000.1,GBVI,Hymenoptera,Cephidae,cephus_spinipes,PRJNA252244,SAMN02870232,whole organism,not found,not found
+GBPT00000000.1,GBPT,Hymenoptera,Halictidae,lasioglossum_xanthopus,PRJNA252253,SAMN02870325,whole organism,not found,not found
+GBOG00000000.1,GBOG,Hymenoptera,Siricidae,sirex_noctilio,PRJNA252354,SAMN02870398,whole organism,not found,not found
+GBWH00000000.1,GBWH,Hymenoptera,Crabronidae,crossocerus_quadrimaculatus,PRJNA252271,SAMN02870271,whole organism,not found,not found
+GEOW00000000.1,GEOW,Coleoptera,Lampyridae,photinus_pyralis,PRJNA321737,SAMN04868322,brain,not found,not found
+GABK00000000.1,GABK,Megaloptera,Sialidae,sialis_lutaria,PRJNA181034,SAMN02230077,whole organism,not found,not found
+GABK00000000.1,GABK,Megaloptera,Sialidae,sialis_lutaria,PRJNA181034,SAMN02230078,whole organism,not found,not found
+GBNL00000000.1,GBNL,Hymenoptera,Sphecidae,sceliphron_curvatum,PRJNA252261,SAMN02870396,whole organism,not found,not found
+GBTL00000000.1,GBTL,Hymenoptera,Apidae,tetragonula_carbonaria,PRJNA252240,SAMN02870423,whole organism,not found,not found
+GECM00000000.1,GECM,Diptera,Drosophilidae,drosophila_montana,PRJNA300939,SAMN03078468,undetermined tissue,found,found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709492,whole organism,not found,not found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709493,whole organism,not found,not found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709494,whole organism,not found,not found
+GDGN00000000.1,GDGN,Lepidoptera,Pyralidae,amyelois_transitella,PRJNA259890,SAMN02709495,whole organism,not found,not found
+GBQV00000000.1,GBQV,Hymenoptera,Apidae,tetraloniella,PRJNA252136,SAMN02870426,whole organism,not found,not found
+GBNS00000000.1,GBNS,Hymenoptera,Crabronidae,cerceris_arenaria,PRJNA252291,SAMN02870235,whole organism,not found,not found
+GBVO00000000.1,GBVO,Hymenoptera,Ampulicidae,ampulex_fasciata,PRJNA252168,SAMN02870207,whole organism,not found,not found
+GBZS00000000.1,GBZS,Lepidoptera,Noctuidae,spodoptera_litura,PRJNA270564,SAMN04362879,whole organism,not found,not found
+GBZS00000000.1,GBZS,Lepidoptera,Noctuidae,spodoptera_litura,PRJNA270564,SAMN04362880,whole organism,not found,not found
+GBZS00000000.1,GBZS,Lepidoptera,Noctuidae,spodoptera_litura,PRJNA270564,SAMN04362881,whole organism,not found,not found
+GARD00000000.1,GARD,Lepidoptera,Noctuidae,athetis_lepigone,PRJNA193566,SAMN02263985,salivary glands,not found,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302192,head,found,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302194,head,not found,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302196,head,not found,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302193,whole organism,not found,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302195,whole organism,not found,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302197,whole organism,not found,not found
+GEEY00000000.1,GEEY,Hymenoptera,Cephidae,cephus_cinctus,PRJNA302015,SAMN04302198,whole organism,not found,not found
+GAWF00000000.1,GAWF,Phasmatodea,Diapheromeridae,sipyloidea_sipylus,PRJNA238833,SAMN02646414,midgut,not found,not found
+GBNZ00000000.1,GBNZ,Hymenoptera,Pompilidae,heterodontonyx,PRJNA252300,SAMN02870313,whole organism,found,found
+GETQ00000000.1,GETQ,Diptera,Tephritidae,rhagoletis_pomonella,PRJNA324814,SAMN04005136,head & thorax & forelegs,not found,not found
+GEOE00000000.1,GEOE,Lepidoptera,Nepticulidae,enteucha_acetosae,PRJNA298054,SAMN04155509,whole organism,None,not found
+GBKM00000000.1,GBKM,Hymenoptera,Pamphiliidae,acantholyda_hieroglyphica,PRJNA252315,SAMN02870200,whole organism,found,found
+GBLZ00000000.1,GBLZ,Hymenoptera,Apidae,eucera_syriaca,PRJNA252121,SAMN02870295,whole organism,not found,not found
+GBCX00000000.1,GBCX,Coleoptera,Bothrideridae,dastarcus_helophoroides,PRJNA242452,SAMN02351150,gut & fat body & malpighian tubules & glands,not found,found
+GBWJ00000000.1,GBWJ,Hymenoptera,Xiphydriidae,xiphydria_camelus,PRJNA252309,SAMN02870440,whole organism,not found,not found
+GBPR00000000.1,GBPR,Hymenoptera,Crabronidae,tachysphex_fulvitarsis,PRJNA252251,SAMN02870419,whole organism,not found,not found
+GBNR00000000.1,GBNR,Hymenoptera,Crabronidae,gorytes_laticinctus,PRJNA252290,SAMN02870305,whole organism,not found,not found
+GBLS00000000.1,GBLS,Hymenoptera,Crabronidae,dinetus_pictus,PRJNA252320,SAMN02870280,whole organism,not found,not found
+GEOB00000000.1,GEOB,Lepidoptera,Palaephatidae,azaleodes_micronipha,PRJNA298054,SAMN04155514,whole organism,not found,not found
+GAWM00000000.1,GAWM,Diptera,Ceratopogonidae,culicoides_sonorensis,PRJNA238338,SAMN02592762,venom apparatus,found,found
+GAWM00000000.1,GAWM,Diptera,Ceratopogonidae,culicoides_sonorensis,PRJNA238338,SAMN02592763,venom apparatus,found,found
+GBOC00000000.1,GBOC,Hymenoptera,Crabronidae,palarus_histrio,PRJNA252142,SAMN02870364,whole organism,not found,not found
+GBWO00000000.1,GBWO,Hymenoptera,Crabronidae,trypoxylon_figulus,PRJNA252286,SAMN02870436,whole organism,not found,not found
+GFAF00000000.1,GFAF,Hymenoptera,Braconidae,cotesia_vestalis,PRJNA227317,SAMN05437583,whole organism,found,found
+GEMJ00000000.1,GEMJ,Diptera,Limoniidae,rhipidia_sejuga,PRJNA319613,SAMN04901563,whole organism,not found,not found
+GBLP00000000.1,GBLP,Hymenoptera,Eulophidae,diglyphus_isaea,PRJNA252350,SAMN02870279,whole organism,not found,not found
+GBWX00000000.1,GBWX,Hymenoptera,Chrysididae,elampus_spina,PRJNA252148,SAMN02870288,whole organism,not found,not found
+GBQR00000000.1,GBQR,Hymenoptera,Crabronidae,bembix_rostrata,PRJNA252270,SAMN02870220,whole organism,not found,not found
+GFME00000000.1,GFME,Hymenoptera,Trichogrammatidae,megaphragma_amalphitanum,PRJNA344956,SAMN05853688,undetermined tissue,not found,not found
+GBUM00000000.1,GBUM,Hymenoptera,Apidae,xylocopa_violacea,PRJNA252333,SAMN02870442,whole organism,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009849,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009850,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009851,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009852,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009871,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009872,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009885,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009886,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009887,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009888,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009889,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009890,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009891,midgut,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009868,malpighian tubules,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009869,malpighian tubules,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009870,malpighian tubules,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009847,ovaries,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009848,ovaries,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009844,testes,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009845,testes,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009846,testes,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009840,muscle,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009841,muscle,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009842,muscle,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009843,muscle,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009853,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009854,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009855,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009856,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009857,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009858,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009859,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009878,fat body,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009860,brain,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009861,brain,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009862,brain,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009863,brain,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009864,head & antennae,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009865,head & antennae,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009866,head & antennae,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009867,head & antennae,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009873,egg,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009874,egg,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009875,whole organism,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009876,whole organism,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009877,whole organism,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009879,brain,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009880,brain,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009881,brain,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009882,muscle,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009883,muscle,not found,not found
+GEUF00000000.1,GEUF,Coleoptera,Chrysomelidae,callosobruchus_maculatus,PRJNA309272,SAMN03009884,muscle,not found,not found
+GEMK00000000.1,GEMK,Diptera,Cylindrotomidae,liogma_simplicicornis,PRJNA319613,SAMN04901564,whole organism,found,found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010448,whole organism,found,found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010449,whole organism,found,found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010450,whole organism,found,found
+GBEC00000000.1,GBEC,Hymenoptera,Pteromalidae,nasonia_giraulti,PRJNA241010,SAMN03010451,whole organism,found,found
+GEEM00000000.1,GEEM,Lepidoptera,Noctuidae,trichoplusia_ni,PRJNA308418,SAMN04395210,ovaries,not found,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704890,fat body,not found,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704948,fat body,not found,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704952,blood,not found,not found
+GETI00000000.1,GETI,Lepidoptera,Sphingidae,manduca_sexta,PRJNA81039,SAMN03704957,blood,not found,not found
+GBZD00000000.1,GBZD,Lepidoptera,Saturniidae,samia_ricini,PRJNA269319,SAMN03252612,silk glands,not found,not found
+GBNN00000000.1,GBNN,Hymenoptera,Crabronidae,nysson_niger,PRJNA252266,SAMN02870351,whole organism,not found,not found
+GBPZ00000000.1,GBPZ,Hymenoptera,Megachilidae,coelioxys_conoidea,PRJNA252269,SAMN02870266,whole organism,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712421,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712422,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712423,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712424,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712425,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712426,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712427,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712428,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712429,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712430,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712431,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712432,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712433,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712434,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712435,head,not found,not found
+GBYZ00000000.1,GBYZ,Lepidoptera,Notodontidae,thaumetopoea_pityocampa,PRJNA232643,SAMN02712436,head,not found,not found
+GBQF00000000.1,GBQF,Hymenoptera,Apidae,bombus_rupestris,PRJNA252285,SAMN02870222,whole organism,not found,not found
+GBNQ00000000.1,GBNQ,Hymenoptera,Mutillidae,smicromyrme_rufipes,PRJNA252275,SAMN02870399,whole organism,found,found
+GBPY00000000.1,GBPY,Hymenoptera,Sphecidae,isodontia_mexicana,PRJNA252264,SAMN02870321,whole organism,not found,not found
+GFDL00000000.1,GFDL,Diptera,Culicidae,culex_tarsalis,PRJNA360148,SAMN06204222,salivary glands,found,found
+GACP00000000.1,GACP,Lepidoptera,Micropterigidae,micropterix_calthella,PRJNA181028,SAMN01774156,whole organism,not found,not found
+GDAW00000000.1,GDAW,Hemiptera,Miridae,lygus_lineolaris,PRJNA280549,SAMN02743534,whole organism,not found,not found
+GBWI00000000.1,GBWI,Hymenoptera,Crabronidae,philanthus_triangulum,PRJNA252273,SAMN02870374,whole organism,not found,not found
+GDKQ00000000.1,GDKQ,Coleoptera,Silphidae,nicrophorus_vespilloides,PRJNA285436,SAMN03401150,ovaries,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435277,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435278,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435279,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435283,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435284,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435285,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435289,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435290,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435291,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435295,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435296,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435297,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435301,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435302,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435303,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435307,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435308,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435309,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435313,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435314,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435315,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435319,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435320,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435321,abdomen,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435271,whole organism,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435272,whole organism,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435273,whole organism,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435274,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435275,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435276,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435280,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435281,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435282,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435286,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435287,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435288,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435292,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435293,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435294,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435298,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435299,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435300,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435304,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435305,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435306,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435310,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435311,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435312,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435316,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435317,head & thorax,not found,not found
+GELG00000000.1,GELG,Hymenoptera,Braconidae,diachasmimorpha_longicaudata,PRJNA317427,SAMN04435318,head & thorax,not found,not found
+GBXI00000000.1,GBXI,Diptera,Tephritidae,bactrocera_cucurbitae,PRJNA259566,SAMN03252614,silk glands,found,found
+GBZE00000000.1,GBZE,Lepidoptera,Saturniidae,rhodinia_newara,PRJNA269319,SAMN02940944,undetermined tissue,not found,not found
+GBOB00000000.1,GBOB,Hymenoptera,Crabronidae,sphecius_convallis,PRJNA252349,SAMN02870401,whole organism,not found,not found
+GCRH00000000.1,GCRH,Hymenoptera,Plumariidae,plumarius_gradifrons,PRJNA272310,SAMN03287655,whole organism,not found,not found
+GAWG00000000.1,GAWG,Phasmatodea,Phasmatidae,extatosoma_tiaratum,PRJNA238833,SAMN02646411,midgut,not found,not found
+GBQH00000000.1,GBQH,Hymenoptera,Crabronidae,pemphredon_lugens,PRJNA252288,SAMN02870371,whole organism,not found,not found
+GBTU00000000.1,GBTU,Hymenoptera,Eucharitidae,orasema_simulatrix,PRJNA252165,SAMN02870357,whole organism,not found,not found
+GBWF00000000.1,GBWF,Hymenoptera,Halictidae,systropha_curvicornis,PRJNA252259,SAMN02870418,whole organism,not found,not found
+GCKB00000000.1,GCKB,Coleoptera,Nitidulidae,aethina_tumida,PRJNA256171,SAMN02617556,whole organism,not found,not found
+GENX00000000.1,GENX,Lepidoptera,Agathiphagidae,agathiphaga_queenslandensis,PRJNA298054,SAMN04155511,abdomen,not found,not found
+GBNW00000000.1,GBNW,Hymenoptera,Crabronidae,pseudoscolia_sinaitica,PRJNA252146,SAMN02870389,whole organism,not found,not found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863001,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863002,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863003,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863004,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863005,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863006,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863007,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863008,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863009,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863010,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863011,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863012,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863013,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863014,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863015,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863016,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863017,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863018,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863019,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863020,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863021,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863022,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863023,brain,found,found
+GBTE00000000.1,GBTE,Diptera,Culicidae,anopheles_quadrimaculatus,PRJNA264292,SAMN02863024,brain,found,found
+GBTF00000000.1,GBTF,Hymenoptera,Braconidae,dacnusa_sibirica,PRJNA252198,SAMN02870272,whole organism,found,found
+GBWC00000000.1,GBWC,Hymenoptera,Ichneumonidae,ichneumon_albiger,PRJNA252186,SAMN02870319,whole organism,not found,not found
+GAMD00000000.1,GAMD,Diptera,Culicidae,anopheles_aquasalis,PRJNA210899,SAMN02206474,salivary glands,found,found
+GBLF00000000.1,GBLF,Hymenoptera,Andrenidae,andrena_vaga,PRJNA252325,SAMN02870209,whole organism,not found,not found
+GBTQ00000000.1,GBTQ,Hymenoptera,Crabronidae,lestica_clypeata,PRJNA252220,SAMN02870328,whole organism,not found,not found
+GDAI00000000.1,GDAI,Diptera,Tabanidae,tabanus_bromius,PRJNA283639,SAMN02378353,reproductive organs,not found,not found
+GBUY00000000.1,GBUY,Hymenoptera,Braconidae,aleiodes_testaceus,PRJNA252222,SAMN02870202,whole organism,found,found
+GCVX00000000.1,GCVX,Lepidoptera,Tortricidae,epiphyas_postvittana,PRJNA236624,SAMN02351150,gut & fat body & malpighian tubules & glands,None,not found
+GBZC00000000.1,GBZC,Lepidoptera,Saturniidae,antheraea_assama,PRJNA269319,SAMN03252611,silk glands,not found,not found
+GFMK00000000.1,GFMK,Hemiptera,Reduviidae,meccus_pallidipennis,PRJNA304741,SAMN04317640,undetermined tissue,not found,not found
+GBWG00000000.1,GBWG,Hymenoptera,Crabronidae,crabro_peltarius,PRJNA252268,SAMN02870270,whole organism,not found,not found
+GECU00000000.1,GECU,Hemiptera,Cicadellidae,homalodisca_liturata,PRJNA303151,SAMN04292971,whole organism,not found,not found
+GECU00000000.1,GECU,Hemiptera,Cicadellidae,homalodisca_liturata,PRJNA303151,SAMN04292972,whole organism,not found,not found
+GECU00000000.1,GECU,Hemiptera,Cicadellidae,homalodisca_liturata,PRJNA303151,SAMN04292973,whole organism,not found,not found
+GBVT00000000.1,GBVT,Hymenoptera,Ichneumonidae,netelia_testacea,PRJNA252199,SAMN02870346,whole organism,found,found
+GBER00000000.1,GBER,Hemiptera,Pentatomidae,euschistus_heros,PRJNA246125,SAMN02903331,pheromone gland,not found,not found
+GBQU00000000.1,GBQU,Hymenoptera,Crabronidae,nitela,PRJNA252134,SAMN02870347,whole organism,not found,not found
+GEDC00000000.1,GEDC,Hemiptera,Clastopteridae,clastoptera_arizonana,PRJNA303152,SAMN04607348,whole organism,not found,not found
+GEDC00000000.1,GEDC,Hemiptera,Clastopteridae,clastoptera_arizonana,PRJNA303152,SAMN04607357,whole organism,not found,not found
+GEDC00000000.1,GEDC,Hemiptera,Clastopteridae,clastoptera_arizonana,PRJNA303152,SAMN04607362,whole organism,not found,not found
+GARK00000000.1,GARK,Coleoptera,Scarabaeidae,popillia_japonica,PRJNA198730,SAMN03292180,brain,not found,not found
+GBWV00000000.1,GBWV,Hymenoptera,Megachilidae,stelis_punctulatissima,PRJNA252295,SAMN02870408,whole organism,not found,not found
+GBPU00000000.1,GBPU,Hymenoptera,Apidae,ceratina_chalybea,PRJNA252255,SAMN02870234,whole organism,not found,not found
+GEDB00000000.1,GEDB,Hymenoptera,Vespidae,polistes_dominula,PRJNA291219,SAMN02934455,whole organism,not found,not found
+GBTZ00000000.1,GBTZ,Hymenoptera,Tiphiidae,methocha_articulata,PRJNA252277,SAMN02870341,whole organism,found,found
+GBWY00000000.1,GBWY,Hymenoptera,Sapygidae,sapyga_quinquepunctata,PRJNA252302,SAMN02870394,whole organism,found,found
+GBWU00000000.1,GBWU,Hymenoptera,Cynipidae,pediaspis_aceris,PRJNA252312,SAMN02870369,whole organism,found,found
+GBMY00000000.1,GBMY,Hymenoptera,Ichneumonidae,ophion,PRJNA252150,SAMN02870356,whole organism,not found,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029109,light organ,not found,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029111,light organ,not found,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029113,light organ,not found,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029110,whole organism,not found,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029112,whole organism,not found,not found
+GBSB00000000.1,GBSB,Coleoptera,Chrysomelidae,diabrotica_virgifera,PRJNA260164,SAMN04029114,whole organism,not found,not found
+GEOC00000000.1,GEOC,Lepidoptera,Eriocraniidae,dyseriocrania_griseocapitella,PRJNA298054,SAMN04155506,whole organism,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256981,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256982,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256983,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256984,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256985,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256986,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256987,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256988,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256997,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256998,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256999,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257000,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257001,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257002,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257003,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257004,fat body,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256989,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256990,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256991,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256992,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256993,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256994,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256995,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03256996,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257005,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257006,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257007,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257008,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257009,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257010,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257011,midgut,not found,not found
+GDKA00000000.1,GDKA,Coleoptera,Curculionidae,rhynchophorus_ferrugineus,PRJNA275430,SAMN03257012,midgut,not found,not found
+GBNF00000000.1,GBNF,Hymenoptera,Crabronidae,harpactus_elegans,PRJNA252247,SAMN02870308,whole organism,not found,not found
+GBWM00000000.1,GBWM,Hymenoptera,Braconidae,diaeretus_essigellae,PRJNA252278,SAMN02870278,whole organism,not found,not found
+GBTM00000000.1,GBTM,Hymenoptera,Apidae,anthophora_plumipes,PRJNA252326,SAMN02870212,whole organism,not found,not found
+GBWS00000000.1,GBWS,Hymenoptera,Aulacidae,aulacus_burquei,PRJNA252132,SAMN02870218,whole organism,found,found
+GECK00000000.1,GECK,Hemiptera,Reduviidae,rhodnius_prolixus,PRJNA281760,SAMN03496284,antennae,not found,not found
+GECK00000000.1,GECK,Hemiptera,Reduviidae,rhodnius_prolixus,PRJNA281760,SAMN03496285,antennae,not found,not found
+GECK00000000.1,GECK,Hemiptera,Reduviidae,rhodnius_prolixus,PRJNA281760,SAMN03496286,antennae,not found,not found
+GEBQ00000000.1,GEBQ,Hemiptera,Cicadellidae,graphocephala_atropunctata,PRJNA299492,SAMN04293489,whole organism,not found,not found
+GEBQ00000000.1,GEBQ,Hemiptera,Cicadellidae,graphocephala_atropunctata,PRJNA299492,SAMN04293490,whole organism,not found,not found
+GEBQ00000000.1,GEBQ,Hemiptera,Cicadellidae,graphocephala_atropunctata,PRJNA299492,SAMN04293491,whole organism,not found,not found
+GBUP00000000.1,GBUP,Hymenoptera,Scelionidae,trissolcus_semistriatus,PRJNA252237,SAMN02870435,whole organism,found,found
+GENP00000000.1,GENP,Lepidoptera,Acanthopteroctetidae,acanthopteroctetes_unifascia,PRJNA298054,SAMN04155521,whole organism,not found,not found
+GBUO00000000.1,GBUO,Hymenoptera,Diprionidae,diprion_pini,PRJNA252226,SAMN02870283,whole organism,found,found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932798,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932799,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932800,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932801,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932802,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932803,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932804,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932805,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932806,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932807,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932808,antennae & legs & larvae,not found,not found
+GFCT00000000.1,GFCT,Lepidoptera,Noctuidae,mythimna_separata,PRJNA357654,SAMN05932809,antennae & legs & larvae,not found,not found
+GANO00000000.1,GANO,Diptera,Chaoboridae,corethrella_appendiculata,PRJNA213247,SAMN01881995,whole organism,found,found
+GBOM00000000.1,GBOM,Hymenoptera,Sphecidae,chalybion_californicum,PRJNA252298,SAMN02870236,whole organism,not found,not found
+GBXA00000000.1,GBXA,Hymenoptera,Chrysididae,parnopes_grandior,PRJNA252317,SAMN02870367,whole organism,found,found
+GFBA00000000.1,GFBA,Hemiptera,Miridae,tupiocoris_notatus,PRJNA343704,SAMN05792422,whole organism,not found,not found
+GFBA00000000.1,GFBA,Hemiptera,Miridae,tupiocoris_notatus,PRJNA343704,SAMN05792423,whole organism,not found,not found
+GFBA00000000.1,GFBA,Hemiptera,Miridae,tupiocoris_notatus,PRJNA343704,SAMN05792425,whole organism,not found,not found
+GFBA00000000.1,GFBA,Hemiptera,Miridae,tupiocoris_notatus,PRJNA343704,SAMN05792426,whole organism,not found,not found
+GECN00000000.1,GECN,Hymenoptera,Braconidae,diachasma_alloeum,PRJNA283787,SAMN04302192,head,None,found
+GBLR00000000.1,GBLR,Hymenoptera,Apidae,thyreus_orbatus,PRJNA252319,SAMN02870428,whole organism,not found,not found
+GBYD00000000.1,GBYD,Coleoptera,Curculionidae,euwallacea_fornicatus,PRJNA260703,SAMN03390060,whole organism,found,found
+GBYD00000000.1,GBYD,Coleoptera,Curculionidae,euwallacea_fornicatus,PRJNA260703,SAMN03390064,whole organism,found,found
+GBYD00000000.1,GBYD,Coleoptera,Curculionidae,euwallacea_fornicatus,PRJNA260703,SAMN03390057,egg,found,found
+GBYD00000000.1,GBYD,Coleoptera,Curculionidae,euwallacea_fornicatus,PRJNA260703,SAMN03390061,whole organism,found,found
+GBYD00000000.1,GBYD,Coleoptera,Curculionidae,euwallacea_fornicatus,PRJNA260703,SAMN03390062,whole organism,found,found
+GBYD00000000.1,GBYD,Coleoptera,Curculionidae,euwallacea_fornicatus,PRJNA260703,SAMN03390063,whole organism,found,found
+GBYD00000000.1,GBYD,Coleoptera,Curculionidae,euwallacea_fornicatus,PRJNA260703,SAMN03390065,egg,found,found
+GFNG00000000.1,GFNG,Diptera,Chironomidae,cricotopus_albitarsis,PRJNA350713,SAMN05948823,whole organism,not found,not found
+GFNG00000000.1,GFNG,Diptera,Chironomidae,cricotopus_albitarsis,PRJNA350713,SAMN05948835,whole organism,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464013,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464016,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464017,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464020,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464022,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464115,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464118,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464119,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464122,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464125,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464014,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464018,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464019,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464023,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464024,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464116,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464120,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464121,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464123,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464126,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464127,bursa,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464015,thorax,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464021,thorax,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464117,thorax,not found,not found
+GBBP00000000.1,GBBP,Diptera,Diopsidae,teleopsis_dalmanni,PRJNA240197,SAMN02464124,thorax,not found,not found
+GBNY00000000.1,GBNY,Hymenoptera,Cynipidae,andricus_quercuscalicis,PRJNA252297,SAMN02870210,whole organism,not found,not found
+GATX00000000.1,GATX,Trichoptera,None,annulipalpia,PRJNA219539,SAMN03024153,undetermined tissue,not found,not found
+GEZY00000000.1,GEZY,Coleoptera,Curculionidae,sitophilus_oryzae,PRJNA341819,SAMN04012687,midgut,found,found
+GEZY00000000.1,GEZY,Coleoptera,Curculionidae,sitophilus_oryzae,PRJNA341819,SAMN04012688,midgut,found,found
+GEZY00000000.1,GEZY,Coleoptera,Curculionidae,sitophilus_oryzae,PRJNA341819,SAMN04012689,midgut,found,found
+GBQI00000000.1,GBQI,Hymenoptera,Sphecidae,prionyx_kirbii,PRJNA252299,SAMN02870385,whole organism,not found,not found
+GDQN00000000.1,GDQN,Lepidoptera,Gelechiidae,pectinophora_gossypiella,PRJNA293973,SAMN03658569,midgut,not found,not found
+GBQS00000000.1,GBQS,Hymenoptera,Vespidae,vespa_crabro,PRJNA252305,SAMN02870438,whole organism,found,found
+GBNI00000000.1,GBNI,Hymenoptera,Apidae,tetralonia_malvae,PRJNA252260,SAMN02870424,whole organism,not found,not found
+GCDX00000000.1,GCDX,Hymenoptera,Braconidae,psyttalia_concolor,PRJNA262710,SAMN03447158,malpighian tubules,not found,not found
+GBYB00000000.1,GBYB,Hymenoptera,Braconidae,fopius_arisanus,PRJNA259570,SAMN02584778,venom gland,found,found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535804,whole organism,not found,not found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535805,antennae,not found,not found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535806,maxillary palps,not found,not found
+GEHC00000000.1,GEHC,Diptera,Culicidae,aedes_albopictus,PRJNA314492,SAMN04535807,head,not found,not found
+GBWA00000000.1,GBWA,Hymenoptera,Cynipidae,synergus_umbraculus,PRJNA252181,SAMN02870416,whole organism,not found,not found
+GADB00000000.1,GADB,Mecoptera,Nannochoristidae,nannochorista_philpotti,PRJNA181029,SAMN01774150,whole organism,not found,not found
+GEOP00000000.1,GEOP,Lepidoptera,Palaephatidae,palaephatus_nielseni,PRJNA298054,SAMN04155519,abdomen,not found,not found
+GBCU00000000.1,GBCU,Hymenoptera,Braconidae,aphidius_ervi,PRJNA235942,SAMN02640258,undetermined tissue,not found,not found
+GFDG00000000.1,GFDG,Diptera,Muscidae,haematobia_irritans,PRJNA359481,SAMN06192181,salivary glands,not found,not found
+GFDG00000000.1,GFDG,Diptera,Muscidae,haematobia_irritans,PRJNA359481,SAMN06192182,midgut,not found,not found
+GEOA00000000.1,GEOA,Lepidoptera,Andesianidae,andesiana_lamellata,PRJNA298054,SAMN04155513,abdomen,not found,not found
+GBPI00000000.1,GBPI,Hymenoptera,Siricidae,urocerus_augur,PRJNA252157,SAMN02870437,whole organism,found,found
+GBNH00000000.1,GBNH,Hymenoptera,Crabronidae,psenulus_fuscipennis,PRJNA252256,SAMN02870386,whole organism,not found,not found
+GDDM00000000.1,GDDM,Lepidoptera,Lymantriidae,lymantria_dispar,PRJNA80181,SAMN03464333,salivary glands,not found,not found
+GBQK00000000.1,GBQK,Hymenoptera,Megachilidae,heriades_truncorum,PRJNA252294,SAMN02870312,whole organism,not found,not found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349349,whole organism,found,found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349350,whole organism,found,found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349351,whole organism,found,found
+GCPB00000000.1,GCPB,Hymenoptera,Torymidae,megastigmus_spermotrophus,PRJNA274192,SAMN03349352,whole organism,found,found
+GATH00000000.2,GATH,Mecoptera,Bittacidae,bittacus_pilicornis,PRJNA219530,SAMN03344737,antennae,not found,not found
+GAWD00000000.1,GAWD,Phasmatodea,Phasmatidae,medauroidea_extradentata,PRJNA238833,SAMN02646412,midgut,not found,not found
+GBVH00000000.1,GBVH,Hymenoptera,Xyelidae,xyela_alpigena,PRJNA252242,SAMN02870441,whole organism,found,found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058407,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058408,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058409,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058410,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058411,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058412,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058413,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058414,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058415,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058416,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058417,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058418,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058419,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058420,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058421,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058422,fat body,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058423,muscle,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058424,muscle,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058425,muscle,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058426,muscle,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058427,muscle,not found,not found
+GAIZ00000000.1,GAIZ,Orthoptera,Gryllidae,gryllus_firmus,PRJNA198853,SAMN02058428,muscle,not found,not found
+GBPO00000000.1,GBPO,Hymenoptera,Crabronidae,pison_atrum,PRJNA252200,SAMN02870379,whole organism,not found,not found
+GBVM00000000.1,GBVM,Hymenoptera,Ibaliidae,ibalia_leucospoides,PRJNA252355,SAMN02870318,whole organism,not found,not found
+GBUQ00000000.1,GBUQ,Hymenoptera,Diapriidae,trichopria_drosophilae,PRJNA252238,SAMN02870433,whole organism,found,found
+GBVK00000000.1,GBVK,Hymenoptera,Melittidae,melitta_haemorrhoidalis,PRJNA252208,SAMN02870337,whole organism,not found,not found
+GBUK00000000.1,GBUK,Hymenoptera,Megachilidae,osmia_cornuta,PRJNA252331,SAMN02870360,whole organism,not found,not found
+GBTY00000000.1,GBTY,Hymenoptera,Halictidae,dufourea_dentiventris,PRJNA252203,SAMN02870287,whole organism,not found,not found
+GBUH00000000.1,GBUH,Coleoptera,Chrysomelidae,chrysomela_populi,PRJNA212154,SAMN03857491,head,not found,not found
+GELV00000000.1,GELV,Trichoptera,Limnephilidae,micropterna_lateralis,PRJNA317524,SAMN04620693,whole organism,not found,not found
+GBVE00000000.1,GBVE,Hymenoptera,Braconidae,aphidius_colemani,PRJNA252352,SAMN02870214,whole organism,not found,not found
+GBNX00000000.1,GBNX,Hymenoptera,Melittidae,macropis_fulvipes,PRJNA252296,SAMN02870333,whole organism,not found,not found
+GBHB00000000.1,GBHB,Orthoptera,Gryllidae,teleogryllus_commodus,PRJNA252786,SAMN02727808,whole organism,not found,not found
+GBQJ00000000.1,GBQJ,Hymenoptera,Scoliidae,scolia_hirta,PRJNA252276,SAMN02870397,whole organism,not found,not found
+GBME00000000.1,GBME,Hymenoptera,Andrenidae,panurgus_dentipes,PRJNA252205,SAMN02870365,whole organism,not found,not found
+GBMA00000000.1,GBMA,Hymenoptera,Crabronidae,diodontus_minutus,PRJNA252322,SAMN02870281,whole organism,not found,not found
+GACZ00000000.1,GACZ,Diptera,Tipulidae,tipula_maxima,PRJNA181035,SAMN01774154,whole organism,not found,not found
+GEOG00000000.1,GEOG,Lepidoptera,Heterobathmiidae,heterobathmia_pseuderiocrania,PRJNA298054,SAMN04155520,abdomen,not found,not found
+GDLS00000000.1,GDLS,Coleoptera,Curculionidae,hypothenemus_hampei,PRJNA279497,SAMN04002516,whole organism,found,found
+GEOU00000000.1,GEOU,Lepidoptera,Tischeriidae,tischeria_quercitella,PRJNA298054,SAMN04155522,whole organism,not found,not found
+GBVD00000000.1,GBVD,Hymenoptera,Ceraphronidae,ceraphron,PRJNA252127,SAMN02870233,whole organism,found,found
+GBUN00000000.1,GBUN,Hymenoptera,Chrysididae,cleptes_nitidulus,PRJNA252328,SAMN02870265,whole organism,not found,not found
+GBVU00000000.1,GBVU,Hymenoptera,Pelecinidae,pelecinus_polyturator,PRJNA252202,SAMN02870370,whole organism,found,found
+GEXM00000000.1,GEXM,Coleoptera,Scarabaeidae,oxysternon_conspicillatum,PRJNA339294,SAMN05473224,gut,not found,not found
+GEOT00000000.1,GEOT,Lepidoptera,Opostegidae,pseudopostega_quadristrigella,PRJNA298054,SAMN04155518,whole organism,not found,not found
+GBEB00000000.1,GBEB,Hymenoptera,Pteromalidae,nasonia_vitripennis,PRJNA240970,SAMN02689937,whole organism,found,found
+GBON00000000.1,GBON,Hymenoptera,Crabronidae,dryudella_pinguis,PRJNA252123,SAMN02870286,whole organism,not found,not found
+GFCQ00000000.1,GFCQ,Blattodea,Blattidae,periplaneta_americana,PRJNA356979,SAMN06130820,brain,found,found
+GBOY00000000.1,GBOY,Hymenoptera,Crabronidae,mellinus_arvensis,PRJNA252206,SAMN02870338,whole organism,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727613,fat body,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727615,head,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727616,head,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727617,head,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727618,head,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727614,abdomen,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727541,antennae,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727611,tarsus,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727612,tarsus,not found,not found
+GBID00000000.1,GBID,Blattodea,Ectobiidae,blattella_germanica,PRJNA248247,SAMN02727571,mouthpart,not found,not found
+GBPE00000000.1,GBPE,Hymenoptera,Ichneumonidae,hyposoter_didymator,PRJNA252197,SAMN02870317,whole organism,not found,not found
+GBVF00000000.1,GBVF,Hymenoptera,Blasticotomidae,blasticotoma_filiceti,PRJNA252334,SAMN02870221,whole organism,not found,not found
+GBOK00000000.1,GBOK,Hymenoptera,Tiphiidae,meria_tripunctata,PRJNA252267,SAMN02870339,whole organism,found,found
+GBPW00000000.1,GBPW,Hymenoptera,Apidae,epeolus_variegatus,PRJNA252262,SAMN02870291,whole organism,not found,not found
+GBWN00000000.1,GBWN,Hymenoptera,Tiphiidae,tiphia_femorata,PRJNA252281,SAMN02870429,whole organism,found,found
+GBOA00000000.1,GBOA,Hymenoptera,Crabronidae,spilomena_beata,PRJNA252217,SAMN02870404,whole organism,not found,not found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776881,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776882,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776883,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776884,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776885,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776886,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776887,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776888,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776889,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776890,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776891,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776892,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776893,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776894,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776895,brain,found,found
+GDHF00000000.1,GDHF,Diptera,Tephritidae,bactrocera_latifrons,PRJNA281765,SAMN03776896,brain,found,found
+GFCX00000000.1,GFCX,Lepidoptera,Saturniidae,antheraea_pernyi,PRJNA357974,SAMN06163070,prothoracic gland,not found,not found
+GAVM00000000.2,GAVM,Trichoptera,Hydroptilidae,hydroptila,PRJNA219566,SAMN03656147,whole organism,found,found
+GAVM00000000.2,GAVM,Trichoptera,Hydroptilidae,hydroptila,PRJNA219566,SAMN03656148,whole organism,found,found
+GBNJ00000000.1,GBNJ,Hymenoptera,Trigonalidae,pseudogonalos_hahnii,PRJNA252341,SAMN02870387,whole organism,not found,not found
+GEYN00000000.1,GEYN,Lepidoptera,Plutellidae,plutella_xylostella,PRJNA335320,SAMN05440352,undetermined tissue,not found,not found
+GFBD00000000.1,GFBD,Hymenoptera,Formicidae,camponotus_fellah,PRJNA339034,SAMN05578870,whole organism,not found,not found
+GFBD00000000.1,GFBD,Hymenoptera,Formicidae,camponotus_fellah,PRJNA339034,SAMN05578871,whole organism,not found,not found
+GBTP00000000.1,GBTP,Hymenoptera,Argidae,aproceros_leucopoda,PRJNA252225,SAMN02870215,whole organism,not found,not found
+GBMP00000000.1,GBMP,Hymenoptera,Melittidae,dasypoda_hirtipes,PRJNA252212,SAMN02870274,whole organism,not found,not found
+GBPN00000000.1,GBPN,Hymenoptera,Megachilidae,chelostoma_florisomne,PRJNA252249,SAMN02870237,whole organism,not found,not found
+GBRX00000000.1,GBRX,Diptera,Glossinidae,glossina_palpalis,PRJNA260242,SAMN04208332,whole organism,found,found
+GBRX00000000.1,GBRX,Diptera,Glossinidae,glossina_palpalis,PRJNA260242,SAMN04208333,whole organism,found,found
+GBRX00000000.1,GBRX,Diptera,Glossinidae,glossina_palpalis,PRJNA260242,SAMN04208334,whole organism,found,found
+GBLN00000000.1,GBLN,Hymenoptera,Mymaridae,gonatocerus_morrilli,PRJNA252129,SAMN02870303,whole organism,found,found
+GDKB00000000.1,GDKB,Lepidoptera,Tortricidae,cydia_pomonella,PRJNA289066,SAMN04168647,salivary glands,not found,not found
+GEZZ00000000.1,GEZZ,Hymenoptera,Ichneumonidae,diadromus_collaris,PRJNA225661,SAMN05824024,whole organism,found,found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447948,brain,not found,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447954,brain,not found,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447960,brain,not found,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447964,brain,not found,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447928,legs,not found,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447934,legs,not found,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447940,legs,not found,not found
+GFNO00000000.1,GFNO,Hymenoptera,Formicidae,lasius_niger,PRJNA386243,SAMN04447946,legs,not found,not found
+GBKZ00000000.1,GBKZ,Hymenoptera,Halictidae,sphecodes_albilabris,PRJNA252332,SAMN02870402,whole organism,not found,not found
+GBPG00000000.1,GBPG,Hymenoptera,Apidae,eucera_nigrescens,PRJNA252141,SAMN02870293,whole organism,not found,not found
+GEOV00000000.1,GEOV,Lepidoptera,Prodoxidae,tegeticula_yuccasella,PRJNA298054,SAMN04155523,abdomen,not found,not found
+GBOR00000000.1,GBOR,Hymenoptera,Ichneumonidae,syrphophilus_tricinctorius,PRJNA252166,SAMN02870417,whole organism,found,found
+GBQG00000000.1,GBQG,Hymenoptera,Megalodontesidae,megalodontes_cephalotes,PRJNA252287,SAMN02870336,whole organism,found,found
+GBNC00000000.1,GBNC,Hymenoptera,Scelionidae,telenomus,PRJNA252183,SAMN02870422,whole organism,found,found
+GBND00000000.1,GBND,Hymenoptera,Ichneumonidae,buathra_laborator,PRJNA252196,SAMN02870227,whole organism,found,found
+GBLA00000000.1,GBLA,Hymenoptera,Apidae,nomada_lathburiana,PRJNA252330,SAMN02870348,whole organism,not found,not found
+GBPV00000000.1,GBPV,Hymenoptera,Pompilidae,auplopus_albifrons,PRJNA252258,SAMN02870219,whole organism,found,found
+GBMT00000000.1,GBMT,Hymenoptera,Sphecidae,ammophila_sabulosa,PRJNA252224,SAMN02870205,whole organism,not found,not found
+GBLU00000000.1,GBLU,Hymenoptera,Crabronidae,oxybelus_bipunctatus,PRJNA252321,SAMN02870362,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679940,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679941,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679942,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679943,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679944,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679945,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679946,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679947,whole organism,not found,not found
+GARQ00000000.1,GARQ,Hemiptera,Aleyrodidae,bemisia_tabaci,PRJNA232955,SAMN02679948,whole organism,not found,not found
+GBJX00000000.1,GBJX,Hemiptera,Adelgidae,adelges_tsugae,PRJNA242203,SAMN02776975,whole organism,not found,not found
+GBZJ00000000.1,GBZJ,Lepidoptera,Saturniidae,antheraea_yamamai,PRJNA269319,SAMN03252610,silk glands,not found,not found
+GBOI00000000.1,GBOI,Hymenoptera,Andrenidae,camptopoeum_sacrum,PRJNA252153,SAMN02870228,whole organism,not found,not found
+GBOU00000000.1,GBOU,Hymenoptera,Crabronidae,liris,PRJNA252147,SAMN02870330,whole organism,not found,not found
+GBPS00000000.1,GBPS,Hymenoptera,Colletidae,hylaeus_variegatus,PRJNA252252,SAMN02870316,whole organism,not found,not found
+GCJP00000000.1,GCJP,Lepidoptera,Geometridae,biston_suppressaria,PRJNA273898,SAMN03982873,whole organism,not found,not found
+GATI00000000.2,GATI,Diptera,Bombyliidae,bombylius_major,PRJNA219532,SAMN03018261,undetermined tissue,found,found
+GACV00000000.1,GACV,Trichoptera,Philopotamidae,philopotamus_ludificatus,PRJNA181031,SAMN01774155,whole organism,not found,not found
+GELL00000000.1,GELL,Hymenoptera,Halictidae,megalopta_genalis,PRJNA282469,SAMN04577829,midgut,not found,not found
+GELL00000000.1,GELL,Hymenoptera,Halictidae,megalopta_genalis,PRJNA282469,SAMN04577824,foregut,not found,not found
+GELL00000000.1,GELL,Hymenoptera,Halictidae,megalopta_genalis,PRJNA282469,SAMN04577835,foregut,not found,not found
+GBQM00000000.1,GBQM,Hymenoptera,Scoliidae,colpa_sexmaculata,PRJNA252303,SAMN02870268,whole organism,not found,not found
+GAWE00000000.1,GAWE,Phasmatodea,Phasmatidae,ramulus_artemis,PRJNA238833,SAMN02646413,midgut,not found,not found
+GBVL00000000.1,GBVL,Hymenoptera,Crabronidae,passaloecus_eremita,PRJNA252213,SAMN02870368,whole organism,not found,not found
+GEMI00000000.1,GEMI,Diptera,Pediciidae,pedicia_vetusta,PRJNA319613,SAMN04901562,whole organism,found,found
+GBWP00000000.1,GBWP,Hymenoptera,Halictidae,nomia_diversipes,PRJNA252293,SAMN02870349,whole organism,not found,not found
+GBLY00000000.1,GBLY,Hymenoptera,Apidae,eucera_plumigera,PRJNA252119,SAMN02870294,whole organism,not found,not found
+GBNB00000000.1,GBNB,Hymenoptera,Crabronidae,stizus_continuus,PRJNA252182,SAMN02870413,whole organism,not found,not found
+GBQP00000000.1,GBQP,Hymenoptera,Halictidae,halictus_quadricinctus,PRJNA252292,SAMN02870307,whole organism,not found,not found
+GBQE00000000.1,GBQE,Hymenoptera,Bethylidae,cephalonomia_tarsalis,PRJNA252280,SAMN02870230,whole organism,found,found
+GEEF00000000.1,GEEF,Coleoptera,Chrysomelidae,leptinotarsa_decemlineata,PRJNA297027,SAMN03653681,salivary glands,found,found
+GDVG00000000.1,GDVG,Phasmatodea,Phasmatidae,clitarchus_hookeri,PRJNA286351,SAMN05001774,abdomen,not found,not found
+GBLB00000000.1,GBLB,Hymenoptera,Crabronidae,astata_minor,PRJNA252227,SAMN02870217,whole organism,not found,not found
+GDJO00000000.1,GDJO,Hymenoptera,Braconidae,cotesia_glomerata,PRJNA289655,SAMN03856543,head,not found,not found
+GFBH00000000.1,GFBH,Lepidoptera,Cossidae,eogystia_hippophaecolus,PRJNA328551,SAMN05375057,whole organism,not found,not found
+GFNF00000000.1,GFNF,Diptera,Chironomidae,cricotopus_parbicinctus,PRJNA350713,SAMN05948824,whole organism,not found,not found
+GFNF00000000.1,GFNF,Diptera,Chironomidae,cricotopus_parbicinctus,PRJNA350713,SAMN05948836,whole organism,not found,not found
+GBMU00000000.1,GBMU,Hymenoptera,Stephanidae,stephanus_serrator,PRJNA252323,SAMN02870410,whole organism,found,found
+GBPH00000000.1,GBPH,Hymenoptera,Argidae,arge_berberidis,PRJNA252154,SAMN02870216,whole organism,not found,not found
+GDIM00000000.1,GDIM,Diptera,Muscidae,stomoxys_calcitrans,PRJNA188117,SAMN03840662,whole organism,found,found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267204,whole organism,not found,not found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267205,whole organism,not found,not found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267206,whole organism,not found,not found
+GECQ00000000.1,GECQ,Hemiptera,Pentatomidae,murgantia_histrionica,PRJNA302154,SAMN04267207,whole organism,not found,not found
+GEOS00000000.1,GEOS,Lepidoptera,Neopseustidae,neopseustis_meyricki,PRJNA298054,SAMN04155516,whole organism,None,not found
+GEOS00000000.1,GEOS,Lepidoptera,Neopseustidae,neopseustis_meyricki,PRJNA298054,SAMN04155517,whole organism,not found,not found
+GFCJ00000000.1,GFCJ,Lepidoptera,Crambidae,loxostege_sticticalis,PRJNA349765,SAMD00051587,fat body,not found,not found
+GAZU00000000.1,GAZU,Hymenoptera,Tiphiidae,brachycistis_timberlakei,PRJNA195615,SAMN02343703,venom gland,not found,not found
+GBVB00000000.1,GBVB,Hymenoptera,Platygastridae,inostemma,PRJNA252125,SAMN02870320,whole organism,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214487,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214488,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214489,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214490,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214491,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214492,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214493,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214522,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214655,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214656,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214657,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214658,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214659,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214660,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214661,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214662,head,not found,not found
+GDIO00000000.1,GDIO,Orthoptera,Acrididae,locusta_migratoria,PRJNA283919,SAMN05214684,head,not found,not found
+GBWZ00000000.1,GBWZ,Hymenoptera,Pergidae,pergagrapta_polita,PRJNA252274,SAMN02870372,whole organism,not found,not found
+GBOL00000000.1,GBOL,Hymenoptera,Cimbicidae,cimbex_rubida,PRJNA252347,SAMN02870264,whole organism,not found,not found
+GDKW00000000.1,GDKW,Hemiptera,Reduviidae,rhodnius_neglectus,PRJNA292130,SAMN03567662,whole organism,not found,not found
+GADH00000000.1,GADH,Megaloptera,Corydalidae,corydalinae,PRJNA181124,SAMN01766986,whole organism,not found,not found
+GCVB00000000.1,GCVB,Hymenoptera,Proctotrupidae,brachyserphus_parvulus,PRJNA272309,SAMN03287654,whole organism,found,found
+GBJR00000000.1,GBJR,Lepidoptera,Bombycidae,bombyx_mori,PRJNA257362,SAMN02796058,whole organism,not found,not found
+GBJR00000000.1,GBJR,Lepidoptera,Bombycidae,bombyx_mori,PRJNA257362,SAMN02796059,whole organism,not found,not found
+GBPP00000000.1,GBPP,Hymenoptera,Megachilidae,dioxys_cincta,PRJNA252246,SAMN02870282,whole organism,not found,not found
+GBMW00000000.1,GBMW,Hymenoptera,Vespidae,parischnogaster_nigricans,PRJNA252175,SAMN02870366,whole organism,not found,not found
+GBWQ00000000.1,GBWQ,Hymenoptera,Sapygidae,monosapyga_clavicornis,PRJNA252301,SAMN02870344,whole organism,found,found
+GBMS00000000.1,GBMS,Hymenoptera,Evaniidae,brachygaster_minutus,PRJNA252340,SAMN02870224,whole organism,found,found
+GBPJ00000000.1,GBPJ,Hymenoptera,Ichneumonidae,heteropelma_amictum,PRJNA252184,SAMN02870314,whole organism,found,found
+GBWE00000000.1,GBWE,Hymenoptera,Pompilidae,pompilus_cinereus,PRJNA252245,SAMN02870383,whole organism,found,found
+GBZL00000000.1,GBZL,Lepidoptera,Saturniidae,actias_selene,PRJNA269319,SAMN03252613,silk glands,not found,not found
+GBUA00000000.1,GBUA,Hymenoptera,Crabronidae,alysson_spinosus,PRJNA252289,SAMN02870203,whole organism,not found,not found
+GEBL00000000.1,GEBL,Lepidoptera,Noctuidae,heliothis_virescens,PRJNA301587,SAMN05213682,testes,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948813,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948814,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948815,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948816,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948817,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948818,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948819,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948820,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948821,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948822,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948825,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948826,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948827,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948828,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948829,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948830,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948831,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948832,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948833,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948834,whole organism,not found,not found
+GFNI00000000.1,GFNI,Diptera,Chironomidae,cricotopus_draysoni,PRJNA350713,SAMN05948837,whole organism,not found,not found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010495,whole organism,found,found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010496,whole organism,found,found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010497,whole organism,found,found
+GBHN00000000.1,GBHN,Coleoptera,Chrysomelidae,colaphellus_bowringi,PRJNA209790,SAMN03010498,whole organism,found,found
+GBOJ00000000.1,GBOJ,Hymenoptera,Megachilidae,anthidium_manicatum,PRJNA252257,SAMN02870211,whole organism,not found,not found
+GBNP00000000.1,GBNP,Hymenoptera,Apidae,euglossa_dilemma,PRJNA252310,SAMN02870296,whole organism,not found,not found
+GBMG00000000.1,GBMG,Hymenoptera,Vespidae,eumenes_papillarius,PRJNA252215,SAMN02870297,whole organism,not found,not found
+GECZ00000000.1,GECZ,Hemiptera,Cicadellidae,cuerna_arida,PRJNA303150,SAMN04293493,whole organism,not found,not found
+GECZ00000000.1,GECZ,Hemiptera,Cicadellidae,cuerna_arida,PRJNA303150,SAMN04293494,whole organism,not found,not found
+GECZ00000000.1,GECZ,Hemiptera,Cicadellidae,cuerna_arida,PRJNA303150,SAMN04293495,whole organism,not found,not found
+GBPX00000000.1,GBPX,Hymenoptera,Sphecidae,podalonia_hirsuta,PRJNA252272,SAMN02870381,whole organism,not found,not found
+GBCW00000000.1,GBCW,Lepidoptera,Noctuidae,agrotis_segetum,PRJNA244025,SAMN03438122,whole organism,not found,not found
+GBOH00000000.1,GBOH,Hymenoptera,Vespidae,masaris_aegyptiacus,PRJNA252149,SAMN02870334,whole organism,found,found
+GEYS00000000.1,GEYS,Diptera,Tephritidae,bactrocera_dorsalis,PRJNA341478,SAMN05589108,fat body,not found,not found

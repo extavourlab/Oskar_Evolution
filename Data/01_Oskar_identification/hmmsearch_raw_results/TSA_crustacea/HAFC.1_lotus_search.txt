@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFC01018425.1_5     -          LOTUS_CONSENSUS      -              3e-16   65.2   0.1   7.8e-16   63.9   0.1   1.7   1   0   0   1   1   1   1 TSA: Proasellus karamani, contig comp33912_c0_seq1, transcribed RNA sequence
+HAFC01003822.1_5     -          LOTUS_CONSENSUS      -             0.0047   22.9   0.1     0.051   19.6   0.0   1.9   1   1   1   2   2   2   1 TSA: Proasellus karamani, contig comp4497_c0_seq1, transcribed RNA sequence
+HAFC01141751.1_1     -          LOTUS_CONSENSUS      -               0.03   20.3   0.2        13   11.9   0.1   2.3   1   1   1   2   2   2   0 TSA: Proasellus karamani, contig comp899892_c0_seq1, transcribed RNA sequence
+HAFC01108952.1_4     -          LOTUS_CONSENSUS      -               0.37   16.8   0.2      0.46   16.5   0.2   1.1   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp492853_c0_seq1, transcribed RNA sequence
+HAFC01006637.1_1     -          LOTUS_CONSENSUS      -               0.39   16.8   0.4      0.46   16.5   0.4   1.1   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp10385_c0_seq1, transcribed RNA sequence
+HAFC01066007.1_2     -          LOTUS_CONSENSUS      -               0.39   16.8   0.2      0.75   15.9   0.2   1.6   1   1   0   1   1   1   0 TSA: Proasellus karamani, contig comp76172_c1_seq1, transcribed RNA sequence
+HAFC01171722.1_4     -          LOTUS_CONSENSUS      -               0.66   16.0   0.1        25   11.0   0.1   2.0   1   1   1   2   2   2   0 TSA: Proasellus karamani, contig comp1739672_c0_seq1, transcribed RNA sequence
+HAFC01172256.1_4     -          LOTUS_CONSENSUS      -                1.5   14.9   0.1       1.8   14.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp1759269_c0_seq1, transcribed RNA sequence
+HAFC01177020.1_3     -          LOTUS_CONSENSUS      -                2.1   14.4   0.3       2.6   14.1   0.3   1.1   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp2223821_c0_seq1, transcribed RNA sequence
+HAFC01103350.1_2     -          LOTUS_CONSENSUS      -                2.3   14.3   1.4     3e+02    7.5   0.2   2.1   1   1   1   2   2   2   0 TSA: Proasellus karamani, contig comp420114_c0_seq1, transcribed RNA sequence
+HAFC01062147.1_4     -          LOTUS_CONSENSUS      -                2.4   14.2   0.3       4.4   13.4   0.3   1.5   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp74557_c2_seq1, transcribed RNA sequence
+HAFC01147835.1_4     -          LOTUS_CONSENSUS      -                3.1   13.9   0.1       3.7   13.6   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp1022494_c0_seq1, transcribed RNA sequence
+HAFC01062148.1_4     -          LOTUS_CONSENSUS      -                3.4   13.7   0.3       6.2   12.9   0.3   1.5   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp74557_c2_seq2, transcribed RNA sequence
+HAFC01003826.1_2     -          LOTUS_CONSENSUS      -                5.3   13.1   0.5       7.8   12.6   0.5   1.2   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp4505_c0_seq1, transcribed RNA sequence
+HAFC01060119.1_1     -          LOTUS_CONSENSUS      -                5.6   13.1   1.6   2.3e+02    7.9   0.0   2.7   3   0   0   3   3   3   0 TSA: Proasellus karamani, contig comp73584_c0_seq1, transcribed RNA sequence
+HAFC01155633.1_6     -          LOTUS_CONSENSUS      -                6.1   12.9   0.0       7.2   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp1145777_c0_seq1, transcribed RNA sequence
+HAFC01001768.1_5     -          LOTUS_CONSENSUS      -                8.2   12.5   0.0        22   11.1   0.0   1.8   1   0   0   1   1   1   0 TSA: Proasellus karamani, contig comp2012_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFC.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFC.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFC.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:14 2019
+# [ok]

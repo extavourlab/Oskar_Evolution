@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GANH01002091.1_3     -          LOTUS_CONSENSUS      -            6.8e-23   82.9   0.0   1.7e-22   81.6   0.0   1.7   1   0   0   1   1   1   1 TSA: Microplitis demolitor Mdpara_comp29762_c0_seq1 transcribed RNA sequence
+GANH01012779.1_2     -          LOTUS_CONSENSUS      -              6e-16   60.6   0.3   3.9e-15   58.0   0.0   2.5   2   0   0   2   2   2   1 TSA: Microplitis demolitor Mdpara_comp38458_c0_seq1 transcribed RNA sequence
+GANH01001083.1_1     -          LOTUS_CONSENSUS      -              1e-06   31.0   0.1       5.4    9.5   0.0   6.0   3   2   2   5   5   5   2 TSA: Microplitis demolitor Mdpara_comp21821_c0_seq2 transcribed RNA sequence
+GANH01001082.1_1     -          LOTUS_CONSENSUS      -            2.4e-06   29.9   0.1       6.5    9.2   0.0   6.0   3   2   2   5   5   5   2 TSA: Microplitis demolitor Mdpara_comp21821_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GANH01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GANH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:38 2019
+# [ok]

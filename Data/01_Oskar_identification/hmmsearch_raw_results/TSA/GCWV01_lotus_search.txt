@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWV01029993.1_3     -          LOTUS_CONSENSUS      -            1.2e-19   74.1   0.5   6.9e-15   58.9   0.0   4.0   2   1   1   3   3   3   2 TSA: Dactylopius confusus breed wildtype s11039_L_34315_0_40_2_BUBBLE, transcribed RNA sequence
+GCWV01029995.1_3     -          LOTUS_CONSENSUS      -            1.5e-19   73.9   0.4   7.5e-15   58.8   0.0   4.0   2   1   1   3   3   3   2 TSA: Dactylopius confusus breed wildtype s11040_L_34315_1_39_5_BUBBLE, transcribed RNA sequence
+GCWV01035086.1_4     -          LOTUS_CONSENSUS      -            1.1e-17   67.8   0.0   1.2e-15   61.4   0.0   2.9   2   0   0   2   2   2   1 TSA: Dactylopius confusus breed wildtype s1562_L_3655_4_51_6_COMPLEX, transcribed RNA sequence
+GCWV01035042.1_5     -          LOTUS_CONSENSUS      -            2.1e-17   67.0   0.0   1.7e-15   60.9   0.0   2.9   2   0   0   2   2   2   1 TSA: Dactylopius confusus breed wildtype s1558_L_3655_0_49_8_COMPLEX, transcribed RNA sequence
+GCWV01035053.1_4     -          LOTUS_CONSENSUS      -            9.9e-17   64.8   0.0   4.8e-16   62.6   0.0   2.2   1   0   0   1   1   1   1 TSA: Dactylopius confusus breed wildtype s1559_L_3655_1_40_1_COMPLEX, transcribed RNA sequence
+GCWV01033454.1_6     -          LOTUS_CONSENSUS      -            8.1e-05   26.6   0.0        70    7.6   0.0   5.3   4   1   1   5   5   5   1 TSA: Dactylopius confusus breed wildtype s14159_L_47894_0_58_8_LINEAR, transcribed RNA sequence
+GCWV01027856.1_4     -          LOTUS_CONSENSUS      -                1.2   13.2   0.1       1.7   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Dactylopius confusus breed wildtype C96779_2_0, transcribed RNA sequence
+GCWV01020464.1_5     -          LOTUS_CONSENSUS      -                1.4   13.0   0.9       9.3   10.4   0.1   2.9   2   1   0   2   2   2   0 TSA: Dactylopius confusus breed wildtype C187498_41_0, transcribed RNA sequence
+GCWV01003058.1_6     -          LOTUS_CONSENSUS      -                1.8   12.8   0.3       2.1   12.5   0.3   1.2   1   0   0   1   1   1   0 TSA: Dactylopius confusus breed wildtype C110019_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:06 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGMS01002383.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-19   70.3   0.7   8.2e-19   70.3   0.7   2.2   2   0   0   2   2   2   1 TSA: Sipha flava TR_DN17313_c6_g4_i1 transcribed RNA sequence
+GGMS01010780.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-17   64.4   1.0   5.7e-17   64.4   1.0   2.7   2   1   1   3   3   3   1 TSA: Sipha flava TR_DN19836_c1_g1_i6 transcribed RNA sequence
+GGMS01001620.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-17   64.1   1.0   6.7e-17   64.1   1.0   4.0   2   1   4   6   6   6   1 TSA: Sipha flava TR_DN19836_c1_g1_i3 transcribed RNA sequence
+GGMS01005865.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-17   64.0   0.2   7.4e-17   64.0   0.2   4.2   5   0   0   5   5   5   1 TSA: Sipha flava TR_DN18091_c1_g2_i12 transcribed RNA sequence
+GGMS01005365.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-16   63.5   0.2   1.1e-16   63.5   0.2   3.8   5   0   0   5   5   5   1 TSA: Sipha flava TR_DN18091_c1_g2_i5 transcribed RNA sequence
+GGMS01004281.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.7e-15   57.5   0.1   3.1e-14   55.6   0.1   2.1   1   0   0   1   1   1   1 TSA: Sipha flava TR_DN16555_c1_g2_i7 transcribed RNA sequence
+GGMS01012262.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-14   55.3   0.1   3.7e-14   55.3   0.1   2.6   2   1   0   2   2   2   1 TSA: Sipha flava TR_DN16555_c1_g2_i4 transcribed RNA sequence
+GGMS01013195.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-08   35.8   0.0        17    8.3   0.0   7.1   3   2   4   7   7   7   1 TSA: Sipha flava TR_DN17289_c4_g1_i10 transcribed RNA sequence
+GGMS01010230.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.066   16.0   0.2       1.6   11.5   0.0   2.6   2   0   0   2   2   2   0 TSA: Sipha flava TR_DN18525_c3_g1_i20 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGMS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:06 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002096875.1       -          oskar_filtered.aligned.LOTUS_domain -            3.3e-25   88.6   0.2   1.7e-24   86.4   0.2   2.3   1   0   0   1   1   1   1 uncharacterized protein Dyak_GE25914 [Drosophila yakuba]
+XP_015051953.1       -          oskar_filtered.aligned.LOTUS_domain -            6.3e-15   55.7   0.0   2.8e-14   53.6   0.0   2.1   2   0   0   2   2   2   1 uncharacterized protein Dyak_GE12320, isoform B [Drosophila yakuba]
+XP_002091292.1       -          oskar_filtered.aligned.LOTUS_domain -            6.4e-15   55.6   0.0   2.7e-14   53.7   0.0   2.0   2   0   0   2   2   2   1 uncharacterized protein Dyak_GE12320, isoform A [Drosophila yakuba]
+XP_002091700.2       -          oskar_filtered.aligned.LOTUS_domain -            7.4e-14   52.2   1.3   1.6e-13   51.2   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein Dyak_GE12104 [Drosophila yakuba]
+XP_002090814.1       -          oskar_filtered.aligned.LOTUS_domain -            3.4e-05   24.4   0.0   3.7e-05   24.3   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein Dyak_GE13311 [Drosophila yakuba]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005975.2_dyak_caf1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005975.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005975.2_dyak_caf1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:32 2019
+# [ok]

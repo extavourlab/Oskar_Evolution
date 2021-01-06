@@ -1,0 +1,25 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDMW01044286.1_4     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-20   74.9   0.7   2.1e-17   67.1   0.0   3.4   4   0   0   4   4   3   1 TSA: Haliplus fluviatilis breed wildtype s8534_L_9498_0_a_33_3_l_3624, transcribed RNA sequence
+GDMW01044287.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.7e-18   68.3   0.0   2.1e-17   67.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Haliplus fluviatilis breed wildtype s8535_L_9498_1_a_33_3_l_3636, transcribed RNA sequence
+GDMW01038147.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-15   59.4   0.4   2.9e-11   47.3   0.0   3.6   3   0   0   3   3   3   2 TSA: Haliplus fluviatilis breed wildtype s299_L_231_1_a_31_5_l_2631, transcribed RNA sequence
+GDMW01038159.1_1     -          oskar_filtered.aligned.LOTUS_domain -              1e-13   55.2   4.3   4.9e-11   46.6   0.0   4.3   5   0   0   5   5   5   2 TSA: Haliplus fluviatilis breed wildtype s300_L_231_2_a_37_4_l_3986, transcribed RNA sequence
+GDMW01038136.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-13   54.6   4.7   5.1e-11   46.6   0.0   4.3   5   0   0   5   5   5   2 TSA: Haliplus fluviatilis breed wildtype s298_L_231_0_a_37_3_l_4108, transcribed RNA sequence
+GDMW01005149.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.14   16.3   0.2      0.17   16.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Haliplus fluviatilis breed wildtype C150743_a_7_0_l_231, transcribed RNA sequence
+GDMW01025908.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.17   16.0   0.7      0.66   14.1   0.1   2.2   2   1   0   2   2   2   0 TSA: Haliplus fluviatilis breed wildtype C227001_a_6_0_l_917, transcribed RNA sequence
+GDMW01021065.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.29   15.3   1.3       0.6   14.2   1.3   1.7   1   1   0   1   1   1   0 TSA: Haliplus fluviatilis breed wildtype C204269_a_10_0_l_467, transcribed RNA sequence
+GDMW01026602.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.44   14.7   4.1       1.7   12.8   0.1   3.0   3   0   0   3   3   2   0 TSA: Haliplus fluviatilis breed wildtype C230789_a_63_0_l_1094, transcribed RNA sequence
+GDMW01028139.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.56   14.3   2.6        37    8.5   0.0   3.5   3   1   0   3   3   3   0 TSA: Haliplus fluviatilis breed wildtype C239235_a_4_0_l_1894, transcribed RNA sequence
+GDMW01024744.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.65   14.1   1.9       2.8   12.1   0.4   2.2   2   0   0   2   2   2   0 TSA: Haliplus fluviatilis breed wildtype C221027_a_7_0_l_736, transcribed RNA sequence
+GDMW01029894.1_5     -          oskar_filtered.aligned.LOTUS_domain -                7.8   10.7   3.1       3.5   11.8   0.3   1.8   2   0   0   2   2   2   0 TSA: Haliplus fluviatilis breed wildtype s10867_L_13836_1_a_12_0_l_1190, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDMW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDMW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDMW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:56 2019
+# [ok]

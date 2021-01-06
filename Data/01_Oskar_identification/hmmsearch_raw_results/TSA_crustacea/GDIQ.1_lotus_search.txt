@@ -1,0 +1,107 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDIQ01092475.1_3     -          LOTUS_CONSENSUS      -            2.8e-12   51.7   0.0   1.7e-11   49.2   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t23 transcribed RNA sequence
+GDIQ01049406.1_2     -          LOTUS_CONSENSUS      -            3.2e-12   51.5   0.0   1.9e-11   49.1   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t15 transcribed RNA sequence
+GDIQ01036952.1_2     -          LOTUS_CONSENSUS      -            3.8e-12   51.3   0.0   2.1e-11   48.9   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t3 transcribed RNA sequence
+GDIQ01081878.1_3     -          LOTUS_CONSENSUS      -            3.8e-12   51.3   0.0   2.1e-11   48.9   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t4 transcribed RNA sequence
+GDIQ01019121.1_2     -          LOTUS_CONSENSUS      -              4e-12   51.2   0.0   2.1e-11   48.9   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t1 transcribed RNA sequence
+GDIQ01089973.1_3     -          LOTUS_CONSENSUS      -            4.7e-12   51.0   0.0   2.5e-11   48.7   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t10 transcribed RNA sequence
+GDIQ01061342.1_2     -          LOTUS_CONSENSUS      -            4.8e-12   51.0   0.0   2.5e-11   48.7   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t6 transcribed RNA sequence
+GDIQ01089974.1_3     -          LOTUS_CONSENSUS      -            4.9e-12   50.9   0.0   2.5e-11   48.6   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t16 transcribed RNA sequence
+GDIQ01089975.1_3     -          LOTUS_CONSENSUS      -            4.9e-12   50.9   0.0   2.5e-11   48.6   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t25 transcribed RNA sequence
+GDIQ01092477.1_1     -          LOTUS_CONSENSUS      -              5e-12   50.9   0.0   2.5e-11   48.6   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t7 transcribed RNA sequence
+GDIQ01039002.1_3     -          LOTUS_CONSENSUS      -              5e-12   50.9   0.0   2.5e-11   48.6   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t8 transcribed RNA sequence
+GDIQ01041904.1_3     -          LOTUS_CONSENSUS      -            5.1e-12   50.9   0.0   2.5e-11   48.6   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t9 transcribed RNA sequence
+GDIQ01092476.1_1     -          LOTUS_CONSENSUS      -            5.1e-12   50.9   0.0   2.5e-11   48.6   0.0   2.1   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t26 transcribed RNA sequence
+GDIQ01088125.1_1     -          LOTUS_CONSENSUS      -            1.1e-11   49.8   0.0   2.4e-11   48.7   0.0   1.5   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm001267t27 transcribed RNA sequence
+GDIQ01053947.1_3     -          LOTUS_CONSENSUS      -            3.1e-10   45.1   0.0   1.4e-09   43.0   0.0   2.0   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm001267t11 transcribed RNA sequence
+GDIQ01041903.1_1     -          LOTUS_CONSENSUS      -            3.4e-10   45.0   0.0   7.6e-10   43.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm001267t42 transcribed RNA sequence
+GDIQ01031162.1_3     -          LOTUS_CONSENSUS      -            2.7e-08   38.9   0.2   1.8e-07   36.3   0.0   2.3   2   0   0   2   2   2   1 TSA: Daphnia magna Dapma6tiEVm002872t20 transcribed RNA sequence
+GDIQ01066299.1_1     -          LOTUS_CONSENSUS      -              3e-08   38.8   0.2   1.9e-07   36.2   0.0   2.3   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t12 transcribed RNA sequence
+GDIQ01041902.1_1     -          LOTUS_CONSENSUS      -            3.1e-08   38.7   0.0   6.3e-08   37.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm001267t38 transcribed RNA sequence
+GDIQ01061701.1_3     -          LOTUS_CONSENSUS      -            3.1e-08   38.7   0.2   1.9e-07   36.2   0.0   2.3   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t6 transcribed RNA sequence
+GDIQ01064898.1_3     -          LOTUS_CONSENSUS      -            3.2e-08   38.7   0.2     2e-07   36.1   0.0   2.3   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t7 transcribed RNA sequence
+GDIQ01034718.1_1     -          LOTUS_CONSENSUS      -            3.3e-08   38.6   0.2     2e-07   36.1   0.0   2.3   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t14 transcribed RNA sequence
+GDIQ01081941.1_2     -          LOTUS_CONSENSUS      -            3.3e-08   38.6   0.2     2e-07   36.1   0.0   2.3   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t10 transcribed RNA sequence
+GDIQ01021132.1_1     -          LOTUS_CONSENSUS      -            3.5e-08   38.6   0.2   2.2e-07   36.0   0.0   2.3   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t1 transcribed RNA sequence
+GDIQ01047856.1_2     -          LOTUS_CONSENSUS      -            3.5e-08   38.6   0.2   2.1e-07   36.1   0.0   2.2   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t16 transcribed RNA sequence
+GDIQ01046211.1_2     -          LOTUS_CONSENSUS      -            3.5e-08   38.6   0.2   2.1e-07   36.1   0.0   2.2   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002872t17 transcribed RNA sequence
+GDIQ01038555.1_1     -          LOTUS_CONSENSUS      -            5.6e-08   37.9   0.0   1.2e-07   36.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t110 transcribed RNA sequence
+GDIQ01096574.1_2     -          LOTUS_CONSENSUS      -            7.4e-08   37.5   0.0   1.6e-07   36.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t85 transcribed RNA sequence
+GDIQ01096572.1_2     -          LOTUS_CONSENSUS      -            7.4e-08   37.5   0.0   1.6e-07   36.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t72 transcribed RNA sequence
+GDIQ01096573.1_2     -          LOTUS_CONSENSUS      -            7.4e-08   37.5   0.0   1.6e-07   36.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t84 transcribed RNA sequence
+GDIQ01088673.1_3     -          LOTUS_CONSENSUS      -            7.6e-08   37.5   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t6 transcribed RNA sequence
+GDIQ01063344.1_3     -          LOTUS_CONSENSUS      -            7.9e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t25 transcribed RNA sequence
+GDIQ01098185.1_2     -          LOTUS_CONSENSUS      -            7.9e-08   37.4   0.0   1.8e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t26 transcribed RNA sequence
+GDIQ01063343.1_3     -          LOTUS_CONSENSUS      -            7.9e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t24 transcribed RNA sequence
+GDIQ01052363.1_1     -          LOTUS_CONSENSUS      -            7.9e-08   37.4   0.0   1.8e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t23 transcribed RNA sequence
+GDIQ01064850.1_3     -          LOTUS_CONSENSUS      -              8e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t67 transcribed RNA sequence
+GDIQ01083526.1_2     -          LOTUS_CONSENSUS      -              8e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t66 transcribed RNA sequence
+GDIQ01094781.1_1     -          LOTUS_CONSENSUS      -            8.1e-08   37.4   0.0   1.9e-07   36.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t7 transcribed RNA sequence
+GDIQ01064849.1_3     -          LOTUS_CONSENSUS      -            8.1e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t65 transcribed RNA sequence
+GDIQ01083525.1_2     -          LOTUS_CONSENSUS      -            8.1e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t64 transcribed RNA sequence
+GDIQ01066199.1_3     -          LOTUS_CONSENSUS      -            8.1e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t9 transcribed RNA sequence
+GDIQ01038556.1_1     -          LOTUS_CONSENSUS      -            8.1e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t22 transcribed RNA sequence
+GDIQ01041511.1_2     -          LOTUS_CONSENSUS      -            8.1e-08   37.4   0.0     2e-07   36.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t41 transcribed RNA sequence
+GDIQ01082185.1_1     -          LOTUS_CONSENSUS      -            8.2e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t70 transcribed RNA sequence
+GDIQ01090129.1_1     -          LOTUS_CONSENSUS      -            8.2e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t34 transcribed RNA sequence
+GDIQ01092576.1_2     -          LOTUS_CONSENSUS      -            8.2e-08   37.4   0.0     2e-07   36.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t38 transcribed RNA sequence
+GDIQ01045956.1_3     -          LOTUS_CONSENSUS      -            8.2e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t58 transcribed RNA sequence
+GDIQ01088625.1_3     -          LOTUS_CONSENSUS      -            8.2e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t71 transcribed RNA sequence
+GDIQ01045955.1_3     -          LOTUS_CONSENSUS      -            8.3e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t57 transcribed RNA sequence
+GDIQ01031467.1_2     -          LOTUS_CONSENSUS      -            8.3e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t40 transcribed RNA sequence
+GDIQ01043908.1_3     -          LOTUS_CONSENSUS      -            8.3e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t69 transcribed RNA sequence
+GDIQ01038557.1_1     -          LOTUS_CONSENSUS      -            8.3e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t3 transcribed RNA sequence
+GDIQ01047816.1_3     -          LOTUS_CONSENSUS      -            8.3e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t60 transcribed RNA sequence
+GDIQ01043907.1_3     -          LOTUS_CONSENSUS      -            8.3e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t68 transcribed RNA sequence
+GDIQ01086834.1_2     -          LOTUS_CONSENSUS      -            8.4e-08   37.4   0.0   1.8e-07   36.3   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t74 transcribed RNA sequence
+GDIQ01038558.1_1     -          LOTUS_CONSENSUS      -            8.4e-08   37.4   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t76 transcribed RNA sequence
+GDIQ01073744.1_1     -          LOTUS_CONSENSUS      -            8.5e-08   37.3   0.0     2e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t37 transcribed RNA sequence
+GDIQ01080631.1_1     -          LOTUS_CONSENSUS      -            8.5e-08   37.3   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t48 transcribed RNA sequence
+GDIQ01059591.1_1     -          LOTUS_CONSENSUS      -            8.5e-08   37.3   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t8 transcribed RNA sequence
+GDIQ01076486.1_2     -          LOTUS_CONSENSUS      -            8.5e-08   37.3   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t42 transcribed RNA sequence
+GDIQ01043909.1_3     -          LOTUS_CONSENSUS      -            8.7e-08   37.3   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t91 transcribed RNA sequence
+GDIQ01064851.1_3     -          LOTUS_CONSENSUS      -            8.8e-08   37.3   0.0   1.9e-07   36.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t75 transcribed RNA sequence
+GDIQ01011799.1_1     -          LOTUS_CONSENSUS      -            8.9e-08   37.3   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t1 transcribed RNA sequence
+GDIQ01098184.1_2     -          LOTUS_CONSENSUS      -              9e-08   37.2   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t2 transcribed RNA sequence
+GDIQ01090130.1_1     -          LOTUS_CONSENSUS      -            9.1e-08   37.2   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t94 transcribed RNA sequence
+GDIQ01092577.1_2     -          LOTUS_CONSENSUS      -            9.2e-08   37.2   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t95 transcribed RNA sequence
+GDIQ01050857.1_1     -          LOTUS_CONSENSUS      -            9.2e-08   37.2   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t78 transcribed RNA sequence
+GDIQ01061650.1_2     -          LOTUS_CONSENSUS      -            9.3e-08   37.2   0.0   2.2e-07   36.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t46 transcribed RNA sequence
+GDIQ01061651.1_2     -          LOTUS_CONSENSUS      -            9.4e-08   37.2   0.0   2.2e-07   36.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t47 transcribed RNA sequence
+GDIQ01076487.1_2     -          LOTUS_CONSENSUS      -            9.4e-08   37.2   0.0     2e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t80 transcribed RNA sequence
+GDIQ01059592.1_1     -          LOTUS_CONSENSUS      -            9.5e-08   37.2   0.0   2.1e-07   36.1   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t82 transcribed RNA sequence
+GDIQ01073745.1_1     -          LOTUS_CONSENSUS      -            9.5e-08   37.2   0.0     2e-07   36.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm002082t79 transcribed RNA sequence
+GDIQ01039001.1_3     -          LOTUS_CONSENSUS      -            1.3e-07   36.7   0.0   2.9e-07   35.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm001267t43 transcribed RNA sequence
+GDIQ01039000.1_3     -          LOTUS_CONSENSUS      -            2.5e-07   35.9   0.0     5e-07   34.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Daphnia magna Dapma6tiEVm001267t36 transcribed RNA sequence
+GDIQ01056991.1_1     -          LOTUS_CONSENSUS      -             0.0052   22.0   0.0     0.017   20.4   0.0   1.8   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002082t103 transcribed RNA sequence
+GDIQ01056992.1_1     -          LOTUS_CONSENSUS      -             0.0052   22.0   0.0     0.017   20.4   0.0   1.8   2   0   0   2   2   1   1 TSA: Daphnia magna Dapma6tiEVm002082t99 transcribed RNA sequence
+GDIQ01078338.1_2     -          LOTUS_CONSENSUS      -                1.4   14.1   1.0   1.3e+02    7.9   0.0   2.8   3   0   0   3   3   2   0 TSA: Daphnia magna Dapma6tiEVm002213t55 transcribed RNA sequence
+GDIQ01045458.1_3     -          LOTUS_CONSENSUS      -                3.6   12.9   0.0   1.6e+03    4.4   0.0   4.3   3   2   1   4   4   3   0 TSA: Daphnia magna Dapma6tiEVm000711t62 transcribed RNA sequence
+GDIQ01097779.1_2     -          LOTUS_CONSENSUS      -                3.8   12.8   0.0   1.6e+03    4.4   0.0   4.3   3   2   1   4   4   3   0 TSA: Daphnia magna Dapma6tiEVm000711t49 transcribed RNA sequence
+GDIQ01099236.1_1     -          LOTUS_CONSENSUS      -                3.8   12.8   0.0   1.6e+03    4.4   0.0   4.3   3   2   1   4   4   3   0 TSA: Daphnia magna Dapma6tiEVm000711t34 transcribed RNA sequence
+GDIQ01048793.1_3     -          LOTUS_CONSENSUS      -                3.9   12.8   0.0   1.6e+03    4.4   0.0   4.3   3   2   1   4   4   3   0 TSA: Daphnia magna Dapma6tiEVm000711t52 transcribed RNA sequence
+GDIQ01076127.1_1     -          LOTUS_CONSENSUS      -                3.9   12.8   0.0   1.6e+03    4.4   0.0   4.3   3   2   1   4   4   3   0 TSA: Daphnia magna Dapma6tiEVm000711t46 transcribed RNA sequence
+GDIQ01056400.1_1     -          LOTUS_CONSENSUS      -                4.1   12.7   0.0   2.1e+03    4.0   0.0   4.6   4   2   1   5   5   3   0 TSA: Daphnia magna Dapma6tiEVm000711t7 transcribed RNA sequence
+GDIQ01050246.1_3     -          LOTUS_CONSENSUS      -                4.1   12.7   0.0   1.6e+03    4.4   0.0   4.3   3   2   2   5   5   3   0 TSA: Daphnia magna Dapma6tiEVm000711t51 transcribed RNA sequence
+GDIQ01081981.1_3     -          LOTUS_CONSENSUS      -                4.5   12.6   0.0   2.2e+03    4.0   0.0   4.6   4   2   1   5   5   3   0 TSA: Daphnia magna Dapma6tiEVm000711t16 transcribed RNA sequence
+GDIQ01040856.1_2     -          LOTUS_CONSENSUS      -                4.5   12.6   0.0   1.7e+03    4.3   0.0   4.2   3   2   1   4   4   3   0 TSA: Daphnia magna Dapma6tiEVm000711t54 transcribed RNA sequence
+GDIQ01096125.1_3     -          LOTUS_CONSENSUS      -                4.5   12.6   0.0   2.2e+03    4.0   0.0   4.6   4   2   1   5   5   3   0 TSA: Daphnia magna Dapma6tiEVm000711t21 transcribed RNA sequence
+GDIQ01043301.1_2     -          LOTUS_CONSENSUS      -                4.6   12.5   0.0   1.7e+03    4.3   0.0   4.2   3   2   1   4   4   3   0 TSA: Daphnia magna Dapma6tiEVm000711t59 transcribed RNA sequence
+GDIQ01040855.1_2     -          LOTUS_CONSENSUS      -                4.9   12.4   0.0   2.3e+03    3.9   0.0   4.6   4   2   1   5   5   3   0 TSA: Daphnia magna Dapma6tiEVm000711t11 transcribed RNA sequence
+GDIQ01034454.1_2     -          LOTUS_CONSENSUS      -                5.1   12.4   0.0   1.3e+02    7.8   0.0   2.4   1   1   0   1   1   1   0 TSA: Daphnia magna Dapma6tiEVm002082t54 transcribed RNA sequence
+GDIQ01034010.1_3     -          LOTUS_CONSENSUS      -                5.7   12.2   1.0     3e+02    6.7   0.0   3.0   3   0   0   3   3   2   0 TSA: Daphnia magna Dapma6tiEVm002213t24 transcribed RNA sequence
+GDIQ01096779.1_1     -          LOTUS_CONSENSUS      -                  6   12.2   1.0   2.8e+02    6.8   0.0   2.8   3   0   0   3   3   2   0 TSA: Daphnia magna Dapma6tiEVm002213t22 transcribed RNA sequence
+GDIQ01099689.1_3     -          LOTUS_CONSENSUS      -                6.4   12.1   1.0     3e+02    6.7   0.0   2.8   3   0   0   3   3   2   0 TSA: Daphnia magna Dapma6tiEVm002213t25 transcribed RNA sequence
+GDIQ01050565.1_1     -          LOTUS_CONSENSUS      -                6.5   12.1   1.0   3.2e+02    6.6   0.0   3.0   3   0   0   3   3   2   0 TSA: Daphnia magna Dapma6tiEVm002213t23 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDIQ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GDIQ.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDIQ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:50 2019
+# [ok]

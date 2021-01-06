@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYF02020537.1_5     -          OSK_CONSENSUS        -              6e-24   88.1   0.0     9e-24   87.6   0.0   1.2   1   0   0   1   1   1   1 TSA: Nilaparvata lugens C167077_a_4_0_l_956 transcribed RNA sequence
+GAYF02028067.1_3     -          OSK_CONSENSUS        -               0.28   14.5   0.6      0.28   14.5   0.6   2.5   3   0   0   3   3   3   0 TSA: Nilaparvata lugens s10154_L_27228_0_a_17_3_l_3201 transcribed RNA sequence
+GAYF02020976.1_2     -          OSK_CONSENSUS        -               0.61   13.4   0.0       1.8   11.8   0.0   1.8   1   0   0   1   1   1   0 TSA: Nilaparvata lugens C168689_a_7_0_l_1018 transcribed RNA sequence
+GAYF02011350.1_3     -          OSK_CONSENSUS        -                0.8   13.0   0.5         4   10.7   0.1   1.9   2   0   0   2   2   2   0 TSA: Nilaparvata lugens C135364_a_3_0_l_398 transcribed RNA sequence
+GAYF02016797.1_5     -          OSK_CONSENSUS        -                1.2   12.5   0.1       2.2   11.5   0.1   1.4   1   0   0   1   1   1   0 TSA: Nilaparvata lugens C153849_a_3_0_l_619 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYF02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYF02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYF02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:40 2019
+# [ok]

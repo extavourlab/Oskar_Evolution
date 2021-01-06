@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCVV01027736.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.3e-11   46.3   0.0     1e-10   45.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Empoasca fabae breed wildtype C395035_3_0, transcribed RNA sequence
+GCVV01044601.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-06   32.6   0.0   4.9e-06   30.8   0.0   2.0   2   0   0   2   2   2   1 TSA: Empoasca fabae breed wildtype s19869_L_73339_0_9_6_LINEAR, transcribed RNA sequence
+GCVV01040890.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.043   18.1   0.0       8.4   10.8   0.0   2.8   2   0   0   2   2   2   0 TSA: Empoasca fabae breed wildtype s16527_L_52918_0_5_9_LINEAR, transcribed RNA sequence
+GCVV01017429.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.2   0.0       1.8   12.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Empoasca fabae breed wildtype C351235_3_0, transcribed RNA sequence
+GCVV01036252.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.5   13.1   0.1       1.7   13.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Empoasca fabae breed wildtype s1234_L_1826_0_2_0_FORK, transcribed RNA sequence
+GCVV01036335.1_6     -          oskar_filtered.aligned.LOTUS_domain -                2.4   12.5   0.1        17    9.8   0.0   2.1   2   0   0   2   2   2   0 TSA: Empoasca fabae breed wildtype s12424_L_34144_0_32_9_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCVV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:35 2019
+# [ok]

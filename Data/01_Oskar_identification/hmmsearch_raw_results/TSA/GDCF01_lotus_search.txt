@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCF01063859.1_6     -          LOTUS_CONSENSUS      -               0.33   15.9   0.4      0.82   14.6   0.0   1.8   2   0   0   2   2   2   0 TSA: Aularches miliaris breed breeding C262350_a_8_0_l_844, transcribed RNA sequence
+GDCF01046368.1_1     -          LOTUS_CONSENSUS      -               0.85   14.5   0.2       1.6   13.7   0.0   1.6   1   1   1   2   2   2   0 TSA: Aularches miliaris breed breeding C219285_a_4_0_l_345, transcribed RNA sequence
+GDCF01008523.1_1     -          LOTUS_CONSENSUS      -                1.3   13.9   0.9       2.5   13.0   0.4   1.6   1   1   1   2   2   2   0 TSA: Aularches miliaris breed breeding C136765_a_3_0_l_235, transcribed RNA sequence
+GDCF01037517.1_6     -          LOTUS_CONSENSUS      -                1.4   13.8   0.6       3.6   12.5   0.6   1.7   1   1   0   1   1   1   0 TSA: Aularches miliaris breed breeding C197719_a_13_0_l_272, transcribed RNA sequence
+GDCF01072367.1_2     -          LOTUS_CONSENSUS      -                2.3   13.2   2.3       3.6   12.5   0.6   1.9   2   0   0   2   2   2   0 TSA: Aularches miliaris breed breeding s4182_L_11937_0_a_3_4_l_384, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:53 2019
+# [ok]

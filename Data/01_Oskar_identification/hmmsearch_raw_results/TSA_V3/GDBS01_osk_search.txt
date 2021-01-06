@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBS01059034.1_5     -          oskar_filtered.aligned.OSK_domain -            1.2e-08   39.6   0.1   2.3e-08   38.7   0.1   1.5   1   0   0   1   1   1   1 TSA: Ergaula capucina breed breeding C400863_a_3_0_l_992, transcribed RNA sequence
+GDBS01056711.1_5     -          oskar_filtered.aligned.OSK_domain -               0.56   14.6   0.4      0.76   14.2   0.4   1.4   1   0   0   1   1   1   0 TSA: Ergaula capucina breed breeding C392924_a_18_0_l_796, transcribed RNA sequence
+GDBS01081329.1_3     -          oskar_filtered.aligned.OSK_domain -                1.6   13.1   0.8         2   12.8   0.8   1.2   1   0   0   1   1   1   0 TSA: Ergaula capucina breed breeding s5712_L_7315_0_a_5_3_l_450, transcribed RNA sequence
+GDBS01019920.1_3     -          oskar_filtered.aligned.OSK_domain -                4.6   11.6   0.9       6.3   11.2   0.9   1.3   1   1   0   1   1   1   0 TSA: Ergaula capucina breed breeding C281438_a_6_0_l_251, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:18 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAPW01002655.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.075   14.5   0.2        48    5.5   0.0   3.0   3   0   0   3   3   3   0 TSA: Aedes albopictus Aa-13067 mRNA sequence
+GAPW01002645.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.096   14.1   0.4        30    6.1   0.0   3.1   3   0   0   3   3   3   0 TSA: Aedes albopictus Aa-9225 mRNA sequence
+GAPW01002658.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.096   14.1   0.4        30    6.1   0.0   3.1   3   0   0   3   3   3   0 TSA: Aedes albopictus Aa-13063 mRNA sequence
+GAPW01003472.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.23   12.9   0.3       8.8    7.8   0.0   2.8   3   0   0   3   3   3   0 TSA: Aedes albopictus Aa-22779 mRNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAPW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:20 2019
+# [ok]

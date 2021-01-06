@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFWX01082944.1_5     -          OSK_CONSENSUS        -            1.1e-29  108.2   0.0   1.7e-29  107.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Ischnura elegans c582343_g2_i2 transcribed RNA sequence
+GFWX01009512.1_5     -          OSK_CONSENSUS        -            1.4e-05   29.9   0.0   3.3e-05   28.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Ischnura elegans Contig12415 transcribed RNA sequence
+GFWX01060000.1_1     -          OSK_CONSENSUS        -            0.00028   25.6   0.1    0.0013   23.4   0.1   1.9   1   1   1   2   2   2   1 TSA: Ischnura elegans c568027_g1_i3 transcribed RNA sequence
+GFWX01060001.1_2     -          OSK_CONSENSUS        -             0.0019   22.9   0.0     0.002   22.8   0.0   1.0   1   0   0   1   1   1   1 TSA: Ischnura elegans c568027_g1_i4 transcribed RNA sequence
+GFWX01010955.1_3     -          OSK_CONSENSUS        -              0.044   18.5   0.5     0.044   18.5   0.5   1.9   2   0   0   2   2   2   0 TSA: Ischnura elegans Contig18586 transcribed RNA sequence
+GFWX01090664.1_2     -          OSK_CONSENSUS        -              0.082   17.6   0.9       0.2   16.3   0.9   1.6   1   0   0   1   1   1   0 TSA: Ischnura elegans c585703_g3_i4 transcribed RNA sequence
+GFWX01090663.1_2     -          OSK_CONSENSUS        -              0.084   17.5   0.9       0.2   16.3   0.9   1.6   1   0   0   1   1   1   0 TSA: Ischnura elegans c585703_g3_i3 transcribed RNA sequence
+GFWX01026244.1_4     -          OSK_CONSENSUS        -               0.13   16.9   0.0      0.13   16.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Ischnura elegans c331921_g1_i1 transcribed RNA sequence
+GFWX01064820.1_3     -          OSK_CONSENSUS        -               0.42   15.3   0.0      0.69   14.6   0.0   1.4   1   0   0   1   1   1   0 TSA: Ischnura elegans c572545_g4_i2 transcribed RNA sequence
+GFWX01060810.1_6     -          OSK_CONSENSUS        -               0.42   15.3   0.2      0.48   15.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Ischnura elegans c568965_g3_i1 transcribed RNA sequence
+GFWX01044376.1_1     -          OSK_CONSENSUS        -                1.1   13.9   0.5       1.3   13.6   0.5   1.0   1   0   0   1   1   1   0 TSA: Ischnura elegans c517743_g2_i1 transcribed RNA sequence
+GFWX01101861.1_3     -          OSK_CONSENSUS        -                1.5   13.5   1.4        85    7.8   2.3   2.1   2   0   0   2   2   2   0 TSA: Ischnura elegans c844878_g1_i1 transcribed RNA sequence
+GFWX01059658.1_5     -          OSK_CONSENSUS        -                2.4   12.8   0.0       2.6   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Ischnura elegans c567626_g1_i1 transcribed RNA sequence
+GFWX01059659.1_6     -          OSK_CONSENSUS        -                2.6   12.7   0.0       2.6   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Ischnura elegans c567626_g1_i2 transcribed RNA sequence
+GFWX01069760.1_2     -          OSK_CONSENSUS        -                8.1   11.1   0.0        11   10.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Ischnura elegans c575844_g2_i6 transcribed RNA sequence
+GFWX01023083.1_3     -          OSK_CONSENSUS        -                9.8   10.8   2.3       7.2   11.3   0.3   1.8   2   1   0   2   2   2   0 TSA: Ischnura elegans c284301_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFWX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:38 2019
+# [ok]

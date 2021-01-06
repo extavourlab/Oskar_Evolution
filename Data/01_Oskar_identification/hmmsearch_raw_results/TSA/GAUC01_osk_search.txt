@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUC01055026.1_2     -          OSK_CONSENSUS        -            1.2e-23   87.9   0.1   2.9e-23   86.8   0.1   1.6   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unitig_55342 transcribed RNA sequence
+GAUC01001611.1_1     -          OSK_CONSENSUS        -               0.12   16.5   0.1      0.16   16.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_1613 transcribed RNA sequence
+GAUC01019321.1_2     -          OSK_CONSENSUS        -                1.1   13.3   0.0       1.8   12.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_19429 transcribed RNA sequence
+GAUC01053145.1_3     -          OSK_CONSENSUS        -                1.4   13.0   0.3         2   12.5   0.2   1.4   1   1   0   1   1   1   0 TSA: Bemisia tabaci Unitig_53435 transcribed RNA sequence
+GAUC01039393.1_1     -          OSK_CONSENSUS        -                1.8   12.7   0.0       3.1   11.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unitig_39640 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:18 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGJY01034947.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-17   66.5   0.0   5.2e-09   40.6   0.0   2.8   2   0   0   2   2   2   2 TSA: Pieris rapae c30624_g1_i1 transcribed RNA sequence
+GGJY01042228.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.4e-14   56.9   0.6   1.2e-12   52.4   0.0   3.2   3   0   0   3   3   3   1 TSA: Pieris rapae c32624_g1_i1 transcribed RNA sequence
+GGJY01034948.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-10   44.5   0.0   5.4e-09   40.6   0.0   2.7   2   0   0   2   2   2   1 TSA: Pieris rapae c30624_g1_i2 transcribed RNA sequence
+GGJY01034948.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00058   24.4   0.0    0.0019   22.8   0.0   1.9   1   0   0   1   1   1   1 TSA: Pieris rapae c30624_g1_i2 transcribed RNA sequence
+GGJY01003935.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.32   15.6   0.1      0.57   14.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Pieris rapae c5475_g1_i1 transcribed RNA sequence
+GGJY01032871.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.3   12.9   0.0   1.1e+02    7.5   0.0   3.1   3   0   0   3   3   3   0 TSA: Pieris rapae c29900_g1_i2 transcribed RNA sequence
+GGJY01032870.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.5   12.8   0.0   1.1e+02    7.5   0.0   3.1   3   0   0   3   3   3   0 TSA: Pieris rapae c29900_g1_i1 transcribed RNA sequence
+GGJY01063639.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.8   12.6   0.3       5.8   11.6   0.3   1.6   1   1   0   1   1   1   0 TSA: Pieris rapae c52969_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGJY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGJY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGJY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:15 2019
+# [ok]

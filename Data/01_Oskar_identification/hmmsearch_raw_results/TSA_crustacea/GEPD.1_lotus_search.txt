@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPD01018819.1_5     -          LOTUS_CONSENSUS      -            2.8e-13   54.2   0.0   3.9e-13   53.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Brachyuropus grewingkii c25381_g1_i1 transcribed RNA sequence
+GEPD01036542.1_3     -          LOTUS_CONSENSUS      -               0.13   16.8   0.0      0.42   15.2   0.0   1.8   1   0   0   1   1   1   0 TSA: Brachyuropus grewingkii c36179_g1_i1 transcribed RNA sequence
+GEPD01035280.1_5     -          LOTUS_CONSENSUS      -                5.6   11.6   0.0        11   10.6   0.0   1.4   1   0   0   1   1   1   0 TSA: Brachyuropus grewingkii c35935_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPD.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPD.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPD.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:56:55 2019
+# [ok]

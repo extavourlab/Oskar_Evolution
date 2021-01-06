@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012060266.1       -          oskar_filtered.aligned.LOTUS_domain -            5.2e-31  106.2   0.0   1.5e-30  104.7   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC105623482 [Atta cephalotes]
+XP_012063847.1       -          oskar_filtered.aligned.LOTUS_domain -            3.9e-22   77.7   0.1   2.9e-19   68.5   0.0   3.3   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7-like [Atta cephalotes]
+XP_012056838.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-17   63.0   5.9   1.3e-12   47.1   0.0   4.4   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC105619933 [Atta cephalotes]
+XP_012055597.1       -          oskar_filtered.aligned.LOTUS_domain -              0.016   14.7   0.7       6.8    6.3   0.0   3.6   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X2 [Atta cephalotes]
+XP_012054763.1       -          oskar_filtered.aligned.LOTUS_domain -              0.026   14.0   0.1       6.1    6.5   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Atta cephalotes]
+XP_012054762.1       -          oskar_filtered.aligned.LOTUS_domain -               0.03   13.9   0.2       6.7    6.3   0.0   3.2   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Atta cephalotes]
+XP_012061714.1       -          oskar_filtered.aligned.LOTUS_domain -              0.089   12.4   0.0      0.22   11.1   0.0   1.6   1   0   0   1   1   1   0 PREDICTED: NADP-dependent malic enzyme [Atta cephalotes]
+XP_012055595.1       -          oskar_filtered.aligned.LOTUS_domain -              0.097   12.2   0.8        12    5.5   0.0   3.4   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Atta cephalotes]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000143395.1_Attacep1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000143395.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000143395.1_Attacep1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:01 2019
+# [ok]

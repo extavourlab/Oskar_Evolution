@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTS01000696.1_4     -          LOTUS_CONSENSUS      -            2.1e-18   69.2   0.0   2.3e-18   69.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Orussus unicolor C27091_a_4_0_l_226 transcribed RNA sequence
+GBTS01019460.1_4     -          LOTUS_CONSENSUS      -            3.8e-15   58.8   0.0   1.2e-14   57.1   0.0   1.9   1   0   0   1   1   1   1 TSA: Orussus unicolor s4569_L_10617_1_a_42_8_l_6777 transcribed RNA sequence
+GBTS01019459.1_5     -          LOTUS_CONSENSUS      -            4.2e-15   58.6   0.5     1e-14   57.3   0.0   1.9   2   0   0   2   2   2   1 TSA: Orussus unicolor s4568_L_10617_0_a_46_4_l_5986 transcribed RNA sequence
+GBTS01004256.1_1     -          LOTUS_CONSENSUS      -            2.8e-08   36.8   0.0   4.3e-08   36.1   0.0   1.3   1   0   0   1   1   1   1 TSA: Orussus unicolor C37837_a_12_0_l_347 transcribed RNA sequence
+GBTS01010715.1_5     -          LOTUS_CONSENSUS      -              0.073   16.2   0.1      0.25   14.5   0.0   2.0   2   0   0   2   2   2   0 TSA: Orussus unicolor C58905_a_3_0_l_1016 transcribed RNA sequence
+GBTS01019408.1_3     -          LOTUS_CONSENSUS      -               0.19   14.8   0.5      0.56   13.3   0.5   1.8   1   0   0   1   1   1   0 TSA: Orussus unicolor s4521_L_10401_0_a_19_3_l_2054 transcribed RNA sequence
+GBTS01011823.1_1     -          LOTUS_CONSENSUS      -               0.33   14.1   0.4   1.8e+02    5.3   0.0   3.3   4   0   0   4   4   4   0 TSA: Orussus unicolor C62849_a_6_0_l_1332 transcribed RNA sequence
+GBTS01010456.1_3     -          LOTUS_CONSENSUS      -               0.75   12.9   0.1        64    6.7   0.0   2.6   2   0   0   2   2   2   0 TSA: Orussus unicolor C57967_a_15_0_l_957 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:47:48 2019
+# [ok]

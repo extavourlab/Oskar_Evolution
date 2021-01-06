@@ -1,0 +1,38 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBFB01106499.1_6     -          OSK_CONSENSUS        -            0.00034   26.5   0.3   0.00079   25.3   0.1   1.6   1   1   1   2   2   2   1 TSA: Calanus finmarchicus comp263344_c0_seq4 transcribed RNA sequence
+GBFB01106497.1_6     -          OSK_CONSENSUS        -             0.0017   24.2   0.4    0.0052   22.6   0.5   2.0   1   1   0   1   1   1   1 TSA: Calanus finmarchicus comp263344_c0_seq2 transcribed RNA sequence
+GBFB01208798.1_4     -          OSK_CONSENSUS        -               0.24   17.3   0.0      0.29   17.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp2394842_c0_seq1 transcribed RNA sequence
+GBFB01095321.1_1     -          OSK_CONSENSUS        -               0.38   16.6   0.2       3.8   13.3   0.4   2.2   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp261231_c0_seq8 transcribed RNA sequence
+GBFB01095316.1_3     -          OSK_CONSENSUS        -               0.41   16.5   0.3       4.1   13.2   0.4   2.2   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp261231_c0_seq3 transcribed RNA sequence
+GBFB01141406.1_4     -          OSK_CONSENSUS        -               0.49   16.2   0.2   4.9e+02    6.5   0.0   2.9   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp269067_c0_seq8 transcribed RNA sequence
+GBFB01141402.1_5     -          OSK_CONSENSUS        -               0.54   16.1   1.3     3e+02    7.2   0.0   2.6   3   0   0   3   3   2   0 TSA: Calanus finmarchicus comp269067_c0_seq4 transcribed RNA sequence
+GBFB01141403.1_4     -          OSK_CONSENSUS        -               0.64   15.8   1.4   3.6e+02    6.9   0.0   2.8   3   0   0   3   3   2   0 TSA: Calanus finmarchicus comp269067_c0_seq5 transcribed RNA sequence
+GBFB01095319.1_2     -          OSK_CONSENSUS        -               0.68   15.7   0.4       1.1   15.1   0.4   1.3   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp261231_c0_seq6 transcribed RNA sequence
+GBFB01044132.1_6     -          OSK_CONSENSUS        -                1.1   15.1   2.1       1.3   14.9   2.1   1.0   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp241654_c0_seq1 transcribed RNA sequence
+GBFB01007879.1_5     -          OSK_CONSENSUS        -                1.4   14.7   0.1       1.4   14.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp31823_c0_seq1 transcribed RNA sequence
+GBFB01044133.1_6     -          OSK_CONSENSUS        -                2.2   14.1   1.9       2.4   14.0   1.9   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp241654_c0_seq2 transcribed RNA sequence
+GBFB01045178.1_1     -          OSK_CONSENSUS        -                2.4   13.9   0.1       4.8   13.0   0.1   1.5   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp242970_c0_seq3 transcribed RNA sequence
+GBFB01078412.1_2     -          OSK_CONSENSUS        -                2.6   13.9   2.6       4.6   13.1   2.3   1.7   1   1   1   2   2   2   0 TSA: Calanus finmarchicus comp257707_c0_seq10 transcribed RNA sequence
+GBFB01045176.1_1     -          OSK_CONSENSUS        -                3.1   13.6   0.3       8.7   12.2   0.1   1.8   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp242970_c0_seq1 transcribed RNA sequence
+GBFB01058554.1_1     -          OSK_CONSENSUS        -                3.2   13.6   0.7       3.5   13.4   0.7   1.2   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp251588_c0_seq2 transcribed RNA sequence
+GBFB01078405.1_2     -          OSK_CONSENSUS        -                3.3   13.5   2.1       5.4   12.8   1.6   1.6   1   1   0   1   1   1   0 TSA: Calanus finmarchicus comp257707_c0_seq3 transcribed RNA sequence
+GBFB01045610.1_1     -          OSK_CONSENSUS        -                3.4   13.5   0.1       3.5   13.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp243339_c0_seq4 transcribed RNA sequence
+GBFB01160510.1_2     -          OSK_CONSENSUS        -                3.6   13.4   0.1       6.4   12.6   0.1   1.4   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp271659_c0_seq2 transcribed RNA sequence
+GBFB01201567.1_5     -          OSK_CONSENSUS        -                4.8   13.0   1.3       5.5   12.8   1.1   1.3   1   1   0   1   1   1   0 TSA: Calanus finmarchicus comp1982524_c0_seq1 transcribed RNA sequence
+GBFB01095320.1_1     -          OSK_CONSENSUS        -                7.2   12.4   0.0        87    8.9   0.1   2.4   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp261231_c0_seq7 transcribed RNA sequence
+GBFB01219530.1_1     -          OSK_CONSENSUS        -                7.6   12.3   0.0       8.9   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp3036245_c0_seq1 transcribed RNA sequence
+GBFB01095322.1_3     -          OSK_CONSENSUS        -                7.7   12.3   0.1        92    8.8   0.1   2.3   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp261231_c0_seq9 transcribed RNA sequence
+GBFB01160513.1_2     -          OSK_CONSENSUS        -                7.7   12.3   0.1        15   11.4   0.1   1.4   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp271659_c0_seq5 transcribed RNA sequence
+GBFB01078406.1_3     -          OSK_CONSENSUS        -                9.6   12.0   2.8        10   12.0   1.5   1.7   1   1   1   2   2   2   0 TSA: Calanus finmarchicus comp257707_c0_seq4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBFB.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBFB.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBFB.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:54 2019
+# [ok]

@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFJG01056701.1_2     -          LOTUS_CONSENSUS      -            2.3e-14   58.7   0.0   3.8e-14   58.0   0.0   1.3   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR238354-c0_g1_i1 transcribed RNA sequence
+GFJG01074135.1_2     -          LOTUS_CONSENSUS      -            1.1e-08   40.5   0.0   1.3e-08   40.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR280349-c0_g1_i1 transcribed RNA sequence
+GFJG01122887.1_2     -          LOTUS_CONSENSUS      -            0.00016   27.2   0.1   0.00028   26.4   0.1   1.4   1   0   0   1   1   1   1 TSA: Eurypanopeus depressus TR97545-c2_g1_i1 transcribed RNA sequence
+GFJG01090144.1_3     -          LOTUS_CONSENSUS      -             0.0029   23.1   0.0     0.025   20.1   0.0   2.0   2   0   0   2   2   2   1 TSA: Eurypanopeus depressus TR319982-c0_g1_i1 transcribed RNA sequence
+GFJG01020675.1_2     -          LOTUS_CONSENSUS      -              0.097   18.2   1.8        29   10.3   0.1   2.9   1   1   2   3   3   3   0 TSA: Eurypanopeus depressus TR151774-c1_g1_i1 transcribed RNA sequence
+GFJG01026226.1_1     -          LOTUS_CONSENSUS      -               0.26   16.8   0.3      0.34   16.5   0.3   1.2   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR164523-c0_g1_i2 transcribed RNA sequence
+GFJG01035941.1_1     -          LOTUS_CONSENSUS      -               0.27   16.8   1.1       0.6   15.7   0.1   2.1   1   1   1   2   2   2   0 TSA: Eurypanopeus depressus TR188085-c0_g1_i1 transcribed RNA sequence
+GFJG01026225.1_1     -          LOTUS_CONSENSUS      -               0.81   15.2   0.2       1.7   14.2   0.2   1.5   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR164523-c0_g1_i1 transcribed RNA sequence
+GFJG01067657.1_2     -          LOTUS_CONSENSUS      -               0.82   15.2   1.5       4.4   12.9   0.2   2.2   1   1   1   2   2   2   0 TSA: Eurypanopeus depressus TR264610-c0_g1_i1 transcribed RNA sequence
+GFJG01019313.1_1     -          LOTUS_CONSENSUS      -                  1   14.9   0.0       1.4   14.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR148351-c0_g1_i1 transcribed RNA sequence
+GFJG01097220.1_3     -          LOTUS_CONSENSUS      -                1.2   14.6   0.0     1e+03    5.3   0.0   3.1   2   1   1   3   3   3   0 TSA: Eurypanopeus depressus TR34757-c1_g1_i1 transcribed RNA sequence
+GFJG01097219.1_2     -          LOTUS_CONSENSUS      -                1.8   14.1   0.0       3.9   13.1   0.0   1.5   2   0   0   2   2   2   0 TSA: Eurypanopeus depressus TR34757-c0_g1_i1 transcribed RNA sequence
+GFJG01051736.1_1     -          LOTUS_CONSENSUS      -                5.9   12.5   3.2        19   10.9   3.2   1.9   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR226344-c0_g1_i1 transcribed RNA sequence
+GFJG01104066.1_2     -          LOTUS_CONSENSUS      -                7.1   12.2   0.0        11   11.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Eurypanopeus depressus TR51398-c0_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFJG.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GFJG.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GFJG.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:24 2019
+# [ok]

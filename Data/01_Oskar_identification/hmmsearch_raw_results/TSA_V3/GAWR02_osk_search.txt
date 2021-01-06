@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWR02015769.1_4     -          oskar_filtered.aligned.OSK_domain -            1.6e-25   92.9   0.8   3.9e-25   91.6   0.6   1.9   1   1   0   1   1   1   1 TSA: Menopon gallinae C81419_a_21_0_l_1854 transcribed RNA sequence
+GAWR02021051.1_4     -          oskar_filtered.aligned.OSK_domain -            1.4e-08   37.7   0.2   3.6e-08   36.3   0.2   1.6   1   0   0   1   1   1   1 TSA: Menopon gallinae s3865_L_5576_1_a_38_1_l_5945 transcribed RNA sequence
+GAWR02021050.1_4     -          oskar_filtered.aligned.OSK_domain -            1.7e-08   37.3   0.2   4.4e-08   36.0   0.2   1.6   1   0   0   1   1   1   1 TSA: Menopon gallinae s3864_L_5576_0_a_34_8_l_7046 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWR02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWR02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWR02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:31 2019
+# [ok]

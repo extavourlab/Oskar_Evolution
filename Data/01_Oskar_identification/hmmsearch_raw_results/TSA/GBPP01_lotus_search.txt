@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPP01002518.1_5     -          LOTUS_CONSENSUS      -            1.3e-19   73.4   0.0   7.2e-19   71.1   0.0   2.3   1   0   0   1   1   1   1 TSA: Dioxys cincta C110799_a_22_0_l_5188 transcribed RNA sequence
+GBPP01002335.1_2     -          LOTUS_CONSENSUS      -            2.4e-07   34.1   6.6    0.0035   20.8   0.1   4.8   4   0   0   4   4   4   2 TSA: Dioxys cincta C110091_a_6_0_l_4417 transcribed RNA sequence
+GBPP01018710.1_1     -          LOTUS_CONSENSUS      -                6.1   10.4   4.9        12    9.4   0.0   3.3   3   1   0   3   3   3   0 TSA: Dioxys cincta C95077_a_4_0_l_1364 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:54 2019
+# [ok]

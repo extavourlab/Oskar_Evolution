@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQQ01026286.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-24   88.2   0.0   3.2e-24   88.2   0.0   2.8   3   0   0   3   3   3   1 TSA: Katamenes arbustorum s7963_L_22550_0_a_54_8_l_2992 transcribed RNA sequence
+GBQQ01001554.1_6     -          oskar_filtered.aligned.LOTUS_domain -              6e-20   74.5   0.3   4.1e-19   71.8   0.0   2.7   3   0   0   3   3   3   1 TSA: Katamenes arbustorum C105934_a_12_0_l_3672 transcribed RNA sequence
+GBQQ01009167.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-15   60.3   0.1   2.2e-15   59.8   0.1   1.3   1   0   0   1   1   1   1 TSA: Katamenes arbustorum C60266_a_4_0_l_367 transcribed RNA sequence
+GBQQ01001555.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.3e-08   36.4   0.0     0.056   16.8   0.0   6.0   3   2   2   5   5   5   1 TSA: Katamenes arbustorum C105940_a_13_0_l_3679 transcribed RNA sequence
+GBQQ01000042.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.092   16.1   1.8      0.13   15.6   0.1   2.2   2   0   0   2   2   2   0 TSA: Katamenes arbustorum C100156_a_8_0_l_1892 transcribed RNA sequence
+GBQQ01004082.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.69   13.3   0.6      0.85   13.0   0.6   1.1   1   0   0   1   1   1   0 TSA: Katamenes arbustorum C42969_a_3_0_l_244 transcribed RNA sequence
+GBQQ01020265.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   12.0   0.3        31    8.0   0.0   2.9   4   0   0   4   4   4   0 TSA: Katamenes arbustorum s251_L_324_3_a_36_4_l_1415 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:44 2019
+# [ok]

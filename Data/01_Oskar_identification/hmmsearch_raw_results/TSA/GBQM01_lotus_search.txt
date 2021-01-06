@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQM01013925.1_2     -          LOTUS_CONSENSUS      -            5.6e-20   74.5   0.0   1.5e-19   73.2   0.0   1.6   1   0   0   1   1   1   1 TSA: Colpa sexmaculata C74449_a_3_0_l_951 transcribed RNA sequence
+GBQM01010326.1_1     -          LOTUS_CONSENSUS      -              0.001   22.4   0.1     0.032   17.6   0.0   2.7   1   1   2   3   3   3   1 TSA: Colpa sexmaculata C61087_a_6_0_l_525 transcribed RNA sequence
+GBQM01003275.1_5     -          LOTUS_CONSENSUS      -             0.0031   20.8   0.0    0.0035   20.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Colpa sexmaculata C39563_a_4_0_l_255 transcribed RNA sequence
+GBQM01006233.1_4     -          LOTUS_CONSENSUS      -               0.33   14.3   0.1      0.54   13.7   0.1   1.3   1   0   0   1   1   1   0 TSA: Colpa sexmaculata C48040_a_3_0_l_329 transcribed RNA sequence
+GBQM01014734.1_6     -          LOTUS_CONSENSUS      -                1.1   12.7   0.2       3.4   11.1   0.2   1.8   1   0   0   1   1   1   0 TSA: Colpa sexmaculata C77693_a_9_0_l_1125 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:12 2019
+# [ok]

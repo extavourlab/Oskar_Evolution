@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENM01025964.1_2     -          oskar_filtered.aligned.OSK_domain -                1.2   13.6   0.1       1.9   12.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k52_558426 transcribed RNA sequence
+GENM01030251.1_5     -          oskar_filtered.aligned.OSK_domain -                1.2   13.6   1.8       1.5   13.3   1.8   1.1   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k56_186762 transcribed RNA sequence
+GENM01018188.1_2     -          oskar_filtered.aligned.OSK_domain -                1.3   13.5   0.1       1.7   13.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k52_541236 transcribed RNA sequence
+GENM01026757.1_6     -          oskar_filtered.aligned.OSK_domain -                1.3   13.5   1.9       1.6   13.2   1.9   1.1   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k54_101353 transcribed RNA sequence
+GENM01062128.1_4     -          oskar_filtered.aligned.OSK_domain -                1.7   13.1   0.1       2.3   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k78_556134 transcribed RNA sequence
+GENM01078526.1_6     -          oskar_filtered.aligned.OSK_domain -                2.3   12.7   0.0       2.6   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k84_275575 transcribed RNA sequence
+GENM01014793.1_4     -          oskar_filtered.aligned.OSK_domain -                2.3   12.7   0.1       2.3   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k52_442267 transcribed RNA sequence
+GENM01085580.1_5     -          oskar_filtered.aligned.OSK_domain -                2.8   12.4   0.0       3.5   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Thyridopteryx ephemeraeformis k90_277547 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:58 2019
+# [ok]

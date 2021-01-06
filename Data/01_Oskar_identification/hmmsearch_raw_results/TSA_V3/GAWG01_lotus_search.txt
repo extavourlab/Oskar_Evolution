@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWG01044279.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-15   62.9   0.0   7.2e-12   51.1   0.0   3.8   4   0   0   4   4   4   2 TSA: Extatosoma tiaratum comp78637_c0_seq1 transcribed RNA sequence
+GAWG01044280.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-15   62.3   0.0   9.3e-12   50.7   0.0   3.8   4   0   0   4   4   4   2 TSA: Extatosoma tiaratum comp78637_c0_seq2 transcribed RNA sequence
+GAWG01101648.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-12   53.5   0.0     6e-08   38.5   0.0   2.8   3   0   0   3   3   3   2 TSA: Extatosoma tiaratum comp105179_c0_seq1 transcribed RNA sequence
+GAWG01041429.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.22   17.4   0.0   8.6e+02    5.9   0.0   4.1   2   2   2   4   4   4   0 TSA: Extatosoma tiaratum comp76619_c0_seq3 transcribed RNA sequence
+GAWG01046782.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.1   15.2   0.2     5e+02    6.6   0.0   2.4   2   1   0   2   2   2   0 TSA: Extatosoma tiaratum comp79921_c0_seq1 transcribed RNA sequence
+GAWG01139568.1_3     -          oskar_filtered.aligned.LOTUS_domain -                  3   13.8   0.1       6.4   12.7   0.0   1.5   2   0   0   2   2   2   0 TSA: Extatosoma tiaratum comp1333680_c0_seq1 transcribed RNA sequence
+GAWG01144729.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.9   13.4   0.0         6   12.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp1523950_c0_seq1 transcribed RNA sequence
+GAWG01113662.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.3   13.0   2.2       8.9   12.2   2.2   1.4   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp657097_c0_seq1 transcribed RNA sequence
+GAWG01118700.1_2     -          oskar_filtered.aligned.LOTUS_domain -                9.6   12.1   0.0        12   11.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Extatosoma tiaratum comp794171_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:13 2019
+# [ok]

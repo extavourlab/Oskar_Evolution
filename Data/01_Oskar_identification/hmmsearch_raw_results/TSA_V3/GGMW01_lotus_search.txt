@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGMW01013167.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-14   57.1   1.7   1.1e-12   51.8   0.0   3.3   3   0   0   3   3   3   1 TSA: Adoxophyes orana T2_Unigene_BMK.13199 transcribed RNA sequence
+GGMW01008261.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-05   29.1   0.0   2.5e-05   28.3   0.0   1.4   1   1   0   1   1   1   1 TSA: Adoxophyes orana T2_Unigene_BMK.8290 transcribed RNA sequence
+GGMW01040690.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.002   22.1   0.0    0.0026   21.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Adoxophyes orana T2_Unigene_BMK.41322 transcribed RNA sequence
+GGMW01013599.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.097   16.7   0.0      0.12   16.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Adoxophyes orana T2_Unigene_BMK.13633 transcribed RNA sequence
+GGMW01035377.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.36   14.9   0.1      0.42   14.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Adoxophyes orana T2_Unigene_BMK.35817 transcribed RNA sequence
+GGMW01024894.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.45   14.6   0.1      0.55   14.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Adoxophyes orana T2_Unigene_BMK.25052 transcribed RNA sequence
+GGMW01018258.1_4     -          oskar_filtered.aligned.LOTUS_domain -                2.9   12.0   0.2       5.7   11.1   0.2   1.4   1   0   0   1   1   1   0 TSA: Adoxophyes orana T2_Unigene_BMK.18300 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGMW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGMW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:16 2019
+# [ok]

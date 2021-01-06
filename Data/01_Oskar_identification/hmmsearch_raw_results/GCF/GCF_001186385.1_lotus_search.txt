@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015370443.1       -          LOTUS_CONSENSUS      -            3.1e-17   62.7   3.4   7.8e-17   61.4   0.1   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X3 [Diuraphis noxia]
+XP_015370446.1       -          LOTUS_CONSENSUS      -            3.2e-17   62.6   3.4     7e-17   61.5   0.1   3.3   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X5 [Diuraphis noxia]
+XP_015370447.1       -          LOTUS_CONSENSUS      -            6.4e-17   61.7   0.1   6.4e-17   61.7   0.1   2.8   3   1   0   3   3   2   1 PREDICTED: tudor domain-containing protein 7 isoform X6 [Diuraphis noxia]
+XP_015370444.1       -          LOTUS_CONSENSUS      -            7.6e-17   61.4   0.1   7.6e-17   61.4   0.1   3.0   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X4 [Diuraphis noxia]
+XP_015370442.1       -          LOTUS_CONSENSUS      -            7.9e-17   61.3   0.1   7.9e-17   61.3   0.1   3.6   4   0   0   4   4   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Diuraphis noxia]
+XP_015370439.1       -          LOTUS_CONSENSUS      -            8.2e-17   61.3   0.1   8.2e-17   61.3   0.1   3.5   4   0   0   4   4   4   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Diuraphis noxia]
+XP_015370440.1       -          LOTUS_CONSENSUS      -            8.2e-17   61.3   0.1   8.2e-17   61.3   0.1   3.5   4   0   0   4   4   4   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Diuraphis noxia]
+XP_015370441.1       -          LOTUS_CONSENSUS      -            8.2e-17   61.3   0.1   8.2e-17   61.3   0.1   3.5   4   0   0   4   4   4   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Diuraphis noxia]
+XP_015372248.1       -          LOTUS_CONSENSUS      -            5.2e-14   52.3   0.1   5.2e-14   52.3   0.1   5.8   4   3   2   6   6   6   2 PREDICTED: putative uncharacterized protein DDB_G0282133 [Diuraphis noxia]
+XP_015372249.1       -          LOTUS_CONSENSUS      -            5.2e-14   52.3   0.1   5.2e-14   52.3   0.1   5.8   4   3   2   6   6   6   2 PREDICTED: putative uncharacterized protein DDB_G0282133 [Diuraphis noxia]
+XP_015370255.1       -          LOTUS_CONSENSUS      -            1.4e-12   47.7  14.6   3.7e-12   46.4   0.1   4.7   3   1   0   3   3   3   1 PREDICTED: uncharacterized protein LOC107166201 [Diuraphis noxia]
+XP_015366287.1       -          LOTUS_CONSENSUS      -            3.2e-06   27.3   0.0        19    5.6   0.0   6.2   5   2   3   8   8   8   0 PREDICTED: LOW QUALITY PROTEIN: meiosis arrest female protein 1 homolog [Diuraphis noxia]
+XP_015371328.1       -          LOTUS_CONSENSUS      -            0.00013   22.2   0.2     0.006   16.9   0.0   2.9   2   1   0   2   2   2   1 PREDICTED: uncharacterized protein LOC107166976 [Diuraphis noxia]
+XP_015378491.1       -          LOTUS_CONSENSUS      -              0.097   13.0   0.2       0.7   10.2   0.0   2.5   3   0   0   3   3   2   0 PREDICTED: uncharacterized protein LOC107172708, partial [Diuraphis noxia]
+XP_015363417.1       -          LOTUS_CONSENSUS      -                1.1    9.6   5.4       0.7   10.2   1.4   2.8   2   0   0   2   2   2   0 PREDICTED: dynein heavy chain 6, axonemal-like, partial [Diuraphis noxia]
+XP_015363303.1       -          LOTUS_CONSENSUS      -                1.2    9.5   6.4      0.63   10.4   1.0   3.2   3   0   0   3   3   2   0 PREDICTED: helicase SKI2W [Diuraphis noxia]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001186385.1_Dnoxia_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001186385.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001186385.1_Dnoxia_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:49 2019
+# [ok]

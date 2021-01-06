@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBLN01017162.1_3     -          OSK_CONSENSUS        -              2e-45  156.9   0.2   3.1e-45  156.3   0.2   1.3   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli s2472_L_11116_0_a_61_2_l_1930 transcribed RNA sequence
+GBLN01013985.1_5     -          OSK_CONSENSUS        -            1.2e-42  147.9   0.1   1.9e-42  147.2   0.1   1.3   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli C58395_a_53_0_l_1949 transcribed RNA sequence
+GBLN01012017.1_5     -          OSK_CONSENSUS        -            5.7e-40  139.1   0.8   9.7e-40  138.4   0.8   1.3   1   0   0   1   1   1   1 TSA: Gonatocerus morrilli C52941_a_11_0_l_1278 transcribed RNA sequence
+GBLN01005140.1_2     -          OSK_CONSENSUS        -               0.26   13.5   2.2      0.31   13.3   2.2   1.1   1   0   0   1   1   1   0 TSA: Gonatocerus morrilli C33773_a_7_0_l_387 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBLN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBLN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:16 2019
+# [ok]

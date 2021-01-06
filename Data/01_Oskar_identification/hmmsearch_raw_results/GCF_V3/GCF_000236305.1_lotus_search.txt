@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_016978919.1       -          oskar_filtered.aligned.LOTUS_domain -            1.8e-25   89.5   0.8   9.6e-25   87.2   0.3   2.5   2   0   0   2   2   2   1 PREDICTED: maternal effect protein oskar [Drosophila rhopaloa]
+XP_016975503.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-14   53.1   0.1   1.4e-13   51.4   0.1   2.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108041943 isoform X4 [Drosophila rhopaloa]
+XP_016975502.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-14   53.1   0.1   1.4e-13   51.4   0.1   2.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108041943 isoform X3 [Drosophila rhopaloa]
+XP_016975500.1       -          oskar_filtered.aligned.LOTUS_domain -            5.6e-14   52.6   0.1   1.8e-13   51.0   0.1   2.0   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7B isoform X1 [Drosophila rhopaloa]
+XP_016979738.1       -          oskar_filtered.aligned.LOTUS_domain -            3.4e-12   46.9   0.0   9.5e-12   45.5   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108045066 isoform X2 [Drosophila rhopaloa]
+XP_016979737.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-12   46.9   0.0     1e-11   45.4   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108045066 isoform X1 [Drosophila rhopaloa]
+XP_016970190.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0022   18.6   0.0    0.0022   18.6   0.0   1.0   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108038010 [Drosophila rhopaloa]
+XP_016989807.1       -          oskar_filtered.aligned.LOTUS_domain -               0.13   13.0   0.8       2.3    8.9   0.1   2.4   1   1   1   2   2   2   0 PREDICTED: uncharacterized protein LOC108052007 [Drosophila rhopaloa]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000236305.1_Drho_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000236305.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000236305.1_Drho_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:58 2019
+# [ok]

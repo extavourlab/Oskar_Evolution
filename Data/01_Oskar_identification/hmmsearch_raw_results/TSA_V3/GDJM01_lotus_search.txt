@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDJM01009268.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-24   87.9   0.0   5.7e-24   87.9   0.0   2.4   3   0   0   3   3   2   1 TSA: Cotesia rubecula comp44485_c0_seq2 transcribed RNA sequence
+GDJM01024991.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   64.2   0.1   5.3e-16   62.3   0.1   2.0   2   0   0   2   2   2   1 TSA: Cotesia rubecula comp52964_c0_seq2 transcribed RNA sequence
+GDJM01024990.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-16   64.1   0.2   5.4e-16   62.3   0.1   2.1   2   0   0   2   2   2   1 TSA: Cotesia rubecula comp52964_c0_seq1 transcribed RNA sequence
+GDJM01024992.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-16   64.1   0.1   4.1e-16   62.7   0.1   1.7   1   0   0   1   1   1   1 TSA: Cotesia rubecula comp52964_c0_seq3 transcribed RNA sequence
+GDJM01026101.1_2     -          oskar_filtered.aligned.LOTUS_domain -              1e-12   51.7   0.0     1e-12   51.7   0.0   3.7   3   1   0   3   3   2   1 TSA: Cotesia rubecula comp53191_c0_seq2 transcribed RNA sequence
+GDJM01023580.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.4e-10   42.3   0.0     0.012   19.5   0.0   6.2   4   2   2   6   6   6   1 TSA: Cotesia rubecula comp52642_c1_seq4 transcribed RNA sequence
+GDJM01023579.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.7e-10   42.2   0.0     0.012   19.4   0.0   6.2   4   2   2   6   6   6   1 TSA: Cotesia rubecula comp52642_c1_seq3 transcribed RNA sequence
+GDJM01023581.1_2     -          oskar_filtered.aligned.LOTUS_domain -              2e-07   34.8   0.4    0.0053   20.6   0.0   4.2   3   1   1   4   4   4   2 TSA: Cotesia rubecula comp52642_c1_seq6 transcribed RNA sequence
+GDJM01017935.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.61   14.0   1.2       5.7   10.9   0.3   2.5   2   0   0   2   2   2   0 TSA: Cotesia rubecula comp50799_c0_seq1 transcribed RNA sequence
+GDJM01032581.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.9   12.4   1.7       4.1   11.3   1.7   1.8   1   1   0   1   1   1   0 TSA: Cotesia rubecula comp54354_c3_seq1 transcribed RNA sequence
+GDJM01000651.1_6     -          oskar_filtered.aligned.LOTUS_domain -                9.4   10.2   4.2        61    7.6   0.0   2.9   3   0   0   3   3   2   0 TSA: Cotesia rubecula comp19017_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDJM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDJM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDJM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:08 2019
+# [ok]

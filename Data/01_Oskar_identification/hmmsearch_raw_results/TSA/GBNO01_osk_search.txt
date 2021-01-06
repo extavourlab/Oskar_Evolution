@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNO01016924.1_4     -          OSK_CONSENSUS        -            8.8e-41  141.8   0.4   1.8e-40  140.8   0.4   1.5   1   0   0   1   1   1   1 TSA: Dolichurus corniculus s3236_L_12175_0_a_12_5_l_2637 transcribed RNA sequence
+GBNO01016925.1_5     -          OSK_CONSENSUS        -            1.3e-40  141.2   0.4     3e-40  140.1   0.4   1.6   1   0   0   1   1   1   1 TSA: Dolichurus corniculus s3237_L_12175_1_a_24_9_l_3796 transcribed RNA sequence
+GBNO01008331.1_5     -          OSK_CONSENSUS        -            1.4e-06   30.7   0.0   3.3e-06   29.4   0.0   1.7   1   0   0   1   1   1   1 TSA: Dolichurus corniculus C53160_a_4_0_l_648 transcribed RNA sequence
+GBNO01007223.1_4     -          OSK_CONSENSUS        -               0.13   14.5   0.2      0.16   14.2   0.2   1.2   1   0   0   1   1   1   0 TSA: Dolichurus corniculus C49577_a_3_0_l_517 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:38 2019
+# [ok]

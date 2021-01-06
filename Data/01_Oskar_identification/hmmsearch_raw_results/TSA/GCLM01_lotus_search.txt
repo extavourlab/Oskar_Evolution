@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCLM01061907.1_6     -          LOTUS_CONSENSUS      -            6.3e-25   92.1   0.0   2.4e-24   90.2   0.0   2.0   2   0   0   2   2   2   1 TSA: Aedes albopictus Unigene28145_All transcribed RNA sequence
+GCLM01052725.1_3     -          LOTUS_CONSENSUS      -            2.7e-10   45.2   0.2     1e-09   43.3   0.0   2.2   2   0   0   2   2   2   1 TSA: Aedes albopictus Unigene18891_All transcribed RNA sequence
+GCLM01058326.1_3     -          LOTUS_CONSENSUS      -            4.1e-09   41.4   0.0   4.1e-09   41.4   0.0   2.7   3   0   0   3   3   3   1 TSA: Aedes albopictus Unigene24542_All transcribed RNA sequence
+GCLM01003220.1_4     -          LOTUS_CONSENSUS      -                1.1   14.4   0.4   1.9e+02    7.2   0.1   2.9   3   0   0   3   3   3   0 TSA: Aedes albopictus CL874.Contig5_All transcribed RNA sequence
+GCLM01087845.1_4     -          LOTUS_CONSENSUS      -                  2   13.6   0.1       2.3   13.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Aedes albopictus Unigene54267_All transcribed RNA sequence
+GCLM01070326.1_2     -          LOTUS_CONSENSUS      -                2.9   13.1   0.0       3.4   12.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Aedes albopictus Unigene36705_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCLM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCLM01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCLM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:39 2019
+# [ok]

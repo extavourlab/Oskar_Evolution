@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGFB01039163.1_3     -          LOTUS_CONSENSUS      -            9.5e-19   71.7   0.0   9.1e-18   68.6   0.0   2.4   2   0   0   2   2   2   1 TSA: Laupala cerasina TRINITY_GG_11803_c0_g1_i2 transcribed RNA sequence
+GGFB01039162.1_3     -          LOTUS_CONSENSUS      -              1e-18   71.6   0.0   9.4e-18   68.5   0.0   2.4   2   0   0   2   2   2   1 TSA: Laupala cerasina TRINITY_GG_11803_c0_g1_i1 transcribed RNA sequence
+GGFB01025289.1_5     -          LOTUS_CONSENSUS      -            4.4e-16   63.2   0.2   1.6e-10   45.3   0.0   4.5   4   0   0   4   4   4   2 TSA: Laupala cerasina TRINITY_GG_8149_c0_g1_i1 transcribed RNA sequence
+GGFB01010436.1_1     -          LOTUS_CONSENSUS      -            6.1e-16   62.7   0.0   3.3e-11   47.6   0.0   2.7   2   0   0   2   2   2   2 TSA: Laupala cerasina TRINITY_GG_3264_c0_g1_i1 transcribed RNA sequence
+GGFB01029731.1_5     -          LOTUS_CONSENSUS      -            1.3e-10   45.7   0.0   3.5e-10   44.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Laupala cerasina TRINITY_GG_9271_c0_g1_i1 transcribed RNA sequence
+GGFB01002319.1_3     -          LOTUS_CONSENSUS      -            1.8e-06   32.3   0.0       1.4   13.5   0.0   5.1   2   1   2   5   5   5   2 TSA: Laupala cerasina TRINITY_GG_756_c0_g1_i1 transcribed RNA sequence
+GGFB01029731.1_4     -          LOTUS_CONSENSUS      -                2.7   12.6   0.0       7.5   11.2   0.0   1.7   1   0   0   1   1   1   0 TSA: Laupala cerasina TRINITY_GG_9271_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGFB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:01 2019
+# [ok]

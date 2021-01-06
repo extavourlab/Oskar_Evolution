@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPW01015098.1_2     -          LOTUS_CONSENSUS      -            7.3e-15   59.5   0.0     9e-15   59.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Eulimnogammarus cruentus c25092_g1_i1 transcribed RNA sequence
+GEPW01015099.1_1     -          LOTUS_CONSENSUS      -            7.5e-15   59.4   0.0   9.3e-15   59.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Eulimnogammarus cruentus c25092_g1_i2 transcribed RNA sequence
+GEPW01019602.1_1     -          LOTUS_CONSENSUS      -            1.5e-09   42.4   0.1   2.2e-09   41.9   0.1   1.2   1   0   0   1   1   1   1 TSA: Eulimnogammarus cruentus c29217_g1_i1 transcribed RNA sequence
+GEPW01050136.1_2     -          LOTUS_CONSENSUS      -              0.016   19.9   4.3       9.5   11.0   0.4   2.2   1   1   1   2   2   2   0 TSA: Eulimnogammarus cruentus c49019_g1_i1 transcribed RNA sequence
+GEPW01018900.1_2     -          LOTUS_CONSENSUS      -               0.38   15.5   0.0        31    9.4   0.0   3.1   3   0   0   3   3   3   0 TSA: Eulimnogammarus cruentus c28653_g2_i1 transcribed RNA sequence
+GEPW01005687.1_5     -          LOTUS_CONSENSUS      -                  1   14.1   0.0       1.4   13.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Eulimnogammarus cruentus c9699_g1_i1 transcribed RNA sequence
+GEPW01015133.1_2     -          LOTUS_CONSENSUS      -                1.9   13.2   0.0       2.5   12.8   0.0   1.3   1   1   0   1   1   1   0 TSA: Eulimnogammarus cruentus c25134_g1_i1 transcribed RNA sequence
+GEPW01031640.1_4     -          LOTUS_CONSENSUS      -                  2   13.2   0.1       3.8   12.3   0.1   1.4   1   0   0   1   1   1   0 TSA: Eulimnogammarus cruentus c38752_g1_i1 transcribed RNA sequence
+GEPW01039390.1_5     -          LOTUS_CONSENSUS      -                  2   13.1   0.6        11   10.8   0.1   2.4   2   0   0   2   2   2   0 TSA: Eulimnogammarus cruentus c42676_g1_i1 transcribed RNA sequence
+GEPW01029444.1_1     -          LOTUS_CONSENSUS      -                2.5   12.9   0.2       3.9   12.3   0.2   1.2   1   0   0   1   1   1   0 TSA: Eulimnogammarus cruentus c37209_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPW.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:55 2019
+# [ok]

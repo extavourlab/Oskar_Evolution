@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFWI01145610.1_1     -          LOTUS_CONSENSUS      -              1e-12   54.9   0.0   4.7e-07   36.7   0.0   2.3   2   0   0   2   2   2   2 TSA: Helicoverpa armigera HaMT_contigs51795_1_4_1 transcribed RNA sequence
+GFWI01203742.1_2     -          LOTUS_CONSENSUS      -            2.8e-12   53.5   1.8   7.2e-11   49.0   0.0   3.3   3   0   0   3   3   3   1 TSA: Helicoverpa armigera HaMT_contigs55952_2_1_2 transcribed RNA sequence
+GFWI01203741.1_2     -          LOTUS_CONSENSUS      -            2.8e-12   53.5   1.8   7.3e-11   49.0   0.0   3.3   3   0   0   3   3   3   1 TSA: Helicoverpa armigera HaMT_contigs55952_2_1_1 transcribed RNA sequence
+GFWI01145607.1_1     -          LOTUS_CONSENSUS      -            2.9e-06   34.2   0.0   3.2e-06   34.1   0.0   1.0   1   0   0   1   1   1   1 TSA: Helicoverpa armigera HaMT_contigs51795_1_1_1 transcribed RNA sequence
+GFWI01145611.1_1     -          LOTUS_CONSENSUS      -            3.1e-05   30.9   0.0   3.1e-05   30.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Helicoverpa armigera HaMT_contigs51795_1_5_1 transcribed RNA sequence
+GFWI01046476.1_5     -          LOTUS_CONSENSUS      -            0.00056   26.9   0.0   0.00085   26.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Helicoverpa armigera HaMT_contigs26435_0_1_1 transcribed RNA sequence
+GFWI01145608.1_1     -          LOTUS_CONSENSUS      -               0.05   20.6   0.0     0.089   19.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs51795_1_2_1 transcribed RNA sequence
+GFWI01068806.1_3     -          LOTUS_CONSENSUS      -                1.1   16.4   0.7        34   11.6   0.2   2.3   2   0   0   2   2   2   0 TSA: Helicoverpa armigera HaMT_contigs35355_0_1_1 transcribed RNA sequence
+GFWI01097204.1_1     -          LOTUS_CONSENSUS      -                1.9   15.6   0.1       2.1   15.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs43904_0_2_1 transcribed RNA sequence
+GFWI01232221.1_1     -          LOTUS_CONSENSUS      -                3.2   14.8   4.8   3.5e+02    8.3   0.4   2.4   2   0   0   2   2   2   0 TSA: Helicoverpa armigera HaMT_contigs57435_0_1_2 transcribed RNA sequence
+GFWI01319653.1_5     -          LOTUS_CONSENSUS      -                3.7   14.6   0.1       4.8   14.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs81864_0_1_1 transcribed RNA sequence
+GFWI01351570.1_3     -          LOTUS_CONSENSUS      -                4.8   14.3   0.5       5.4   14.1   0.5   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs113477_0_1_1 transcribed RNA sequence
+GFWI01095365.1_2     -          LOTUS_CONSENSUS      -                4.8   14.3   0.0   1.2e+02    9.8   0.0   2.3   2   0   0   2   2   2   0 TSA: Helicoverpa armigera HaMT_contigs43434_0_1_1 transcribed RNA sequence
+GFWI01051641.1_6     -          LOTUS_CONSENSUS      -                8.1   13.5   0.1        16   12.6   0.0   1.5   2   0   0   2   2   2   0 TSA: Helicoverpa armigera HaMT_contigs28640_0_3_1 transcribed RNA sequence
+GFWI01358883.1_3     -          LOTUS_CONSENSUS      -                8.2   13.5   0.3        11   13.2   0.3   1.2   1   0   0   1   1   1   0 TSA: Helicoverpa armigera HaMT_contigs120722_0_1_1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFWI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:24 2019
+# [ok]

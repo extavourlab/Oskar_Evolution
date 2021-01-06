@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBEI01044875.1_6     -          OSK_CONSENSUS        -              0.074   17.7   0.0      0.14   16.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_45133 transcribed RNA sequence
+GBEI01105275.1_3     -          OSK_CONSENSUS        -               0.26   16.0   0.1      0.38   15.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_106936 transcribed RNA sequence
+GBEI01010691.1_1     -          OSK_CONSENSUS        -               0.51   15.0   0.0       0.6   14.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_10708 transcribed RNA sequence
+GBEI01035088.1_2     -          OSK_CONSENSUS        -               0.59   14.8   0.4      0.76   14.4   0.4   1.1   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_35216 transcribed RNA sequence
+GBEI01059694.1_4     -          OSK_CONSENSUS        -                1.3   13.7   0.0       1.5   13.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_60404 transcribed RNA sequence
+GBEI01044279.1_2     -          OSK_CONSENSUS        -                1.4   13.6   0.1       3.3   12.4   0.1   1.6   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_44524 transcribed RNA sequence
+GBEI01042719.1_3     -          OSK_CONSENSUS        -                2.1   13.0   0.0       2.8   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_42942 transcribed RNA sequence
+GBEI01017788.1_4     -          OSK_CONSENSUS        -                2.3   12.9   0.0       4.7   11.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_17822 transcribed RNA sequence
+GBEI01084059.1_2     -          OSK_CONSENSUS        -                3.2   12.4   0.6       3.5   12.3   0.6   1.1   1   0   0   1   1   1   0 TSA: Pontastacus leptodactylus Pl_CLC_85702 transcribed RNA sequence
+GBEI01019084.1_1     -          OSK_CONSENSUS        -                5.9   11.5   0.2       5.9   11.5   0.2   1.7   2   0   0   2   2   2   0 TSA: Pontastacus leptodactylus Pl_CLC_19122 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBEI.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBEI.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBEI.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:37 2019
+# [ok]

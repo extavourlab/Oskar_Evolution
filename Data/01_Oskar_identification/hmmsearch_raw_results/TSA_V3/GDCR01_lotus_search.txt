@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCR01091388.1_2     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-19   74.3   0.0   6.3e-18   69.8   0.0   2.2   2   0   0   2   2   2   1 TSA: Blattella germanica breed breeding s15752_L_91737_0_a_6_4_l_1424, transcribed RNA sequence
+GDCR01078790.1_4     -          oskar_filtered.aligned.LOTUS_domain -              3e-17   67.7   0.0   7.1e-17   66.5   0.0   1.7   1   0   0   1   1   1   1 TSA: Blattella germanica breed breeding C363783_a_11_0_l_889, transcribed RNA sequence
+GDCR01084997.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-05   28.5   0.0        41    9.5   0.0   5.1   2   1   3   5   5   5   1 TSA: Blattella germanica breed breeding C381292_a_46_0_l_4164, transcribed RNA sequence
+GDCR01078484.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00082   24.5   0.0     0.076   18.2   0.1   2.3   2   0   0   2   2   2   1 TSA: Blattella germanica breed breeding C362913_a_7_0_l_867, transcribed RNA sequence
+GDCR01086460.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.16   17.2   0.5      0.28   16.4   0.0   1.6   2   0   0   2   2   1   0 TSA: Blattella germanica breed breeding s11299_L_26287_0_a_24_9_l_817, transcribed RNA sequence
+GDCR01040405.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.42   15.8   6.6        16   10.8   1.6   2.1   1   1   1   2   2   2   0 TSA: Blattella germanica breed breeding C262876_a_4_0_l_279, transcribed RNA sequence
+GDCR01052085.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.97   14.7   0.2       1.5   14.1   0.2   1.3   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C293006_a_3_0_l_349, transcribed RNA sequence
+GDCR01002540.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.5   14.0   0.3       2.1   13.6   0.3   1.3   1   1   0   1   1   1   0 TSA: Blattella germanica breed breeding C175150_a_6_0_l_210, transcribed RNA sequence
+GDCR01022914.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.7   0.1       2.5   13.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C223692_a_3_0_l_252, transcribed RNA sequence
+GDCR01039978.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.1   13.0   0.0       4.1   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Blattella germanica breed breeding C261850_a_6_0_l_278, transcribed RNA sequence
+GDCR01089338.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.6   12.8   0.4        22   10.3   0.0   2.2   2   0   0   2   2   2   0 TSA: Blattella germanica breed breeding s13901_L_61631_0_a_21_9_l_1553, transcribed RNA sequence
+GDCR01072450.1_3     -          oskar_filtered.aligned.LOTUS_domain -                4.9   12.4   0.2   5.6e+02    5.8   0.0   2.2   2   0   0   2   2   2   0 TSA: Blattella germanica breed breeding C346230_a_4_0_l_613, transcribed RNA sequence
+GDCR01046311.1_4     -          oskar_filtered.aligned.LOTUS_domain -                5.1   12.3   0.1       7.7   11.8   0.0   1.4   1   1   0   1   1   1   0 TSA: Blattella germanica breed breeding C278184_a_8_0_l_311, transcribed RNA sequence
+GDCR01017843.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  6   12.1   1.8       6.5   12.0   1.8   1.3   1   1   0   1   1   1   0 TSA: Blattella germanica breed breeding C212466_a_9_0_l_246, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:42 2019
+# [ok]

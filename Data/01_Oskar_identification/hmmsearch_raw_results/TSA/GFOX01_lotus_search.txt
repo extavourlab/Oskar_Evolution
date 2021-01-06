@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOX01063207.1_4     -          LOTUS_CONSENSUS      -            2.8e-19   74.7   0.3   7.7e-19   73.3   0.3   1.8   1   0   0   1   1   1   1 TSA: Pyrrhocoris apterus TRINITY_DN36023_c0_g1_i1 transcribed RNA sequence
+GFOX01054735.1_2     -          LOTUS_CONSENSUS      -            6.3e-19   73.6   3.6   1.3e-17   69.4   0.3   3.6   4   0   0   4   4   4   1 TSA: Pyrrhocoris apterus TRINITY_DN26167_c0_g1_i1 transcribed RNA sequence
+GFOX01020575.1_3     -          LOTUS_CONSENSUS      -            2.4e-13   55.7   0.0      0.22   17.4   0.0   5.0   2   1   3   5   5   5   4 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i2 transcribed RNA sequence
+GFOX01020577.1_3     -          LOTUS_CONSENSUS      -            2.8e-13   55.5   0.0      0.22   17.4   0.0   5.0   2   1   3   5   5   5   4 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i4 transcribed RNA sequence
+GFOX01100473.1_3     -          LOTUS_CONSENSUS      -            2.9e-11   49.1   0.0   3.7e-11   48.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Pyrrhocoris apterus TRINITY_DN34637_c0_g1_i1 transcribed RNA sequence
+GFOX01020576.1_3     -          LOTUS_CONSENSUS      -              4e-11   48.6   0.0      0.19   17.5   0.0   4.1   3   1   1   4   4   4   3 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i3 transcribed RNA sequence
+GFOX01020574.1_3     -          LOTUS_CONSENSUS      -            4.5e-11   48.4   0.0       0.2   17.5   0.0   4.1   3   1   1   4   4   4   3 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i1 transcribed RNA sequence
+GFOX01122351.1_3     -          LOTUS_CONSENSUS      -              0.001   24.9   0.0    0.0011   24.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Pyrrhocoris apterus TRINITY_DN52628_c0_g1_i1 transcribed RNA sequence
+GFOX01125733.1_6     -          LOTUS_CONSENSUS      -              0.006   22.4   0.0     0.021   20.6   0.0   1.7   1   1   1   2   2   2   1 TSA: Pyrrhocoris apterus TRINITY_DN50944_c0_g1_i1 transcribed RNA sequence
+GFOX01061446.1_1     -          LOTUS_CONSENSUS      -              0.009   21.8   0.0     0.028   20.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Pyrrhocoris apterus TRINITY_DN27336_c5_g2_i1 transcribed RNA sequence
+GFOX01112035.1_3     -          LOTUS_CONSENSUS      -                7.3   12.5   2.1   4.2e+03    3.7   0.1   3.0   3   0   0   3   3   3   0 TSA: Pyrrhocoris apterus TRINITY_DN19912_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:40 2019
+# [ok]

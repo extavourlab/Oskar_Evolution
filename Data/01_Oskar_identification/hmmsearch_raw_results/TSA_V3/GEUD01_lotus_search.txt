@@ -1,0 +1,44 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEUD01197711.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-22   84.5   0.6   7.6e-18   70.6   0.1   2.5   2   0   0   2   2   2   2 TSA: Callosobruchus maculatus TR3674-c1_g1_i4 transcribed RNA sequence
+GEUD01195540.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-22   84.3   0.6   7.9e-18   70.6   0.1   2.5   2   0   0   2   2   2   2 TSA: Callosobruchus maculatus TR3674-c1_g1_i2 transcribed RNA sequence
+GEUD01053888.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-21   81.4   3.3   1.4e-17   69.7   0.1   3.2   3   0   0   3   3   3   2 TSA: Callosobruchus maculatus TR3674-c1_g1_i1 transcribed RNA sequence
+GEUD01097711.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-21   81.3   3.3   1.5e-17   69.7   0.1   3.2   3   0   0   3   3   3   2 TSA: Callosobruchus maculatus TR3674-c1_g1_i5 transcribed RNA sequence
+GEUD01200652.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-20   77.1   0.2   1.1e-17   70.2   0.0   2.8   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus TR54488-c5_g6_i2 transcribed RNA sequence
+GEUD01099569.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.6e-20   77.1   0.2   1.1e-17   70.1   0.0   2.8   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus TR54488-c5_g6_i3 transcribed RNA sequence
+GEUD01111791.1_1     -          oskar_filtered.aligned.LOTUS_domain -            7.6e-20   77.1   0.2   1.1e-17   70.1   0.0   2.8   2   0   0   2   2   2   1 TSA: Callosobruchus maculatus TR54488-c5_g6_i1 transcribed RNA sequence
+GEUD01023770.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-19   76.4   0.7   1.2e-19   76.4   0.7   2.6   3   0   0   3   3   2   1 TSA: Callosobruchus maculatus TR7338-c1_g1_i1 transcribed RNA sequence
+GEUD01189070.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-07   37.9   0.1        31   10.9   0.4   5.3   2   1   2   4   4   4   2 TSA: Callosobruchus maculatus TR29995-c3_g15_i2 transcribed RNA sequence
+GEUD01137131.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-07   37.8   0.1        35   10.7   0.4   5.5   2   1   2   4   4   4   2 TSA: Callosobruchus maculatus TR29995-c3_g15_i1 transcribed RNA sequence
+GEUD01137247.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-07   37.7   1.4        26   11.2   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g2_i1 transcribed RNA sequence
+GEUD01110378.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   37.5   1.4        26   11.1   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g3_i1 transcribed RNA sequence
+GEUD01023613.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   37.5   1.4        26   11.1   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g8_i1 transcribed RNA sequence
+GEUD01036307.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   37.5   1.4        26   11.1   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g6_i1 transcribed RNA sequence
+GEUD01046591.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   37.5   1.4        26   11.1   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g13_i1 transcribed RNA sequence
+GEUD01131807.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-07   37.5   1.4        26   11.1   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g14_i1 transcribed RNA sequence
+GEUD01138028.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-07   37.3   1.3        28   11.0   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g10_i1 transcribed RNA sequence
+GEUD01061952.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-07   37.3   1.4        28   11.1   0.4   5.3   3   1   2   5   5   4   2 TSA: Callosobruchus maculatus TR29995-c3_g9_i1 transcribed RNA sequence
+GEUD01208726.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.3   15.3   0.2       8.8   12.7   0.0   2.0   2   0   0   2   2   2   0 TSA: Callosobruchus maculatus TR47238-c0_g1_i4 transcribed RNA sequence
+GEUD01062760.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.3   14.6   0.1       2.6   14.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR71204-c1_g4_i1 transcribed RNA sequence
+GEUD01159584.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.7   14.3   1.2       4.7   13.5   1.0   1.5   1   1   0   1   1   1   0 TSA: Callosobruchus maculatus TR29762-c0_g1_i5 transcribed RNA sequence
+GEUD01087254.1_5     -          oskar_filtered.aligned.LOTUS_domain -                  3   14.1   1.2        12   12.2   0.0   2.3   3   0   0   3   3   2   0 TSA: Callosobruchus maculatus TR47238-c0_g1_i1 transcribed RNA sequence
+GEUD01090981.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.6   13.9   0.5       6.9   13.0   0.5   1.5   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR71204-c1_g3_i4 transcribed RNA sequence
+GEUD01061134.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.8   13.8   1.2        13   12.1   0.0   2.2   3   0   0   3   3   2   0 TSA: Callosobruchus maculatus TR47238-c0_g1_i2 transcribed RNA sequence
+GEUD01060544.1_6     -          oskar_filtered.aligned.LOTUS_domain -                4.4   13.6   0.5       5.5   13.3   0.5   1.4   1   1   0   1   1   1   0 TSA: Callosobruchus maculatus TR57317-c1_g2_i2 transcribed RNA sequence
+GEUD01086366.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  5   13.5   0.2       6.6   13.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR71204-c1_g3_i8 transcribed RNA sequence
+GEUD01005498.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.5   13.3   1.5       8.5   12.7   1.5   1.3   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR49028-c0_g1_i2 transcribed RNA sequence
+GEUD01133029.1_5     -          oskar_filtered.aligned.LOTUS_domain -                5.6   13.3   1.5        15   11.9   0.0   2.2   3   0   0   3   3   2   0 TSA: Callosobruchus maculatus TR47238-c0_g1_i3 transcribed RNA sequence
+GEUD01110689.1_4     -          oskar_filtered.aligned.LOTUS_domain -                  6   13.2   1.5        16   11.9   0.0   2.2   3   0   0   3   3   2   0 TSA: Callosobruchus maculatus TR47238-c0_g1_i5 transcribed RNA sequence
+GEUD01151746.1_5     -          oskar_filtered.aligned.LOTUS_domain -                8.2   12.8   0.9        13   12.1   0.4   1.6   2   0   0   2   2   2   0 TSA: Callosobruchus maculatus TR56002-c0_g1_i1 transcribed RNA sequence
+GEUD01000073.1_4     -          oskar_filtered.aligned.LOTUS_domain -                8.2   12.8   1.5        15   11.9   0.2   1.9   2   0   0   2   2   2   0 TSA: Callosobruchus maculatus TR15917-c4_g21_i10 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEUD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:46 2019
+# [ok]

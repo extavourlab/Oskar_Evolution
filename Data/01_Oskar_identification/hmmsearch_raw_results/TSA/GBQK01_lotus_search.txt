@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQK01000005.1_1     -          LOTUS_CONSENSUS      -            4.7e-20   74.6   0.0   1.4e-19   73.1   0.0   1.9   1   0   0   1   1   1   1 TSA: Heriades truncorum C100034_a_33_0_l_4046 transcribed RNA sequence
+GBQK01018407.1_4     -          LOTUS_CONSENSUS      -              7e-16   61.2   5.5   7.4e-11   45.1   0.2   3.9   3   1   1   4   4   4   2 TSA: Heriades truncorum s4269_L_6169_0_a_8_1_l_2286 transcribed RNA sequence
+GBQK01018409.1_5     -          LOTUS_CONSENSUS      -            5.2e-11   45.6   0.2   1.8e-10   43.8   0.2   2.0   1   0   0   1   1   1   1 TSA: Heriades truncorum s4270_L_6169_1_a_12_1_l_4597 transcribed RNA sequence
+GBQK01018409.1_6     -          LOTUS_CONSENSUS      -              0.016   18.4   0.1      0.23   14.7   0.0   3.1   1   1   1   2   2   2   0 TSA: Heriades truncorum s4270_L_6169_1_a_12_1_l_4597 transcribed RNA sequence
+GBQK01004447.1_6     -          LOTUS_CONSENSUS      -                0.9   12.8   0.1         1   12.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Heriades truncorum C53293_a_4_0_l_313 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:05 2019
+# [ok]

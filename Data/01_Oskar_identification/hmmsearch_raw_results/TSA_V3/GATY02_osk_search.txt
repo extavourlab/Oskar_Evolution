@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATY02022501.1_1     -          oskar_filtered.aligned.OSK_domain -            7.8e-63  214.5   0.2   7.8e-63  214.5   0.2   1.9   2   0   0   2   2   2   1 TSA: Chrysis viridula s5372_L_14633_1_a_35_8_l_3299 transcribed RNA sequence
+GATY02022500.1_1     -          oskar_filtered.aligned.OSK_domain -            1.2e-62  213.9   0.2   1.2e-62  213.9   0.2   1.8   2   0   0   2   2   2   1 TSA: Chrysis viridula s5371_L_14633_0_a_27_5_l_4512 transcribed RNA sequence
+GATY02020018.1_1     -          oskar_filtered.aligned.OSK_domain -               0.74   12.5   3.7        17    8.0   0.2   2.8   1   1   2   3   3   3   0 TSA: Chrysis viridula s3098_L_4782_0_a_18_5_l_967 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATY02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATY02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATY02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:53 2019
+# [ok]

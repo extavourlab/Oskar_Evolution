@@ -1,0 +1,33 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGLW01190229.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-16   66.3   5.3   4.8e-14   58.3   0.0   3.4   3   0   0   3   3   3   2 TSA: Arctia plantaginis Col_TRINITY_DN40707_c0_g1_i1 transcribed RNA sequence
+GGLW01190230.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-16   66.3   5.3   4.8e-14   58.3   0.0   3.4   3   0   0   3   3   3   2 TSA: Arctia plantaginis Col_TRINITY_DN40707_c0_g1_i2 transcribed RNA sequence
+GGLW01056387.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-15   62.3   3.9   1.1e-14   60.4   0.0   2.4   2   0   0   2   2   2   1 TSA: Arctia plantaginis Al_TRINITY_DN42970_c0_g2_i1 transcribed RNA sequence
+GGLW01056388.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-15   62.3   3.6   1.2e-14   60.2   0.0   2.4   2   0   0   2   2   2   1 TSA: Arctia plantaginis Al_TRINITY_DN42970_c0_g2_i3 transcribed RNA sequence
+GGLW01130338.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0011   25.1   0.2    0.0044   23.1   0.0   2.1   2   0   0   2   2   2   1 TSA: Arctia plantaginis Col_TRINITY_DN61574_c0_g1_i1 transcribed RNA sequence
+GGLW01057850.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.18   17.9   0.0      0.33   17.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN57160_c0_g1_i1 transcribed RNA sequence
+GGLW01141678.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.19   17.9   0.0      0.21   17.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN23239_c0_g1_i1 transcribed RNA sequence
+GGLW01043975.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.99   15.6   0.4       1.3   15.2   0.4   1.2   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN3347_c0_g2_i1 transcribed RNA sequence
+GGLW01040706.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   15.4   0.3       1.4   15.1   0.3   1.2   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN43201_c0_g4_i2 transcribed RNA sequence
+GGLW01141680.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.4   15.1   0.0       2.2   14.4   0.0   1.3   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN23239_c0_g1_i3 transcribed RNA sequence
+GGLW01141679.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.5   15.0   0.0         2   14.6   0.0   1.2   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN23239_c0_g1_i2 transcribed RNA sequence
+GGLW01006517.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.1   14.0   0.1       3.6   13.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN24188_c0_g1_i1 transcribed RNA sequence
+GGLW01007111.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.8   0.3        11   12.2   0.1   1.9   2   0   0   2   2   2   0 TSA: Arctia plantaginis Al_TRINITY_DN39556_c0_g2_i1 transcribed RNA sequence
+GGLW01168900.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.7   0.3        11   12.2   0.1   1.8   2   0   0   2   2   2   0 TSA: Arctia plantaginis Col_TRINITY_DN38563_c0_g1_i2 transcribed RNA sequence
+GGLW01168899.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.8   13.7   0.3        11   12.2   0.1   1.8   2   0   0   2   2   2   0 TSA: Arctia plantaginis Col_TRINITY_DN38563_c0_g1_i1 transcribed RNA sequence
+GGLW01031654.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.4   13.5   0.2       6.2   13.0   0.2   1.2   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN68681_c0_g1_i1 transcribed RNA sequence
+GGLW01131589.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.8   13.4   0.1       6.1   13.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Arctia plantaginis Col_TRINITY_DN42875_c0_g1_i1 transcribed RNA sequence
+GGLW01031308.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.9   13.3   0.0        10   12.3   0.0   1.5   1   0   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN41386_c0_g7_i1 transcribed RNA sequence
+GGLW01089830.1_3     -          oskar_filtered.aligned.LOTUS_domain -                7.3   12.8   0.0        14   11.9   0.0   1.5   1   1   0   1   1   1   0 TSA: Arctia plantaginis Al_TRINITY_DN22323_c0_g1_i1 transcribed RNA sequence
+GGLW01092162.1_4     -          oskar_filtered.aligned.LOTUS_domain -                7.7   12.7   1.2        19   11.5   0.1   2.1   2   1   0   2   2   2   0 TSA: Arctia plantaginis Al_TRINITY_DN45350_c2_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGLW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGLW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:10 2019
+# [ok]

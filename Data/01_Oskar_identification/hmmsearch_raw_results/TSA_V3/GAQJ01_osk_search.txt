@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAQJ01008997.1_1     -          oskar_filtered.aligned.OSK_domain -               0.29   15.1   0.4         1   13.3   0.2   1.7   1   1   1   2   2   2   0 TSA: Ostrinia furnacalis CL3321.Contig4_All transcribed RNA sequence
+GAQJ01001854.1_1     -          oskar_filtered.aligned.OSK_domain -               0.72   13.8   0.2      0.97   13.4   0.2   1.2   1   0   0   1   1   1   0 TSA: Ostrinia furnacalis CL601.Contig2_All transcribed RNA sequence
+GAQJ01008867.1_1     -          oskar_filtered.aligned.OSK_domain -                1.2   13.1   0.6       1.6   12.6   0.1   1.5   2   0   0   2   2   2   0 TSA: Ostrinia furnacalis CL3267.Contig2_All transcribed RNA sequence
+GAQJ01027843.1_2     -          oskar_filtered.aligned.OSK_domain -                1.9   12.4   0.3       5.5   10.9   0.3   1.7   1   0   0   1   1   1   0 TSA: Ostrinia furnacalis Unigene4954_All transcribed RNA sequence
+GAQJ01000115.1_5     -          oskar_filtered.aligned.OSK_domain -                1.9   12.4   2.7       7.3   10.5   2.5   1.9   1   1   1   2   2   2   0 TSA: Ostrinia furnacalis CL39.Contig1_All transcribed RNA sequence
+GAQJ01008996.1_2     -          oskar_filtered.aligned.OSK_domain -                  2   12.4   0.5       5.6   10.9   0.2   1.8   1   1   1   2   2   2   0 TSA: Ostrinia furnacalis CL3321.Contig3_All transcribed RNA sequence
+GAQJ01008995.1_3     -          oskar_filtered.aligned.OSK_domain -                2.3   12.1   0.4       6.2   10.7   0.2   1.7   1   1   1   2   2   2   0 TSA: Ostrinia furnacalis CL3321.Contig2_All transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAQJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAQJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAQJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:07 2019
+# [ok]

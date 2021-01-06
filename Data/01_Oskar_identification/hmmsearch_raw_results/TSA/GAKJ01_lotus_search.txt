@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAKJ01004384.1_3     -          LOTUS_CONSENSUS      -            2.7e-11   45.8   0.0     6e-11   44.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene8085_S_mosellanaA transcribed RNA sequence
+GAKJ01010751.1_3     -          LOTUS_CONSENSUS      -              1e-08   37.5   0.2   5.7e-08   35.1   0.2   2.3   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene19253_S_mosellanaA transcribed RNA sequence
+GAKJ01009501.1_3     -          LOTUS_CONSENSUS      -            5.2e-08   35.3   0.4   3.8e-07   32.5   0.1   2.4   2   0   0   2   2   2   1 TSA: Sitodiplosis mosellana Unigene17785_S_mosellanaA transcribed RNA sequence
+GAKJ01002860.1_1     -          LOTUS_CONSENSUS      -            1.2e-07   34.1   0.0   2.6e-07   33.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene6225_S_mosellanaA transcribed RNA sequence
+GAKJ01008260.1_2     -          LOTUS_CONSENSUS      -            0.00022   23.6   0.2   0.00073   22.0   0.2   1.9   1   1   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene16352_S_mosellanaA transcribed RNA sequence
+GAKJ01003894.1_1     -          LOTUS_CONSENSUS      -             0.0039   19.7   0.2     0.012   18.1   0.2   1.9   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene7480_S_mosellanaA transcribed RNA sequence
+GAKJ01010820.1_3     -          LOTUS_CONSENSUS      -              0.014   17.9   1.3        32    7.1   0.0   5.0   4   1   1   5   5   5   0 TSA: Sitodiplosis mosellana Unigene19333_S_mosellanaA transcribed RNA sequence
+GAKJ01010819.1_1     -          LOTUS_CONSENSUS      -               0.09   15.3   4.3        33    7.1   0.0   5.2   5   1   1   6   6   6   0 TSA: Sitodiplosis mosellana Unigene19332_S_mosellanaA transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAKJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAKJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:06 2019
+# [ok]

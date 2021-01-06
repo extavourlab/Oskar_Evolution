@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEDB01024285.1_1     -          OSK_CONSENSUS        -            2.3e-58  201.9   2.5     7e-58  200.4   2.5   1.9   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-024348 transcribed RNA sequence
+GEDB01024287.1_1     -          OSK_CONSENSUS        -            2.4e-58  201.9   2.5   7.1e-58  200.3   2.5   1.8   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-024350 transcribed RNA sequence
+GEDB01024283.1_1     -          OSK_CONSENSUS        -            7.1e-58  200.3   2.5   7.1e-58  200.3   2.5   2.7   2   0   0   2   2   2   1 TSA: Polistes dominula PdomTSAr1.2-024346 transcribed RNA sequence
+GEDB01133643.1_1     -          OSK_CONSENSUS        -               0.34   16.1   1.0      0.41   15.8   1.0   1.1   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-135915 transcribed RNA sequence
+GEDB01087100.1_2     -          OSK_CONSENSUS        -                3.4   12.9   0.1         4   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-089156 transcribed RNA sequence
+GEDB01043793.1_2     -          OSK_CONSENSUS        -                3.7   12.7   0.5       4.6   12.4   0.5   1.1   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-045647 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEDB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:17 2019
+# [ok]

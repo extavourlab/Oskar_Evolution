@@ -1,0 +1,40 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011862145.1       -          oskar_filtered.aligned.LOTUS_domain -            8.9e-30  103.5   0.1   3.9e-29  101.4   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC105558834 [Vollenhovia emeryi]
+XP_011858063.1       -          oskar_filtered.aligned.LOTUS_domain -            6.8e-23   81.4   0.0   1.3e-19   70.9   0.0   2.6   2   0   0   2   2   2   2 PREDICTED: uncharacterized protein LOC105555648, partial [Vollenhovia emeryi]
+XP_011861501.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-21   75.3   0.0   6.8e-21   75.0   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011861502.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-21   75.3   0.0   6.8e-21   75.0   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011861503.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-21   75.3   0.0   6.8e-21   75.0   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011861504.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-21   75.3   0.0   6.8e-21   75.0   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011879961.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-15   58.2   7.6   1.1e-12   48.6   0.0   4.2   4   0   0   4   4   3   2 PREDICTED: uncharacterized protein LOC105568703 [Vollenhovia emeryi]
+XP_011876532.1       -          oskar_filtered.aligned.LOTUS_domain -            1.6e-05   25.6   0.0       2.2    9.1   0.0   4.8   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1-like isoform X10 [Vollenhovia emeryi]
+XP_011876531.1       -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   25.6   0.0       2.3    9.1   0.0   4.8   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1-like isoform X9 [Vollenhovia emeryi]
+XP_011876530.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-05   25.1   0.0       2.5    9.0   0.0   4.8   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X8 [Vollenhovia emeryi]
+XP_011876529.1       -          oskar_filtered.aligned.LOTUS_domain -            2.8e-05   24.9   0.0       2.6    8.9   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X7 [Vollenhovia emeryi]
+XP_011876528.1       -          oskar_filtered.aligned.LOTUS_domain -            3.1e-05   24.7   0.0       2.7    8.9   0.0   4.8   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X6 [Vollenhovia emeryi]
+XP_011876527.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-05   24.3   0.0         3    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X5 [Vollenhovia emeryi]
+XP_011876526.1       -          oskar_filtered.aligned.LOTUS_domain -            4.1e-05   24.3   0.0         3    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X4 [Vollenhovia emeryi]
+XP_011876525.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-05   24.2   0.0       2.9    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X3 [Vollenhovia emeryi]
+XP_011876524.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   24.2   0.0       2.9    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X2 [Vollenhovia emeryi]
+XP_011876518.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   24.2   0.0       2.9    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876519.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   24.2   0.0       2.9    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876520.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   24.2   0.0       2.9    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876521.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   24.2   0.0       2.9    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876523.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   24.2   0.0       2.9    8.7   0.0   4.7   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876992.1       -          oskar_filtered.aligned.LOTUS_domain -                0.1   13.4   2.0       0.2   12.4   0.0   2.6   3   1   0   3   3   2   0 PREDICTED: uncharacterized protein LOC105567061 isoform X2 [Vollenhovia emeryi]
+XP_011876991.1       -          oskar_filtered.aligned.LOTUS_domain -               0.11   13.3   2.0      0.22   12.3   0.0   2.5   3   1   0   3   3   2   0 PREDICTED: uncharacterized protein LOC105567061 isoform X1 [Vollenhovia emeryi]
+XP_011879911.1       -          oskar_filtered.aligned.LOTUS_domain -               0.13   13.1   0.1       4.9    8.0   0.0   2.9   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X3 [Vollenhovia emeryi]
+XP_011879908.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.9   0.1         6    7.7   0.0   2.9   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Vollenhovia emeryi]
+XP_011879909.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.9   0.1         6    7.7   0.0   2.9   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Vollenhovia emeryi]
+XP_011879910.1       -          oskar_filtered.aligned.LOTUS_domain -               0.16   12.8   0.1       6.4    7.6   0.0   2.9   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Vollenhovia emeryi]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000949405.1_V.emery_V1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000949405.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000949405.1_V.emery_V1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:40 2019
+# [ok]

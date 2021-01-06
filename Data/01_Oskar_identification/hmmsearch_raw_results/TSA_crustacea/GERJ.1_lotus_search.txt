@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GERJ01023119.1_4     -          LOTUS_CONSENSUS      -            7.4e-11   46.5   0.1     1e-10   46.1   0.1   1.2   1   0   0   1   1   1   1 TSA: Pallasea grubei c30955_g2_i1 transcribed RNA sequence
+GERJ01000711.1_1     -          LOTUS_CONSENSUS      -               0.13   17.0   0.0        36    9.1   0.0   2.1   1   1   1   2   2   2   0 TSA: Pallasea grubei c1123_g1_i1 transcribed RNA sequence
+GERJ01038049.1_6     -          LOTUS_CONSENSUS      -               0.29   15.8   0.1      0.77   14.4   0.1   1.6   1   0   0   1   1   1   0 TSA: Pallasea grubei c41182_g3_i3 transcribed RNA sequence
+GERJ01038050.1_6     -          LOTUS_CONSENSUS      -               0.82   14.4   0.5       2.6   12.8   0.1   2.0   2   0   0   2   2   2   0 TSA: Pallasea grubei c41182_g3_i4 transcribed RNA sequence
+GERJ01038048.1_6     -          LOTUS_CONSENSUS      -                1.2   13.9   0.5       3.2   12.4   0.1   1.9   2   0   0   2   2   2   0 TSA: Pallasea grubei c41182_g3_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERJ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GERJ.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GERJ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:46 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCME01020341.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-23   85.9   0.0   1.5e-23   85.9   0.0   2.3   3   0   0   3   3   3   1 TSA: Leucozona lucorum s5493_L_10138_0_a_17_8_l_1896 transcribed RNA sequence
+GCME01020841.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-18   68.1   0.1   5.4e-17   64.8   0.0   2.6   2   0   0   2   2   2   1 TSA: Leucozona lucorum s5950_L_12197_1_a_29_8_l_2554 transcribed RNA sequence
+GCME01020839.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-17   66.8   0.0   4.9e-17   64.9   0.0   2.1   1   0   0   1   1   1   1 TSA: Leucozona lucorum s5949_L_12197_0_a_25_5_l_2382 transcribed RNA sequence
+GCME01013135.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.1e-08   36.7   0.0   3.1e-08   36.7   0.0   2.6   3   0   0   3   3   3   1 TSA: Leucozona lucorum C91972_a_17_0_l_1293 transcribed RNA sequence
+GCME01015336.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.069   16.3   0.0   3.8e+02    4.3   0.0   5.0   5   1   0   5   5   5   0 TSA: Leucozona lucorum C99700_a_25_0_l_2907 transcribed RNA sequence
+GCME01007626.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.61   13.2   2.1      0.83   12.8   0.4   1.8   1   1   2   3   3   3   0 TSA: Leucozona lucorum C70168_a_9_0_l_453 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCME01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCME01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCME01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:13 2019
+# [ok]

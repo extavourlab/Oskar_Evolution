@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQW01043744.1_6     -          LOTUS_CONSENSUS      -            1.7e-10   45.6   0.1   2.6e-10   45.0   0.1   1.2   1   0   0   1   1   1   1 TSA: Palicarinus puzyllii c41924_g2_i1 transcribed RNA sequence
+GEQW01002521.1_5     -          LOTUS_CONSENSUS      -               0.15   16.9   0.2      0.61   14.9   0.0   1.9   2   0   0   2   2   2   0 TSA: Palicarinus puzyllii c4047_g2_i1 transcribed RNA sequence
+GEQW01011786.1_4     -          LOTUS_CONSENSUS      -                0.8   14.6   0.1         1   14.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Palicarinus puzyllii c16850_g1_i1 transcribed RNA sequence
+GEQW01048157.1_4     -          LOTUS_CONSENSUS      -               0.85   14.5   0.9       2.4   13.0   0.1   2.1   2   0   0   2   2   2   0 TSA: Palicarinus puzyllii c42756_g1_i3 transcribed RNA sequence
+GEQW01048156.1_4     -          LOTUS_CONSENSUS      -               0.88   14.4   0.8       2.4   13.0   0.1   2.1   2   0   0   2   2   2   0 TSA: Palicarinus puzyllii c42756_g1_i2 transcribed RNA sequence
+GEQW01005464.1_1     -          LOTUS_CONSENSUS      -                1.7   13.5   0.0       2.7   12.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Palicarinus puzyllii c8105_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQW.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQW.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQW.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:31 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUG02028132.1_6     -          OSK_CONSENSUS        -            0.00057   23.7   0.4    0.0008   23.2   0.4   1.2   1   0   0   1   1   1   1 TSA: Meinertellus cundinamarcensis C244396_a_8_0_l_505 transcribed RNA sequence
+GAUG02011355.1_4     -          OSK_CONSENSUS        -              0.024   18.4   0.1     0.028   18.2   0.1   1.0   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C188117_a_3_0_l_254 transcribed RNA sequence
+GAUG02012371.1_4     -          OSK_CONSENSUS        -               0.21   15.4   0.1      0.21   15.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C190847_a_3_0_l_258 transcribed RNA sequence
+GAUG02010629.1_3     -          OSK_CONSENSUS        -               0.24   15.2   0.2      0.26   15.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C186227_a_4_0_l_251 transcribed RNA sequence
+GAUG02029286.1_3     -          OSK_CONSENSUS        -               0.43   14.4   0.3      0.49   14.2   0.3   1.1   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C248544_a_3_0_l_544 transcribed RNA sequence
+GAUG02023387.1_2     -          OSK_CONSENSUS        -               0.82   13.4   1.1       1.1   13.1   0.9   1.3   1   1   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C227863_a_5_0_l_392 transcribed RNA sequence
+GAUG02035210.1_4     -          OSK_CONSENSUS        -                1.1   13.1   1.6       1.6   12.5   0.6   1.8   2   0   0   2   2   2   0 TSA: Meinertellus cundinamarcensis C270772_a_11_0_l_963 transcribed RNA sequence
+GAUG02041482.1_5     -          OSK_CONSENSUS        -                1.8   12.3   0.0       2.6   11.8   0.0   1.3   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis s12067_L_22620_0_a_4_6_l_480 transcribed RNA sequence
+GAUG02023208.1_3     -          OSK_CONSENSUS        -                2.2   12.0   0.0       2.3   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Meinertellus cundinamarcensis C227201_a_4_0_l_388 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUG02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUG02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUG02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:38 2019
+# [ok]

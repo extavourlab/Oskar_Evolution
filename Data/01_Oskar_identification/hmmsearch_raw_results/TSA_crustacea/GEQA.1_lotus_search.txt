@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEQA01035609.1_1     -          LOTUS_CONSENSUS      -            1.4e-10   45.8   0.0     2e-10   45.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Eulimnogammarus sp. gam2quest c38605_g1_i1 transcribed RNA sequence
+GEQA01003806.1_2     -          LOTUS_CONSENSUS      -               0.51   15.1   0.1      0.53   15.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Eulimnogammarus sp. gam2quest c6155_g1_i1 transcribed RNA sequence
+GEQA01051492.1_5     -          LOTUS_CONSENSUS      -                1.4   13.8   2.1       6.1   11.7   0.1   2.6   2   1   1   3   3   3   0 TSA: Eulimnogammarus sp. gam2quest c44507_g3_i1 transcribed RNA sequence
+GEQA01016035.1_1     -          LOTUS_CONSENSUS      -                2.8   12.8   0.1         7   11.5   0.1   1.6   2   0   0   2   2   2   0 TSA: Eulimnogammarus sp. gam2quest c23800_g3_i1 transcribed RNA sequence
+GEQA01051733.1_1     -          LOTUS_CONSENSUS      -                3.4   12.5   0.0       7.6   11.4   0.0   1.5   2   0   0   2   2   2   0 TSA: Eulimnogammarus sp. gam2quest c44562_g1_i1 transcribed RNA sequence
+GEQA01032998.1_2     -          LOTUS_CONSENSUS      -                5.5   11.8   0.9   3.9e+02    5.9   0.1   2.2   2   0   0   2   2   2   0 TSA: Eulimnogammarus sp. gam2quest c37029_g3_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQA.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEQA.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEQA.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:02 2019
+# [ok]

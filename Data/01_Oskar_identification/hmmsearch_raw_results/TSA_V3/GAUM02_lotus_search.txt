@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUM02026950.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-18   71.0   0.0   1.9e-18   70.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Machilis hrabei C196260_a_3_0_l_974 transcribed RNA sequence
+GAUM02030886.1_4     -          oskar_filtered.aligned.LOTUS_domain -            0.00019   25.4   0.0        51    8.0   0.0   5.1   2   1   3   5   5   5   2 TSA: Machilis hrabei C211128_a_17_0_l_4631 transcribed RNA sequence
+GAUM02019174.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.14   16.3   1.7      0.19   15.8   1.7   1.2   1   0   0   1   1   1   0 TSA: Machilis hrabei C167653_a_3_0_l_449 transcribed RNA sequence
+GAUM02019887.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.52   14.4   0.1      0.89   13.6   0.1   1.4   1   0   0   1   1   1   0 TSA: Machilis hrabei C170123_a_3_0_l_472 transcribed RNA sequence
+GAUM02036587.1_6     -          oskar_filtered.aligned.LOTUS_domain -                0.7   14.0   0.3     1e+02    7.0   0.0   3.0   3   0   0   3   3   3   0 TSA: Machilis hrabei s2718_L_2864_0_a_69_3_l_992 transcribed RNA sequence
+GAUM02002660.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.0   0.1       1.7   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Machilis hrabei C116182_a_8_0_l_222 transcribed RNA sequence
+GAUM02042485.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.6   12.8   0.1       3.5   11.7   0.1   1.6   1   0   0   1   1   1   0 TSA: Machilis hrabei s8039_L_12662_0_a_7_0_l_624 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUM02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUM02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUM02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:40 2019
+# [ok]

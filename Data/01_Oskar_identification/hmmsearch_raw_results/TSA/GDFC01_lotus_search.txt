@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFC01019625.1_2     -          LOTUS_CONSENSUS      -            2.2e-06   31.1   0.0   3.9e-06   30.3   0.0   1.4   1   0   0   1   1   1   1 TSA: Neoblaste papillosa breed wildtype C95197_a_4_0_l_576, transcribed RNA sequence
+GDFC01029441.1_5     -          LOTUS_CONSENSUS      -              0.017   18.6   0.0        15    9.2   0.0   4.8   6   0   0   6   6   6   0 TSA: Neoblaste papillosa breed wildtype s8595_L_25514_0_a_27_5_l_2976, transcribed RNA sequence
+GDFC01024686.1_5     -          LOTUS_CONSENSUS      -              0.083   16.4   0.1      0.13   15.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Neoblaste papillosa breed wildtype s4299_L_4961_0_a_22_8_l_701, transcribed RNA sequence
+GDFC01013680.1_2     -          LOTUS_CONSENSUS      -               0.38   14.3   0.2       0.5   13.9   0.2   1.3   1   0   0   1   1   1   0 TSA: Neoblaste papillosa breed wildtype C75817_a_6_0_l_328, transcribed RNA sequence
+GDFC01002950.1_5     -          LOTUS_CONSENSUS      -               0.88   13.2   0.0        17    9.0   0.0   2.5   2   0   0   2   2   2   0 TSA: Neoblaste papillosa breed wildtype C109769_a_4_0_l_1058, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:16 2019
+# [ok]

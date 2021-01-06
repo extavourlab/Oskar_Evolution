@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOB01052956.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-09   44.2   0.0   3.5e-09   43.2   0.0   1.5   1   0   0   1   1   1   1 TSA: Azaleodes micronipha TR27862-c0_g2_i1 transcribed RNA sequence
+GEOB01153403.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.58   16.9   0.1      0.71   16.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR80905-c0_g1_i1 transcribed RNA sequence
+GEOB01288869.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.6   15.4   0.1       1.8   15.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR192571-c0_g1_i1 transcribed RNA sequence
+GEOB01095029.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.9   15.2   0.9       1.9   15.2   0.9   1.4   2   0   0   2   2   2   0 TSA: Azaleodes micronipha TR50155-c0_g1_i1 transcribed RNA sequence
+GEOB01082842.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.7   14.7   2.4   3.7e+02    7.9   0.1   2.3   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR43592-c0_g1_i1 transcribed RNA sequence
+GEOB01082843.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.9   14.6   2.4   3.7e+02    7.9   0.1   2.3   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR43592-c0_g2_i1 transcribed RNA sequence
+GEOB01082844.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.9   14.6   2.4   3.7e+02    7.9   0.1   2.3   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR43592-c0_g3_i1 transcribed RNA sequence
+GEOB01285886.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.5   14.3   0.2         8   13.2   0.1   1.6   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR190096-c0_g1_i1 transcribed RNA sequence
+GEOB01172062.1_6     -          oskar_filtered.aligned.LOTUS_domain -                4.6   14.0   0.0       4.6   14.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR90884-c0_g1_i1 transcribed RNA sequence
+GEOB01008947.1_2     -          oskar_filtered.aligned.LOTUS_domain -                5.1   13.8   0.7        53   10.6   0.1   2.0   1   1   1   2   2   2   0 TSA: Azaleodes micronipha TR4234-c0_g1_i1 transcribed RNA sequence
+GEOB01035919.1_2     -          oskar_filtered.aligned.LOTUS_domain -                7.1   13.4   0.1        17   12.1   0.1   1.7   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR18524-c6_g6_i7 transcribed RNA sequence
+GEOB01035911.1_3     -          oskar_filtered.aligned.LOTUS_domain -                8.3   13.1   0.6        21   11.9   0.1   1.9   2   0   0   2   2   2   0 TSA: Azaleodes micronipha TR18524-c6_g6_i2 transcribed RNA sequence
+GEOB01233806.1_2     -          oskar_filtered.aligned.LOTUS_domain -                8.4   13.1   1.7        13   12.6   1.6   1.4   1   0   0   1   1   1   0 TSA: Azaleodes micronipha TR147109-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:06 2019
+# [ok]

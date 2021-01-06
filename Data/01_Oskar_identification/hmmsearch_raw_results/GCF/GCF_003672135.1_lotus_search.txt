@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011334222.1       -          LOTUS_CONSENSUS      -            1.3e-27   96.4   2.2   2.4e-27   95.5   0.0   2.4   2   0   0   2   2   2   1 uncharacterized protein LOC105277525 [Ooceraea biroi]
+XP_011349244.1       -          LOTUS_CONSENSUS      -            2.3e-20   73.2   0.0     1e-19   71.1   0.0   2.2   2   0   0   2   2   1   1 tudor domain-containing protein 7A [Ooceraea biroi]
+XP_011347444.1       -          LOTUS_CONSENSUS      -            9.1e-17   61.6   0.0   4.4e-10   40.2   0.0   3.4   2   0   0   2   2   2   2 uncharacterized protein LOC105285145 isoform X2 [Ooceraea biroi]
+XP_011347440.1       -          LOTUS_CONSENSUS      -            1.3e-16   61.1   0.0   5.3e-10   39.9   0.0   3.3   2   0   0   2   2   2   2 uncharacterized protein LOC105285145 isoform X1 [Ooceraea biroi]
+XP_011347441.1       -          LOTUS_CONSENSUS      -            1.3e-16   61.1   0.0   5.3e-10   39.9   0.0   3.3   2   0   0   2   2   2   2 uncharacterized protein LOC105285145 isoform X1 [Ooceraea biroi]
+XP_011347442.1       -          LOTUS_CONSENSUS      -            1.3e-16   61.1   0.0   5.3e-10   39.9   0.0   3.3   2   0   0   2   2   2   2 uncharacterized protein LOC105285145 isoform X1 [Ooceraea biroi]
+XP_019888898.1       -          LOTUS_CONSENSUS      -            6.7e-05   23.6   0.0       3.1    8.6   0.0   5.6   3   1   2   6   6   6   1 meiosis regulator and mRNA stability factor 1 isoform X4 [Ooceraea biroi]
+XP_019888897.1       -          LOTUS_CONSENSUS      -            8.2e-05   23.3   0.0       3.5    8.5   0.0   5.6   3   1   4   7   7   7   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Ooceraea biroi]
+XP_019888891.1       -          LOTUS_CONSENSUS      -            0.00019   22.1   0.0       4.4    8.1   0.0   5.4   3   1   4   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Ooceraea biroi]
+XP_019888892.1       -          LOTUS_CONSENSUS      -            0.00019   22.1   0.0       4.4    8.1   0.0   5.4   3   1   4   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Ooceraea biroi]
+XP_019888893.1       -          LOTUS_CONSENSUS      -            0.00019   22.1   0.0       4.4    8.1   0.0   5.4   3   1   4   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Ooceraea biroi]
+XP_019888895.1       -          LOTUS_CONSENSUS      -            0.00019   22.1   0.0       4.4    8.1   0.0   5.4   3   1   4   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Ooceraea biroi]
+XP_026825943.1       -          LOTUS_CONSENSUS      -            0.00019   22.1   0.0       4.4    8.1   0.0   5.4   3   1   4   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Ooceraea biroi]
+XP_026825944.1       -          LOTUS_CONSENSUS      -            0.00019   22.1   0.0       4.4    8.1   0.0   5.4   3   1   4   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Ooceraea biroi]
+XP_019888896.1       -          LOTUS_CONSENSUS      -            0.00019   22.1   0.0       4.4    8.1   0.0   5.4   3   1   4   7   7   6   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Ooceraea biroi]
+XP_026831342.1       -          LOTUS_CONSENSUS      -              0.026   15.3   0.4      0.55   11.0   0.4   2.0   1   1   0   1   1   1   0 oligoribonuclease, mitochondrial isoform X2 [Ooceraea biroi]
+XP_026831340.1       -          LOTUS_CONSENSUS      -               0.08   13.7   0.0       4.3    8.2   0.0   2.1   1   1   1   2   2   2   0 probable oligoribonuclease isoform X1 [Ooceraea biroi]
+XP_026831341.1       -          LOTUS_CONSENSUS      -               0.08   13.7   0.0       4.3    8.2   0.0   2.1   1   1   1   2   2   2   0 probable oligoribonuclease isoform X1 [Ooceraea biroi]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003672135.1_Obir_v5.4_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003672135.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003672135.1_Obir_v5.4_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:41 2019
+# [ok]

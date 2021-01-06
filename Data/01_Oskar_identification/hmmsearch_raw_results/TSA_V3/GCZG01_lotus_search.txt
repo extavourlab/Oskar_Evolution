@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZG01047016.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-19   74.4   0.1   2.8e-19   73.5   0.1   1.4   1   0   0   1   1   1   1 TSA: Peloridium pomponorum breed wildtype s17555_L_47678_2_7_7_COMPLEX, transcribed RNA sequence
+GCZG01047015.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.2e-19   71.8   0.1   2.8e-18   70.3   0.1   1.9   1   0   0   1   1   1   1 TSA: Peloridium pomponorum breed wildtype s17554_L_47678_1_38_4_COMPLEX, transcribed RNA sequence
+GCZG01042137.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-07   34.2   0.0   1.3e-06   32.9   0.0   1.8   1   0   0   1   1   1   1 TSA: Peloridium pomponorum breed wildtype s13158_L_29909_2_13_4_COMPLEX, transcribed RNA sequence
+GCZG01042135.1_5     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-07   34.1   0.0   1.3e-06   32.9   0.0   1.7   1   0   0   1   1   1   1 TSA: Peloridium pomponorum breed wildtype s13156_L_29909_0_13_5_COMPLEX, transcribed RNA sequence
+GCZG01032163.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-06   31.8   0.0   1.4e-05   29.6   0.0   1.9   2   0   0   2   2   2   1 TSA: Peloridium pomponorum breed wildtype C315603_3_0, transcribed RNA sequence
+GCZG01052251.1_5     -          oskar_filtered.aligned.LOTUS_domain -             0.0002   25.8   0.0        17   10.0   0.0   4.1   1   1   3   4   4   4   1 TSA: Peloridium pomponorum breed wildtype s22274_L_70402_0_5_1_LINEAR, transcribed RNA sequence
+GCZG01011324.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.094   17.2   0.0      0.13   16.8   0.0   1.3   1   0   0   1   1   1   0 TSA: Peloridium pomponorum breed wildtype C228118_6_0, transcribed RNA sequence
+GCZG01026031.1_4     -          oskar_filtered.aligned.LOTUS_domain -                0.7   14.5   4.0        55    8.4   0.3   2.1   2   0   0   2   2   2   0 TSA: Peloridium pomponorum breed wildtype C284647_4_0, transcribed RNA sequence
+GCZG01005531.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.2   0.1       2.2   12.9   0.1   1.2   1   0   0   1   1   1   0 TSA: Peloridium pomponorum breed wildtype C208400_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:35 2019
+# [ok]

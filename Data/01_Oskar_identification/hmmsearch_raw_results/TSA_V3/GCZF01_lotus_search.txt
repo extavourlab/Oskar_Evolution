@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZF01071714.1_3     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-18   69.0   0.0     2e-10   45.4   0.0   4.1   3   0   0   3   3   3   3 TSA: Ponana quadralaba breed wildtype s19851_L_107328_0_17_4_LINEAR, transcribed RNA sequence
+GCZF01056317.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-17   68.0   0.0   6.5e-17   66.3   0.0   1.9   2   0   0   2   2   2   1 TSA: Ponana quadralaba breed wildtype C455303_22_0, transcribed RNA sequence
+GCZF01051087.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-05   29.7   0.0     0.023   19.6   0.1   2.4   1   1   1   2   2   2   2 TSA: Ponana quadralaba breed wildtype C433477_4_0, transcribed RNA sequence
+GCZF01068131.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.026   19.4   0.1   1.6e+03    4.0   0.0   4.9   3   1   1   4   4   4   0 TSA: Ponana quadralaba breed wildtype s16618_L_80165_0_29_1_LINEAR, transcribed RNA sequence
+GCZF01010642.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.14   17.0   0.1      0.15   16.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C310346_2_0, transcribed RNA sequence
+GCZF01054663.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.61   15.0   0.0       1.2   14.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C448021_4_0, transcribed RNA sequence
+GCZF01047857.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.2   14.1   0.0        23    9.9   0.0   2.2   2   0   0   2   2   2   0 TSA: Ponana quadralaba breed wildtype C421679_2_0, transcribed RNA sequence
+GCZF01052232.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.6   0.2       2.9   12.8   0.2   1.4   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C437869_8_0, transcribed RNA sequence
+GCZF01054501.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.5   7.6        30    9.6   2.5   3.4   2   1   0   2   2   2   0 TSA: Ponana quadralaba breed wildtype C447391_5_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:34 2019
+# [ok]

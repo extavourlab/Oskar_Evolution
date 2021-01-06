@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPN01024988.1_3     -          OSK_CONSENSUS        -             0.0042   20.9   0.1    0.0078   20.0   0.1   1.4   1   0   0   1   1   1   1 TSA: Echiuropus macronychus c28298_g1_i2 transcribed RNA sequence
+GEPN01024987.1_1     -          OSK_CONSENSUS        -             0.0043   20.8   0.1    0.0097   19.7   0.1   1.6   1   0   0   1   1   1   1 TSA: Echiuropus macronychus c28298_g1_i1 transcribed RNA sequence
+GEPN01001138.1_1     -          OSK_CONSENSUS        -               0.38   14.5   0.2       0.4   14.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Echiuropus macronychus c1864_g1_i1 transcribed RNA sequence
+GEPN01020125.1_5     -          OSK_CONSENSUS        -               0.71   13.6   0.2      0.81   13.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Echiuropus macronychus c25031_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPN.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPN.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPN.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:15 2019
+# [ok]

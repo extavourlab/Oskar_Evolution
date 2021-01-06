@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOI01024236.1_3     -          oskar_filtered.aligned.OSK_domain -            6.5e-28  101.2   0.0   8.1e-28  100.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Cylas formicarius Unigene7908_luanA transcribed RNA sequence
+GEOI01024698.1_4     -          oskar_filtered.aligned.OSK_domain -                0.6   13.3   0.0       0.6   13.3   0.0   1.0   1   0   0   1   1   1   0 TSA: Cylas formicarius Unigene9066_luanA transcribed RNA sequence
+GEOI01028618.1_2     -          oskar_filtered.aligned.OSK_domain -                1.4   12.1   0.1       1.9   11.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Cylas formicarius Unigene16347_luanA transcribed RNA sequence
+GEOI01021584.1_6     -          oskar_filtered.aligned.OSK_domain -                6.1   10.0   7.1      0.72   13.1   0.2   2.7   2   1   0   2   2   2   0 TSA: Cylas formicarius Unigene1468_luanA transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:51 2019
+# [ok]

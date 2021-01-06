@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVC01015078.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-25   92.0   0.0   3.6e-25   90.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Metaphycus flavus C66132_a_61_0_l_2051 transcribed RNA sequence
+GBVC01002420.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.6e-05   25.2   0.0   0.00011   25.0   0.0   1.1   1   0   0   1   1   1   1 TSA: Metaphycus flavus C31279_a_3_0_l_261 transcribed RNA sequence
+GBVC01017351.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.029   17.2   1.0        72    6.3   0.0   3.5   3   0   0   3   3   3   0 TSA: Metaphycus flavus s239_L_676_1_a_51_3_l_1767 transcribed RNA sequence
+GBVC01001005.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.033   17.1   0.0     0.037   16.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Metaphycus flavus C27471_a_3_0_l_221 transcribed RNA sequence
+GBVC01017340.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.051   16.5   1.4        78    6.2   0.0   3.4   3   0   0   3   3   3   0 TSA: Metaphycus flavus s238_L_676_0_a_48_0_l_1878 transcribed RNA sequence
+GBVC01016681.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.15   15.0   2.1        36    7.3   0.0   3.7   4   0   0   4   4   4   0 TSA: Metaphycus flavus s1793_L_7026_1_a_58_8_l_1207 transcribed RNA sequence
+GBVC01016683.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.45   13.4   2.7        46    7.0   0.0   3.7   4   0   0   4   4   4   0 TSA: Metaphycus flavus s1795_L_7026_3_a_50_0_l_1461 transcribed RNA sequence
+GBVC01016682.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.6   13.0   2.7        50    6.8   0.0   3.8   4   0   0   4   4   4   0 TSA: Metaphycus flavus s1794_L_7026_2_a_53_0_l_1573 transcribed RNA sequence
+GBVC01014128.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.79   12.6   0.2       1.8   11.5   0.2   1.6   1   0   0   1   1   1   0 TSA: Metaphycus flavus C63602_a_20_0_l_1599 transcribed RNA sequence
+GBVC01016680.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.92   12.4   2.7        60    6.6   0.0   3.8   4   0   0   4   4   4   0 TSA: Metaphycus flavus s1792_L_7026_0_a_59_1_l_1818 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:48 2019
+# [ok]

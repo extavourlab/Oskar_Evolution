@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBXU01026888.1_5     -          LOTUS_CONSENSUS      -            8.6e-08   35.6   0.0   9.8e-08   35.4   0.0   1.1   1   0   0   1   1   1   1 TSA: Calanus finmarchicus comp22429_c0_seq1 transcribed RNA sequence
+GBXU01001334.1_6     -          LOTUS_CONSENSUS      -              0.028   17.9   0.0      0.37   14.3   0.0   1.9   2   0   0   2   2   2   0 TSA: Calanus finmarchicus comp2599_c0_seq1 transcribed RNA sequence
+GBXU01013165.1_3     -          LOTUS_CONSENSUS      -              0.079   16.5   0.0     0.091   16.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Calanus finmarchicus comp16043_c1_seq1 transcribed RNA sequence
+GBXU01013658.1_5     -          LOTUS_CONSENSUS      -                0.3   14.6   0.2        19    8.8   0.1   2.6   2   1   2   4   4   4   0 TSA: Calanus finmarchicus comp16139_c0_seq4 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBXU.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBXU.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBXU.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:12 2019
+# [ok]

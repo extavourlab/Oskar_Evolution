@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCEW01029380.1_6     -          OSK_CONSENSUS        -               0.23   14.4   0.3       0.4   13.7   0.3   1.3   1   0   0   1   1   1   0 TSA: Sapromyza sciomyzina s7060_L_18532_0_a_9_0_l_758 transcribed RNA sequence
+GCEW01023037.1_5     -          OSK_CONSENSUS        -                0.4   13.7   0.1      0.86   12.6   0.1   1.7   1   1   0   1   1   1   0 TSA: Sapromyza sciomyzina s1334_L_1782_1_a_47_6_l_808 transcribed RNA sequence
+GCEW01011227.1_3     -          OSK_CONSENSUS        -               0.76   12.7   4.6        32    7.5   0.2   2.9   2   1   0   2   2   2   0 TSA: Sapromyza sciomyzina C139321_a_7_0_l_1217 transcribed RNA sequence
+GCEW01027370.1_3     -          OSK_CONSENSUS        -               0.95   12.4   0.1         1   12.3   0.1   1.0   1   0   0   1   1   1   0 TSA: Sapromyza sciomyzina s524_L_612_0_a_3_5_l_275 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCEW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCEW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCEW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:34 2019
+# [ok]

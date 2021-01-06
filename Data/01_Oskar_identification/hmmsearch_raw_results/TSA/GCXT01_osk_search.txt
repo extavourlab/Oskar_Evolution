@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXT01024844.1_6     -          OSK_CONSENSUS        -            3.2e-34  121.2   0.0   6.4e-34  120.3   0.0   1.4   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s2901_L_3568_0_64_4_COMPLEX, transcribed RNA sequence
+GCXT01024845.1_6     -          OSK_CONSENSUS        -            3.4e-34  121.2   0.0   7.1e-34  120.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s2902_L_3568_1_62_0_COMPLEX, transcribed RNA sequence
+GCXT01028718.1_5     -          OSK_CONSENSUS        -            7.7e-28  100.5   0.0   1.6e-27   99.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s63_L_75_0_65_5_COMPLEX, transcribed RNA sequence
+GCXT01028829.1_6     -          OSK_CONSENSUS        -            8.8e-28  100.3   0.0   1.6e-27   99.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s64_L_75_1_64_6_COMPLEX, transcribed RNA sequence
+GCXT01028940.1_6     -          OSK_CONSENSUS        -            1.4e-26   96.4   0.0   2.8e-26   95.4   0.0   1.4   1   0   0   1   1   1   1 TSA: Orothrips kelloggi breed wildtype s65_L_75_2_61_4_COMPLEX, transcribed RNA sequence
+GCXT01021440.1_4     -          OSK_CONSENSUS        -            5.1e-06   29.6   0.1   1.3e-05   28.3   0.0   1.7   2   0   0   2   2   2   1 TSA: Orothrips kelloggi breed wildtype s13997_L_30564_0_5_2_LINEAR, transcribed RNA sequence
+GCXT01005590.1_2     -          OSK_CONSENSUS        -               0.12   15.4   0.1      0.14   15.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Orothrips kelloggi breed wildtype C123139_6_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:59 2019
+# [ok]

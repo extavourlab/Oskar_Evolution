@@ -1,0 +1,21 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFVN01079356.1_6     -          oskar_filtered.aligned.OSK_domain -               0.12   17.5   0.0      0.16   17.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Bicyclus anynana c59667_g1_i1 transcribed RNA sequence
+GFVN01116611.1_2     -          oskar_filtered.aligned.OSK_domain -                  1   14.4   0.3         1   14.4   0.3   1.1   1   0   0   1   1   1   0 TSA: Bicyclus anynana c71117_g1_i1 transcribed RNA sequence
+GFVN01079357.1_6     -          oskar_filtered.aligned.OSK_domain -                  1   14.4   0.0       1.4   14.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Bicyclus anynana c59667_g1_i2 transcribed RNA sequence
+GFVN01025314.1_5     -          oskar_filtered.aligned.OSK_domain -                1.3   14.0   0.2       1.6   13.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Bicyclus anynana c38757_g1_i1 transcribed RNA sequence
+GFVN01007943.1_2     -          oskar_filtered.aligned.OSK_domain -                1.7   13.6   0.2         2   13.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Bicyclus anynana c14517_g1_i1 transcribed RNA sequence
+GFVN01095011.1_6     -          oskar_filtered.aligned.OSK_domain -                3.9   12.5   1.2       9.4   11.2   0.1   2.1   2   0   0   2   2   2   0 TSA: Bicyclus anynana c61887_g3_i4 transcribed RNA sequence
+GFVN01005749.1_6     -          oskar_filtered.aligned.OSK_domain -                5.6   12.0   0.9       5.8   11.9   0.9   1.0   1   0   0   1   1   1   0 TSA: Bicyclus anynana c10701_g1_i1 transcribed RNA sequence
+GFVN01131251.1_1     -          oskar_filtered.aligned.OSK_domain -                9.2   11.3   2.6       9.8   11.2   2.6   1.0   1   0   0   1   1   1   0 TSA: Bicyclus anynana c86412_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFVN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFVN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFVN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:59 2019
+# [ok]

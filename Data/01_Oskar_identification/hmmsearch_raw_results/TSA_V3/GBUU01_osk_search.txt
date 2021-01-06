@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUU01026587.1_3     -          oskar_filtered.aligned.OSK_domain -            8.3e-55  188.5   4.4   1.6e-54  187.5   0.5   2.2   2   0   0   2   2   2   1 TSA: Ormyrus sp. AD-2014 s5201_L_19223_0_a_49_4_l_1571 transcribed RNA sequence
+GBUU01005557.1_4     -          oskar_filtered.aligned.OSK_domain -               0.86   12.4   0.2      0.94   12.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Ormyrus sp. AD-2014 C42310_a_31_0_l_280 transcribed RNA sequence
+GBUU01024747.1_4     -          oskar_filtered.aligned.OSK_domain -                2.4   10.9   4.5       4.2   10.1   4.4   1.6   1   1   0   1   1   1   0 TSA: Ormyrus sp. AD-2014 s3539_L_5995_0_a_7_2_l_1187 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:30 2019
+# [ok]

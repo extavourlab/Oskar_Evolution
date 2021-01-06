@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUM02031677.1_1     -          oskar_filtered.aligned.OSK_domain -            0.00027   24.5   1.3   0.00027   24.5   1.3   2.3   2   1   0   2   2   2   1 TSA: Machilis hrabei s10692_L_26156_0_a_11_4_l_1520 transcribed RNA sequence
+GAUM02031071.1_3     -          oskar_filtered.aligned.OSK_domain -                0.7   13.4   1.9       1.2   12.6   1.9   1.3   1   0   0   1   1   1   0 TSA: Machilis hrabei s10145_L_21521_0_a_6_5_l_1256 transcribed RNA sequence
+GAUM02001007.1_5     -          oskar_filtered.aligned.OSK_domain -               0.86   13.1   0.0       0.9   13.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Machilis hrabei C110900_a_13_0_l_208 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUM02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUM02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUM02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:40 2019
+# [ok]

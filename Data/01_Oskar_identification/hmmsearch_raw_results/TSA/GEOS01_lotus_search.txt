@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOS01162127.1_6     -          LOTUS_CONSENSUS      -              9e-09   42.3   0.0   1.3e-08   41.8   0.0   1.3   1   0   0   1   1   1   1 TSA: Neopseustis meyricki TR95765-c0_g1_i1 transcribed RNA sequence
+GEOS01162128.1_5     -          LOTUS_CONSENSUS      -              1e-08   42.1   0.0   1.5e-08   41.6   0.0   1.3   1   0   0   1   1   1   1 TSA: Neopseustis meyricki TR95765-c0_g1_i2 transcribed RNA sequence
+GEOS01212627.1_6     -          LOTUS_CONSENSUS      -               0.11   19.6   0.0      0.12   19.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR117597-c0_g1_i1 transcribed RNA sequence
+GEOS01034768.1_5     -          LOTUS_CONSENSUS      -               0.19   18.8   1.6      0.27   18.4   1.6   1.2   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR35284-c0_g1_i1 transcribed RNA sequence
+GEOS01067306.1_6     -          LOTUS_CONSENSUS      -                1.1   16.4   1.2       1.5   16.0   1.2   1.1   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR56995-c0_g4_i1 transcribed RNA sequence
+GEOS01204766.1_6     -          LOTUS_CONSENSUS      -                1.6   15.9   0.4       9.9   13.3   0.5   2.2   2   0   0   2   2   2   0 TSA: Neopseustis meyricki TR114258-c0_g1_i2 transcribed RNA sequence
+GEOS01067307.1_6     -          LOTUS_CONSENSUS      -                3.3   14.9   1.2       4.7   14.4   1.2   1.2   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR56995-c0_g4_i2 transcribed RNA sequence
+GEOS01004446.1_6     -          LOTUS_CONSENSUS      -                3.9   14.6   0.2       8.2   13.6   0.2   1.5   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR4456-c0_g1_i1 transcribed RNA sequence
+GEOS01230310.1_6     -          LOTUS_CONSENSUS      -                  8   13.6   0.7   6.8e+02    7.5   0.4   2.8   1   1   2   3   3   3   0 TSA: Neopseustis meyricki TR125708-c0_g1_i3 transcribed RNA sequence
+GEOS01383383.1_6     -          LOTUS_CONSENSUS      -                9.9   13.3   0.1        12   13.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Neopseustis meyricki TR253083-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOS01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:08 2019
+# [ok]

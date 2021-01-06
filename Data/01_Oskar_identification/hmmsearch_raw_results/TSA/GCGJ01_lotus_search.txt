@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCGJ01041261.1_1     -          LOTUS_CONSENSUS      -            2.9e-17   67.0   0.0   4.9e-17   66.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis Unigene25701_test2_name transcribed RNA sequence
+GCGJ01045047.1_4     -          LOTUS_CONSENSUS      -            2.1e-14   57.8   0.0   3.4e-14   57.2   0.0   1.3   1   0   0   1   1   1   1 TSA: Locusta migratoria manilensis Unigene29487_test2_name transcribed RNA sequence
+GCGJ01039512.1_6     -          LOTUS_CONSENSUS      -            8.4e-08   36.6   1.9   2.2e-07   35.3   0.0   2.4   2   1   1   3   3   3   1 TSA: Locusta migratoria manilensis Unigene23951_test2_name transcribed RNA sequence
+GCGJ01045046.1_2     -          LOTUS_CONSENSUS      -            7.4e-05   27.2   0.0      0.33   15.5   0.0   3.1   4   0   0   4   4   4   2 TSA: Locusta migratoria manilensis Unigene29486_test2_name transcribed RNA sequence
+GCGJ01019784.1_6     -          LOTUS_CONSENSUS      -               0.27   15.8   0.0        46    8.6   0.0   2.0   1   1   1   2   2   2   0 TSA: Locusta migratoria manilensis Unigene4213_test2_name transcribed RNA sequence
+GCGJ01019411.1_4     -          LOTUS_CONSENSUS      -               0.54   14.8   0.1      0.76   14.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene3840_test2_name transcribed RNA sequence
+GCGJ01029580.1_4     -          LOTUS_CONSENSUS      -               0.56   14.8   0.0     1e+02    7.5   0.0   2.3   1   1   1   2   2   2   0 TSA: Locusta migratoria manilensis Unigene14012_test2_name transcribed RNA sequence
+GCGJ01011664.1_1     -          LOTUS_CONSENSUS      -               0.65   14.6   0.1      0.86   14.2   0.1   1.3   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis CL6546.Contig1_test2_name transcribed RNA sequence
+GCGJ01026187.1_5     -          LOTUS_CONSENSUS      -                1.6   13.3   0.2       2.8   12.6   0.2   1.5   1   1   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene10618_test2_name transcribed RNA sequence
+GCGJ01047349.1_5     -          LOTUS_CONSENSUS      -                1.7   13.2   0.4       2.8   12.5   0.4   1.3   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene31789_test2_name transcribed RNA sequence
+GCGJ01022733.1_2     -          LOTUS_CONSENSUS      -                1.8   13.1   0.2       2.8   12.5   0.2   1.2   1   0   0   1   1   1   0 TSA: Locusta migratoria manilensis Unigene7163_test2_name transcribed RNA sequence
+GCGJ01047266.1_2     -          LOTUS_CONSENSUS      -                  7   11.3   1.3       8.5   11.0   0.2   1.6   2   0   0   2   2   2   0 TSA: Locusta migratoria manilensis Unigene31706_test2_name transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCGJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCGJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:54:15 2019
+# [ok]

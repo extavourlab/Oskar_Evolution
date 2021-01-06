@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_030374856.1       -          LOTUS_CONSENSUS      -            8.7e-26   90.2   2.0   4.4e-25   88.0   0.1   2.9   4   0   0   4   4   4   1 maternal effect protein oskar [Scaptodrosophila lebanonensis]
+XP_030388337.1       -          LOTUS_CONSENSUS      -            1.7e-15   57.3   0.6   7.1e-15   55.3   0.0   2.3   2   1   0   2   2   2   1 tudor domain-containing protein 5 isoform X1 [Scaptodrosophila lebanonensis]
+XP_030388338.1       -          LOTUS_CONSENSUS      -            3.5e-10   40.2   0.1   1.1e-09   38.7   0.0   1.8   2   0   0   2   2   2   1 tudor domain-containing protein 5 isoform X2 [Scaptodrosophila lebanonensis]
+XP_030375707.1       -          LOTUS_CONSENSUS      -            3.2e-08   33.9   0.2   1.3e-07   32.0   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC115624985 isoform X5 [Scaptodrosophila lebanonensis]
+XP_030375706.1       -          LOTUS_CONSENSUS      -            3.2e-08   33.9   0.2   1.3e-07   32.0   0.0   2.2   2   0   0   2   2   2   1 uncharacterized protein LOC115624985 isoform X4 [Scaptodrosophila lebanonensis]
+XP_030375702.1       -          LOTUS_CONSENSUS      -            4.6e-08   33.4   0.2   1.7e-07   31.6   0.0   2.1   2   0   0   2   2   2   1 tudor domain-containing protein 7 isoform X1 [Scaptodrosophila lebanonensis]
+XP_030383312.1       -          LOTUS_CONSENSUS      -            0.00024   21.5   0.0   0.00029   21.3   0.0   1.1   1   0   0   1   1   1   1 uncharacterized protein LOC115630794 [Scaptodrosophila lebanonensis]
+XP_030382911.1       -          LOTUS_CONSENSUS      -                6.9    7.2   7.6        44    4.6   0.0   6.5   5   0   0   5   5   5   0 nesprin-1 isoform X1 [Scaptodrosophila lebanonensis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003285725.1_SlebRS2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003285725.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003285725.1_SlebRS2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:06 2019
+# [ok]

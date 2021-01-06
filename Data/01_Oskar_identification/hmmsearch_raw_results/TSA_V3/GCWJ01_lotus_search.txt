@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWJ01028279.1_5     -          oskar_filtered.aligned.LOTUS_domain -            7.4e-07   32.6   0.0    0.0024   21.3   0.0   2.6   2   0   0   2   2   2   2 TSA: Lachesilla contraforcepeta breed wildtype s8909_L_19095_0_27_1_LINEAR, transcribed RNA sequence
+GCWJ01023950.1_3     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-06   29.5   0.0    0.0011   22.5   0.0   3.0   3   0   0   3   3   3   1 TSA: Lachesilla contraforcepeta breed wildtype s5003_L_8243_0_58_9_LINEAR, transcribed RNA sequence
+GCWJ01014608.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00027   24.4   0.0    0.0016   21.9   0.0   2.0   2   0   0   2   2   2   1 TSA: Lachesilla contraforcepeta breed wildtype C357209_42_0, transcribed RNA sequence
+GCWJ01010021.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.062   16.8   0.0     0.085   16.3   0.0   1.4   1   1   0   1   1   1   0 TSA: Lachesilla contraforcepeta breed wildtype C328863_15_0, transcribed RNA sequence
+GCWJ01011055.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.09   16.3   0.1      0.14   15.6   0.1   1.4   1   0   0   1   1   1   0 TSA: Lachesilla contraforcepeta breed wildtype C334273_6_0, transcribed RNA sequence
+GCWJ01028657.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.092   16.2   0.0       1.8   12.1   0.0   2.6   2   0   0   2   2   2   0 TSA: Lachesilla contraforcepeta breed wildtype s9250_L_20392_0_34_8_LINEAR, transcribed RNA sequence
+GCWJ01005230.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.45   14.0   0.0      0.55   13.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Lachesilla contraforcepeta breed wildtype C307133_2_0, transcribed RNA sequence
+GCWJ01024097.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.4   12.4   0.0        68    7.0   0.0   3.0   3   0   0   3   3   3   0 TSA: Lachesilla contraforcepeta breed wildtype s5138_L_8502_0_57_7_COMPLEX, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:04 2019
+# [ok]

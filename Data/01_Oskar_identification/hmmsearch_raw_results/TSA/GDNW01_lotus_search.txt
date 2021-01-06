@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDNW01019996.1_2     -          LOTUS_CONSENSUS      -              1e-19   73.4   0.1   1.4e-14   56.9   0.0   3.3   3   0   0   3   3   3   2 TSA: Cucujus clavipes s5551_L_19720_0_a_48_4_l_2512 transcribed RNA sequence
+GDNW01019662.1_3     -          LOTUS_CONSENSUS      -            3.8e-19   71.5   0.1   1.3e-18   69.8   0.1   1.9   1   0   0   1   1   1   1 TSA: Cucujus clavipes s5249_L_17705_0_a_60_9_l_1308 transcribed RNA sequence
+GDNW01017310.1_6     -          LOTUS_CONSENSUS      -              4e-18   68.3   3.3   1.2e-17   66.7   0.2   3.3   4   0   0   4   4   4   1 TSA: Cucujus clavipes s3129_L_7299_1_a_45_3_l_3893 transcribed RNA sequence
+GDNW01017309.1_6     -          LOTUS_CONSENSUS      -            4.6e-18   68.0   3.4   1.2e-17   66.7   0.2   3.2   4   0   0   4   4   4   1 TSA: Cucujus clavipes s3128_L_7299_0_a_43_9_l_4040 transcribed RNA sequence
+GDNW01014892.1_6     -          LOTUS_CONSENSUS      -            0.00013   25.0   0.4        39    7.4   0.0   5.4   3   2   1   5   5   5   1 TSA: Cucujus clavipes C86379_a_62_0_l_4314 transcribed RNA sequence
+GDNW01019695.1_2     -          LOTUS_CONSENSUS      -               0.12   15.4   0.0      0.12   15.4   0.0   1.8   2   0   0   2   2   2   0 TSA: Cucujus clavipes s5279_L_17834_0_a_44_9_l_1488 transcribed RNA sequence
+GDNW01010514.1_1     -          LOTUS_CONSENSUS      -                1.8   11.6   2.4        15    8.7   0.4   2.4   2   0   0   2   2   2   0 TSA: Cucujus clavipes C72681_a_47_0_l_976 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDNW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDNW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:37 2019
+# [ok]

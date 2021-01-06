@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCUU01018479.1_1     -          oskar_filtered.aligned.OSK_domain -            4.6e-06   29.7   0.0   9.4e-06   28.7   0.0   1.5   1   1   0   1   1   1   1 TSA: Elasmus sp. AD-2014 C172170_a_37_0_l_2023 transcribed RNA sequence
+GCUU01012131.1_1     -          oskar_filtered.aligned.OSK_domain -               0.47   13.4   3.8       3.8   10.4   3.8   2.0   1   1   0   1   1   1   0 TSA: Elasmus sp. AD-2014 C144853_a_8_0_l_470 transcribed RNA sequence
+GCUU01010502.1_2     -          oskar_filtered.aligned.OSK_domain -               0.59   13.0   0.0      0.71   12.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Elasmus sp. AD-2014 C138370_a_3_0_l_389 transcribed RNA sequence
+GCUU01018502.1_6     -          oskar_filtered.aligned.OSK_domain -                8.2    9.3  11.1       0.5   13.3   2.4   2.9   2   2   1   3   3   3   0 TSA: Elasmus sp. AD-2014 C172242_a_31_0_l_2037 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCUU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCUU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:45 2019
+# [ok]

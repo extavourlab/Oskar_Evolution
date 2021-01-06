@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCVW01031595.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-20   75.4   0.6   8.1e-19   71.1   0.0   2.6   2   0   0   2   2   2   1 TSA: Nabicula subcoleoptrata breed wildtype s9016_L_26739_0_40_3_LINEAR, transcribed RNA sequence
+GCVW01011162.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.8e-15   60.4   0.0   2.4e-15   60.0   0.0   1.2   1   0   0   1   1   1   1 TSA: Nabicula subcoleoptrata breed wildtype C141893_5_0, transcribed RNA sequence
+GCVW01017421.1_6     -          oskar_filtered.aligned.LOTUS_domain -            4.7e-09   39.8   0.1      0.81   13.3   0.0   6.5   2   1   4   6   6   6   2 TSA: Nabicula subcoleoptrata breed wildtype C175748_58_0, transcribed RNA sequence
+GCVW01031164.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-06   31.8   4.2      0.12   16.0   0.0   3.4   3   1   0   3   3   3   2 TSA: Nabicula subcoleoptrata breed wildtype s862_L_1397_1_30_3_COMPLEX, transcribed RNA sequence
+GCVW01031153.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-05   28.8   9.1      0.12   16.0   0.0   4.1   4   1   0   4   4   4   2 TSA: Nabicula subcoleoptrata breed wildtype s861_L_1397_0_30_8_COMPLEX, transcribed RNA sequence
+GCVW01020883.1_4     -          oskar_filtered.aligned.LOTUS_domain -            0.00037   24.1   0.7       0.5   14.0   0.0   3.9   4   0   0   4   4   4   2 TSA: Nabicula subcoleoptrata breed wildtype s10560_L_33162_0_7_9_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCVW01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCVW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:48 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGFB01029731.1_5     -          OSK_CONSENSUS        -            9.1e-33  117.4   0.1   1.9e-32  116.4   0.1   1.5   1   0   0   1   1   1   1 TSA: Laupala cerasina TRINITY_GG_9271_c0_g1_i1 transcribed RNA sequence
+GGFB01058941.1_5     -          OSK_CONSENSUS        -            6.1e-29  104.9   0.0   8.6e-29  104.5   0.0   1.2   1   0   0   1   1   1   1 TSA: Laupala cerasina TRINITY_GG_17838_c0_g1_i1 transcribed RNA sequence
+GGFB01048634.1_1     -          OSK_CONSENSUS        -            1.3e-26   97.4   0.0   2.4e-26   96.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Laupala cerasina TRINITY_GG_14458_c1_g1_i1 transcribed RNA sequence
+GGFB01005381.1_3     -          OSK_CONSENSUS        -                0.4   14.5   0.0      0.96   13.3   0.0   1.6   1   0   0   1   1   1   0 TSA: Laupala cerasina TRINITY_GG_1624_c0_g1_i1 transcribed RNA sequence
+GGFB01000260.1_4     -          OSK_CONSENSUS        -                0.9   13.4   0.1      0.97   13.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Laupala cerasina TRINITY_GG_103_c0_g1_i1 transcribed RNA sequence
+GGFB01027831.1_1     -          OSK_CONSENSUS        -                2.7   11.8   0.6        12    9.7   0.2   1.9   1   1   1   2   2   2   0 TSA: Laupala cerasina TRINITY_GG_8768_c1_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGFB01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:00 2019
+# [ok]

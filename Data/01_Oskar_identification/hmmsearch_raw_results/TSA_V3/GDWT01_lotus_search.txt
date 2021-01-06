@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDWT01042580.1_3     -          oskar_filtered.aligned.LOTUS_domain -            0.00019   25.4  16.1      0.22   15.6   2.0   4.4   2   2   2   4   4   4   3 TSA: Methana parva breed wildtype s8291_L_31249_0_a_13_2_l_969, transcribed RNA sequence
+GDWT01034641.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.074   17.1   0.5      0.28   15.2   0.0   2.1   2   1   1   3   3   3   0 TSA: Methana parva breed wildtype s1119_L_1415_0_a_3_9_l_702, transcribed RNA sequence
+GDWT01005124.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.18   15.8   0.0      0.19   15.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Methana parva breed wildtype C114147_a_3_0_l_260, transcribed RNA sequence
+GDWT01037661.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.25   15.4   0.0      0.42   14.7   0.0   1.3   1   0   0   1   1   1   0 TSA: Methana parva breed wildtype s3850_L_8361_1_a_9_3_l_517, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDWT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDWT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:02:28 2019
+# [ok]

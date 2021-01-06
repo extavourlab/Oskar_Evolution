@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWY01017914.1_2     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-19   71.2   3.7   4.9e-18   68.0   0.0   3.0   3   0   0   3   3   3   1 TSA: Echmepteryx hageni breed wildtype i18232_g_ig11723_l_1683_nC_1, transcribed RNA sequence
+GCWY01020876.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.7e-09   38.7   0.0   1.2e-08   37.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Echmepteryx hageni breed wildtype i21198_g_ig14689_l_486_nC_1, transcribed RNA sequence
+GCWY01021551.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00023   24.1   0.0        12    9.0   0.0   4.3   2   1   2   4   4   4   2 TSA: Echmepteryx hageni breed wildtype i21873_g_ig15364_l_4813_nC_1, transcribed RNA sequence
+GCWY01003688.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0006   22.8   0.3     0.013   18.5   0.0   2.1   2   0   0   2   2   2   1 TSA: Echmepteryx hageni breed wildtype i03516_g_ig00234_l_510_nC_2, transcribed RNA sequence
+GCWY01016567.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0059   19.6   0.0     0.018   18.1   0.0   1.7   2   0   0   2   2   2   1 TSA: Echmepteryx hageni breed wildtype i16883_g_ig10374_l_532_nC_1, transcribed RNA sequence
+GCWY01003688.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.031   17.3   0.0     0.044   16.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Echmepteryx hageni breed wildtype i03516_g_ig00234_l_510_nC_2, transcribed RNA sequence
+GCWY01011245.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.097   15.7   0.0      0.14   15.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Echmepteryx hageni breed wildtype i11082_g_ig04573_l_478_nC_1, transcribed RNA sequence
+GCWY01020221.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.25   14.4   0.1       5.9   10.0   0.0   2.4   2   1   0   2   2   2   0 TSA: Echmepteryx hageni breed wildtype i20543_g_ig14034_l_497_nC_1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:44 2019
+# [ok]

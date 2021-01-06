@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023708786.1       -          LOTUS_CONSENSUS      -            7.7e-22   78.0   0.0   1.4e-13   51.5   0.0   4.6   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X3 [Cryptotermes secundus]
+XP_023708785.1       -          LOTUS_CONSENSUS      -            8.2e-22   77.9   0.0   1.5e-13   51.5   0.0   4.6   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X2 [Cryptotermes secundus]
+XP_023708782.1       -          LOTUS_CONSENSUS      -            8.6e-22   77.8   0.0   1.5e-13   51.4   0.0   4.6   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X1 [Cryptotermes secundus]
+XP_023708783.1       -          LOTUS_CONSENSUS      -            8.6e-22   77.8   0.0   1.5e-13   51.4   0.0   4.6   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X1 [Cryptotermes secundus]
+XP_023708784.1       -          LOTUS_CONSENSUS      -            8.6e-22   77.8   0.0   1.5e-13   51.4   0.0   4.6   4   0   0   4   4   4   2 tudor domain-containing protein 5-like isoform X1 [Cryptotermes secundus]
+XP_023711986.1       -          LOTUS_CONSENSUS      -            1.3e-21   77.3   0.3   6.9e-20   71.7   0.0   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like [Cryptotermes secundus]
+XP_023712452.1       -          LOTUS_CONSENSUS      -            2.2e-06   28.5   0.0     0.063   14.2   0.0   4.3   3   1   1   4   4   4   1 meiosis regulator and mRNA stability factor 1 isoform X6 [Cryptotermes secundus]
+XP_023712451.1       -          LOTUS_CONSENSUS      -            5.4e-06   27.2   0.0     0.082   13.8   0.0   4.2   3   1   1   4   4   4   1 meiosis regulator and mRNA stability factor 1 isoform X5 [Cryptotermes secundus]
+XP_023712450.1       -          LOTUS_CONSENSUS      -            5.6e-06   27.2   0.0     0.082   13.8   0.0   4.2   3   1   1   4   4   4   1 meiosis regulator and mRNA stability factor 1 isoform X4 [Cryptotermes secundus]
+XP_023712447.1       -          LOTUS_CONSENSUS      -            5.6e-06   27.2   0.0     0.082   13.8   0.0   4.2   3   1   1   4   4   4   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Cryptotermes secundus]
+XP_023712446.1       -          LOTUS_CONSENSUS      -            5.7e-06   27.1   0.0     0.083   13.8   0.0   4.2   3   1   1   4   4   4   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Cryptotermes secundus]
+XP_023712448.1       -          LOTUS_CONSENSUS      -            2.2e-05   25.2   0.0     0.082   13.8   0.0   4.2   3   1   1   4   4   4   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Cryptotermes secundus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002891405.2_Csec_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002891405.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002891405.2_Csec_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:45 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUI02048077.1_4     -          LOTUS_CONSENSUS      -            1.9e-14   57.9   0.0   7.4e-14   56.0   0.0   2.1   1   0   0   1   1   1   1 TSA: Xanthostigma xanthostigma s12997_L_55574_0_a_22_7_l_2610 transcribed RNA sequence
+GAUI02044028.1_2     -          LOTUS_CONSENSUS      -            6.9e-12   49.7   0.6   4.7e-11   47.0   0.0   2.6   3   0   0   3   3   3   1 TSA: Xanthostigma xanthostigma C246009_a_14_0_l_2457 transcribed RNA sequence
+GAUI02054730.1_2     -          LOTUS_CONSENSUS      -              0.038   18.5   1.1     0.071   17.6   1.1   1.4   1   0   0   1   1   1   0 TSA: Xanthostigma xanthostigma s7170_L_12358_0_a_4_7_l_516 transcribed RNA sequence
+GAUI02054731.1_3     -          LOTUS_CONSENSUS      -              0.085   17.3   1.1      0.15   16.5   1.1   1.4   1   0   0   1   1   1   0 TSA: Xanthostigma xanthostigma s7171_L_12358_1_a_5_0_l_829 transcribed RNA sequence
+GAUI02054578.1_1     -          LOTUS_CONSENSUS      -               0.28   15.6   0.7        86    7.7   0.0   4.0   4   0   0   4   4   4   0 TSA: Xanthostigma xanthostigma s7023_L_11977_0_a_31_7_l_4018 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUI02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUI02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUI02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:49 2019
+# [ok]

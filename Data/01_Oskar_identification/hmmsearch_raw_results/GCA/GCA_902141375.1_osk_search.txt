@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g14227.t1            -          OSK_CONSENSUS        -            1.3e-31  111.1   1.5   1.8e-31  110.6   0.1   1.9   2   0   0   2   2   2   1 -
+g3325.t1             -          OSK_CONSENSUS        -             0.0011   20.3   0.0    0.0014   20.0   0.0   1.1   1   0   0   1   1   1   1 -
+g14364.t1            -          OSK_CONSENSUS        -              0.048   15.0   0.1       2.7    9.3   0.0   2.8   2   0   0   2   2   2   0 -
+g4131.t1             -          OSK_CONSENSUS        -               0.27   12.6   0.0      0.41   12.0   0.0   1.2   1   0   0   1   1   1   0 -
+g1795.t1             -          OSK_CONSENSUS        -               0.31   12.4   1.1       4.3    8.6   0.3   2.4   2   0   0   2   2   2   0 -
+g4339.t1             -          OSK_CONSENSUS        -                2.8    9.3   3.5       4.4    8.6   0.2   2.9   3   1   0   3   3   3   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_902141375.1_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_902141375.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_902141375.1_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:49:02 2019
+# [ok]

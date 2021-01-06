@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZF02029350.1_5     -          LOTUS_CONSENSUS      -            4.3e-20   75.9   0.2   4.3e-20   75.9   0.2   2.3   2   1   0   2   2   2   1 TSA: Essigella californica C187990_a_3_0_l_804 transcribed RNA sequence
+GAZF02035698.1_6     -          LOTUS_CONSENSUS      -              3e-18   70.0   5.4   1.3e-17   68.0   0.3   3.3   3   0   0   3   3   3   1 TSA: Essigella californica C211394_a_25_0_l_2899 transcribed RNA sequence
+GAZF02046281.1_3     -          LOTUS_CONSENSUS      -            3.9e-11   47.2   0.1   3.9e-11   47.2   0.1   3.9   4   2   1   5   5   5   1 TSA: Essigella californica s13259_L_51442_0_a_16_0_l_1480 transcribed RNA sequence
+GAZF02000497.1_2     -          LOTUS_CONSENSUS      -            2.9e-10   44.4   0.2   3.3e-10   44.3   0.2   1.1   1   0   0   1   1   1   1 TSA: Essigella californica C101172_a_3_0_l_246 transcribed RNA sequence
+GAZF02046620.1_4     -          LOTUS_CONSENSUS      -            1.8e-08   38.7   0.0        14   10.2   0.0   6.1   3   2   3   6   6   6   3 TSA: Essigella californica s13564_L_54518_0_a_25_6_l_1946 transcribed RNA sequence
+GAZF02026834.1_5     -          LOTUS_CONSENSUS      -            7.6e-08   36.7   0.7     1e-06   33.1   0.0   2.6   2   1   1   3   3   3   1 TSA: Essigella californica C179297_a_8_0_l_650 transcribed RNA sequence
+GAZF02002364.1_5     -          LOTUS_CONSENSUS      -             0.0013   23.1   0.1    0.0021   22.4   0.1   1.4   1   0   0   1   1   1   1 TSA: Essigella californica C105519_a_3_0_l_251 transcribed RNA sequence
+GAZF02025842.1_2     -          LOTUS_CONSENSUS      -               0.18   16.3   0.1      0.24   15.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Essigella californica C175846_a_4_0_l_605 transcribed RNA sequence
+GAZF02029498.1_1     -          LOTUS_CONSENSUS      -               0.21   16.0   0.1      0.49   14.9   0.1   1.7   1   0   0   1   1   1   0 TSA: Essigella californica C188500_a_11_0_l_815 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZF02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZF02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZF02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:00:29 2019
+# [ok]

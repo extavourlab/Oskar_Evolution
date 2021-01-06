@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBEV01153472.1_4     -          LOTUS_CONSENSUS      -            2.9e-10   46.5   0.4      0.39   17.3   0.1   3.8   2   1   1   3   3   3   3 TSA: Procambarus clarkii Pc_153572 transcribed RNA sequence
+GBEV01002580.1_5     -          LOTUS_CONSENSUS      -            1.1e-09   44.7   0.3   4.4e-09   42.7   0.0   2.2   3   0   0   3   3   3   1 TSA: Procambarus clarkii Pc_2601 transcribed RNA sequence
+GBEV01078242.1_1     -          LOTUS_CONSENSUS      -                1.7   15.2   0.0       5.5   13.6   0.0   1.7   2   0   0   2   2   2   0 TSA: Procambarus clarkii Pc_78317 transcribed RNA sequence
+GBEV01087400.1_6     -          LOTUS_CONSENSUS      -                2.3   14.8   0.2       3.4   14.3   0.2   1.6   1   1   0   1   1   1   0 TSA: Procambarus clarkii Pc_87476 transcribed RNA sequence
+GBEV01163590.1_2     -          LOTUS_CONSENSUS      -                3.3   14.3   0.2       4.3   13.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Procambarus clarkii Pc_163692 transcribed RNA sequence
+GBEV01195176.1_3     -          LOTUS_CONSENSUS      -                4.6   13.8   1.5         6   13.5   1.5   1.1   1   0   0   1   1   1   0 TSA: Procambarus clarkii Pc_195319 transcribed RNA sequence
+GBEV01023982.1_1     -          LOTUS_CONSENSUS      -                4.8   13.8   0.0       6.9   13.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Procambarus clarkii Pc_24026 transcribed RNA sequence
+GBEV01074971.1_5     -          LOTUS_CONSENSUS      -                4.9   13.7   0.0        13   12.4   0.0   1.8   1   0   0   1   1   1   0 TSA: Procambarus clarkii Pc_75045 transcribed RNA sequence
+GBEV01196908.1_4     -          LOTUS_CONSENSUS      -                5.2   13.7   0.1       7.8   13.1   0.1   1.4   1   0   0   1   1   1   0 TSA: Procambarus clarkii Pc_197052 transcribed RNA sequence
+GBEV01089279.1_3     -          LOTUS_CONSENSUS      -                7.5   13.1   0.1       9.9   12.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Procambarus clarkii Pc_89355 transcribed RNA sequence
+GBEV01144212.1_1     -          LOTUS_CONSENSUS      -                8.3   13.0   0.2        11   12.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Procambarus clarkii Pc_144308 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBEV.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GBEV.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GBEV.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:54:47 2019
+# [ok]

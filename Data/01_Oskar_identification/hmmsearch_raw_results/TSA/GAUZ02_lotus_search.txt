@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUZ02028029.1_5     -          LOTUS_CONSENSUS      -            4.2e-19   72.8   0.0   5.7e-19   72.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Stenobothrus lineatus C223354_a_3_0_l_477 transcribed RNA sequence
+GAUZ02044233.1_6     -          LOTUS_CONSENSUS      -               0.11   17.0   0.1        75    7.9   0.2   2.6   2   0   0   2   2   2   0 TSA: Stenobothrus lineatus s12671_L_33074_1_a_39_7_l_1797 transcribed RNA sequence
+GAUZ02001543.1_5     -          LOTUS_CONSENSUS      -                3.4   12.2   0.0       3.5   12.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Stenobothrus lineatus C144077_a_3_0_l_209 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUZ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUZ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUZ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:15 2019
+# [ok]

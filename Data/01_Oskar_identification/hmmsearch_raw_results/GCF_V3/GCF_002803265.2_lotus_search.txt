@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_025202194.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-24   85.7  14.4   5.4e-15   55.6   0.2   5.1   4   1   1   5   5   4   3 LOW QUALITY PROTEIN: uncharacterized protein LOC112599489 [Melanaphis sacchari]
+XP_025191086.1       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-21   77.0   0.6   1.2e-21   77.0   0.6   2.6   2   1   0   2   2   1   1 uncharacterized protein LOC112591464 isoform X2 [Melanaphis sacchari]
+XP_025191084.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-21   76.7   0.6   1.5e-21   76.7   0.6   2.5   2   1   0   2   2   1   1 uncharacterized protein LOC112591464 isoform X1 [Melanaphis sacchari]
+XP_025191085.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-21   76.7   0.6   1.5e-21   76.7   0.6   2.5   2   1   0   2   2   1   1 uncharacterized protein LOC112591464 isoform X1 [Melanaphis sacchari]
+XP_025206967.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-17   63.0   0.1   2.6e-17   63.0   0.1   3.4   4   0   0   4   4   4   1 tudor domain-containing protein 7B isoform X3 [Melanaphis sacchari]
+XP_025206963.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-17   63.0   0.1   2.7e-17   63.0   0.1   3.5   4   0   0   4   4   4   1 tudor domain-containing protein 7B isoform X1 [Melanaphis sacchari]
+XP_025206964.1       -          oskar_filtered.aligned.LOTUS_domain -            8.5e-17   61.4   0.1   8.5e-17   61.4   0.1   3.5   4   0   0   4   4   4   1 tudor domain-containing protein 7B isoform X2 [Melanaphis sacchari]
+XP_025206965.1       -          oskar_filtered.aligned.LOTUS_domain -            8.5e-17   61.4   0.1   8.5e-17   61.4   0.1   3.5   4   0   0   4   4   4   1 tudor domain-containing protein 7B isoform X2 [Melanaphis sacchari]
+XP_025206966.1       -          oskar_filtered.aligned.LOTUS_domain -            8.5e-17   61.4   0.1   8.5e-17   61.4   0.1   3.5   4   0   0   4   4   4   1 tudor domain-containing protein 7B isoform X2 [Melanaphis sacchari]
+XP_025209231.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-14   52.7   0.1   4.4e-14   52.7   0.1   5.0   4   2   0   4   4   3   1 homeobox protein 4-like [Melanaphis sacchari]
+XP_025209232.1       -          oskar_filtered.aligned.LOTUS_domain -            4.4e-14   52.7   0.1   4.4e-14   52.7   0.1   5.0   4   2   0   4   4   3   1 homeobox protein 4-like [Melanaphis sacchari]
+XP_025194844.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-10   39.5   0.1       2.5    8.5   0.0   7.5   4   1   4   8   8   8   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Melanaphis sacchari]
+XP_025194845.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-07   32.1   0.0       2.4    8.6   0.0   6.6   5   2   2   7   7   7   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Melanaphis sacchari]
+XP_025199021.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0013   19.0   5.5     0.042   14.2   0.3   3.2   3   0   0   3   3   3   1 tudor domain-containing protein 5-like, partial [Melanaphis sacchari]
+XP_025191651.1       -          oskar_filtered.aligned.LOTUS_domain -               0.15   12.4   0.0      0.23   11.8   0.0   1.3   1   0   0   1   1   1   0 dynactin subunit 6 [Melanaphis sacchari]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002803265.2_SCAv2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002803265.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002803265.2_SCAv2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:45 2019
+# [ok]

@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECT01011720.1_6     -          LOTUS_CONSENSUS      -            7.3e-24   87.5   0.0   2.2e-23   86.0   0.0   1.9   1   0   0   1   1   1   1 TSA: Pteromalus puparum comp30880_c1 transcribed RNA sequence
+GECT01000456.1_3     -          LOTUS_CONSENSUS      -            1.4e-19   73.8   1.5     3e-13   53.5   0.2   3.5   2   0   0   2   2   2   2 TSA: Pteromalus puparum comp42714_c0 transcribed RNA sequence
+GECT01037207.1_6     -          LOTUS_CONSENSUS      -            7.3e-18   68.3   0.5   2.7e-17   66.5   0.1   2.2   2   0   0   2   2   2   1 TSA: Pteromalus puparum comp44993_c0 transcribed RNA sequence
+GECT01008896.1_6     -          LOTUS_CONSENSUS      -            9.9e-14   55.0   0.2   2.2e-13   53.9   0.2   1.5   1   0   0   1   1   1   1 TSA: Pteromalus puparum comp38167_c0 transcribed RNA sequence
+GECT01014992.1_1     -          LOTUS_CONSENSUS      -              4e-08   37.1   0.1   8.5e-08   36.0   0.1   1.5   1   0   0   1   1   1   1 TSA: Pteromalus puparum comp35354_c0 transcribed RNA sequence
+GECT01028308.1_1     -          LOTUS_CONSENSUS      -            2.2e-06   31.5   0.0       0.8   13.7   0.0   5.8   3   1   2   6   6   6   1 TSA: Pteromalus puparum comp41919_c0 transcribed RNA sequence
+GECT01015877.1_3     -          LOTUS_CONSENSUS      -             0.0083   20.0   0.7     0.034   18.1   0.1   2.4   2   0   0   2   2   2   1 TSA: Pteromalus puparum comp38023_c0 transcribed RNA sequence
+GECT01032858.1_4     -          LOTUS_CONSENSUS      -              0.019   18.9   2.8       5.6   11.0   0.0   3.5   3   0   0   3   3   3   0 TSA: Pteromalus puparum comp30701_c0 transcribed RNA sequence
+GECT01020919.1_3     -          LOTUS_CONSENSUS      -               0.12   16.3   0.0      0.17   15.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Pteromalus puparum comp511790_c0 transcribed RNA sequence
+GECT01010219.1_4     -          LOTUS_CONSENSUS      -                0.7   13.9   0.4       5.6   11.0   0.4   2.1   1   1   1   2   2   2   0 TSA: Pteromalus puparum comp143991_c0 transcribed RNA sequence
+GECT01003592.1_2     -          LOTUS_CONSENSUS      -               0.84   13.6   0.2       1.8   12.5   0.2   1.6   1   0   0   1   1   1   0 TSA: Pteromalus puparum comp34366_c0 transcribed RNA sequence
+GECT01023339.1_3     -          LOTUS_CONSENSUS      -                1.4   12.9   0.3       5.2   11.1   0.3   2.0   1   0   0   1   1   1   0 TSA: Pteromalus puparum comp42363_c3 transcribed RNA sequence
+GECT01008454.1_5     -          LOTUS_CONSENSUS      -                1.8   12.5   1.7         5   11.1   0.4   2.2   2   0   0   2   2   2   0 TSA: Pteromalus puparum comp39432_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:01 2019
+# [ok]

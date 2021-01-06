@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017856611.1       -          LOTUS_CONSENSUS      -            1.4e-27   95.9   1.5   2.4e-26   92.0   0.1   3.4   3   0   0   3   3   3   1 PREDICTED: maternal effect protein oskar [Drosophila arizonae]
+XP_017865678.1       -          LOTUS_CONSENSUS      -            2.5e-10   40.7   0.0   2.5e-10   40.7   0.0   2.6   3   1   0   3   3   3   1 PREDICTED: uncharacterized protein LOC108615592 [Drosophila arizonae]
+XP_017866236.1       -          LOTUS_CONSENSUS      -            1.8e-09   37.9   0.0   4.5e-09   36.7   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108615907 isoform X4 [Drosophila arizonae]
+XP_017866235.1       -          LOTUS_CONSENSUS      -            1.8e-09   37.9   0.0   4.5e-09   36.6   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108615907 isoform X3 [Drosophila arizonae]
+XP_017866233.1       -          LOTUS_CONSENSUS      -            2.5e-09   37.5   0.0   5.9e-09   36.3   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Drosophila arizonae]
+XP_017857164.1       -          LOTUS_CONSENSUS      -            0.00054   20.4   0.0   0.00063   20.1   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108609899 [Drosophila arizonae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001654025.1_ASM165402v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001654025.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001654025.1_ASM165402v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:56 2019
+# [ok]

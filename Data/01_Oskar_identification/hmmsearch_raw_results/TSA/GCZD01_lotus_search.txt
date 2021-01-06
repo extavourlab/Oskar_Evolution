@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZD01033548.1_6     -          LOTUS_CONSENSUS      -            3.9e-14   56.8   0.0   9.7e-14   55.6   0.0   1.6   2   0   0   2   2   2   1 TSA: Vidanoana flavomaculata breed wildtype C251755_28_0, transcribed RNA sequence
+GCZD01034183.1_5     -          LOTUS_CONSENSUS      -            2.2e-06   32.0   1.4     0.025   19.0   0.0   2.9   3   1   0   3   3   3   2 TSA: Vidanoana flavomaculata breed wildtype C254931_6_0, transcribed RNA sequence
+GCZD01045272.1_1     -          LOTUS_CONSENSUS      -             0.0076   20.7   0.0   1.9e+02    6.5   0.0   3.6   2   1   1   3   3   3   2 TSA: Vidanoana flavomaculata breed wildtype s16929_L_61375_0_7_8_LINEAR, transcribed RNA sequence
+GCZD01030385.1_6     -          LOTUS_CONSENSUS      -                1.3   13.5   0.3       2.4   12.7   0.3   1.5   1   0   0   1   1   1   0 TSA: Vidanoana flavomaculata breed wildtype C236313_8_0, transcribed RNA sequence
+GCZD01051769.1_3     -          LOTUS_CONSENSUS      -                1.3   13.5   0.0       3.9   12.0   0.0   1.7   1   1   0   1   1   1   0 TSA: Vidanoana flavomaculata breed wildtype s5755_L_13940_2_9_1_COMPLEX, transcribed RNA sequence
+GCZD01024179.1_5     -          LOTUS_CONSENSUS      -                2.5   12.6   0.5       5.1   11.6   0.5   1.5   1   0   0   1   1   1   0 TSA: Vidanoana flavomaculata breed wildtype C210153_11_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:39 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g20638.t1            -          oskar_filtered.aligned.OSK_domain -            9.8e-26   92.9   0.2   9.8e-26   92.9   0.2   1.6   2   0   0   2   2   2   1 -
+g70034.t1            -          oskar_filtered.aligned.OSK_domain -               0.01   17.8   0.0     0.013   17.5   0.0   1.1   1   0   0   1   1   1   0 -
+g78021.t1            -          oskar_filtered.aligned.OSK_domain -              0.019   16.9   0.0     0.067   15.2   0.0   1.7   1   1   1   2   2   2   0 -
+g76477.t1            -          oskar_filtered.aligned.OSK_domain -              0.048   15.6   0.0     0.066   15.2   0.0   1.2   1   0   0   1   1   1   0 -
+g27158.t1            -          oskar_filtered.aligned.OSK_domain -              0.057   15.4   0.0     0.094   14.7   0.0   1.3   1   0   0   1   1   1   0 -
+g56296.t1            -          oskar_filtered.aligned.OSK_domain -              0.058   15.4   0.0      0.11   14.5   0.0   1.3   1   0   0   1   1   1   0 -
+g2469.t1             -          oskar_filtered.aligned.OSK_domain -               0.28   13.1   0.1      0.65   11.9   0.1   1.5   1   0   0   1   1   1   0 -
+g29034.t1            -          oskar_filtered.aligned.OSK_domain -               0.41   12.6   0.0      0.44   12.5   0.0   1.1   1   0   0   1   1   1   0 -
+g78315.t1            -          oskar_filtered.aligned.OSK_domain -               0.81   11.6   0.1       2.8    9.9   0.0   1.8   2   0   0   2   2   2   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_003018175.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_003018175.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_003018175.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:27:31 2019
+# [ok]

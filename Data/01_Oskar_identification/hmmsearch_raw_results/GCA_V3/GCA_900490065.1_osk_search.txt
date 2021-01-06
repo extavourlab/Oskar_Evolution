@@ -1,0 +1,28 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g174948.t1           -          oskar_filtered.aligned.OSK_domain -              0.061   17.9   4.5      0.12   16.9   2.5   2.0   1   1   0   2   2   2   0 -
+g261895.t1           -          oskar_filtered.aligned.OSK_domain -               0.24   16.0   0.2      0.29   15.7   0.2   1.1   1   0   0   1   1   1   0 -
+g48320.t1            -          oskar_filtered.aligned.OSK_domain -               0.64   14.5   0.7      0.74   14.4   0.7   1.2   1   0   0   1   1   1   0 -
+g59627.t1            -          oskar_filtered.aligned.OSK_domain -                1.3   13.6   0.2       1.6   13.3   0.2   1.3   1   0   0   1   1   1   0 -
+g476806.t1           -          oskar_filtered.aligned.OSK_domain -                1.4   13.5   0.7       1.5   13.4   0.7   1.1   1   0   0   1   1   1   0 -
+g259565.t1           -          oskar_filtered.aligned.OSK_domain -                1.4   13.4   3.7       2.5   12.6   3.7   1.4   1   1   0   1   1   1   0 -
+g464174.t1           -          oskar_filtered.aligned.OSK_domain -                2.1   12.9   0.1       2.2   12.8   0.1   1.1   1   0   0   1   1   1   0 -
+g227735.t1           -          oskar_filtered.aligned.OSK_domain -                2.4   12.7   0.7       2.3   12.7   0.7   1.0   1   0   0   1   1   1   0 -
+g207732.t1           -          oskar_filtered.aligned.OSK_domain -                2.5   12.6   0.1       2.7   12.5   0.1   1.2   1   0   0   1   1   1   0 -
+g524441.t1           -          oskar_filtered.aligned.OSK_domain -                  3   12.4   0.4       4.2   11.9   0.4   1.3   1   1   0   1   1   1   0 -
+g66670.t1            -          oskar_filtered.aligned.OSK_domain -                3.7   12.1   0.0       5.1   11.6   0.0   1.2   1   0   0   1   1   1   0 -
+g244235.t1           -          oskar_filtered.aligned.OSK_domain -                3.9   12.0   0.1       4.4   11.8   0.1   1.0   1   0   0   1   1   1   0 -
+g219359.t1           -          oskar_filtered.aligned.OSK_domain -                4.8   11.7   0.0       5.2   11.6   0.0   1.1   1   0   0   1   1   1   0 -
+g410887.t1           -          oskar_filtered.aligned.OSK_domain -                4.9   11.7   0.0       5.7   11.5   0.0   1.1   1   0   0   1   1   1   0 -
+g460866.t1           -          oskar_filtered.aligned.OSK_domain -                5.1   11.6   0.0       5.8   11.4   0.0   1.1   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_900490065.1_augustus.aa
+# Option settings: hmmsearch --tblout /mnt/storage/Oskar_Evolution/GCA_RESULTS/GCA_900490065.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /mnt/storage/Oskar_Evolution/GCA_PROTEIN/GCA_900490065.1_augustus.aa 
+# Current dir:     /home/xqua/Documents/Extavour/Projects/Project_Oskar_Evolution/Paper/Oskar_Orthologs/01_Oskar_identification
+# Date:            Fri Dec 13 13:27:57 2019
+# [ok]

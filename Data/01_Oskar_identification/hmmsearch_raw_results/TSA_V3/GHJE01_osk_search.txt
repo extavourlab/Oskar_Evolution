@@ -1,0 +1,23 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHJE01032141.1_5     -          oskar_filtered.aligned.OSK_domain -            7.1e-32  115.6   2.3   7.1e-32  115.6   2.3   2.5   2   0   0   2   2   2   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20548_c0_g1_i3, transcribed RNA sequence
+GHJE01032139.1_4     -          oskar_filtered.aligned.OSK_domain -            4.5e-16   64.1   0.2   1.2e-15   62.7   0.2   1.8   1   1   0   1   1   1   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20548_c0_g1_i1, transcribed RNA sequence
+GHJE01032140.1_4     -          oskar_filtered.aligned.OSK_domain -            8.5e-16   63.2   5.0     4e-15   61.0   5.0   2.0   1   1   0   1   1   1   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20548_c0_g1_i2, transcribed RNA sequence
+GHJE01032139.1_6     -          oskar_filtered.aligned.OSK_domain -            4.5e-06   31.4   1.0   4.5e-06   31.4   1.0   1.8   2   0   0   2   2   2   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20548_c0_g1_i1, transcribed RNA sequence
+GHJE01032140.1_6     -          oskar_filtered.aligned.OSK_domain -            1.1e-05   30.2   1.4   2.9e-05   28.8   1.4   1.8   1   0   0   1   1   1   1 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN20548_c0_g1_i2, transcribed RNA sequence
+GHJE01050213.1_6     -          oskar_filtered.aligned.OSK_domain -               0.34   15.5   0.0      0.39   15.4   0.0   1.0   1   0   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN56228_c0_g1_i1, transcribed RNA sequence
+GHJE01040182.1_6     -          oskar_filtered.aligned.OSK_domain -               0.38   15.4   0.2      0.63   14.7   0.2   1.2   1   0   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN21597_c0_g2_i4, transcribed RNA sequence
+GHJE01076973.1_3     -          oskar_filtered.aligned.OSK_domain -                1.3   13.7   0.9       1.3   13.6   0.9   1.1   1   0   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN26760_c1_g11_i1, transcribed RNA sequence
+GHJE01046008.1_5     -          oskar_filtered.aligned.OSK_domain -                1.5   13.4   1.0       2.3   12.9   1.0   1.2   1   0   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN35617_c0_g1_i1, transcribed RNA sequence
+GHJE01027317.1_1     -          oskar_filtered.aligned.OSK_domain -                1.7   13.3   0.7       1.9   13.1   0.7   1.3   1   0   0   1   1   1   0 TSA: Harmonia axyridis strain Hx-2018 TRINITY_DN22830_c0_g4_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHJE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHJE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHJE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:56 2019
+# [ok]

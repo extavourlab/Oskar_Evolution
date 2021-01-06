@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVD01023175.1_4     -          oskar_filtered.aligned.OSK_domain -            1.6e-57  197.7   0.0   3.9e-57  196.5   0.0   1.7   1   0   0   1   1   1   1 TSA: Ceraphron sp. AD-2014 s11912_L_27739_1_a_78_5_l_2819 transcribed RNA sequence
+GBVD01023174.1_6     -          oskar_filtered.aligned.OSK_domain -            1.7e-57  197.7   0.0   3.9e-57  196.5   0.0   1.6   1   0   0   1   1   1   1 TSA: Ceraphron sp. AD-2014 s11911_L_27739_0_a_79_6_l_2818 transcribed RNA sequence
+GBVD01033707.1_5     -          oskar_filtered.aligned.OSK_domain -            1.9e-57  197.5   0.2   4.4e-57  196.3   0.2   1.7   1   0   0   1   1   1   1 TSA: Ceraphron sp. AD-2014 s7515_L_13954_0_a_29_7_l_2783 transcribed RNA sequence
+GBVD01006207.1_6     -          oskar_filtered.aligned.OSK_domain -               0.26   14.5   0.1      0.33   14.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Ceraphron sp. AD-2014 C170267_a_26_0_l_255 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:10 2019
+# [ok]

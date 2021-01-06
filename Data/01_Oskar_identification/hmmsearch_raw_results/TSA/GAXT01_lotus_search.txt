@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXT01018062.1_5     -          LOTUS_CONSENSUS      -            1.2e-19   75.0   0.2   4.4e-18   70.0   0.0   3.5   4   0   0   4   4   4   1 TSA: Crioscolia alcione comp9893_c0_seq2 transcribed RNA sequence
+GAXT01018065.1_6     -          LOTUS_CONSENSUS      -            4.6e-19   73.1   0.3   7.1e-18   69.3   0.0   3.1   4   0   0   4   4   4   1 TSA: Crioscolia alcione comp9893_c0_seq5 transcribed RNA sequence
+GAXT01018061.1_6     -          LOTUS_CONSENSUS      -            1.4e-18   71.5   0.0   4.1e-18   70.1   0.0   1.8   1   0   0   1   1   1   1 TSA: Crioscolia alcione comp9893_c0_seq1 transcribed RNA sequence
+GAXT01018064.1_4     -          LOTUS_CONSENSUS      -            2.7e-18   70.7   0.0   6.8e-18   69.4   0.0   1.7   1   0   0   1   1   1   1 TSA: Crioscolia alcione comp9893_c0_seq4 transcribed RNA sequence
+GAXT01010448.1_1     -          LOTUS_CONSENSUS      -              4e-09   41.3   0.1   1.7e-08   39.3   0.0   2.1   2   0   0   2   2   2   1 TSA: Crioscolia alcione comp8089_c2_seq1 transcribed RNA sequence
+GAXT01010449.1_1     -          LOTUS_CONSENSUS      -            4.3e-09   41.2   0.1   1.7e-08   39.3   0.0   2.1   2   0   0   2   2   2   1 TSA: Crioscolia alcione comp8089_c2_seq2 transcribed RNA sequence
+GAXT01015467.1_5     -          LOTUS_CONSENSUS      -            0.00024   26.0   0.2       2.9   12.9   0.0   5.9   4   2   3   7   7   7   1 TSA: Crioscolia alcione comp9487_c1_seq4 transcribed RNA sequence
+GAXT01015465.1_6     -          LOTUS_CONSENSUS      -            0.00085   24.2   0.2         4   12.4   0.0   5.9   4   2   3   7   7   7   1 TSA: Crioscolia alcione comp9487_c1_seq2 transcribed RNA sequence
+GAXT01010449.1_3     -          LOTUS_CONSENSUS      -               0.28   16.1   0.0       0.8   14.7   0.0   1.7   1   0   0   1   1   1   0 TSA: Crioscolia alcione comp8089_c2_seq2 transcribed RNA sequence
+GAXT01010448.1_3     -          LOTUS_CONSENSUS      -               0.28   16.1   0.0      0.79   14.7   0.0   1.7   1   0   0   1   1   1   0 TSA: Crioscolia alcione comp8089_c2_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXT01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:04:41 2019
+# [ok]

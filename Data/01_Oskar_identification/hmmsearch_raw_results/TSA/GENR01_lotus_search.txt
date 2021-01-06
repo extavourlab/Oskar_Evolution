@@ -1,0 +1,77 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GENR01121948.1_6     -          LOTUS_CONSENSUS      -            3.2e-13   55.2   0.1   9.4e-13   53.7   0.0   1.8   2   0   0   2   2   1   1 TSA: Eudarcia simulatricella k90_20110 transcribed RNA sequence
+GENR01020592.1_3     -          LOTUS_CONSENSUS      -              5e-13   54.6   0.0   5.3e-12   51.3   0.0   2.5   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k52_291695 transcribed RNA sequence
+GENR01096271.1_2     -          LOTUS_CONSENSUS      -              5e-13   54.6   0.0   5.3e-12   51.3   0.0   2.5   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k78_159562 transcribed RNA sequence
+GENR01013381.1_3     -          LOTUS_CONSENSUS      -              7e-13   54.1   0.0   6.5e-12   51.0   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k52_275058 transcribed RNA sequence
+GENR01114346.1_3     -          LOTUS_CONSENSUS      -            7.9e-13   53.9   0.0   6.8e-12   50.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k86_107622 transcribed RNA sequence
+GENR01017047.1_4     -          LOTUS_CONSENSUS      -            7.9e-13   53.9   0.0   6.8e-12   50.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k52_283451 transcribed RNA sequence
+GENR01119661.1_6     -          LOTUS_CONSENSUS      -            7.9e-13   53.9   0.0   6.8e-12   50.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k88_100180 transcribed RNA sequence
+GENR01119228.1_3     -          LOTUS_CONSENSUS      -              8e-13   53.9   0.0   6.8e-12   50.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k88_98100 transcribed RNA sequence
+GENR01104218.1_4     -          LOTUS_CONSENSUS      -            8.2e-13   53.9   0.0   6.9e-12   50.9   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k82_124835 transcribed RNA sequence
+GENR01072849.1_2     -          LOTUS_CONSENSUS      -            8.4e-13   53.8   0.0   7.2e-12   50.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k70_175855 transcribed RNA sequence
+GENR01081506.1_2     -          LOTUS_CONSENSUS      -            8.4e-13   53.8   0.0   7.2e-12   50.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k74_157443 transcribed RNA sequence
+GENR01093091.1_5     -          LOTUS_CONSENSUS      -            9.3e-13   53.7   0.0   7.4e-12   50.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k78_145690 transcribed RNA sequence
+GENR01071038.1_5     -          LOTUS_CONSENSUS      -            9.3e-13   53.7   0.0   7.6e-12   50.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k70_163043 transcribed RNA sequence
+GENR01080139.1_5     -          LOTUS_CONSENSUS      -            9.3e-13   53.7   0.0   7.6e-12   50.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k74_147139 transcribed RNA sequence
+GENR01098798.1_1     -          LOTUS_CONSENSUS      -            5.8e-06   31.9   0.0     0.008   21.9   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k80_134490 transcribed RNA sequence
+GENR01026344.1_1     -          LOTUS_CONSENSUS      -            7.3e-06   31.6   0.0    0.0092   21.7   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k54_244693 transcribed RNA sequence
+GENR01029962.1_1     -          LOTUS_CONSENSUS      -            8.7e-06   31.4   0.0    0.0095   21.6   0.0   3.0   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k54_272840 transcribed RNA sequence
+GENR01066918.1_5     -          LOTUS_CONSENSUS      -            1.1e-05   31.1   0.0     0.016   20.9   0.0   3.2   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k68_178811 transcribed RNA sequence
+GENR01068392.1_3     -          LOTUS_CONSENSUS      -            1.1e-05   31.0   0.0     0.016   20.9   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k68_192353 transcribed RNA sequence
+GENR01104950.1_3     -          LOTUS_CONSENSUS      -              2e-05   30.2   0.0     0.028   20.1   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k82_128725 transcribed RNA sequence
+GENR01044877.1_6     -          LOTUS_CONSENSUS      -            2.3e-05   30.0   0.0     0.016   20.9   0.0   3.2   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k60_217941 transcribed RNA sequence
+GENR01061451.1_6     -          LOTUS_CONSENSUS      -            2.3e-05   30.0   0.0     0.016   20.9   0.0   3.2   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k66_183962 transcribed RNA sequence
+GENR01047462.1_4     -          LOTUS_CONSENSUS      -            2.5e-05   29.9   0.0     0.017   20.8   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k60_239074 transcribed RNA sequence
+GENR01063602.1_4     -          LOTUS_CONSENSUS      -            2.6e-05   29.8   0.0     0.017   20.8   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k66_203805 transcribed RNA sequence
+GENR01020599.1_6     -          LOTUS_CONSENSUS      -            3.6e-05   29.4   0.0      0.02   20.6   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k52_291713 transcribed RNA sequence
+GENR01030361.1_6     -          LOTUS_CONSENSUS      -            3.6e-05   29.4   0.0      0.02   20.6   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k54_277402 transcribed RNA sequence
+GENR01057986.1_1     -          LOTUS_CONSENSUS      -            3.6e-05   29.4   0.0      0.02   20.6   0.0   3.1   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k64_210578 transcribed RNA sequence
+GENR01076578.1_6     -          LOTUS_CONSENSUS      -            4.5e-05   29.1   0.0     0.033   19.9   0.0   3.2   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k72_161474 transcribed RNA sequence
+GENR01068914.1_3     -          LOTUS_CONSENSUS      -            4.8e-05   29.0   0.0     0.034   19.8   0.0   3.2   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k68_198814 transcribed RNA sequence
+GENR01073781.1_3     -          LOTUS_CONSENSUS      -            4.8e-05   29.0   0.0     0.034   19.8   0.0   3.2   2   1   0   2   2   2   1 TSA: Eudarcia simulatricella k70_186069 transcribed RNA sequence
+GENR01009353.1_1     -          LOTUS_CONSENSUS      -            7.4e-05   28.4   0.0     0.028   20.1   0.0   3.0   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k52_264867 transcribed RNA sequence
+GENR01026343.1_1     -          LOTUS_CONSENSUS      -            7.4e-05   28.4   0.0     0.028   20.1   0.0   3.0   2   0   0   2   2   2   1 TSA: Eudarcia simulatricella k54_244692 transcribed RNA sequence
+GENR01135988.1_6     -          LOTUS_CONSENSUS      -                0.5   16.1   0.0        20   10.9   0.0   3.4   4   1   1   5   5   2   0 TSA: Eudarcia simulatricella k94_80750 transcribed RNA sequence
+GENR01140371.1_2     -          LOTUS_CONSENSUS      -               0.66   15.7   0.0        16   11.3   0.0   2.8   2   1   1   3   3   2   0 TSA: Eudarcia simulatricella k96_61997 transcribed RNA sequence
+GENR01121364.1_3     -          LOTUS_CONSENSUS      -                1.1   15.0   0.0        27   10.5   0.0   3.1   4   0   0   4   4   2   0 TSA: Eudarcia simulatricella k88_108270 transcribed RNA sequence
+GENR01081636.1_6     -          LOTUS_CONSENSUS      -                1.1   15.0   0.0        28   10.5   0.0   3.2   4   0   0   4   4   2   0 TSA: Eudarcia simulatricella k74_158777 transcribed RNA sequence
+GENR01139163.1_3     -          LOTUS_CONSENSUS      -                1.6   14.5   0.1       3.4   13.4   0.1   1.5   1   0   0   1   1   1   0 TSA: Eudarcia simulatricella k96_58563 transcribed RNA sequence
+GENR01072855.1_4     -          LOTUS_CONSENSUS      -                1.7   14.4   0.0        36   10.1   0.0   3.2   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k70_175899 transcribed RNA sequence
+GENR01055367.1_3     -          LOTUS_CONSENSUS      -                1.8   14.3   0.0        37   10.1   0.0   3.1   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k64_190894 transcribed RNA sequence
+GENR01133043.1_1     -          LOTUS_CONSENSUS      -                1.8   14.3   0.1       3.6   13.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Eudarcia simulatricella k94_72748 transcribed RNA sequence
+GENR01071454.1_4     -          LOTUS_CONSENSUS      -                1.8   14.3   0.0        37   10.1   0.0   3.1   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k70_165898 transcribed RNA sequence
+GENR01100343.1_4     -          LOTUS_CONSENSUS      -                1.8   14.3   0.0        37   10.1   0.0   3.1   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k80_142271 transcribed RNA sequence
+GENR01136070.1_1     -          LOTUS_CONSENSUS      -                1.8   14.3   0.1       3.7   13.3   0.1   1.5   1   0   0   1   1   1   0 TSA: Eudarcia simulatricella k94_80964 transcribed RNA sequence
+GENR01057360.1_6     -          LOTUS_CONSENSUS      -                1.9   14.2   0.0        36   10.1   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k64_205307 transcribed RNA sequence
+GENR01056567.1_3     -          LOTUS_CONSENSUS      -                1.9   14.2   0.0        36   10.1   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k64_198852 transcribed RNA sequence
+GENR01071789.1_3     -          LOTUS_CONSENSUS      -                1.9   14.2   0.0        36   10.1   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k70_167897 transcribed RNA sequence
+GENR01071908.1_3     -          LOTUS_CONSENSUS      -                1.9   14.2   0.0        36   10.1   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k70_168828 transcribed RNA sequence
+GENR01026899.1_3     -          LOTUS_CONSENSUS      -                  2   14.2   0.0        36   10.2   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k54_248760 transcribed RNA sequence
+GENR01132037.1_4     -          LOTUS_CONSENSUS      -                2.1   14.1   0.0        40   10.0   0.0   3.1   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k94_65855 transcribed RNA sequence
+GENR01095011.1_5     -          LOTUS_CONSENSUS      -                2.1   14.1   0.0        36   10.1   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k78_153032 transcribed RNA sequence
+GENR01080373.1_5     -          LOTUS_CONSENSUS      -                2.2   14.0   0.0        37   10.1   0.0   2.9   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k74_149162 transcribed RNA sequence
+GENR01100342.1_5     -          LOTUS_CONSENSUS      -                2.2   14.0   0.0        37   10.1   0.0   2.9   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k80_142270 transcribed RNA sequence
+GENR01105114.1_5     -          LOTUS_CONSENSUS      -                2.2   14.0   0.0        37   10.1   0.0   2.9   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k82_129554 transcribed RNA sequence
+GENR01084270.1_4     -          LOTUS_CONSENSUS      -                2.6   13.8   0.0        43    9.9   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k76_139118 transcribed RNA sequence
+GENR01110753.1_5     -          LOTUS_CONSENSUS      -                2.7   13.7   0.0        46    9.8   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k84_121354 transcribed RNA sequence
+GENR01111395.1_6     -          LOTUS_CONSENSUS      -                2.7   13.7   0.0        46    9.8   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k84_125146 transcribed RNA sequence
+GENR01111104.1_3     -          LOTUS_CONSENSUS      -                2.8   13.7   0.0        46    9.8   0.0   3.0   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k84_123320 transcribed RNA sequence
+GENR01120513.1_4     -          LOTUS_CONSENSUS      -                2.9   13.7   0.0        47    9.8   0.0   3.0   2   0   0   2   2   2   0 TSA: Eudarcia simulatricella k88_103581 transcribed RNA sequence
+GENR01120827.1_3     -          LOTUS_CONSENSUS      -                2.9   13.7   0.0        47    9.8   0.0   3.0   2   0   0   2   2   2   0 TSA: Eudarcia simulatricella k88_105021 transcribed RNA sequence
+GENR01120445.1_4     -          LOTUS_CONSENSUS      -                2.9   13.7   0.0        47    9.8   0.0   3.0   2   0   0   2   2   2   0 TSA: Eudarcia simulatricella k88_103285 transcribed RNA sequence
+GENR01120871.1_3     -          LOTUS_CONSENSUS      -                2.9   13.7   0.0        47    9.8   0.0   3.0   2   0   0   2   2   2   0 TSA: Eudarcia simulatricella k88_105249 transcribed RNA sequence
+GENR01084269.1_5     -          LOTUS_CONSENSUS      -                2.9   13.7   0.0        43    9.9   0.0   2.9   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k76_139117 transcribed RNA sequence
+GENR01139720.1_2     -          LOTUS_CONSENSUS      -                3.2   13.5   0.0        40   10.0   0.0   2.7   3   0   0   3   3   2   0 TSA: Eudarcia simulatricella k96_60256 transcribed RNA sequence
+GENR01129035.1_3     -          LOTUS_CONSENSUS      -                3.5   13.4   0.0        52    9.6   0.0   2.9   2   0   0   2   2   1   0 TSA: Eudarcia simulatricella k92_81619 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GENR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GENR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:07 2019
+# [ok]

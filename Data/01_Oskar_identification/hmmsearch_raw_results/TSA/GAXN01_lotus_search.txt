@@ -1,0 +1,64 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXN01046455.1_5     -          LOTUS_CONSENSUS      -            3.8e-19   73.1   0.3   3.1e-14   57.4   0.0   2.9   3   0   0   3   3   2   2 TSA: Sceliphron caementarium comp13795_c0_seq14 transcribed RNA sequence
+GAXN01046457.1_6     -          LOTUS_CONSENSUS      -            3.8e-19   73.1   0.3   3.1e-14   57.4   0.0   2.9   3   0   0   3   3   2   2 TSA: Sceliphron caementarium comp13795_c0_seq16 transcribed RNA sequence
+GAXN01046463.1_5     -          LOTUS_CONSENSUS      -            3.9e-19   73.1   0.3   3.2e-14   57.4   0.0   2.9   3   0   0   3   3   2   2 TSA: Sceliphron caementarium comp13795_c0_seq22 transcribed RNA sequence
+GAXN01046456.1_6     -          LOTUS_CONSENSUS      -              4e-19   73.1   0.3   3.2e-14   57.4   0.0   2.9   3   0   0   3   3   2   2 TSA: Sceliphron caementarium comp13795_c0_seq15 transcribed RNA sequence
+GAXN01046443.1_5     -          LOTUS_CONSENSUS      -            4.1e-19   73.0   0.3   3.2e-14   57.3   0.0   2.9   3   0   0   3   3   2   2 TSA: Sceliphron caementarium comp13795_c0_seq2 transcribed RNA sequence
+GAXN01046454.1_5     -          LOTUS_CONSENSUS      -            4.2e-19   73.0   0.3   3.2e-14   57.3   0.0   2.9   3   0   0   3   3   2   2 TSA: Sceliphron caementarium comp13795_c0_seq13 transcribed RNA sequence
+GAXN01046447.1_4     -          LOTUS_CONSENSUS      -            4.9e-19   72.8   0.3   3.3e-14   57.3   0.0   2.8   3   0   0   3   3   2   2 TSA: Sceliphron caementarium comp13795_c0_seq6 transcribed RNA sequence
+GAXN01046461.1_5     -          LOTUS_CONSENSUS      -            5.1e-19   72.7   0.0   3.2e-14   57.3   0.0   2.6   2   0   0   2   2   2   2 TSA: Sceliphron caementarium comp13795_c0_seq20 transcribed RNA sequence
+GAXN01046458.1_4     -          LOTUS_CONSENSUS      -            5.5e-19   72.6   0.0   3.1e-14   57.4   0.0   2.5   2   0   0   2   2   2   2 TSA: Sceliphron caementarium comp13795_c0_seq17 transcribed RNA sequence
+GAXN01046446.1_4     -          LOTUS_CONSENSUS      -            5.7e-19   72.6   0.0   3.2e-14   57.3   0.0   2.5   2   0   0   2   2   2   2 TSA: Sceliphron caementarium comp13795_c0_seq5 transcribed RNA sequence
+GAXN01046444.1_6     -          LOTUS_CONSENSUS      -            5.7e-19   72.6   0.0   3.3e-14   57.3   0.0   2.5   2   0   0   2   2   2   2 TSA: Sceliphron caementarium comp13795_c0_seq3 transcribed RNA sequence
+GAXN01038756.1_2     -          LOTUS_CONSENSUS      -            1.1e-18   71.7   0.0   2.3e-18   70.6   0.0   1.6   1   0   0   1   1   1   1 TSA: Sceliphron caementarium comp13504_c1_seq12 transcribed RNA sequence
+GAXN01038755.1_1     -          LOTUS_CONSENSUS      -            1.1e-18   71.6   0.0   2.1e-18   70.8   0.0   1.4   1   0   0   1   1   1   1 TSA: Sceliphron caementarium comp13504_c1_seq11 transcribed RNA sequence
+GAXN01038753.1_2     -          LOTUS_CONSENSUS      -            1.5e-18   71.2   0.1   5.9e-18   69.3   0.0   2.0   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq9 transcribed RNA sequence
+GAXN01038747.1_1     -          LOTUS_CONSENSUS      -            1.5e-18   71.2   0.1   5.7e-18   69.4   0.0   2.0   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq3 transcribed RNA sequence
+GAXN01038760.1_2     -          LOTUS_CONSENSUS      -              2e-18   70.8   0.1   9.7e-18   68.6   0.0   2.3   3   0   0   3   3   1   1 TSA: Sceliphron caementarium comp13504_c1_seq16 transcribed RNA sequence
+GAXN01038759.1_1     -          LOTUS_CONSENSUS      -              2e-18   70.8   0.1   9.5e-18   68.7   0.0   2.2   3   0   0   3   3   1   1 TSA: Sceliphron caementarium comp13504_c1_seq15 transcribed RNA sequence
+GAXN01038754.1_2     -          LOTUS_CONSENSUS      -            2.1e-18   70.8   0.1     1e-17   68.6   0.0   2.3   3   0   0   3   3   1   1 TSA: Sceliphron caementarium comp13504_c1_seq10 transcribed RNA sequence
+GAXN01038757.1_1     -          LOTUS_CONSENSUS      -            2.1e-18   70.7   0.1   9.8e-18   68.6   0.0   2.2   3   0   0   3   3   1   1 TSA: Sceliphron caementarium comp13504_c1_seq13 transcribed RNA sequence
+GAXN01038746.1_2     -          LOTUS_CONSENSUS      -            2.2e-18   70.7   0.0   1.3e-17   68.2   0.0   2.5   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq2 transcribed RNA sequence
+GAXN01038758.1_1     -          LOTUS_CONSENSUS      -            2.3e-18   70.7   0.0   1.3e-17   68.2   0.0   2.4   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq14 transcribed RNA sequence
+GAXN01038748.1_2     -          LOTUS_CONSENSUS      -            2.3e-18   70.6   0.1   1.3e-17   68.2   0.0   2.5   3   0   0   3   3   1   1 TSA: Sceliphron caementarium comp13504_c1_seq4 transcribed RNA sequence
+GAXN01038745.1_1     -          LOTUS_CONSENSUS      -            2.3e-18   70.6   0.1   1.3e-17   68.2   0.0   2.4   3   0   0   3   3   1   1 TSA: Sceliphron caementarium comp13504_c1_seq1 transcribed RNA sequence
+GAXN01038752.1_2     -          LOTUS_CONSENSUS      -            2.5e-18   70.5   0.0   1.3e-17   68.2   0.0   2.4   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq8 transcribed RNA sequence
+GAXN01038751.1_1     -          LOTUS_CONSENSUS      -            2.5e-18   70.5   0.0   1.3e-17   68.2   0.0   2.3   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq7 transcribed RNA sequence
+GAXN01038750.1_2     -          LOTUS_CONSENSUS      -            2.6e-18   70.5   0.0   1.4e-17   68.2   0.0   2.3   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq6 transcribed RNA sequence
+GAXN01038749.1_1     -          LOTUS_CONSENSUS      -            2.6e-18   70.5   0.0   1.3e-17   68.2   0.0   2.3   2   0   0   2   2   1   1 TSA: Sceliphron caementarium comp13504_c1_seq5 transcribed RNA sequence
+GAXN01043392.1_4     -          LOTUS_CONSENSUS      -            2.4e-06   32.1   0.0        37    9.1   0.0   5.8   3   1   3   6   6   5   2 TSA: Sceliphron caementarium comp13703_c0_seq8 transcribed RNA sequence
+GAXN01043391.1_6     -          LOTUS_CONSENSUS      -            2.5e-06   32.1   0.0        37    9.1   0.0   5.7   3   1   3   6   6   5   2 TSA: Sceliphron caementarium comp13703_c0_seq7 transcribed RNA sequence
+GAXN01043385.1_4     -          LOTUS_CONSENSUS      -            2.5e-06   32.0   0.0        37    9.1   0.0   5.8   3   1   2   6   6   6   2 TSA: Sceliphron caementarium comp13703_c0_seq1 transcribed RNA sequence
+GAXN01043395.1_6     -          LOTUS_CONSENSUS      -            2.6e-06   32.0   0.0        37    9.1   0.0   5.7   3   1   3   6   6   5   2 TSA: Sceliphron caementarium comp13703_c0_seq11 transcribed RNA sequence
+GAXN01043388.1_4     -          LOTUS_CONSENSUS      -            4.7e-06   31.2   0.0        44    8.8   0.0   5.7   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq4 transcribed RNA sequence
+GAXN01043397.1_4     -          LOTUS_CONSENSUS      -            4.8e-06   31.1   0.0        44    8.8   0.0   5.7   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq13 transcribed RNA sequence
+GAXN01043390.1_6     -          LOTUS_CONSENSUS      -            4.9e-06   31.1   0.0        45    8.8   0.0   5.6   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq6 transcribed RNA sequence
+GAXN01043389.1_6     -          LOTUS_CONSENSUS      -            4.9e-06   31.1   0.0        44    8.8   0.0   5.7   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq5 transcribed RNA sequence
+GAXN01043394.1_4     -          LOTUS_CONSENSUS      -              5e-06   31.1   0.0        44    8.8   0.0   5.7   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq10 transcribed RNA sequence
+GAXN01043398.1_4     -          LOTUS_CONSENSUS      -              5e-06   31.1   0.0        45    8.8   0.0   5.7   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq14 transcribed RNA sequence
+GAXN01043386.1_6     -          LOTUS_CONSENSUS      -            5.1e-06   31.0   0.0        44    8.8   0.0   5.6   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq2 transcribed RNA sequence
+GAXN01043393.1_6     -          LOTUS_CONSENSUS      -            5.2e-06   31.0   0.0        44    8.8   0.0   5.7   3   1   2   5   5   4   1 TSA: Sceliphron caementarium comp13703_c0_seq9 transcribed RNA sequence
+GAXN01046459.1_6     -          LOTUS_CONSENSUS      -                0.6   14.8   0.1       2.2   13.0   0.0   2.0   2   0   0   2   2   1   0 TSA: Sceliphron caementarium comp13795_c0_seq18 transcribed RNA sequence
+GAXN01046460.1_5     -          LOTUS_CONSENSUS      -               0.61   14.8   0.1       2.3   12.9   0.0   2.0   2   0   0   2   2   1   0 TSA: Sceliphron caementarium comp13795_c0_seq19 transcribed RNA sequence
+GAXN01046468.1_6     -          LOTUS_CONSENSUS      -               0.62   14.8   0.1       2.3   12.9   0.0   2.0   2   0   0   2   2   1   0 TSA: Sceliphron caementarium comp13795_c0_seq27 transcribed RNA sequence
+GAXN01054428.1_2     -          LOTUS_CONSENSUS      -               0.65   14.7   0.1       1.4   13.6   0.1   1.5   1   1   0   1   1   1   0 TSA: Sceliphron caementarium comp43972_c0_seq1 transcribed RNA sequence
+GAXN01046451.1_4     -          LOTUS_CONSENSUS      -                0.7   14.6   0.1       2.2   13.0   0.0   1.8   2   0   0   2   2   1   0 TSA: Sceliphron caementarium comp13795_c0_seq10 transcribed RNA sequence
+GAXN01046450.1_5     -          LOTUS_CONSENSUS      -               0.84   14.3   0.0       2.2   13.0   0.0   1.6   1   0   0   1   1   1   0 TSA: Sceliphron caementarium comp13795_c0_seq9 transcribed RNA sequence
+GAXN01046453.1_5     -          LOTUS_CONSENSUS      -               0.86   14.3   0.0       2.3   12.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Sceliphron caementarium comp13795_c0_seq12 transcribed RNA sequence
+GAXN01046449.1_6     -          LOTUS_CONSENSUS      -               0.89   14.3   0.0       2.2   13.0   0.0   1.6   1   0   0   1   1   1   0 TSA: Sceliphron caementarium comp13795_c0_seq8 transcribed RNA sequence
+GAXN01046464.1_5     -          LOTUS_CONSENSUS      -                0.9   14.2   0.0       2.3   12.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Sceliphron caementarium comp13795_c0_seq23 transcribed RNA sequence
+GAXN01046448.1_6     -          LOTUS_CONSENSUS      -               0.91   14.2   0.0       2.3   12.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Sceliphron caementarium comp13795_c0_seq7 transcribed RNA sequence
+GAXN01046445.1_6     -          LOTUS_CONSENSUS      -               0.96   14.1   0.0       2.2   13.0   0.0   1.5   1   0   0   1   1   1   0 TSA: Sceliphron caementarium comp13795_c0_seq4 transcribed RNA sequence
+GAXN01046466.1_4     -          LOTUS_CONSENSUS      -                  1   14.0   0.0       2.3   12.9   0.0   1.5   1   0   0   1   1   1   0 TSA: Sceliphron caementarium comp13795_c0_seq25 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:03 2019
+# [ok]

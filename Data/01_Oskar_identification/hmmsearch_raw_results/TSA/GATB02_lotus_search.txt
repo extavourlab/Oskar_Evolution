@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATB02028459.1_6     -          LOTUS_CONSENSUS      -                0.7   14.5   0.1       1.2   13.8   0.1   1.3   1   0   0   1   1   1   0 TSA: Metallyticus splendidus C174315_a_7_0_l_740 transcribed RNA sequence
+GATB02059287.1_6     -          LOTUS_CONSENSUS      -               0.86   14.2   0.1       1.8   13.2   0.1   1.6   1   0   0   1   1   1   0 TSA: Metallyticus splendidus s7167_L_27399_1_a_6_3_l_1118 transcribed RNA sequence
+GATB02011685.1_6     -          LOTUS_CONSENSUS      -                1.1   13.8   0.1       1.6   13.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Metallyticus splendidus C130306_a_12_0_l_368 transcribed RNA sequence
+GATB02059286.1_6     -          LOTUS_CONSENSUS      -                1.2   13.7   0.1       3.3   12.3   0.1   1.9   1   0   0   1   1   1   0 TSA: Metallyticus splendidus s7166_L_27399_0_a_5_6_l_1165 transcribed RNA sequence
+GATB02061729.1_6     -          LOTUS_CONSENSUS      -                  2   13.1   0.0       4.8   11.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Metallyticus splendidus s9374_L_51795_0_a_43_5_l_1287 transcribed RNA sequence
+GATB02033438.1_5     -          LOTUS_CONSENSUS      -                2.7   12.6   0.1       6.3   11.4   0.1   1.6   1   0   0   1   1   1   0 TSA: Metallyticus splendidus C187543_a_13_0_l_1027 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATB02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:24 2019
+# [ok]

@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGNV01022138.1_1     -          OSK_CONSENSUS        -            1.2e-34  126.2   2.8   1.4e-34  126.0   0.1   2.1   2   0   0   2   2   2   1 TSA: Leptinotarsa decemlineata TRINITY_DN44692_c0_g1_i2 transcribed RNA sequence
+GGNV01022137.1_1     -          OSK_CONSENSUS        -            9.3e-32  116.8   1.6     3e-31  115.2   0.0   2.0   2   0   0   2   2   2   1 TSA: Leptinotarsa decemlineata TRINITY_DN44692_c0_g1_i1 transcribed RNA sequence
+GGNV01087640.1_6     -          OSK_CONSENSUS        -               0.13   18.9   0.7       0.3   17.7   0.7   1.6   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN54294_c3_g3_i2 transcribed RNA sequence
+GGNV01087643.1_5     -          OSK_CONSENSUS        -               0.23   18.1   0.8      0.49   17.0   0.8   1.5   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN54294_c3_g3_i3 transcribed RNA sequence
+GGNV01089962.1_4     -          OSK_CONSENSUS        -               0.43   17.2   0.0      0.52   16.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN55177_c5_g1_i7 transcribed RNA sequence
+GGNV01011859.1_3     -          OSK_CONSENSUS        -                1.4   15.5   0.1       1.5   15.4   0.1   1.1   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN45148_c0_g4_i4 transcribed RNA sequence
+GGNV01255792.1_3     -          OSK_CONSENSUS        -                4.4   13.9   0.4       9.8   12.8   0.4   1.6   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN27333_c0_g1_i1 transcribed RNA sequence
+GGNV01216713.1_4     -          OSK_CONSENSUS        -                4.9   13.7   0.5         6   13.5   0.5   1.1   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN58360_c0_g2_i1 transcribed RNA sequence
+GGNV01261693.1_1     -          OSK_CONSENSUS        -                4.9   13.7   0.2       6.3   13.4   0.2   1.2   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN50184_c4_g2_i4 transcribed RNA sequence
+GGNV01322690.1_6     -          OSK_CONSENSUS        -                5.2   13.7   0.0       5.8   13.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN53765_c11_g1_i1 transcribed RNA sequence
+GGNV01244183.1_2     -          OSK_CONSENSUS        -                7.4   13.2   0.6        18   11.9   0.0   2.0   2   0   0   2   2   2   0 TSA: Leptinotarsa decemlineata TRINITY_DN57625_c0_g1_i2 transcribed RNA sequence
+GGNV01261694.1_3     -          OSK_CONSENSUS        -                8.4   13.0   0.8        15   12.2   0.6   1.4   1   1   0   1   1   1   0 TSA: Leptinotarsa decemlineata TRINITY_DN50184_c4_g2_i5 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGNV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGNV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGNV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:03:27 2019
+# [ok]

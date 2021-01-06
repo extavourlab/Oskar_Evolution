@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDZJ01032383.1_1     -          OSK_CONSENSUS        -              0.012   18.7   1.7      0.99   12.5   2.9   2.7   2   0   0   2   2   2   0 TSA: Gyna lurida breed wildtype s6891_L_18329_1_a_16_3_l_3713, transcribed RNA sequence
+GDZJ01029385.1_1     -          OSK_CONSENSUS        -              0.054   16.6   0.4     0.061   16.4   0.4   1.1   1   0   0   1   1   1   0 TSA: Gyna lurida breed wildtype s4149_L_6232_0_a_16_1_l_369, transcribed RNA sequence
+GDZJ01032917.1_4     -          OSK_CONSENSUS        -              0.057   16.5   0.3     0.057   16.5   0.3   1.6   2   0   0   2   2   2   0 TSA: Gyna lurida breed wildtype s7376_L_22776_0_a_3_3_l_877, transcribed RNA sequence
+GDZJ01006344.1_2     -          OSK_CONSENSUS        -               0.61   13.1   0.4       1.3   12.0   0.3   1.7   1   1   0   1   1   1   0 TSA: Gyna lurida breed wildtype C119333_a_7_0_l_447, transcribed RNA sequence
+GDZJ01020369.1_1     -          OSK_CONSENSUS        -               0.91   12.6   0.1      0.97   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Gyna lurida breed wildtype C84988_a_3_0_l_247, transcribed RNA sequence
+GDZJ01009282.1_3     -          OSK_CONSENSUS        -                1.3   12.1   2.1       3.5   10.7   0.2   2.1   2   0   0   2   2   2   0 TSA: Gyna lurida breed wildtype C128342_a_3_0_l_572, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDZJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDZJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:11 2019
+# [ok]

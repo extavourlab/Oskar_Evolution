@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOA01131969.1_5     -          OSK_CONSENSUS        -              0.035   19.4   0.6     0.041   19.1   0.6   1.1   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR96625-c0_g1_i1 transcribed RNA sequence
+GEOA01071207.1_6     -          OSK_CONSENSUS        -               0.25   16.6   0.0      0.31   16.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR49087-c0_g1_i1 transcribed RNA sequence
+GEOA01038884.1_3     -          OSK_CONSENSUS        -                0.4   15.9   0.0      0.58   15.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR28228-c0_g1_i1 transcribed RNA sequence
+GEOA01018309.1_3     -          OSK_CONSENSUS        -                1.4   14.2   0.5       1.8   13.9   0.5   1.2   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR13156-c0_g1_i1 transcribed RNA sequence
+GEOA01027643.1_1     -          OSK_CONSENSUS        -                1.9   13.8   0.1       2.4   13.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR19733-c2_g1_i1 transcribed RNA sequence
+GEOA01124767.1_2     -          OSK_CONSENSUS        -                2.5   13.3   0.2       2.9   13.2   0.2   1.2   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR88580-c0_g1_i1 transcribed RNA sequence
+GEOA01083345.1_2     -          OSK_CONSENSUS        -                3.5   12.9   0.0       4.9   12.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR58504-c0_g1_i1 transcribed RNA sequence
+GEOA01000970.1_3     -          OSK_CONSENSUS        -                3.6   12.8   1.4       4.3   12.6   1.4   1.1   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR816-c0_g1_i1 transcribed RNA sequence
+GEOA01142828.1_6     -          OSK_CONSENSUS        -                4.1   12.6   0.0       4.4   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Andesiana lamellata TR108671-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOA01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:27 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEX01038769.1_2     -          OSK_CONSENSUS        -             0.0019   22.7   0.5      0.02   19.4   0.5   2.0   2   0   0   2   2   2   1 TSA: Proasellus grafi, contig c28769_g2_i2, transcribed RNA sequence
+HAEX01058005.1_4     -          OSK_CONSENSUS        -               0.15   16.5   0.2        66    8.0   0.0   2.6   2   1   1   3   3   3   0 TSA: Proasellus grafi, contig c48260_g1_i1, transcribed RNA sequence
+HAEX01042158.1_3     -          OSK_CONSENSUS        -               0.34   15.4   0.2      0.36   15.3   0.2   1.1   1   0   0   1   1   1   0 TSA: Proasellus grafi, contig c32078_g1_i1, transcribed RNA sequence
+HAEX01087987.1_2     -          OSK_CONSENSUS        -               0.72   14.3   0.4      0.98   13.9   0.4   1.3   1   0   0   1   1   1   0 TSA: Proasellus grafi, contig c78817_g1_i1, transcribed RNA sequence
+HAEX01049537.1_2     -          OSK_CONSENSUS        -               0.91   14.0   0.4         1   13.9   0.4   1.1   1   0   0   1   1   1   0 TSA: Proasellus grafi, contig c39619_g1_i1, transcribed RNA sequence
+HAEX01022613.1_6     -          OSK_CONSENSUS        -               0.98   13.9   0.5       1.3   13.5   0.5   1.2   1   0   0   1   1   1   0 TSA: Proasellus grafi, contig c23075_g1_i2, transcribed RNA sequence
+HAEX01032596.1_3     -          OSK_CONSENSUS        -                1.4   13.4   0.0       1.6   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Proasellus grafi, contig c27782_g1_i1, transcribed RNA sequence
+HAEX01069581.1_3     -          OSK_CONSENSUS        -                2.7   12.5   2.4       3.4   12.1   0.3   1.9   1   1   1   2   2   2   0 TSA: Proasellus grafi, contig c60036_g1_i1, transcribed RNA sequence
+HAEX01035976.1_6     -          OSK_CONSENSUS        -                8.7   10.8   5.4       2.5   12.6   1.5   2.0   2   1   0   2   2   2   0 TSA: Proasellus grafi, contig c28443_g1_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEX.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEX.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEX.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:00 2019
+# [ok]

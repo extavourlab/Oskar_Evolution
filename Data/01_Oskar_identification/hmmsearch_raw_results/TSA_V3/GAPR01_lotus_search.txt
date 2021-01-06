@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAPR01021832.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-18   70.9   0.1   1.1e-17   67.7   0.0   2.6   3   0   0   3   3   3   1 TSA: Diadromus collaris Unigene22075_Diadromus_collaris_venom_gland transcribed RNA sequence
+GAPR01011241.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.39   14.6   0.0       1.2   13.0   0.0   1.8   1   0   0   1   1   1   0 TSA: Diadromus collaris Unigene11418_Diadromus_collaris_venom_gland transcribed RNA sequence
+GAPR01017489.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.6   12.6   0.0         7   10.6   0.0   2.0   2   0   0   2   2   2   0 TSA: Diadromus collaris Unigene17719_Diadromus_collaris_venom_gland transcribed RNA sequence
+GAPR01001165.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.2   3.6       6.2   10.7   0.2   3.2   4   0   0   4   4   4   0 TSA: Diadromus collaris Unigene1169_Diadromus_collaris_venom_gland transcribed RNA sequence
+GAPR01026366.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.3   11.2   3.1        47    7.9   0.0   3.6   5   0   0   5   5   5   0 TSA: Diadromus collaris Unigene26623_Diadromus_collaris_venom_gland transcribed RNA sequence
+GAPR01026365.1_4     -          oskar_filtered.aligned.LOTUS_domain -                6.5   10.7   3.5        48    7.9   0.0   3.5   5   0   0   5   5   5   0 TSA: Diadromus collaris Unigene26622_Diadromus_collaris_venom_gland transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAPR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAPR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:12 2019
+# [ok]

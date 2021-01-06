@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATY02022501.1_1     -          LOTUS_CONSENSUS      -            2.7e-22   81.9   0.0     3e-21   78.5   0.0   2.7   2   0   0   2   2   2   1 TSA: Chrysis viridula s5372_L_14633_1_a_35_8_l_3299 transcribed RNA sequence
+GATY02022500.1_1     -          LOTUS_CONSENSUS      -            4.8e-22   81.1   0.0   4.4e-21   78.0   0.0   2.7   2   0   0   2   2   2   1 TSA: Chrysis viridula s5371_L_14633_0_a_27_5_l_4512 transcribed RNA sequence
+GATY02014556.1_4     -          LOTUS_CONSENSUS      -            1.6e-21   79.4   1.2   2.5e-13   53.1   0.0   3.7   3   2   0   3   3   3   2 TSA: Chrysis viridula C83583_a_3_0_l_1230 transcribed RNA sequence
+GATY02024775.1_2     -          LOTUS_CONSENSUS      -            6.2e-06   29.4   0.0      0.13   15.6   0.0   4.4   3   1   1   4   4   4   1 TSA: Chrysis viridula s7442_L_26261_0_a_34_3_l_5297 transcribed RNA sequence
+GATY02015564.1_4     -          LOTUS_CONSENSUS      -              0.013   18.8   0.0       2.1   11.7   0.0   2.7   2   0   0   2   2   2   0 TSA: Chrysis viridula C88005_a_12_0_l_1618 transcribed RNA sequence
+GATY02009630.1_5     -          LOTUS_CONSENSUS      -               0.47   13.8   1.4      0.82   13.0   0.9   1.6   1   1   0   1   1   1   0 TSA: Chrysis viridula C63877_a_3_0_l_484 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATY02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATY02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATY02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:44:42 2019
+# [ok]

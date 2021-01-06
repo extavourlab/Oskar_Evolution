@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFWP01019871.1_3     -          LOTUS_CONSENSUS      -            6.2e-15   58.8   0.0   8.8e-15   58.4   0.0   1.2   1   0   0   1   1   1   1 TSA: Sogatella furcifera Unigene12378_Sogatella_furcifera transcribed RNA sequence
+GFWP01037385.1_1     -          LOTUS_CONSENSUS      -            6.9e-15   58.7   0.0   7.8e-15   58.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Sogatella furcifera Unigene31795_Sogatella_furcifera transcribed RNA sequence
+GFWP01030065.1_4     -          LOTUS_CONSENSUS      -              0.077   16.9   0.0        28    8.7   0.0   2.0   1   1   1   2   2   2   0 TSA: Sogatella furcifera Unigene23665_Sogatella_furcifera transcribed RNA sequence
+GFWP01034216.1_6     -          LOTUS_CONSENSUS      -               0.12   16.3   0.0       1.8   12.4   0.0   2.1   2   0   0   2   2   2   0 TSA: Sogatella furcifera Unigene28326_Sogatella_furcifera transcribed RNA sequence
+GFWP01012116.1_1     -          LOTUS_CONSENSUS      -                1.3   12.9   0.6        32    8.5   0.0   2.8   3   0   0   3   3   3   0 TSA: Sogatella furcifera Unigene4025_Sogatella_furcifera transcribed RNA sequence
+GFWP01028570.1_1     -          LOTUS_CONSENSUS      -                1.4   12.9   0.1       1.9   12.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Sogatella furcifera Unigene22018_Sogatella_furcifera transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFWP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFWP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:42 2019
+# [ok]

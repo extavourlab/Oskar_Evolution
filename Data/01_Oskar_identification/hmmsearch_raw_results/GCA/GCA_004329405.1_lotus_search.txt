@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g31301.t1            -          LOTUS_CONSENSUS      -            4.3e-28   99.8   0.3   3.7e-27   96.8   0.0   2.6   2   0   0   2   2   2   1 -
+g6879.t1             -          LOTUS_CONSENSUS      -            2.5e-21   78.1   0.4   1.4e-20   75.7   0.0   2.6   2   0   0   2   2   2   1 -
+g33618.t1            -          LOTUS_CONSENSUS      -            8.4e-17   63.6   5.0   5.5e-11   45.0   0.0   4.5   5   0   0   5   5   5   2 -
+g30892.t1            -          LOTUS_CONSENSUS      -            6.2e-06   28.8   2.1         2   11.2   0.0   6.0   4   1   4   8   8   8   2 -
+g37859.t1            -          LOTUS_CONSENSUS      -            8.6e-06   28.3   4.0      0.18   14.5   0.0   5.3   5   1   0   5   5   5   1 -
+g66842.t1            -          LOTUS_CONSENSUS      -            0.00029   23.4   0.0   0.00032   23.3   0.0   1.0   1   0   0   1   1   1   1 -
+g45962.t1            -          LOTUS_CONSENSUS      -              0.019   17.6   1.4     0.046   16.4   0.0   2.4   2   1   0   3   3   3   0 -
+g64371.t1            -          LOTUS_CONSENSUS      -              0.062   16.0   0.3      0.11   15.2   0.3   1.4   1   0   0   1   1   1   0 -
+g2317.t1             -          LOTUS_CONSENSUS      -                0.3   13.7   0.3       2.9   10.6   0.1   2.2   2   0   0   2   2   2   0 -
+g65697.t1            -          LOTUS_CONSENSUS      -                3.6   10.3   6.1       3.7   10.3   3.9   2.1   1   1   1   2   2   2   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_004329405.1_augustus.aa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_RESULT/GCA_004329405.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCA_PROTEIN/GCA_004329405.1_augustus.aa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Tue Nov 12 18:48:12 2019
+# [ok]

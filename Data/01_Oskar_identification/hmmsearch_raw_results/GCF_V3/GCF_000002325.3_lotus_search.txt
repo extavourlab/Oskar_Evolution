@@ -1,0 +1,35 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_001234884.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-28   99.6   0.5   3.5e-28   98.3   0.1   1.9   2   0   0   2   2   2   1 maternal effect protein oskar [Nasonia vitripennis]
+XP_008205380.1       -          oskar_filtered.aligned.LOTUS_domain -            7.2e-20   71.6   8.9     1e-14   55.1   0.3   3.9   3   1   1   4   4   4   2 PREDICTED: tudor domain-containing protein 5-like [Nasonia vitripennis]
+XP_016843056.1       -          oskar_filtered.aligned.LOTUS_domain -            7.2e-20   71.6   8.9     1e-14   55.1   0.3   3.9   3   1   1   4   4   4   2 PREDICTED: tudor domain-containing protein 5-like [Nasonia vitripennis]
+XP_016845477.1       -          oskar_filtered.aligned.LOTUS_domain -            3.5e-17   63.0   0.0   1.1e-16   61.4   0.0   1.9   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like isoform X2 [Nasonia vitripennis]
+XP_001604820.2       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-17   62.9   0.0   1.2e-16   61.3   0.0   2.0   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like isoform X1 [Nasonia vitripennis]
+XP_008212485.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-17   62.1  10.9   4.2e-12   46.7   0.0   4.3   4   0   0   4   4   3   2 PREDICTED: uncharacterized protein LOC100121779 isoform X1 [Nasonia vitripennis]
+XP_016837157.1       -          oskar_filtered.aligned.LOTUS_domain -            6.6e-17   62.1  10.9   4.2e-12   46.7   0.0   4.3   4   0   0   4   4   3   2 PREDICTED: uncharacterized protein LOC100121779 isoform X1 [Nasonia vitripennis]
+XP_016837158.1       -          oskar_filtered.aligned.LOTUS_domain -            7.2e-17   62.0  11.4   3.5e-12   46.9   0.0   4.2   4   0   0   4   4   3   2 PREDICTED: uncharacterized protein LOC100121779 isoform X3 [Nasonia vitripennis]
+XP_016845662.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-09   38.0   0.7     0.032   15.0   0.0   6.1   4   1   3   7   7   6   1 PREDICTED: meiosis arrest female protein 1 homolog [Nasonia vitripennis]
+XP_003428145.1       -          oskar_filtered.aligned.LOTUS_domain -              1e-07   32.6   0.0   2.8e-07   31.2   0.0   1.6   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC100678748 isoform X2 [Nasonia vitripennis]
+XP_008214714.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-07   32.5   0.0   2.9e-07   31.2   0.0   1.6   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC100678748 isoform X1 [Nasonia vitripennis]
+XP_016845420.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-07   32.5   0.0   2.9e-07   31.2   0.0   1.6   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC100678748 isoform X1 [Nasonia vitripennis]
+XP_008212486.1       -          oskar_filtered.aligned.LOTUS_domain -            4.5e-05   24.1   0.7   0.00059   20.5   0.1   3.2   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC100121779 isoform X2 [Nasonia vitripennis]
+XP_016843481.1       -          oskar_filtered.aligned.LOTUS_domain -              0.038   14.7   1.7        15    6.4   0.0   3.8   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X2 [Nasonia vitripennis]
+XP_008208387.1       -          oskar_filtered.aligned.LOTUS_domain -              0.039   14.7   1.8        15    6.4   0.0   3.8   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X4 [Nasonia vitripennis]
+XP_016843480.1       -          oskar_filtered.aligned.LOTUS_domain -              0.039   14.7   1.8        15    6.4   0.0   3.8   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Nasonia vitripennis]
+XP_016843482.1       -          oskar_filtered.aligned.LOTUS_domain -              0.046   14.5   1.9        15    6.4   0.0   3.8   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X3 [Nasonia vitripennis]
+XP_016843483.1       -          oskar_filtered.aligned.LOTUS_domain -              0.046   14.4   1.9        15    6.4   0.0   3.8   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X5 [Nasonia vitripennis]
+NP_001153461.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   14.4   0.5       7.3    7.4   0.0   3.5   4   0   0   4   4   4   0 annexin B11 isoform A [Nasonia vitripennis]
+NP_001153463.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   14.4   0.5       7.3    7.4   0.0   3.5   4   0   0   4   4   4   0 annexin B11 isoform A [Nasonia vitripennis]
+NP_001153464.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   14.4   0.5       7.3    7.4   0.0   3.5   4   0   0   4   4   4   0 annexin B11 isoform A [Nasonia vitripennis]
+NP_001153465.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   14.4   0.5       7.3    7.4   0.0   3.5   4   0   0   4   4   4   0 annexin B11 isoform A [Nasonia vitripennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000002325.3_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000002325.3_Nvit_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:30 2019
+# [ok]

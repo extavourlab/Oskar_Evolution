@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYE02020576.1_5     -          LOTUS_CONSENSUS      -            1.6e-19   73.0   0.7   2.1e-10   43.8   0.0   4.3   5   0   0   5   5   5   3 TSA: Frankliniella cephalica C90003_a_24_0_l_4135 transcribed RNA sequence
+GAYE02020013.1_3     -          LOTUS_CONSENSUS      -            2.1e-11   47.0   0.0   5.1e-11   45.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Frankliniella cephalica C88511_a_55_0_l_2848 transcribed RNA sequence
+GAYE02025543.1_4     -          LOTUS_CONSENSUS      -            6.6e-11   45.4   0.3     1e-08   38.4   0.0   3.0   3   0   0   3   3   3   1 TSA: Frankliniella cephalica s5641_L_26989_0_a_46_0_l_4206 transcribed RNA sequence
+GAYE02010626.1_1     -          LOTUS_CONSENSUS      -               0.35   14.2   0.0      0.62   13.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Frankliniella cephalica C60457_a_19_0_l_534 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYE02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYE02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYE02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:48:32 2019
+# [ok]

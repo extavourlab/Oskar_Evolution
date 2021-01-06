@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDKQ01002261.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-19   70.9   0.4   1.8e-13   53.0   0.0   2.6   2   0   0   2   2   2   2 TSA: Nicrophorus vespilloides scaffold3767 transcribed RNA sequence
+GDKQ01002262.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-19   70.7   0.4     2e-13   52.9   0.0   2.6   2   0   0   2   2   2   2 TSA: Nicrophorus vespilloides scaffold3768 transcribed RNA sequence
+GDKQ01009481.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-14   55.7   0.0   1.5e-13   53.3   0.0   2.3   3   0   0   3   3   3   1 TSA: Nicrophorus vespilloides scaffold18290 transcribed RNA sequence
+GDKQ01009480.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-14   55.1   0.0   1.5e-13   53.3   0.0   2.0   2   0   0   2   2   2   1 TSA: Nicrophorus vespilloides scaffold18289 transcribed RNA sequence
+GDKQ01003304.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.012   18.3   2.6       7.1    9.4   0.0   4.9   3   1   2   5   5   5   0 TSA: Nicrophorus vespilloides scaffold5551 transcribed RNA sequence
+GDKQ01003305.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.016   17.9   2.5       7.2    9.4   0.0   4.6   3   1   2   5   5   5   0 TSA: Nicrophorus vespilloides scaffold5552 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDKQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDKQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:40 2019
+# [ok]

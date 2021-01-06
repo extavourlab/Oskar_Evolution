@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026806061.1       -          OSK_CONSENSUS        -              0.011   15.5   0.3     0.015   15.0   0.3   1.3   1   0   0   1   1   1   0 synaptic vesicle membrane protein VAT-1 homolog isoform X1 [Rhopalosiphum maidis]
+XP_026816168.1       -          OSK_CONSENSUS        -              0.078   12.7   0.1      0.18   11.5   0.1   1.7   1   0   0   1   1   1   0 leucine-rich repeat and calponin homology domain-containing protein 2 [Rhopalosiphum maidis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003676215.2_ASM367621v3_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003676215.2_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003676215.2_ASM367621v3_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:41 2019
+# [ok]

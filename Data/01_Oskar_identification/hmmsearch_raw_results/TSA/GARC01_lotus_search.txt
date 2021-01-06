@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GARC01030435.1_3     -          LOTUS_CONSENSUS      -            9.7e-13   51.8   0.0   1.8e-12   51.0   0.0   1.4   1   0   0   1   1   1   1 TSA: Athetis lepigone T2_31665 transcribed RNA sequence
+GARC01021534.1_1     -          LOTUS_CONSENSUS      -            0.00077   23.3   0.2    0.0027   21.5   0.0   1.9   2   0   0   2   2   2   1 TSA: Athetis lepigone T2_22731 transcribed RNA sequence
+GARC01021228.1_4     -          LOTUS_CONSENSUS      -               0.76   13.7   0.2       1.7   12.6   0.1   1.7   1   1   0   1   1   1   0 TSA: Athetis lepigone T2_22425 transcribed RNA sequence
+GARC01004920.1_4     -          LOTUS_CONSENSUS      -                1.2   13.0   0.2         2   12.3   0.2   1.4   1   1   0   1   1   1   0 TSA: Athetis lepigone T2_5447 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GARC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GARC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:07:59 2019
+# [ok]

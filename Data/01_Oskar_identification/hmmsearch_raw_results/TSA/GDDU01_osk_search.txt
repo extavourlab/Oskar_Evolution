@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDDU01021043.1_1     -          OSK_CONSENSUS        -            9.5e-29  103.0   0.1   1.5e-28  102.4   0.1   1.3   1   0   0   1   1   1   1 TSA: Peripsocus phaeopterus breed wildtype s654_L_693_0_a_50_4_l_1348, transcribed RNA sequence
+GDDU01022056.1_1     -          OSK_CONSENSUS        -               0.28   13.7   0.1      0.52   12.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Peripsocus phaeopterus breed wildtype s7473_L_17068_0_a_37_1_l_1031, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDDU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDDU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:45:39 2019
+# [ok]

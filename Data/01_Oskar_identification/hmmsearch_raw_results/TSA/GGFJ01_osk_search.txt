@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGFJ01012010.1_2     -          OSK_CONSENSUS        -               0.91   11.4   0.0       1.1   11.2   0.0   1.1   1   0   0   1   1   1   0 TSA: putative secreted protein precursor, complete cds, transcribed RNA sequence
+GGFJ01001542.1_1     -          OSK_CONSENSUS        -                1.1   11.2   1.5        30    6.5   0.1   2.9   3   0   0   3   3   3   0 TSA: hypothetical protein, partial cds, transcribed RNA sequence
+GGFJ01000979.1_1     -          OSK_CONSENSUS        -                1.2   11.0   1.1        36    6.2   0.0   2.9   3   0   0   3   3   3   0 TSA: hypothetical protein, complete cds, transcribed RNA sequence
+GGFJ01001305.1_1     -          OSK_CONSENSUS        -                1.6   10.7   1.8        34    6.3   0.1   2.9   3   0   0   3   3   3   0 TSA: hypothetical protein, partial cds, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGFJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGFJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:13 2019
+# [ok]

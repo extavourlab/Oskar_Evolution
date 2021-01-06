@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_013106491.1       -          LOTUS_CONSENSUS      -            2.8e-26   92.0   0.4   2.5e-25   89.0   0.0   2.9   3   0   0   3   3   3   1 PREDICTED: maternal effect protein oskar [Stomoxys calcitrans]
+XP_013107302.1       -          LOTUS_CONSENSUS      -            2.6e-18   66.5   0.1   1.7e-17   63.8   0.0   2.3   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 5 [Stomoxys calcitrans]
+XP_013119432.1       -          LOTUS_CONSENSUS      -            1.7e-10   41.4   0.2     1e-09   38.9   0.0   2.4   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 [Stomoxys calcitrans]
+XP_013119433.1       -          LOTUS_CONSENSUS      -            1.7e-10   41.4   0.2     1e-09   38.9   0.0   2.4   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 [Stomoxys calcitrans]
+XP_013119435.1       -          LOTUS_CONSENSUS      -            1.7e-10   41.4   0.2     1e-09   38.9   0.0   2.4   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7 [Stomoxys calcitrans]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001015335.1_Stomoxys_calcitrans-1.0.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001015335.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001015335.1_Stomoxys_calcitrans-1.0.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:48 2019
+# [ok]

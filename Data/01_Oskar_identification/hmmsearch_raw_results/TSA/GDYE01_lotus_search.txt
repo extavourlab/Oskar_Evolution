@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDYE01076282.1_2     -          LOTUS_CONSENSUS      -            5.3e-22   82.7   0.0   1.5e-21   81.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Ellipsidion sp. AD-2015 breed wildtype s20706_L_86058_0_a_23_8_l_1931, transcribed RNA sequence
+GDYE01016710.1_2     -          LOTUS_CONSENSUS      -            1.5e-05   29.9   0.0   1.8e-05   29.7   0.0   1.1   1   0   0   1   1   1   1 TSA: Ellipsidion sp. AD-2015 breed wildtype C249198_a_3_0_l_249, transcribed RNA sequence
+GDYE01061570.1_5     -          LOTUS_CONSENSUS      -               0.64   15.1   0.0       1.4   13.9   0.0   1.6   1   0   0   1   1   1   0 TSA: Ellipsidion sp. AD-2015 breed wildtype C390303_a_72_0_l_1299, transcribed RNA sequence
+GDYE01077201.1_3     -          LOTUS_CONSENSUS      -               0.92   14.6   0.0   2.3e+02    6.9   0.0   3.9   2   1   2   4   4   4   0 TSA: Ellipsidion sp. AD-2015 breed wildtype s21548_L_96237_0_a_34_0_l_3032, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDYE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDYE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:05 2019
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWK01018060.1_5     -          LOTUS_CONSENSUS      -            8.2e-15   58.3   0.6   9.6e-15   58.1   0.6   1.0   1   0   0   1   1   1   1 TSA: Leucospis dorsigera C79874_a_3_0_l_328 transcribed RNA sequence
+GBWK01033078.1_6     -          LOTUS_CONSENSUS      -            5.8e-11   46.0   0.0   5.8e-10   42.7   0.0   2.5   2   0   0   2   2   2   1 TSA: Leucospis dorsigera s8837_L_28710_0_a_52_8_l_3666_a transcribed RNA sequence
+GBWK01010063.1_2     -          LOTUS_CONSENSUS      -            7.3e-07   32.8   0.0      0.46   14.2   0.0   5.5   3   1   3   6   6   6   1 TSA: Leucospis dorsigera C133821_a_37_0_l_4452 transcribed RNA sequence
+GBWK01009470.1_6     -          LOTUS_CONSENSUS      -                0.7   13.6   0.1         2   12.2   0.1   1.7   1   0   0   1   1   1   0 TSA: Leucospis dorsigera C131695_a_64_0_l_2720 transcribed RNA sequence
+GBWK01009175.1_3     -          LOTUS_CONSENSUS      -                1.9   12.3   0.4        33    8.3   0.2   2.4   2   0   0   2   2   2   0 TSA: Leucospis dorsigera C130651_a_23_0_l_2415 transcribed RNA sequence
+GBWK01005820.1_3     -          LOTUS_CONSENSUS      -                9.6   10.0   9.1        94    6.8   0.4   4.1   2   2   0   2   2   2   0 TSA: Leucospis dorsigera C119289_a_17_0_l_1170 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:04 2019
+# [ok]

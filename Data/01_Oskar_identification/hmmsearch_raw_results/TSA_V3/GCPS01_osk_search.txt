@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPS01037888.1_1     -          oskar_filtered.aligned.OSK_domain -              4e-50  174.4   0.0     5e-50  174.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Lamproblatta albipalpus breed breeding C214657_a_9_0_l_756, transcribed RNA sequence
+GCPS01029493.1_6     -          oskar_filtered.aligned.OSK_domain -            2.2e-28  103.5   0.1   2.4e-28  103.3   0.1   1.0   1   0   0   1   1   1   1 TSA: Lamproblatta albipalpus breed breeding C190245_a_4_0_l_478, transcribed RNA sequence
+GCPS01032458.1_1     -          oskar_filtered.aligned.OSK_domain -                2.5   12.0   0.6       4.3   11.2   0.6   1.6   1   1   0   1   1   1   0 TSA: Lamproblatta albipalpus breed breeding C198707_a_6_0_l_549, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPS01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPS01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPS01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:31 2019
+# [ok]

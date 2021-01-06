@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEOJ01077755.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-15   64.8   0.1   7.2e-15   62.3   0.1   1.9   1   1   0   1   1   1   1 TSA: Lophocorona astiptica TR44528-c0_g1_i1 transcribed RNA sequence
+GEOJ01210279.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0017   25.9   0.0    0.0018   25.8   0.0   1.1   1   0   0   1   1   1   1 TSA: Lophocorona astiptica TR157290-c0_g1_i1 transcribed RNA sequence
+GEOJ01273334.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.53   17.8   0.0       1.3   16.5   0.0   1.7   2   0   0   2   2   2   0 TSA: Lophocorona astiptica TR207234-c0_g1_i1 transcribed RNA sequence
+GEOJ01002657.1_3     -          oskar_filtered.aligned.LOTUS_domain -                  1   16.9   0.1       1.2   16.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR747-c1_g1_i2 transcribed RNA sequence
+GEOJ01010207.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.5   16.3   0.3       2.8   15.5   0.3   1.5   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR5791-c0_g1_i1 transcribed RNA sequence
+GEOJ01482344.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.6   15.6   0.3       2.9   15.5   0.3   1.1   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR433620-c0_g1_i1 transcribed RNA sequence
+GEOJ01221190.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.4   15.2   0.0       5.4   14.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR169571-c0_g1_i1 transcribed RNA sequence
+GEOJ01081554.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.2   14.9   0.0       6.5   14.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR47289-c1_g2_i1 transcribed RNA sequence
+GEOJ01374014.1_3     -          oskar_filtered.aligned.LOTUS_domain -                4.9   14.7   2.6   2.4e+02    9.3   0.0   2.5   2   1   1   3   3   3   0 TSA: Lophocorona astiptica TR306873-c0_g1_i1 transcribed RNA sequence
+GEOJ01387796.1_5     -          oskar_filtered.aligned.LOTUS_domain -                7.4   14.1   0.2        10   13.7   0.2   1.2   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR323739-c0_g1_i1 transcribed RNA sequence
+GEOJ01200378.1_1     -          oskar_filtered.aligned.LOTUS_domain -                8.7   13.9   0.3        12   13.5   0.3   1.2   1   0   0   1   1   1   0 TSA: Lophocorona astiptica TR144826-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEOJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEOJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:14 2019
+# [ok]

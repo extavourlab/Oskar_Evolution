@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCFF01018410.1_6     -          oskar_filtered.aligned.OSK_domain -            5.1e-70  238.1   0.6   5.1e-70  238.1   0.6   3.3   3   0   0   3   3   3   2 TSA: Calliphora vomitoria breed wildtype s1259_L_1218_0_a_18_7_l_2405, transcribed RNA sequence
+GCFF01016230.1_4     -          oskar_filtered.aligned.OSK_domain -               0.29   13.9   0.2      0.34   13.6   0.2   1.2   1   0   0   1   1   1   0 TSA: Calliphora vomitoria breed wildtype C92975_a_21_0_l_443, transcribed RNA sequence
+GCFF01015177.1_3     -          oskar_filtered.aligned.OSK_domain -                0.3   13.8   2.8      0.33   13.7   2.8   1.2   1   0   0   1   1   1   0 TSA: Calliphora vomitoria breed wildtype C89178_a_4_0_l_394, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCFF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:01 2019
+# [ok]

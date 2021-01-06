@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPJ01015163.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-13   55.2   0.0   2.5e-13   54.2   0.0   1.5   1   0   0   1   1   1   1 TSA: Xya variegata breed wildtype C140254_a_4_0_l_421, transcribed RNA sequence
+GCPJ01033552.1_6     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-09   40.3   0.0       1.2   13.6   0.0   5.2   1   1   3   4   4   4   4 TSA: Xya variegata breed wildtype C190752_a_5_0_l_1639, transcribed RNA sequence
+GCPJ01022480.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.19   16.1   0.0      0.31   15.4   0.0   1.4   1   0   0   1   1   1   0 TSA: Xya variegata breed wildtype C160294_a_5_0_l_598, transcribed RNA sequence
+GCPJ01021760.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.46   14.9   0.7        14   10.1   0.1   2.2   2   0   0   2   2   2   0 TSA: Xya variegata breed wildtype C158278_a_3_0_l_574, transcribed RNA sequence
+GCPJ01031495.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.53   14.7   0.1       1.6   13.2   0.1   1.8   1   0   0   1   1   1   0 TSA: Xya variegata breed wildtype C185398_a_7_0_l_1241, transcribed RNA sequence
+GCPJ01031063.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.74   14.2   0.8       1.9   12.9   0.8   1.7   1   0   0   1   1   1   0 TSA: Xya variegata breed wildtype C184218_a_20_0_l_1184, transcribed RNA sequence
+GCPJ01020103.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.99   13.8   0.4       4.2   11.8   0.1   2.0   2   0   0   2   2   2   0 TSA: Xya variegata breed wildtype C153680_a_3_0_l_525, transcribed RNA sequence
+GCPJ01034267.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.6   12.4   0.1       5.4   11.4   0.1   1.5   1   0   0   1   1   1   0 TSA: Xya variegata breed wildtype C192544_a_32_0_l_1864, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:37 2019
+# [ok]

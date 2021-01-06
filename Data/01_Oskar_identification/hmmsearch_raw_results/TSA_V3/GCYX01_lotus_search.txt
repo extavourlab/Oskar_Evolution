@@ -1,0 +1,23 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYX01039704.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-13   53.0   0.0     1e-12   52.3   0.0   1.3   1   0   0   1   1   1   1 TSA: Trioza urticae breed wildtype s1818_L_1969_2_20_7_COMPLEX, transcribed RNA sequence
+GCYX01039682.1_2     -          oskar_filtered.aligned.LOTUS_domain -            7.8e-13   52.7   0.0   1.4e-12   51.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Trioza urticae breed wildtype s1816_L_1969_0_21_5_COMPLEX, transcribed RNA sequence
+GCYX01032043.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-07   33.9   0.0      0.43   15.0   0.0   4.6   3   1   1   4   4   4   2 TSA: Trioza urticae breed wildtype s11284_L_17720_0_39_6_FORK, transcribed RNA sequence
+GCYX01033250.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.07   17.5   3.7        45    8.5   0.2   3.3   1   1   1   3   3   3   0 TSA: Trioza urticae breed wildtype s12372_L_20336_0_3_7_LINEAR, transcribed RNA sequence
+GCYX01020719.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.45   15.0   0.2      0.58   14.6   0.2   1.3   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype C627983_2_0, transcribed RNA sequence
+GCYX01037409.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.65   14.4   0.6       2.2   12.7   0.6   1.9   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype s16120_L_30510_2_37_9_COMPLEX, transcribed RNA sequence
+GCYX01035145.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.75   14.2   0.7       2.7   12.5   0.7   1.9   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype s14079_L_24756_0_65_2_BUBBLE, transcribed RNA sequence
+GCYX01035147.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.79   14.2   0.7       2.8   12.4   0.7   1.9   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype s14080_L_24756_1_65_1_BUBBLE, transcribed RNA sequence
+GCYX01037937.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.0   3.9        60    8.1   0.5   2.3   1   1   1   2   2   2   0 TSA: Trioza urticae breed wildtype s16597_L_32060_1_17_9_BUBBLE, transcribed RNA sequence
+GCYX01033903.1_2     -          oskar_filtered.aligned.LOTUS_domain -                3.2   12.2   0.0       4.6   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Trioza urticae breed wildtype s12961_L_21772_0_3_6_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:32 2019
+# [ok]

@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDRN01101772.1_4     -          OSK_CONSENSUS        -              1e-05   30.9   0.1   3.7e-05   29.0   0.1   2.0   1   0   0   1   1   1   1 TSA: Scylla olivacea Ref_Crab_Transcript_101973_2479 transcribed RNA sequence
+GDRN01077352.1_4     -          OSK_CONSENSUS        -              0.001   24.4   5.0    0.0042   22.4   0.1   2.4   1   1   1   2   2   2   1 TSA: Scylla olivacea Ref_Crab_Transcript_77528_1396 transcribed RNA sequence
+GDRN01080890.1_4     -          OSK_CONSENSUS        -             0.0038   22.5   1.2    0.0062   21.8   0.0   1.9   2   0   0   2   2   2   1 TSA: Scylla olivacea Ref_Crab_Transcript_81067_1668 transcribed RNA sequence
+GDRN01107068.1_1     -          OSK_CONSENSUS        -             0.0047   22.2   0.0      0.01   21.1   0.0   1.5   1   0   0   1   1   1   1 TSA: Scylla olivacea Ref_Crab_Transcript_107271_1795 transcribed RNA sequence
+GDRN01098558.1_4     -          OSK_CONSENSUS        -              0.014   20.6   1.4     0.021   20.1   0.1   2.0   2   0   0   2   2   2   0 TSA: Scylla olivacea Ref_Crab_Transcript_98750_3825 transcribed RNA sequence
+GDRN01014017.1_5     -          OSK_CONSENSUS        -               0.39   16.0   0.8       0.6   15.4   0.8   1.2   1   0   0   1   1   1   0 TSA: Scylla olivacea Ref_Crab_Transcript_14072_543 transcribed RNA sequence
+GDRN01131105.1_4     -          OSK_CONSENSUS        -               0.55   15.5   1.1      0.72   15.1   1.1   1.1   1   0   0   1   1   1   0 TSA: Scylla olivacea Ref_Crab_Transcript_131529_488 transcribed RNA sequence
+GDRN01085122.1_2     -          OSK_CONSENSUS        -               0.67   15.2   0.3        56    8.9   0.1   2.6   2   0   0   2   2   2   0 TSA: Scylla olivacea Ref_Crab_Transcript_85306_2900 transcribed RNA sequence
+GDRN01071475.1_1     -          OSK_CONSENSUS        -               0.84   14.9   1.1       1.3   14.2   0.1   1.8   2   0   0   2   2   2   0 TSA: Scylla olivacea Ref_Crab_Transcript_71640_2176 transcribed RNA sequence
+GDRN01071474.1_1     -          OSK_CONSENSUS        -               0.85   14.9   1.0       1.3   14.2   0.1   1.7   2   0   0   2   2   2   0 TSA: Scylla olivacea Ref_Crab_Transcript_71639_2220 transcribed RNA sequence
+GDRN01111447.1_1     -          OSK_CONSENSUS        -               0.88   14.8   0.3       2.2   13.5   0.3   1.6   1   0   0   1   1   1   0 TSA: Scylla olivacea Ref_Crab_Transcript_111653_3126 transcribed RNA sequence
+GDRN01116522.1_3     -          OSK_CONSENSUS        -                2.3   13.5   2.2   3.2e+02    6.5   0.1   2.4   2   0   0   2   2   2   0 TSA: Scylla olivacea Ref_Crab_Transcript_116793_804 transcribed RNA sequence
+GDRN01033159.1_2     -          OSK_CONSENSUS        -                4.9   12.4   0.2       8.8   11.6   0.2   1.3   1   0   0   1   1   1   0 TSA: Scylla olivacea Ref_Crab_Transcript_33280_959 transcribed RNA sequence
+GDRN01111585.1_2     -          OSK_CONSENSUS        -                5.9   12.1   0.1        10   11.4   0.1   1.3   1   0   0   1   1   1   0 TSA: Scylla olivacea Ref_Crab_Transcript_111791_6374 transcribed RNA sequence
+GDRN01005438.1_1     -          OSK_CONSENSUS        -                6.6   12.0   0.1       7.7   11.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Scylla olivacea Ref_Crab_Transcript_5460_389 transcribed RNA sequence
+GDRN01011426.1_6     -          OSK_CONSENSUS        -                9.8   11.4   0.0        17   10.7   0.0   1.4   1   1   0   1   1   1   0 TSA: Scylla olivacea Ref_Crab_Transcript_11467_768 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDRN.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GDRN.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GDRN.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:55:56 2019
+# [ok]

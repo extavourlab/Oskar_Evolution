@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPS01058629.1_4     -          OSK_CONSENSUS        -               0.19   16.0   0.0      0.28   15.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c66928_g4_i1 transcribed RNA sequence
+GEPS01058633.1_4     -          OSK_CONSENSUS        -               0.54   14.5   0.1         1   13.7   0.1   1.4   1   0   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c66928_g4_i2 transcribed RNA sequence
+GEPS01004435.1_6     -          OSK_CONSENSUS        -               0.83   14.0   0.1      0.93   13.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Eulimnogammarus cyaneus c11687_g2_i1 transcribed RNA sequence
+GEPS01017252.1_3     -          OSK_CONSENSUS        -                2.5   12.4   0.1   2.3e+02    6.0   0.0   2.3   2   0   0   2   2   2   0 TSA: Eulimnogammarus cyaneus c39828_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPS.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPS.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPS.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:45 2019
+# [ok]

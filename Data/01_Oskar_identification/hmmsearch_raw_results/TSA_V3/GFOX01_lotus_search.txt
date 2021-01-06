@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFOX01063207.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.9e-20   76.9   5.0   1.5e-19   75.6   0.7   2.5   3   0   0   3   3   3   1 TSA: Pyrrhocoris apterus TRINITY_DN36023_c0_g1_i1 transcribed RNA sequence
+GFOX01054735.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-18   72.7   9.5   2.3e-18   71.8   0.5   4.5   5   0   0   5   5   5   1 TSA: Pyrrhocoris apterus TRINITY_DN26167_c0_g1_i1 transcribed RNA sequence
+GFOX01020575.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-14   60.0   0.0     0.062   19.1   0.0   5.0   3   2   2   5   5   5   3 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i2 transcribed RNA sequence
+GFOX01020577.1_3     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-14   59.8   0.0     0.064   19.0   0.0   5.0   3   2   2   5   5   5   3 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i4 transcribed RNA sequence
+GFOX01100473.1_3     -          oskar_filtered.aligned.LOTUS_domain -              6e-13   54.5   0.0   7.5e-13   54.1   0.0   1.1   1   0   0   1   1   1   1 TSA: Pyrrhocoris apterus TRINITY_DN34637_c0_g1_i1 transcribed RNA sequence
+GFOX01020576.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.1e-13   54.2   0.0     0.057   19.2   0.0   4.0   3   1   1   4   4   4   3 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i3 transcribed RNA sequence
+GFOX01020574.1_3     -          oskar_filtered.aligned.LOTUS_domain -              8e-13   54.0   0.0     0.059   19.1   0.0   4.0   3   1   1   4   4   4   3 TSA: Pyrrhocoris apterus TRINITY_DN16185_c0_g1_i1 transcribed RNA sequence
+GFOX01122351.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0021   23.8   0.0    0.0021   23.8   0.0   1.0   1   0   0   1   1   1   1 TSA: Pyrrhocoris apterus TRINITY_DN52628_c0_g1_i1 transcribed RNA sequence
+GFOX01125733.1_6     -          oskar_filtered.aligned.LOTUS_domain -             0.0035   23.1   0.0      0.01   21.6   0.0   1.6   1   1   1   2   2   2   1 TSA: Pyrrhocoris apterus TRINITY_DN50944_c0_g1_i1 transcribed RNA sequence
+GFOX01061446.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.19   17.5   0.0      0.56   16.0   0.0   1.8   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN27336_c5_g2_i1 transcribed RNA sequence
+GFOX01152095.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.48   16.2   0.8       1.4   14.7   0.8   1.8   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN23031_c0_g1_i1 transcribed RNA sequence
+GFOX01152096.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.48   16.2   0.8       1.5   14.7   0.8   1.8   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN23031_c0_g1_i2 transcribed RNA sequence
+GFOX01047086.1_6     -          oskar_filtered.aligned.LOTUS_domain -                  1   15.2   0.2   1.6e+03    4.9   0.0   3.3   3   0   0   3   3   3   0 TSA: Pyrrhocoris apterus TRINITY_DN22833_c0_g2_i2 transcribed RNA sequence
+GFOX01103738.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.6   14.6   1.5       1.9   14.3   1.5   1.1   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN26822_c4_g29_i1 transcribed RNA sequence
+GFOX01081619.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.1   14.1   0.0       2.6   13.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Pyrrhocoris apterus TRINITY_DN44366_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFOX01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFOX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:23 2019
+# [ok]

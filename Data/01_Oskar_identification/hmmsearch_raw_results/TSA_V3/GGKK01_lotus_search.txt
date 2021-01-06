@@ -1,0 +1,30 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGKK01027102.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.1e-22   81.6   0.1   2.6e-15   60.7   0.0   2.7   2   1   0   2   2   2   2 TSA: Sitophilus oryzae comp8874_c0_seq2 transcribed RNA sequence
+GGKK01027104.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-21   80.4   0.1   1.8e-15   61.2   0.0   2.7   2   1   0   2   2   2   2 TSA: Sitophilus oryzae comp8874_c0_seq4 transcribed RNA sequence
+GGKK01036129.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-19   71.9   0.1   1.8e-18   70.8   0.1   1.6   1   0   0   1   1   1   1 TSA: Sitophilus oryzae comp16994_c0_seq4 transcribed RNA sequence
+GGKK01036128.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.4e-19   71.9   0.1   1.9e-18   70.8   0.1   1.6   1   0   0   1   1   1   1 TSA: Sitophilus oryzae comp16994_c0_seq3 transcribed RNA sequence
+GGKK01036127.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.7e-19   71.7   0.1   2.3e-18   70.5   0.1   1.6   1   0   0   1   1   1   1 TSA: Sitophilus oryzae comp16994_c0_seq2 transcribed RNA sequence
+GGKK01036126.1_4     -          oskar_filtered.aligned.LOTUS_domain -            9.7e-19   71.7   0.1   2.4e-18   70.5   0.1   1.6   1   0   0   1   1   1   1 TSA: Sitophilus oryzae comp16994_c0_seq1 transcribed RNA sequence
+GGKK01019994.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-15   60.7   0.3   6.8e-15   59.4   0.0   1.8   2   0   0   2   2   2   1 TSA: Sitophilus oryzae comp5904_c0_seq1 transcribed RNA sequence
+GGKK01026602.1_6     -          oskar_filtered.aligned.LOTUS_domain -                0.1   17.1   0.0        81    7.8   0.0   3.2   2   1   1   3   3   3   0 TSA: Sitophilus oryzae comp9229_c0_seq7 transcribed RNA sequence
+GGKK01043582.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.12   16.8   0.9       1.7   13.2   0.8   2.3   1   1   0   1   1   1   0 TSA: Sitophilus oryzae comp23991_c0_seq1 transcribed RNA sequence
+GGKK01005917.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.44   15.0   0.1      0.67   14.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Sitophilus oryzae comp31_c1_seq64 transcribed RNA sequence
+GGKK01005900.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.65   14.5   0.0       1.3   13.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Sitophilus oryzae comp31_c1_seq47 transcribed RNA sequence
+GGKK01005891.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.94   14.0   0.0       2.2   12.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Sitophilus oryzae comp31_c1_seq38 transcribed RNA sequence
+GGKK01050083.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.99   13.9   0.7       1.5   13.4   0.7   1.2   1   0   0   1   1   1   0 TSA: Sitophilus oryzae comp30605_c0_seq1 transcribed RNA sequence
+GGKK01053522.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.0   0.0       2.6   12.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Sitophilus oryzae comp34578_c0_seq1 transcribed RNA sequence
+GGKK01034990.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.9   0.4   2.6e+02    6.2   0.4   2.1   1   1   1   2   2   2   0 TSA: Sitophilus oryzae comp14836_c0_seq1 transcribed RNA sequence
+GGKK01020867.1_5     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.8   1.1       3.6   12.1   0.9   1.5   1   1   1   2   2   2   0 TSA: Sitophilus oryzae comp7753_c0_seq4 transcribed RNA sequence
+GGKK01029172.1_6     -          oskar_filtered.aligned.LOTUS_domain -                4.8   11.7   0.2       4.8   11.7   0.2   2.5   3   0   0   3   3   3   0 TSA: Sitophilus oryzae comp11338_c0_seq2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGKK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:29 2019
+# [ok]

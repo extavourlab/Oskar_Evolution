@@ -1,0 +1,27 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECN01052649.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-19   75.1   0.0   4.6e-19   73.8   0.0   1.7   1   0   0   1   1   1   1 TSA: Diachasma alloeum Dall_Trinity_82398_c0_g1_i1 transcribed RNA sequence
+GECN01048600.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-18   70.5   0.0     2e-17   68.6   0.0   2.1   2   0   0   2   2   1   1 TSA: Diachasma alloeum Dall_Trinity_75289_c2_g2_i2 transcribed RNA sequence
+GECN01048601.1_3     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-18   70.4   0.0   2.1e-17   68.6   0.0   2.0   2   0   0   2   2   1   1 TSA: Diachasma alloeum Dall_Trinity_75289_c2_g2_i3 transcribed RNA sequence
+GECN01086565.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-14   59.3   0.0   7.8e-09   41.0   0.0   2.7   2   0   0   2   2   2   2 TSA: Diachasma alloeum Dall_Trinity_109019_c1_g1_i2 transcribed RNA sequence
+GECN01106435.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-14   58.1   0.0   3.1e-13   55.2   0.0   2.2   2   0   0   2   2   2   1 TSA: Diachasma alloeum Dall_Trinity_119944_c0_g1_i1 transcribed RNA sequence
+GECN01091987.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-14   57.5   0.0   1.5e-08   40.1   0.0   2.7   2   0   0   2   2   2   2 TSA: Diachasma alloeum Dall_Trinity_109019_c1_g1_i1 transcribed RNA sequence
+GECN01048602.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-13   56.2   0.0   2.1e-13   55.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Diachasma alloeum Dall_Trinity_75289_c2_g2_i4 transcribed RNA sequence
+GECN01048603.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-12   53.4   0.0   4.3e-12   51.5   0.0   2.0   2   0   0   2   2   1   1 TSA: Diachasma alloeum Dall_Trinity_75289_c2_g2_i6 transcribed RNA sequence
+GECN01035759.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.4e-05   29.3   0.0   1.2e+02    8.3   0.0   6.0   2   1   4   6   6   6   1 TSA: Diachasma alloeum Dall_Trinity_73031_c5_g1_i1 transcribed RNA sequence
+GECN01035760.1_2     -          oskar_filtered.aligned.LOTUS_domain -            9.5e-05   27.9   0.0   1.5e+02    8.0   0.0   5.8   2   1   4   6   6   6   1 TSA: Diachasma alloeum Dall_Trinity_73031_c5_g1_i2 transcribed RNA sequence
+GECN01085754.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.46   16.1   0.1       8.4   12.0   0.0   2.3   2   0   0   2   2   2   0 TSA: Diachasma alloeum Dall_Trinity_107607_c0_g1_i1 transcribed RNA sequence
+GECN01003351.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.6   8.4        15   11.2   4.0   2.5   1   1   1   2   2   2   0 TSA: Diachasma alloeum Dall_Trinity_42206_c0_g1_i1 transcribed RNA sequence
+GECN01033277.1_3     -          oskar_filtered.aligned.LOTUS_domain -                3.7   13.2   0.3       7.8   12.1   0.3   1.5   1   0   0   1   1   1   0 TSA: Diachasma alloeum Dall_Trinity_67666_c0_g1_i1 transcribed RNA sequence
+GECN01107561.1_3     -          oskar_filtered.aligned.LOTUS_domain -                9.2   11.9   5.5       1.5   14.4   1.8   1.5   2   0   0   2   2   2   0 TSA: Diachasma alloeum Dall_Trinity_121848_c0_g1_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:02 2019
+# [ok]

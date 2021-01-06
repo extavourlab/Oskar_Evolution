@@ -1,0 +1,43 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFG01070794.1_2     -          OSK_CONSENSUS        -            0.00054   25.7   0.2    0.0011   24.6   0.0   1.5   2   0   0   2   2   1   1 TSA: Proasellus parvulus, contig comp85412_c0_seq1, transcribed RNA sequence
+HAFG01070795.1_2     -          OSK_CONSENSUS        -             0.0016   24.2   3.9    0.0021   23.8   0.1   2.5   2   1   1   3   3   3   1 TSA: Proasellus parvulus, contig comp85412_c0_seq2, transcribed RNA sequence
+HAFG01119032.1_5     -          OSK_CONSENSUS        -             0.0067   22.1   0.1    0.0081   21.8   0.1   1.1   1   0   0   1   1   1   1 TSA: Proasellus parvulus, contig comp90731_c2_seq15, transcribed RNA sequence
+HAFG01119036.1_4     -          OSK_CONSENSUS        -              0.016   20.9   0.1     0.036   19.7   0.1   1.6   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp90731_c2_seq19, transcribed RNA sequence
+HAFG01119018.1_6     -          OSK_CONSENSUS        -              0.018   20.7   0.1     0.041   19.6   0.1   1.6   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp90731_c2_seq1, transcribed RNA sequence
+HAFG01097127.1_2     -          OSK_CONSENSUS        -              0.046   19.4   0.8     0.073   18.8   0.8   1.4   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp89585_c9_seq1, transcribed RNA sequence
+HAFG01078112.1_6     -          OSK_CONSENSUS        -               0.17   17.6   0.2      0.23   17.1   0.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp87254_c0_seq7, transcribed RNA sequence
+HAFG01106461.1_4     -          OSK_CONSENSUS        -               0.19   17.4   1.2       1.8   14.2   1.2   2.0   1   1   0   1   1   1   0 TSA: Proasellus parvulus, contig comp90123_c2_seq1, transcribed RNA sequence
+HAFG01084421.1_3     -          OSK_CONSENSUS        -               0.23   17.1   1.2      0.45   16.2   1.2   1.6   1   1   0   1   1   1   0 TSA: Proasellus parvulus, contig comp88367_c0_seq3, transcribed RNA sequence
+HAFG01047259.1_2     -          OSK_CONSENSUS        -               0.23   17.1   0.1      0.23   17.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp73699_c0_seq1, transcribed RNA sequence
+HAFG01047260.1_1     -          OSK_CONSENSUS        -               0.35   16.5   0.5      0.44   16.2   0.5   1.3   1   1   0   1   1   1   0 TSA: Proasellus parvulus, contig comp73699_c0_seq2, transcribed RNA sequence
+HAFG01001386.1_2     -          OSK_CONSENSUS        -               0.42   16.3   0.0      0.42   16.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp1923_c0_seq1, transcribed RNA sequence
+HAFG01117113.1_2     -          OSK_CONSENSUS        -               0.52   16.0   0.0      0.99   15.1   0.0   1.4   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp90630_c0_seq14, transcribed RNA sequence
+HAFG01117104.1_2     -          OSK_CONSENSUS        -               0.52   16.0   0.0       1.1   15.0   0.0   1.5   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp90630_c0_seq5, transcribed RNA sequence
+HAFG01117111.1_1     -          OSK_CONSENSUS        -               0.78   15.4   0.1       1.5   14.5   0.1   1.4   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp90630_c0_seq12, transcribed RNA sequence
+HAFG01009514.1_4     -          OSK_CONSENSUS        -                1.4   14.6   0.1       1.4   14.6   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp18980_c0_seq1, transcribed RNA sequence
+HAFG01062559.1_2     -          OSK_CONSENSUS        -                1.5   14.5   0.0       1.7   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp82526_c1_seq2, transcribed RNA sequence
+HAFG01051382.1_4     -          OSK_CONSENSUS        -                1.5   14.5   0.1       2.5   13.7   0.1   1.4   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp76546_c0_seq1, transcribed RNA sequence
+HAFG01080178.1_4     -          OSK_CONSENSUS        -                1.6   14.3   0.8       4.3   13.0   0.1   2.1   3   0   0   3   3   2   0 TSA: Proasellus parvulus, contig comp87671_c0_seq4, transcribed RNA sequence
+HAFG01078108.1_6     -          OSK_CONSENSUS        -                1.9   14.2   0.1       2.1   14.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp87254_c0_seq3, transcribed RNA sequence
+HAFG01098254.1_4     -          OSK_CONSENSUS        -                2.5   13.8   0.1         4   13.1   0.1   1.3   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp89638_c0_seq4, transcribed RNA sequence
+HAFG01012838.1_4     -          OSK_CONSENSUS        -                2.7   13.7   0.3       3.2   13.4   0.3   1.2   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp25246_c0_seq1, transcribed RNA sequence
+HAFG01078110.1_6     -          OSK_CONSENSUS        -                2.8   13.6   0.0       2.8   13.6   0.0   1.0   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp87254_c0_seq5, transcribed RNA sequence
+HAFG01215577.1_6     -          OSK_CONSENSUS        -                2.8   13.6   0.0         3   13.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp2665874_c0_seq1, transcribed RNA sequence
+HAFG01177319.1_3     -          OSK_CONSENSUS        -                3.3   13.4   0.4       3.7   13.2   0.4   1.2   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp756799_c0_seq1, transcribed RNA sequence
+HAFG01062558.1_2     -          OSK_CONSENSUS        -                3.3   13.4   0.1       3.7   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp82526_c1_seq1, transcribed RNA sequence
+HAFG01181919.1_4     -          OSK_CONSENSUS        -                3.7   13.2   0.2       3.7   13.2   0.2   1.0   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp798297_c0_seq1, transcribed RNA sequence
+HAFG01072987.1_2     -          OSK_CONSENSUS        -                4.6   12.9   0.1       6.4   12.4   0.1   1.3   1   1   0   1   1   1   0 TSA: Proasellus parvulus, contig comp86011_c0_seq2, transcribed RNA sequence
+HAFG01098252.1_4     -          OSK_CONSENSUS        -                5.1   12.8   0.1       9.5   11.9   0.1   1.4   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp89638_c0_seq2, transcribed RNA sequence
+HAFG01102517.1_4     -          OSK_CONSENSUS        -                9.4   11.9   0.0       9.8   11.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus parvulus, contig comp89895_c1_seq6, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFG.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFG.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFG.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:22 2019
+# [ok]

@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEU01030378.1_5     -          LOTUS_CONSENSUS      -            2.1e-16   65.3   2.1   5.4e-16   63.9   0.1   2.2   2   0   0   2   2   2   1 TSA: Proasellus coiffaiti, contig comp48708_c0_seq1, transcribed RNA sequence
+HAEU01030379.1_4     -          LOTUS_CONSENSUS      -            2.4e-16   65.1   0.1     4e-16   64.3   0.1   1.3   1   0   0   1   1   1   1 TSA: Proasellus coiffaiti, contig comp48708_c0_seq2, transcribed RNA sequence
+HAEU01041691.1_4     -          LOTUS_CONSENSUS      -            2.8e-14   58.4   1.5   3.2e-08   39.0   0.1   3.4   3   0   0   3   3   3   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq2, transcribed RNA sequence
+HAEU01041693.1_4     -          LOTUS_CONSENSUS      -            9.1e-14   56.8   3.2   2.3e-08   39.4   0.1   3.2   3   1   0   3   3   3   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq4, transcribed RNA sequence
+HAEU01041692.1_6     -          LOTUS_CONSENSUS      -            1.5e-13   56.0   2.4   7.3e-08   37.9   0.1   3.6   3   0   0   3   3   3   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq3, transcribed RNA sequence
+HAEU01041694.1_4     -          LOTUS_CONSENSUS      -            3.1e-13   55.1   4.9   3.9e-08   38.7   0.1   4.3   3   1   1   4   4   4   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq5, transcribed RNA sequence
+HAEU01041698.1_4     -          LOTUS_CONSENSUS      -            3.3e-13   55.0   5.3     3e-08   39.1   0.1   4.1   3   1   1   4   4   4   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq9, transcribed RNA sequence
+HAEU01041695.1_6     -          LOTUS_CONSENSUS      -            2.9e-12   52.0   6.1   8.1e-08   37.7   0.1   4.5   3   1   1   4   4   4   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq6, transcribed RNA sequence
+HAEU01041696.1_6     -          LOTUS_CONSENSUS      -            3.2e-12   51.8   6.2   6.3e-08   38.1   0.1   3.5   3   1   0   3   3   3   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq7, transcribed RNA sequence
+HAEU01041697.1_6     -          LOTUS_CONSENSUS      -            4.7e-11   48.1   9.7   7.1e-08   37.9   0.1   4.4   3   2   1   4   4   4   2 TSA: Proasellus coiffaiti, contig comp56410_c0_seq8, transcribed RNA sequence
+HAEU01018065.1_5     -          LOTUS_CONSENSUS      -               0.99   15.0   0.2       1.4   14.5   0.2   1.3   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp35511_c0_seq2, transcribed RNA sequence
+HAEU01027858.1_3     -          LOTUS_CONSENSUS      -                1.3   14.6   0.4   1.6e+02    7.9   0.1   2.5   2   0   0   2   2   2   0 TSA: Proasellus coiffaiti, contig comp46396_c1_seq1, transcribed RNA sequence
+HAEU01056718.1_6     -          LOTUS_CONSENSUS      -                1.6   14.3   2.2       2.2   13.8   2.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp61352_c0_seq1, transcribed RNA sequence
+HAEU01008248.1_6     -          LOTUS_CONSENSUS      -                2.3   13.8   0.1       3.2   13.3   0.1   1.3   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp15159_c0_seq1, transcribed RNA sequence
+HAEU01050715.1_4     -          LOTUS_CONSENSUS      -                6.7   12.3   0.0        14   11.3   0.0   1.5   1   0   0   1   1   1   0 TSA: Proasellus coiffaiti, contig comp60056_c2_seq1, transcribed RNA sequence
+HAEU01066400.1_4     -          LOTUS_CONSENSUS      -                7.7   12.1   0.3       7.7   12.1   0.3   2.0   2   0   0   2   2   2   0 TSA: Proasellus coiffaiti, contig comp62475_c0_seq4, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEU.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEU.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEU.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:55 2019
+# [ok]

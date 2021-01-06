@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMO01018592.1_1     -          oskar_filtered.aligned.OSK_domain -            3.7e-64  218.7   0.2   1.1e-63  217.2   0.2   1.8   1   0   0   1   1   1   1 TSA: Celonites abbreviatus s4432_L_8230_0_a_52_4_l_4760 transcribed RNA sequence
+GBMO01018593.1_1     -          oskar_filtered.aligned.OSK_domain -            6.6e-64  217.8   0.2   6.6e-64  217.8   0.2   1.9   2   0   0   2   2   2   1 TSA: Celonites abbreviatus s4433_L_8230_1_a_52_7_l_3448 transcribed RNA sequence
+GBMO01006480.1_1     -          oskar_filtered.aligned.OSK_domain -                1.3   11.4   0.0       1.8   11.0   0.0   1.2   1   0   0   1   1   1   0 TSA: Celonites abbreviatus C48633_a_3_0_l_453 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMO01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMO01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMO01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:42 2019
+# [ok]

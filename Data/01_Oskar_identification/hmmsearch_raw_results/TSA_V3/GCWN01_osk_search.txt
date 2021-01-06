@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWN01007190.1_6     -          oskar_filtered.aligned.OSK_domain -             0.0015   21.9   1.1    0.0017   21.7   1.1   1.1   1   0   0   1   1   1   1 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype C124677_3_0, transcribed RNA sequence
+GCWN01028797.1_4     -          oskar_filtered.aligned.OSK_domain -               0.22   14.8   0.4      0.25   14.6   0.4   1.1   1   0   0   1   1   1   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s1278_L_2630_0_4_3_LINEAR, transcribed RNA sequence
+GCWN01008480.1_5     -          oskar_filtered.aligned.OSK_domain -               0.73   13.1   0.8      0.71   13.1   0.8   1.1   1   0   0   1   1   1   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype C129639_9_0, transcribed RNA sequence
+GCWN01027539.1_6     -          oskar_filtered.aligned.OSK_domain -               0.85   12.9   1.5       1.5   12.1   1.5   1.4   1   0   0   1   1   1   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s11655_L_40534_0_3_5_LINEAR, transcribed RNA sequence
+GCWN01038194.1_5     -          oskar_filtered.aligned.OSK_domain -               0.95   12.7   0.1       1.9   11.8   0.1   1.4   1   1   0   1   1   1   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype s9190_L_29664_1_27_9_BUBBLE, transcribed RNA sequence
+GCWN01013587.1_1     -          oskar_filtered.aligned.OSK_domain -                2.6   11.3   1.0        13    9.1   1.0   2.2   1   1   0   1   1   1   0 TSA: Craspedorrhynchus sp. AD-2014 breed wildtype C153795_47_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:53:22 2019
+# [ok]

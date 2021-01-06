@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDLI01008812.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-19   71.5   0.2   1.4e-17   66.4   0.1   2.3   2   1   0   2   2   2   1 TSA: Hypocaccus fitchi C61682_a_10_0_l_515 transcribed RNA sequence
+GDLI01013594.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.1e-19   71.4   0.1   4.1e-19   71.4   0.1   3.5   3   2   0   3   3   3   1 TSA: Hypocaccus fitchi C77357_a_18_0_l_1368 transcribed RNA sequence
+GDLI01017449.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.5e-06   30.4   6.8     0.071   16.1   0.8   5.0   3   1   2   5   5   5   2 TSA: Hypocaccus fitchi s2926_L_6645_0_a_24_2_l_2560 transcribed RNA sequence
+GDLI01012847.1_3     -          oskar_filtered.aligned.LOTUS_domain -             0.0018   21.2   0.6     7e+02    3.2   0.0   5.4   3   1   1   6   6   6   0 TSA: Hypocaccus fitchi C74965_a_17_0_l_1120 transcribed RNA sequence
+GDLI01003332.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.18   14.7   0.9      0.23   14.5   0.9   1.1   1   0   0   1   1   1   0 TSA: Hypocaccus fitchi C45046_a_16_0_l_263 transcribed RNA sequence
+GDLI01012114.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.19   14.7   0.5      0.61   13.1   0.5   1.8   1   0   0   1   1   1   0 TSA: Hypocaccus fitchi C72531_a_8_0_l_946 transcribed RNA sequence
+GDLI01018093.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.29   14.1   0.1      0.57   13.2   0.1   1.5   1   0   0   1   1   1   0 TSA: Hypocaccus fitchi s3505_L_10350_0_a_11_0_l_1201 transcribed RNA sequence
+GDLI01017749.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.45   13.5   2.5        17    8.4   0.0   3.4   3   1   1   4   4   4   0 TSA: Hypocaccus fitchi s3196_L_8296_0_a_45_0_l_1177 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDLI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDLI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:30 2019
+# [ok]

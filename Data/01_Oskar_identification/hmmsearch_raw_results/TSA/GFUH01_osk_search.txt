@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFUH01022777.1_4     -          OSK_CONSENSUS        -            5.7e-15   59.4   0.2   9.2e-15   58.7   0.2   1.3   1   0   0   1   1   1   1 TSA: Amphizoa lecontei breed wildtype T_DN5033_c0_g1_i1_l_801, transcribed RNA sequence
+GFUH01043187.1_5     -          OSK_CONSENSUS        -              5e-06   30.3   0.1   8.3e-06   29.6   0.1   1.5   1   0   0   1   1   1   1 TSA: Amphizoa lecontei breed wildtype T_DN7607_c1_g2_i2_l_678, transcribed RNA sequence
+GFUH01031540.1_4     -          OSK_CONSENSUS        -            0.00027   24.7   0.5   0.00038   24.2   0.5   1.2   1   0   0   1   1   1   1 TSA: Amphizoa lecontei breed wildtype T_DN7181_c5_g4_i3_l_630, transcribed RNA sequence
+GFUH01009375.1_3     -          OSK_CONSENSUS        -               0.37   14.5   0.0      0.44   14.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Amphizoa lecontei breed wildtype T_DN18445_c0_g1_i1_l_301, transcribed RNA sequence
+GFUH01051293.1_3     -          OSK_CONSENSUS        -               0.55   13.9   0.3      0.74   13.5   0.3   1.2   1   0   0   1   1   1   0 TSA: Amphizoa lecontei breed wildtype T_DN8221_c0_g1_i1_l_364_a, transcribed RNA sequence
+GFUH01011199.1_6     -          OSK_CONSENSUS        -               0.67   13.6   0.5      0.82   13.4   0.5   1.2   1   0   0   1   1   1   0 TSA: Amphizoa lecontei breed wildtype T_DN20092_c0_g1_i1_l_428, transcribed RNA sequence
+GFUH01003422.1_1     -          OSK_CONSENSUS        -                2.6   11.7   0.2       4.4   11.0   0.2   1.3   1   0   0   1   1   1   0 TSA: Amphizoa lecontei breed wildtype T_DN13078_c0_g1_i1_l_436, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFUH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFUH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:28 2019
+# [ok]

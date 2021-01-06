@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAFH01055214.1_1     -          LOTUS_CONSENSUS      -            7.1e-13   53.9   0.5   7.1e-13   53.9   0.5   2.3   2   1   0   2   2   2   1 TSA: Proasellus racovitzai, contig comp49245_c0_seq18, transcribed RNA sequence
+HAFH01007461.1_1     -          LOTUS_CONSENSUS      -            1.2e-10   46.9   1.7   1.4e-10   46.6   1.7   1.1   1   0   0   1   1   1   1 TSA: Proasellus racovitzai, contig comp14674_c0_seq1, transcribed RNA sequence
+HAFH01057899.1_3     -          LOTUS_CONSENSUS      -               0.14   17.8   0.3   6.9e+02    5.9   0.0   5.1   3   1   1   5   5   4   0 TSA: Proasellus racovitzai, contig comp49458_c0_seq4, transcribed RNA sequence
+HAFH01057896.1_3     -          LOTUS_CONSENSUS      -               0.16   17.6   0.1   6.9e+02    5.9   0.0   5.0   2   1   1   4   4   4   0 TSA: Proasellus racovitzai, contig comp49458_c0_seq1, transcribed RNA sequence
+HAFH01044807.1_5     -          LOTUS_CONSENSUS      -               0.39   16.3   0.0      0.88   15.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp47498_c0_seq1, transcribed RNA sequence
+HAFH01055205.1_1     -          LOTUS_CONSENSUS      -                0.7   15.5   0.1       1.6   14.4   0.0   1.6   2   0   0   2   2   1   0 TSA: Proasellus racovitzai, contig comp49245_c0_seq9, transcribed RNA sequence
+HAFH01029297.1_2     -          LOTUS_CONSENSUS      -               0.92   15.1   0.2       1.1   14.8   0.2   1.2   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp40614_c0_seq1, transcribed RNA sequence
+HAFH01061914.1_4     -          LOTUS_CONSENSUS      -                1.4   14.6   0.3       3.3   13.4   0.3   1.9   1   1   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp49709_c4_seq8, transcribed RNA sequence
+HAFH01055206.1_1     -          LOTUS_CONSENSUS      -                1.5   14.5   0.0       3.6   13.2   0.0   1.6   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp49245_c0_seq10, transcribed RNA sequence
+HAFH01000150.1_6     -          LOTUS_CONSENSUS      -                1.5   14.5   0.8       1.6   14.4   0.8   1.1   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp207_c0_seq1, transcribed RNA sequence
+HAFH01055223.1_1     -          LOTUS_CONSENSUS      -                1.5   14.5   0.0       3.6   13.2   0.0   1.6   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp49245_c0_seq27, transcribed RNA sequence
+HAFH01029298.1_1     -          LOTUS_CONSENSUS      -                1.5   14.4   0.2       2.2   13.9   0.2   1.3   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp40614_c0_seq2, transcribed RNA sequence
+HAFH01055221.1_1     -          LOTUS_CONSENSUS      -                1.6   14.3   0.0       4.2   13.0   0.0   1.6   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp49245_c0_seq25, transcribed RNA sequence
+HAFH01111579.1_5     -          LOTUS_CONSENSUS      -                1.8   14.2   1.9       2.6   13.7   1.9   1.3   1   1   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp735841_c0_seq1, transcribed RNA sequence
+HAFH01072389.1_2     -          LOTUS_CONSENSUS      -                2.2   13.9   0.9       4.4   12.9   0.9   1.5   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp217818_c0_seq1, transcribed RNA sequence
+HAFH01065474.1_6     -          LOTUS_CONSENSUS      -                3.8   13.1   0.1       9.7   11.8   0.1   1.7   1   1   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp107890_c0_seq1, transcribed RNA sequence
+HAFH01027675.1_1     -          LOTUS_CONSENSUS      -                4.3   13.0   0.1       7.6   12.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Proasellus racovitzai, contig comp39544_c1_seq1, transcribed RNA sequence
+HAFH01084314.1_3     -          LOTUS_CONSENSUS      -                7.3   12.2   1.3        10   11.8   0.3   1.7   2   0   0   2   2   2   0 TSA: Proasellus racovitzai, contig comp354155_c0_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFH.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAFH.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAFH.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:27 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYW01054089.1_2     -          OSK_CONSENSUS        -            1.1e-20   78.2   0.0   2.8e-20   76.8   0.0   1.6   2   0   0   2   2   2   1 TSA: Psyllopsis fraxinicola breed wildtype s27763_L_63953_0_2_2_LINEAR, transcribed RNA sequence
+GCYW01044547.1_4     -          OSK_CONSENSUS        -            6.2e-05   27.0   2.4   7.8e-05   26.7   2.4   1.2   1   0   0   1   1   1   1 TSA: Psyllopsis fraxinicola breed wildtype s1915_L_1732_0_3_1_FORK, transcribed RNA sequence
+GCYW01044558.1_5     -          OSK_CONSENSUS        -            0.00054   23.9   0.3   0.00072   23.5   0.3   1.1   1   0   0   1   1   1   1 TSA: Psyllopsis fraxinicola breed wildtype s1916_L_1732_1_3_1_FORK, transcribed RNA sequence
+GCYW01012672.1_6     -          OSK_CONSENSUS        -               0.23   15.4   0.0      0.23   15.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Psyllopsis fraxinicola breed wildtype C386122_3_0, transcribed RNA sequence
+GCYW01032327.1_3     -          OSK_CONSENSUS        -                1.5   12.7   0.1       2.2   12.2   0.1   1.5   1   1   0   1   1   1   0 TSA: Psyllopsis fraxinicola breed wildtype C484205_4_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:35 2019
+# [ok]

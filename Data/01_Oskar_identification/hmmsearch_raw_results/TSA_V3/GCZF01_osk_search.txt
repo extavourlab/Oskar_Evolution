@@ -1,0 +1,39 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZF01079581.1_2     -          oskar_filtered.aligned.OSK_domain -            1.6e-21   81.5   0.0   2.4e-21   80.9   0.0   1.2   1   0   0   1   1   1   1 TSA: Ponana quadralaba breed wildtype s8953_L_30217_1_13_7_COMPLEX, transcribed RNA sequence
+GCZF01079582.1_2     -          oskar_filtered.aligned.OSK_domain -            2.2e-20   77.8   0.0   2.2e-20   77.8   0.0   2.8   3   0   0   3   3   2   1 TSA: Ponana quadralaba breed wildtype s8954_L_30217_2_34_7_COMPLEX, transcribed RNA sequence
+GCZF01061074.1_6     -          oskar_filtered.aligned.OSK_domain -            4.5e-12   50.7   2.5   9.5e-12   49.6   0.5   2.2   2   1   0   2   2   2   1 TSA: Ponana quadralaba breed wildtype s10247_L_36583_0_5_0_COMPLEX, transcribed RNA sequence
+GCZF01061076.1_6     -          oskar_filtered.aligned.OSK_domain -            1.6e-10   45.6   0.6   1.6e-10   45.6   0.6   2.0   2   0   0   2   2   2   1 TSA: Ponana quadralaba breed wildtype s10249_L_36583_2_5_1_COMPLEX, transcribed RNA sequence
+GCZF01061075.1_6     -          oskar_filtered.aligned.OSK_domain -            6.8e-10   43.6   0.6   6.8e-10   43.6   0.6   2.4   3   0   0   3   3   3   1 TSA: Ponana quadralaba breed wildtype s10248_L_36583_1_4_9_COMPLEX, transcribed RNA sequence
+GCZF01019323.1_2     -          oskar_filtered.aligned.OSK_domain -            3.6e-09   41.2   2.5   3.8e-09   41.2   2.5   1.0   1   0   0   1   1   1   1 TSA: Ponana quadralaba breed wildtype C334292_3_0, transcribed RNA sequence
+GCZF01058744.1_6     -          oskar_filtered.aligned.OSK_domain -            3.2e-08   38.1  10.1   5.3e-08   37.4   8.9   2.1   1   1   1   2   2   2   1 TSA: Ponana quadralaba breed wildtype C465745_3_0, transcribed RNA sequence
+GCZF01054263.1_5     -          oskar_filtered.aligned.OSK_domain -            0.00017   26.0   0.9   0.00017   26.0   0.9   1.6   2   0   0   2   2   2   1 TSA: Ponana quadralaba breed wildtype C446229_6_0, transcribed RNA sequence
+GCZF01039919.1_2     -          oskar_filtered.aligned.OSK_domain -             0.0019   22.6   0.5     0.002   22.5   0.5   1.1   1   0   0   1   1   1   1 TSA: Ponana quadralaba breed wildtype C395084_3_0, transcribed RNA sequence
+GCZF01076384.1_2     -          oskar_filtered.aligned.OSK_domain -              0.005   21.2   0.1    0.0062   20.9   0.1   1.1   1   0   0   1   1   1   1 TSA: Ponana quadralaba breed wildtype s6066_L_17751_0_5_6_LINEAR, transcribed RNA sequence
+GCZF01048502.1_1     -          oskar_filtered.aligned.OSK_domain -              0.013   19.8   0.6     0.015   19.6   0.6   1.2   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C423847_3_0, transcribed RNA sequence
+GCZF01045608.1_3     -          oskar_filtered.aligned.OSK_domain -               0.11   16.8   2.5      0.15   16.3   2.5   1.2   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C413843_2_0, transcribed RNA sequence
+GCZF01056966.1_1     -          oskar_filtered.aligned.OSK_domain -               0.17   16.2   0.4       1.3   13.3   0.3   2.2   1   1   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C458069_17_0, transcribed RNA sequence
+GCZF01041230.1_3     -          oskar_filtered.aligned.OSK_domain -               0.17   16.2   1.5      0.61   14.4   0.0   2.0   1   1   1   2   2   2   0 TSA: Ponana quadralaba breed wildtype C399305_5_0, transcribed RNA sequence
+GCZF01047754.1_6     -          oskar_filtered.aligned.OSK_domain -               0.32   15.3   6.6       1.2   13.5   6.6   1.8   1   1   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C421305_2_0, transcribed RNA sequence
+GCZF01029951.1_3     -          oskar_filtered.aligned.OSK_domain -               0.37   15.1   0.5      0.45   14.8   0.5   1.2   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C364532_2_0, transcribed RNA sequence
+GCZF01059219.1_2     -          oskar_filtered.aligned.OSK_domain -               0.54   14.6   0.5      0.54   14.6   0.5   1.8   2   0   0   2   2   2   0 TSA: Ponana quadralaba breed wildtype C467875_5_0, transcribed RNA sequence
+GCZF01010546.1_6     -          oskar_filtered.aligned.OSK_domain -               0.57   14.5   0.0      0.63   14.4   0.0   1.0   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C310090_3_0, transcribed RNA sequence
+GCZF01028327.1_2     -          oskar_filtered.aligned.OSK_domain -               0.59   14.4   0.3      0.67   14.3   0.3   1.0   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C359796_2_0, transcribed RNA sequence
+GCZF01050148.1_2     -          oskar_filtered.aligned.OSK_domain -               0.79   14.0   0.0         1   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C429953_4_0, transcribed RNA sequence
+GCZF01029715.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   13.6   0.7       1.2   13.4   0.7   1.0   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C363846_4_0, transcribed RNA sequence
+GCZF01075054.1_4     -          oskar_filtered.aligned.OSK_domain -                1.3   13.3   0.9       1.4   13.2   0.9   1.2   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype s4870_L_13516_1_4_5_FORK, transcribed RNA sequence
+GCZF01026144.1_2     -          oskar_filtered.aligned.OSK_domain -                1.6   13.1   0.1       1.7   12.9   0.1   1.1   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C353542_5_0, transcribed RNA sequence
+GCZF01058746.1_1     -          oskar_filtered.aligned.OSK_domain -                  2   12.7   0.2       5.1   11.4   0.1   1.8   2   0   0   2   2   1   0 TSA: Ponana quadralaba breed wildtype C465753_39_0, transcribed RNA sequence
+GCZF01068543.1_4     -          oskar_filtered.aligned.OSK_domain -                  3   12.2   0.4       7.8   10.8   0.4   1.7   1   1   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype s16992_L_83201_0_8_6_LINEAR, transcribed RNA sequence
+GCZF01028190.1_3     -          oskar_filtered.aligned.OSK_domain -                5.6   11.2   3.3       6.1   11.1   3.3   1.0   1   0   0   1   1   1   0 TSA: Ponana quadralaba breed wildtype C359428_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZF01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:34 2019
+# [ok]

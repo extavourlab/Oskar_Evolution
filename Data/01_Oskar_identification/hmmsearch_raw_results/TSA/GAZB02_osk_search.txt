@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZB02042945.1_2     -          OSK_CONSENSUS        -               0.05   18.1   1.0     0.053   18.1   1.0   1.1   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C344712_a_3_0_l_300 transcribed RNA sequence
+GAZB02085470.1_5     -          OSK_CONSENSUS        -                0.1   17.1   0.1      0.21   16.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 s26181_L_80968_0_a_30_7_l_1145 transcribed RNA sequence
+GAZB02011020.1_1     -          OSK_CONSENSUS        -               0.22   16.0   0.0      0.23   16.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C262535_a_5_0_l_237 transcribed RNA sequence
+GAZB02010549.1_2     -          OSK_CONSENSUS        -                1.3   13.5   0.3       1.4   13.5   0.3   1.0   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C261431_a_8_0_l_236 transcribed RNA sequence
+GAZB02050565.1_6     -          OSK_CONSENSUS        -                1.5   13.3   0.0       1.7   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C374547_a_16_0_l_380 transcribed RNA sequence
+GAZB02008919.1_3     -          OSK_CONSENSUS        -                1.6   13.2   0.0       1.8   13.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C257402_a_3_0_l_234 transcribed RNA sequence
+GAZB02027909.1_1     -          OSK_CONSENSUS        -                1.8   13.1   1.0       2.2   12.8   1.0   1.1   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C301086_a_3_0_l_249 transcribed RNA sequence
+GAZB02006440.1_1     -          OSK_CONSENSUS        -                1.9   13.0   0.3       2.1   12.8   0.3   1.1   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C250712_a_4_0_l_229 transcribed RNA sequence
+GAZB02062730.1_1     -          OSK_CONSENSUS        -                3.2   12.3   0.4       3.2   12.3   0.4   2.1   2   0   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 C426476_a_46_0_l_756 transcribed RNA sequence
+GAZB02077943.1_4     -          OSK_CONSENSUS        -                5.9   11.4   2.5   3.5e+02    5.6   0.2   2.4   2   0   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 s19393_L_28337_0_a_5_8_l_854 transcribed RNA sequence
+GAZB02082878.1_5     -          OSK_CONSENSUS        -                9.4   10.8   4.2       5.4   11.5   0.5   2.0   2   0   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 s23845_L_61110_0_a_23_3_l_703 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZB02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:06 2019
+# [ok]

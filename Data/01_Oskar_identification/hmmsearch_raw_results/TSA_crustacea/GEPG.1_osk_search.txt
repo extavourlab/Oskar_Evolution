@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPG01052191.1_2     -          OSK_CONSENSUS        -            0.00017   25.9   0.1   0.00036   24.8   0.1   1.4   1   0   0   1   1   1   1 TSA: Boeckaxelia carpenterii c57704_g2_i2 transcribed RNA sequence
+GEPG01053926.1_6     -          OSK_CONSENSUS        -               0.69   14.1   0.1      0.76   14.0   0.1   1.1   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c59331_g1_i1 transcribed RNA sequence
+GEPG01017508.1_3     -          OSK_CONSENSUS        -               0.72   14.1   1.5       2.1   12.6   1.5   1.8   1   1   0   1   1   1   0 TSA: Boeckaxelia carpenterii c34853_g1_i1 transcribed RNA sequence
+GEPG01050828.1_2     -          OSK_CONSENSUS        -                1.4   13.1   0.3        35    8.6   0.2   2.6   1   1   1   2   2   2   0 TSA: Boeckaxelia carpenterii c57498_g2_i2 transcribed RNA sequence
+GEPG01050826.1_2     -          OSK_CONSENSUS        -                1.6   12.9   0.3   1.4e+02    6.7   0.1   2.6   1   1   1   2   2   2   0 TSA: Boeckaxelia carpenterii c57498_g2_i1 transcribed RNA sequence
+GEPG01038272.1_4     -          OSK_CONSENSUS        -                2.8   12.2   0.4       3.3   11.9   0.4   1.1   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c52794_g1_i1 transcribed RNA sequence
+GEPG01014541.1_1     -          OSK_CONSENSUS        -                3.7   11.8   0.0       4.2   11.6   0.0   1.0   1   0   0   1   1   1   0 TSA: Boeckaxelia carpenterii c30340_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPG.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPG.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPG.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:00 2019
+# [ok]

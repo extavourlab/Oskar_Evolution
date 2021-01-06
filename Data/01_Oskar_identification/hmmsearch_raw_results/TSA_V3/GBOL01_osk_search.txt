@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOL01025641.1_2     -          oskar_filtered.aligned.OSK_domain -               0.15   15.2   0.1       0.2   14.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Cimbex rubida C95899_a_4_0_l_862 transcribed RNA sequence
+GBOL01026557.1_4     -          oskar_filtered.aligned.OSK_domain -               0.44   13.7   0.3      0.44   13.7   0.3   2.0   2   0   0   2   2   2   0 TSA: Cimbex rubida C99241_a_23_0_l_996 transcribed RNA sequence
+GBOL01003048.1_4     -          oskar_filtered.aligned.OSK_domain -                1.2   12.3   0.2       8.9    9.4   0.2   2.3   1   1   0   1   1   1   0 TSA: Cimbex rubida C110873_a_13_0_l_1980 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOL01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:56:18 2019
+# [ok]

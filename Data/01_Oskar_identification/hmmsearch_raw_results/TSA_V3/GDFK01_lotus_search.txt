@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDFK01042953.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-11   49.0   2.0   5.4e-11   46.8   0.0   2.8   3   0   0   3   3   3   1 TSA: Embidopsocus sp. AD-2014 breed wildtype C195380_a_20_0_l_1126, transcribed RNA sequence
+GDFK01036376.1_2     -          oskar_filtered.aligned.LOTUS_domain -             0.0061   21.0   0.0     0.013   19.9   0.0   1.5   1   0   0   1   1   1   1 TSA: Embidopsocus sp. AD-2014 breed wildtype C179515_a_4_0_l_450, transcribed RNA sequence
+GDFK01043841.1_5     -          oskar_filtered.aligned.LOTUS_domain -              0.012   20.0   4.5   1.7e+02    6.7   0.0   5.8   5   1   2   7   7   7   0 TSA: Embidopsocus sp. AD-2014 breed wildtype C197588_a_20_0_l_3745, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDFK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDFK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:46:13 2019
+# [ok]

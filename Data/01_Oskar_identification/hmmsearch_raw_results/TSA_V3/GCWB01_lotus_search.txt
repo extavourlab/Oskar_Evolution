@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWB01038215.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.4e-12   49.4   0.1   2.8e-11   47.2   0.0   2.4   3   0   0   3   3   3   1 TSA: Columbicola columbae breed wildtype C203729_13_0, transcribed RNA sequence
+GCWB01038130.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-05   28.6   0.6        10   10.0   0.1   5.6   3   1   2   6   6   6   2 TSA: Columbicola columbae breed wildtype C203559_33_0, transcribed RNA sequence
+GCWB01022588.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.091   16.6   0.0      0.24   15.2   0.0   1.7   1   1   0   1   1   1   0 TSA: Columbicola columbae breed wildtype C171693_4_0, transcribed RNA sequence
+GCWB01023888.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.12   16.2   0.4        31    8.5   0.1   2.4   2   1   0   2   2   2   0 TSA: Columbicola columbae breed wildtype C174397_111_0, transcribed RNA sequence
+GCWB01032808.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.18   15.7   0.2       1.2   13.0   0.1   2.2   2   0   0   2   2   2   0 TSA: Columbicola columbae breed wildtype C192823_5_0, transcribed RNA sequence
+GCWB01017426.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.22   15.4   0.0      0.31   14.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Columbicola columbae breed wildtype C160867_3_0, transcribed RNA sequence
+GCWB01004565.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.41   14.5   0.1      0.45   14.4   0.1   1.2   1   0   0   1   1   1   0 TSA: Columbicola columbae breed wildtype C133635_2_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:00:40 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQQ01026286.1_3     -          oskar_filtered.aligned.OSK_domain -            1.6e-64  220.1   0.1   1.6e-64  220.1   0.1   2.5   2   1   0   2   2   2   1 TSA: Katamenes arbustorum s7963_L_22550_0_a_54_8_l_2992 transcribed RNA sequence
+GBQQ01000141.1_1     -          oskar_filtered.aligned.OSK_domain -              0.037   16.8   0.0      0.11   15.2   0.0   1.7   1   1   0   1   1   1   0 TSA: Katamenes arbustorum C100592_a_27_0_l_1960 transcribed RNA sequence
+GBQQ01015124.1_3     -          oskar_filtered.aligned.OSK_domain -               0.68   12.7   0.1       1.1   12.0   0.1   1.3   1   0   0   1   1   1   0 TSA: Katamenes arbustorum C84638_a_4_0_l_808 transcribed RNA sequence
+GBQQ01025741.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   12.0   0.5        27    7.5   0.0   2.7   2   1   0   3   3   3   0 TSA: Katamenes arbustorum s7470_L_19635_0_a_8_8_l_1968 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:44 2019
+# [ok]

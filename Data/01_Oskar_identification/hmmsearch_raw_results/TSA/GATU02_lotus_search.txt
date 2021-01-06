@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GATU02022522.1_1     -          LOTUS_CONSENSUS      -            9.2e-19   70.5   0.0   1.7e-18   69.6   0.0   1.5   1   0   0   1   1   1   1 TSA: Baetis sp. AD-2013 s8548_L_20110_0_a_6_6_l_1142 transcribed RNA sequence
+GATU02018732.1_6     -          LOTUS_CONSENSUS      -            7.9e-18   67.5   0.0   2.2e-15   59.7   0.0   2.6   2   0   0   2   2   2   1 TSA: Baetis sp. AD-2013 s5127_L_7919_0_a_58_0_l_4532 transcribed RNA sequence
+GATU02005823.1_3     -          LOTUS_CONSENSUS      -            1.9e-10   43.8   0.0     0.043   17.0   0.0   5.9   4   2   3   7   7   7   2 TSA: Baetis sp. AD-2013 C128183_a_45_0_l_4075 transcribed RNA sequence
+GATU02002157.1_4     -          LOTUS_CONSENSUS      -            1.4e-06   31.4   0.0   4.3e-06   29.8   0.0   1.8   2   0   0   2   2   2   1 TSA: Baetis sp. AD-2013 C110854_a_7_0_l_814 transcribed RNA sequence
+GATU02000254.1_1     -          LOTUS_CONSENSUS      -               0.13   15.5   0.8      0.45   13.8   0.1   2.2   2   1   0   2   2   2   0 TSA: Baetis sp. AD-2013 C101134_a_3_0_l_527 transcribed RNA sequence
+GATU02009033.1_3     -          LOTUS_CONSENSUS      -               0.24   14.7   0.0      0.29   14.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Baetis sp. AD-2013 C78201_a_3_0_l_253 transcribed RNA sequence
+GATU02004742.1_1     -          LOTUS_CONSENSUS      -               0.83   12.9   0.1       3.3   11.0   0.1   2.0   2   0   0   2   2   2   0 TSA: Baetis sp. AD-2013 C123553_a_13_0_l_1763 transcribed RNA sequence
+GATU02002565.1_6     -          LOTUS_CONSENSUS      -                1.1   12.5   0.0       2.5   11.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Baetis sp. AD-2013 C112950_a_4_0_l_910 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATU02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GATU02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GATU02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:44 2019
+# [ok]

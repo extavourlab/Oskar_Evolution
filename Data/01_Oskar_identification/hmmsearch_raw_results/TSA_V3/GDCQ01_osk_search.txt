@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCQ01024697.1_5     -          oskar_filtered.aligned.OSK_domain -            1.1e-25   93.4   0.0   1.7e-25   92.8   0.0   1.2   1   0   0   1   1   1   1 TSA: Nemoura sp. AD-2014 breed wildtype s5664_L_24885_0_a_11_3_l_1638, transcribed RNA sequence
+GDCQ01015780.1_2     -          oskar_filtered.aligned.OSK_domain -              8e-12   48.2   0.4   1.2e-11   47.6   0.4   1.3   1   0   0   1   1   1   1 TSA: Nemoura sp. AD-2014 breed wildtype C82839_a_11_0_l_613, transcribed RNA sequence
+GDCQ01001306.1_6     -          oskar_filtered.aligned.OSK_domain -            1.7e-05   27.6   0.0   1.7e-05   27.6   0.0   1.0   1   0   0   1   1   1   1 TSA: Nemoura sp. AD-2014 breed wildtype C42994_a_3_0_l_225, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:10:03 2019
+# [ok]

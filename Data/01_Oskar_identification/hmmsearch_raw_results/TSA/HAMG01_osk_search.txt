@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAMG01013720.1_2     -          OSK_CONSENSUS        -            1.1e-35  126.7   0.9   1.7e-35  126.2   0.9   1.2   1   0   0   1   1   1   1 TSA: Galerucella pusilla TRINITY_DN49873_c0_g1_i4 transcribed RNA sequence
+HAMG01050000.1_1     -          OSK_CONSENSUS        -               0.31   14.9   1.2       1.8   12.4   1.2   2.4   1   0   0   1   1   1   0 TSA: Galerucella pusilla TRINITY_DN80678_c1_g1_i2 transcribed RNA sequence
+HAMG01015256.1_6     -          OSK_CONSENSUS        -               0.37   14.6   0.1      0.57   14.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Galerucella pusilla TRINITY_DN54648_c0_g1_i1 transcribed RNA sequence
+HAMG01046262.1_6     -          OSK_CONSENSUS        -               0.53   14.1   0.0       1.2   13.0   0.0   1.5   1   0   0   1   1   1   0 TSA: Galerucella pusilla TRINITY_DN79306_c1_g3_i2 transcribed RNA sequence
+HAMG01041388.1_4     -          OSK_CONSENSUS        -               0.81   13.5   0.1        39    8.0   0.0   2.2   2   0   0   2   2   2   0 TSA: Galerucella pusilla TRINITY_DN77439_c0_g3_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/HAMG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_HAMG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:42 2019
+# [ok]

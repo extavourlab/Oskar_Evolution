@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGEV01003765.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.5e-13   53.3   0.9   7.2e-13   51.1   0.0   2.2   2   0   0   2   2   2   1 TSA: Planotortrix octo Poct_SOT_k31_scaffold2225 transcribed RNA sequence
+GGEV01015122.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.71   12.6   0.7       1.9   11.2   0.3   2.0   2   0   0   2   2   2   0 TSA: Planotortrix octo Poct_TR30505_c0_g1_i1 transcribed RNA sequence
+GGEV01000188.1_1     -          oskar_filtered.aligned.LOTUS_domain -               0.83   12.4   0.7       2.2   11.0   0.2   1.9   2   0   0   2   2   2   0 TSA: Planotortrix octo Poct_GG15813_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGEV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGEV01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGEV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:50 2019
+# [ok]

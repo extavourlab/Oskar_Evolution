@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNY01027653.1_3     -          oskar_filtered.aligned.LOTUS_domain -              1e-17   69.0   0.7   1.2e-16   65.5   0.1   2.8   2   0   0   2   2   2   1 TSA: Bactrocera jarvisi TR15157_c0_g1_i1 transcribed RNA sequence
+GFNY01007310.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-09   42.4   1.5   2.7e-09   41.9   0.0   1.9   2   0   0   2   2   2   1 TSA: Bactrocera jarvisi TR5143_c0_g1_i1 transcribed RNA sequence
+GFNY01068731.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.9e-09   40.3   0.8   2.1e-07   35.9   0.0   2.1   2   0   0   2   2   2   1 TSA: Bactrocera jarvisi TR25254_c0_g1_i1 transcribed RNA sequence
+GFNY01036932.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.39   15.7   0.0       1.4   13.9   0.0   1.8   2   0   0   2   2   2   0 TSA: Bactrocera jarvisi TR17928_c0_g1_i1 transcribed RNA sequence
+GFNY01021309.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.85   14.6   2.2       1.4   14.0   2.2   1.3   1   0   0   1   1   1   0 TSA: Bactrocera jarvisi TR12546_c0_g1_i1 transcribed RNA sequence
+GFNY01027211.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.3   1.4       4.9   12.2   0.1   2.2   2   0   0   2   2   2   0 TSA: Bactrocera jarvisi TR14993_c0_g2_i1 transcribed RNA sequence
+GFNY01039610.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.9   0.4        77    8.4   0.1   2.7   2   0   0   2   2   2   0 TSA: Bactrocera jarvisi TR18575_c0_g1_i1 transcribed RNA sequence
+GFNY01086328.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.7   0.1       2.8   13.0   0.1   1.4   1   0   0   1   1   1   0 TSA: Bactrocera jarvisi TR42411_c0_g1_i1 transcribed RNA sequence
+GFNY01021997.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.6   0.1       5.7   12.0   0.0   1.7   2   0   0   2   2   2   0 TSA: Bactrocera jarvisi TR12860_c0_g3_i1 transcribed RNA sequence
+GFNY01006828.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.6   0.1       3.3   12.8   0.1   1.4   1   0   0   1   1   1   0 TSA: Bactrocera jarvisi TR4823_c0_g1_i1 transcribed RNA sequence
+GFNY01006829.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.9   13.6   0.1       3.5   12.7   0.1   1.5   1   0   0   1   1   1   0 TSA: Bactrocera jarvisi TR4823_c0_g2_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:58 2019
+# [ok]

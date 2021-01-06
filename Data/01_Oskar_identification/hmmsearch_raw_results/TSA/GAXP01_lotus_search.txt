@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXP01004243.1_3     -          LOTUS_CONSENSUS      -            1.8e-21   80.2   0.1   2.2e-18   70.3   0.0   3.6   3   0   0   3   3   3   1 TSA: Sphaeropthalma orestes comp4860_c0_seq1 transcribed RNA sequence
+GAXP01004244.1_2     -          LOTUS_CONSENSUS      -            1.9e-21   80.1   0.1   2.3e-18   70.3   0.0   3.6   3   0   0   3   3   3   1 TSA: Sphaeropthalma orestes comp4860_c0_seq2 transcribed RNA sequence
+GAXP01018149.1_1     -          LOTUS_CONSENSUS      -            6.2e-17   65.7   0.2   2.9e-12   50.7   0.0   3.2   2   0   0   2   2   2   2 TSA: Sphaeropthalma orestes comp11780_c0_seq1 transcribed RNA sequence
+GAXP01018150.1_1     -          LOTUS_CONSENSUS      -            6.5e-17   65.6   0.2   3.2e-12   50.5   0.0   3.3   2   0   0   2   2   2   2 TSA: Sphaeropthalma orestes comp11780_c0_seq2 transcribed RNA sequence
+GAXP01003205.1_1     -          LOTUS_CONSENSUS      -                2.2   12.6   4.7   1.2e+02    7.1   0.4   2.5   2   0   0   2   2   2   0 TSA: Sphaeropthalma orestes comp3956_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXP01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:47 2019
+# [ok]

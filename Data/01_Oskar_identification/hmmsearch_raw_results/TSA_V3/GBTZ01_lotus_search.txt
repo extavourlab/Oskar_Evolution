@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTZ01005590.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.7e-27   96.9   0.1   3.4e-26   94.9   0.1   2.1   1   0   0   1   1   1   1 TSA: Methocha articulata C124630_a_54_0_l_2312 transcribed RNA sequence
+GBTZ01032536.1_1     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-23   85.3  11.4   2.5e-22   82.5   0.0   4.2   5   0   0   5   5   5   2 TSA: Methocha articulata s8053_L_23272_0_a_27_1_l_5364 transcribed RNA sequence
+GBTZ01029302.1_4     -          oskar_filtered.aligned.LOTUS_domain -            8.2e-17   64.8   1.2   3.2e-13   53.2   0.0   3.9   3   0   0   3   3   3   2 TSA: Methocha articulata s5125_L_8118_0_a_16_6_l_5072 transcribed RNA sequence
+GBTZ01029303.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-15   60.1   7.7     3e-13   53.3   0.0   4.4   4   0   0   4   4   4   2 TSA: Methocha articulata s5126_L_8118_1_a_25_4_l_4844 transcribed RNA sequence
+GBTZ01034264.1_5     -          oskar_filtered.aligned.LOTUS_domain -            0.00026   24.6   0.0       7.8   10.3   0.0   5.1   2   1   2   4   4   4   1 TSA: Methocha articulata s9616_L_32541_0_a_27_3_l_5405 transcribed RNA sequence
+GBTZ01002289.1_3     -          oskar_filtered.aligned.LOTUS_domain -                1.3   12.8   0.5        98    6.7   0.0   2.8   3   0   0   3   3   3   0 TSA: Methocha articulata C109825_a_4_0_l_982 transcribed RNA sequence
+GBTZ01031443.1_3     -          oskar_filtered.aligned.LOTUS_domain -                5.3   10.8   2.9       4.2   11.1   0.9   1.8   2   0   0   2   2   2   0 TSA: Methocha articulata s7065_L_18475_0_a_37_1_l_1222 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:32 2019
+# [ok]

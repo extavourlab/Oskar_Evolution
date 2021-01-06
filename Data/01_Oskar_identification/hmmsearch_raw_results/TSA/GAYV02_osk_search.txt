@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYV02032680.1_4     -          OSK_CONSENSUS        -            2.4e-26   95.7   0.2   4.2e-26   94.9   0.2   1.4   1   0   0   1   1   1   1 TSA: Liposcelis bostrychophila s9248_L_11824_0_a_11_1_l_1752 transcribed RNA sequence
+GAYV02023556.1_6     -          OSK_CONSENSUS        -            7.9e-19   71.3   0.4   1.5e-18   70.4   0.4   1.4   1   0   0   1   1   1   1 TSA: Liposcelis bostrychophila s12759_L_29963_0_a_22_0_l_1529 transcribed RNA sequence
+GAYV02032763.1_4     -          OSK_CONSENSUS        -            3.4e-09   39.9   3.3   1.3e-08   38.0   1.1   2.4   2   0   0   2   2   2   1 TSA: Liposcelis bostrychophila s9322_L_12023_0_a_37_2_l_2308 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYV02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYV02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYV02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:05:52 2019
+# [ok]

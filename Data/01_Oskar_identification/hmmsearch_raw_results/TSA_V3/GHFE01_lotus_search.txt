@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GHFE01027096.1_1     -          oskar_filtered.aligned.LOTUS_domain -            8.1e-24   87.7   3.5     1e-23   87.3   0.0   3.2   3   0   0   3   3   3   1 TSA: Schoenomyza sp. heca017 isolate heca Schoenomyza47080_c0_seq1, transcribed RNA sequence
+GHFE01013291.1_1     -          oskar_filtered.aligned.LOTUS_domain -            2.8e-15   60.3   0.3   1.4e-14   58.0   0.1   2.3   3   0   0   3   3   3   1 TSA: Schoenomyza sp. heca017 isolate heca Schoenomyza42384_c0_seq1, transcribed RNA sequence
+GHFE01028472.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-14   58.3   0.4   3.6e-14   56.7   0.0   2.0   2   0   0   2   2   2   1 TSA: Schoenomyza sp. heca017 isolate heca Schoenomyza47344_c1_seq1, transcribed RNA sequence
+GHFE01016650.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.5e-14   56.1   0.5   5.5e-14   56.1   0.5   1.9   2   0   0   2   2   2   1 TSA: Schoenomyza sp. heca017 isolate heca Schoenomyza43891_c0_seq1, transcribed RNA sequence
+GHFE01034241.1_1     -          oskar_filtered.aligned.LOTUS_domain -            5.1e-05   27.4   0.0   5.1e-05   27.4   0.0   2.3   3   0   0   3   3   3   1 TSA: Schoenomyza sp. heca017 isolate heca Schoenomyza48228_c2_seq1, transcribed RNA sequence
+GHFE01038160.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.91   13.7   0.0      0.97   13.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Schoenomyza sp. heca017 isolate heca Schoenomyza48733_c11_seq1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GHFE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GHFE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:03 2019
+# [ok]

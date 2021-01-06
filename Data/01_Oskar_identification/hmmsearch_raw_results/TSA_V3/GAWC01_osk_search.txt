@@ -1,0 +1,39 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWC01068728.1_3     -          oskar_filtered.aligned.OSK_domain -            2.7e-30  110.9   0.0   5.7e-30  109.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq2 transcribed RNA sequence
+GAWC01068729.1_3     -          oskar_filtered.aligned.OSK_domain -            3.8e-30  110.4   0.0   7.6e-30  109.4   0.0   1.5   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq3 transcribed RNA sequence
+GAWC01068734.1_3     -          oskar_filtered.aligned.OSK_domain -            5.4e-30  109.9   0.0   1.1e-29  109.0   0.0   1.5   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp58014_c3_seq8 transcribed RNA sequence
+GAWC01026426.1_4     -          oskar_filtered.aligned.OSK_domain -            2.1e-26   98.2   0.2   2.8e-26   97.8   0.2   1.1   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp43098_c0_seq2 transcribed RNA sequence
+GAWC01026425.1_4     -          oskar_filtered.aligned.OSK_domain -            2.9e-06   32.5   0.1   4.1e-06   32.0   0.1   1.2   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp43098_c0_seq1 transcribed RNA sequence
+GAWC01051454.1_6     -          oskar_filtered.aligned.OSK_domain -            3.2e-05   29.2   0.0   5.1e-05   28.5   0.0   1.3   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp55531_c2_seq3 transcribed RNA sequence
+GAWC01051459.1_6     -          oskar_filtered.aligned.OSK_domain -            3.7e-05   28.9   0.0   6.7e-05   28.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Aretaon asperrimus comp55531_c2_seq8 transcribed RNA sequence
+GAWC01093620.1_2     -          oskar_filtered.aligned.OSK_domain -              0.093   17.9   0.0     0.093   17.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp536185_c0_seq1 transcribed RNA sequence
+GAWC01079757.1_3     -          oskar_filtered.aligned.OSK_domain -                1.4   14.0   0.0       2.1   13.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq5 transcribed RNA sequence
+GAWC01079753.1_3     -          oskar_filtered.aligned.OSK_domain -                2.3   13.3   0.0       4.9   12.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq1 transcribed RNA sequence
+GAWC01079770.1_3     -          oskar_filtered.aligned.OSK_domain -                2.3   13.3   0.0       5.2   12.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq18 transcribed RNA sequence
+GAWC01079771.1_3     -          oskar_filtered.aligned.OSK_domain -                2.4   13.3   0.0       4.8   12.3   0.0   1.4   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq19 transcribed RNA sequence
+GAWC01079754.1_3     -          oskar_filtered.aligned.OSK_domain -                2.5   13.2   0.0         5   12.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq2 transcribed RNA sequence
+GAWC01079758.1_3     -          oskar_filtered.aligned.OSK_domain -                2.5   13.2   0.0       5.8   12.0   0.0   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq6 transcribed RNA sequence
+GAWC01079778.1_3     -          oskar_filtered.aligned.OSK_domain -                2.5   13.2   0.0       3.6   12.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq26 transcribed RNA sequence
+GAWC01079775.1_3     -          oskar_filtered.aligned.OSK_domain -                2.7   13.1   0.0       5.6   12.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq23 transcribed RNA sequence
+GAWC01016789.1_1     -          oskar_filtered.aligned.OSK_domain -                  3   12.9   0.2       3.2   12.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp34097_c0_seq1 transcribed RNA sequence
+GAWC01097515.1_4     -          oskar_filtered.aligned.OSK_domain -                  3   12.9   0.1       3.3   12.8   0.1   1.0   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp613433_c0_seq1 transcribed RNA sequence
+GAWC01139282.1_6     -          oskar_filtered.aligned.OSK_domain -                4.3   12.4   0.8       4.4   12.4   0.8   1.1   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp1716010_c0_seq1 transcribed RNA sequence
+GAWC01079765.1_3     -          oskar_filtered.aligned.OSK_domain -                4.4   12.4   0.0       9.5   11.3   0.0   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq13 transcribed RNA sequence
+GAWC01079764.1_3     -          oskar_filtered.aligned.OSK_domain -                4.5   12.4   0.0       9.8   11.3   0.0   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq12 transcribed RNA sequence
+GAWC01079768.1_3     -          oskar_filtered.aligned.OSK_domain -                4.6   12.3   0.0        10   11.2   0.0   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq16 transcribed RNA sequence
+GAWC01079760.1_3     -          oskar_filtered.aligned.OSK_domain -                4.9   12.2   0.0        12   11.0   0.0   1.6   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp58950_c0_seq8 transcribed RNA sequence
+GAWC01111904.1_5     -          oskar_filtered.aligned.OSK_domain -                5.7   12.0   0.5       7.8   11.6   0.5   1.3   1   1   0   1   1   1   0 TSA: Aretaon asperrimus comp891881_c0_seq1 transcribed RNA sequence
+GAWC01062002.1_2     -          oskar_filtered.aligned.OSK_domain -                6.3   11.9   2.4        13   10.9   2.4   1.5   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp57331_c0_seq2 transcribed RNA sequence
+GAWC01067959.1_4     -          oskar_filtered.aligned.OSK_domain -                  7   11.7   1.0        11   11.1   1.0   1.2   1   0   0   1   1   1   0 TSA: Aretaon asperrimus comp57942_c4_seq8 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWC01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:39 2019
+# [ok]

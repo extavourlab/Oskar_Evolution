@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEMI01026287.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-18   71.0   1.8   1.1e-18   71.0   1.8   2.8   3   0   0   3   3   3   1 TSA: Pedicia vetusta c14235.graph_c0_seq1 transcribed RNA sequence
+GEMI01026957.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   67.2   3.6   1.7e-17   67.2   3.6   3.2   3   1   0   3   3   3   1 TSA: Pedicia vetusta c14144.graph_c0_seq2 transcribed RNA sequence
+GEMI01015277.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.1e-16   61.7   5.0   1.2e-15   61.3   2.1   2.8   2   0   0   2   2   2   1 TSA: Pedicia vetusta c13002.graph_c0_seq1 transcribed RNA sequence
+GEMI01031637.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-14   57.7   2.4   1.9e-14   57.4   0.4   2.1   2   0   0   2   2   2   1 TSA: Pedicia vetusta c21257.graph_c0_seq1 transcribed RNA sequence
+GEMI01029966.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.38   14.7   0.1   1.1e+02    6.8   0.0   2.4   2   0   0   2   2   2   0 TSA: Pedicia vetusta c21520.graph_c0_seq1 transcribed RNA sequence
+GEMI01024093.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.54   14.2   0.6        15    9.6   0.1   2.9   3   0   0   3   3   3   0 TSA: Pedicia vetusta c8954.graph_c0_seq1 transcribed RNA sequence
+GEMI01003403.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.2   13.1   0.0       1.8   12.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Pedicia vetusta c4975.graph_c0_seq1 transcribed RNA sequence
+GEMI01013608.1_2     -          oskar_filtered.aligned.LOTUS_domain -                2.1   12.4   2.1       2.3   12.2   1.0   1.6   2   0   0   2   2   2   0 TSA: Pedicia vetusta c27724.graph_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEMI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEMI01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEMI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:08 2019
+# [ok]

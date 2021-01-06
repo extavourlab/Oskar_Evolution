@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYG01043449.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.2e-20   75.6   0.0   2.1e-19   73.7   0.0   2.0   2   0   0   2   2   2   1 TSA: Chondrodire chilensis breed wildtype s2706_L_8605_1_5_8_FORK, transcribed RNA sequence
+GCYG01043448.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.7e-20   75.5   0.0   1.3e-18   71.1   0.0   2.6   2   0   0   2   2   2   1 TSA: Chondrodire chilensis breed wildtype s2705_L_8605_0_11_9_FORK, transcribed RNA sequence
+GCYG01017338.1_1     -          oskar_filtered.aligned.LOTUS_domain -             0.0037   21.5   0.7    0.0073   20.5   0.7   1.5   1   0   0   1   1   1   1 TSA: Chondrodire chilensis breed wildtype C153171_4_0, transcribed RNA sequence
+GCYG01011314.1_6     -          oskar_filtered.aligned.LOTUS_domain -              0.047   18.0   0.1     0.096   16.9   0.0   1.5   1   1   1   2   2   2   0 TSA: Chondrodire chilensis breed wildtype C133689_2_0, transcribed RNA sequence
+GCYG01006841.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.055   17.7   2.5     0.087   17.1   2.5   1.5   1   1   0   1   1   1   0 TSA: Chondrodire chilensis breed wildtype C119990_10_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYG01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:45 2019
+# [ok]

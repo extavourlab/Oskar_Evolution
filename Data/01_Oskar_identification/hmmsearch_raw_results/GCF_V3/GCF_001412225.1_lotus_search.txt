@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017767950.1       -          oskar_filtered.aligned.LOTUS_domain -            7.8e-20   71.2   0.7   7.5e-14   52.0   0.0   3.1   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X4 [Nicrophorus vespilloides]
+XP_017767948.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-19   70.3   0.6   8.7e-14   51.8   0.0   2.9   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X2 [Nicrophorus vespilloides]
+XP_017767949.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-19   70.3   0.6   8.7e-14   51.8   0.0   2.9   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X3 [Nicrophorus vespilloides]
+XP_017767947.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-19   70.3   0.6   8.8e-14   51.7   0.0   2.9   2   0   0   2   2   2   2 PREDICTED: tudor domain-containing protein 5 isoform X1 [Nicrophorus vespilloides]
+XP_017780173.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-15   56.6   0.0   3.2e-14   53.2   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7B isoform X2 [Nicrophorus vespilloides]
+XP_017780165.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-15   56.6   0.0   3.2e-14   53.2   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7B isoform X1 [Nicrophorus vespilloides]
+XP_017771098.1       -          oskar_filtered.aligned.LOTUS_domain -            4.7e-11   43.0   0.1   5.9e-11   42.7   0.1   1.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108558629 [Nicrophorus vespilloides]
+XP_017767942.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-10   40.7   0.1   4.6e-10   39.8   0.1   1.6   1   1   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108556373 [Nicrophorus vespilloides]
+XP_017774585.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00019   21.8   4.4      0.57   10.6   0.0   5.6   3   2   2   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X2 [Nicrophorus vespilloides]
+XP_017774586.1       -          oskar_filtered.aligned.LOTUS_domain -             0.0002   21.7   6.4      0.43   11.0   0.1   5.9   4   2   2   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X3 [Nicrophorus vespilloides]
+XP_017774584.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00059   20.2   6.0      0.58   10.6   0.0   5.7   4   2   2   6   6   5   1 PREDICTED: meiosis arrest female protein 1 isoform X1 [Nicrophorus vespilloides]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412225.1_Nicve_v1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001412225.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001412225.1_Nicve_v1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:40 2019
+# [ok]

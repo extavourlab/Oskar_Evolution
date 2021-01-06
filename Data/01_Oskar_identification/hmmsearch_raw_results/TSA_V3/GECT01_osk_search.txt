@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECT01011720.1_6     -          oskar_filtered.aligned.OSK_domain -            2.6e-53  184.1   1.1   2.6e-53  184.1   1.1   1.9   2   0   0   2   2   2   1 TSA: Pteromalus puparum comp30880_c1 transcribed RNA sequence
+GECT01025698.1_3     -          oskar_filtered.aligned.OSK_domain -            4.3e-08   36.7   0.2   1.5e-07   34.9   0.1   2.1   1   1   0   1   1   1   1 TSA: Pteromalus puparum comp37394_c0 transcribed RNA sequence
+GECT01034476.1_5     -          oskar_filtered.aligned.OSK_domain -               0.17   15.2   0.6      0.18   15.1   0.6   1.0   1   0   0   1   1   1   0 TSA: Pteromalus puparum comp289740_c0 transcribed RNA sequence
+GECT01037379.1_2     -          oskar_filtered.aligned.OSK_domain -               0.93   12.8   3.8       0.9   12.8   3.5   1.2   1   1   0   1   1   1   0 TSA: Pteromalus puparum comp171877_c0 transcribed RNA sequence
+GECT01002537.1_6     -          oskar_filtered.aligned.OSK_domain -                1.6   12.0   3.1       1.9   11.7   3.1   1.1   1   0   0   1   1   1   0 TSA: Pteromalus puparum comp36097_c0 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECT01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECT01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECT01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:28 2019
+# [ok]

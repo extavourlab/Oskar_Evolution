@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCMR01029481.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-21   78.6   0.8   2.7e-20   75.8   0.0   2.7   2   0   0   2   2   2   1 TSA: Lonchoptera bifurcata s6012_L_31030_0_a_13_8_l_1616 transcribed RNA sequence
+GCMR01001068.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.2e-09   39.3   0.4   6.2e-09   39.3   0.4   2.2   2   0   0   2   2   2   1 TSA: Lonchoptera bifurcata C103034_a_19_0_l_1254 transcribed RNA sequence
+GCMR01001660.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.37   14.3   0.3         5   10.7   0.0   2.9   4   0   0   4   4   4   0 TSA: Lonchoptera bifurcata C104858_a_51_0_l_1836 transcribed RNA sequence
+GCMR01001980.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.74   13.3   0.1      0.84   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Lonchoptera bifurcata C39435_a_3_0_l_202 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCMR01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:13 2019
+# [ok]

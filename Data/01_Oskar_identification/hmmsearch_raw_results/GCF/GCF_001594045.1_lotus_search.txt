@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018043713.1       -          LOTUS_CONSENSUS      -            9.1e-27   93.2   0.0   2.2e-26   91.9   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108684124 isoform X2 [Atta colombica]
+XP_018056899.1       -          LOTUS_CONSENSUS      -            6.3e-21   74.4   0.0   2.6e-18   66.1   0.0   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like [Atta colombica]
+XP_018056900.1       -          LOTUS_CONSENSUS      -            6.3e-21   74.4   0.0   2.6e-18   66.1   0.0   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like [Atta colombica]
+XP_018056901.1       -          LOTUS_CONSENSUS      -            6.3e-21   74.4   0.0   2.6e-18   66.1   0.0   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like [Atta colombica]
+XP_018055254.1       -          LOTUS_CONSENSUS      -            1.8e-17   63.3   5.0   1.4e-11   44.5   0.0   5.0   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC108691835 isoform X1 [Atta colombica]
+XP_018055255.1       -          LOTUS_CONSENSUS      -            4.7e-17   62.0   2.7   1.5e-11   44.4   0.0   4.2   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC108691835 isoform X2 [Atta colombica]
+XP_018060096.1       -          LOTUS_CONSENSUS      -              0.087   13.1   0.9      0.38   11.1   0.2   2.4   2   1   1   3   3   3   0 PREDICTED: probable oligoribonuclease [Atta colombica]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594045.1_Acol1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001594045.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001594045.1_Acol1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:54 2019
+# [ok]

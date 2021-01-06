@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GESQ01041061.1_5     -          LOTUS_CONSENSUS      -               0.28   15.7   0.8      0.75   14.4   0.1   2.0   2   0   0   2   2   2   0 TSA: Eulimnogammarus ussolzewii c58981_g1_i1 transcribed RNA sequence
+GESQ01010920.1_4     -          LOTUS_CONSENSUS      -               0.89   14.2   0.0       1.3   13.6   0.0   1.3   1   1   0   1   1   1   0 TSA: Eulimnogammarus ussolzewii c32594_g1_i1 transcribed RNA sequence
+GESQ01012013.1_1     -          LOTUS_CONSENSUS      -               0.94   14.1   0.3        70    8.1   0.1   2.4   2   0   0   2   2   2   0 TSA: Eulimnogammarus ussolzewii c37183_g1_i1 transcribed RNA sequence
+GESQ01020505.1_6     -          LOTUS_CONSENSUS      -               0.96   14.0   0.0       1.7   13.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Eulimnogammarus ussolzewii c46001_g1_i1 transcribed RNA sequence
+GESQ01013277.1_2     -          LOTUS_CONSENSUS      -                2.8   12.6   0.1       3.5   12.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Eulimnogammarus ussolzewii c38687_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GESQ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GESQ.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GESQ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:51 2019
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMZ01015403.1_5     -          LOTUS_CONSENSUS      -              3e-19   72.1   1.2   9.7e-18   67.3   0.0   2.5   2   0   0   2   2   2   1 TSA: Chlorodynerus chloroticus C84659_a_7_0_l_1595 transcribed RNA sequence
+GBMZ01014744.1_4     -          LOTUS_CONSENSUS      -            4.4e-12   49.2   0.5   9.6e-07   32.1   0.0   3.0   3   0   0   3   3   3   2 TSA: Chlorodynerus chloroticus C82184_a_3_0_l_1362 transcribed RNA sequence
+GBMZ01017658.1_4     -          LOTUS_CONSENSUS      -            2.8e-05   27.4   0.4      0.59   13.5   0.0   5.8   4   1   2   6   6   6   1 TSA: Chlorodynerus chloroticus C92968_a_9_0_l_3264 transcribed RNA sequence
+GBMZ01023093.1_4     -          LOTUS_CONSENSUS      -               0.93   12.9   0.0       2.1   11.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Chlorodynerus chloroticus s5295_L_8471_0_a_6_6_l_736 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:12 2019
+# [ok]

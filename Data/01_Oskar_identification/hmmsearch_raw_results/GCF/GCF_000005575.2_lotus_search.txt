@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_313289.3          -          LOTUS_CONSENSUS      -            1.1e-38  131.2   0.0   1.8e-38  130.5   0.0   1.4   1   0   0   1   1   1   1 AGAP003545-PA [Anopheles gambiae str. PEST]
+XP_003436519.1       -          LOTUS_CONSENSUS      -            3.9e-36  122.9   0.0   6.3e-36  122.3   0.0   1.3   1   0   0   1   1   1   1 AGAP003545-PB [Anopheles gambiae str. PEST]
+XP_317505.2          -          LOTUS_CONSENSUS      -            9.4e-14   51.2   0.0   2.2e-13   50.0   0.0   1.7   1   0   0   1   1   1   1 AGAP007965-PA [Anopheles gambiae str. PEST]
+XP_564451.1          -          LOTUS_CONSENSUS      -            2.5e-10   40.2   0.0   4.3e-10   39.5   0.0   1.4   1   0   0   1   1   1   1 AGAP011090-PA, partial [Anopheles gambiae str. PEST]
+XP_001237937.1       -          LOTUS_CONSENSUS      -            4.9e-10   39.3   0.0   2.2e-09   37.2   0.0   2.1   2   0   0   2   2   2   1 AGAP007964-PA [Anopheles gambiae str. PEST]
+XP_559486.5          -          LOTUS_CONSENSUS      -              0.012   15.6   0.5       3.5    7.7   0.1   3.0   3   0   0   3   3   3   0 AGAP003720-PA [Anopheles gambiae str. PEST]
+XP_310129.4          -          LOTUS_CONSENSUS      -                7.4    6.7   9.8         4    7.5   1.0   5.6   4   0   0   4   4   4   0 AGAP009554-PA [Anopheles gambiae str. PEST]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005575.2_AgamP3_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000005575.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000005575.2_AgamP3_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:39 2019
+# [ok]

@@ -1,0 +1,36 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HAEZ01097655.1_2     -          OSK_CONSENSUS        -            4.5e-05   28.7   0.4   8.2e-05   27.8   0.4   1.3   1   0   0   1   1   1   1 TSA: Proasellus hercegovinensis, contig comp96605_c0_seq17, transcribed RNA sequence
+HAEZ01097639.1_2     -          OSK_CONSENSUS        -            6.1e-05   28.3   0.4   9.3e-05   27.7   0.4   1.2   1   0   0   1   1   1   1 TSA: Proasellus hercegovinensis, contig comp96605_c0_seq1, transcribed RNA sequence
+HAEZ01093763.1_1     -          OSK_CONSENSUS        -              0.037   19.2   0.3     0.061   18.5   0.3   1.3   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp96310_c2_seq1, transcribed RNA sequence
+HAEZ01052368.1_2     -          OSK_CONSENSUS        -              0.039   19.1   0.8     0.046   18.9   0.8   1.1   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp87922_c0_seq3, transcribed RNA sequence
+HAEZ01052366.1_2     -          OSK_CONSENSUS        -              0.041   19.1   1.9     0.047   18.9   1.9   1.1   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp87922_c0_seq1, transcribed RNA sequence
+HAEZ01093764.1_2     -          OSK_CONSENSUS        -              0.041   19.1   0.3     0.069   18.3   0.3   1.4   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp96310_c2_seq2, transcribed RNA sequence
+HAEZ01080929.1_1     -          OSK_CONSENSUS        -               0.05   18.8   0.9      0.13   17.4   0.9   1.8   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp95112_c2_seq4, transcribed RNA sequence
+HAEZ01080927.1_1     -          OSK_CONSENSUS        -              0.051   18.8   0.9      0.13   17.4   0.9   1.8   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp95112_c2_seq2, transcribed RNA sequence
+HAEZ01093766.1_1     -          OSK_CONSENSUS        -              0.054   18.7   0.4     0.093   17.9   0.4   1.4   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp96310_c2_seq4, transcribed RNA sequence
+HAEZ01093768.1_2     -          OSK_CONSENSUS        -              0.059   18.6   0.4      0.11   17.7   0.4   1.4   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp96310_c2_seq6, transcribed RNA sequence
+HAEZ01124800.1_3     -          OSK_CONSENSUS        -               0.17   17.1   0.0      0.18   17.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp968930_c0_seq1, transcribed RNA sequence
+HAEZ01016462.1_2     -          OSK_CONSENSUS        -                0.2   16.8   0.1      0.21   16.8   0.1   1.0   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp41822_c0_seq1, transcribed RNA sequence
+HAEZ01099547.1_1     -          OSK_CONSENSUS        -               0.28   16.4   1.1      0.95   14.6   1.1   1.9   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp96757_c6_seq2, transcribed RNA sequence
+HAEZ01020714.1_3     -          OSK_CONSENSUS        -               0.43   15.7   0.5      0.82   14.8   0.5   1.4   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp53647_c0_seq1, transcribed RNA sequence
+HAEZ01033573.1_2     -          OSK_CONSENSUS        -                  1   14.5   0.9         1   14.5   0.9   1.9   2   0   0   2   2   2   0 TSA: Proasellus hercegovinensis, contig comp73791_c0_seq2, transcribed RNA sequence
+HAEZ01037104.1_5     -          OSK_CONSENSUS        -                1.1   14.4   0.1       1.4   14.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp77334_c0_seq2, transcribed RNA sequence
+HAEZ01146407.1_6     -          OSK_CONSENSUS        -                1.6   13.9   0.2       1.9   13.7   0.2   1.0   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp1946644_c0_seq1, transcribed RNA sequence
+HAEZ01065100.1_5     -          OSK_CONSENSUS        -                2.8   13.1   0.0       7.2   11.8   0.0   1.7   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp92424_c0_seq4, transcribed RNA sequence
+HAEZ01065098.1_5     -          OSK_CONSENSUS        -                3.4   12.8   0.0       7.1   11.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp92424_c0_seq2, transcribed RNA sequence
+HAEZ01052191.1_5     -          OSK_CONSENSUS        -                3.5   12.8   1.8   2.2e+02    7.0   0.2   2.3   2   0   0   2   2   2   0 TSA: Proasellus hercegovinensis, contig comp87825_c1_seq3, transcribed RNA sequence
+HAEZ01023772.1_4     -          OSK_CONSENSUS        -                3.6   12.7   0.0       3.8   12.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp62317_c1_seq1, transcribed RNA sequence
+HAEZ01143952.1_2     -          OSK_CONSENSUS        -                3.8   12.7   0.0       3.8   12.7   0.0   1.0   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp1666303_c0_seq1, transcribed RNA sequence
+HAEZ01082213.1_5     -          OSK_CONSENSUS        -                6.9   11.8   0.7       9.3   11.4   0.7   1.1   1   0   0   1   1   1   0 TSA: Proasellus hercegovinensis, contig comp95227_c0_seq5, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEZ.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HAEZ.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HAEZ.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 13:00:05 2019
+# [ok]

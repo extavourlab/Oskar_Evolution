@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDJM01009268.1_3     -          oskar_filtered.aligned.OSK_domain -              2e-54  187.8   1.9   2.2e-54  187.6   0.0   2.0   1   1   1   2   2   2   1 TSA: Cotesia rubecula comp44485_c0_seq2 transcribed RNA sequence
+GDJM01010397.1_6     -          oskar_filtered.aligned.OSK_domain -                  1   12.6   0.9       1.7   11.9   0.9   1.4   1   0   0   1   1   1   0 TSA: Cotesia rubecula comp45778_c0_seq1 transcribed RNA sequence
+GDJM01000665.1_2     -          oskar_filtered.aligned.OSK_domain -                3.5   10.9   3.8       4.3   10.6   3.8   1.2   1   0   0   1   1   1   0 TSA: Cotesia rubecula comp19030_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDJM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDJM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDJM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:47:07 2019
+# [ok]

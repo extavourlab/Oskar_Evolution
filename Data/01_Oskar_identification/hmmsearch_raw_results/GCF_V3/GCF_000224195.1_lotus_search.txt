@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017123986.1       -          oskar_filtered.aligned.LOTUS_domain -            5.3e-25   88.1   6.9   8.3e-24   84.2   0.2   4.4   4   1   1   5   5   5   1 PREDICTED: maternal effect protein oskar [Drosophila elegans]
+XP_017133003.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-13   50.5   0.0   6.5e-13   49.2   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108149737 isoform X2 [Drosophila elegans]
+XP_017133002.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-13   50.5   0.0   7.1e-13   49.1   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108149737 isoform X1 [Drosophila elegans]
+XP_017123459.1       -          oskar_filtered.aligned.LOTUS_domain -            8.1e-13   48.9   0.1   3.1e-12   47.1   0.1   2.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108143503 isoform X4 [Drosophila elegans]
+XP_017123458.1       -          oskar_filtered.aligned.LOTUS_domain -            8.2e-13   48.9   0.1   3.1e-12   47.1   0.1   2.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108143503 isoform X3 [Drosophila elegans]
+XP_017123455.1       -          oskar_filtered.aligned.LOTUS_domain -            1.2e-12   48.4   0.1   4.1e-12   46.7   0.1   2.0   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A isoform X1 [Drosophila elegans]
+XP_017120738.1       -          oskar_filtered.aligned.LOTUS_domain -            5.1e-05   23.9   0.0   6.2e-05   23.6   0.0   1.1   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC108141753 [Drosophila elegans]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000224195.1_Dele_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000224195.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000224195.1_Dele_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:38 2019
+# [ok]

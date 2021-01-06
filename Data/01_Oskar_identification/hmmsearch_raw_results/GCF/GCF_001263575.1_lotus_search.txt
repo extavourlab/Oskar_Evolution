@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_015518618.1       -          LOTUS_CONSENSUS      -            1.1e-26   92.8   0.0   4.4e-26   90.9   0.0   2.1   2   0   0   2   2   2   1 PREDICTED: maternal effect protein oskar-like [Neodiprion lecontei]
+XP_015518204.1       -          LOTUS_CONSENSUS      -            1.5e-22   79.6   0.4   3.2e-19   68.9   0.0   3.7   4   0   0   4   4   4   1 PREDICTED: tudor domain-containing protein 7 [Neodiprion lecontei]
+XP_015519667.1       -          LOTUS_CONSENSUS      -              2e-20   72.8   0.0   1.4e-14   54.0   0.0   3.9   3   0   0   3   3   3   3 PREDICTED: tudor domain-containing protein 5-like [Neodiprion lecontei]
+XP_015521589.1       -          LOTUS_CONSENSUS      -             0.0021   18.2   0.0        23    5.2   0.0   5.3   3   1   2   6   6   6   0 PREDICTED: meiosis arrest female protein 1 isoform X3 [Neodiprion lecontei]
+XP_015521591.1       -          LOTUS_CONSENSUS      -             0.0021   18.2   0.0        23    5.2   0.0   5.3   3   1   2   6   6   6   0 PREDICTED: meiosis arrest female protein 1 isoform X3 [Neodiprion lecontei]
+XP_015521588.1       -          LOTUS_CONSENSUS      -             0.0059   16.8   0.0        31    4.9   0.0   5.2   3   1   2   6   6   6   0 PREDICTED: meiosis arrest female protein 1 isoform X2 [Neodiprion lecontei]
+XP_015521587.1       -          LOTUS_CONSENSUS      -              0.006   16.7   0.0        31    4.8   0.0   5.2   3   1   2   6   6   6   0 PREDICTED: meiosis arrest female protein 1 isoform X1 [Neodiprion lecontei]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263575.1_Nlec1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001263575.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001263575.1_Nlec1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:49 2019
+# [ok]

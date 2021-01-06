@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAZB02088100.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.7e-23   86.6   3.3   2.2e-16   64.8   0.1   3.2   3   0   0   3   3   2   2 TSA: Lepicerus sp. AD-2013 s28553_L_101277_0_a_23_3_l_2888 transcribed RNA sequence
+GAZB02067363.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.9e-16   64.4   0.0   2.9e-16   64.4   0.0   3.9   4   1   0   4   4   3   1 TSA: Lepicerus sp. AD-2013 C449646_a_21_0_l_2387 transcribed RNA sequence
+GAZB02063668.1_4     -          oskar_filtered.aligned.LOTUS_domain -             0.0022   23.1   0.6       0.7   15.0   0.0   3.2   1   1   1   3   3   3   1 TSA: Lepicerus sp. AD-2013 C431148_a_9_0_l_845 transcribed RNA sequence
+GAZB02011556.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.18   16.9   0.1      0.63   15.2   0.0   1.8   2   0   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 C263833_a_6_0_l_237 transcribed RNA sequence
+GAZB02041856.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.25   16.5   0.2       0.8   14.9   0.0   1.7   1   1   1   2   2   2   0 TSA: Lepicerus sp. AD-2013 C340394_a_9_0_l_290 transcribed RNA sequence
+GAZB02061581.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.38   15.9   5.8       9.1   11.5   3.4   2.6   2   1   0   2   2   2   0 TSA: Lepicerus sp. AD-2013 C421075_a_7_0_l_677 transcribed RNA sequence
+GAZB02087961.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.2   14.3   0.1       2.9   13.1   0.1   1.7   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 s28428_L_98946_0_a_18_2_l_2097 transcribed RNA sequence
+GAZB02019252.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.1   0.4       1.6   13.9   0.4   1.2   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C281516_a_9_0_l_243 transcribed RNA sequence
+GAZB02035087.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.4   14.0   0.7        11   11.1   0.7   1.9   1   1   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C317778_a_8_0_l_256 transcribed RNA sequence
+GAZB02052786.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.6   13.9   0.0       2.5   13.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C383143_a_3_0_l_411 transcribed RNA sequence
+GAZB02006992.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.8   13.8   0.2       2.6   13.2   0.1   1.3   1   1   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 C252302_a_3_0_l_230 transcribed RNA sequence
+GAZB02065777.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.2   0.2   2.9e+02    6.7   0.1   2.9   3   0   0   3   3   3   0 TSA: Lepicerus sp. AD-2013 C441583_a_59_0_l_1207 transcribed RNA sequence
+GAZB02087353.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.7   13.1   0.1       5.5   12.2   0.1   1.5   1   0   0   1   1   1   0 TSA: Lepicerus sp. AD-2013 s27881_L_93423_0_a_32_0_l_1236 transcribed RNA sequence
+GAZB02087961.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.6   12.8   0.4   4.1e+02    6.1   0.1   3.0   3   1   0   3   3   3   0 TSA: Lepicerus sp. AD-2013 s28428_L_98946_0_a_18_2_l_2097 transcribed RNA sequence
+GAZB02078229.1_5     -          oskar_filtered.aligned.LOTUS_domain -                3.9   12.7   0.2        30    9.8   0.0   2.0   1   1   1   2   2   2   0 TSA: Lepicerus sp. AD-2013 s19654_L_28933_0_a_14_8_l_576 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAZB02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAZB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:11:49 2019
+# [ok]

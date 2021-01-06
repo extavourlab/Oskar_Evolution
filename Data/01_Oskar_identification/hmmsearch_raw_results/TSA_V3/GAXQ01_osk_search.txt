@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXQ01021848.1_4     -          oskar_filtered.aligned.OSK_domain -                  1   13.0   0.5       7.3   10.2   0.2   2.2   2   0   0   2   2   2   0 TSA: Pseudomasaris vespoides comp10186_c2_seq1 transcribed RNA sequence
+GAXQ01023803.1_3     -          oskar_filtered.aligned.OSK_domain -                1.5   12.4   0.4       3.3   11.4   0.4   1.5   1   0   0   1   1   1   0 TSA: Pseudomasaris vespoides comp10309_c0_seq12 transcribed RNA sequence
+GAXQ01023800.1_3     -          oskar_filtered.aligned.OSK_domain -                1.6   12.4   0.4       3.5   11.3   0.4   1.6   1   0   0   1   1   1   0 TSA: Pseudomasaris vespoides comp10309_c0_seq9 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:40 2019
+# [ok]

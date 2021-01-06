@@ -1,0 +1,37 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEDB01027857.1_5     -          oskar_filtered.aligned.LOTUS_domain -            4.3e-30  109.5   0.2   1.2e-29  108.1   0.2   1.8   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028536 transcribed RNA sequence
+GEDB01017143.1_4     -          oskar_filtered.aligned.LOTUS_domain -              7e-22   83.1   3.8   2.5e-20   78.2   0.0   3.1   3   0   0   3   3   3   1 TSA: Polistes dominula PdomTSAr1.2-017163 transcribed RNA sequence
+GEDB01017144.1_6     -          oskar_filtered.aligned.LOTUS_domain -            2.6e-21   81.3   3.7   5.1e-20   77.2   0.0   3.2   3   0   0   3   3   2   1 TSA: Polistes dominula PdomTSAr1.2-017164 transcribed RNA sequence
+GEDB01027856.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-17   69.4   0.0   3.7e-17   68.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028535 transcribed RNA sequence
+GEDB01027858.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-17   69.1   0.0   4.5e-17   67.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028537 transcribed RNA sequence
+GEDB01021955.1_2     -          oskar_filtered.aligned.LOTUS_domain -            6.3e-13   54.4   1.1   2.6e-07   36.4   0.0   4.6   3   1   0   3   3   3   2 TSA: Polistes dominula PdomTSAr1.2-021975 transcribed RNA sequence
+GEDB01021954.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-08   40.6  19.3   2.3e-07   36.6   0.0   6.2   5   2   0   5   5   4   2 TSA: Polistes dominula PdomTSAr1.2-021974 transcribed RNA sequence
+GEDB01014340.1_2     -          oskar_filtered.aligned.LOTUS_domain -              1e-06   34.5   0.1       3.5   13.5   0.0   6.2   2   1   4   6   6   6   1 TSA: Polistes dominula PdomTSAr1.2-014360 transcribed RNA sequence
+GEDB01014341.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-06   32.9   0.1       4.4   13.2   0.0   6.0   2   1   4   6   6   6   1 TSA: Polistes dominula PdomTSAr1.2-014361 transcribed RNA sequence
+GEDB01014339.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-06   32.9   0.0       4.4   13.2   0.0   6.1   2   1   4   6   6   6   1 TSA: Polistes dominula PdomTSAr1.2-014359 transcribed RNA sequence
+GEDB01014337.1_2     -          oskar_filtered.aligned.LOTUS_domain -            3.5e-06   32.8   0.0       4.5   13.1   0.0   6.1   2   1   4   6   6   6   1 TSA: Polistes dominula PdomTSAr1.2-014357 transcribed RNA sequence
+GEDB01014338.1_1     -          oskar_filtered.aligned.LOTUS_domain -            4.8e-06   32.3   0.1       4.7   13.1   0.0   5.9   2   1   4   6   6   6   1 TSA: Polistes dominula PdomTSAr1.2-014358 transcribed RNA sequence
+GEDB01014342.1_2     -          oskar_filtered.aligned.LOTUS_domain -            5.3e-06   32.2   0.1       5.2   12.9   0.0   6.0   2   1   3   5   5   5   1 TSA: Polistes dominula PdomTSAr1.2-014362 transcribed RNA sequence
+GEDB01027856.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-05   31.1   0.1   2.7e-05   29.9   0.1   1.7   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028535 transcribed RNA sequence
+GEDB01027858.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-05   30.8   0.1   3.1e-05   29.7   0.1   1.6   1   0   0   1   1   1   1 TSA: Polistes dominula PdomTSAr1.2-028537 transcribed RNA sequence
+GEDB01016954.1_2     -          oskar_filtered.aligned.LOTUS_domain -                0.8   15.5   1.3        37   10.2   0.2   3.0   2   0   0   2   2   2   0 TSA: Polistes dominula PdomTSAr1.2-016974 transcribed RNA sequence
+GEDB01064626.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.1   15.1   1.0         2   14.3   1.0   1.4   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-066600 transcribed RNA sequence
+GEDB01029739.1_2     -          oskar_filtered.aligned.LOTUS_domain -                4.2   13.2   0.2       4.4   13.2   0.2   1.1   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-030547 transcribed RNA sequence
+GEDB01006267.1_1     -          oskar_filtered.aligned.LOTUS_domain -                4.4   13.2   0.4        27   10.6   0.1   2.3   2   0   0   2   2   2   0 TSA: Polistes dominula PdomTSAr1.2-006283 transcribed RNA sequence
+GEDB01017995.1_4     -          oskar_filtered.aligned.LOTUS_domain -                4.5   13.1   0.8        64    9.4   0.0   3.1   4   0   0   4   4   3   0 TSA: Polistes dominula PdomTSAr1.2-018015 transcribed RNA sequence
+GEDB01006265.1_1     -          oskar_filtered.aligned.LOTUS_domain -                5.5   12.9   0.5        31   10.5   0.1   2.3   2   0   0   2   2   2   0 TSA: Polistes dominula PdomTSAr1.2-006281 transcribed RNA sequence
+GEDB01006266.1_2     -          oskar_filtered.aligned.LOTUS_domain -                5.6   12.8   0.5        31   10.5   0.1   2.3   2   0   0   2   2   2   0 TSA: Polistes dominula PdomTSAr1.2-006282 transcribed RNA sequence
+GEDB01083927.1_2     -          oskar_filtered.aligned.LOTUS_domain -                8.5   12.2   4.7        16   11.4   4.7   1.4   1   0   0   1   1   1   0 TSA: Polistes dominula PdomTSAr1.2-085966 transcribed RNA sequence
+GEDB01094147.1_5     -          oskar_filtered.aligned.LOTUS_domain -                9.4   12.1   2.7       9.8   12.1   1.4   1.7   2   0   0   2   2   1   0 TSA: Polistes dominula PdomTSAr1.2-096239 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEDB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEDB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:50 2019
+# [ok]

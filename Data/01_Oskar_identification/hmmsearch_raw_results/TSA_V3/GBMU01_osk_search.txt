@@ -1,0 +1,20 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMU01042337.1_1     -          oskar_filtered.aligned.OSK_domain -            1.9e-60  207.5   0.5   1.9e-60  207.5   0.5   1.6   2   0   0   2   2   2   1 TSA: Stephanus serrator s6391_L_21593_1_a_21_6_l_1389 transcribed RNA sequence
+GBMU01042336.1_3     -          oskar_filtered.aligned.OSK_domain -            1.8e-25   93.5   0.5   2.5e-25   93.1   0.5   1.2   1   0   0   1   1   1   1 TSA: Stephanus serrator s6390_L_21593_0_a_12_3_l_839 transcribed RNA sequence
+GBMU01001787.1_1     -          oskar_filtered.aligned.OSK_domain -               0.34   14.4   0.2       0.4   14.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Stephanus serrator C104763_a_5_0_l_552 transcribed RNA sequence
+GBMU01032664.1_3     -          oskar_filtered.aligned.OSK_domain -               0.79   13.2   3.5      0.48   13.9   1.7   1.4   1   1   0   1   1   1   0 TSA: Stephanus serrator C90266_a_4_0_l_405 transcribed RNA sequence
+GBMU01028309.1_5     -          oskar_filtered.aligned.OSK_domain -               0.95   12.9   0.0      0.95   12.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Stephanus serrator C78811_a_4_0_l_327 transcribed RNA sequence
+GBMU01002124.1_5     -          oskar_filtered.aligned.OSK_domain -                1.2   12.6   1.4         2   11.9   1.4   1.2   1   0   0   1   1   1   0 TSA: Stephanus serrator C105657_a_29_0_l_565 transcribed RNA sequence
+GBMU01043251.1_2     -          oskar_filtered.aligned.OSK_domain -                1.5   12.3   0.4         6   10.3   0.1   2.0   2   0   0   2   2   2   0 TSA: Stephanus serrator s7214_L_30182_0_a_6_8_l_1815 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:50:46 2019
+# [ok]

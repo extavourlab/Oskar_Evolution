@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBV01002100.1_1     -          OSK_CONSENSUS        -            4.8e-29  104.6   0.1   6.3e-29  104.2   0.1   1.1   1   0   0   1   1   1   1 TSA: Mantophasma sp. AD-2014 breed wildtype C106634_a_17_0_l_645, transcribed RNA sequence
+GDBV01001040.1_1     -          OSK_CONSENSUS        -            1.9e-21   79.9   0.0   2.5e-21   79.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Mantophasma sp. AD-2014 breed wildtype C103253_a_4_0_l_583, transcribed RNA sequence
+GDBV01000138.1_1     -          OSK_CONSENSUS        -            2.1e-17   66.8   0.0     3e-17   66.3   0.0   1.2   1   0   0   1   1   1   1 TSA: Mantophasma sp. AD-2014 breed wildtype C100453_a_4_0_l_541, transcribed RNA sequence
+GDBV01024380.1_4     -          OSK_CONSENSUS        -               0.31   14.2   0.1      0.36   14.0   0.1   1.2   1   0   0   1   1   1   0 TSA: Mantophasma sp. AD-2014 breed wildtype C86083_a_4_0_l_384, transcribed RNA sequence
+GDBV01018105.1_6     -          OSK_CONSENSUS        -               0.54   13.4   0.1      0.63   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Mantophasma sp. AD-2014 breed wildtype C67885_a_4_0_l_272, transcribed RNA sequence
+GDBV01003801.1_3     -          OSK_CONSENSUS        -               0.91   12.7   0.0       1.3   12.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Mantophasma sp. AD-2014 breed wildtype C112104_a_15_0_l_770, transcribed RNA sequence
+GDBV01037159.1_4     -          OSK_CONSENSUS        -                2.4   11.4   0.1       2.8   11.1   0.1   1.1   1   0   0   1   1   1   0 TSA: Mantophasma sp. AD-2014 breed wildtype s986_L_1117_1_a_4_4_l_275, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBV01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBV01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBV01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:02:22 2019
+# [ok]

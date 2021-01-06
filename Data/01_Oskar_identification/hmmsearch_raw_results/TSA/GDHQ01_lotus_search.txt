@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDHQ01076878.1_2     -          LOTUS_CONSENSUS      -            2.4e-24   90.7   0.0   7.2e-24   89.2   0.0   1.9   1   0   0   1   1   1   1 TSA: Polistes metricus PmetTSAr2.0-077047 transcribed RNA sequence
+GDHQ01046517.1_1     -          LOTUS_CONSENSUS      -            1.7e-21   81.5   1.3   6.6e-18   70.1   0.1   3.0   2   0   0   2   2   2   2 TSA: Polistes metricus PmetTSAr2.0-046606 transcribed RNA sequence
+GDHQ01046518.1_2     -          LOTUS_CONSENSUS      -            2.9e-21   80.8   1.3   8.3e-18   69.7   0.1   2.9   2   0   0   2   2   2   2 TSA: Polistes metricus PmetTSAr2.0-046607 transcribed RNA sequence
+GDHQ01046519.1_2     -          LOTUS_CONSENSUS      -            3.2e-21   80.7   1.3   8.3e-18   69.8   0.1   2.8   2   0   0   2   2   2   2 TSA: Polistes metricus PmetTSAr2.0-046608 transcribed RNA sequence
+GDHQ01046521.1_2     -          LOTUS_CONSENSUS      -            2.9e-18   71.2   0.1   8.1e-18   69.8   0.1   1.8   1   0   0   1   1   1   1 TSA: Polistes metricus PmetTSAr2.0-046610 transcribed RNA sequence
+GDHQ01061033.1_6     -          LOTUS_CONSENSUS      -            1.2e-14   59.7   4.4   4.2e-08   38.6   0.1   4.3   3   0   0   3   3   3   2 TSA: Polistes metricus PmetTSAr2.0-061178 transcribed RNA sequence
+GDHQ01061031.1_6     -          LOTUS_CONSENSUS      -            1.4e-14   59.4   4.7   4.2e-08   38.6   0.1   4.3   3   0   0   3   3   3   2 TSA: Polistes metricus PmetTSAr2.0-061176 transcribed RNA sequence
+GDHQ01076874.1_5     -          LOTUS_CONSENSUS      -            2.2e-13   55.6   0.0   5.9e-13   54.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Polistes metricus PmetTSAr2.0-077043 transcribed RNA sequence
+GDHQ01061032.1_4     -          LOTUS_CONSENSUS      -            1.4e-12   53.0  10.1   8.4e-08   37.7   0.1   5.2   4   0   0   4   4   4   2 TSA: Polistes metricus PmetTSAr2.0-061177 transcribed RNA sequence
+GDHQ01046520.1_1     -          LOTUS_CONSENSUS      -            2.3e-10   45.9   0.3   2.6e-10   45.7   0.3   1.1   1   0   0   1   1   1   1 TSA: Polistes metricus PmetTSAr2.0-046609 transcribed RNA sequence
+GDHQ01070173.1_5     -          LOTUS_CONSENSUS      -            0.00021   26.8   0.0       2.8   13.5   0.0   5.7   1   1   3   4   4   4   1 TSA: Polistes metricus PmetTSAr2.0-070329 transcribed RNA sequence
+GDHQ01070174.1_4     -          LOTUS_CONSENSUS      -            0.00026   26.5   0.0       2.8   13.6   0.0   5.6   1   1   4   5   5   5   1 TSA: Polistes metricus PmetTSAr2.0-070330 transcribed RNA sequence
+GDHQ01070176.1_6     -          LOTUS_CONSENSUS      -            0.00028   26.4   0.0       2.8   13.5   0.0   5.6   1   1   3   4   4   4   1 TSA: Polistes metricus PmetTSAr2.0-070332 transcribed RNA sequence
+GDHQ01070177.1_4     -          LOTUS_CONSENSUS      -             0.0003   26.3   0.0       2.8   13.6   0.0   5.6   2   2   3   5   5   5   1 TSA: Polistes metricus PmetTSAr2.0-070333 transcribed RNA sequence
+GDHQ01070172.1_4     -          LOTUS_CONSENSUS      -            0.00034   26.1   0.0       3.1   13.4   0.0   5.6   1   1   5   6   6   6   1 TSA: Polistes metricus PmetTSAr2.0-070328 transcribed RNA sequence
+GDHQ01076874.1_4     -          LOTUS_CONSENSUS      -             0.0017   23.9   0.1    0.0093   21.5   0.0   2.4   2   0   0   2   2   1   1 TSA: Polistes metricus PmetTSAr2.0-077043 transcribed RNA sequence
+GDHQ01093366.1_5     -          LOTUS_CONSENSUS      -                2.2   13.9   0.1       2.6   13.7   0.1   1.2   1   1   0   1   1   1   0 TSA: Polistes metricus PmetTSAr2.0-093563 transcribed RNA sequence
+GDHQ01113506.1_3     -          LOTUS_CONSENSUS      -                  4   13.1   0.0       4.6   12.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Polistes metricus PmetTSAr2.0-113745 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDHQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDHQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDHQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:53 2019
+# [ok]

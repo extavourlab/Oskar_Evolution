@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBPE01008868.1_5     -          oskar_filtered.aligned.OSK_domain -               0.23   14.0   0.0      0.84   12.1   0.0   1.9   1   1   0   1   1   1   0 TSA: Hyposoter didymator C64152_a_3_0_l_493 transcribed RNA sequence
+GBPE01007196.1_4     -          oskar_filtered.aligned.OSK_domain -               0.32   13.5   0.2      0.67   12.5   0.1   1.6   1   1   0   1   1   1   0 TSA: Hyposoter didymator C58141_a_7_0_l_400 transcribed RNA sequence
+GBPE01021701.1_3     -          oskar_filtered.aligned.OSK_domain -               0.63   12.5   0.3         1   11.9   0.3   1.4   1   0   0   1   1   1   0 TSA: Hyposoter didymator s6352_L_18505_0_a_9_6_l_1523 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBPE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBPE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:33 2019
+# [ok]

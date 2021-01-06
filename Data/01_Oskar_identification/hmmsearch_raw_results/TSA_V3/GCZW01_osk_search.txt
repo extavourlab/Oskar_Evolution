@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCZW01020968.1_6     -          oskar_filtered.aligned.OSK_domain -            1.6e-06   32.5   0.0   1.9e-06   32.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unigene5625_N1 transcribed RNA sequence
+GCZW01037246.1_6     -          oskar_filtered.aligned.OSK_domain -             0.0015   22.8   0.1    0.0015   22.8   0.1   1.1   1   0   0   1   1   1   1 TSA: Bemisia tabaci Unigene11888_N1 transcribed RNA sequence
+GCZW01017768.1_3     -          oskar_filtered.aligned.OSK_domain -              0.033   18.4   0.0     0.064   17.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL5456.Contig3_N1 transcribed RNA sequence
+GCZW01059009.1_3     -          oskar_filtered.aligned.OSK_domain -               0.75   14.0   0.2      0.88   13.7   0.2   1.1   1   0   0   1   1   1   0 TSA: Bemisia tabaci Unigene15220_N1 transcribed RNA sequence
+GCZW01057272.1_1     -          oskar_filtered.aligned.OSK_domain -                2.3   12.4   0.2       4.6   11.4   0.2   1.5   1   1   0   1   1   1   0 TSA: Bemisia tabaci CL1158.Contig5_N1 transcribed RNA sequence
+GCZW01042926.1_3     -          oskar_filtered.aligned.OSK_domain -                2.3   12.4   1.5        43    8.2   0.1   2.1   1   1   0   2   2   2   0 TSA: Bemisia tabaci Unigene7614_N1 transcribed RNA sequence
+GCZW01039568.1_5     -          oskar_filtered.aligned.OSK_domain -                2.4   12.3   0.0         7   10.8   0.0   1.7   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL1071.Contig3_N1 transcribed RNA sequence
+GCZW01051580.1_5     -          oskar_filtered.aligned.OSK_domain -                2.7   12.1   0.0       7.6   10.7   0.0   1.7   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL1071.Contig6_N1 transcribed RNA sequence
+GCZW01034395.1_5     -          oskar_filtered.aligned.OSK_domain -                2.8   12.1   0.0       7.9   10.6   0.0   1.7   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL1071.Contig4_N1 transcribed RNA sequence
+GCZW01065800.1_5     -          oskar_filtered.aligned.OSK_domain -                  3   12.0   0.0       7.1   10.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL1071.Contig5_N1 transcribed RNA sequence
+GCZW01021906.1_5     -          oskar_filtered.aligned.OSK_domain -                3.3   11.9   0.0       7.8   10.7   0.0   1.5   1   0   0   1   1   1   0 TSA: Bemisia tabaci CL1071.Contig2_N1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCZW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCZW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:13:30 2019
+# [ok]

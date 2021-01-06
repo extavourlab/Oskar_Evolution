@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBNG01006465.1_1     -          OSK_CONSENSUS        -              3e-58  199.4   0.3   7.7e-58  198.1   0.3   1.7   1   0   0   1   1   1   1 TSA: Vespula germanica C126572_a_11_0_l_1621 transcribed RNA sequence
+GBNG01016159.1_4     -          OSK_CONSENSUS        -               0.55   13.3   0.2      0.64   13.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Vespula germanica C73931_a_3_0_l_307 transcribed RNA sequence
+GBNG01017096.1_4     -          OSK_CONSENSUS        -               0.75   12.8   1.8      0.82   12.7   1.8   1.1   1   0   0   1   1   1   0 TSA: Vespula germanica C77322_a_3_0_l_328 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBNG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBNG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:23 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXP01004869.1_3     -          OSK_CONSENSUS        -               0.46   14.1   0.5      0.49   14.0   0.5   1.1   1   0   0   1   1   1   0 TSA: Sphaeropthalma orestes comp5396_c1_seq1 transcribed RNA sequence
+GAXP01018549.1_3     -          OSK_CONSENSUS        -               0.69   13.5   0.0       1.5   12.5   0.0   1.5   1   0   0   1   1   1   0 TSA: Sphaeropthalma orestes comp11885_c0_seq5 transcribed RNA sequence
+GAXP01018546.1_3     -          OSK_CONSENSUS        -               0.74   13.4   0.0       1.4   12.6   0.0   1.4   1   0   0   1   1   1   0 TSA: Sphaeropthalma orestes comp11885_c0_seq2 transcribed RNA sequence
+GAXP01003657.1_2     -          OSK_CONSENSUS        -                  1   13.0   3.6       1.3   12.6   2.9   1.5   1   1   0   1   1   1   0 TSA: Sphaeropthalma orestes comp4358_c0_seq1 transcribed RNA sequence
+GAXP01018547.1_2     -          OSK_CONSENSUS        -                1.8   12.2   0.0       3.5   11.2   0.0   1.4   1   0   0   1   1   1   0 TSA: Sphaeropthalma orestes comp11885_c0_seq3 transcribed RNA sequence
+GAXP01018545.1_2     -          OSK_CONSENSUS        -                1.9   12.1   0.0       3.4   11.3   0.0   1.3   1   0   0   1   1   1   0 TSA: Sphaeropthalma orestes comp11885_c0_seq1 transcribed RNA sequence
+GAXP01012423.1_1     -          OSK_CONSENSUS        -                3.4   11.3   0.5        11    9.7   0.5   1.7   1   1   1   2   2   2   0 TSA: Sphaeropthalma orestes comp9857_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXP01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXP01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXP01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:47 2019
+# [ok]

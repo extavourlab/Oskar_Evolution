@@ -1,0 +1,32 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014275530.1       -          LOTUS_CONSENSUS      -              2e-21   76.6   7.5     9e-11   42.4   0.0   4.7   4   1   1   5   5   3   3 tudor domain-containing protein 5-like isoform X2 [Halyomorpha halys]
+XP_014274583.1       -          LOTUS_CONSENSUS      -            1.4e-20   73.9   0.2   3.4e-20   72.7   0.2   1.7   1   0   0   1   1   1   1 tudor domain-containing protein 7-like [Halyomorpha halys]
+XP_014275529.1       -          LOTUS_CONSENSUS      -            2.6e-11   44.2   5.8   7.1e-05   23.5   0.1   4.9   3   1   1   4   4   3   3 tudor domain-containing protein 5-like isoform X1 [Halyomorpha halys]
+XP_014290031.1       -          LOTUS_CONSENSUS      -            4.4e-11   43.4   0.0    0.0039   18.0   0.0   5.3   1   1   3   4   4   4   3 meiosis regulator and mRNA stability factor 1 isoform X3 [Halyomorpha halys]
+XP_014290030.1       -          LOTUS_CONSENSUS      -            4.6e-11   43.4   0.0    0.0039   18.0   0.0   5.3   1   1   3   4   4   4   3 meiosis regulator and mRNA stability factor 1 isoform X2 [Halyomorpha halys]
+XP_014290029.1       -          LOTUS_CONSENSUS      -            7.7e-11   42.7   0.0    0.0044   17.8   0.0   5.2   1   1   3   4   4   4   3 meiosis regulator and mRNA stability factor 1 isoform X1 [Halyomorpha halys]
+XP_014275531.1       -          LOTUS_CONSENSUS      -            1.9e-10   41.4   9.6   5.8e-05   23.8   0.1   5.0   4   1   1   5   5   3   3 tudor domain-containing protein 5-like isoform X3 [Halyomorpha halys]
+XP_014281427.1       -          LOTUS_CONSENSUS      -            1.3e-05   25.9   0.0   1.5e-05   25.7   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X3 [Halyomorpha halys]
+XP_014281435.1       -          LOTUS_CONSENSUS      -            1.3e-05   25.9   0.0   1.5e-05   25.7   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X3 [Halyomorpha halys]
+XP_014281444.1       -          LOTUS_CONSENSUS      -            1.3e-05   25.9   0.0   1.5e-05   25.7   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X3 [Halyomorpha halys]
+XP_014281419.1       -          LOTUS_CONSENSUS      -            1.4e-05   25.8   0.0   1.9e-05   25.4   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X2 [Halyomorpha halys]
+XP_014281410.1       -          LOTUS_CONSENSUS      -            1.5e-05   25.7   0.0   1.9e-05   25.3   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC106684071 isoform X1 [Halyomorpha halys]
+XP_024215016.1       -          LOTUS_CONSENSUS      -            0.00097   19.9   0.0    0.0014   19.4   0.0   1.4   1   1   0   1   1   1   1 uncharacterized protein LOC112210301 [Halyomorpha halys]
+XP_024214869.1       -          LOTUS_CONSENSUS      -             0.0045   17.8   0.0    0.0075   17.1   0.0   1.4   1   0   0   1   1   1   1 putative uncharacterized protein FLJ37770 [Halyomorpha halys]
+XP_014285882.1       -          LOTUS_CONSENSUS      -              0.083   13.7   1.4      0.44   11.4   1.4   2.3   1   1   0   1   1   1   0 putative fatty acyl-CoA reductase CG5065 isoform X2 [Halyomorpha halys]
+XP_014285883.1       -          LOTUS_CONSENSUS      -              0.083   13.7   1.5      0.45   11.3   1.4   2.3   1   1   0   1   1   1   0 putative fatty acyl-CoA reductase CG5065 isoform X3 [Halyomorpha halys]
+XP_024214900.1       -          LOTUS_CONSENSUS      -              0.083   13.7   1.5      0.45   11.3   1.4   2.3   1   1   0   1   1   1   0 putative fatty acyl-CoA reductase CG5065 isoform X3 [Halyomorpha halys]
+XP_014285881.1       -          LOTUS_CONSENSUS      -              0.084   13.7   1.4      0.45   11.4   1.4   2.3   1   1   0   1   1   1   0 putative fatty acyl-CoA reductase CG5065 isoform X1 [Halyomorpha halys]
+XP_014283567.1       -          LOTUS_CONSENSUS      -               0.65   10.8   4.4       1.4    9.8   0.2   3.2   2   1   1   3   3   2   0 uncharacterized protein LOC106685426 [Halyomorpha halys]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000696795.2_Hhal_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000696795.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000696795.2_Hhal_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:51 2019
+# [ok]

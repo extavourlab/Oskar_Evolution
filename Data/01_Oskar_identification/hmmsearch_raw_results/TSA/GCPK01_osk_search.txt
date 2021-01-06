@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPK01043454.1_2     -          OSK_CONSENSUS        -            1.4e-29  107.1   0.3   2.5e-29  106.3   0.0   1.5   2   0   0   2   2   2   1 TSA: Hymenopus coronatus breed breeding C216098_a_3_0_l_952, transcribed RNA sequence
+GCPK01053962.1_5     -          OSK_CONSENSUS        -              0.015   19.3   0.4     0.036   18.0   0.1   1.7   2   0   0   2   2   2   0 TSA: Hymenopus coronatus breed breeding s2094_L_3628_2_a_4_6_l_1094, transcribed RNA sequence
+GCPK01060971.1_3     -          OSK_CONSENSUS        -              0.021   18.8   1.4     0.042   17.8   0.2   2.0   2   0   0   2   2   2   0 TSA: Hymenopus coronatus breed breeding s8466_L_26337_0_a_6_0_l_1346, transcribed RNA sequence
+GCPK01037359.1_3     -          OSK_CONSENSUS        -                0.1   16.5   0.2      0.16   15.9   0.2   1.3   1   0   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding C198547_a_5_0_l_613, transcribed RNA sequence
+GCPK01047916.1_6     -          OSK_CONSENSUS        -               0.21   15.5   0.1      0.45   14.4   0.1   1.5   1   0   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding C228999_a_13_0_l_1752, transcribed RNA sequence
+GCPK01051779.1_2     -          OSK_CONSENSUS        -               0.47   14.4   0.0      0.96   13.4   0.0   1.5   1   0   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding s10781_L_54531_0_a_6_6_l_1072, transcribed RNA sequence
+GCPK01016127.1_1     -          OSK_CONSENSUS        -               0.66   13.9   0.2      0.82   13.6   0.2   1.2   1   0   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding C140814_a_6_0_l_287, transcribed RNA sequence
+GCPK01039187.1_2     -          OSK_CONSENSUS        -                1.2   13.0   0.1       1.6   12.6   0.1   1.3   1   0   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding C203753_a_8_0_l_684, transcribed RNA sequence
+GCPK01010909.1_5     -          OSK_CONSENSUS        -                1.3   12.9   0.3       1.5   12.8   0.3   1.1   1   0   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding C128033_a_5_0_l_262, transcribed RNA sequence
+GCPK01001609.1_4     -          OSK_CONSENSUS        -                1.4   12.9   0.0       1.5   12.8   0.0   1.0   1   0   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding C104475_a_6_0_l_219, transcribed RNA sequence
+GCPK01014203.1_3     -          OSK_CONSENSUS        -                1.4   12.8   0.3       2.2   12.2   0.2   1.4   1   1   0   1   1   1   0 TSA: Hymenopus coronatus breed breeding C136002_a_4_0_l_277, transcribed RNA sequence
+GCPK01039739.1_3     -          OSK_CONSENSUS        -                  2   12.3   0.6       3.1   11.7   0.1   1.5   2   0   0   2   2   2   0 TSA: Hymenopus coronatus breed breeding C205357_a_4_0_l_708, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:51 2019
+# [ok]

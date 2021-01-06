@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDBX01040673.1_6     -          OSK_CONSENSUS        -              3e-18   70.0   0.1   4.6e-18   69.4   0.1   1.2   1   0   0   1   1   1   1 TSA: Rhagadochir virgo breed breeding s19878_L_44430_1_a_4_4_l_723, transcribed RNA sequence
+GDBX01040672.1_4     -          OSK_CONSENSUS        -            5.5e-18   69.1   0.7   8.6e-18   68.5   0.1   1.6   2   0   0   2   2   2   1 TSA: Rhagadochir virgo breed breeding s19877_L_44430_0_a_6_5_l_706, transcribed RNA sequence
+GDBX01014757.1_1     -          OSK_CONSENSUS        -               0.24   15.0   1.1      0.32   14.6   1.1   1.2   1   0   0   1   1   1   0 TSA: Rhagadochir virgo breed breeding C242968_a_4_0_l_336, transcribed RNA sequence
+GDBX01003757.1_5     -          OSK_CONSENSUS        -                1.1   12.9   0.1       1.1   12.9   0.1   1.0   1   0   0   1   1   1   0 TSA: Rhagadochir virgo breed breeding C201540_a_6_0_l_222, transcribed RNA sequence
+GDBX01005402.1_2     -          OSK_CONSENSUS        -                1.2   12.8   0.3       1.4   12.6   0.3   1.1   1   0   0   1   1   1   0 TSA: Rhagadochir virgo breed breeding C207567_a_6_0_l_233, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBX01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDBX01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDBX01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:43 2019
+# [ok]

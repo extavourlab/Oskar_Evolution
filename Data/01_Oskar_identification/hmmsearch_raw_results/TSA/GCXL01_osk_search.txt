@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXL01022937.1_5     -          OSK_CONSENSUS        -              0.025   18.6   1.4     0.029   18.4   1.0   1.3   1   1   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C525972_2_0, transcribed RNA sequence
+GCXL01017741.1_3     -          OSK_CONSENSUS        -               0.11   16.5   0.1      0.13   16.3   0.1   1.0   1   0   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C503786_2_0, transcribed RNA sequence
+GCXL01036706.1_4     -          OSK_CONSENSUS        -               0.39   14.7   0.2      0.85   13.6   0.2   1.5   1   0   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C597316_14_0, transcribed RNA sequence
+GCXL01029514.1_5     -          OSK_CONSENSUS        -                2.4   12.2   0.0         4   11.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C556347_13_0, transcribed RNA sequence
+GCXL01026261.1_2     -          OSK_CONSENSUS        -                3.5   11.6   0.0         4   11.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Jalysus sp. AD-2014 breed wildtype C540972_2_0, transcribed RNA sequence
+GCXL01034511.1_3     -          OSK_CONSENSUS        -                4.5   11.3   1.8        78    7.3   0.1   2.1   2   0   0   2   2   2   0 TSA: Jalysus sp. AD-2014 breed wildtype C583177_7_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXL01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:10:11 2019
+# [ok]

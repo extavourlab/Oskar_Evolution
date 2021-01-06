@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECU01026313.1_1     -          oskar_filtered.aligned.OSK_domain -            1.5e-22   83.8   1.4   1.5e-22   83.8   1.4   3.2   3   1   0   4   4   4   1 TSA: Homalodisca liturata TR26597_c1_g1_i2 transcribed RNA sequence
+GECU01005810.1_1     -          oskar_filtered.aligned.OSK_domain -            2.4e-22   83.1   0.1   4.8e-22   82.1   0.1   1.5   1   0   0   1   1   1   1 TSA: Homalodisca liturata TR23451_c2_g1_i1 transcribed RNA sequence
+GECU01024949.1_2     -          oskar_filtered.aligned.OSK_domain -            1.1e-06   32.0   0.1   1.3e-06   31.8   0.1   1.0   1   0   0   1   1   1   1 TSA: Homalodisca liturata TR46369_c0_g1_i1 transcribed RNA sequence
+GECU01009880.1_3     -          oskar_filtered.aligned.OSK_domain -             0.0055   20.0   0.0     0.006   19.9   0.0   1.0   1   0   0   1   1   1   1 TSA: Homalodisca liturata TR14500_c0_g2_i1 transcribed RNA sequence
+GECU01008205.1_3     -          oskar_filtered.aligned.OSK_domain -              0.038   17.2   0.0     0.059   16.6   0.0   1.6   1   1   0   1   1   1   0 TSA: Homalodisca liturata TR14500_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECU01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECU01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECU01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:31 2019
+# [ok]

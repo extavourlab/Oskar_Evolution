@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_021208631.1       -          LOTUS_CONSENSUS      -            6.3e-15   55.6   0.0   1.6e-08   35.1   0.0   2.7   2   0   0   2   2   2   2 tudor domain-containing protein 7 [Bombyx mori]
+XP_012549270.1       -          LOTUS_CONSENSUS      -            4.2e-13   49.8   0.2   6.8e-12   45.9   0.0   2.8   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Bombyx mori]
+XP_021206342.1       -          LOTUS_CONSENSUS      -            4.5e-13   49.7   0.2   6.8e-12   45.9   0.0   2.8   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X2 [Bombyx mori]
+XP_004932937.1       -          LOTUS_CONSENSUS      -              0.056   14.1   0.1      0.13   12.9   0.1   1.6   1   0   0   1   1   1   0 phosducin-like protein [Bombyx mori]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000151625.1_ASM15162v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000151625.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000151625.1_ASM15162v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:59 2019
+# [ok]

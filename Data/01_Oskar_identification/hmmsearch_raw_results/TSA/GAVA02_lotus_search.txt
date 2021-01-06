@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAVA02016919.1_3     -          LOTUS_CONSENSUS      -              2e-24   88.7   0.0   1.8e-23   85.6   0.0   2.8   2   0   0   2   2   2   1 TSA: Triarthria setipennis s1378_L_1418_0_a_72_1_l_2346 transcribed RNA sequence
+GAVA02016920.1_3     -          LOTUS_CONSENSUS      -              2e-24   88.7   0.0   1.8e-23   85.6   0.0   2.8   2   0   0   2   2   2   1 TSA: Triarthria setipennis s1379_L_1418_1_a_71_6_l_2346 transcribed RNA sequence
+GAVA02023240.1_3     -          LOTUS_CONSENSUS      -            8.7e-10   41.8   2.2   2.1e-09   40.5   0.0   2.6   2   0   0   2   2   2   1 TSA: Triarthria setipennis s7085_L_16647_0_a_51_2_l_2449 transcribed RNA sequence
+GAVA02002752.1_3     -          LOTUS_CONSENSUS      -            2.6e-06   30.6   1.5   5.1e-05   26.5   0.0   3.2   2   0   0   2   2   2   1 TSA: Triarthria setipennis C110115_a_51_0_l_4113 transcribed RNA sequence
+GAVA02000765.1_2     -          LOTUS_CONSENSUS      -              0.046   17.0   0.0      0.12   15.7   0.0   1.6   1   0   0   1   1   1   0 TSA: Triarthria setipennis C102871_a_47_0_l_1633 transcribed RNA sequence
+GAVA02006651.1_4     -          LOTUS_CONSENSUS      -              0.096   16.0   1.9      0.12   15.7   1.9   1.1   1   0   0   1   1   1   0 TSA: Triarthria setipennis C62373_a_7_0_l_261 transcribed RNA sequence
+GAVA02013566.1_5     -          LOTUS_CONSENSUS      -               0.32   14.3   0.0      0.47   13.8   0.0   1.2   1   0   0   1   1   1   0 TSA: Triarthria setipennis C88417_a_4_0_l_654 transcribed RNA sequence
+GAVA02015670.1_6     -          LOTUS_CONSENSUS      -               0.93   12.8   0.0       1.9   11.8   0.0   1.4   1   0   0   1   1   1   0 TSA: Triarthria setipennis C96771_a_42_0_l_1072 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVA02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAVA02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAVA02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:57:02 2019
+# [ok]

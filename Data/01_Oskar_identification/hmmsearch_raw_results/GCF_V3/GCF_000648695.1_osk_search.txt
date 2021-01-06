@@ -1,0 +1,24 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022908970.1       -          oskar_filtered.aligned.OSK_domain -            9.1e-27   94.2   2.1   1.2e-26   93.8   2.1   1.2   1   0   0   1   1   1   1 uncharacterized protein LOC111420246 [Onthophagus taurus]
+XP_022911073.1       -          oskar_filtered.aligned.OSK_domain -            1.6e-22   80.4   0.3   2.2e-22   79.9   0.3   1.2   1   0   0   1   1   1   1 maternal effect protein oskar-like [Onthophagus taurus]
+XP_022904648.1       -          oskar_filtered.aligned.OSK_domain -              9e-11   42.0   1.0   1.6e-10   41.3   1.0   1.4   1   1   0   1   1   1   1 uncharacterized protein LOC111416780 [Onthophagus taurus]
+XP_022909500.1       -          oskar_filtered.aligned.OSK_domain -            9.3e-09   35.5   1.3   1.6e-08   34.7   1.3   1.3   1   1   0   1   1   1   1 uncharacterized protein LOC111420687 [Onthophagus taurus]
+XP_022920621.1       -          oskar_filtered.aligned.OSK_domain -            2.1e-07   31.1   0.8   3.3e-07   30.4   0.7   1.3   1   1   0   1   1   1   1 uncharacterized protein LOC111429034 [Onthophagus taurus]
+XP_022918835.1       -          oskar_filtered.aligned.OSK_domain -              0.047   13.6   0.3      0.17   11.8   0.3   1.9   1   0   0   1   1   1   0 uncharacterized protein LOC111427770 [Onthophagus taurus]
+XP_022913204.1       -          oskar_filtered.aligned.OSK_domain -               0.34   10.8   2.6      0.34   10.8   0.4   1.9   1   1   1   2   2   2   0 uncharacterized protein LOC111424036 isoform X3 [Onthophagus taurus]
+XP_022913202.1       -          oskar_filtered.aligned.OSK_domain -               0.41   10.5   2.6       0.4   10.6   0.7   1.9   1   1   1   2   2   2   0 uncharacterized protein LOC111424036 isoform X1 [Onthophagus taurus]
+XP_022913203.1       -          oskar_filtered.aligned.OSK_domain -               0.41   10.5   2.6       0.4   10.6   0.7   1.9   1   1   1   2   2   2   0 uncharacterized protein LOC111424036 isoform X2 [Onthophagus taurus]
+XP_022913013.1       -          oskar_filtered.aligned.OSK_domain -               0.43   10.5   4.5      0.21   11.5   0.6   2.4   2   0   0   2   2   2   0 armadillo repeat-containing protein 2 isoform X1 [Onthophagus taurus]
+XP_022913021.1       -          oskar_filtered.aligned.OSK_domain -               0.93    9.4   6.7       0.2   11.5   0.6   2.5   2   0   0   2   2   2   0 armadillo repeat-containing protein 2 isoform X2 [Onthophagus taurus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648695.1_Otau_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000648695.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648695.1_Otau_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:39 2019
+# [ok]

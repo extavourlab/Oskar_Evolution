@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_018566265.1       -          LOTUS_CONSENSUS      -            6.5e-20   71.5   0.3   5.4e-19   68.5   0.1   2.7   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X2 [Anoplophora glabripennis]
+XP_018566258.1       -          LOTUS_CONSENSUS      -            6.7e-20   71.4   0.3   5.4e-19   68.5   0.1   2.7   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Anoplophora glabripennis]
+XP_018575854.1       -          LOTUS_CONSENSUS      -            1.3e-18   67.3   0.0   5.7e-13   49.2   0.0   3.3   2   0   0   2   2   2   2 uncharacterized protein LOC108914515, partial [Anoplophora glabripennis]
+XP_018577487.1       -          LOTUS_CONSENSUS      -              3e-07   30.9   1.7       1.4    9.5   0.2   5.9   4   2   2   6   6   6   2 meiosis regulator and mRNA stability factor 1 [Anoplophora glabripennis]
+XP_018577712.1       -          LOTUS_CONSENSUS      -               0.42   11.2   0.0      0.42   11.2   0.0   3.4   4   0   0   4   4   4   0 uncharacterized protein LOC108916016 [Anoplophora glabripennis]
+XP_018577713.1       -          LOTUS_CONSENSUS      -               0.42   11.2   0.0      0.42   11.2   0.0   3.4   4   0   0   4   4   4   0 uncharacterized protein LOC108916016 [Anoplophora glabripennis]
+XP_018577715.1       -          LOTUS_CONSENSUS      -               0.42   11.2   0.0      0.42   11.2   0.0   3.4   4   0   0   4   4   4   0 uncharacterized protein LOC108916016 [Anoplophora glabripennis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000390285.2_Agla_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000390285.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000390285.2_Agla_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:18:02 2019
+# [ok]

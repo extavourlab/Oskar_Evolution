@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026496528.1       -          oskar_filtered.aligned.LOTUS_domain -            7.3e-19   68.0   0.0   1.8e-09   37.8   0.0   2.9   3   0   0   3   3   3   2 tudor domain-containing protein 5 [Vanessa tameamea]
+XP_026493737.1       -          oskar_filtered.aligned.LOTUS_domain -            3.2e-15   56.3   3.6   1.8e-14   53.9   0.0   3.2   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Vanessa tameamea]
+XP_026493738.1       -          oskar_filtered.aligned.LOTUS_domain -            3.2e-15   56.3   3.6   1.8e-14   53.9   0.0   3.2   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Vanessa tameamea]
+XP_026493739.1       -          oskar_filtered.aligned.LOTUS_domain -            3.2e-15   56.3   3.6   1.8e-14   53.9   0.0   3.2   3   0   0   3   3   3   1 tudor domain-containing protein 7 [Vanessa tameamea]
+XP_026488486.1       -          oskar_filtered.aligned.LOTUS_domain -              0.057   13.8   0.0         2    8.8   0.0   3.4   5   0   0   5   5   5   0 meiosis regulator and mRNA stability factor 1 [Vanessa tameamea]
+XP_026493088.1       -          oskar_filtered.aligned.LOTUS_domain -               0.26   11.6   2.0      0.57   10.6   0.3   2.5   2   0   0   2   2   2   0 uncharacterized protein LOC113398527 isoform X3 [Vanessa tameamea]
+XP_026493084.1       -          oskar_filtered.aligned.LOTUS_domain -               0.29   11.5   2.0       0.6   10.5   0.3   2.4   2   0   0   2   2   2   0 uncharacterized protein LOC113398527 isoform X1 [Vanessa tameamea]
+XP_026493085.1       -          oskar_filtered.aligned.LOTUS_domain -               0.29   11.5   2.0       0.6   10.5   0.3   2.4   2   0   0   2   2   2   0 uncharacterized protein LOC113398527 isoform X2 [Vanessa tameamea]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002938995.1_ASM293899v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002938995.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002938995.1_ASM293899v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:23:08 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUJ01032702.1_4     -          LOTUS_CONSENSUS      -            4.6e-19   71.9   0.0   1.1e-18   70.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Colletes cunicularius s8916_L_33175_0_a_22_4_l_4278 transcribed RNA sequence
+GBUJ01018971.1_4     -          LOTUS_CONSENSUS      -              7e-10   42.5   2.8   1.5e-09   41.4   0.1   2.0   1   1   1   2   2   2   1 TSA: Colletes cunicularius C81801_a_4_0_l_450 transcribed RNA sequence
+GBUJ01025198.1_4     -          LOTUS_CONSENSUS      -             0.0081   19.8   0.1        72    7.2   0.0   5.3   2   1   4   6   6   6   1 TSA: Colletes cunicularius s1949_L_2265_1_a_16_9_l_3086 transcribed RNA sequence
+GBUJ01025197.1_5     -          LOTUS_CONSENSUS      -             0.0081   19.8   0.1        69    7.2   0.0   5.3   2   1   4   6   6   6   1 TSA: Colletes cunicularius s1948_L_2265_0_a_17_4_l_3003 transcribed RNA sequence
+GBUJ01019720.1_1     -          LOTUS_CONSENSUS      -                0.1   16.3   0.2      0.15   15.8   0.2   1.3   1   0   0   1   1   1   0 TSA: Colletes cunicularius C84263_a_9_0_l_483 transcribed RNA sequence
+GBUJ01004197.1_3     -          LOTUS_CONSENSUS      -               0.97   13.2   0.1       1.9   12.2   0.1   1.4   1   0   0   1   1   1   0 TSA: Colletes cunicularius C116605_a_6_0_l_2155 transcribed RNA sequence
+GBUJ01020116.1_5     -          LOTUS_CONSENSUS      -                1.1   13.0   1.1       2.3   11.9   1.1   1.6   1   1   0   1   1   1   0 TSA: Colletes cunicularius C85552_a_39_0_l_503 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUJ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:32 2019
+# [ok]

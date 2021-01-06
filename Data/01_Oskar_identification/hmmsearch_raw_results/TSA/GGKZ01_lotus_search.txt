@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGKZ01013502.1_1     -          LOTUS_CONSENSUS      -            2.3e-23   85.7   0.4   4.5e-23   84.8   0.4   1.5   1   0   0   1   1   1   1 TSA: Chrysoperla zastrowi sillemi Chrysoperla_R_pairedcomb_contig_105520.p1GENE transcribed RNA sequence
+GGKZ01020513.1_1     -          LOTUS_CONSENSUS      -            8.8e-14   55.0   0.0   4.5e-12   49.6   0.0   3.1   2   0   0   2   2   2   1 TSA: Chrysoperla zastrowi sillemi Chrysoperla_R_pairedcomb_contig_24716.p1GENE transcribed RNA sequence
+GGKZ01031412.1_1     -          LOTUS_CONSENSUS      -             0.0096   19.7   0.0       4.7   11.1   0.0   2.8   2   1   1   3   3   3   1 TSA: Chrysoperla zastrowi sillemi Chrysoperla_R_pairedcomb_contig_88320.p1GENE transcribed RNA sequence
+GGKZ01000339.1_5     -          LOTUS_CONSENSUS      -                0.7   13.7   0.7       2.2   12.1   0.1   2.0   2   0   0   2   2   2   0 TSA: Chrysoperla zastrowi sillemi scaffold11801Locus_9834_148.5 transcribed RNA sequence
+GGKZ01002667.1_1     -          LOTUS_CONSENSUS      -               0.81   13.5   0.2      0.81   13.5   0.2   2.0   2   0   0   2   2   2   0 TSA: Chrysoperla zastrowi sillemi Chrysoperla_R_pairedcomb_contig_103912 transcribed RNA sequence
+GGKZ01007692.1_5     -          LOTUS_CONSENSUS      -               0.89   13.4   0.1       2.2   12.1   0.1   1.6   1   0   0   1   1   1   0 TSA: Chrysoperla zastrowi sillemi scaffold11803Locus_9834_341.4 transcribed RNA sequence
+GGKZ01009114.1_1     -          LOTUS_CONSENSUS      -               0.97   13.2   0.3       1.6   12.6   0.3   1.3   1   0   0   1   1   1   0 TSA: Chrysoperla zastrowi sillemi scaffold17118Locus_16254_110.8 transcribed RNA sequence
+GGKZ01000338.1_5     -          LOTUS_CONSENSUS      -                1.1   13.1   1.0       2.2   12.1   0.1   2.0   2   0   0   2   2   2   0 TSA: Chrysoperla zastrowi sillemi scaffold11800Locus_9834_049.8 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGKZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGKZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:09:02 2019
+# [ok]

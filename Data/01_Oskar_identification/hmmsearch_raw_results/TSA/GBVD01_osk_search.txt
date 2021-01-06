@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBVD01033707.1_5     -          OSK_CONSENSUS        -            6.3e-51  175.7   0.3   1.4e-50  174.5   0.3   1.6   1   0   0   1   1   1   1 TSA: Ceraphron sp. AD-2014 s7515_L_13954_0_a_29_7_l_2783 transcribed RNA sequence
+GBVD01023175.1_4     -          OSK_CONSENSUS        -            2.5e-50  173.7   0.1   6.1e-50  172.5   0.1   1.7   1   0   0   1   1   1   1 TSA: Ceraphron sp. AD-2014 s11912_L_27739_1_a_78_5_l_2819 transcribed RNA sequence
+GBVD01023174.1_6     -          OSK_CONSENSUS        -            2.6e-50  173.7   0.1   6.1e-50  172.5   0.1   1.6   1   0   0   1   1   1   1 TSA: Ceraphron sp. AD-2014 s11911_L_27739_0_a_79_6_l_2818 transcribed RNA sequence
+GBVD01006207.1_6     -          OSK_CONSENSUS        -              0.073   16.2   0.2     0.073   16.2   0.2   1.2   1   0   0   1   1   1   0 TSA: Ceraphron sp. AD-2014 C170267_a_26_0_l_255 transcribed RNA sequence
+GBVD01007991.1_5     -          OSK_CONSENSUS        -               0.88   12.7   1.0       1.2   12.3   1.0   1.2   1   0   0   1   1   1   0 TSA: Ceraphron sp. AD-2014 C177328_a_4_0_l_279 transcribed RNA sequence
+GBVD01013743.1_4     -          OSK_CONSENSUS        -               0.93   12.7   0.0       1.1   12.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Ceraphron sp. AD-2014 C201031_a_7_0_l_414 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBVD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBVD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:03 2019
+# [ok]

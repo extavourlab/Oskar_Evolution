@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDCE01002375.1_2     -          oskar_filtered.aligned.LOTUS_domain -               0.29   15.6   0.2      0.48   14.9   0.2   1.3   1   1   0   1   1   1   0 TSA: Agamemnon cornutus breed breeding C121020_a_4_0_l_213, transcribed RNA sequence
+GDCE01013599.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.86   14.0   0.0      0.98   13.9   0.0   1.1   1   0   0   1   1   1   0 TSA: Agamemnon cornutus breed breeding C148083_a_3_0_l_253, transcribed RNA sequence
+GDCE01036069.1_3     -          oskar_filtered.aligned.LOTUS_domain -                0.9   14.0   1.2        32    9.0   0.2   2.5   2   1   0   2   2   2   0 TSA: Agamemnon cornutus breed breeding C206014_a_8_0_l_509, transcribed RNA sequence
+GDCE01045670.1_2     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.5   0.0       2.5   12.6   0.0   1.5   1   0   0   1   1   1   0 TSA: Agamemnon cornutus breed breeding C232975_a_26_0_l_1442, transcribed RNA sequence
+GDCE01012605.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.2   12.8   0.0       2.6   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Agamemnon cornutus breed breeding C145813_a_3_0_l_250, transcribed RNA sequence
+GDCE01042771.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.3   12.2   0.0   4.7e+02    5.3   0.0   2.3   2   0   0   2   2   2   0 TSA: Agamemnon cornutus breed breeding C224623_a_6_0_l_866, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDCE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDCE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:06 2019
+# [ok]

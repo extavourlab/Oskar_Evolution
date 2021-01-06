@@ -1,0 +1,21 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBRL01010261.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-17   63.3   1.0   1.9e-16   61.9   1.0   1.8   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana CL95.Contig1_S_mosellanaA transcribed RNA sequence
+GBRL01010262.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.1e-16   62.7   1.0   2.1e-16   61.8   1.0   1.4   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana CL95.Contig2_S_mosellanaA transcribed RNA sequence
+GBRL01006806.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-11   46.1   0.0   3.8e-11   44.9   0.0   1.6   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene38288_S_mosellanaA transcribed RNA sequence
+GBRL01006805.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-11   46.0   0.0     4e-11   44.8   0.0   1.6   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene38287_S_mosellanaA transcribed RNA sequence
+GBRL01007784.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-08   36.5   0.6   3.4e-08   35.4   0.6   1.6   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene39972_S_mosellanaA transcribed RNA sequence
+GBRL01006735.1_2     -          oskar_filtered.aligned.LOTUS_domain -            8.1e-05   24.6   0.0   0.00013   23.9   0.0   1.4   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene38202_S_mosellanaA transcribed RNA sequence
+GBRL01009582.1_1     -          oskar_filtered.aligned.LOTUS_domain -            0.00038   22.4   0.2   0.00082   21.3   0.2   1.6   1   0   0   1   1   1   1 TSA: Sitodiplosis mosellana Unigene44159_S_mosellanaA transcribed RNA sequence
+GBRL01004220.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.2   11.1   4.0       4.1    9.5   3.9   1.8   1   1   0   1   1   1   0 TSA: Sitodiplosis mosellana Unigene34638_S_mosellanaA transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBRL01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBRL01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBRL01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:03:11 2019
+# [ok]

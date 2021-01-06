@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022836442.1       -          OSK_CONSENSUS        -            5.1e-05   23.4   0.0   9.3e-05   22.5   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LOC111363814 [Spodoptera litura]
+XP_022828681.1       -          OSK_CONSENSUS        -               0.21   11.7   0.2      0.32   11.1   0.2   1.3   1   0   0   1   1   1   0 uncharacterized protein LOC111358030 [Spodoptera litura]
+XP_022822678.1       -          OSK_CONSENSUS        -               0.21   11.6   1.0      0.63   10.1   0.1   2.2   2   0   0   2   2   2   0 DNA-directed RNA polymerase, mitochondrial [Spodoptera litura]
+XP_022836631.1       -          OSK_CONSENSUS        -               0.41   10.7   1.6       1.4    9.0   0.1   2.0   1   1   1   2   2   2   0 uncharacterized protein LOC111364001 [Spodoptera litura]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002706865.1_ASM270686v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_002706865.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_002706865.1_ASM270686v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:48 2019
+# [ok]

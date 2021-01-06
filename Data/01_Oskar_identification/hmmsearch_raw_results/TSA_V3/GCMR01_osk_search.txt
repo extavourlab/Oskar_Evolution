@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCMR01029481.1_4     -          oskar_filtered.aligned.OSK_domain -            1.1e-70  240.4   0.9   1.1e-70  240.4   0.9   2.1   2   1   0   2   2   2   1 TSA: Lonchoptera bifurcata s6012_L_31030_0_a_13_8_l_1616 transcribed RNA sequence
+GCMR01009291.1_3     -          oskar_filtered.aligned.OSK_domain -              0.014   18.4   0.4     0.016   18.1   0.4   1.1   1   0   0   1   1   1   0 TSA: Lonchoptera bifurcata C58315_a_3_0_l_263 transcribed RNA sequence
+GCMR01010997.1_2     -          oskar_filtered.aligned.OSK_domain -                0.5   13.3   0.4       0.5   13.3   0.4   1.0   1   0   0   1   1   1   0 TSA: Lonchoptera bifurcata C62757_a_3_0_l_280 transcribed RNA sequence
+GCMR01007178.1_4     -          oskar_filtered.aligned.OSK_domain -               0.83   12.5   0.1      0.87   12.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Lonchoptera bifurcata C53111_a_3_0_l_249 transcribed RNA sequence
+GCMR01010095.1_3     -          oskar_filtered.aligned.OSK_domain -                1.5   11.7   3.7       1.6   11.6   3.7   1.0   1   0   0   1   1   1   0 TSA: Lonchoptera bifurcata C60305_a_10_0_l_269 transcribed RNA sequence
+GCMR01015853.1_4     -          oskar_filtered.aligned.OSK_domain -                1.5   11.7   1.6       1.5   11.7   1.6   1.1   1   0   0   1   1   1   0 TSA: Lonchoptera bifurcata C76739_a_5_0_l_386 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMR01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCMR01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCMR01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:05:13 2019
+# [ok]

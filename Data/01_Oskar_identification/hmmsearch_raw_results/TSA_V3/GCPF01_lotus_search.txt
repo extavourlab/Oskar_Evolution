@@ -1,0 +1,19 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPF01049474.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.15   16.3   0.1      0.28   15.5   0.1   1.5   1   0   0   1   1   1   0 TSA: Cheddikulama straminea breed breeding s7251_L_14684_0_a_3_0_l_446, transcribed RNA sequence
+GCPF01035230.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.25   15.6   0.0        24    9.3   0.0   2.7   2   0   0   2   2   2   0 TSA: Cheddikulama straminea breed breeding C199842_a_12_0_l_1903, transcribed RNA sequence
+GCPF01024541.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.66   14.3   0.0       1.6   13.0   0.0   1.6   1   0   0   1   1   1   0 TSA: Cheddikulama straminea breed breeding C167900_a_8_0_l_604, transcribed RNA sequence
+GCPF01033381.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.1   13.5   0.1   1.2e+03    3.8   0.0   4.4   5   0   0   5   5   5   0 TSA: Cheddikulama straminea breed breeding C194578_a_6_0_l_1418, transcribed RNA sequence
+GCPF01026682.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.7   13.0   0.3       3.5   12.0   0.3   1.5   1   0   0   1   1   1   0 TSA: Cheddikulama straminea breed breeding C174330_a_3_0_l_708, transcribed RNA sequence
+GCPF01046261.1_4     -          oskar_filtered.aligned.LOTUS_domain -                1.8   12.9   0.1       2.7   12.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Cheddikulama straminea breed breeding s4348_L_6927_0_a_9_8_l_441, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:40 2019
+# [ok]

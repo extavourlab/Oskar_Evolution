@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWE01011349.1_4     -          LOTUS_CONSENSUS      -            2.1e-23   85.1   0.1   1.5e-22   82.4   0.0   2.5   2   0   0   2   2   2   1 TSA: Pompilus cinereus C73039_a_73_0_l_2812 transcribed RNA sequence
+GBWE01012199.1_5     -          LOTUS_CONSENSUS      -            1.4e-19   72.8   0.0   4.1e-19   71.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Pompilus cinereus C76859_a_24_0_l_4806 transcribed RNA sequence
+GBWE01012151.1_1     -          LOTUS_CONSENSUS      -            3.7e-19   71.4   0.6   1.8e-13   53.2   0.1   3.1   2   0   0   2   2   2   2 TSA: Pompilus cinereus C76695_a_14_0_l_4623 transcribed RNA sequence
+GBWE01016049.1_5     -          LOTUS_CONSENSUS      -            2.9e-05   26.9   0.0       8.2    9.4   0.0   5.2   4   1   1   5   5   5   2 TSA: Pompilus cinereus s4227_L_7835_2_a_23_7_l_6145 transcribed RNA sequence
+GBWE01016051.1_4     -          LOTUS_CONSENSUS      -            7.3e-05   25.6   0.0        11    9.1   0.0   5.0   4   1   1   5   5   5   2 TSA: Pompilus cinereus s4229_L_7835_4_a_38_2_l_7427 transcribed RNA sequence
+GBWE01016047.1_4     -          LOTUS_CONSENSUS      -            8.5e-05   25.4   0.0        11    9.1   0.0   5.0   4   1   1   5   5   5   2 TSA: Pompilus cinereus s4225_L_7835_0_a_37_2_l_7665 transcribed RNA sequence
+GBWE01016048.1_6     -          LOTUS_CONSENSUS      -            8.7e-05   25.4   0.0        11    9.0   0.0   4.9   4   1   1   5   5   5   2 TSA: Pompilus cinereus s4226_L_7835_1_a_32_1_l_7592 transcribed RNA sequence
+GBWE01004966.1_1     -          LOTUS_CONSENSUS      -               0.38   13.7   0.0      0.54   13.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Pompilus cinereus C43309_a_6_0_l_409 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWE01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:01:53 2019
+# [ok]

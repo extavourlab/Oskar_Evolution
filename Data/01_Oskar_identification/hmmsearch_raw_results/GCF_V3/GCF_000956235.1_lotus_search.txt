@@ -1,0 +1,35 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011700631.1       -          oskar_filtered.aligned.LOTUS_domain -            3.4e-30  104.7   0.0   9.6e-30  103.3   0.0   1.8   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC105457584 [Wasmannia auropunctata]
+XP_011708063.1       -          oskar_filtered.aligned.LOTUS_domain -            7.6e-24   84.3   0.2     2e-20   73.4   0.0   3.0   3   0   0   3   3   2   2 PREDICTED: tudor domain-containing protein 7 [Wasmannia auropunctata]
+XP_011708065.1       -          oskar_filtered.aligned.LOTUS_domain -            7.6e-24   84.3   0.2     2e-20   73.4   0.0   3.0   3   0   0   3   3   2   2 PREDICTED: tudor domain-containing protein 7 [Wasmannia auropunctata]
+XP_011708066.1       -          oskar_filtered.aligned.LOTUS_domain -            7.6e-24   84.3   0.2     2e-20   73.4   0.0   3.0   3   0   0   3   3   2   2 PREDICTED: tudor domain-containing protein 7 [Wasmannia auropunctata]
+XP_011688040.1       -          oskar_filtered.aligned.LOTUS_domain -            2.3e-16   60.3   0.6   1.6e-11   44.8   0.0   4.3   3   1   1   4   4   4   2 PREDICTED: tudor domain-containing protein 5-like isoform X3 [Wasmannia auropunctata]
+XP_011697408.1       -          oskar_filtered.aligned.LOTUS_domain -              4e-16   59.5   7.5   7.2e-13   49.1   0.1   3.6   3   1   0   3   3   3   2 PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC105455638 [Wasmannia auropunctata]
+XP_011688036.1       -          oskar_filtered.aligned.LOTUS_domain -            5.2e-15   56.0   4.0     2e-11   44.5   0.0   4.1   4   1   1   5   5   5   2 PREDICTED: uncharacterized protein LOC105450087 isoform X1 [Wasmannia auropunctata]
+XP_011688037.1       -          oskar_filtered.aligned.LOTUS_domain -            5.2e-15   56.0   4.0     2e-11   44.5   0.0   4.1   4   1   1   5   5   5   2 PREDICTED: uncharacterized protein LOC105450087 isoform X1 [Wasmannia auropunctata]
+XP_011707522.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00015   22.4   0.0        13    6.6   0.0   5.0   3   2   2   5   5   5   0 PREDICTED: meiosis arrest female protein 1 isoform X5 [Wasmannia auropunctata]
+XP_011707523.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00015   22.4   0.0        13    6.6   0.0   5.0   3   2   2   5   5   5   0 PREDICTED: meiosis arrest female protein 1 isoform X5 [Wasmannia auropunctata]
+XP_011707521.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00025   21.7   0.0        14    6.4   0.0   4.9   3   2   2   5   5   5   0 PREDICTED: meiosis arrest female protein 1 homolog isoform X4 [Wasmannia auropunctata]
+XP_011707520.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00028   21.5   0.0        15    6.4   0.0   5.0   3   2   2   5   5   5   0 PREDICTED: meiosis arrest female protein 1 isoform X3 [Wasmannia auropunctata]
+XP_011707517.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00041   21.0   0.0        16    6.3   0.0   4.9   3   2   2   5   5   5   0 PREDICTED: meiosis arrest female protein 1 isoform X2 [Wasmannia auropunctata]
+XP_011707515.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00042   20.9   0.0        16    6.3   0.0   4.9   3   2   2   5   5   5   0 PREDICTED: meiosis arrest female protein 1 isoform X1 [Wasmannia auropunctata]
+XP_011707516.1       -          oskar_filtered.aligned.LOTUS_domain -            0.00042   20.9   0.0        16    6.3   0.0   4.9   3   2   2   5   5   5   0 PREDICTED: meiosis arrest female protein 1 isoform X1 [Wasmannia auropunctata]
+XP_011693148.1       -          oskar_filtered.aligned.LOTUS_domain -              0.026   15.2   0.3        36    5.1   0.0   3.7   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X6 [Wasmannia auropunctata]
+XP_011688038.1       -          oskar_filtered.aligned.LOTUS_domain -              0.086   13.5   4.8       1.4    9.7   0.0   4.1   4   1   1   5   5   5   0 PREDICTED: uncharacterized protein LOC105450087 isoform X2 [Wasmannia auropunctata]
+XP_011688039.1       -          oskar_filtered.aligned.LOTUS_domain -              0.086   13.5   4.8       1.4    9.7   0.0   4.1   4   1   1   5   5   5   0 PREDICTED: uncharacterized protein LOC105450087 isoform X2 [Wasmannia auropunctata]
+XP_011696072.1       -          oskar_filtered.aligned.LOTUS_domain -               0.17   12.6   0.2       4.2    8.1   0.0   2.8   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X1 [Wasmannia auropunctata]
+XP_011696082.1       -          oskar_filtered.aligned.LOTUS_domain -               0.17   12.6   0.1       4.3    8.1   0.0   2.8   3   0   0   3   3   3   0 PREDICTED: annexin B9-like isoform X2 [Wasmannia auropunctata]
+XP_011693146.1       -          oskar_filtered.aligned.LOTUS_domain -               0.24   12.1   0.5        67    4.3   0.0   3.5   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X4 [Wasmannia auropunctata]
+XP_011693145.1       -          oskar_filtered.aligned.LOTUS_domain -               0.25   12.1   0.5        68    4.2   0.0   3.4   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X3 [Wasmannia auropunctata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000956235.1_wasmannia.A_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000956235.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000956235.1_wasmannia.A_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:46 2019
+# [ok]

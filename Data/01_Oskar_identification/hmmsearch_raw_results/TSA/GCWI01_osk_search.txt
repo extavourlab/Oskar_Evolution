@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWI01064799.1_1     -          OSK_CONSENSUS        -            2.2e-26   96.9   0.0     4e-26   96.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Campylenchia latipes breed wildtype s26634_L_92351_0_9_8_LINEAR, transcribed RNA sequence
+GCWI01051492.1_2     -          OSK_CONSENSUS        -            3.6e-24   89.7   0.1     6e-24   89.0   0.1   1.3   1   0   0   1   1   1   1 TSA: Campylenchia latipes breed wildtype s145_L_145_1_66_1_COMPLEX, transcribed RNA sequence
+GCWI01051382.1_3     -          OSK_CONSENSUS        -            4.3e-24   89.5   0.1     1e-23   88.3   0.1   1.6   1   0   0   1   1   1   1 TSA: Campylenchia latipes breed wildtype s144_L_145_0_63_6_COMPLEX, transcribed RNA sequence
+GCWI01045796.1_5     -          OSK_CONSENSUS        -            3.4e-22   83.3   1.9   8.2e-22   82.1   1.9   1.6   1   0   0   1   1   1   1 TSA: Campylenchia latipes breed wildtype C443483_5_0, transcribed RNA sequence
+GCWI01051727.1_1     -          OSK_CONSENSUS        -             0.0014   22.9   0.2    0.0022   22.2   0.2   1.3   1   0   0   1   1   1   1 TSA: Campylenchia latipes breed wildtype s14811_L_32291_0_2_4_LINEAR, transcribed RNA sequence
+GCWI01045556.1_3     -          OSK_CONSENSUS        -              0.046   17.9   0.1     0.097   16.8   0.1   1.5   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C441945_5_0, transcribed RNA sequence
+GCWI01057912.1_5     -          OSK_CONSENSUS        -               0.18   16.0   0.3      0.29   15.3   0.3   1.3   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype s2039_L_2936_0_2_4_LINEAR, transcribed RNA sequence
+GCWI01025190.1_3     -          OSK_CONSENSUS        -               0.22   15.7   0.0      0.22   15.7   0.0   1.1   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C348869_3_0, transcribed RNA sequence
+GCWI01049090.1_1     -          OSK_CONSENSUS        -                0.3   15.2   0.8       1.4   13.1   0.6   2.2   1   1   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype s12426_L_25005_1_3_3_FORK, transcribed RNA sequence
+GCWI01006894.1_3     -          OSK_CONSENSUS        -               0.49   14.5   0.0      0.53   14.4   0.0   1.0   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C286055_4_0, transcribed RNA sequence
+GCWI01049089.1_1     -          OSK_CONSENSUS        -               0.61   14.2   0.7       2.3   12.3   0.6   2.0   1   1   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype s12425_L_25005_0_4_8_FORK, transcribed RNA sequence
+GCWI01002920.1_6     -          OSK_CONSENSUS        -               0.66   14.1   0.0       0.7   14.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C273215_3_0, transcribed RNA sequence
+GCWI01007787.1_2     -          OSK_CONSENSUS        -               0.96   13.6   0.2       1.1   13.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C289021_2_0, transcribed RNA sequence
+GCWI01007555.1_3     -          OSK_CONSENSUS        -                1.3   13.1   0.2       1.4   13.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C288237_3_0, transcribed RNA sequence
+GCWI01034847.1_2     -          OSK_CONSENSUS        -                1.3   13.1   0.2       1.6   12.9   0.2   1.1   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype C386347_3_0, transcribed RNA sequence
+GCWI01066231.1_6     -          OSK_CONSENSUS        -                2.4   12.3   0.0       4.1   11.6   0.0   1.3   1   0   0   1   1   1   0 TSA: Campylenchia latipes breed wildtype s3184_L_4852_0_3_9_LINEAR, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:08:33 2019
+# [ok]

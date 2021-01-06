@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGCK01007400.1_1     -          oskar_filtered.aligned.LOTUS_domain -              9e-25   89.5   0.0     4e-24   87.4   0.0   2.2   2   0   0   2   2   2   1 TSA: Microplitis mediator MM_unigene_7400 transcribed RNA sequence
+GGCK01005345.1_5     -          oskar_filtered.aligned.LOTUS_domain -              1e-18   70.1   0.3   1.1e-16   63.5   0.1   2.4   2   0   0   2   2   2   1 TSA: Microplitis mediator MM_unigene_5345 transcribed RNA sequence
+GGCK01005627.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.9e-16   60.9   0.0   4.4e-15   58.4   0.0   2.5   2   0   0   2   2   2   1 TSA: Microplitis mediator MM_unigene_5627 transcribed RNA sequence
+GGCK01005626.1_1     -          oskar_filtered.aligned.LOTUS_domain -              9e-16   60.6   0.0   4.3e-15   58.4   0.0   2.2   2   0   0   2   2   2   1 TSA: Microplitis mediator MM_unigene_5626 transcribed RNA sequence
+GGCK01003741.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-09   40.3   1.2       2.6   11.0   0.0   7.0   3   2   3   6   6   6   2 TSA: Microplitis mediator MM_unigene_3741 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGCK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGCK01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGCK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:31 2019
+# [ok]

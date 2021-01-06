@@ -1,0 +1,36 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011862145.1       -          LOTUS_CONSENSUS      -            1.5e-26   93.1   0.0   5.5e-26   91.3   0.0   2.0   2   0   0   2   2   1   1 PREDICTED: uncharacterized protein LOC105558834 [Vollenhovia emeryi]
+XP_011858063.1       -          LOTUS_CONSENSUS      -            1.2e-21   77.4   0.2   1.1e-18   67.9   0.0   2.8   3   0   0   3   3   3   1 PREDICTED: uncharacterized protein LOC105555648, partial [Vollenhovia emeryi]
+XP_011861501.1       -          LOTUS_CONSENSUS      -            3.8e-20   72.5   0.0     5e-20   72.2   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011861502.1       -          LOTUS_CONSENSUS      -            3.8e-20   72.5   0.0     5e-20   72.2   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011861503.1       -          LOTUS_CONSENSUS      -            3.8e-20   72.5   0.0     5e-20   72.2   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011861504.1       -          LOTUS_CONSENSUS      -            3.8e-20   72.5   0.0     5e-20   72.2   0.0   1.2   1   0   0   1   1   1   1 PREDICTED: tudor domain-containing protein 7A-like [Vollenhovia emeryi]
+XP_011879961.1       -          LOTUS_CONSENSUS      -              5e-15   56.1   2.1   1.2e-11   45.3   0.0   3.9   3   0   0   3   3   3   2 PREDICTED: uncharacterized protein LOC105568703 [Vollenhovia emeryi]
+XP_011876532.1       -          LOTUS_CONSENSUS      -            0.00058   20.7   0.0       5.1    8.0   0.0   4.6   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1-like isoform X10 [Vollenhovia emeryi]
+XP_011876531.1       -          LOTUS_CONSENSUS      -             0.0006   20.6   0.0       5.1    8.0   0.0   4.6   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1-like isoform X9 [Vollenhovia emeryi]
+XP_011876530.1       -          LOTUS_CONSENSUS      -            0.00082   20.2   0.0       5.5    7.9   0.0   4.6   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X8 [Vollenhovia emeryi]
+XP_011876529.1       -          LOTUS_CONSENSUS      -              0.001   19.8   0.0       5.8    7.9   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X7 [Vollenhovia emeryi]
+XP_011876528.1       -          LOTUS_CONSENSUS      -             0.0012   19.7   0.0       6.1    7.8   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X6 [Vollenhovia emeryi]
+XP_011876526.1       -          LOTUS_CONSENSUS      -             0.0014   19.4   0.0       6.9    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X4 [Vollenhovia emeryi]
+XP_011876527.1       -          LOTUS_CONSENSUS      -             0.0015   19.4   0.0       6.9    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X5 [Vollenhovia emeryi]
+XP_011876525.1       -          LOTUS_CONSENSUS      -             0.0015   19.3   0.0         7    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X3 [Vollenhovia emeryi]
+XP_011876518.1       -          LOTUS_CONSENSUS      -             0.0016   19.3   0.0       6.7    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876519.1       -          LOTUS_CONSENSUS      -             0.0016   19.3   0.0       6.7    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876520.1       -          LOTUS_CONSENSUS      -             0.0016   19.3   0.0       6.7    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876521.1       -          LOTUS_CONSENSUS      -             0.0016   19.3   0.0       6.7    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876523.1       -          LOTUS_CONSENSUS      -             0.0016   19.3   0.0       6.7    7.6   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X1 [Vollenhovia emeryi]
+XP_011876524.1       -          LOTUS_CONSENSUS      -             0.0016   19.3   0.0       6.7    7.7   0.0   4.5   3   1   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 homolog isoform X2 [Vollenhovia emeryi]
+XP_011876991.1       -          LOTUS_CONSENSUS      -               0.43   11.5   1.9         2    9.3   0.0   2.9   3   1   0   3   3   3   0 PREDICTED: uncharacterized protein LOC105567061 isoform X1 [Vollenhovia emeryi]
+XP_011876992.1       -          LOTUS_CONSENSUS      -               0.46   11.4   2.1       2.4    9.1   0.1   2.9   3   1   0   3   3   3   0 PREDICTED: uncharacterized protein LOC105567061 isoform X2 [Vollenhovia emeryi]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000949405.1_V.emery_V1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000949405.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000949405.1_V.emery_V1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:44 2019
+# [ok]

@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026466015.1       -          LOTUS_CONSENSUS      -            5.8e-17   62.1   0.4   2.4e-15   56.9   0.0   3.6   3   0   0   3   3   3   1 uncharacterized protein LOC113369529 [Ctenocephalides felis]
+XP_026466016.1       -          LOTUS_CONSENSUS      -            5.8e-17   62.1   0.4   2.4e-15   56.9   0.0   3.6   3   0   0   3   3   3   1 uncharacterized protein LOC113369529 [Ctenocephalides felis]
+XP_026473553.1       -          LOTUS_CONSENSUS      -            2.7e-16   60.0   0.6   4.5e-15   56.1   0.0   3.3   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like [Ctenocephalides felis]
+XP_026473554.1       -          LOTUS_CONSENSUS      -            2.7e-16   60.0   0.6   4.5e-15   56.1   0.0   3.3   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like [Ctenocephalides felis]
+XP_026473555.1       -          LOTUS_CONSENSUS      -            2.7e-16   60.0   0.6   4.5e-15   56.1   0.0   3.3   3   0   0   3   3   3   1 tudor domain-containing protein 7B-like [Ctenocephalides felis]
+XP_026481497.1       -          LOTUS_CONSENSUS      -            2.2e-15   57.1   0.1   2.1e-14   53.9   0.0   2.8   3   0   0   3   3   2   1 LOW QUALITY PROTEIN: tudor domain-containing protein 7A-like [Ctenocephalides felis]
+XP_026481498.1       -          LOTUS_CONSENSUS      -            3.3e-15   56.5   0.1   2.1e-14   53.9   0.0   2.5   2   0   0   2   2   1   1 tudor domain-containing protein 7A-like [Ctenocephalides felis]
+XP_026462151.1       -          LOTUS_CONSENSUS      -            1.6e-13   51.1  13.8     1e-09   38.9   0.0   4.6   5   1   0   5   5   5   2 tudor domain-containing protein 5-like isoform X1 [Ctenocephalides felis]
+XP_026482855.1       -          LOTUS_CONSENSUS      -            7.4e-13   48.9   0.1   1.4e-09   38.4   0.0   4.7   6   0   0   6   6   4   2 tudor domain-containing protein 5-like [Ctenocephalides felis]
+XP_026481500.1       -          LOTUS_CONSENSUS      -            6.8e-10   39.4   0.0   6.4e-09   36.3   0.0   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like [Ctenocephalides felis]
+XP_026472655.1       -          LOTUS_CONSENSUS      -              3e-06   27.8   9.8     0.012   16.2   0.2   6.3   4   3   2   6   6   6   1 meiosis regulator and mRNA stability factor 1-like [Ctenocephalides felis]
+XP_026482816.1       -          LOTUS_CONSENSUS      -            0.00026   21.6   0.5   0.00095   19.7   0.1   2.1   2   0   0   2   2   2   1 uncharacterized protein LOC113391056 [Ctenocephalides felis]
+XP_026464336.1       -          LOTUS_CONSENSUS      -            0.00031   21.3   0.2   0.00047   20.7   0.2   1.3   1   0   0   1   1   1   1 uncharacterized protein LOC113366902, partial [Ctenocephalides felis]
+XP_026462152.1       -          LOTUS_CONSENSUS      -             0.0027   18.3   0.1    0.0027   18.3   0.1   3.8   5   1   0   5   5   4   1 bromodomain-containing protein DDB_G0270170-like isoform X2 [Ctenocephalides felis]
+XP_026464890.1       -          LOTUS_CONSENSUS      -              0.075   13.7   1.8      0.56   10.9   0.5   2.6   2   1   2   4   4   4   0 uncharacterized protein LOC113367502 [Ctenocephalides felis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003426905.1_ASM342690v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_003426905.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_003426905.1_ASM342690v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:40 2019
+# [ok]

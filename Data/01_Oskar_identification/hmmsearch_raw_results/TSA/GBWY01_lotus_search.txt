@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBWY01021760.1_6     -          LOTUS_CONSENSUS      -            4.7e-24   87.3   0.2   1.5e-23   85.7   0.2   1.9   1   0   0   1   1   1   1 TSA: Sapyga quinquepunctata s8018_L_20925_0_a_75_0_l_4350 transcribed RNA sequence
+GBWY01013941.1_2     -          LOTUS_CONSENSUS      -              1e-19   73.4   0.1   1.5e-18   69.7   0.0   2.9   3   0   0   3   3   3   1 TSA: Sapyga quinquepunctata C92844_a_30_0_l_6015 transcribed RNA sequence
+GBWY01013829.1_5     -          LOTUS_CONSENSUS      -            5.2e-14   55.1   2.1   8.5e-11   44.8   0.1   3.7   3   0   0   3   3   3   2 TSA: Sapyga quinquepunctata C92404_a_23_0_l_4821 transcribed RNA sequence
+GBWY01021849.1_5     -          LOTUS_CONSENSUS      -            0.00035   23.6   0.7        10    9.3   0.0   5.8   5   1   3   8   8   8   1 TSA: Sapyga quinquepunctata s8099_L_22016_0_a_56_0_l_5807 transcribed RNA sequence
+GBWY01009495.1_6     -          LOTUS_CONSENSUS      -              0.066   16.3   0.8       5.3   10.2   0.0   3.0   3   1   0   3   3   3   0 TSA: Sapyga quinquepunctata C71896_a_3_0_l_854 transcribed RNA sequence
+GBWY01019410.1_4     -          LOTUS_CONSENSUS      -               0.86   12.8   0.0       1.6   11.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Sapyga quinquepunctata s5901_L_11951_0_a_16_4_l_2133 transcribed RNA sequence
+GBWY01006314.1_2     -          LOTUS_CONSENSUS      -               0.87   12.8   0.0       1.8   11.8   0.0   1.5   1   0   0   1   1   1   0 TSA: Sapyga quinquepunctata C58270_a_7_0_l_446 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBWY01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBWY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:20 2019
+# [ok]

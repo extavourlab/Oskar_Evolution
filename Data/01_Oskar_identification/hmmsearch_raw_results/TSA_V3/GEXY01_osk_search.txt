@@ -1,0 +1,30 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEXY01216990.1_4     -          oskar_filtered.aligned.OSK_domain -            5.7e-08   38.8   0.0   6.9e-08   38.5   0.0   1.1   1   0   0   1   1   1   1 TSA: Megaloprepus caerulatus TR179785-c0_g1_i1 transcribed RNA sequence
+GEXY01219246.1_5     -          oskar_filtered.aligned.OSK_domain -            3.7e-05   29.6   0.0   4.7e-05   29.3   0.0   1.1   1   0   0   1   1   1   1 TSA: Megaloprepus caerulatus TR180306-c3_g1_i1 transcribed RNA sequence
+GEXY01051202.1_6     -          oskar_filtered.aligned.OSK_domain -              0.029   20.2   1.1     0.029   20.2   1.1   1.7   2   0   0   2   2   2   0 TSA: Megaloprepus caerulatus TR136672-c0_g1_i1 transcribed RNA sequence
+GEXY01198460.1_4     -          oskar_filtered.aligned.OSK_domain -              0.052   19.4   0.7      0.34   16.7   0.7   2.5   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR174950-c1_g2_i4 transcribed RNA sequence
+GEXY01198459.1_4     -          oskar_filtered.aligned.OSK_domain -              0.054   19.3   0.7      0.35   16.7   0.7   2.5   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR174950-c1_g2_i3 transcribed RNA sequence
+GEXY01198458.1_4     -          oskar_filtered.aligned.OSK_domain -               0.23   17.3   0.5      0.23   17.3   0.5   2.7   2   0   0   2   2   2   0 TSA: Megaloprepus caerulatus TR174950-c1_g2_i2 transcribed RNA sequence
+GEXY01181278.1_6     -          oskar_filtered.aligned.OSK_domain -               0.81   15.5   0.1      0.97   15.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR171225-c0_g1_i1 transcribed RNA sequence
+GEXY01207048.1_4     -          oskar_filtered.aligned.OSK_domain -                0.9   15.3   1.7       1.7   14.5   1.7   1.5   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR177430-c0_g1_i1 transcribed RNA sequence
+GEXY01041388.1_6     -          oskar_filtered.aligned.OSK_domain -                1.5   14.6   0.0       1.9   14.3   0.0   1.1   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR12965-c4_g1_i1 transcribed RNA sequence
+GEXY01028987.1_3     -          oskar_filtered.aligned.OSK_domain -                3.1   13.6   0.1       3.4   13.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR120925-c0_g1_i1 transcribed RNA sequence
+GEXY01191729.1_4     -          oskar_filtered.aligned.OSK_domain -                4.7   13.0   0.1   2.4e+02    7.4   0.0   2.0   2   0   0   2   2   2   0 TSA: Megaloprepus caerulatus TR17341-c1_g2_i1 transcribed RNA sequence
+GEXY01204670.1_6     -          oskar_filtered.aligned.OSK_domain -                4.9   12.9   0.2         7   12.4   0.2   1.2   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR176989-c4_g1_i1 transcribed RNA sequence
+GEXY01191728.1_4     -          oskar_filtered.aligned.OSK_domain -                5.2   12.9   0.1   2.5e+02    7.4   0.0   2.0   2   0   0   2   2   2   0 TSA: Megaloprepus caerulatus TR17341-c1_g1_i1 transcribed RNA sequence
+GEXY01039118.1_2     -          oskar_filtered.aligned.OSK_domain -                5.8   12.7   1.1       6.9   12.5   1.1   1.2   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR128073-c0_g1_i1 transcribed RNA sequence
+GEXY01091583.1_1     -          oskar_filtered.aligned.OSK_domain -                5.9   12.7   0.1       7.5   12.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR151848-c2_g1_i1 transcribed RNA sequence
+GEXY01201641.1_1     -          oskar_filtered.aligned.OSK_domain -                7.2   12.4   0.1       8.6   12.2   0.1   1.0   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR176391-c7_g3_i1 transcribed RNA sequence
+GEXY01018764.1_3     -          oskar_filtered.aligned.OSK_domain -                9.1   12.1   0.0        11   11.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Megaloprepus caerulatus TR113546-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEXY01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEXY01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEXY01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:45:19 2019
+# [ok]

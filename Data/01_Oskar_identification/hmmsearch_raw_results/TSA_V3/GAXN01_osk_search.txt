@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAXN01048638.1_1     -          oskar_filtered.aligned.OSK_domain -            0.00028   25.0   0.8     0.058   17.4   0.1   2.3   2   0   0   2   2   2   2 TSA: Sceliphron caementarium comp13844_c0_seq74 transcribed RNA sequence
+GAXN01048655.1_1     -          oskar_filtered.aligned.OSK_domain -            0.00037   24.6   0.9     0.065   17.3   0.1   2.3   2   0   0   2   2   2   2 TSA: Sceliphron caementarium comp13844_c0_seq91 transcribed RNA sequence
+GAXN01048582.1_1     -          oskar_filtered.aligned.OSK_domain -            0.00054   24.1   1.2     0.088   16.9   0.0   2.4   2   0   0   2   2   2   2 TSA: Sceliphron caementarium comp13844_c0_seq18 transcribed RNA sequence
+GAXN01050712.1_4     -          oskar_filtered.aligned.OSK_domain -               0.97   13.5   0.3       1.4   13.0   0.3   1.3   1   1   0   1   1   1   0 TSA: Sceliphron caementarium comp16547_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAXN01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAXN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:40 2019
+# [ok]

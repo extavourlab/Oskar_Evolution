@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GECM01023295.1_1     -          OSK_CONSENSUS        -            4.2e-74  250.8   1.2   6.8e-74  250.1   0.7   1.6   2   0   0   2   2   2   1 TSA: Drosophila montana contig_3142 transcribed RNA sequence
+GECM01006835.1_2     -          OSK_CONSENSUS        -               0.51   13.3   0.2      0.59   13.1   0.2   1.1   1   0   0   1   1   1   0 TSA: Drosophila montana contig_16288 transcribed RNA sequence
+GECM01024013.1_6     -          OSK_CONSENSUS        -               0.63   13.0   0.0      0.88   12.5   0.0   1.3   1   0   0   1   1   1   0 TSA: Drosophila montana contig_3380 transcribed RNA sequence
+GECM01026813.1_3     -          OSK_CONSENSUS        -               0.69   12.9   0.1      0.89   12.5   0.1   1.2   1   0   0   1   1   1   0 TSA: Drosophila montana contig_5947 transcribed RNA sequence
+GECM01028716.1_4     -          OSK_CONSENSUS        -               0.71   12.8   4.7       1.2   12.1   4.7   1.5   1   1   0   1   1   1   0 TSA: Drosophila montana contig_7692 transcribed RNA sequence
+GECM01015269.1_5     -          OSK_CONSENSUS        -                  1   12.3   0.0       1.1   12.2   0.0   1.2   1   0   0   1   1   1   0 TSA: Drosophila montana contig_24059 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECM01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GECM01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GECM01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:03 2019
+# [ok]

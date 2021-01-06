@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFZI01012060.1_2     -          oskar_filtered.aligned.OSK_domain -            9.4e-53  183.0   0.0   3.4e-52  181.2   0.0   1.8   2   0   0   2   2   2   1 TSA: Microplitis tuberculifer comp16457_c1_seq1 transcribed RNA sequence
+GFZI01037241.1_6     -          oskar_filtered.aligned.OSK_domain -                1.2   13.1   2.3       3.2   11.7   2.3   1.7   1   0   0   1   1   1   0 TSA: Microplitis tuberculifer comp23852_c0_seq10 transcribed RNA sequence
+GFZI01017422.1_1     -          oskar_filtered.aligned.OSK_domain -                1.2   13.1   0.4       6.4   10.7   0.2   2.2   1   1   0   1   1   1   0 TSA: Microplitis tuberculifer comp19348_c0_seq4 transcribed RNA sequence
+GFZI01037234.1_6     -          oskar_filtered.aligned.OSK_domain -                1.7   12.6   2.0       3.5   11.6   2.0   1.5   1   0   0   1   1   1   0 TSA: Microplitis tuberculifer comp23852_c0_seq3 transcribed RNA sequence
+GFZI01047218.1_2     -          oskar_filtered.aligned.OSK_domain -                3.5   11.6   3.6       4.5   11.3   3.5   1.4   1   1   0   1   1   1   0 TSA: Microplitis tuberculifer comp328835_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFZI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFZI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFZI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:01:21 2019
+# [ok]

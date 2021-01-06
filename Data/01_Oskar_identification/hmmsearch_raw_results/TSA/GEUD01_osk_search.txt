@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEUD01023770.1_3     -          OSK_CONSENSUS        -              3e-41  146.8   0.5   6.8e-41  145.6   0.5   1.6   1   0   0   1   1   1   1 TSA: Callosobruchus maculatus TR7338-c1_g1_i1 transcribed RNA sequence
+GEUD01137361.1_1     -          OSK_CONSENSUS        -              0.041   19.6   0.2     0.067   18.9   0.1   1.4   1   1   0   1   1   1   0 TSA: Callosobruchus maculatus TR73016-c0_g1_i1 transcribed RNA sequence
+GEUD01115692.1_2     -          OSK_CONSENSUS        -               0.86   15.3   0.1      0.89   15.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR11806-c0_g1_i1 transcribed RNA sequence
+GEUD01031075.1_6     -          OSK_CONSENSUS        -                1.2   14.8   0.6       1.4   14.6   0.6   1.0   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR59597-c2_g1_i1 transcribed RNA sequence
+GEUD01115665.1_6     -          OSK_CONSENSUS        -                1.3   14.7   0.0       1.5   14.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR54814-c0_g1_i1 transcribed RNA sequence
+GEUD01045253.1_4     -          OSK_CONSENSUS        -                  2   14.1   0.2       2.5   13.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR36941-c0_g1_i1 transcribed RNA sequence
+GEUD01049205.1_3     -          OSK_CONSENSUS        -                2.3   13.9   0.2       2.5   13.8   0.2   1.0   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR20711-c0_g2_i1 transcribed RNA sequence
+GEUD01119982.1_3     -          OSK_CONSENSUS        -                2.3   13.9   0.2       2.5   13.8   0.2   1.0   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR20711-c0_g4_i1 transcribed RNA sequence
+GEUD01136429.1_5     -          OSK_CONSENSUS        -                2.7   13.6   0.7       4.5   12.9   0.7   1.3   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR25012-c0_g1_i2 transcribed RNA sequence
+GEUD01004253.1_3     -          OSK_CONSENSUS        -                2.9   13.5   0.1       3.2   13.4   0.1   1.0   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR20711-c0_g1_i1 transcribed RNA sequence
+GEUD01072699.1_2     -          OSK_CONSENSUS        -                3.6   13.3   0.2         4   13.1   0.2   1.0   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR20711-c0_g4_i2 transcribed RNA sequence
+GEUD01015582.1_6     -          OSK_CONSENSUS        -                5.1   12.8   1.0       6.2   12.5   1.0   1.1   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus TR51783-c0_g1_i1 transcribed RNA sequence
+GEUD01071942.1_1     -          OSK_CONSENSUS        -                6.9   12.3   0.2   1.2e+02    8.4   0.1   2.4   2   1   0   2   2   2   0 TSA: Callosobruchus maculatus TR20331-c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEUD01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:33 2019
+# [ok]

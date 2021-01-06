@@ -1,0 +1,39 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GETT01198557.1_6     -          LOTUS_CONSENSUS      -            5.8e-15   62.2   4.4   2.7e-08   40.9   0.0   3.2   3   0   0   3   3   3   2 TSA: Meganyctiphanes norvegica TRINITY_DN169574_c0_g1_i1 transcribed RNA sequence
+GETT01021458.1_3     -          LOTUS_CONSENSUS      -            1.5e-11   51.3   0.1   2.2e-06   34.7   0.0   3.9   3   0   0   3   3   3   2 TSA: Meganyctiphanes norvegica TRINITY_DN116696_c1_g1_i4 transcribed RNA sequence
+GETT01021455.1_3     -          LOTUS_CONSENSUS      -            1.5e-11   51.3   0.1   2.4e-06   34.6   0.0   4.0   3   0   0   3   3   3   2 TSA: Meganyctiphanes norvegica TRINITY_DN116696_c1_g1_i1 transcribed RNA sequence
+GETT01021459.1_3     -          LOTUS_CONSENSUS      -              3e-11   50.3   0.1   2.2e-06   34.7   0.0   3.9   3   0   0   3   3   3   2 TSA: Meganyctiphanes norvegica TRINITY_DN116696_c1_g1_i5 transcribed RNA sequence
+GETT01179265.1_6     -          LOTUS_CONSENSUS      -            2.4e-10   47.4   1.2   0.00011   29.2   0.1   4.0   3   0   0   3   3   3   2 TSA: Meganyctiphanes norvegica TRINITY_DN116243_c0_g1_i1 transcribed RNA sequence
+GETT01183269.1_4     -          LOTUS_CONSENSUS      -            1.2e-05   32.3   3.9   2.5e-05   31.4   0.1   3.2   4   0   0   4   4   2   1 TSA: Meganyctiphanes norvegica TRINITY_DN119065_c0_g1_i1 transcribed RNA sequence
+GETT01025081.1_2     -          LOTUS_CONSENSUS      -                0.1   19.8   0.1      0.15   19.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN129242_c0_g1_i1 transcribed RNA sequence
+GETT01134429.1_2     -          LOTUS_CONSENSUS      -               0.35   18.1   0.1      0.95   16.7   0.1   1.8   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN119478_c1_g2_i4 transcribed RNA sequence
+GETT01134428.1_1     -          LOTUS_CONSENSUS      -               0.36   18.0   0.1      0.97   16.7   0.1   1.8   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN119478_c1_g2_i3 transcribed RNA sequence
+GETT01290063.1_6     -          LOTUS_CONSENSUS      -               0.53   17.5   0.0   2.9e+03    5.5   0.0   4.7   5   1   1   6   6   4   0 TSA: Meganyctiphanes norvegica TRINITY_DN66412_c1_g1_i1 transcribed RNA sequence
+GETT01134430.1_2     -          LOTUS_CONSENSUS      -               0.75   17.0   0.0       2.9   15.1   0.0   2.0   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN119478_c1_g2_i5 transcribed RNA sequence
+GETT01134432.1_1     -          LOTUS_CONSENSUS      -               0.76   17.0   0.0       2.9   15.1   0.0   2.0   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN119478_c1_g2_i7 transcribed RNA sequence
+GETT01231478.1_2     -          LOTUS_CONSENSUS      -                1.4   16.1   0.0       1.5   16.1   0.0   1.1   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN117674_c5_g13_i2 transcribed RNA sequence
+GETT01231477.1_2     -          LOTUS_CONSENSUS      -                3.2   15.0   0.0       3.7   14.8   0.0   1.1   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN117674_c5_g13_i1 transcribed RNA sequence
+GETT01120221.1_5     -          LOTUS_CONSENSUS      -                3.2   15.0   0.1         6   14.1   0.1   1.4   2   0   0   2   2   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN111174_c12_g10_i2 transcribed RNA sequence
+GETT01279203.1_3     -          LOTUS_CONSENSUS      -                3.3   14.9   0.0   1.6e+02    9.5   0.0   2.1   1   1   1   2   2   2   0 TSA: Meganyctiphanes norvegica TRINITY_DN42235_c0_g1_i1 transcribed RNA sequence
+GETT01021456.1_3     -          LOTUS_CONSENSUS      -                3.5   14.9   1.7        77   10.6   0.1   3.3   3   0   0   3   3   3   0 TSA: Meganyctiphanes norvegica TRINITY_DN116696_c1_g1_i2 transcribed RNA sequence
+GETT01212782.1_6     -          LOTUS_CONSENSUS      -                3.6   14.8   1.0   3.4e+02    8.5   0.0   2.3   2   0   0   2   2   2   0 TSA: Meganyctiphanes norvegica TRINITY_DN111729_c0_g2_i1 transcribed RNA sequence
+GETT01021457.1_3     -          LOTUS_CONSENSUS      -                3.8   14.8   1.7        73   10.6   0.1   3.2   3   0   0   3   3   3   0 TSA: Meganyctiphanes norvegica TRINITY_DN116696_c1_g1_i3 transcribed RNA sequence
+GETT01155359.1_3     -          LOTUS_CONSENSUS      -                4.2   14.6   0.3       4.8   14.4   0.3   1.1   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN113615_c5_g1_i1 transcribed RNA sequence
+GETT01268085.1_5     -          LOTUS_CONSENSUS      -                4.2   14.6   0.0       5.9   14.1   0.0   1.2   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN65534_c0_g2_i1 transcribed RNA sequence
+GETT01342374.1_6     -          LOTUS_CONSENSUS      -                4.9   14.4   0.2       8.3   13.7   0.2   1.4   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN21714_c0_g1_i1 transcribed RNA sequence
+GETT01360295.1_3     -          LOTUS_CONSENSUS      -                  5   14.4   0.0       6.3   14.0   0.0   1.4   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN55636_c0_g1_i1 transcribed RNA sequence
+GETT01155372.1_2     -          LOTUS_CONSENSUS      -                7.6   13.8   0.4        13   13.0   0.4   1.4   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN113615_c5_g11_i1 transcribed RNA sequence
+GETT01233432.1_6     -          LOTUS_CONSENSUS      -                8.1   13.7   0.0        15   12.8   0.0   1.3   1   1   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN162864_c0_g1_i1 transcribed RNA sequence
+GETT01215511.1_5     -          LOTUS_CONSENSUS      -                8.9   13.6   0.1        11   13.3   0.1   1.1   1   0   0   1   1   1   0 TSA: Meganyctiphanes norvegica TRINITY_DN117265_c0_g2_i2 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GETT.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GETT.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GETT.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:58:59 2019
+# [ok]

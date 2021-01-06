@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_026276393.1       -          LOTUS_CONSENSUS      -            1.2e-16   61.2   0.0   4.6e-10   40.1   0.0   3.7   3   0   0   3   3   3   3 uncharacterized protein LOC113205131 isoform X2 [Frankliniella occidentalis]
+XP_026276392.1       -          LOTUS_CONSENSUS      -            1.6e-16   60.8   0.0   5.1e-10   39.9   0.0   3.7   3   0   0   3   3   3   3 uncharacterized protein LOC113205131 isoform X1 [Frankliniella occidentalis]
+XP_026280917.1       -          LOTUS_CONSENSUS      -            2.5e-14   53.7   0.0   7.5e-14   52.2   0.0   1.8   1   0   0   1   1   1   1 uncharacterized protein LOC113208224 [Frankliniella occidentalis]
+XP_026290464.1       -          LOTUS_CONSENSUS      -            7.4e-10   39.4   0.0   1.3e-08   35.4   0.0   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like isoform X3 [Frankliniella occidentalis]
+XP_026290463.1       -          LOTUS_CONSENSUS      -            9.5e-10   39.1   0.0   1.4e-08   35.3   0.0   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like isoform X2 [Frankliniella occidentalis]
+XP_026290462.1       -          LOTUS_CONSENSUS      -              1e-09   39.0   0.0   1.5e-08   35.2   0.0   2.7   2   0   0   2   2   2   1 tudor domain-containing protein 7A-like isoform X1 [Frankliniella occidentalis]
+XP_026275266.1       -          LOTUS_CONSENSUS      -              2e-07   31.6   0.0      0.75   10.5   0.0   5.9   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X4 [Frankliniella occidentalis]
+XP_026275264.1       -          LOTUS_CONSENSUS      -            2.3e-07   31.4   0.0      0.77   10.5   0.0   5.8   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X2 [Frankliniella occidentalis]
+XP_026275265.1       -          LOTUS_CONSENSUS      -            2.3e-07   31.4   0.0      0.77   10.5   0.0   5.8   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X3 [Frankliniella occidentalis]
+XP_026275262.1       -          LOTUS_CONSENSUS      -            2.4e-07   31.4   0.0      0.77   10.5   0.0   5.8   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Frankliniella occidentalis]
+XP_026275263.1       -          LOTUS_CONSENSUS      -            2.4e-07   31.4   0.0      0.77   10.5   0.0   5.8   3   2   2   5   5   5   1 meiosis regulator and mRNA stability factor 1 isoform X1 [Frankliniella occidentalis]
+XP_026273388.1       -          LOTUS_CONSENSUS      -               0.05   14.3   0.0     0.081   13.6   0.0   1.3   1   0   0   1   1   1   0 DPH4 homolog [Frankliniella occidentalis]
+XP_026273389.1       -          LOTUS_CONSENSUS      -               0.05   14.3   0.0     0.081   13.6   0.0   1.3   1   0   0   1   1   1   0 DPH4 homolog [Frankliniella occidentalis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000697945.2_Focc_2.1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000697945.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000697945.2_Focc_2.1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:51 2019
+# [ok]

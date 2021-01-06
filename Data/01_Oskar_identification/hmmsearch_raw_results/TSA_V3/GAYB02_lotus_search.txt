@@ -1,0 +1,17 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYB02007252.1_1     -          oskar_filtered.aligned.LOTUS_domain -            6.1e-16   61.9   0.8   4.9e-13   52.6   0.0   3.8   3   1   1   4   4   4   1 TSA: Zygaena fausta C121379_a_13_0_l_1981 transcribed RNA sequence
+GAYB02020035.1_5     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-12   50.2   0.0   3.8e-12   49.7   0.0   1.2   1   0   0   1   1   1   1 TSA: Zygaena fausta C84065_a_3_0_l_433 transcribed RNA sequence
+GAYB02006043.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.84   13.3   0.8        25    8.6   0.1   2.8   2   0   0   2   2   2   0 TSA: Zygaena fausta C117833_a_23_0_l_1463 transcribed RNA sequence
+GAYB02016263.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.6   12.4   3.2       2.9   11.6   2.5   1.8   1   1   0   1   1   1   0 TSA: Zygaena fausta C72414_a_9_0_l_328 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYB02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYB02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYB02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:52:48 2019
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQK01001360.1_4     -          oskar_filtered.aligned.OSK_domain -             0.0029   20.2   0.1    0.0035   20.0   0.1   1.1   1   0   0   1   1   1   1 TSA: Heriades truncorum C43023_a_7_0_l_231 transcribed RNA sequence
+GBQK01006562.1_3     -          oskar_filtered.aligned.OSK_domain -               0.28   13.8   2.4      0.34   13.4   2.4   1.1   1   0   0   1   1   1   0 TSA: Heriades truncorum C61417_a_7_0_l_414 transcribed RNA sequence
+GBQK01007246.1_2     -          oskar_filtered.aligned.OSK_domain -               0.36   13.4   0.1      0.41   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Heriades truncorum C64191_a_8_0_l_458 transcribed RNA sequence
+GBQK01017830.1_5     -          oskar_filtered.aligned.OSK_domain -                0.8   12.2   0.0         1   11.9   0.0   1.2   1   0   0   1   1   1   0 TSA: Heriades truncorum s3747_L_5236_1_a_13_6_l_477 transcribed RNA sequence
+GBQK01000113.1_4     -          oskar_filtered.aligned.OSK_domain -                  1   11.9   1.9       3.7   10.1   0.1   2.5   2   0   0   2   2   2   0 TSA: Heriades truncorum C100618_a_57_0_l_4878 transcribed RNA sequence
+GBQK01009926.1_2     -          oskar_filtered.aligned.OSK_domain -                1.2   11.6   0.3       2.8   10.5   0.1   1.7   1   1   0   1   1   1   0 TSA: Heriades truncorum C75708_a_6_0_l_723 transcribed RNA sequence
+GBQK01000143.1_4     -          oskar_filtered.aligned.OSK_domain -                  3   10.4   3.5        18    7.8   0.0   3.0   2   1   1   3   3   3   0 TSA: Heriades truncorum C100776_a_16_0_l_5342 transcribed RNA sequence
+GBQK01014584.1_2     -          oskar_filtered.aligned.OSK_domain -                5.8    9.4   3.0        70    5.9   0.7   2.9   3   1   0   3   3   3   0 TSA: Heriades truncorum C99036_a_10_0_l_3322 transcribed RNA sequence
+GBQK01014014.1_4     -          oskar_filtered.aligned.OSK_domain -                6.5    9.3   4.2        15    8.1   4.2   1.7   1   1   0   1   1   1   0 TSA: Heriades truncorum C96252_a_9_0_l_2387 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:06:40 2019
+# [ok]

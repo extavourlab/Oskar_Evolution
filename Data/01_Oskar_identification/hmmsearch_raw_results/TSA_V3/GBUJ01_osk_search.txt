@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBUJ01004477.1_3     -          oskar_filtered.aligned.OSK_domain -               0.24   14.5   0.2      0.38   13.8   0.2   1.4   1   0   0   1   1   1   0 TSA: Colletes cunicularius C117682_a_8_0_l_2381_a transcribed RNA sequence
+GBUJ01031709.1_3     -          oskar_filtered.aligned.OSK_domain -                1.9   11.5  12.8         5   10.1  12.8   2.0   1   1   0   1   1   1   0 TSA: Colletes cunicularius s800_L_821_0_a_30_0_l_1373 transcribed RNA sequence
+GBUJ01030612.1_5     -          oskar_filtered.aligned.OSK_domain -                4.4   10.3   2.2       3.6   10.6   0.1   1.9   2   0   0   2   2   2   0 TSA: Colletes cunicularius s6993_L_18772_0_a_35_5_l_3831 transcribed RNA sequence
+GBUJ01030613.1_5     -          oskar_filtered.aligned.OSK_domain -                4.8   10.2   2.2       4.3   10.4   0.1   1.9   2   0   0   2   2   2   0 TSA: Colletes cunicularius s6994_L_18772_1_a_28_4_l_4338 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUJ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBUJ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBUJ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:04:04 2019
+# [ok]

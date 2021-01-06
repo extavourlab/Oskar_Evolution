@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXB01042010.1_1     -          LOTUS_CONSENSUS      -            3.9e-15   59.7   1.7   4.8e-13   53.0   0.1   2.6   2   0   0   2   2   2   2 TSA: Heteropsylla cubana breed wildtype s8936_L_25865_0_33_5_BUBBLE, transcribed RNA sequence
+GCXB01042011.1_1     -          LOTUS_CONSENSUS      -            1.3e-13   54.8   0.1   3.1e-13   53.6   0.1   1.6   1   0   0   1   1   1   1 TSA: Heteropsylla cubana breed wildtype s8937_L_25865_1_33_7_BUBBLE, transcribed RNA sequence
+GCXB01033542.1_4     -          LOTUS_CONSENSUS      -            1.3e-07   35.6   0.0   1.3e-07   35.6   0.0   3.6   3   1   2   5   5   5   1 TSA: Heteropsylla cubana breed wildtype s14257_L_55872_0_6_1_LINEAR, transcribed RNA sequence
+GCXB01029964.1_4     -          LOTUS_CONSENSUS      -            5.1e-07   33.7   6.4      0.38   14.8   0.1   7.2   6   2   1   7   7   7   2 TSA: Heteropsylla cubana breed wildtype s10961_L_35183_0_57_7_LINEAR, transcribed RNA sequence
+GCXB01016021.1_4     -          LOTUS_CONSENSUS      -                1.1   13.4   0.1       1.7   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Heteropsylla cubana breed wildtype C162308_3_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXB01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXB01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXB01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:56:38 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_022918067.1       -          oskar_filtered.aligned.LOTUS_domain -            5.5e-18   65.4   0.8   3.3e-14   53.3   0.0   5.2   6   1   1   7   7   7   2 uncharacterized protein LOC111427261 [Onthophagus taurus]
+XP_022902803.1       -          oskar_filtered.aligned.LOTUS_domain -            2.5e-17   63.3   0.2   1.7e-16   60.6   0.1   2.5   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X2 [Onthophagus taurus]
+XP_022902802.1       -          oskar_filtered.aligned.LOTUS_domain -            2.6e-17   63.2   0.2   1.7e-16   60.6   0.1   2.5   3   0   0   3   3   3   1 tudor domain-containing protein 7 isoform X1 [Onthophagus taurus]
+XP_022900383.1       -          oskar_filtered.aligned.LOTUS_domain -            3.4e-05   24.3   4.2      0.46   11.1   0.0   5.7   7   1   1   8   8   8   2 meiosis regulator and mRNA stability factor 1 isoform X2 [Onthophagus taurus]
+XP_022900382.1       -          oskar_filtered.aligned.LOTUS_domain -            3.4e-05   24.3   4.2      0.49   11.0   0.0   5.7   7   1   1   8   8   8   2 meiosis regulator and mRNA stability factor 1 isoform X1 [Onthophagus taurus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648695.1_Otau_2.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000648695.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000648695.1_Otau_2.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:39 2019
+# [ok]

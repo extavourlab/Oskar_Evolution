@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBJC01102397.1_4     -          LOTUS_CONSENSUS      -            1.3e-15   62.6   0.0   3.2e-15   61.4   0.0   1.6   2   0   0   2   2   2   1 TSA: Periplaneta americana comp116180_c0_seq5 transcribed RNA sequence
+GBJC01057138.1_3     -          LOTUS_CONSENSUS      -            2.3e-06   33.0   0.0   6.7e-06   31.5   0.0   1.8   1   0   0   1   1   1   1 TSA: Periplaneta americana comp114335_c1_seq6 transcribed RNA sequence
+GBJC01061951.1_3     -          LOTUS_CONSENSUS      -            2.6e-06   32.8   0.0   7.6e-06   31.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Periplaneta americana comp114335_c1_seq5 transcribed RNA sequence
+GBJC01089901.1_2     -          LOTUS_CONSENSUS      -            2.7e-06   32.8   0.0   7.7e-06   31.3   0.0   1.8   1   0   0   1   1   1   1 TSA: Periplaneta americana comp114335_c1_seq4 transcribed RNA sequence
+GBJC01027865.1_2     -          LOTUS_CONSENSUS      -              3e-06   32.6   0.0   8.6e-06   31.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Periplaneta americana comp114335_c1_seq3 transcribed RNA sequence
+GBJC01095912.1_2     -          LOTUS_CONSENSUS      -            3.1e-06   32.6   0.0   8.7e-06   31.2   0.0   1.8   1   0   0   1   1   1   1 TSA: Periplaneta americana comp114335_c1_seq2 transcribed RNA sequence
+GBJC01006029.1_2     -          LOTUS_CONSENSUS      -            3.5e-06   32.4   0.0   9.7e-06   31.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Periplaneta americana comp114335_c1_seq1 transcribed RNA sequence
+GBJC01062869.1_2     -          LOTUS_CONSENSUS      -             0.0087   21.6   0.0   5.8e+02    6.1   0.0   4.6   2   1   3   5   5   5   0 TSA: Periplaneta americana comp116912_c1_seq2 transcribed RNA sequence
+GBJC01014396.1_2     -          LOTUS_CONSENSUS      -             0.0095   21.4   0.0   6.1e+02    6.0   0.0   4.6   2   1   3   5   5   5   0 TSA: Periplaneta americana comp116912_c1_seq1 transcribed RNA sequence
+GBJC01021288.1_2     -          LOTUS_CONSENSUS      -                1.6   14.3   0.4       2.1   13.9   0.4   1.1   1   0   0   1   1   1   0 TSA: Periplaneta americana comp72129_c0_seq1 transcribed RNA sequence
+GBJC01070744.1_2     -          LOTUS_CONSENSUS      -                  3   13.4   0.0        52    9.4   0.0   2.1   2   0   0   2   2   2   0 TSA: Periplaneta americana comp116180_c0_seq6 transcribed RNA sequence
+GBJC01103008.1_2     -          LOTUS_CONSENSUS      -                4.7   12.8   0.0       8.9   11.9   0.0   1.4   1   0   0   1   1   1   0 TSA: Periplaneta americana comp114059_c0_seq1 transcribed RNA sequence
+GBJC01111198.1_6     -          LOTUS_CONSENSUS      -                5.2   12.7   0.0        10   11.7   0.0   1.5   1   0   0   1   1   1   0 TSA: Periplaneta americana comp94452_c0_seq1 transcribed RNA sequence
+GBJC01095911.1_5     -          LOTUS_CONSENSUS      -                6.6   12.3   0.6        13   11.4   0.2   1.5   1   1   1   2   2   2   0 TSA: Periplaneta americana comp786691_c0_seq1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBJC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBJC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:28 2019
+# [ok]

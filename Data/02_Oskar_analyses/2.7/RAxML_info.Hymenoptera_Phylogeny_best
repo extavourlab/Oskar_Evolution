@@ -1,0 +1,544 @@
+
+
+IMPORTANT WARNING: Sequences GDFS01087542.1 and GDFS01087539.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences g21709.t1 and g20142.t1 are exactly identical
+
+IMPORTANT WARNING
+Found 2 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file ../Data/02_Oskar_analyses/2.7/Hymenoptera_OSKAR_prank_align.trimmed_0.5.fasta.reduced
+
+
+This is RAxML version 8.2.11 released by Alexandros Stamatakis on June 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 323 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 8.69%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 20 inferences on the original alignment using 20 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 323
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -p 12345 -N 20 -m PROTGAMMAAUTO -s ../Data/02_Oskar_analyses/2.7/Hymenoptera_OSKAR_prank_align.trimmed_0.5.fasta -n Hymenoptera_Phylogeny_best -T 6 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46762.236211 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46762.125703 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46619.270251 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46577.927324 with empirical base frequencies
+
+
+Inference[0]: Time 812.588153 GAMMA-based likelihood -46576.701659, best rearrangement setting 10
+alpha[0]: 1.020344 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46758.822870 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46758.806328 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46605.483652 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46566.059807 with empirical base frequencies
+
+
+Inference[1]: Time 818.074826 GAMMA-based likelihood -46565.873632, best rearrangement setting 15
+alpha[0]: 1.028999 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46751.568534 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46751.431966 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46618.211364 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46573.208360 with empirical base frequencies
+
+
+Inference[2]: Time 895.785624 GAMMA-based likelihood -46572.816950, best rearrangement setting 15
+alpha[0]: 1.009278 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46725.735409 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46725.606239 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46611.749577 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46566.649500 with empirical base frequencies
+
+
+Inference[3]: Time 831.182566 GAMMA-based likelihood -46566.353695, best rearrangement setting 10
+alpha[0]: 1.016406 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46714.200199 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46713.207976 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46617.049362 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46579.816141 with empirical base frequencies
+
+
+Inference[4]: Time 886.457557 GAMMA-based likelihood -46577.712713, best rearrangement setting 15
+alpha[0]: 1.043737 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46736.722262 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46736.277759 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46625.490658 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46567.813952 with empirical base frequencies
+
+
+Inference[5]: Time 851.270400 GAMMA-based likelihood -46565.750687, best rearrangement setting 10
+alpha[0]: 1.023246 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46737.234825 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46737.173487 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46606.336893 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46575.440253 with empirical base frequencies
+
+
+Inference[6]: Time 851.330407 GAMMA-based likelihood -46573.503108, best rearrangement setting 15
+alpha[0]: 1.014514 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46747.611992 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46747.612054 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46627.440723 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46576.625250 with empirical base frequencies
+
+
+Inference[7]: Time 835.420558 GAMMA-based likelihood -46574.047638, best rearrangement setting 15
+alpha[0]: 1.020700 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46747.000079 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46746.292637 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46630.825471 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46574.039605 with empirical base frequencies
+
+
+Inference[8]: Time 704.597231 GAMMA-based likelihood -46573.626611, best rearrangement setting 10
+alpha[0]: 1.026149 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46760.157467 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46760.150506 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46594.648638 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46564.818403 with empirical base frequencies
+
+
+Inference[9]: Time 738.303010 GAMMA-based likelihood -46564.680004, best rearrangement setting 15
+alpha[0]: 1.021981 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46720.650080 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46720.500909 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46615.503068 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46564.942366 with empirical base frequencies
+
+
+Inference[10]: Time 828.392800 GAMMA-based likelihood -46564.620147, best rearrangement setting 15
+alpha[0]: 1.016710 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46743.019933 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46742.893844 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46628.149787 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46569.473773 with empirical base frequencies
+
+
+Inference[11]: Time 858.331433 GAMMA-based likelihood -46565.742153, best rearrangement setting 10
+alpha[0]: 1.017813 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46749.642061 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46749.008859 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46629.629817 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46598.315648 with empirical base frequencies
+
+
+Inference[12]: Time 999.201435 GAMMA-based likelihood -46566.084372, best rearrangement setting 5
+alpha[0]: 1.050194 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46734.065540 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46733.868292 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46618.680511 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46573.406862 with empirical base frequencies
+
+
+Inference[13]: Time 728.464864 GAMMA-based likelihood -46573.405355, best rearrangement setting 15
+alpha[0]: 1.015428 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46727.623514 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46727.477596 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46623.213296 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46566.598797 with empirical base frequencies
+
+
+Inference[14]: Time 769.902791 GAMMA-based likelihood -46566.212235, best rearrangement setting 10
+alpha[0]: 1.017100 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46712.048950 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46711.777591 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46618.070465 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46557.528181 with empirical base frequencies
+
+
+Inference[15]: Time 751.093861 GAMMA-based likelihood -46557.519203, best rearrangement setting 10
+alpha[0]: 1.028147 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46746.142859 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46746.101140 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46610.378697 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46568.036021 with empirical base frequencies
+
+
+Inference[16]: Time 806.047058 GAMMA-based likelihood -46565.062463, best rearrangement setting 15
+alpha[0]: 1.024689 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46730.736684 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46730.279957 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46605.203853 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46564.895646 with empirical base frequencies
+
+
+Inference[17]: Time 805.465096 GAMMA-based likelihood -46564.872566, best rearrangement setting 15
+alpha[0]: 1.033103 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46774.392162 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46774.388378 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46619.568595 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46573.530628 with empirical base frequencies
+
+
+Inference[18]: Time 727.023219 GAMMA-based likelihood -46573.220905, best rearrangement setting 15
+alpha[0]: 1.012771 
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46695.633641 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46695.614948 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46604.557139 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46568.367169 with empirical base frequencies
+
+
+Inference[19]: Time 768.361049 GAMMA-based likelihood -46564.617219, best rearrangement setting 5
+alpha[0]: 1.013397 
+
+
+Conducting final model optimizations on all 20 trees under GAMMA-based models ....
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -46557.567489 with empirical base frequencies
+
+
+Inference[0] final GAMMA-based Likelihood: -46576.707848 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.0
+Inference[1] final GAMMA-based Likelihood: -46565.895281 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.1
+Inference[2] final GAMMA-based Likelihood: -46572.864717 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.2
+Inference[3] final GAMMA-based Likelihood: -46566.370315 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.3
+Inference[4] final GAMMA-based Likelihood: -46577.720088 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.4
+Inference[5] final GAMMA-based Likelihood: -46565.753430 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.5
+Inference[6] final GAMMA-based Likelihood: -46573.528944 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.6
+Inference[7] final GAMMA-based Likelihood: -46574.050447 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.7
+Inference[8] final GAMMA-based Likelihood: -46573.618931 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.8
+Inference[9] final GAMMA-based Likelihood: -46564.678126 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.9
+Inference[10] final GAMMA-based Likelihood: -46564.645126 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.10
+Inference[11] final GAMMA-based Likelihood: -46565.753404 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.11
+Inference[12] final GAMMA-based Likelihood: -46566.076673 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.12
+Inference[13] final GAMMA-based Likelihood: -46573.417745 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.13
+Inference[14] final GAMMA-based Likelihood: -46566.242870 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.14
+Inference[15] final GAMMA-based Likelihood: -46557.520997 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.15
+Inference[16] final GAMMA-based Likelihood: -46565.064168 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.16
+Inference[17] final GAMMA-based Likelihood: -46564.881737 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.17
+Inference[18] final GAMMA-based Likelihood: -46573.233050 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.18
+Inference[19] final GAMMA-based Likelihood: -46564.645126 tree written to file /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_result.Hymenoptera_Phylogeny_best.RUN.19
+
+
+Starting final GAMMA-based thorough Optimization on tree 15 likelihood -46557.520997 .... 
+
+Final GAMMA-based Score of best tree -46557.521912
+
+Program execution info written to /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_info.Hymenoptera_Phylogeny_best
+Best-scoring ML tree written to: /home/lblondel/Documents/Harvard/ExtavourLab/projects/Project_Oskar_Search/Paper/Oskar_Orthologs/02_Oskar_analyses/RAxML_bestTree.Hymenoptera_Phylogeny_best
+
+Overall execution time: 16496.683963 secs or 4.582412 hours or 0.190934 days
+

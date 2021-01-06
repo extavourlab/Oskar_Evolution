@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAUP02017617.1_1     -          oskar_filtered.aligned.OSK_domain -            2.4e-55  190.2   0.1   6.1e-55  188.9   0.0   1.6   2   0   0   2   2   2   1 TSA: Cotesia vestalis C79155_a_9_0_l_1233 transcribed RNA sequence
+GAUP02025756.1_2     -          oskar_filtered.aligned.OSK_domain -                  6    9.6   5.0        12    8.6   4.8   1.7   1   1   0   1   1   1   0 TSA: Cotesia vestalis s5545_L_21233_0_a_4_4_l_1527 transcribed RNA sequence
+GAUP02012820.1_4     -          oskar_filtered.aligned.OSK_domain -                6.4    9.5   5.9       8.6    9.1   5.9   1.4   1   1   0   1   1   1   0 TSA: Cotesia vestalis C63791_a_10_0_l_610 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUP02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAUP02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAUP02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:58:01 2019
+# [ok]

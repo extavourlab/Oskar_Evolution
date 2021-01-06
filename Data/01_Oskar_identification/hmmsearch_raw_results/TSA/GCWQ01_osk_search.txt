@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCWQ01032986.1_5     -          OSK_CONSENSUS        -            2.4e-24   89.6   0.0   4.5e-24   88.7   0.0   1.4   1   0   0   1   1   1   1 TSA: Cyrpoptus belfragei breed wildtype s1126_L_2649_0_42_2_COMPLEX, transcribed RNA sequence
+GCWQ01032997.1_5     -          OSK_CONSENSUS        -            2.5e-24   89.5   0.0   5.7e-24   88.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Cyrpoptus belfragei breed wildtype s1127_L_2649_1_35_8_COMPLEX, transcribed RNA sequence
+GCWQ01033008.1_5     -          OSK_CONSENSUS        -            3.3e-24   89.2   0.0   7.5e-24   88.0   0.0   1.6   1   0   0   1   1   1   1 TSA: Cyrpoptus belfragei breed wildtype s1128_L_2649_2_35_7_COMPLEX, transcribed RNA sequence
+GCWQ01039064.1_4     -          OSK_CONSENSUS        -                0.2   15.1   0.1      0.63   13.5   0.1   1.8   1   0   0   1   1   1   0 TSA: Cyrpoptus belfragei breed wildtype s4774_L_14029_0_8_7_LINEAR, transcribed RNA sequence
+GCWQ01030526.1_2     -          OSK_CONSENSUS        -               0.25   14.8   1.3      0.27   14.7   1.3   1.0   1   0   0   1   1   1   0 TSA: Cyrpoptus belfragei breed wildtype C96826_2_0, transcribed RNA sequence
+GCWQ01002958.1_4     -          OSK_CONSENSUS        -                0.3   14.5   0.0      0.31   14.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Cyrpoptus belfragei breed wildtype C109087_5_0, transcribed RNA sequence
+GCWQ01008418.1_2     -          OSK_CONSENSUS        -                1.1   12.7   0.0       1.2   12.5   0.0   1.1   1   0   0   1   1   1   0 TSA: Cyrpoptus belfragei breed wildtype C126183_6_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCWQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCWQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:06:21 2019
+# [ok]

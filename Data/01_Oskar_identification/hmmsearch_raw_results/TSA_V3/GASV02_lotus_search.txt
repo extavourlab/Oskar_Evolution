@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GASV02026585.1_2     -          oskar_filtered.aligned.LOTUS_domain -              3e-20   75.4   0.0   1.1e-18   70.4   0.0   2.4   2   0   0   2   2   2   1 TSA: Notostira elongata s6696_L_22124_0_a_7_8_l_1947 transcribed RNA sequence
+GASV02023398.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-08   37.8   0.1       3.4   11.1   0.0   5.5   2   1   3   5   5   5   3 TSA: Notostira elongata s3816_L_6958_1_a_8_4_l_3124 transcribed RNA sequence
+GASV02023397.1_6     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-07   34.8   0.0       3.1   11.2   0.0   4.8   2   2   3   5   5   5   3 TSA: Notostira elongata s3815_L_6958_0_a_8_7_l_2968 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASV02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GASV02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GASV02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:21 2019
+# [ok]

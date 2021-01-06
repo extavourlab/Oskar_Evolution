@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBOQ01019305.1_3     -          oskar_filtered.aligned.LOTUS_domain -            4.9e-28  100.4   0.0   1.4e-27   99.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Dasymutilla gloriosa C89710_a_33_0_l_2850 transcribed RNA sequence
+GBOQ01023396.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.3e-19   73.4   0.0   2.4e-19   72.5   0.0   1.5   1   0   0   1   1   1   1 TSA: Dasymutilla gloriosa s4251_L_11314_0_a_5_9_l_848 transcribed RNA sequence
+GBOQ01019564.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.6e-05   27.0   0.0      0.31   14.4   0.0   5.0   1   1   3   5   5   5   1 TSA: Dasymutilla gloriosa C90616_a_23_0_l_3462 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBOQ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBOQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:12:10 2019
+# [ok]

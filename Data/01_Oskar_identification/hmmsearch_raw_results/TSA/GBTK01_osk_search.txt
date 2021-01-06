@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBTK01032247.1_6     -          OSK_CONSENSUS        -            1.4e-44  155.2   0.2   2.9e-44  154.2   0.2   1.5   1   0   0   1   1   1   1 TSA: Aphelinus abdominalis s1308_L_1591_0_a_56_1_l_1128 transcribed RNA sequence
+GBTK01032248.1_6     -          OSK_CONSENSUS        -            2.4e-44  154.4   0.2   5.7e-44  153.2   0.2   1.6   1   0   0   1   1   1   1 TSA: Aphelinus abdominalis s1309_L_1591_1_a_59_2_l_1546 transcribed RNA sequence
+GBTK01006504.1_5     -          OSK_CONSENSUS        -            4.1e-41  143.9   0.3   1.1e-40  142.5   0.3   1.7   1   0   0   1   1   1   1 TSA: Aphelinus abdominalis C122359_a_54_0_l_1786 transcribed RNA sequence
+GBTK01000043.1_5     -          OSK_CONSENSUS        -            5.1e-28  101.4   0.1   7.6e-28  100.8   0.1   1.2   1   0   0   1   1   1   1 TSA: Aphelinus abdominalis C100117_a_6_0_l_592 transcribed RNA sequence
+GBTK01027482.1_3     -          OSK_CONSENSUS        -              0.077   16.3   0.2     0.092   16.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Aphelinus abdominalis C86902_a_10_0_l_394 transcribed RNA sequence
+GBTK01011153.1_1     -          OSK_CONSENSUS        -               0.35   14.1   0.2       0.4   14.0   0.2   1.1   1   0   0   1   1   1   0 TSA: Aphelinus abdominalis C47593_a_3_0_l_238 transcribed RNA sequence
+GBTK01025759.1_1     -          OSK_CONSENSUS        -               0.52   13.6   0.1      0.56   13.5   0.1   1.1   1   0   0   1   1   1   0 TSA: Aphelinus abdominalis C82053_a_9_0_l_348 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTK01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBTK01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBTK01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:34 2019
+# [ok]

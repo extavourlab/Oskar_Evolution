@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBQI01008083.1_2     -          oskar_filtered.aligned.OSK_domain -               0.31   13.5   0.1      0.35   13.3   0.1   1.2   1   0   0   1   1   1   0 TSA: Prionyx kirbii C66726_a_6_0_l_561 transcribed RNA sequence
+GBQI01006249.1_2     -          oskar_filtered.aligned.OSK_domain -               0.76   12.2   0.1      0.83   12.1   0.1   1.2   1   0   0   1   1   1   0 TSA: Prionyx kirbii C58811_a_4_0_l_413 transcribed RNA sequence
+GBQI01016681.1_5     -          oskar_filtered.aligned.OSK_domain -                8.5    8.8  12.1      0.27   13.7   3.0   2.5   2   0   0   2   2   2   0 TSA: Prionyx kirbii s3528_L_5086_0_a_36_3_l_2385 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQI01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBQI01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBQI01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:19 2019
+# [ok]

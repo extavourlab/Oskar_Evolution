@@ -1,0 +1,28 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_014610361.1       -          oskar_filtered.aligned.LOTUS_domain -            1.3e-28   99.3   0.1   1.3e-28   99.3   0.1   2.8   4   0   0   4   4   4   1 PREDICTED: maternal effect protein oskar [Polistes canadensis]
+XP_014606179.1       -          oskar_filtered.aligned.LOTUS_domain -            3.6e-23   81.9   2.3   4.6e-22   78.3   0.2   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like isoform X3 [Polistes canadensis]
+XP_014606176.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-23   81.8   2.3   4.7e-22   78.3   0.2   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like isoform X1 [Polistes canadensis]
+XP_014606177.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-23   81.8   2.3   4.7e-22   78.3   0.2   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like isoform X1 [Polistes canadensis]
+XP_014606178.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-23   81.8   2.3   4.7e-22   78.3   0.2   3.0   2   0   0   2   2   2   1 PREDICTED: tudor domain-containing protein 7-like isoform X2 [Polistes canadensis]
+XP_014601631.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-15   57.4  11.4   3.3e-10   40.3   0.1   5.6   4   1   0   4   4   4   2 PREDICTED: putative uncharacterized protein DDB_G0282133 [Polistes canadensis]
+XP_014601632.1       -          oskar_filtered.aligned.LOTUS_domain -            1.4e-15   57.4  11.4   3.3e-10   40.3   0.1   5.6   4   1   0   4   4   4   2 PREDICTED: putative uncharacterized protein DDB_G0282133 [Polistes canadensis]
+XP_014599326.1       -          oskar_filtered.aligned.LOTUS_domain -            2.2e-08   34.4   0.0      0.12   12.7   0.0   6.4   2   1   4   6   6   6   1 PREDICTED: meiosis arrest female protein 1 isoform X2 [Polistes canadensis]
+XP_014599312.1       -          oskar_filtered.aligned.LOTUS_domain -            3.3e-08   33.8   0.0      0.13   12.6   0.0   6.3   2   1   3   5   5   5   1 PREDICTED: meiosis arrest female protein 1 isoform X1 [Polistes canadensis]
+XP_014611636.1       -          oskar_filtered.aligned.LOTUS_domain -              0.047   14.1   0.7       1.5    9.2   0.1   3.2   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X2 [Polistes canadensis]
+XP_014611634.1       -          oskar_filtered.aligned.LOTUS_domain -              0.049   14.0   0.6       1.6    9.1   0.1   3.2   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Polistes canadensis]
+XP_014611635.1       -          oskar_filtered.aligned.LOTUS_domain -              0.049   14.0   0.6       1.6    9.1   0.1   3.2   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Polistes canadensis]
+XP_014611637.1       -          oskar_filtered.aligned.LOTUS_domain -              0.049   14.0   0.6       1.6    9.1   0.1   3.2   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Polistes canadensis]
+XP_014611638.1       -          oskar_filtered.aligned.LOTUS_domain -              0.049   14.0   0.6       1.6    9.1   0.1   3.2   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X1 [Polistes canadensis]
+XP_014611639.1       -          oskar_filtered.aligned.LOTUS_domain -               0.06   13.7   0.9       1.8    9.0   0.1   3.2   4   0   0   4   4   4   0 PREDICTED: annexin B9-like isoform X3 [Polistes canadensis]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001313835.1_ASM131383v1_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001313835.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001313835.1_ASM131383v1_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:49 2019
+# [ok]

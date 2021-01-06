@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCFG01013353.1_4     -          OSK_CONSENSUS        -            2.2e-57  195.9   0.7   2.2e-57  195.9   0.7   2.5   3   0   0   3   3   3   1 TSA: Baccha elongata C74942_a_44_0_l_1590 transcribed RNA sequence
+GCFG01006409.1_1     -          OSK_CONSENSUS        -              0.016   17.6   0.4     0.019   17.3   0.4   1.1   1   0   0   1   1   1   0 TSA: Baccha elongata C51856_a_3_0_l_392 transcribed RNA sequence
+GCFG01001947.1_4     -          OSK_CONSENSUS        -               0.55   12.6   4.3       0.6   12.4   4.3   1.0   1   0   0   1   1   1   0 TSA: Baccha elongata C38111_a_5_0_l_241 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFG01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCFG01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCFG01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:50:07 2019
+# [ok]

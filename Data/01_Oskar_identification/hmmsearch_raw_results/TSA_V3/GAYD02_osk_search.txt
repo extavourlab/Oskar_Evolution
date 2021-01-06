@@ -1,0 +1,17 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYD02043901.1_4     -          oskar_filtered.aligned.OSK_domain -            7.2e-27   98.6   0.4     1e-26   98.1   0.4   1.2   1   0   0   1   1   1   1 TSA: Blaberus atropos C228503_a_5_0_l_932 transcribed RNA sequence
+GAYD02047362.1_6     -          oskar_filtered.aligned.OSK_domain -              0.097   16.7   0.9      0.24   15.4   0.9   1.6   1   0   0   1   1   1   0 TSA: Blaberus atropos C239065_a_3_0_l_1414 transcribed RNA sequence
+GAYD02032215.1_6     -          oskar_filtered.aligned.OSK_domain -                2.2   12.3   0.3         4   11.4   0.1   1.6   2   0   0   2   2   2   0 TSA: Blaberus atropos C193867_a_9_0_l_480 transcribed RNA sequence
+GAYD02030893.1_6     -          oskar_filtered.aligned.OSK_domain -                2.3   12.2   0.0       3.3   11.7   0.0   1.2   1   0   0   1   1   1   0 TSA: Blaberus atropos C190112_a_10_0_l_456 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYD02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYD02_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYD02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:09:48 2019
+# [ok]

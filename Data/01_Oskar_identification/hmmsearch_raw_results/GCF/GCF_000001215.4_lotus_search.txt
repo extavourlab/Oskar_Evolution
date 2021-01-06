@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_996186.1          -          LOTUS_CONSENSUS      -            4.8e-24   85.2   0.2   3.2e-23   82.6   0.0   2.5   4   0   0   4   4   4   1 oskar, isoform C [Drosophila melanogaster]
+NP_731295.1          -          LOTUS_CONSENSUS      -            7.9e-24   84.6   0.3   4.8e-23   82.1   0.0   2.5   4   0   0   4   4   4   1 oskar, isoform A [Drosophila melanogaster]
+NP_610950.2          -          LOTUS_CONSENSUS      -            1.3e-12   48.7   0.0   6.1e-12   46.5   0.0   2.2   2   0   0   2   2   2   1 tejas [Drosophila melanogaster]
+NP_001163213.1       -          LOTUS_CONSENSUS      -            4.2e-12   47.0   0.1     1e-11   45.8   0.1   1.7   1   0   0   1   1   1   1 tapas, isoform D [Drosophila melanogaster]
+NP_611475.3          -          LOTUS_CONSENSUS      -            5.4e-12   46.6   0.1   1.4e-11   45.4   0.1   1.8   1   0   0   1   1   1   1 tapas, isoform B [Drosophila melanogaster]
+NP_001033929.1       -          LOTUS_CONSENSUS      -             0.0004   21.4   0.0   0.00055   21.0   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein Dmel_CG34007, isoform A [Drosophila melanogaster]
+NP_001286104.1       -          LOTUS_CONSENSUS      -             0.0004   21.4   0.0   0.00055   21.0   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein Dmel_CG34007, isoform B [Drosophila melanogaster]
+NP_723984.1          -          LOTUS_CONSENSUS      -              0.027   15.5   1.9     0.051   14.7   1.9   1.4   1   0   0   1   1   1   0 uncharacterized protein Dmel_CG31807, isoform A [Drosophila melanogaster]
+NP_001285983.1       -          LOTUS_CONSENSUS      -              0.028   15.5   1.8     0.043   14.9   1.8   1.2   1   0   0   1   1   1   0 uncharacterized protein Dmel_CG31807, isoform B [Drosophila melanogaster]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000001215.4_Release_6_plus_ISO1_MT_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000001215.4_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000001215.4_Release_6_plus_ISO1_MT_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:37 2019
+# [ok]

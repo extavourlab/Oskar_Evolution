@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBMN01039564.1_5     -          oskar_filtered.aligned.LOTUS_domain -              6e-30  107.1   0.6   5.4e-29  104.1   0.1   2.3   2   0   0   2   2   2   1 TSA: Eupelmus urozonus s947_L_473_0_a_70_7_l_1592 transcribed RNA sequence
+GBMN01039575.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.7e-29  105.7   0.5   1.7e-28  102.5   0.0   2.3   2   0   0   2   2   2   1 TSA: Eupelmus urozonus s948_L_473_1_a_72_6_l_1552 transcribed RNA sequence
+GBMN01014269.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.4e-17   67.5   0.5     4e-17   66.0   0.5   1.8   1   0   0   1   1   1   1 TSA: Eupelmus urozonus C213412_a_6_0_l_862 transcribed RNA sequence
+GBMN01019845.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-12   50.9   0.0   4.8e-12   49.7   0.0   1.7   1   0   0   1   1   1   1 TSA: Eupelmus urozonus s1348_L_655_0_a_37_0_l_3642 transcribed RNA sequence
+GBMN01019856.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.2e-12   50.7   0.0   4.8e-12   49.7   0.0   1.6   1   0   0   1   1   1   1 TSA: Eupelmus urozonus s1349_L_655_1_a_34_8_l_3642 transcribed RNA sequence
+GBMN01019868.1_4     -          oskar_filtered.aligned.LOTUS_domain -            6.6e-12   49.2   0.0   1.6e-11   48.0   0.0   1.7   1   0   0   1   1   1   1 TSA: Eupelmus urozonus s1350_L_655_2_a_36_8_l_3642 transcribed RNA sequence
+GBMN01033799.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.9e-07   33.9   0.0       4.7   11.2   0.0   5.1   2   1   3   5   5   5   2 TSA: Eupelmus urozonus s4288_L_2193_2_a_43_3_l_4526 transcribed RNA sequence
+GBMN01033797.1_4     -          oskar_filtered.aligned.LOTUS_domain -            5.6e-07   33.4   0.0       5.1   11.1   0.0   5.1   2   1   3   5   5   5   2 TSA: Eupelmus urozonus s4286_L_2193_0_a_42_9_l_4894 transcribed RNA sequence
+GBMN01033798.1_4     -          oskar_filtered.aligned.LOTUS_domain -            7.5e-07   33.0   0.0       5.5   11.0   0.0   5.1   2   1   3   5   5   5   2 TSA: Eupelmus urozonus s4287_L_2193_1_a_42_2_l_5210 transcribed RNA sequence
+GBMN01037645.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.084   16.8   0.1      0.23   15.4   0.1   1.8   1   0   0   1   1   1   0 TSA: Eupelmus urozonus s7752_L_4177_0_a_5_7_l_1200 transcribed RNA sequence
+GBMN01007343.1_1     -          oskar_filtered.aligned.LOTUS_domain -                1.3   13.0   0.1       1.6   12.7   0.1   1.2   1   0   0   1   1   1   0 TSA: Eupelmus urozonus C168545_a_3_0_l_319 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMN01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBMN01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBMN01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:55:55 2019
+# [ok]

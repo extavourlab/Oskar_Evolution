@@ -1,0 +1,22 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_023939458.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-16   60.4   0.0   1.4e-14   54.4   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7B isoform X4 [Bicyclus anynana]
+XP_023939457.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-16   60.4   0.0   1.4e-14   54.4   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7B isoform X3 [Bicyclus anynana]
+XP_023939456.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-16   60.4   0.0   1.4e-14   54.4   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7B isoform X2 [Bicyclus anynana]
+XP_023939462.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-16   60.4   0.6   1.1e-14   54.7   0.0   2.6   3   0   0   3   3   3   1 uncharacterized protein LOC112046869 isoform X7 [Bicyclus anynana]
+XP_023939461.1       -          oskar_filtered.aligned.LOTUS_domain -              2e-16   60.4   0.6   1.1e-14   54.7   0.0   2.6   3   0   0   3   3   3   1 uncharacterized protein LOC112046869 isoform X6 [Bicyclus anynana]
+XP_023939455.1       -          oskar_filtered.aligned.LOTUS_domain -            2.1e-16   60.3   0.0   1.5e-14   54.4   0.0   2.6   2   0   0   2   2   2   1 tudor domain-containing protein 7B isoform X1 [Bicyclus anynana]
+XP_023938384.1       -          oskar_filtered.aligned.LOTUS_domain -            7.5e-13   48.9   0.0   9.9e-09   35.7   0.0   2.4   2   0   0   2   2   2   2 uncharacterized protein LOC112046116, partial [Bicyclus anynana]
+XP_023943511.1       -          oskar_filtered.aligned.LOTUS_domain -              0.027   15.0   0.4       4.4    7.9   0.1   2.5   2   0   0   2   2   2   0 uncharacterized protein LOC112049727 [Bicyclus anynana]
+XP_023938233.1       -          oskar_filtered.aligned.LOTUS_domain -               0.46   11.0   4.2       3.8    8.1   0.4   2.3   2   0   0   2   2   2   0 neurogenic differentiation factor 1-like [Bicyclus anynana]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_900239965.1_Bicyclus_anynana_v1.2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_900239965.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_900239965.1_Bicyclus_anynana_v1.2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:38 2019
+# [ok]

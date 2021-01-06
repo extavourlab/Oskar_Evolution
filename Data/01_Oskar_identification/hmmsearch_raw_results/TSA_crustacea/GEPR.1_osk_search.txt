@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEPR01044688.1_1     -          OSK_CONSENSUS        -               0.22   15.9   0.1      0.25   15.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c44283_g2_i1 transcribed RNA sequence
+GEPR01058627.1_2     -          OSK_CONSENSUS        -               0.43   15.0   0.1      0.73   14.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c48415_g2_i2 transcribed RNA sequence
+GEPR01058626.1_2     -          OSK_CONSENSUS        -               0.45   14.9   0.1      0.73   14.2   0.1   1.2   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c48415_g2_i1 transcribed RNA sequence
+GEPR01069248.1_2     -          OSK_CONSENSUS        -               0.55   14.6   0.3      0.75   14.2   0.3   1.2   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c60239_g1_i1 transcribed RNA sequence
+GEPR01014315.1_2     -          OSK_CONSENSUS        -                1.4   13.3   0.0       3.5   12.0   0.0   1.7   1   1   0   1   1   1   0 TSA: Heterogammarus sophianosii c19406_g1_i1 transcribed RNA sequence
+GEPR01014398.1_2     -          OSK_CONSENSUS        -                1.7   13.1   0.1       2.1   12.7   0.1   1.1   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c19549_g1_i1 transcribed RNA sequence
+GEPR01058628.1_2     -          OSK_CONSENSUS        -                1.9   12.9   0.0       2.3   12.6   0.0   1.1   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c48415_g2_i3 transcribed RNA sequence
+GEPR01043072.1_2     -          OSK_CONSENSUS        -                2.2   12.7   0.0       2.4   12.5   0.0   1.2   1   0   0   1   1   1   0 TSA: Heterogammarus sophianosii c43327_g4_i1 transcribed RNA sequence
+GEPR01055325.1_1     -          OSK_CONSENSUS        -                3.3   12.1   1.4       6.3   11.2   0.4   1.9   2   0   0   2   2   2   0 TSA: Heterogammarus sophianosii c47759_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPR.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/GEPR.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_GEPR.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:57:34 2019
+# [ok]

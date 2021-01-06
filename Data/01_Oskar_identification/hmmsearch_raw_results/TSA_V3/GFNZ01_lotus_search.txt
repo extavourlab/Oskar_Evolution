@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GFNZ01022963.1_6     -          oskar_filtered.aligned.LOTUS_domain -            3.2e-18   70.1   1.0   2.8e-17   67.1   0.1   2.7   2   0   0   2   2   2   1 TSA: Bactrocera musae TR13362_c0_g1_i1 transcribed RNA sequence
+GFNZ01022964.1_5     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-18   70.1   1.1   2.6e-17   67.2   0.1   2.6   2   0   0   2   2   2   1 TSA: Bactrocera musae TR13362_c0_g1_i2 transcribed RNA sequence
+GFNZ01059381.1_3     -          oskar_filtered.aligned.LOTUS_domain -            7.7e-11   46.5   0.7   8.5e-10   43.1   0.0   2.0   2   0   0   2   2   2   1 TSA: Bactrocera musae TR36948_c0_g1_i1 transcribed RNA sequence
+GFNZ01013107.1_2     -          oskar_filtered.aligned.LOTUS_domain -            1.6e-09   42.2   0.0   1.6e-09   42.2   0.0   2.4   3   0   0   3   3   3   1 TSA: Bactrocera musae TR8641_c0_g1_i1 transcribed RNA sequence
+GFNZ01052815.1_4     -          oskar_filtered.aligned.LOTUS_domain -               0.26   15.9   0.9       0.5   15.0   0.9   1.5   1   0   0   1   1   1   0 TSA: Bactrocera musae TR30538_c0_g1_i1 transcribed RNA sequence
+GFNZ01026346.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.45   15.1   0.0       1.1   13.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Bactrocera musae TR14582_c0_g1_i3 transcribed RNA sequence
+GFNZ01026345.1_5     -          oskar_filtered.aligned.LOTUS_domain -               0.46   15.1   0.0       1.2   13.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Bactrocera musae TR14582_c0_g1_i2 transcribed RNA sequence
+GFNZ01026344.1_6     -          oskar_filtered.aligned.LOTUS_domain -               0.47   15.0   0.0       1.2   13.8   0.0   1.6   1   0   0   1   1   1   0 TSA: Bactrocera musae TR14582_c0_g1_i1 transcribed RNA sequence
+GFNZ01005672.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.5   0.6        84    7.8   0.1   2.5   2   1   0   2   2   2   0 TSA: Bactrocera musae TR4094_c0_g1_i1 transcribed RNA sequence
+GFNZ01013108.1_1     -          oskar_filtered.aligned.LOTUS_domain -                2.8   12.6   0.1       2.8   12.6   0.1   1.9   2   0   0   2   2   2   0 TSA: Bactrocera musae TR8641_c0_g2_i1 transcribed RNA sequence
+GFNZ01024381.1_5     -          oskar_filtered.aligned.LOTUS_domain -                6.4   11.4   3.5        27    9.4   0.1   2.7   3   0   0   3   3   3   0 TSA: Bactrocera musae TR13904_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GFNZ01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GFNZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:57:21 2019
+# [ok]

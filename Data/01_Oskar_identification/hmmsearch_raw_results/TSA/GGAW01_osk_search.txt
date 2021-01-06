@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGAW01019355.1_4     -          OSK_CONSENSUS        -            1.2e-34  121.9   0.1   2.7e-34  120.9   0.1   1.6   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_2615.2 transcribed RNA sequence
+GGAW01003471.1_6     -          OSK_CONSENSUS        -            9.8e-28   99.5   0.0   1.1e-27   99.4   0.0   1.0   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_7550 transcribed RNA sequence
+GGAW01017652.1_4     -          OSK_CONSENSUS        -            1.2e-16   63.5   0.1   1.3e-16   63.4   0.1   1.0   1   0   0   1   1   1   1 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_8600 transcribed RNA sequence
+GGAW01012802.1_5     -          OSK_CONSENSUS        -               0.42   13.0   0.4      0.88   11.9   0.4   1.5   1   0   0   1   1   1   0 TSA: Atrichopogon sp. Cera GD1 Atrichopogon_sp_contig_4589.1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAW01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGAW01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGAW01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:51:52 2019
+# [ok]

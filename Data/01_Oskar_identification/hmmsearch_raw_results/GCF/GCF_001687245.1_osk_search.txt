@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_017478674.1       -          OSK_CONSENSUS        -            1.8e-46  158.6   1.3   2.4e-46  158.2   1.3   1.1   1   0   0   1   1   1   1 PREDICTED: maternal effect protein oskar-like [Rhagoletis zephyria]
+XP_017477309.1       -          OSK_CONSENSUS        -            2.8e-36  125.5   3.1   7.4e-36  124.1   0.2   2.2   2   0   0   2   2   2   1 PREDICTED: uncharacterized protein LOC108367226, partial [Rhagoletis zephyria]
+XP_017482687.1       -          OSK_CONSENSUS        -               0.11   13.1   0.1       0.2   12.2   0.1   1.4   1   0   0   1   1   1   0 PREDICTED: uncharacterized protein LOC108371608 [Rhagoletis zephyria]
+XP_017466759.1       -          OSK_CONSENSUS        -                0.2   12.2   0.1      0.31   11.6   0.1   1.3   1   0   0   1   1   1   0 PREDICTED: glutamate--cysteine ligase regulatory subunit [Rhagoletis zephyria]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001687245.1_Rhagoletis_zephyria_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_001687245.1_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_001687245.1_Rhagoletis_zephyria_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:44 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAYJ02042457.1_4     -          LOTUS_CONSENSUS      -            9.2e-37  129.3   0.0   6.4e-21   78.5   0.0   2.5   2   0   0   2   2   2   2 TSA: Atelura formicaria s18113_L_56583_0_a_21_1_l_2242 transcribed RNA sequence
+GAYJ02043181.1_4     -          LOTUS_CONSENSUS      -            2.1e-22   83.3   0.8   3.2e-08   37.8   0.0   4.4   4   0   0   4   4   4   4 TSA: Atelura formicaria s2322_L_2355_0_a_14_8_l_2590 transcribed RNA sequence
+GAYJ02043182.1_6     -          LOTUS_CONSENSUS      -            2.2e-22   83.2   0.8   3.2e-08   37.7   0.0   4.4   4   0   0   4   4   4   4 TSA: Atelura formicaria s2323_L_2355_1_a_14_3_l_2622 transcribed RNA sequence
+GAYJ02001962.1_5     -          LOTUS_CONSENSUS      -            7.3e-07   33.4   0.0   8.6e-07   33.2   0.0   1.1   1   0   0   1   1   1   1 TSA: Atelura formicaria C153791_a_7_0_l_213 transcribed RNA sequence
+GAYJ02044549.1_3     -          LOTUS_CONSENSUS      -              0.011   20.0   0.0   5.1e+02    5.1   0.0   5.2   3   2   2   5   5   5   0 TSA: Atelura formicaria s3554_L_3788_1_a_27_5_l_6224 transcribed RNA sequence
+GAYJ02044548.1_3     -          LOTUS_CONSENSUS      -              0.011   20.0   0.0   5.1e+02    5.1   0.0   5.2   3   2   2   5   5   5   0 TSA: Atelura formicaria s3553_L_3788_0_a_27_5_l_6231 transcribed RNA sequence
+GAYJ02004641.1_1     -          LOTUS_CONSENSUS      -                1.7   13.0   0.1         2   12.8   0.1   1.2   1   0   0   1   1   1   0 TSA: Atelura formicaria C162422_a_5_0_l_230 transcribed RNA sequence
+GAYJ02012121.1_2     -          LOTUS_CONSENSUS      -                1.9   12.8   0.2       2.6   12.4   0.2   1.1   1   0   0   1   1   1   0 TSA: Atelura formicaria C184247_a_4_0_l_278 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYJ02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAYJ02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAYJ02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:53:22 2019
+# [ok]

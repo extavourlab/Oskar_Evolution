@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYZ01025304.1_5     -          OSK_CONSENSUS        -              8e-08   36.0   0.0   1.4e-07   35.1   0.0   1.4   1   0   0   1   1   1   1 TSA: Trichocorixa calva breed wildtype C379099_6_0, transcribed RNA sequence
+GCYZ01004723.1_6     -          OSK_CONSENSUS        -                1.1   12.8   0.0       1.2   12.7   0.0   1.0   1   0   0   1   1   1   0 TSA: Trichocorixa calva breed wildtype C287597_2_0, transcribed RNA sequence
+GCYZ01011393.1_6     -          OSK_CONSENSUS        -                1.9   12.0   0.0   1.2e+02    6.1   0.0   2.0   2   0   0   2   2   2   0 TSA: Trichocorixa calva breed wildtype C313375_6_0, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYZ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYZ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYZ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:46:03 2019
+# [ok]

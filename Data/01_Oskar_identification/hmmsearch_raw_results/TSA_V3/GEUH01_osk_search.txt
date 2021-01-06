@@ -1,0 +1,19 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GEUH01060084.1_1     -          oskar_filtered.aligned.OSK_domain -            2.2e-37  132.9   0.7   5.8e-37  131.6   0.7   1.7   1   0   0   1   1   1   1 TSA: Callosobruchus maculatus c24919_g3_i1 transcribed RNA sequence
+GEUH01008568.1_1     -          oskar_filtered.aligned.OSK_domain -               0.34   14.9   7.9       3.9   11.5   7.6   2.5   1   1   0   1   1   1   0 TSA: Callosobruchus maculatus c7974_g2_i1 transcribed RNA sequence
+GEUH01042326.1_5     -          oskar_filtered.aligned.OSK_domain -               0.52   14.3   0.7      0.67   14.0   0.7   1.1   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus c34130_g1_i1 transcribed RNA sequence
+GEUH01015564.1_1     -          oskar_filtered.aligned.OSK_domain -                1.1   13.3   0.1       1.2   13.1   0.1   1.0   1   0   0   1   1   1   0 TSA: Callosobruchus maculatus c34719_g1_i1 transcribed RNA sequence
+GEUH01030759.1_3     -          oskar_filtered.aligned.OSK_domain -                1.1   13.2   0.5       6.5   10.8   0.5   1.9   1   1   0   1   1   1   0 TSA: Callosobruchus maculatus c8600_g1_i1 transcribed RNA sequence
+GEUH01017697.1_4     -          oskar_filtered.aligned.OSK_domain -                8.8   10.3   4.4        16    9.5   2.1   2.2   1   1   1   2   2   2   0 TSA: Callosobruchus maculatus c3201_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUH01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GEUH01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GEUH01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:10:53 2019
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_002104196.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-25   89.9   0.1   7.2e-25   87.6   0.1   2.2   2   0   0   2   2   2   1 uncharacterized protein Dsimw501_GD18580, isoform A [Drosophila simulans]
+XP_016035546.1       -          oskar_filtered.aligned.LOTUS_domain -            1.5e-25   89.8   0.1   7.2e-25   87.6   0.1   2.2   2   0   0   2   2   2   1 uncharacterized protein Dsimw501_GD18580, isoform B [Drosophila simulans]
+XP_016027584.1       -          oskar_filtered.aligned.LOTUS_domain -            1.1e-13   51.7   0.0   1.6e-12   48.0   0.0   2.5   2   0   0   2   2   2   1 uncharacterized protein Dsimw501_GD25688, isoform B [Drosophila simulans]
+XP_002081481.1       -          oskar_filtered.aligned.LOTUS_domain -            3.7e-13   50.0   0.0   1.5e-12   48.1   0.0   2.0   2   0   0   2   2   2   1 uncharacterized protein Dsimw501_GD25688, isoform A [Drosophila simulans]
+XP_016028700.1       -          oskar_filtered.aligned.LOTUS_domain -            1.9e-11   44.6   0.0     6e-11   42.9   0.0   1.9   1   0   0   1   1   1   1 uncharacterized protein Dsimw501_GD11509, isoform C [Drosophila simulans]
+XP_016028701.1       -          oskar_filtered.aligned.LOTUS_domain -            2.7e-11   44.1   0.0   8.1e-11   42.5   0.0   1.8   1   0   0   1   1   1   1 uncharacterized protein Dsimw501_GD11509, isoform D [Drosophila simulans]
+XP_002080036.1       -          oskar_filtered.aligned.LOTUS_domain -            5.4e-05   23.8   0.0   6.2e-05   23.6   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein Dsimw501_GD24261 [Drosophila simulans]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000754195.2_ASM75419v2_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000754195.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000754195.2_ASM75419v2_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 14:22:51 2019
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GBXA01022885.1_1     -          oskar_filtered.aligned.LOTUS_domain -            9.3e-23   83.4   0.0   5.9e-22   80.8   0.0   2.4   2   0   0   2   2   2   1 TSA: Parnopes grandior s7653_L_14628_1_a_37_0_l_2690 transcribed RNA sequence
+GBXA01022884.1_1     -          oskar_filtered.aligned.LOTUS_domain -            1.9e-22   82.4   0.0     9e-22   80.2   0.0   2.2   2   0   0   2   2   2   1 TSA: Parnopes grandior s7652_L_14628_0_a_42_6_l_3689 transcribed RNA sequence
+GBXA01001780.1_3     -          oskar_filtered.aligned.LOTUS_domain -            2.3e-14   56.5   0.1   7.4e-14   54.8   0.1   2.0   2   0   0   2   2   2   1 TSA: Parnopes grandior C109116_a_30_0_l_4785 transcribed RNA sequence
+GBXA01007559.1_1     -          oskar_filtered.aligned.LOTUS_domain -              0.027   17.7   0.3     0.043   17.1   0.3   1.4   1   0   0   1   1   1   0 TSA: Parnopes grandior C62410_a_7_0_l_351 transcribed RNA sequence
+GBXA01016383.1_6     -          oskar_filtered.aligned.LOTUS_domain -                3.5   10.9   1.5        24    8.3   0.0   3.0   4   0   0   4   4   4   0 TSA: Parnopes grandior s1777_L_1951_1_a_48_1_l_1953 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBXA01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GBXA01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GBXA01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:51:02 2019
+# [ok]

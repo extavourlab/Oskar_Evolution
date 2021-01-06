@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GDED01023310.1_5     -          LOTUS_CONSENSUS      -               0.66   14.2   0.2       2.4   12.4   0.0   1.9   2   0   0   2   2   2   0 TSA: Diplonychus rusticus breed wildtype C157219_a_4_0_l_355, transcribed RNA sequence
+GDED01011693.1_1     -          LOTUS_CONSENSUS      -               0.99   13.7   0.9         9   10.6   0.1   2.1   1   1   1   2   2   2   0 TSA: Diplonychus rusticus breed wildtype C126714_a_6_0_l_246, transcribed RNA sequence
+GDED01040243.1_4     -          LOTUS_CONSENSUS      -                4.3   11.6   6.3       9.9   10.5   0.0   3.4   3   0   0   3   3   3   0 TSA: Diplonychus rusticus breed wildtype s1361_L_1790_0_a_48_0_l_1611, transcribed RNA sequence
+GDED01040245.1_4     -          LOTUS_CONSENSUS      -                  5   11.4   6.3        11   10.3   0.0   3.5   3   0   0   3   3   3   0 TSA: Diplonychus rusticus breed wildtype s1363_L_1790_2_a_45_1_l_1740, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDED01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GDED01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GDED01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 01:05:58 2019
+# [ok]

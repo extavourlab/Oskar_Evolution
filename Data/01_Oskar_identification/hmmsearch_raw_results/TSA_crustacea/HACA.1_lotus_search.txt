@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+HACA01006367.1_3     -          LOTUS_CONSENSUS      -            1.5e-20   76.7  10.4   2.2e-12   50.5   2.4   3.8   2   1   1   3   3   3   3 TSA: Lepeophtheirus salmonis mRNA for putative protein, similar to XP_002593712.1, contig Lsa.5536, transcribed RNA sequence
+HACA01019621.1_2     -          LOTUS_CONSENSUS      -            5.2e-19   71.8   0.0   2.5e-18   69.6   0.0   2.3   1   0   0   1   1   1   1 TSA: Lepeophtheirus salmonis mRNA for tudor domaincontaining protein 7Alike [Bombus terrestris], contig Lsa.17169, transcribed RNA sequence
+HACA01022757.1_1     -          LOTUS_CONSENSUS      -            1.1e-07   35.5   8.4       5.5   10.8   0.6   6.5   2   2   4   6   6   6   2 TSA: Lepeophtheirus salmonis mRNA for limkainb1like [Bombus terrestris], contig Lsa.19959, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HACA.1.fasta
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_RESULT/HACA.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/TSA_PROTEIN/translated_HACA.1.fasta 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sat Nov  2 12:59:26 2019
+# [ok]

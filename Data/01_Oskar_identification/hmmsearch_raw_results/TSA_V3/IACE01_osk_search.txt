@@ -1,0 +1,18 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+IACE01085560.1_1     -          oskar_filtered.aligned.OSK_domain -              5e-29  107.0   7.6   1.9e-28  105.1   0.1   2.3   2   1   0   2   2   2   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62589_g2_i1, transcribed RNA sequence
+IACE01085561.1_5     -          oskar_filtered.aligned.OSK_domain -            1.2e-23   89.5   0.1     2e-23   88.7   0.1   1.3   1   0   0   1   1   1   1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c62589_g3_i1, transcribed RNA sequence
+IACE01032931.1_3     -          oskar_filtered.aligned.OSK_domain -                1.6   14.1   0.1       1.9   13.8   0.1   1.1   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c41130_g1_i1, transcribed RNA sequence
+IACE01034202.1_1     -          oskar_filtered.aligned.OSK_domain -                5.5   12.3   0.0       6.9   12.0   0.0   1.1   1   0   0   1   1   1   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c41923_g3_i1, transcribed RNA sequence
+IACE01106486.1_6     -          oskar_filtered.aligned.OSK_domain -                5.7   12.3   3.5       2.5   13.4   0.2   2.1   2   0   0   2   2   2   0 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c65328_g12_i1, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACE01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/IACE01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_IACE01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:59:11 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCPF01049474.1_6     -          LOTUS_CONSENSUS      -               0.21   15.9   0.2      0.49   14.8   0.1   1.7   2   0   0   2   2   2   0 TSA: Cheddikulama straminea breed breeding s7251_L_14684_0_a_3_0_l_446, transcribed RNA sequence
+GCPF01035230.1_5     -          LOTUS_CONSENSUS      -               0.31   15.4   1.1        20    9.6   0.0   3.0   3   0   0   3   3   3   0 TSA: Cheddikulama straminea breed breeding C199842_a_12_0_l_1903, transcribed RNA sequence
+GCPF01024541.1_5     -          LOTUS_CONSENSUS      -                2.3   12.6   0.0       5.4   11.4   0.0   1.6   1   0   0   1   1   1   0 TSA: Cheddikulama straminea breed breeding C167900_a_8_0_l_604, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPF01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCPF01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCPF01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:52:28 2019
+# [ok]

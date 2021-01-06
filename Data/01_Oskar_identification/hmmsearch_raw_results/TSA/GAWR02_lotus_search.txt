@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GAWR02013590.1_2     -          LOTUS_CONSENSUS      -            7.9e-16   61.2   0.3   2.8e-09   40.2   0.1   2.8   3   0   0   3   3   3   2 TSA: Menopon gallinae C73924_a_3_0_l_1102 transcribed RNA sequence
+GAWR02019460.1_2     -          LOTUS_CONSENSUS      -            3.1e-11   46.4   1.5   1.7e-10   44.0   0.0   3.0   4   0   0   4   4   4   1 TSA: Menopon gallinae s242_L_226_1_a_33_3_l_3931 transcribed RNA sequence
+GAWR02022354.1_2     -          LOTUS_CONSENSUS      -            1.6e-08   37.7   0.1   3.7e-08   36.5   0.1   1.6   1   0   0   1   1   1   1 TSA: Menopon gallinae s5038_L_10272_0_a_8_4_l_908 transcribed RNA sequence
+GAWR02019449.1_2     -          LOTUS_CONSENSUS      -              0.002   21.4   1.8     0.011   19.1   0.0   3.2   4   0   0   4   4   4   1 TSA: Menopon gallinae s241_L_226_0_a_34_2_l_3790 transcribed RNA sequence
+GAWR02009580.1_3     -          LOTUS_CONSENSUS      -               0.76   13.1   0.2       7.2   10.0   0.1   2.1   2   0   0   2   2   2   0 TSA: Menopon gallinae C59775_a_4_0_l_531 transcribed RNA sequence
+GAWR02003560.1_3     -          LOTUS_CONSENSUS      -               0.98   12.8   0.0       1.3   12.4   0.0   1.1   1   0   0   1   1   1   0 TSA: Menopon gallinae C39608_a_41_0_l_258 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWR02.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GAWR02_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GAWR02.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Sun Oct  6 00:49:43 2019
+# [ok]

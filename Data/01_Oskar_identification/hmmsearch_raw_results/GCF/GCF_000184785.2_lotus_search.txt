@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_012342136.1       -          LOTUS_CONSENSUS      -            6.5e-21   74.5   1.1   6.2e-20   71.3   0.1   3.2   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X1 [Apis florea]
+XP_003693796.1       -          LOTUS_CONSENSUS      -            1.4e-20   73.4   0.5     2e-19   69.7   0.0   3.2   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 isoform X2 [Apis florea]
+XP_012349391.1       -          LOTUS_CONSENSUS      -            6.8e-16   58.4  16.0   1.3e-12   47.9   0.4   4.9   4   0   0   4   4   4   2 PREDICTED: uncharacterized protein LOC100863595 [Apis florea]
+XP_003695933.2       -          LOTUS_CONSENSUS      -             0.0017   18.6   0.3      0.26   11.6   0.0   2.7   2   0   0   2   2   2   1 PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC100865122 [Apis florea]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000184785.2_Aflo_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000184785.2_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000184785.2_Aflo_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:59 2019
+# [ok]

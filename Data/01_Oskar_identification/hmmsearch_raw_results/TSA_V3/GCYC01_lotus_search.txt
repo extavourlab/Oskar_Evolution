@@ -1,0 +1,26 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCYC01071346.1_4     -          oskar_filtered.aligned.LOTUS_domain -            3.3e-13   54.4   0.0   1.3e-12   52.5   0.0   2.1   1   0   0   1   1   1   1 TSA: Pachypsylla celtidismamma breed wildtype s34724_L_71078_0_13_1_LINEAR, transcribed RNA sequence
+GCYC01074799.1_3     -          oskar_filtered.aligned.LOTUS_domain -            3.8e-05   28.5   2.3   0.00041   25.2   0.3   3.0   3   0   0   3   3   3   1 TSA: Pachypsylla celtidismamma breed wildtype s37832_L_87853_0_23_0_LINEAR, transcribed RNA sequence
+GCYC01048028.1_6     -          oskar_filtered.aligned.LOTUS_domain -            0.00016   26.5   0.1       1.1   14.3   0.0   3.4   3   1   1   4   4   4   2 TSA: Pachypsylla celtidismamma breed wildtype s13724_L_15207_1_7_8_COMPLEX, transcribed RNA sequence
+GCYC01031654.1_2     -          oskar_filtered.aligned.LOTUS_domain -            0.00068   24.5   3.6   0.00086   24.2   2.6   1.8   1   1   1   2   2   2   1 TSA: Pachypsylla celtidismamma breed wildtype C832382_7_0, transcribed RNA sequence
+GCYC01041119.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.008   21.1   0.1       9.5   11.2   0.0   2.8   1   1   2   3   3   3   2 TSA: Pachypsylla celtidismamma breed wildtype C884282_6_0, transcribed RNA sequence
+GCYC01067802.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.021   19.8   6.7   1.9e+02    7.0   0.2   4.6   1   1   5   6   6   6   0 TSA: Pachypsylla celtidismamma breed wildtype s31532_L_56941_0_14_8_LINEAR, transcribed RNA sequence
+GCYC01010615.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.056   18.4   1.4       1.8   13.5   0.6   2.5   1   1   2   3   3   3   0 TSA: Pachypsylla celtidismamma breed wildtype C738968_5_0, transcribed RNA sequence
+GCYC01075628.1_3     -          oskar_filtered.aligned.LOTUS_domain -              0.071   18.1   0.0        62    8.6   0.0   2.8   2   1   0   2   2   2   0 TSA: Pachypsylla celtidismamma breed wildtype s38579_L_93233_0_7_2_LINEAR, transcribed RNA sequence
+GCYC01031818.1_2     -          oskar_filtered.aligned.LOTUS_domain -              0.082   17.8   1.8      0.11   17.4   1.8   1.3   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C833170_2_0, transcribed RNA sequence
+GCYC01024457.1_3     -          oskar_filtered.aligned.LOTUS_domain -               0.19   16.7   0.0      0.26   16.3   0.0   1.2   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C798986_5_0, transcribed RNA sequence
+GCYC01027046.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.3   14.0   0.2       1.5   13.8   0.2   1.1   1   0   0   1   1   1   0 TSA: Pachypsylla celtidismamma breed wildtype C810784_2_0, transcribed RNA sequence
+GCYC01049454.1_5     -          oskar_filtered.aligned.LOTUS_domain -                1.4   13.9   0.3   2.4e+02    6.7   0.0   2.8   1   1   1   2   2   2   0 TSA: Pachypsylla celtidismamma breed wildtype s15007_L_17235_0_8_0_BUBBLE, transcribed RNA sequence
+GCYC01045231.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.3   13.2   1.4   2.8e+02    6.5   0.2   2.3   1   1   1   2   2   2   0 TSA: Pachypsylla celtidismamma breed wildtype s11205_L_11757_1_37_0_COMPLEX, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYC01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCYC01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCYC01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 13:07:34 2019
+# [ok]

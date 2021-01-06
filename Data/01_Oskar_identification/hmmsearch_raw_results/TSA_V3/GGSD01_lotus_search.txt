@@ -1,0 +1,29 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GGSD01027234.1_4     -          oskar_filtered.aligned.LOTUS_domain -            2.7e-23   87.5   0.0   5.9e-23   86.4   0.0   1.6   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_19468_c0_g1_i1 transcribed RNA sequence
+GGSD01126908.1_6     -          oskar_filtered.aligned.LOTUS_domain -            8.3e-21   79.5   0.0   2.4e-20   78.0   0.0   1.8   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_82018_c0_g2_i1 transcribed RNA sequence
+GGSD01126909.1_4     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-20   79.0   0.0   3.4e-20   77.5   0.0   1.8   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_82018_c0_g2_i2 transcribed RNA sequence
+GGSD01054959.1_5     -          oskar_filtered.aligned.LOTUS_domain -            8.5e-15   60.2   0.3   1.5e-07   37.0   0.0   4.8   5   0   0   5   5   5   3 TSA: Gryllus veletis Gvel_36736_c0_g1_i1 transcribed RNA sequence
+GGSD01057814.1_5     -          oskar_filtered.aligned.LOTUS_domain -            1.2e-13   56.6   0.0   3.1e-13   55.2   0.0   1.7   1   0   0   1   1   1   1 TSA: Gryllus veletis Gvel_38493_c0_g1_i1 transcribed RNA sequence
+GGSD01086280.1_4     -          oskar_filtered.aligned.LOTUS_domain -            0.00014   27.4   0.0        27   10.4   0.0   5.0   2   2   3   5   5   5   1 TSA: Gryllus veletis Gvel_56458_c0_g1_i1 transcribed RNA sequence
+GGSD01086281.1_4     -          oskar_filtered.aligned.LOTUS_domain -            0.00031   26.3   0.0        33   10.2   0.0   4.9   2   2   3   5   5   5   1 TSA: Gryllus veletis Gvel_56458_c0_g1_i2 transcribed RNA sequence
+GGSD01119512.1_4     -          oskar_filtered.aligned.LOTUS_domain -              0.063   18.9   0.7        50    9.6   0.0   3.2   2   1   2   4   4   4   0 TSA: Gryllus veletis Gvel_78328_c0_g1_i1 transcribed RNA sequence
+GGSD01072143.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.2   17.3   0.6      0.34   16.5   0.1   1.6   2   0   0   2   2   2   0 TSA: Gryllus veletis Gvel_47996_c0_g1_i1 transcribed RNA sequence
+GGSD01072144.1_1     -          oskar_filtered.aligned.LOTUS_domain -                0.2   17.3   0.6      0.34   16.5   0.1   1.6   2   0   0   2   2   2   0 TSA: Gryllus veletis Gvel_47996_c0_g2_i1 transcribed RNA sequence
+GGSD01079447.1_6     -          oskar_filtered.aligned.LOTUS_domain -                1.1   14.9   0.3       1.4   14.6   0.3   1.3   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_52708_c0_g1_i1 transcribed RNA sequence
+GGSD01111598.1_3     -          oskar_filtered.aligned.LOTUS_domain -                2.6   13.7   0.0       3.3   13.4   0.0   1.2   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_72240_c0_g1_i1 transcribed RNA sequence
+GGSD01055039.1_1     -          oskar_filtered.aligned.LOTUS_domain -                  3   13.5   2.1        74    9.0   0.0   2.9   3   0   0   3   3   3   0 TSA: Gryllus veletis Gvel_36756_c4_g2_i5 transcribed RNA sequence
+GGSD01003302.1_4     -          oskar_filtered.aligned.LOTUS_domain -                3.5   13.3   0.1       3.7   13.2   0.1   1.1   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_3241_c0_g1_i1 transcribed RNA sequence
+GGSD01055043.1_1     -          oskar_filtered.aligned.LOTUS_domain -                3.8   13.2   1.9        69    9.1   0.0   2.5   2   0   0   2   2   2   0 TSA: Gryllus veletis Gvel_36756_c4_g2_i9 transcribed RNA sequence
+GGSD01019770.1_3     -          oskar_filtered.aligned.LOTUS_domain -                  5   12.8   0.0       8.3   12.1   0.0   1.3   1   0   0   1   1   1   0 TSA: Gryllus veletis Gvel_13790_c0_g1_i1 transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGSD01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GGSD01_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/V3/LOTUS_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GGSD01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:48:59 2019
+# [ok]

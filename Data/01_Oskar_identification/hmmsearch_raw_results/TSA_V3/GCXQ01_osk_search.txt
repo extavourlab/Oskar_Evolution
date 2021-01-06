@@ -1,0 +1,16 @@
+#                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCXQ01007541.1_4     -          oskar_filtered.aligned.OSK_domain -            1.3e-08   38.6   0.0   1.4e-08   38.5   0.0   1.0   1   0   0   1   1   1   1 TSA: Macrohomotoma gladiata breed wildtype C158691_2_0, transcribed RNA sequence
+GCXQ01003541.1_2     -          oskar_filtered.aligned.OSK_domain -            0.00022   24.8   0.0   0.00025   24.6   0.0   1.0   1   0   0   1   1   1   1 TSA: Macrohomotoma gladiata breed wildtype C145523_3_0, transcribed RNA sequence
+GCXQ01035121.1_2     -          oskar_filtered.aligned.OSK_domain -                  8    9.9   4.8        73    6.8   4.8   2.1   1   1   0   1   1   1   0 TSA: Macrohomotoma gladiata breed wildtype s13810_L_44382_0_4_6_FORK, transcribed RNA sequence
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm
+# Target file:     /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXQ01.1.fasta
+# Option settings: hmmsearch --tblout /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_RESULT/GCXQ01_osk_search.txt --cpu 8 ../Data/Oskar_hmm/V3/OSK_CONSENSUS.hmm /media/savvy/DATA2/savvy/EXTAVOUR/SOURCES/TSA/TSA_PROTEIN/translated_GCXQ01.1.fasta 
+# Current dir:     /media/savvy/DATA2/savvy/EXTAVOUR/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Nov 25 12:54:08 2019
+# [ok]

@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_011700631.1       -          LOTUS_CONSENSUS      -            1.3e-26   93.1   0.0   3.3e-26   91.9   0.0   1.7   1   0   0   1   1   1   1 PREDICTED: uncharacterized protein LOC105457584 [Wasmannia auropunctata]
+XP_011708063.1       -          LOTUS_CONSENSUS      -              5e-23   81.7   0.2   1.3e-19   70.8   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 [Wasmannia auropunctata]
+XP_011708065.1       -          LOTUS_CONSENSUS      -              5e-23   81.7   0.2   1.3e-19   70.8   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 [Wasmannia auropunctata]
+XP_011708066.1       -          LOTUS_CONSENSUS      -              5e-23   81.7   0.2   1.3e-19   70.8   0.0   3.4   3   0   0   3   3   3   1 PREDICTED: tudor domain-containing protein 7 [Wasmannia auropunctata]
+XP_011697408.1       -          LOTUS_CONSENSUS      -            4.2e-15   56.3   1.8   1.2e-10   42.0   0.1   3.4   2   1   0   2   2   2   2 PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC105455638 [Wasmannia auropunctata]
+XP_011688040.1       -          LOTUS_CONSENSUS      -            2.6e-14   53.7   2.0     2e-10   41.3   0.0   4.5   4   0   0   4   4   4   2 PREDICTED: tudor domain-containing protein 5-like isoform X3 [Wasmannia auropunctata]
+XP_011688036.1       -          LOTUS_CONSENSUS      -              1e-13   51.8   0.2   2.5e-10   40.9   0.0   3.4   3   0   0   3   3   2   2 PREDICTED: uncharacterized protein LOC105450087 isoform X1 [Wasmannia auropunctata]
+XP_011688037.1       -          LOTUS_CONSENSUS      -              1e-13   51.8   0.2   2.5e-10   40.9   0.0   3.4   3   0   0   3   3   2   2 PREDICTED: uncharacterized protein LOC105450087 isoform X1 [Wasmannia auropunctata]
+XP_011707522.1       -          LOTUS_CONSENSUS      -             0.0015   19.2   0.0        11    6.8   0.0   4.7   3   2   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 isoform X5 [Wasmannia auropunctata]
+XP_011707523.1       -          LOTUS_CONSENSUS      -             0.0015   19.2   0.0        11    6.8   0.0   4.7   3   2   1   4   4   4   1 PREDICTED: meiosis arrest female protein 1 isoform X5 [Wasmannia auropunctata]
+XP_011707521.1       -          LOTUS_CONSENSUS      -             0.0026   18.5   0.0        13    6.6   0.0   4.5   3   2   1   4   4   4   0 PREDICTED: meiosis arrest female protein 1 homolog isoform X4 [Wasmannia auropunctata]
+XP_011707520.1       -          LOTUS_CONSENSUS      -              0.003   18.3   0.0        13    6.6   0.0   4.5   3   2   1   4   4   4   0 PREDICTED: meiosis arrest female protein 1 isoform X3 [Wasmannia auropunctata]
+XP_011707517.1       -          LOTUS_CONSENSUS      -             0.0038   17.9   0.0        15    6.4   0.0   4.6   3   2   1   4   4   4   0 PREDICTED: meiosis arrest female protein 1 isoform X2 [Wasmannia auropunctata]
+XP_011707515.1       -          LOTUS_CONSENSUS      -             0.0039   17.9   0.0        15    6.4   0.0   4.6   3   2   1   4   4   4   0 PREDICTED: meiosis arrest female protein 1 isoform X1 [Wasmannia auropunctata]
+XP_011707516.1       -          LOTUS_CONSENSUS      -             0.0039   17.9   0.0        15    6.4   0.0   4.6   3   2   1   4   4   4   0 PREDICTED: meiosis arrest female protein 1 isoform X1 [Wasmannia auropunctata]
+XP_011692466.1       -          LOTUS_CONSENSUS      -                1.3    9.8   4.0       2.9    8.7   0.1   3.1   3   0   0   3   3   3   0 PREDICTED: uncharacterized protein LOC105452772 [Wasmannia auropunctata]
+XP_011692467.1       -          LOTUS_CONSENSUS      -                1.3    9.8   4.0       2.9    8.7   0.1   3.1   3   0   0   3   3   3   0 PREDICTED: uncharacterized protein LOC105452772 [Wasmannia auropunctata]
+XP_011692468.1       -          LOTUS_CONSENSUS      -                1.3    9.8   4.0       2.9    8.7   0.1   3.1   3   0   0   3   3   3   0 PREDICTED: uncharacterized protein LOC105452772 [Wasmannia auropunctata]
+XP_011692469.1       -          LOTUS_CONSENSUS      -                1.3    9.8   4.0       2.9    8.7   0.1   3.1   3   0   0   3   3   3   0 PREDICTED: uncharacterized protein LOC105452772 [Wasmannia auropunctata]
+XP_011703383.1       -          LOTUS_CONSENSUS      -                5.7    7.8   7.0        50    4.7   7.0   2.2   1   1   0   1   1   1   0 PREDICTED: probable oligoribonuclease isoform X1 [Wasmannia auropunctata]
+XP_011703384.1       -          LOTUS_CONSENSUS      -                5.9    7.7   7.6        55    4.6   7.6   2.2   1   1   0   1   1   1   0 PREDICTED: probable oligoribonuclease isoform X2 [Wasmannia auropunctata]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm
+# Target file:     /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000956235.1_wasmannia.A_1.0_protein.faa
+# Option settings: /home/lblondel/Software/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --tblout /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_RESULT/GCF_000956235.1_lotus_search.txt --cpu 8 ../Data/Oskar_hmm/LOTUS_CONSENSUS.hmm /media/lblondel/5D1FA0DA2BE76E76/savy/SOURCES/GCF_PROTEIN/GCF_000956235.1_wasmannia.A_1.0_protein.faa 
+# Current dir:     /home/savy/Oskar_Orthologs/01_Oskar_identification
+# Date:            Mon Oct 14 20:17:48 2019
+# [ok]
