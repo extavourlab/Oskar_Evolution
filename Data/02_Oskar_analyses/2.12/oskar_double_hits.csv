@@ -1,0 +1,5 @@
+bioproject,tax_id,species,order_name,family_name,combined_brain,combined_germline,tsa_ids
+PRJNA236239,7159,Aedes aegypti,Diptera,Culicidae,19,7,GFNA00000000.1
+PRJNA240197,139649,Teleopsis dalmanni,Diptera,Diopsidae,2,1,GBBP00000000.1
+PRJNA282469,115081,Megalopta genalis,Hymenoptera,Halictidae,1,1,GELL00000000.1
+PRJNA81039,7130,Manduca sexta,Lepidoptera,Sphingidae,11,12,GETI00000000.1

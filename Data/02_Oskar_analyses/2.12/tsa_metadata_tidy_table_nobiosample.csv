@@ -1,0 +1,37 @@
+tsa_id,tax_id,species,family_id,family_name,order_id,order_name,bioproject,biosample,TSA
+GAHY00000000.1,13249,Rhodnius prolixus,27479.0,Reduviidae,7524,Hemiptera,PRJNA191820,na,GAHY
+GANM00000000.1,108931,Nilaparvata lugens,33362.0,Delphacidae,7524,Hemiptera,PRJNA214044,na,GANM
+GARF00000000.1,154003,Chrysomela populi,27439.0,Chrysomelidae,7041,Coleoptera,PRJNA212154,na,GARF
+GALP00000000.1,7229,Drosophila miranda,7214.0,Drosophilidae,7147,Diptera,PRJNA208862,na,GALP
+GAAP00000000.1,27457,Bactrocera dorsalis,7211.0,Tephritidae,7147,Diptera,PRJNA175481,na,GAAP
+GADL00000000.1,252295,Carposina sasakii,252293.0,Carposinidae,7088,Lepidoptera,PRJNA182707,na,GADL
+GADK00000000.1,192188,Grapholita molesta,7139.0,Tortricidae,7088,Lepidoptera,PRJNA182706,na,GADK
+GADJ00000000.1,934274,Grapholita dimorpha,7139.0,Tortricidae,7088,Lepidoptera,PRJNA182494,na,GADJ
+GADM00000000.1,195057,Drosophila malerkotliana malerkotliana,7214.0,Drosophilidae,7147,Diptera,PRJNA172931,na,GADM
+GADP00000000.1,42063,Drosophila ercepeae,7214.0,Drosophilidae,7147,Diptera,PRJNA172931,na,GADP
+GADQ00000000.1,296644,Drosophila malerkotliana pallens,7214.0,Drosophilidae,7147,Diptera,PRJNA172931,na,GADQ
+GADS00000000.1,300357,Drosophila merina,7214.0,Drosophilidae,7147,Diptera,PRJNA172931,na,GADS
+GAEJ00000000.1,65965,Drosophila pseudoananassae pseudoananassae,7214.0,Drosophilidae,7147,Diptera,PRJNA172931,na,GAEJ
+GADR00000000.1,296643,Drosophila pseudoananassae nigrens,7214.0,Drosophilidae,7147,Diptera,PRJNA172931,na,GADR
+GAAF00000000.1,13131,Macrosiphum euphorbiae,27482.0,Aphididae,7524,Hemiptera,PRJNA173897,na,GAAF
+GAOR00000000.1,7107,Spodoptera exigua,7100.0,Noctuidae,7088,Lepidoptera,PRJNA219058,na,GAOR
+GAOQ00000000.1,7107,Spodoptera exigua,7100.0,Noctuidae,7088,Lepidoptera,PRJNA219058,na,GAOQ
+GANH00000000.1,69319,Microplitis demolitor,7402.0,Braconidae,7399,Hymenoptera,PRJNA214515,na,GANH
+GAFU00000000.1,7107,Spodoptera exigua,7100.0,Noctuidae,7088,Lepidoptera,PRJNA188757,na,GAFU
+GAGF00000000.1,417485,Chrysopa pallens,7520.0,Chrysopidae,7516,Neuroptera,PRJNA186574,na,GAGF
+GAIX00000000.1,116150,Pararge aegeria,33415.0,Nymphalidae,7088,Lepidoptera,PRJNA192659,na,GAIX
+GAJC00000000.1,63436,Leptopilina heterotoma,44353.0,Figitidae,7399,Hymenoptera,PRJNA202370,na,GAJC
+GAJA00000000.1,63433,Leptopilina boulardi,44353.0,Figitidae,7399,Hymenoptera,PRJNA202369,na,GAJA
+GAHQ00000000.1,99575,Ostrinia scapulalis,268499.0,Crambidae,7088,Lepidoptera,PRJNA192419,na,GAHQ
+GACR00000000.1,55986,Ips typographus,7042.0,Curculionidae,7041,Coleoptera,PRJNA178930,na,GACR
+GAHN00000000.1,7274,Drosophila serrata,7214.0,Drosophilidae,7147,Diptera,PRJNA193659,na,GAHN
+GAHP00000000.1,29057,Ostrinia nubilalis,268499.0,Crambidae,7088,Lepidoptera,PRJNA190899,na,GAHP
+GAFX00000000.1,77166,Dendroctonus ponderosae,7042.0,Curculionidae,7041,Coleoptera,PRJNA189795,na,GAFX
+GAFW00000000.1,77166,Dendroctonus ponderosae,7042.0,Curculionidae,7041,Coleoptera,PRJNA189792,na,GAFW
+GAFI00000000.1,77161,Dendroctonus frontalis,7042.0,Curculionidae,7041,Coleoptera,PRJNA187208,na,GAFI
+GAEO00000000.1,49927,Pissodes strobi,7042.0,Curculionidae,7041,Coleoptera,PRJNA186387,na,GAEO
+GAFR00000000.1,91411,Polistes canadensis,7438.0,Vespidae,7399,Hymenoptera,PRJNA188273,na,GAFR
+GAAK00000000.1,315563,Belgica antarctica,7149.0,Chironomidae,7147,Diptera,PRJNA174315,na,GAAK
+GAAB00000000.1,224129,Agrilus planipennis,50527.0,Buprestidae,7041,Coleoptera,PRJNA173782,na,GAAB
+GABS00000000.1,7370,Musca domestica,7366.0,Muscidae,7147,Diptera,PRJNA178154,na,GABS
+GAAU00000000.1,56364,Agrotis ipsilon,7100.0,Noctuidae,7088,Lepidoptera,PRJNA175739,na,GAAU
