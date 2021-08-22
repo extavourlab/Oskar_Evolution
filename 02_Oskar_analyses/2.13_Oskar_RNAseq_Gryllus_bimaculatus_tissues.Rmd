@@ -124,7 +124,7 @@ pwd; hostname; date
 ## Load Metadata
 
 ```{r message=FALSE, warning=FALSE}
-Metadata_raw<-read_csv(file = "data/Metadata_NCBI.csv")
+Metadata_raw<-read_csv(file = "../Data/02_Oskar_analyses/2.13/Metadata_NCBI.csv")
 
 Metadata<-Metadata_raw %>%
   mutate(Name= str_replace(LibraryName, pattern=".R1.fastq.gz", replacement="") ) %>% 
@@ -143,7 +143,7 @@ Metadata<-Metadata_raw %>%
 - TPMs
 
 ```{r message=FALSE, warning=FALSE}
-TPM_table<-read_tsv(file = "results/RSEM_TPMs.tsv")
+TPM_table<-read_tsv(file = "../Data/02_Oskar_analyses/2.13/RSEM_TPMs.tsv")
 ```
 
 ```{r}
