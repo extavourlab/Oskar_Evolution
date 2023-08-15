@@ -7,7 +7,7 @@
 
 <br>
 
-## Resources 
+## 1. Resources 
 ### Genome and transcriptome sources 
 Available in `./Data/01_Oskar_identification/2019`
 - genome_insect_database.csv
@@ -21,7 +21,7 @@ Available in `./Data/Oskar_hmm/V4`
 
 ____________
 
-## Listing and summaries of the provided scripts
+## 2. Listing and summaries of the provided scripts
 
 ### 01_Oskar_identification
 #### Genomes and transcriptomes preprocessing
@@ -234,7 +234,7 @@ _Guidelines:_
           
 ____________
 
-## Software and libraries
+## 3. Software and libraries
 
 | Type     | Name           | Version  | Source                                                          |
 |----------|----------------|----------|-----------------------------------------------------------------|
@@ -264,6 +264,6 @@ ____________
 
 <br>
 
-## Code Maintenance
+## 4. Code Maintenance
 - Leo Blondel (@Xqua)
 - Savandara Besse (@ladyson1806)
