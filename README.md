@@ -1,6 +1,7 @@
 # Evolutionary history and Functional inference of the Oskar protein 
-- _Leo Blondel, Savandara Besse, Emily L Rivard, Guillem Ylla, Cassandra G Extavour_
-- Harvard University (2016-2020)
+- __Harvard University (2016-2020)__
+- Leo Blondel, Savandara Besse, Emily Rivard, Guillem Ylla, Cassandra Extavour
+
 
 ## Now published in Molecular, Biology and Evolution (2021)
 > Leo Blondel, Savandara Besse, Emily L Rivard, Guillem Ylla, Cassandra G Extavour, Evolution of a Cytoplasmic Determinant: Evidence for the Biochemical Basis of Functional Evolution of the Novel Germ Line Regulator Oskar, Molecular Biology and Evolution, Volume 38, Issue 12, December 2021, Pages 5491–5513, https://doi.org/10.1093/molbev/msab284
