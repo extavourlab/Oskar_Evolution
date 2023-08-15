@@ -1,9 +1,12 @@
 # Evolutionary history and Functional inference of the Oskar protein 
-Leo Blondel, Savandara Besse & Cassandra Extavour
+_Leo Blondel, Savandara Besse, Emily L Rivard, Guillem Ylla, Cassandra G Extavour_
 
 Harvard University (2020)
-____________
-____________
+
+## Now published in Molecular, Biology and Evolution (2021)
+> Leo Blondel, Savandara Besse, Emily L Rivard, Guillem Ylla, Cassandra G Extavour, Evolution of a Cytoplasmic Determinant: Evidence for the Biochemical Basis of Functional Evolution of the Novel Germ Line Regulator Oskar, Molecular Biology and Evolution, Volume 38, Issue 12, December 2021, Pages 5491–5513, https://doi.org/10.1093/molbev/msab284
+
+<br>
 
 ## Resources 
 ### Genome and transcriptome sources 
@@ -16,7 +19,7 @@ Available in `./Data/Oskar_hmm/V4`
 - OSKAR_CONSENSUS.hmm
 - LOTUS_CONSENSUS.hmm
 - OSK_CONSENSUS.hmm
-____________
+
 ____________
 
 ## Listing and summaries of the provided scripts
@@ -65,7 +68,8 @@ _Generated outputs:_
     - oskar_filtered.aligned.OSK_domain.fasta
 
 Generates Table S1. 
-____________
+
+<br>
 
 ### 02_Oskar_analyses
 #### Correlative analysis of assembly quality and absence of oskar
@@ -148,7 +152,7 @@ Generates Figure 3 where Oskar identification statistics across insect orders we
 
 Computes the overall alignment occupancy in the Dipteran Oskar alignment (trimmed for a minimum of 10% overall occupancy for any position). Groups the results by Dipteran families and generates Figure S7. 
  
-____________
+<br>
 
 ### 03_Oskar_score_generation
 
@@ -194,7 +198,7 @@ Generates the plots shown in Figure S1.
 
 Generates all weblogos as shown in Figure 6 and Figure 7 and Figure S8. 
 
-____________
+<br>
 
 ### 04_Oskar_visualization
 #### Visualization of conservation scores
@@ -228,8 +232,7 @@ _Guidelines:_
         - For OSK --> OSK, core, rna-binding
         - For LOTUSVASA --> LOTUS, dimerization-interface, vasa-interface
         - LOTUSRNA function to generate RNA / LOTUSVASA alignment
-
-____________
+          
 ____________
 
 ## Software and libraries
@@ -259,3 +262,9 @@ ____________
 | Library  | matplotlib     | 3.0.0    | https://matplotlib.org/                                         |
 | Library  | scipy          | 1.1.0    | https://www.scipy.org/                                          |
 | Library  | progressbar    | 3.38.0   | https://github.com/niltonvolpato/python-progressbar/            |
+
+<br>
+
+## Code Maintenance
+- Leo Blondel (@Xqua)
+- Savandara Besse (@ladyson1806)
