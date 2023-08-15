@@ -19,7 +19,7 @@ Available in `./Data/Oskar_hmm/V4`
 - LOTUS_CONSENSUS.hmm
 - OSK_CONSENSUS.hmm
 
-____________
+<br>
 
 ## 2. Listing and summaries of the provided scripts
 
@@ -232,7 +232,7 @@ _Guidelines:_
         - For LOTUSVASA --> LOTUS, dimerization-interface, vasa-interface
         - LOTUSRNA function to generate RNA / LOTUSVASA alignment
           
-____________
+<br>
 
 ## 3. Software and libraries
 
