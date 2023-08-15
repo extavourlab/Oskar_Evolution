@@ -1,5 +1,5 @@
 # Evolutionary history and Functional inference of the Oskar protein 
-- __Harvard University (2016-2020)__
+## __Harvard University (2016-2020)__
 - Leo Blondel, Savandara Besse, Emily Rivard, Guillem Ylla, Cassandra Extavour
   - Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA (LB, SB, ER, CE)
   - Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA (GY, CE)
