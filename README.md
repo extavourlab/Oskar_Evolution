@@ -6,7 +6,8 @@
   - Department of Biochemistry and Molecular Medicine, Université de Montréal, Montréal, QC, Canada (SB)
   - Laboratory for Bioinformatics and Genome Biology, Jagiellonian University, Krakow, Poland (GY)
 
-  
+<br>
+
 ## Now published in Molecular, Biology and Evolution (2021)
 > Leo Blondel, Savandara Besse, Emily L Rivard, Guillem Ylla, Cassandra G Extavour, Evolution of a Cytoplasmic Determinant: Evidence for the Biochemical Basis of Functional Evolution of the Novel Germ Line Regulator Oskar, Molecular Biology and Evolution, Volume 38, Issue 12, December 2021, Pages 5491–5513, https://doi.org/10.1093/molbev/msab284
 
